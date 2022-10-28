@@ -1,6 +1,6 @@
 use std::cell::{Cell, RefCell};
 use std::collections::HashSet;
-use std::io::{stdout, Write};
+use std::io::{stderr, Write};
 use std::iter::{empty, repeat};
 
 use crate::{Grid, Target, WordList};
@@ -65,7 +65,7 @@ impl<'wl> Search<'wl> {
     }
 
     fn print_progress(&self) {
-        let mut stdout = stdout().lock();
+        let mut stderr = stderr().lock();
 
         let progress = self.used.borrow().len();
         let remaining = self.target_count - progress;
@@ -73,7 +73,9 @@ impl<'wl> Search<'wl> {
             .chain(repeat('|').take(progress))
             .chain(repeat(' ').take(remaining))
             .collect::<String>();
-        let _ = write!(stdout, "\r[{}] {:.0}%", string, self.percent_complete.get() * 100.0);
-        let _ = stdout.flush();
+        let percent = self.percent_complete.get() * 100.0;
+
+        let _ = write!(stderr, "\r[{}] {:.0}%", string, percent);
+        let _ = stderr.flush();
     }
 }

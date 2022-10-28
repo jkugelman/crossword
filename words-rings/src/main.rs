@@ -36,23 +36,22 @@ fn main() -> io::Result<()> {
     let grid = Grid::blank(size);
 
     let mut search = Search::load(&word_list, grid);
-    let targets = eight(size, thickness);
+    let targets = window_pane(size, thickness);
     search.search_for(&targets);
 
     Ok(())
 }
 
-/// Generates a list of targets in a series of concentric rings moving inwards.
 #[rustfmt::skip]
-pub fn rings(size: usize, ring_count: usize) -> Vec<Target> {
-    assert!(ring_count <= size / 2);
+pub fn rings(size: usize, thickness: usize) -> Vec<Target> {
+    assert!(thickness <= size / 2);
 
     let t = 0;
     let l = 0;
     let r = size - 1;
     let b = size - 1;
 
-    (0..ring_count)
+    (0..thickness)
         .flat_map(|ring| {
             [
                 Target { loc: Location { row: t + ring, col: l }, dir: Direction::East, len: size },
@@ -64,14 +63,13 @@ pub fn rings(size: usize, ring_count: usize) -> Vec<Target> {
         .collect()
 }
 
-/// Generates a list of targets in a series of concentric rings moving inwards.
 pub fn eight(size: usize, thickness: usize) -> Vec<Target> {
     assert!(thickness <= size / 2);
 
-    let mut rings = rings(size, thickness);
+    let mut targets = rings(size, thickness);
 
     for i in 0..thickness {
-        rings.push(Target {
+        targets.push(Target {
             loc: Location {
                 row: size / 2 - thickness / 2 + i,
                 col: 0,
@@ -81,5 +79,24 @@ pub fn eight(size: usize, thickness: usize) -> Vec<Target> {
         });
     }
 
-    rings
+    targets
+}
+
+pub fn window_pane(size: usize, thickness: usize) -> Vec<Target> {
+    assert!(thickness <= size / 2);
+
+    let mut targets = eight(size, thickness);
+
+    for i in 0..thickness {
+        targets.push(Target {
+            loc: Location {
+                row: 0,
+                col: size / 2 - thickness / 2 + i,
+            },
+            dir: Direction::South,
+            len: size,
+        });
+    }
+
+    targets
 }
