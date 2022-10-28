@@ -88,14 +88,12 @@ impl WordList {
                 continue;
             };
 
-            let letter_matches = self.find_letter_at_pos(pos, square.letter);
-
             match &mut fits {
                 None => {
-                    fits = Some(letter_matches);
+                    fits = Some(self.find_letter_at_pos(pos, square.letter));
                 }
                 Some(fits) => {
-                    *fits = fits.intersection(&letter_matches).copied().collect();
+                    fits.retain(|word| word.as_bytes()[pos] as char == square.letter);
                 }
             }
         }
