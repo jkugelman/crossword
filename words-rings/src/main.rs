@@ -26,17 +26,17 @@ fn main() -> io::Result<()> {
         .expect("missing size")
         .parse::<usize>()
         .expect("bad size");
-    let ring_count = args
+    let thickness = args
         .next()
-        .expect("missing ring count")
+        .expect("missing thickness")
         .parse::<usize>()
-        .expect("bad ring count");
+        .expect("bad thickness");
 
     let word_list = WordList::load(word_list)?;
     let grid = Grid::blank(size);
 
-    let search = Search::load(&word_list, grid);
-    let targets = ring_targets(size, ring_count);
+    let mut search = Search::load(&word_list, grid);
+    let targets = eight(size, thickness);
     search.search_for(&targets);
 
     Ok(())
@@ -44,7 +44,7 @@ fn main() -> io::Result<()> {
 
 /// Generates a list of targets in a series of concentric rings moving inwards.
 #[rustfmt::skip]
-pub fn ring_targets(size: usize, ring_count: usize) -> Vec<Target> {
+pub fn rings(size: usize, ring_count: usize) -> Vec<Target> {
     assert!(ring_count <= size / 2);
 
     let t = 0;
@@ -62,4 +62,24 @@ pub fn ring_targets(size: usize, ring_count: usize) -> Vec<Target> {
             ]
         })
         .collect()
+}
+
+/// Generates a list of targets in a series of concentric rings moving inwards.
+pub fn eight(size: usize, thickness: usize) -> Vec<Target> {
+    assert!(thickness <= size / 2);
+
+    let mut rings = rings(size, thickness);
+
+    for i in 0..thickness {
+        rings.push(Target {
+            loc: Location {
+                row: size / 2 - thickness / 2 + i,
+                col: 0,
+            },
+            dir: Direction::East,
+            len: size,
+        });
+    }
+
+    rings
 }
