@@ -14,6 +14,7 @@ pub struct Search<'wl> {
     peak_count: usize,
     used: HashSet<&'wl str>,
     percent_complete: f64,
+    found_count: usize,
 }
 
 impl<'wl> Search<'wl> {
@@ -23,6 +24,7 @@ impl<'wl> Search<'wl> {
             peak_count: 0,
             used: HashSet::new(),
             percent_complete: 0.0,
+            found_count: 0,
         };
 
         let _hidden = hide_cursor();
@@ -36,6 +38,7 @@ impl<'wl> Search<'wl> {
             None => {
                 println!();
                 println!("{}", grid);
+                self.found_count += 1;
             }
 
             Some((&target, later_targets)) => {
@@ -71,14 +74,19 @@ impl<'wl> Search<'wl> {
         let progress = self.used.len();
         let peak = self.peak_count - progress;
         let remaining = self.target_count - self.peak_count;
-        let string = empty()
+        let progress_bar = empty()
             .chain(repeat('█').take(progress))
             .chain(repeat('░').take(peak))
             .chain(repeat(' ').take(remaining))
             .collect::<String>();
         let percent = self.percent_complete * 100.0;
+        let found = if self.found_count > 0 {
+            format!(" (found {})", self.found_count)
+        } else {
+            String::new()
+        };
 
-        let _ = write!(stderr, "\r[{}] {:.0}%", string, percent);
+        let _ = write!(stderr, "\r[{}] {:.0}%{}", progress_bar, percent, found);
         let _ = stderr.flush();
     }
 }
