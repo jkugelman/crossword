@@ -26,6 +26,7 @@ fn main() -> io::Result<()> {
         .expect("missing size")
         .parse::<usize>()
         .expect("bad size");
+    let pattern = args.next().expect("missing pattern");
     let thickness = args
         .next()
         .expect("missing thickness")
@@ -35,14 +36,18 @@ fn main() -> io::Result<()> {
     let word_list = WordList::load(word_list)?;
     let mut grid = Grid::blank(size);
 
-    let targets = window_pane(size, thickness);
+    let targets = match pattern.as_str() {
+        "ring" => ring(size, thickness),
+        "figure_eight" => figure_eight(size, thickness),
+        "window_pane" => window_pane(size, thickness),
+        _ => panic!("bad pattern, expected ring|figure_eight|window_pane")
+    };
     Search::search(&word_list, &mut grid, &targets);
 
     Ok(())
 }
 
-#[rustfmt::skip]
-pub fn rings(size: usize, thickness: usize) -> Vec<Target> {
+pub fn ring(size: usize, thickness: usize) -> Vec<Target> {
     assert!(thickness <= size / 2);
 
     let t = 0;
@@ -50,22 +55,25 @@ pub fn rings(size: usize, thickness: usize) -> Vec<Target> {
     let r = size - 1;
     let b = size - 1;
 
-    (0..thickness)
-        .flat_map(|ring| {
+    #[rustfmt::skip]
+    let targets = (0..thickness)
+        .flat_map(|i| {
             [
-                Target { loc: Location { row: t + ring, col: l }, dir: Direction::East, len: size },
-                Target { loc: Location { row: t, col: r - ring }, dir: Direction::South, len: size },
-                Target { loc: Location { row: b - ring, col: l }, dir: Direction::East, len: size },
-                Target { loc: Location { row: t, col: l + ring }, dir: Direction::South, len: size },
+                Target { loc: Location { row: t + i, col: l }, dir: Direction::East, len: size },
+                Target { loc: Location { row: t, col: r - i }, dir: Direction::South, len: size },
+                Target { loc: Location { row: b - i, col: l }, dir: Direction::East, len: size },
+                Target { loc: Location { row: t, col: l + i }, dir: Direction::South, len: size },
             ]
         })
-        .collect()
+        .collect();
+
+    targets
 }
 
-pub fn eight(size: usize, thickness: usize) -> Vec<Target> {
+pub fn figure_eight(size: usize, thickness: usize) -> Vec<Target> {
     assert!(thickness <= size / 2);
 
-    let mut targets = rings(size, thickness);
+    let mut targets = ring(size, thickness);
 
     for i in 0..thickness {
         targets.push(Target {
@@ -84,7 +92,7 @@ pub fn eight(size: usize, thickness: usize) -> Vec<Target> {
 pub fn window_pane(size: usize, thickness: usize) -> Vec<Target> {
     assert!(thickness <= size / 2);
 
-    let mut targets = eight(size, thickness);
+    let mut targets = figure_eight(size, thickness);
 
     for i in 0..thickness {
         targets.push(Target {

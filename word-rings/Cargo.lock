@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "words-rings"
+name = "word-rings"
 version = "0.1.0"
