@@ -94,6 +94,9 @@ impl WordList {
                 }
                 Some(fits) => {
                     fits.retain(|word| word.as_bytes()[pos] as char == square.letter);
+                    if fits.is_empty() {
+                        break;
+                    }
                 }
             }
         }

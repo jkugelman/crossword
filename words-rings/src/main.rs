@@ -15,8 +15,9 @@ pub use target::Target;
 pub use wordlist::WordList;
 
 use std::cell::RefCell;
-use std::{io, env};
+use std::collections::HashSet;
 use std::path::Path;
+use std::{env, io};
 
 #[derive(Debug, Clone)]
 struct RingSearch {
@@ -38,10 +39,11 @@ impl RingSearch {
 
     pub fn go(&self) {
         let rings = self.grid.borrow().ring_targets();
-        self.do_rings(&rings, 1);
+        let mut used = HashSet::new();
+        self.do_rings(&rings, &mut used, 1);
     }
 
-    fn do_rings(&self, rings: &[Vec<Target>], depth: usize) {
+    fn do_rings<'wl>(&'wl self, rings: &[Vec<Target>], used: &mut HashSet<&'wl str>, depth: usize) {
         let Some((ring, inner_rings)) = rings.split_first() else {
             return;
         };
@@ -49,34 +51,39 @@ impl RingSearch {
             return;
         };
 
-        self.do_target(target, later_targets, inner_rings, depth);
+        self.do_target(target, later_targets, inner_rings, used, depth);
     }
 
-    fn do_target(
-        &self,
+    fn do_target<'wl>(
+        &'wl self,
         target: Target,
         later_targets: &[Target],
         inner_rings: &[Vec<Target>],
+        used: &mut HashSet<&'wl str>,
         depth: usize,
     ) {
         let fits = self.word_list.find_fits(&self.grid.borrow(), target);
         for word in fits {
-            self.do_word(word, target, later_targets, inner_rings, depth);
+            self.do_word(word, target, later_targets, inner_rings, used, depth);
         }
     }
 
-    fn do_word(
-        &self,
-        word: &str,
+    fn do_word<'wl>(
+        &'wl self,
+        word: &'wl str,
         target: Target,
         later_targets: &[Target],
         inner_rings: &[Vec<Target>],
+        used: &mut HashSet<&'wl str>,
         depth: usize,
     ) {
+        if !used.insert(word) {
+            return;
+        }
         self.grid.borrow_mut().enter(word, target).unwrap();
 
         if let Some((&next_target, later_targets)) = later_targets.split_first() {
-            self.do_target(next_target, later_targets, inner_rings, depth);
+            self.do_target(next_target, later_targets, inner_rings, used, depth);
         } else {
             if depth >= self.min_depth {
                 if depth > self.min_depth {
@@ -88,10 +95,11 @@ impl RingSearch {
                 }
                 println!();
             }
-            self.do_rings(inner_rings, depth + 1);
+            self.do_rings(inner_rings, used, depth + 1);
         }
 
         self.grid.borrow_mut().erase(word, target).unwrap();
+        used.remove(word);
     }
 }
 
