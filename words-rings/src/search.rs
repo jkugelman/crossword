@@ -2,6 +2,10 @@ use std::cell::{Cell, RefCell};
 use std::collections::HashSet;
 use std::io::{stderr, Write};
 use std::iter::{empty, repeat};
+use std::process::exit;
+
+use crossterm::ExecutableCommand;
+use crossterm::cursor::{Hide, Show};
 
 use crate::{Grid, Target, WordList};
 
@@ -28,6 +32,8 @@ impl<'wl> Search<'wl> {
     }
 
     pub fn search_for(&mut self, targets: &[Target]) {
+        let _hidden = hide_cursor();
+
         self.target_count = targets.len();
         self.search(targets, 0);
         println!();
@@ -77,5 +83,23 @@ impl<'wl> Search<'wl> {
 
         let _ = write!(stderr, "\r[{}] {:.0}%", string, percent);
         let _ = stderr.flush();
+    }
+}
+
+struct HiddenCursor;
+
+fn hide_cursor() -> HiddenCursor {
+    let _ = ctrlc::set_handler(|| {
+        let _ = stderr().lock().execute(Show);
+        exit(1);
+    });
+
+    let _ = stderr().lock().execute(Hide);
+    HiddenCursor
+}
+
+impl Drop for HiddenCursor {
+    fn drop(&mut self) {
+        let _ = stderr().lock().execute(Show);
     }
 }

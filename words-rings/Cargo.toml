@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 array2d = "0.2.1"
+crossterm = "0.25.0"
+ctrlc = "3.2.3"
