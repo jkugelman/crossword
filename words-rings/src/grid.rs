@@ -3,7 +3,7 @@ use std::ops::{Deref, DerefMut};
 
 use array2d::Array2D;
 
-use crate::{Direction, Location, Square, Target};
+use crate::{Square, Target};
 
 /// The crossword grid. Keeps track of the letters in each square and how many overlapping words
 /// there are in each location.
@@ -25,10 +25,7 @@ impl Grid {
     /// Returns an iterator over the letters of a word and the squares they correspond with starting
     /// from the target location.
     pub fn squares(&self, target: Target) -> impl Iterator<Item = &Option<Square>> {
-        target
-            .locations()
-            .take_while(|&loc| self.is_in_bounds(loc))
-            .map(|loc| &self[loc])
+        target.locations().map(|loc| &self[loc])
     }
 
     /// Returns an iterator over the letters of a word and the squares they correspond with starting
@@ -99,52 +96,6 @@ impl Grid {
         } else {
             Err(())
         }
-    }
-
-    /// Checks if `loc` is in the bounds of this grid.
-    pub fn is_in_bounds(&self, loc: Location) -> bool {
-        loc.row < self.num_rows() && loc.col < self.num_columns()
-    }
-
-    /// Generates a list of targets in a series of concentric rings moving inwards.
-    pub fn ring_targets(&self) -> Vec<Vec<Target>> {
-        let t = 0;
-        let l = 0;
-        let r = self.size() - 1;
-        let b = self.size() - 1;
-
-        let mut txs = Vec::new();
-
-        for ring in 0..self.size() / 2 {
-            #[rustfmt::skip]
-            txs.push(vec![
-                Target { loc: Location { row: t + ring, col: l }, dir: Direction::East},
-                Target { loc: Location { row: t, col: r - ring }, dir: Direction::South},
-                Target { loc: Location { row: b - ring, col: l }, dir: Direction::East},
-                Target { loc: Location { row: t, col: l + ring }, dir: Direction::South},
-            ]);
-        }
-
-        if self.size() % 2 != 0 {
-            txs.push(vec![
-                Target {
-                    loc: Location {
-                        row: t + self.size() / 2,
-                        col: l,
-                    },
-                    dir: Direction::East,
-                },
-                Target {
-                    loc: Location {
-                        row: t,
-                        col: l + self.size() / 2,
-                    },
-                    dir: Direction::South,
-                },
-            ]);
-        }
-
-        txs
     }
 }
 
