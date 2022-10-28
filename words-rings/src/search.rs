@@ -1,69 +1,61 @@
-use std::cell::{Cell, RefCell};
 use std::collections::HashSet;
 use std::io::{stderr, Write};
 use std::iter::{empty, repeat};
 use std::process::exit;
 
-use crossterm::ExecutableCommand;
 use crossterm::cursor::{Hide, Show};
+use crossterm::ExecutableCommand;
 
 use crate::{Grid, Target, WordList};
 
-#[derive(Debug, Clone)]
+#[derive(Clone, Debug, Default)]
 pub struct Search<'wl> {
-    word_list: &'wl WordList,
-    grid: RefCell<Grid>,
-
     target_count: usize,
-    used: RefCell<HashSet<&'wl str>>,
-    percent_complete: Cell<f64>,
+    peak_count: usize,
+    used: HashSet<&'wl str>,
+    percent_complete: f64,
 }
 
 impl<'wl> Search<'wl> {
-    pub fn load(word_list: &'wl WordList, grid: Grid) -> Self {
-        Self {
-            word_list,
-            grid: RefCell::new(grid),
+    pub fn search(word_list: &'wl WordList, grid: &mut Grid, targets: &[Target]) {
+        let mut search = Self {
+            target_count: targets.len(),
+            peak_count: 0,
+            used: HashSet::new(),
+            percent_complete: 0.0,
+        };
 
-            target_count: 0,
-            used: RefCell::new(HashSet::new()),
-            percent_complete: Cell::default(),
-        }
-    }
-
-    pub fn search_for(&mut self, targets: &[Target]) {
         let _hidden = hide_cursor();
-
-        self.target_count = targets.len();
-        self.search(targets, 0);
+        search.search_r(word_list, grid, targets);
         println!();
     }
 
-    fn search(&self, targets: &[Target], depth: usize) {
+    fn search_r(&mut self, word_list: &'wl WordList, grid: &mut Grid, targets: &[Target]) {
         match targets.split_first() {
             // Out of targets. Print the solution.
             None => {
                 println!();
-                println!("{}", self.grid.borrow());
+                println!("{}", grid);
             }
 
             Some((&target, later_targets)) => {
-                let fits = self.word_list.find_fits(&self.grid.borrow(), target);
+                let fits = word_list.find_fits(grid, target);
                 for (i, word) in fits.iter().enumerate() {
-                    if depth == 0 {
-                        self.percent_complete.set(i as f64 / fits.len() as f64);
+                    if self.used.is_empty() {
+                        self.percent_complete = i as f64 / fits.len() as f64;
                     }
 
-                    if !self.used.borrow_mut().insert(word) {
+                    if !self.used.insert(word) {
                         return;
                     }
-                    self.grid.borrow_mut().enter(word, target).unwrap();
+                    self.peak_count = self.peak_count.max(self.used.len());
+                    grid.enter(word, target).unwrap();
                     self.print_progress();
 
-                    self.search(later_targets, depth + 1);
+                    self.search_r(word_list, grid, later_targets);
 
-                    self.grid.borrow_mut().erase(word, target).unwrap();
-                    self.used.borrow_mut().remove(word);
+                    grid.erase(word, target).unwrap();
+                    self.used.remove(word);
                     self.print_progress();
                 }
             }
@@ -73,13 +65,18 @@ impl<'wl> Search<'wl> {
     fn print_progress(&self) {
         let mut stderr = stderr().lock();
 
-        let progress = self.used.borrow().len();
-        let remaining = self.target_count - progress;
+        assert!(self.used.len() <= self.peak_count);
+        assert!(self.peak_count <= self.target_count);
+
+        let progress = self.used.len();
+        let peak = self.peak_count - progress;
+        let remaining = self.target_count - self.peak_count;
         let string = empty()
-            .chain(repeat('|').take(progress))
+            .chain(repeat('█').take(progress))
+            .chain(repeat('░').take(peak))
             .chain(repeat(' ').take(remaining))
             .collect::<String>();
-        let percent = self.percent_complete.get() * 100.0;
+        let percent = self.percent_complete * 100.0;
 
         let _ = write!(stderr, "\r[{}] {:.0}%", string, percent);
         let _ = stderr.flush();

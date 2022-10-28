@@ -33,11 +33,10 @@ fn main() -> io::Result<()> {
         .expect("bad thickness");
 
     let word_list = WordList::load(word_list)?;
-    let grid = Grid::blank(size);
+    let mut grid = Grid::blank(size);
 
-    let mut search = Search::load(&word_list, grid);
     let targets = window_pane(size, thickness);
-    search.search_for(&targets);
+    Search::search(&word_list, &mut grid, &targets);
 
     Ok(())
 }
