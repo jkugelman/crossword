@@ -29,7 +29,7 @@ impl<'wl> Search<'wl> {
 
         let _hidden = hide_cursor();
         search.search_r(word_list, grid, targets);
-        println!();
+        eprintln!();
     }
 
     fn search_r(&mut self, word_list: &'wl WordList, grid: &mut Grid, targets: &[Target]) {
