@@ -1,0 +1,16 @@
+#!/bin/bash
+
+words=$(cut -f2 | sed '/^[0-9]*$/d' | grep -v Word | tr '[[:lower:]]' '[[:upper:]]')
+count=0
+
+for letter in {A..Z}; do
+    echo "$letter: $(grep "$letter" <<< "$words" | tr '\n' '/' | sed 's|/$||')"
+    grep -q "$letter" <<< "$words" && ((count += 1))
+done
+
+echo
+if ((count == 26)); then
+    echo "Count: 🌟$count🌟"
+else
+    echo "Count: $count"
+fi
