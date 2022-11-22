@@ -1,5 +1,7 @@
 #!/bin/bash
 
+exec < "${1:-pangram?.txt}"
+
 words=$(cut -f2 | sed '/^[0-9]*$/d' | grep -v Word | tr '[[:lower:]]' '[[:upper:]]')
 count=0
 
