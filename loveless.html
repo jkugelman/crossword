@@ -32,9 +32,9 @@
         </table>
 
         <script>
-            let input = document.getElementById("input");
-            let love = document.getElementById("love");
-            let loveless = document.getElementById("loveless");
+            const input = document.getElementById("input");
+            const love = document.getElementById("love");
+            const loveless = document.getElementById("loveless");
 
             input.addEventListener("input", () => {
                 love.value = input.value
@@ -51,12 +51,33 @@
                     .map(line => line.replaceAll("o", ""))
                     .join("\n");
 
-                window.localStorage.setItem("input", input.value);
+                localStorage.setItem("input", input.value);
             });
 
-            input.value = window.localStorage.getItem("input");
+            input.value = localStorage.getItem("input");
             input.dispatchEvent(new Event("input"));
             input.focus();
+
+            // Scroll the textboxes in tandem.
+            const textboxes = [input, love, loveless];
+
+            const scroller = (event) => {
+                for (const textbox of textboxes) {
+                    if (textbox == event.target) {
+                        continue;
+                    }
+                    textbox.scrollTop = event.target.scrollTop;
+                }
+            };
+
+            for (const textbox of textboxes) {
+                textbox.addEventListener("mouseover", () => {
+                    textbox.addEventListener("scroll", scroller);
+                });
+                textbox.addEventListener("mouseout", () => {
+                    textbox.removeEventListener("scroll", scroller);
+                });
+            }
         </script>
     </body>
 </html>
