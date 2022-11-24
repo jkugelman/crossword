@@ -37,14 +37,14 @@
                 love.value = input.value
                     .split("\n")
                     .map(line => line.toUpperCase())
-                    .map(line => line.replaceAll(/\s/g, ""))
+                    .map(line => line.replaceAll(/[^A-Z/]/g, ""))
                     .map(line => `${`(${line.replaceAll(/[^A-Z/]/g, "").length})`.padStart(4)} ${line}`)
                     .join("\n")
                     .replaceAll("(0) ", "");
                 loveless.value = input.value
                     .split("\n")
                     .map(line => line.toLowerCase())
-                    .map(line => line.replaceAll(/\s/g, ""))
+                    .map(line => line.replaceAll(/[^a-z/]/g, ""))
                     .map(line => line.replaceAll("o", ""))
                     .join("\n");
 
