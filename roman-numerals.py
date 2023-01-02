@@ -3,6 +3,10 @@
 import fileinput
 import sys
 
+def bonus_score(phrase):
+    (spanning, hidden) = count_hidden_numbers(phrase)
+    return spanning*100 + hidden*50
+
 def count_hidden_numbers(phrase):
     spanning_numbers = {
         # 1
@@ -307,18 +311,16 @@ def main():
     assert words_to_numbers('nineteeneightyfour') == [19, 84]
     assert words_to_numbers('fourthousandthreehundredandtwentyone') == [4321]
 
-    assert bonus_score('ultramathoners') == 100
+    assert bonus_score('ultramarathoners') == 100
     assert bonus_score('vitocorleone') == 50
 
     for line in fileinput.input():
         phrase, score = line.strip().split(';')
-        score = int(score)
-    # 50 points per non-hidden number.
-    phrase = words_to_numbers(phrase)
-    score += sum(50 for word in phrase if type(word) == int)
+        score = int(score) + bonus_score(phrase)
 
-
-        phrase = [to_roman(word) if type(word) == int else word for word in phrase]
+        phrase = words_to_numbers(phrase)
+        # phrase = [to_roman(word) if type(word) == int else word for word in phrase]
+        phrase = [str(word) if type(word) == int else word for word in phrase]
         phrase = ''.join(str(word) for word in phrase)
         print(f"{phrase};{score}")
 
