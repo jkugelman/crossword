@@ -40,7 +40,8 @@ fn main() -> io::Result<()> {
         "ring" => ring(size, thickness),
         "figure_eight" => figure_eight(size, thickness),
         "window_pane" => window_pane(size, thickness),
-        _ => panic!("bad pattern, expected ring|figure_eight|window_pane"),
+        "cross" => cross(size, thickness),
+        _ => panic!("bad pattern, expected ring|figure_eight|window_pane|cross"),
     };
     Search::search(&word_list, &mut grid, &targets);
 
@@ -104,6 +105,45 @@ pub fn window_pane(size: usize, thickness: usize) -> Vec<Target> {
             len: size,
         });
     }
+
+    targets
+}
+
+pub fn cross(size: usize, thickness: usize) -> Vec<Target> {
+    assert!(thickness <= size / 2);
+
+    let row = size / 2;
+    let col = size / 2;
+
+    let targets = (0..isize::try_from(thickness).unwrap())
+        .flat_map(|i| {
+            let offset = match i % 2 {
+                0 if i == 0 => 0,
+                1 => (i + 1) / 2,
+                0 => -i / 2,
+                _ => unreachable!(),
+            };
+
+            [
+                Target {
+                    loc: Location {
+                        row: row.saturating_add_signed(offset),
+                        col: 0,
+                    },
+                    dir: Direction::East,
+                    len: size,
+                },
+                Target {
+                    loc: Location {
+                        row: 0,
+                        col: col.saturating_add_signed(offset),
+                    },
+                    dir: Direction::South,
+                    len: size,
+                },
+            ]
+        })
+        .collect();
 
     targets
 }
