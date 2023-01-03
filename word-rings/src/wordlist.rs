@@ -19,7 +19,8 @@ pub struct WordList {
 impl From<Vec<String>> for WordList {
     fn from(words: Vec<String>) -> Self {
         let mut index_by_len: HashMap<usize, HashSet<usize>> = HashMap::new();
-        let mut index_by_len_pos_letter: HashMap<(usize, usize, char), HashSet<usize>> = HashMap::new();
+        let mut index_by_len_pos_letter: HashMap<(usize, usize, char), HashSet<usize>> =
+            HashMap::new();
 
         for (i, word) in words.iter().enumerate() {
             let len = word.chars().count();
@@ -27,7 +28,10 @@ impl From<Vec<String>> for WordList {
             index_by_len.entry(len).or_default().insert(i);
 
             for (pos, letter) in word.chars().enumerate() {
-                index_by_len_pos_letter.entry((len, pos, letter)).or_default().insert(i);
+                index_by_len_pos_letter
+                    .entry((len, pos, letter))
+                    .or_default()
+                    .insert(i);
             }
         }
 

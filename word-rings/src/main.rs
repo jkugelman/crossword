@@ -40,7 +40,7 @@ fn main() -> io::Result<()> {
         "ring" => ring(size, thickness),
         "figure_eight" => figure_eight(size, thickness),
         "window_pane" => window_pane(size, thickness),
-        _ => panic!("bad pattern, expected ring|figure_eight|window_pane")
+        _ => panic!("bad pattern, expected ring|figure_eight|window_pane"),
     };
     Search::search(&word_list, &mut grid, &targets);
 

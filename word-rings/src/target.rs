@@ -1,4 +1,4 @@
-use crate::{Location, Direction};
+use crate::{Direction, Location};
 
 /// A target location for entering a word, for example "a 5-letter word at square (0,2) pointing
 /// south".
