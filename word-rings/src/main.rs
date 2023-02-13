@@ -41,14 +41,15 @@ fn main() -> io::Result<()> {
         "figure_eight" => figure_eight(size, thickness),
         "window_pane" => window_pane(size, thickness),
         "cross" => cross(size, thickness),
-        _ => panic!("bad pattern, expected ring|figure_eight|window_pane|cross"),
+        "custom" => custom(size, thickness),
+        _ => panic!("bad pattern, expected ring|figure_eight|window_pane|cross|custom"),
     };
     Search::search(&word_list, &mut grid, &targets);
 
     Ok(())
 }
 
-pub fn ring(size: usize, thickness: usize) -> Vec<Target> {
+fn ring(size: usize, thickness: usize) -> Vec<Target> {
     assert!(thickness <= size / 2);
 
     let t = 0;
@@ -71,7 +72,7 @@ pub fn ring(size: usize, thickness: usize) -> Vec<Target> {
     targets
 }
 
-pub fn figure_eight(size: usize, thickness: usize) -> Vec<Target> {
+fn figure_eight(size: usize, thickness: usize) -> Vec<Target> {
     assert!(thickness <= size / 2);
 
     let mut targets = ring(size, thickness);
@@ -90,7 +91,7 @@ pub fn figure_eight(size: usize, thickness: usize) -> Vec<Target> {
     targets
 }
 
-pub fn window_pane(size: usize, thickness: usize) -> Vec<Target> {
+fn window_pane(size: usize, thickness: usize) -> Vec<Target> {
     assert!(thickness <= size / 2);
 
     let mut targets = figure_eight(size, thickness);
@@ -109,7 +110,7 @@ pub fn window_pane(size: usize, thickness: usize) -> Vec<Target> {
     targets
 }
 
-pub fn cross(size: usize, thickness: usize) -> Vec<Target> {
+fn cross(size: usize, thickness: usize) -> Vec<Target> {
     assert!(thickness <= size / 2);
 
     let row = size / 2;
@@ -146,4 +147,13 @@ pub fn cross(size: usize, thickness: usize) -> Vec<Target> {
         .collect();
 
     targets
+}
+
+fn custom(_size: usize, _thickness: usize) -> Vec<Target> {
+    vec![
+        // Target { loc: Location { row: 2, col: 0 }, dir: Direction::East, len: 15 },
+        Target { loc: Location { row: 0, col: 2 }, dir: Direction::South, len: 15 },
+        // Target { loc: Location { row: 12, col: 0 }, dir: Direction::East, len: 15 },
+        Target { loc: Location { row: 0, col: 12 }, dir: Direction::South, len: 15 },
+    ]
 }
