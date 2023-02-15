@@ -30,10 +30,11 @@ class WordList:
 
                 self.words.setdefault(word, score)
 
-    def save(self, path, scores):
+    def save(self, path, scores, min_score=0):
         with open(path, 'w') as file:
             for (word, score) in sorted(self.words.items()):
-                file.write(f'{word};{score}\n' if scores else f'{word}\n')
+                if score >= min_score:
+                    file.write(f'{word};{score}\n' if scores else f'{word}\n')
 
 def filter_score(min=None, max=None):
     def filter(word, score):
@@ -68,4 +69,4 @@ word_list.load(os.path.join(script_dir + '/XwiJeffChenList.txt'), [filter_score(
 word_list.load(os.path.join(script_dir + '/XwiJeffChenList.txt'), [filter_score(max=50), xwi_renumber])
 word_list.load(os.path.join(script_dir + '/spreadthewordlist.txt'))
 word_list.save(os.path.join(script_dir + '/merged.txt'), scores=True)
-word_list.save(os.path.join(script_dir + '/merged-words-only.txt'), scores=False)
+word_list.save(os.path.join(script_dir + '/merged-words-only.txt'), scores=False, min_score=21)
