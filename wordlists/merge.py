@@ -36,11 +36,15 @@ class WordList:
                 if score >= min_score:
                     file.write(f'{word};{score}\n' if scores else f'{word}\n')
 
-def filter_score(min=None, max=None):
+def filter(min_score=None, max_score=None, min_length=None, max_length=None):
     def filter(word, score):
-        if min != None and score < min:
+        if min_score != None and score < min_score:
             return (word, -1)
-        if max != None and score > max:
+        if max_score != None and score > max_score:
+            return (word, -1)
+        if min_length != None and len(word) < min_length:
+            return (word, -1)
+        if max_length != None and len(word) > max_length:
             return (word, -1)
         return (word, score)
     return filter
@@ -65,8 +69,8 @@ script_dir = os.path.dirname(__file__)
 
 word_list = WordList()
 word_list.load(os.path.join(script_dir + '/personal.txt'))
-word_list.load(os.path.join(script_dir + '/XwiJeffChenList.txt'), [filter_score(min=51), xwi_renumber])
-word_list.load(os.path.join(script_dir + '/XwiJeffChenList.txt'), [filter_score(max=50), xwi_renumber])
-word_list.load(os.path.join(script_dir + '/spreadthewordlist.txt'))
+word_list.load(os.path.join(script_dir + '/XwiJeffChenList.txt'), [xwi_renumber])
+word_list.load(os.path.join(script_dir + '/spreadthewordlist.txt'), [filter(min_score=50)])
+
 word_list.save(os.path.join(script_dir + '/merged.txt'), scores=True)
 word_list.save(os.path.join(script_dir + '/merged-words-only.txt'), scores=False, min_score=21)
