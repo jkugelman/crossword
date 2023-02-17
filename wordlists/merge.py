@@ -73,4 +73,4 @@ word_list.load(os.path.join(script_dir + '/XwiJeffChenList.txt'), [xwi_renumber]
 word_list.load(os.path.join(script_dir + '/spreadthewordlist.txt'), [filter(min_score=50)])
 
 word_list.save(os.path.join(script_dir + '/merged.txt'), scores=True)
-word_list.save(os.path.join(script_dir + '/merged-words-only.txt'), scores=False, min_score=21)
+word_list.save(os.path.join(script_dir + '/words-only-merged.txt'), scores=False, min_score=21)
