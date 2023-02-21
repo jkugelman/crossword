@@ -51,7 +51,7 @@ def filter(min_score=None, max_score=None, min_length=None, max_length=None):
 
 def xwi_renumber(word, score):
     if score >= 60:
-        return (word, 75)
+        return (word, 60)
     if score >= 50:
         return (word, 50)
     if score >= 30:
