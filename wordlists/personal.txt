@@ -377,6 +377,7 @@ blackoperations;60
 blaises;30
 blandallisonact;30
 blankammunition;50
+blastoise;60
 bldg;40
 blueberries;60
 blueberry;60
@@ -440,6 +441,7 @@ buggedoff;60
 buggedout;60
 bugging;60
 buggingout;60
+bulbasaur;60
 burnstoacrisp;60
 burntoacrisp;60
 burton;60
@@ -590,7 +592,9 @@ chainreactors;50
 chamberlain;60
 chandlerarizona;30
 charente;40
+charizard;60
 charlieday;75
+charmander;60
 chatgpg;75
 chaz;40
 cheeseitthecops;75
@@ -624,6 +628,7 @@ civvy;50
 cix;25
 clarice;60
 claricestarling;60
+clefairy;60
 cli;25
 cliche;60
 cliched;60
@@ -991,6 +996,7 @@ doz;30
 dpi;30
 dpl;25
 dqs;40
+dragonite;60
 drawinginto;40
 drawingtoaclose;60
 drawinto;40
@@ -1082,6 +1088,7 @@ eeltrap;30
 eeltraps;30
 eer;40
 eery;30
+eevee;60
 efg;25
 efgh;25
 efghi;25
@@ -1337,6 +1344,7 @@ garni;30
 garys;30
 gasman;40
 gasol;50
+gastly;60
 gaudi;60
 gaudis;30
 gayer;40
@@ -1472,6 +1480,7 @@ grantsamnesty;50
 grau;25
 greenes;40
 greisen;30
+greninja;60
 gromyko;30
 grooveme;25
 grp;40
@@ -1537,6 +1546,7 @@ haruki;60
 harukimurakami;60
 hastemakeswaste;60
 hatersgonnahate;75
+haunter;60
 haus;40
 haveabadhairday;60
 haveagoodtrip;50
@@ -1797,6 +1807,7 @@ itwasadaylikeanyother;60
 itwasalljustadream;60
 itwasjustadream;60
 ivegotto;50
+ivysaur;60
 jager;50
 jai;40
 jalapeno;60
@@ -1815,6 +1826,7 @@ jeezokay;60
 jeffersonoregon;30
 jerboa;30
 jessicachastain;60
+jigglypuff;60
 jimmi;50
 jkl;30
 jklmno;25
@@ -1823,6 +1835,7 @@ joesatriani;75
 johnpetrucci;75
 johnturturro;60
 joie;40
+jolteon;60
 jonanderson;75
 josh;60
 joshed;60
@@ -2212,6 +2225,8 @@ meshuggah;60
 mesonic;30
 metallicelement;40
 metalprojectile;20
+mew;60
+mewtwo;60
 mex;40
 mexicanmeal;25
 mfa;40
@@ -2234,6 +2249,7 @@ militaryuniform;50
 milne;60
 milometer;30
 milometers;30
+mimikyu;60
 mincedoneswords;60
 mincesnowords;60
 mindkiller;60
@@ -2374,6 +2390,7 @@ movingthesticks;50
 mps;40
 mrbungle;75
 mrgates;20
+mrmime;60
 mrn;25
 mrsaturdaynight;50
 mrsnuffleupagus;50
@@ -2388,6 +2405,7 @@ multiplybythree;20
 multiprocessors;30
 mummies;100
 mummy;100
+munchlax;60
 muppet;60
 muppetbabies;60
 muppetmovie;60
@@ -2509,6 +2527,7 @@ nik;40
 nimbies;50
 nin;60
 nineinchnails;75
+ninetales;60
 nineteen;30
 nineteeneighty;30
 nineteeneightyfour;50
@@ -3048,6 +3067,7 @@ pseudointellectual;75
 psittacine;30
 psp;40
 pst;40
+psyduck;60
 psyop;60
 psyops;60
 psywar;60
@@ -3565,6 +3585,7 @@ snickeredat;60
 snickeringat;60
 snickersat;60
 snidelywhiplash;60
+snorlax;60
 snowclone;75
 snowcrash;75
 snowmobiles;60
@@ -3618,6 +3639,7 @@ sqft;40
 squib;60
 squibs;60
 squire;60
+squirtle;60
 sra;40
 sras;40
 sse;30
@@ -4144,6 +4166,7 @@ vocalminority;50
 voir;40
 volare;40
 volares;40
+voltorb;60
 vous;40
 vwx;25
 wack;40
