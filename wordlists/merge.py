@@ -59,11 +59,11 @@ def xwi_renumber(word, score):
     elif score >= 25:
         return (word, 30)
     elif score >= 20:
-        return (word, 20)
-    elif score >= 10:
-        return (word, 10)
+        return (word, 30)
+    elif score >= 15:
+        return (word, 25)
     else:
-        return (word, 0)
+        return (word, 20)
 
 script_dir = os.path.dirname(__file__)
 
