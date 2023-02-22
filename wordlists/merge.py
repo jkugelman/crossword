@@ -60,7 +60,7 @@ def xwi_renumber(word, score):
         return (word, 30)
     elif score >= 20:
         return (word, 30)
-    elif score >= 15:
+    elif score >= 10:
         return (word, 25)
     else:
         return (word, 20)
