@@ -12,7 +12,7 @@ class WordList:
         path,
         edits=[],
     ):
-        with open(path) as file:
+        with open(rel_path(path)) as file:
             for line in file:
                 word, score = line.split(';', 1)
                 word = re.sub('[^a-z]', '', word.lower())
@@ -31,7 +31,7 @@ class WordList:
                 self.words.setdefault(word, score)
 
     def save(self, path, scores, min_score=0):
-        with open(path, 'w') as file:
+        with open(rel_path(path), 'w') as file:
             for (word, score) in sorted(self.words.items()):
                 if score >= min_score:
                     file.write(f'{word};{score}\n' if scores else f'{word}\n')
@@ -65,12 +65,20 @@ def xwi_renumber(word, score):
     else:
         return (word, 20)
 
-script_dir = os.path.dirname(__file__)
+def rel_path(path):
+    return os.path.join(os.path.dirname(__file__), path)
 
-word_list = WordList()
-word_list.load(os.path.join(script_dir + '/personal.txt'))
-word_list.load(os.path.join(script_dir + '/XwiJeffChenList.txt'), [xwi_renumber])
-word_list.load(os.path.join(script_dir + '/spreadthewordlist.txt'), [filter(min_score=50)])
+def load_word_list():
+    word_list = WordList()
+    word_list.load('personal.txt')
+    word_list.load('XwiJeffChenList.txt', [xwi_renumber])
+    word_list.load('spreadthewordlist.txt', [filter(min_score=50)])
+    return word_list
 
-word_list.save(os.path.join(script_dir + '/merged.txt'), scores=True)
-word_list.save(os.path.join(script_dir + '/words-only-merged.txt'), scores=False, min_score=21)
+def save_word_list(word_list):
+    word_list.save('merged.txt', scores=True)
+    word_list.save('words-only-merged.txt', scores=False, min_score=21)
+
+if __name__ == '__main__':
+    word_list = load_word_list()
+    save_word_list(word_list)
