@@ -31,6 +31,7 @@ aborter;30
 aborters;30
 abraxas;35;Ancient mystic word
 absolutemonarchs;50
+aburglarstoleit;0
 abuton;40
 abutson;40
 abutsupon;40
@@ -56,8 +57,50 @@ achs;40
 ackackgun;60
 acle;26
 acme;60
+acmeartificialrock;75;Acme invention
+acmebatmansoutfit;75;Acme invention
+acmebombballoonbasket;75;Acme invention
+acmecactuscostume;75;Acme invention
+acmechristmaspackagemachine;75;Acme invention
 acmecorporation;75
+acmedehydratedboulder;75;Acme invention
+acmedehydratedboulders;75;Acme invention
+acmedoityourselftornadokit;75;Acme invention
+acmeearthquakepills;75;Acme invention
+acmeexplosivetennisball;75;Acme invention
+acmeexplosivetennisballs;75;Acme invention
+acmefemaleroadrunnercostume;75;Acme invention
+acmegiantflypaper;75;Acme invention
+acmegiantkitekit;75;Acme invention
+acmegiantmousetrap;75;Acme invention
+acmegiantrubberband;75;Acme invention
+acmehispeedtonic;75;Acme invention
+acmeindestructosteelball;75;Acme invention
+acmeinstanticiclemaker;75;Acme invention
+acmeinstantroad;75;Acme invention
+acmeinvisiblepaint;75;Acme invention
+acmeironbirdseed;75;Acme invention
+acmeironcarrot;75;Acme invention
+acmeironpellets;75;Acme invention
+acmejetpropelledpogostick;75;Acme invention
+acmejetpropelledskis;75;Acme invention
+acmejetpropelledunicycle;75;Acme invention
+acmelegmusclevitamins;75;Acme invention
+acmelittlegiantsnowcloudseeder;75;Acme invention
+acmemagneticgun;75;Acme invention
+acmeremotecontrolmissilebomb;75;Acme invention
+acmeremotecontrolmissilebombs;75;Acme invention
+acmeroadrunnerlasso;75;Acme invention
+acmerocketpoweredrollerskates;75;Acme invention
+acmesmokescreenbomb;75;Acme invention
+acmesnowcloudseeder;75;Acme invention
+acmesproingboots;75;Acme invention
+acmesuctioncups;75;Acme invention
+acmesuperspeedvitamins;75;Acme invention
+acmetornadoseeds;75;Acme invention
+acmetrickbone;75;Acme invention
 acte;40
+actingpresident;50
 actio;26
 actofparliament;50
 actuarialtables;50
@@ -100,6 +143,7 @@ afilists;50
 africanantelope;50
 africanreligion;26
 africanrepublic;40
+afterdinnermint;50
 afters;40
 agar;31
 agaric;31
@@ -295,9 +339,7 @@ ansu;26
 answeredthedoor;50
 antic;31
 antihero;60
-antiretroviral;50
 antiretroviral;60
-antiretrovirals;50
 antiretrovirals;60
 antiseptics;50
 antiwarprotest;50
@@ -372,6 +414,7 @@ arsed;40
 arsonist;80;Housewarming party?
 artemus;31
 artexhibits;50
+artificialrock;75;Acme invention
 artrestoration;50
 artrestorations;50
 artstudio;80;Doodle pad?
@@ -627,6 +670,7 @@ bathes;80;Get into hot water
 bathroomfixture;50
 batik;31
 batiks;31
+batmansoutfit;75;Acme invention
 batoneseyes;60
 batontwirler;50
 batontwirlers;50
@@ -790,6 +834,7 @@ bolano;50
 boldlygo;60
 boldstroke;50
 boldstrokes;50
+bombballoonbasket;75;Acme invention
 bomer;40
 bonedensity;50
 bonedup;60
@@ -911,6 +956,7 @@ bwi;40
 byzantineempire;50
 cabinetofficial;50
 cabo;60
+cactuscostume;75;Acme invention
 cada;40
 cagesin;50
 cagirls;26
@@ -1005,10 +1051,8 @@ catcafe;60
 catcafes;60
 catcha;26
 catchesoffguard;50
-catchesoffguard;60
 catchingoffguard;50
 catchoffguard;50
-catchoffguard;60
 catena;31
 catenas;31
 catherinehoward;50
@@ -1022,7 +1066,6 @@ cattlepens;80;Stock rooms?
 cattlepens;80;Stock yards?
 catvideo;60
 caughtoffguard;50
-caughtoffguard;60
 caviar;60
 cavil;31
 caviled;31
@@ -1160,6 +1203,7 @@ chooseme;40
 chorines;31
 chrissquire;60
 christianname;60
+christmaspackagemachine;75;Acme invention
 christmasseason;50
 cibola;31
 cigaret;31
@@ -1402,12 +1446,13 @@ cueballs;80;Pool resources?
 cues;80;Pool resources?
 cuesticks;80;Pool resources?
 cujo;60
-culturevulture;75
-culturevultures;75
-cum;31
+culturevulture;75;Art hound
+culturevultures;75;Art hounds
+cum;30
 cuoco;40
 curiatii;31
 cutthechitchat;60
+cutthroattactic;60
 cvi;10
 cvii;10
 cviii;10
@@ -1446,6 +1491,7 @@ dancetothemusic;50
 dancingaround;50
 dancingtothemusic;50
 dansk;31
+daresay;60
 daressalaam;40
 darksideofthemoon;60
 darktower;60
@@ -1546,6 +1592,8 @@ defecating;31
 defs;40
 deg;40
 degs;40
+dehydratedboulder;75;Acme invention
+dehydratedboulders;75;Acme invention
 deixis;30;Linguistic term
 dekalb;31
 delanoroosevelt;0
@@ -1617,6 +1665,7 @@ dibasic;31
 dic;26
 dict;40
 didallthetalking;60
+didaset;50
 didavanishingact;60
 diddirty;60
 diddle;31
@@ -1689,6 +1738,7 @@ dnaanalysts;50
 dnc;40
 doa;50
 doallthetalking;60
+doaset;50
 doavanishingact;60
 dob;50
 dockingstations;50
@@ -1698,6 +1748,7 @@ dodgedealership;40
 dodirty;60
 dodonuts;60
 doesallthetalking;60
+doesaset;50
 doesavanishingact;60
 doesdonuts;60
 dogeared;60
@@ -1707,10 +1758,12 @@ dogrocket;60
 doha;31
 doingajobon;60
 doingallthetalking;60
+doingaset;50
 doingasolid;60
 doingdonuts;60
 doingdyingtying;0
 doink;40
+doityourselftornadokit;75;Acme invention
 doj;50
 dojo;60
 dojos;60
@@ -1830,7 +1883,9 @@ earny;26
 earou;26
 earrings;60
 earta;26
+earthmother;80;Dirty girl?
 earthquakepills;75
+earthquakepills;75;Acme invention
 earthsea;60
 easternseaboard;50
 easytargets;60
@@ -1991,6 +2046,8 @@ eqs;40
 erbe;31
 erdoc;31
 erdocs;31
+ereader;50
+ereaders;50
 erg;40
 erily;26
 eris;40
@@ -2071,11 +2128,16 @@ exorcise;80;Dust devils?
 expectoration;31
 expectorator;31
 expectorators;31
+explosivetennisball;75;Acme invention
+explosivetennisballs;75;Acme invention
 expostulation;31
 exspy;50
 ext;40
 extensionladder;50
 eyelid;80;Lens cover
+eyetest;50
+eyetests;50
+eyewear;50
 faa;50
 fabricatedstory;50
 fabricsofteners;50
@@ -2130,6 +2192,7 @@ feelonespain;60
 feetontheground;60
 fellas;80;Dated men?
 fem;40
+femaleroadrunnercostume;75;Acme invention
 femdom;31
 femininepronoun;50
 fetishes;50
@@ -2336,6 +2399,10 @@ getusedtoit;60
 ghee;40
 ghi;10
 ghij;10
+giantflypaper;75;Acme invention
+giantkitekit;75;Acme invention
+giantmousetrap;75;Acme invention
+giantrubberband;75;Acme invention
 gif;40
 gifs;40
 giga;40
@@ -2396,6 +2463,7 @@ goinandout;100;For starters?
 goingforadip;50
 goinghard;50
 goinginandout;100;For starters?
+goldmanspartner;0
 gonerilandregan;0
 gongongongongon;0
 gonogo;60
@@ -2530,6 +2598,7 @@ harshlightofday;60
 haruki;60
 harukimurakami;60
 hastemakeswaste;60
+hastodo;20
 hatemail;80;Cross words?
 hatersgonnahate;60
 hatton;31
@@ -2650,6 +2719,7 @@ hirohito;60
 hiroshima;60
 hirt;31
 his;40
+hispeedtonic;75;Acme invention
 hist;40
 hitapaywall;40
 hite;40
@@ -2801,6 +2871,7 @@ incrusted;31
 incrusting;31
 incrusts;31
 indeliblepencil;60
+indestructosteelball;75;Acme invention
 indianahoosiers;50
 indicatorlights;50
 indigos;40
@@ -2853,6 +2924,8 @@ inspirer;40
 inspirers;40
 inst;40
 instal;26
+instanticiclemaker;75;Acme invention
+instantroad;75;Acme invention
 instanttans;60
 instrumentpanel;50
 insult;50;Offensive line?
@@ -2872,6 +2945,7 @@ intl;40
 inversed;40
 investmentbanks;50
 investmentvalue;50
+invisiblepaint;75;Acme invention
 iodate;31
 iodates;31
 iommi;50
@@ -2889,6 +2963,9 @@ iritis;31
 irker;31
 irl;40
 irobot;60
+ironbirdseed;75;Acme invention
+ironcarrot;75;Acme invention
+ironpellets;75;Acme invention
 irrawaddy;31
 isaidgooddaysir;60
 isamu;31
@@ -2926,6 +3003,7 @@ itis;40
 itll;40
 itprofessionals;50
 its;40
+itsanyonesguess;60
 itsastretch;60
 itsathing;60
 itsawaitinggame;60
@@ -2961,6 +3039,9 @@ jeffersonoregon;31
 jerboa;31
 jerky;80;Animal preserves?
 jessicachastain;60
+jetpropelledpogostick;75;Acme invention
+jetpropelledskis;75;Acme invention
+jetpropelledunicycle;75;Acme invention
 jezebel;75
 jigglypuff;60
 jimmi;50
@@ -3132,6 +3213,7 @@ leeaaker;31
 leenane;31
 leftturnatalbuquerque;75
 leggedreference;0
+legmusclevitamins;75;Acme invention
 leica;31
 leicas;31
 lemonmeringue;50
@@ -3193,6 +3275,7 @@ listeningdevice;50
 lita;31
 litafireunder;60
 liton;40
+littlegiantsnowcloudseeder;75;Acme invention
 litupon;50
 livedebate;50
 livedebates;50
@@ -3291,6 +3374,7 @@ madeofhonor;0
 madlib;60
 madlibs;60
 magicalthinking;60
+magneticgun;75;Acme invention
 magnuscarlsen;60
 maharanee;31
 maidens;80;Dated women?
@@ -3664,6 +3748,7 @@ morticing;31
 mortier;31
 mota;26
 motecontrol;0
+motherearth;80;Dirty girl?
 motherofalldemos;75
 motherofdragons;60
 mothersdaycards;50
@@ -4171,6 +4256,8 @@ orig;40
 orion;60
 ormulus;26
 ornotto;31
+ornurse;50
+ornurses;50
 oro;40
 orontes;31
 orr;40
@@ -4274,6 +4361,8 @@ panafricanflags;50
 panamacanal;50
 panamalithuania;0
 pancake;80;Level one
+pandanus;30;Screw palm genus
+pandarus;35;Trojan War figure
 panoramiccamera;50
 pantomimeartist;31
 paoloveronese;35
@@ -4397,6 +4486,7 @@ photog;80;One who might call all the shots?
 photographer;80;One who might call all the shots?
 photographers;80;Ones who might call all the shots?
 physics;60;Energy field
+physique;60
 pianoplayer;50
 pianoplayers;50
 picksandshovels;31
@@ -4440,6 +4530,7 @@ pixels;60
 pixystix;75
 pizazz;75
 pizza;60
+pizzahut;60
 pizzapizza;75
 pizzazz;75
 pizzicato;75
@@ -4489,6 +4580,9 @@ politico;60
 politicos;60
 pompom;60
 pompoms;60
+pondscum;80;Dirty film
+poorsoul;60
+poorsouls;60
 popeafb;31
 popealan;26
 popebenedict;50
@@ -4564,6 +4658,13 @@ prettied;40
 prettyfishy;60
 pri;40
 primorialsoup;0
+printedout;40
+printedup;40
+printingout;40
+printingup;40
+printsout;40
+printsup;40
+printup;40
 prisonwing;60
 prisonwings;60
 pristine;80;Never worn?
@@ -4779,6 +4880,8 @@ reindoctrinated;50
 religion;80;Holyfield?
 relishthemoment;50
 remagen;31
+remotecontrolmissilebomb;75;Acme invention
+remotecontrolmissilebombs;75;Acme invention
 remsen;31
 remsleep;60
 rennin;31
@@ -4933,6 +5036,7 @@ rnc;40
 roadends;40
 roadie;80;One who gets the show on the road
 roadies;80;They get the show on the road
+roadrunnerlasso;75;Acme invention
 roarings;40
 rob;80;Take things, literally
 robbed;80;Took things, literally
@@ -4943,6 +5047,7 @@ robmcelhenney;60
 robo;40
 robs;80;Takes things, literally
 roc;50
+rocketpoweredrollerskates;75;Acme invention
 rocs;50
 rodeoutthestorm;50
 rogerwaters;60
@@ -5110,6 +5215,8 @@ saveto;40
 savingto;40
 sawinto;40
 sayboo;60
+sbaloan;40
+sbaloans;40
 scarey;31
 scenethree;31
 scenicpanoramas;40
@@ -5382,6 +5489,7 @@ smee;50
 smelledarat;60
 smh;50
 smokeandmirrors;60
+smokescreenbomb;75;Acme invention
 smombie;60
 smombies;60
 smoothy;31
@@ -5405,6 +5513,7 @@ snorer;40
 snorers;40
 snorlax;60
 snowclone;75
+snowcloudseeder;75;Acme invention
 snowcrash;60
 snowmobiles;60
 socialbubmarine;0
@@ -5478,6 +5587,7 @@ sportsbra;80;Athletic supporter
 sportsbras;80;Athletic supporters
 spottedgeranium;50
 spreadingrumors;50
+sproingboots;75;Acme invention
 sqft;40
 squib;60
 squibs;60
@@ -5629,6 +5739,7 @@ suey;40
 sugarcookie;60
 sugarplantation;50
 sugarplantations;50
+suhweet;75
 sukiyakis;31
 sulfo;26
 sundown;60
@@ -5637,6 +5748,7 @@ sunshinelaw;60
 sunshinelaws;60
 superegos;40
 supermajority;80;Congressional term?
+superspeedvitamins;75;Acme invention
 supervolcano;60
 supervolcanoes;60
 suredid;60
@@ -6060,6 +6172,7 @@ tor;50
 tora;40
 toreoneshairout;60
 toric;40
+tornadoseeds;75;Acme invention
 tornmcl;31
 torontoraptor;50
 torontoraptors;50
@@ -6070,6 +6183,7 @@ tortola;31
 tortugas;40
 toscanini;60
 totalrecall;60
+totedup;40
 totem;60
 totempole;60
 totempoles;60
@@ -6078,11 +6192,14 @@ toter;40
 toters;40
 totes;60
 totesadorbs;60
+totesup;40
+toteup;40
 tothebestof;26
 tothebone;40
 tothedeath;60
 tothepenny;40
 tothesamedegree;50
+totingup;40
 touchesupon;50
 toupee;60
 toupees;60
@@ -6106,6 +6223,7 @@ tresse;40
 trex;60
 trexes;60
 trialbyordeal;60
+trickbone;75;Acme invention
 trillo;31
 trinal;31
 trine;31
