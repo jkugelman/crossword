@@ -41,8 +41,8 @@ abuttedon;40
 abutter;30
 abutters;30
 abuttingon;40
-acaipuree;30
-acaipurees;30
+acaipuree;20
+acaipurees;20
 accordionplayer;50
 accordionplayers;50
 accordionpleats;50
@@ -183,6 +183,8 @@ airedaleterriers;50
 airer;40
 airers;40
 airforceacademy;50
+airfryer;60
+airfryers;60
 airgapped;50
 airlinepilots;50
 airplanecaptain;40
@@ -338,6 +340,7 @@ animatedgif;60
 animatedgifs;60
 anion;40
 anions;40
+aniseoil;40
 annao;26
 annelid;31
 annelids;31
@@ -455,6 +458,7 @@ asmaran;31
 asof;40
 asolo;31
 asonant;31
+asp;80;Cleopatra's final offer?
 asparagine;31
 assagai;31
 assagais;31
@@ -726,6 +730,7 @@ bcups;40
 bea;80;Arthurian legend?
 beachhouses;50
 beadles;40
+beak;80;Bit of a lark?
 beamers;40
 beantomeatratio;0
 bearcrawl;60
@@ -854,6 +859,7 @@ boardingpass;80;Fly paper?
 boardoftrustees;50
 bodyguard;100;Grave robber's deterrent?
 boeotia;31
+bohemia;80;Queen's subject?
 boi;40
 boink;40
 bolano;50
@@ -1324,6 +1330,7 @@ cocktailnapkins;50
 cocktailparties;50
 cocktailparty;50
 coconutmacaroon;50
+coda;60;Children of Dead Adults
 coelho;31
 coginthemachine;60
 cogsinthemachine;60
@@ -1437,6 +1444,7 @@ countscalories;50
 coverartist;50
 coverartists;50
 covertmission;60
+cowbell;60
 cowpatties;60
 cowrie;40
 cpl;40
@@ -1506,6 +1514,11 @@ culturevulture;75;Art hound
 culturevultures;75;Art hounds
 cum;30
 cuoco;40
+cupcakery;75;Specialized type of bakery
+cuponeshands;50
+cuppedoneshands;50
+cuppingoneshands;50
+cupsoneshands;50
 curiatii;31
 cutthechitchat;60
 cutthroattactic;60
@@ -1651,6 +1664,7 @@ deg;40
 degs;40
 dehydratedboulder;75;Acme invention
 dehydratedboulders;75;Acme invention
+deimos;60;Martian moon
 deixis;30;Linguistic term
 dekalb;31
 delanoroosevelt;0
@@ -1958,6 +1972,10 @@ earthquakepills;75
 earthquakepills;75;Acme invention
 earthsea;60
 earthshattering;60;Groundbreaking?
+easedupto;40
+easesupto;40
+easeupto;40
+easingupto;40
 easternseaboard;50
 easytargets;60
 easywin;60
@@ -2007,6 +2025,7 @@ efghi;10
 efiler;40
 efilers;40
 egbert;31
+eggdicator;75;Willy Wonka device to tell between good eggs and bad
 eggers;50
 egonnude;0
 egotrip;60
@@ -2175,6 +2194,7 @@ ethans;40
 ethenes;31
 ethniccleansing;31
 ethnicrelations;40
+ethnicrelations;40
 etiolating;31
 etrade;40
 etradebaby;40
@@ -2248,6 +2268,7 @@ fashionreporter;80;Clothes press?
 fashionreporter;80;Vanity press?
 fashionreporters;80;Clothes press?
 fashionreporters;80;Vanity press?
+fastcasual;60
 fastenseatbelts;26
 fauxintellectual;60
 fawn;80;Babe in the woods?
@@ -2259,6 +2280,7 @@ fearisthemindkiller;75
 fearofneedles;100;Sticker shock?
 fearsto;40
 fearto;40
+feather;80;Bit of a lark?
 feather;80;Woodstock headliner?
 feathersthenest;60
 feb;40
@@ -2296,6 +2318,7 @@ figural;40
 filibuster;100;Lengthy Congressional term?
 finalcheck;50
 finalchecks;50
+finalgirl;60
 financeminister;50
 financialbacker;50
 financialsector;50
@@ -2337,6 +2360,7 @@ floridasunshine;50
 floweringplants;50
 fmstations;50
 foamparties;60
+foghornleghorn;60
 foie;40
 folkhero;60
 fomo;60
@@ -2630,6 +2654,8 @@ guatemalabelize;0
 gulab;40
 gulabjamun;40
 gundown;60
+gunroom;50
+gunrooms;50
 guthrie;60
 guthriegovan;60
 gyno;40
@@ -2648,6 +2674,7 @@ hafts;50
 hagatna;31
 hahahaha;31
 haig;50
+hairyballtheorem;75
 hakim;31
 hakuna;60
 hakunamatata;60
@@ -2665,6 +2692,7 @@ hammett;60
 hamradio;60
 handbills;80;Play cards?
 handsomesum;60
+hangry;60
 hanseaticleague;31
 hap;50
 hapa;31
@@ -2700,6 +2728,8 @@ headend;40
 headingforafall;60
 healthyasahorse;60
 hearsts;40
+heartspecialist;50
+heartspecialists;50
 heaveho;60
 hedison;31
 heelpad;40
@@ -2754,6 +2784,7 @@ hematic;31
 hematin;40
 hematinic;31
 hemi;40
+hemlock;80;Socrates's final offer?
 henhouse;60
 henripoincare;60
 her;40
@@ -2893,6 +2924,7 @@ huckster;60
 huckstered;60
 hucksters;60
 hughhefner;60
+humanbean;75
 hundredthsplace;50
 hunter;80;Person with an outside shot?
 hurricaneseason;50
@@ -2908,6 +2940,7 @@ ibelieveicanfly;40
 icansee;80;Vision statement
 icecoldbeerhere;60
 iceskatingrinks;50
+icetea;20
 ichneumon;31
 ichthyoid;31
 ici;31
@@ -2929,6 +2962,7 @@ ifidosaysomyself;60
 ifimust;60
 ifrun;26
 iftar;31
+ifyousnoozeyoulose;60
 igotac;0
 igotnothing;60
 igs;26
@@ -3015,6 +3049,8 @@ ingemar;31
 ingodwetrust;100;Quarter note
 inidle;40
 initialreaction;50
+initialreaction;50
+initialreactions;50
 initialreactions;50
 injectionsite;80;Sticking point?
 injoke;60
@@ -3072,7 +3108,7 @@ irakaplan;40
 irenee;31
 irides;31
 iritis;31
-irker;31
+irker;40
 irl;40
 irobot;60
 ironbirdseed;75;Acme invention
@@ -3347,6 +3383,7 @@ leefalk;35;Creator of "Mandrake the Magician" and "The Phantom" comics
 leenane;31
 leftturnatalbuquerque;75
 leggedreference;0
+leghorn;60
 legmusclevitamins;75;Acme invention
 leica;31
 leicas;31
@@ -3458,6 +3495,7 @@ loot;80;Take things, literally
 looted;80;Took things, literally
 looting;80;Taking things, literally
 loots;80;Takes things, literally
+lorax;60
 lorelei;60;Siren
 loris;31
 losangeleslaker;50
@@ -3874,6 +3912,8 @@ moneylaunderers;50
 mongolianbeef;50
 monkeymind;60
 monkeysuit;60
+mononym;60
+mononyms;60
 monroes;40
 montypythonskit;0
 moonlighted;60
@@ -4257,6 +4297,7 @@ oblongs;40
 obo;40
 obol;40
 obv;40
+obvs;60
 och;40
 ocr;40
 oct;40
@@ -4335,6 +4376,7 @@ onanists;31
 onappeal;50
 onbeing;40
 oncee;26
+onceler;60
 onceler;60
 ond;26
 oneacre;31
@@ -4419,6 +4461,7 @@ oro;40
 orontes;31
 orr;40
 orris;31
+orser;30;Actor Leland, figure skater Brian
 orthoepist;31
 oscars;80;Movie props?
 oscine;35;Songbird
@@ -4582,6 +4625,8 @@ paup;26
 pavane;31
 pavanes;31
 pawpaw;60
+pawscar;75;Animal award
+pawscars;75;Animal awards
 pbr;40
 pcgamer;50
 peabean;40
@@ -4622,6 +4667,7 @@ perambulator;40
 perambulators;40
 perfectmarriage;50
 perforatedlines;50
+performative;60
 peri;40
 perine;31
 periodicpayment;26
@@ -4653,6 +4699,8 @@ phantomsettlement;75;Plagiarism trap
 phantomsettlements;75;Plagiarism traps
 pheno;40
 philol;31
+phobos;60;Martian moon
+phobosanddeimos;20
 photobomb;80;Blocked shot
 photobomber;80;Shot blocker
 photobombs;80;Blocked shots
@@ -4678,7 +4726,11 @@ piloterror;50
 piloterrors;50
 pinelog;50
 pinkgin;50
+pinkiepromise;75
+pinkieswear;75
 pinktax;60
+pinkypromise;75
+pinkyswear;75
 pinkytoe;60
 pis;40
 pismo;31
@@ -4738,6 +4790,7 @@ plotzed;40
 plotzes;40
 plotzing;40
 plovdiv;31
+plumage;80;Bit of a lark?
 plunder;80;Take things, literally
 plundered;80;Took things, literally
 plundering;80;Taking things, literally
@@ -4796,6 +4849,8 @@ popepiusx;31
 popepiusxi;31
 popepiusxii;31
 popularizer;50
+porchpirate;75
+porchpirates;75
 porkbarrel;80;Congressional term?
 portablepas;50
 portmanteauword;26
@@ -4937,6 +4992,7 @@ puppeteer;80;Pull some strings
 puppeteered;80;Pulled some strings
 puppeteering;80;Pulling some strings
 puppeteers;80;Pulls some strings
+purplerain;80;Prince's subject?
 puta;5
 putapininit;60
 putbuttsinseats;60
@@ -5229,6 +5285,7 @@ riaa;40
 rianjohnson;60
 riband;31
 ribbonwall;60
+ribcage;80;Organic compound?
 ribose;31
 rickwakeman;60
 ricoh;31
@@ -5289,7 +5346,7 @@ roscoelee;31
 rosecolored;60
 rosemadder;60
 rosencrantz;60
-roser;31
+roser;28
 rosesarered;60
 roset;31
 rosetopazes;50
@@ -5453,6 +5510,7 @@ scoresbig;50
 scrabbletourney;50
 scrabbletourneys;50
 screwover;50
+scrumdiddlyumptious;75
 scutum;31
 sdsu;40
 seaboat;40
@@ -5505,6 +5563,7 @@ semitones;50
 semolinas;31
 sen;40
 senatepages;50
+sendai;30
 sendin;40
 sendingin;40
 sendingoff;40
@@ -5541,6 +5600,7 @@ sequesters;60
 sere;40
 serendip;31
 sergeidiaghilev;35;Russian art critic
+serif;80;Somewhat of a character?
 seripak;50;Three-time LPGA champ (Se-ri Pak)
 sermon;80;Cross promotion
 sermon;80;Cross talk
@@ -5587,6 +5647,8 @@ sexingup;60
 sexkitten;60
 sexkittens;60
 sexlife;60
+sexmarathon;100;Screw over big time?
+sexmarathons;100;Screws over big time?
 sexobject;60
 sexobjects;60
 sexologist;60
@@ -5789,6 +5851,7 @@ snowclone;75
 snowcloudseeder;75;Acme invention
 snowcrash;60
 snowmobiles;60
+snozzberry;75;Willy Wonka fruit that shows up in flavored wallpaper
 socialbubmarine;0
 socialcontracts;50
 socialmediainfluencer;60
@@ -5933,8 +5996,11 @@ stcroix;50;U.S. Virgin Island
 steaded;31
 steal;80;Take things, literally
 steala;26
+stealakiss;100;Make out like a bandit?
 stealing;80;Taking things, literally
+stealingakiss;100;Making out like a bandit?
 steals;80;Takes things, literally
+stealsakiss;100;Makes out like a bandit?
 steameddumpling;50
 stearic;31
 steatite;31
@@ -5979,6 +6045,7 @@ stoke;50;Rekindle an old flame
 stoked;60;Rekindled an old flame
 stokes;50;Rekindles an old flame
 stole;80;Took things, literally
+stoleakiss;100;Made out like a bandit?
 stolenkiss;60
 stomachy;40
 stoodon;40
@@ -6134,6 +6201,7 @@ takingwing;60
 talcose;31
 talipot;30;South Asian palm tree
 tallith;31
+tallywacker;60;Penis, or jerk
 talus;30
 taluses;30
 tamable;26
@@ -6810,6 +6878,7 @@ wereallset;60
 werealmostthere;60
 westpointcadet;50
 westpointcadets;50
+wewillrockyou;80;Queen's decree?
 wha;31
 whassup;60
 what;40
@@ -6841,6 +6910,7 @@ winebarrel;50
 winebarrels;50
 winebars;50
 winegoblet;50
+wing;80;Bit of a lark?
 wingcollar;40
 wingedt;31
 wingspan;60
@@ -6992,6 +7062,7 @@ yougottabejoking;60
 yougottabekiddingme;60
 youllnevertakemealive;60
 yourargumentisinvalid;60
+yousnoozeyoulose;75
 youvegottabejoking;60
 youvegottabekiddingme;60
 youvegottobejoking;60
