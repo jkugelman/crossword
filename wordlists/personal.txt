@@ -1,4 +1,5 @@
 aaa;40;Org. with many roadside towers?
+howbadcoulditbe;75
 aardman;40
 aaronites;50
 aaverage;40
@@ -186,6 +187,7 @@ airforceacademy;50
 airfryer;60
 airfryers;60
 airgapped;50
+airingofgrievances;60
 airlinepilots;50
 airplanecaptain;40
 airplanelanding;40
@@ -365,6 +367,7 @@ apercu;30;Clever summation
 apercus;30;Clever summations
 apesuit;60
 apl;26
+applause;80;Stage props?
 appliedresearch;50
 applyforcollege;50
 apposes;40
@@ -1722,6 +1725,8 @@ deterging;31
 dethorn;40
 dets;40
 deux;40
+developer;80;One who buys a lot?
+developers;80;Ones who buys a lot?
 devil;60
 devilry;60
 devils;60
@@ -2377,6 +2382,7 @@ fortunemagazine;50
 fortytwo;60
 fossils;80;Remains underground?
 foto;40
+fourdayworkweek;75
 fourhundred;31
 fouryearcollege;50
 fpaper;0
@@ -2617,6 +2623,7 @@ graduationparty;50
 gramma;31
 grandad;31
 grandads;31
+grandfatherclock;80;Old timer?
 granpa;31
 grantamnesty;50
 grantedamnesty;50
@@ -3148,9 +3155,11 @@ isuspect;40
 itaintovertillitsover;60
 itaintoveruntil;31
 itbeatsme;60
+itcantbethatbad;75
 itd;40
 item;80;Star date?
 items;80;Star dates?
+ithoughtyouknew;60
 itis;40
 itisnot;40
 itll;40
@@ -3310,6 +3319,7 @@ koolaiddrinkers;60
 koreanamericans;40
 koto;31
 kotos;31
+koyaanisqatsi;75
 kra;26
 krait;31
 kraits;31
@@ -3355,7 +3365,7 @@ laso;26
 lasses;80;Dated women?
 lassoo;0
 lastforever;50
-lastonein;75
+lastonein;75;Rotten egg
 latham;31
 lathis;31
 latigo;30;Horse whip
@@ -4380,6 +4390,7 @@ onceler;60
 onceler;60
 ond;26
 oneacre;31
+onederland;75;Dieter's target
 onefingersalute;60
 oneiric;31
 onelot;31
@@ -5058,6 +5069,7 @@ raisingaglass;80;Lifting one's spirits?
 raisingthecurtain;50
 ral;26
 ranaclosesecond;50
+ranawaywith;40
 ranringsaround;60
 rapporteur;31
 raptor;60
@@ -5394,13 +5406,16 @@ rumpelstiltskin;60
 run;80;Play dates?
 runaclosesecond;50
 runandgun;80;For starters?
+runawaywith;40
 rundown;60
 rundown;80;At no charge?
 rundown;80;Charge too little?
 runningaclosesecond;50
+runningawaywith;40
 runningringsaround;60
 runringsaround;60
 runsaclosesecond;50
+runsawaywith;40
 runsringsaround;60
 runtimeerror;40
 runtimeerrors;40
@@ -5956,6 +5971,7 @@ stampede;80;Chain bolt?
 stampede;80;Stock split?
 stander;31
 standingon;40
+standingovation;80;Stage props?
 standon;40
 standson;40
 stannis;40
@@ -6667,6 +6683,7 @@ twi;31
 twiner;31
 twiners;31
 twopartysystems;50
+twothumbsup;80;Movie props?
 txttalk;20
 tyd;26
 tywin;60
