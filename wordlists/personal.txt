@@ -261,6 +261,15 @@ alphorn;60
 alrosen;35;All-star Baseball player 1947-56, GM in 70s
 altai;35;Asian mountains
 altais;31
+alterego;80;Borne identity?
+alterego;80;Likeminded individual?
+alterego;80;Piece of one's mind?
+alterego;80;Self-made man?
+alterego;80;Split second?
+alteregos;80;Inside voices?
+alteregos;80;Likeminded individuals?
+alteregos;80;Self-made men?
+alteregos;80;Split seconds?
 alternativecuts;20
 althing;31
 althorn;31
@@ -666,6 +675,7 @@ barouche;31
 barouches;31
 barque;40
 barques;40
+barra;30;Scottish island
 barredthedoor;50
 barredthedoors;50
 barringthedoor;50
@@ -686,6 +696,7 @@ baseballtonight;50
 baseballuniform;50
 baseballuniforms;50
 basilar;31
+basra;40;Iraqi city
 bassale;80;Drink like a fish?
 bassoon;60
 bassoons;60
@@ -827,6 +838,7 @@ bigtoe;60
 bikerace;50
 billbruford;60
 billet;50
+billhader;60
 billhaleyandhiscomets;50
 billhaleyscomets;50
 billiardparlor;50
@@ -860,6 +872,8 @@ blandallisonact;31
 blankammunition;50
 blastoise;75;Pokeyman
 bldg;40
+blockader;40
+blockaders;40
 blockbuster;100;Shoot for the stars?
 blockbusters;100;Shoots for the stars?
 blueberries;60
@@ -952,7 +966,10 @@ bronte;60
 brontes;60
 brontesisters;60
 bronxzoo;60
-brrr;50
+brr;40
+brrr;30
+brrrr;20
+brrrrrr;20
 bruford;60
 brusselsbelgium;31
 bsee;26
@@ -1120,6 +1137,7 @@ catchingoffguard;50
 catchoffguard;50
 catena;31
 catenas;31
+cateress;40
 catforone;0
 catherinehoward;50
 cathlab;50
@@ -1236,6 +1254,7 @@ charlieday;60
 charlottehornet;50
 charmander;75;Pokeyman
 chatgpg;75
+chautauqua;60
 chaz;40
 cheapskate;100;One who gives no quarter?
 cheapskates;80;Ones who gives no quarter?
@@ -2236,7 +2255,6 @@ ethans;40
 ethenes;31
 ethniccleansing;31
 ethnicrelations;40
-ethnicrelations;40
 etiolating;31
 etrade;40
 etradebaby;40
@@ -2647,6 +2665,7 @@ gotcha;60
 gotchas;60
 gotchummy;60
 gotchummywith;60
+gotideas;60
 gotohellandback;60
 gotonesgoat;60
 gotos;50
@@ -2739,7 +2758,7 @@ hale;50
 halep;40
 haler;40
 halest;40
-halfdollar;100;Second quarter?
+halfdollar;80;Second quarter?
 halon;40;Fire suppressant
 hamite;31
 hamites;31
@@ -3081,6 +3100,8 @@ imgladwedidthis;60
 imhuntingwabbit;60
 immortalities;40
 imnotyourmother;60
+imperator;35;Roman commander
+imperators;35;Roman commanders
 imtoo;30
 imupset;40
 imustbedreaming;60
@@ -3130,6 +3151,8 @@ indwells;31
 ineedavolunteer;60
 inertgas;50
 inferiorities;40
+infester;40
+infesters;40
 infold;31
 infolded;31
 infolding;31
@@ -3138,14 +3161,18 @@ ingemar;31
 ingodwetrust;100;Quarter note
 inidle;40
 initialreaction;50
-initialreaction;50
-initialreactions;50
 initialreactions;50
 injectionsite;80;Sticking point?
 injoke;60
 injokes;60
 inlas;26
 inma;0
+innerears;40
+innervate;40
+innervated;40
+innervates;40
+innervating;40
+innervation;40
 inness;30;Painter George
 insectivorous;75
 insincerities;40
@@ -3172,8 +3199,15 @@ insults;50;Offensive lines?
 insurancebroker;50
 integument;28; Medical thing
 inteloperations;50
+intendant;30;Opera house administrator
+intendants;30;Opera house administrators
+intendeds;40
 intercalation;40
 interestpayment;50
+interlaid;40
+interlay;40
+interlaying;40
+interlays;40
 internalorgan;50
 internalorgans;50
 internationalwaters;100;Evian and Fiji?
@@ -3183,6 +3217,8 @@ interpolators;40
 inthepenaltybox;50
 intl;40
 invalidusername;50
+inveigler;40
+inveiglers;40
 inversed;40
 investmentbanks;50
 investmentvalue;50
@@ -3194,6 +3230,7 @@ ion;80;Roaming charge?
 ions;80;Roaming charges?
 ioo;26
 iouua;0
+ioweyaone;60
 irade;31
 irades;31
 irae;40
@@ -3457,10 +3494,13 @@ lasses;80;Dated women?
 lassoo;0
 lastforever;50
 lastonein;75;Rotten egg
+lateness;40
 latham;31
 lathis;31
 latigo;30;Horse whip
 latigos;30;Horse whips
+lauer;30
+lauers;20
 laughinggas;80;Number for takeout?
 lawfirm;80;Legal pad
 lbs;50
@@ -3562,6 +3602,7 @@ livedhighonthehog;60
 livehighoffthehog;60
 livehighonthehog;60
 liveoutofatrunk;60
+liveradar;50
 liverpoolaccent;50
 liveshighoffthehog;60
 liveshighonthehog;60
@@ -3602,6 +3643,7 @@ looted;80;Took things, literally
 looting;80;Taking things, literally
 loots;80;Takes things, literally
 lorax;60
+lordvader;40
 lorelei;60;Siren
 loris;31
 losangeleslaker;50
@@ -3666,7 +3708,6 @@ magicalthinking;60
 magneticgun;75;Acme invention
 magnus;60
 magnuscarlsen;60
-magnuscarlsen;60
 maharanee;31
 maidens;80;Dated women?
 maidofhonor;50
@@ -3730,6 +3771,7 @@ masterofpupppets;75
 masterofscience;50
 maternityward;50
 mattbomer;40
+mattlauer;30
 maxvonsydow;60
 maxx;40
 mayhem;60
@@ -4038,6 +4080,8 @@ mortalsins;60
 mortarboard;60
 mortarboards;60
 mortgagepayment;50
+mortgager;40
+mortgagers;40
 morticia;60
 morticiaaddams;60
 mortician;60
@@ -4054,6 +4098,8 @@ motionedto;40
 motioningto;40
 motionsto;40
 motionto;40
+motlier;40
+motliest;40
 motmot;31
 mou;26
 moucado;35;16th century fabric
@@ -4251,6 +4297,7 @@ nicotini;75;Vodka infused with tobacco leaves
 nicu;50
 nigerandnigeria;0
 nigh;80;Dated around?
+nightshade;60
 nik;40
 nile;80;Desert flower?
 nileriver;100;Desert flower?
@@ -4317,6 +4364,7 @@ noncomposmentis;60
 nondenialdenial;60
 nonet;31
 nonets;31
+nonotatall;60
 nonotes;40
 noodles;80;Pool resources?
 noodles;80;Pool sticks
@@ -4335,6 +4383,7 @@ normalprocedure;40
 normas;31
 normcash;40
 northcarolinian;40
+northpaw;80;Right-hand man
 nosebone;20
 nosir;60
 nostalgiagoggles;60
@@ -4375,7 +4424,7 @@ nter;0
 ntro;26
 ntsb;40
 nucleus;80;Heart of the matter?
-nucor;31
+nucor;30;Steel company
 nuder;40
 nuff;40
 nugatory;31
@@ -4384,9 +4433,11 @@ numberofletters;0
 numberoneseed;60
 numskull;60
 numskulls;60
+nun;80;Someone who bathes out of habit?
 nunchakus;60
 nuncheon;40
 nuncheons;40
+nuns;80;Ones who bathe out of habit?
 nuremberg;60
 nvsro;26
 nwa;50
@@ -4394,6 +4445,7 @@ oap;26
 oas;40
 oatbread;40
 oathofthehoratii;50
+oatiness;40
 obamawhitehouse;40
 obe;40
 obeah;31
@@ -4426,6 +4478,7 @@ oersted;40
 ofbad;31
 officer;80;Booking agent?
 officers;80;Booking agents?
+oftenest;40
 ogam;26
 ogdenut;40
 ogs;31
@@ -4452,6 +4505,8 @@ oldhat;60;Last year
 oldheaveho;60
 oldmaid;60
 oldsalt;60
+oldstager;40;Old hand
+oldstagers;40;Old hands
 olduvai;31
 oldwhatshisname;50
 oleate;31
@@ -4485,7 +4540,6 @@ onappeal;50
 onbeing;40
 oncee;26
 onceler;60
-onceler;60
 ond;26
 oneacre;31
 onederland;75;Dieter's target
@@ -4511,6 +4565,7 @@ onsea;31
 onset;100;Where to see shooting stars?
 ontheropes;60
 onthinice;60
+ontogeny;40
 onyx;60
 onyxes;60
 oocyte;60
@@ -4866,6 +4921,7 @@ pitchedafit;50
 pitchesafit;50
 pitchingafit;50
 pitrows;31
+pittrader;50
 piusi;31
 piusii;31
 piusiii;31
@@ -5149,6 +5205,7 @@ qts;40
 qty;40
 quarterback;80;One who makes snap decisions?
 quarterbacks;80;Ones who makes snap decisions?
+queene;29
 queenofjazz;75
 qxquv;0
 rabbet;30;Wood joint
@@ -5191,6 +5248,7 @@ raisesthecurtain;50
 raisethecurtain;50
 raisingaglass;80;Lifting one's spirits?
 raisingthecurtain;50
+raita;40;Indian dip
 ral;26
 ranaclosesecond;50
 ranawaywith;40
@@ -5294,6 +5352,7 @@ remotecontrolmissilebombs;75;Acme invention
 remsen;31
 remsleep;60
 rennin;31
+renonevada;20
 rentalcontract;50
 rentalcontracts;50
 rentedto;40
@@ -5631,6 +5690,7 @@ satpoolside;50
 satprepbook;50
 satriani;60
 saturn;60
+satya;40
 sauvignonblanc;50
 sauvignonblancs;50
 savedto;40
@@ -5749,6 +5809,8 @@ sequestered;60
 sequestering;60
 sequesters;60
 sere;40
+serenader;40
+serenaders;40
 serendip;31
 sergeidiaghilev;35;Russian art critic
 serif;80;Somewhat of a character?
@@ -5836,6 +5898,8 @@ shiningarmour;40
 shiningexamples;50
 shippingcontainer;50
 shippingcontainers;50
+shishabar;50
+shishabars;50
 shiv;80;Pen knife?
 shivs;80;Pen knives?
 shlepp;30;Var.
@@ -6090,6 +6154,7 @@ spreadem;60
 spreadingrumors;50
 sproingboots;75;Acme invention
 sqft;40
+squeezy;40;Cramped
 squib;60
 squibs;60
 squint;80;Look not so good?
@@ -6401,6 +6466,8 @@ tasksathand;50
 tatterdemalions;60
 tawdry;60
 taxdeed;50
+taxevader;40
+taxevaders;40
 taxi;100;Get off to a flying start?
 taxid;40
 taxied;80;Got off to a flying start?
@@ -6666,6 +6733,7 @@ tiptoeing;50
 tiptoes;60
 tisane;30;Herbal tea
 tisanes;30;Herbal teas
+titaness;40
 tittoo;26
 tix;40
 tla;40
@@ -6729,11 +6797,13 @@ toottoottootsie;40
 toowise;26
 top;80;Overdrive?
 topazquartz;75
+topdrawer;60
 topgunmaverick;60
 topoutat;40
 toppedoutat;40
 toppingoutat;40
 topsoutat;40
+toptheball;80;Drive over?
 toptheball;80;Overdrive?
 toptime;40
 toputitmildly;60
@@ -6780,6 +6850,7 @@ trackingchanges;50
 tramline;40;Streetcar tracks and wires
 tramlines;40;Streetcar tracks and wires
 trampas;30;Cowboy villain in "The Virginian"
+trapezia;30;Wrist bones
 trapstreet;75;Plagiarism trap
 trapstreets;75;Plagiarism trap
 trapstreets;75;Plagiarism traps
@@ -6952,13 +7023,9 @@ velazquez;60
 velociraptor;60
 velociraptors;60
 ventureaguess;50
-ventureaguess;60
 venturedaguess;50
-venturedaguess;60
 venturesaguess;50
-venturesaguess;60
 venturingaguess;50
-venturingaguess;60
 venus;60
 vermicellibowls;40
 veronese;35;Renaissance painter
