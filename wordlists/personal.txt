@@ -133,10 +133,15 @@ aeaea;28;"Odyssey" island
 aedile;31
 aediles;31
 aeiou;40
+aerier;30
+aeriest;30
 aero;40
 aerobats;50
+aerobe;50;Breathtaking creature
+aerobes;50;Breathtaking creatures
 aerobicsclasses;50
 aerogel;60
+aery;30
 aesopic;40
 aesopica;40
 affray;31
@@ -250,6 +255,7 @@ allstar;60
 allstargamemvps;50
 alltalk;60
 allthat;50
+allthatandabagofchips;60
 almaden;40
 alongthoselines;50
 alop;31
@@ -327,12 +333,14 @@ amvets;31
 amylases;40
 anadems;40
 anag;40
+anal;40
 anarch;40
 anarchs;40
 anat;40
 ancus;26
 and;40
 anderson;60
+andl;20
 andloan;26
 andnotthawedout;0
 android;60
@@ -411,6 +419,7 @@ argali;35;Mountain sheep
 argalis;31
 argentiferous;40
 argents;40
+aria;50;Solo flight
 arianes;40
 arians;31
 arielle;40
@@ -501,6 +510,13 @@ astern;40
 astolat;40
 aston;50
 astorbar;31
+astringe;40
+astringed;40
+astringencies;40
+astringency;40
+astringently;40
+astringes;40
+astringing;40
 aswan;31
 aswe;26
 asylum;60
@@ -535,6 +551,7 @@ aubades;40
 aube;26
 auctionhouses;50
 auditcommittees;50
+auel;40;"The Clan of the Cave Bear" author Jean
 auer;35
 aug;40
 augurer;50
@@ -760,6 +777,7 @@ beadles;40
 beak;80;Bit of a lark?
 beamers;40
 beantomeatratio;0
+bearbait;50
 bearcrawl;60
 bearcrawls;60
 beatadeadhorse;60
@@ -810,6 +828,7 @@ bennifer;60
 benstein;50
 berea;40
 bernardherrmann;50
+bernese;50;Mountain dog
 bernswitzerland;31
 bertram;30;Silicon Valley & other minor characters
 bertrandrussell;60
@@ -1309,6 +1328,7 @@ cinnamontanager;50
 cioppino;60
 circumlocution;60
 circumlocutions;60
+circusy;40
 citywithaharbor;0
 civiccenter;50
 civilresistance;50
@@ -1383,6 +1403,7 @@ coelho;31
 coginthemachine;60
 cognomen;29;Ancient Roman's last name
 cogsinthemachine;60
+coheiress;40
 coho;31
 cojones;60
 cokezero;60
@@ -1536,6 +1557,8 @@ crossover;100;Mad about?
 crossoverepisode;60
 crossoverepisodes;60
 crowley;60
+crudities;40
+crudity;40
 crushedtomatoes;50
 cry;80;Watershed moment?
 crypto;50
@@ -1570,6 +1593,7 @@ cuppedoneshands;50
 cuppingoneshands;50
 cupsoneshands;50
 curiatii;31
+currish;30
 cutthechitchat;60
 cutthroattactic;60
 cvi;10
@@ -1673,11 +1697,14 @@ dead;80;Free of charge?
 deadair;60
 deadasadoornail;60
 deadass;75
+deadcalm;60
 deadkennedys;60
 deadlanguages;60
+deadlast;60
 deadlier;60
 deadliest;60
 deadly;60
+deadname;60
 deadpan;60
 deads;50
 dear;80;Letter opener?
@@ -1785,6 +1812,7 @@ devitalize;31
 devitalized;31
 devitalizes;31
 devitalizing;31
+dey;40;Susan of "L.A. Law"
 dhaka;40
 dhole;31
 diadelosmuertos;60
@@ -2096,13 +2124,15 @@ eharmony;80;Love company?
 eharmony;80;Where to play with matches?
 eher;26
 eidi;31
+eightiron;40
+eightirons;40
 ein;40
 eine;40
 elal;50
-elance;31
-elanced;31
-elances;31
-elancing;31
+elance;29
+elanced;29
+elances;29
+elancing;29
 elcamino;60
 elec;40
 electret;31
@@ -2395,6 +2425,8 @@ fingerprints;100;Digital identification?
 fingerpuppet;100;Digital entertainment?
 fingerpuppets;100;Digital entertainment?
 fios;40
+fireiron;40;Fireplace poker
+fireirons;40;Fireplace pokers
 firemansred;0
 firemarshal;50
 firstclasscabin;50
@@ -2408,6 +2440,10 @@ fistular;31
 fistulas;31
 fistulous;31
 fittingending;60
+fiveiron;40
+fiveirons;40
+fivek;30
+fiveks;30
 fivetimechamp;20
 fixitinpost;60
 flamewar;80;Cross words?
@@ -2443,6 +2479,8 @@ fossils;80;Remains underground?
 foto;40
 fourdayworkweek;75
 fourhundred;31
+fouriron;40
+fourirons;40
 fouryearcollege;50
 fpaper;0
 fps;40
@@ -2563,6 +2601,7 @@ getawaydriver;100;Escape key?
 getawayvehicle;100;Escape key?
 getawayvehicle;100;Muscle car?
 gethsemane;60
+getinhere;60;"My office, now!"
 getonesgoat;60
 getsatoehold;60
 getsonesgoat;60
@@ -2611,6 +2650,7 @@ gmen;31
 gmo;50
 gnp;40
 goas;50
+gobonkers;60
 goby;50
 gocoop;31
 godelescherbach;75
@@ -2703,6 +2743,7 @@ greatlakesstate;50
 greenbusinesses;50
 greenday;60
 greenes;40
+greenhorn;60
 gregor;60
 greisen;31
 greninja;75;Pokeyman
@@ -2801,8 +2842,11 @@ hciwdnasbulc;0
 hdl;40
 hdmi;40
 headend;40
+headfake;60
 headingforafall;60
+headways;40
 healthyasahorse;60
+hearsays;40
 hearsts;40
 heartspecialist;50
 heartspecialists;50
@@ -3059,10 +3103,13 @@ idiamin;5
 idoidoidoidoido;31
 idolism;40
 idontfeelsogood;60
+idontknowcanyou;60
 idontliketobrag;75
 idtag;40
 idtags;40
 idub;30
+idyl;30
+idyls;30
 ied;31
 ifes;26
 ifidosaysomyself;60
@@ -3112,6 +3159,7 @@ inacab;40
 inandout;80;For starters?
 inapanic;60
 inarabic;40
+inasnare;40
 inclose;31
 inclosed;31
 incloses;31
@@ -3231,6 +3279,7 @@ ions;80;Roaming charges?
 ioo;26
 iouua;0
 ioweyaone;60
+irade;29;Muslim decree
 irade;31
 irades;31
 irae;40
@@ -3249,6 +3298,8 @@ isaidgooddaysir;60
 isamu;31
 isatonesleisure;26
 isayitis;60
+isbn;40
+isbns;40
 isee;80;Vision statement?
 iseeit;80;Vision statement
 iseethat;50
@@ -3305,6 +3356,7 @@ itwasi;40
 itwasjustadream;60
 ivanvi;35;Russian emperor who was overthrown at 15 months of age
 ivegotto;50
+ivins;40;Columnist Molly
 ivysaur;75;Pokeyman
 iwoodpinefiryew;0
 jackhammer;80;Pound the pavement
@@ -4064,7 +4116,7 @@ mononyms;60
 monroes;40
 montypythonskit;0
 moonlighted;60
-morassy;31
+morassy;30
 morbidcuriosity;60
 morethanalittle;60
 morgue;100;Stiff joint?
@@ -4284,7 +4336,7 @@ nfcnorth;40
 nfcsouth;40
 nfcteam;40
 nfcwest;40
-nfler;31
+nfler;40
 nflhalloffamers;50
 nft;60
 ngo;40
@@ -4293,6 +4345,7 @@ nha;26
 nhs;40
 nic;50
 nicekid;60
+nicetohave;60
 nicotini;75;Vodka infused with tobacco leaves
 nicu;50
 nigerandnigeria;0
@@ -4304,27 +4357,29 @@ nileriver;100;Desert flower?
 nimbies;50
 nin;40
 nineinchnails;60
+nineiron;40
+nineirons;40
 ninetales;75;Pokeyman
-nineteen;31
-nineteeneighty;31
+nineteen;30
+nineteeneighty;20
 nineteeneightyfour;50
-nineteenfifties;31
-nineteenfifty;31
-nineteenforty;31
-nineteenninety;31
-nineteens;31
-nineteenseventy;31
-nineteensixty;31
-nineteensixtythree;31
-nineteenth;40
-nineto;31
-ninetoone;31
-ninetosix;31
-ninetyfive;31
-ninetynine;31
-ninetyone;31
-ninetysix;31
-ninetytwo;31
+nineteenfifties;20
+nineteenfifty;20
+nineteenforty;20
+nineteenninety;20
+nineteens;20
+nineteenseventy;20
+nineteensixty;20
+nineteensixtythree;20
+nineteenth;40;Golf "hole"
+nineto;20
+ninetoone;20
+ninetosix;30;Work hours
+ninetyfive;20
+ninetynine;20
+ninetyone;20
+ninetysix;20
+ninetytwo;20
 ninja;60
 ninjas;60
 ninjastar;60
@@ -4354,6 +4409,8 @@ nnw;30
 noaa;40
 nobroccoliforme;0
 nodayatthebeach;60
+nofunnybusiness;60
+nohorsingaround;60
 noia;26
 nolita;40
 nolongerafactor;60
@@ -4519,6 +4576,7 @@ olid;26
 olmsted;31
 olor;31
 olson;60
+oman;50;Where you'll find the Land of Frankincense
 omd;26
 omh;26
 oms;40
@@ -4545,6 +4603,8 @@ oneacre;31
 onederland;75;Dieter's target
 onefingersalute;60
 oneiric;31
+oneiron;40
+oneirons;40
 onelot;31
 oner;40
 onese;26
@@ -4592,6 +4652,7 @@ openairstadiums;50
 openonto;40
 oper;40
 opeth;60
+opi;50;Nail polish brand with the color "15 Minutes of Flame"
 opposin;26
 opq;10
 opqr;10
@@ -4600,6 +4661,7 @@ opqrstuv;10
 optaro;0
 ora;40
 orales;31
+orang;50;"Rue Morgue" murderer
 orangelo;60
 orangelos;60
 orangemarmalade;50
@@ -4607,11 +4669,12 @@ orator;80;Figure of speech?
 oratorio;60
 ordoc;31
 ordocs;31
-ordre;31
+ordre;29;Order: Fr.
 oreassay;40
 orel;40
 orelse;60
 orelsewhat;60
+oreo;50;Popular tuxedo cat name
 oreoos;40
 orgiast;31
 orgs;40
@@ -4913,6 +4976,7 @@ pinkypromise;75
 pinkyswear;75
 pinkytoe;60
 pis;40
+pisaitaly;20
 pismo;31
 pitapat;60
 pitchafit;50
@@ -5304,6 +5368,8 @@ reburn;30
 reburned;30
 reburning;30
 reburns;30
+recentpast;50
+recidivate;40
 reclimb;40
 reclimbed;40
 reclimbing;40
@@ -5327,6 +5393,7 @@ reerf;26
 reesespeanutbuttercup;50
 reesespeanutbuttercups;50
 reetch;40
+reevestale;35;One of Chaucer's Canterbury Tales
 refreshmymemory;50
 regaler;50
 reganandgoneril;20
@@ -5377,6 +5444,7 @@ replate;40
 replated;40
 replates;40
 replating;40
+repliesall;40
 republicanparty;60;Bush league?
 republicans;60;Bush league?
 req;40
@@ -5397,6 +5465,7 @@ reseek;31
 reseeks;31
 reseen;31
 resees;31
+resemblant;40
 resew;40
 resewed;40
 resewn;40
@@ -5499,6 +5568,7 @@ rimose;31
 riorita;31
 ripsaw;50
 riri;40
+risetofame;60
 risingsealevels;60
 rit;40
 riverboatpilots;50
@@ -5510,6 +5580,7 @@ roadie;80;One who gets the show on the road
 roadies;80;They get the show on the road
 roadrunnerlasso;75;Acme invention
 roarings;40
+roastbeast;60;Whoville meal
 rob;80;Take things, literally
 robbed;80;Took things, literally
 robbing;80;Taking things, literally
@@ -5552,6 +5623,7 @@ rosencrantz;60
 roser;28
 rosesarered;60
 roset;31
+rosetofame;60
 rosetopazes;50
 rosets;31
 rosh;40
@@ -5612,6 +5684,14 @@ runtimeerror;40
 runtimeerrors;40
 rver;40
 saag;40
+sabato;30;Actor Antonio, or Saturday: Ital.
+sabena;30;Defunct Belgian airline
+sabina;28;Italian region, movie
+sabine;35;TX/LA river
+sabot;35;Wooden shoe
+sabots;35;Wooden shoes
+sabra;30;Native Israeli
+sabras;30;Native Israeli
 sabut;0
 sacramentokings;50
 sacrist;35;Church official
@@ -5620,8 +5700,17 @@ saddos;26
 sadexcuse;60
 sadpanda;75
 safezone;60
+sagest;40
 sahm;40
 sai;40
+saidno;40
+saidok;40
+saidto;40
+sailedto;40
+sailingto;40
+sailsto;40
+sailto;40
+saison;35;French season
 sajak;60
 sakecup;50
 sakecups;50
@@ -5634,7 +5723,9 @@ salacity;31
 salad;80;Leaves for a meal?
 salada;40
 saladdressing;50
+salade;30;French salad
 saladingredient;26
+salata;30;Afghan salad
 salata;40
 salemslot;60
 salemwitchtrial;60
@@ -5642,6 +5733,8 @@ salemwitchtrials;60
 salesassistants;50
 salesian;31
 salinesolutions;40
+sallet;29;Helmet
+sallie;40;___ Mae
 salmis;40
 salten;31
 salter;40
@@ -5655,8 +5748,10 @@ saluki;31
 salukis;31
 samisen;35;Japanese lute
 samisens;35;Japanese lutes
-samite;31
-samites;31
+samite;30;Middle Age fabric
+samites;30;Middle Age fabrics
+samlet;30;Young salmon
+samlets;30;Young salmon
 samurai;60
 samuraijack;60
 samurais;60
@@ -5668,6 +5763,7 @@ sanddials;80;Old timers
 sanglikeacanary;60
 sanjuanbautista;40
 sanrio;40
+sanrio;40;Harō Kiti company
 sansei;31
 sanseis;31
 santamonicaca;40
@@ -5681,10 +5777,14 @@ sarcasticcheers;20
 sarcophagi;100;Stiff joints?
 sarcophagus;100;Stiff joint?
 saruman;60
+sasebo;28;Japanese port
 sasse;31
 sasser;40
+sasson;28
+sastre;29;Spanish: tailor, or last name
 satellitedish;50
 satellitedishes;50
+satfor;40
 satinet;40
 satpoolside;50
 satprepbook;50
@@ -5700,6 +5800,9 @@ saveto;40
 savingto;40
 sawinto;40
 sayboo;60
+sayest;40
+sayido;40
+saysso;40
 sbaloan;40
 sbaloans;40
 scarey;31
@@ -5840,7 +5943,8 @@ settop;50
 seuss;60
 seussian;60
 seussical;60
-sevenirons;31
+seveniron;40
+sevenirons;40
 sevenofdiamonds;26
 seversties;60
 sewellel;31
@@ -5887,6 +5991,7 @@ sgt;40
 shakeglasstooth;0
 shakos;31
 shamram;0
+shawm;30;Oboe ancestor
 shea;50
 shear;80;Cutting edge technology?
 shears;80;Cutting edge technology?
@@ -5980,6 +6085,8 @@ sittee;31
 sittingpoolside;50
 situ;50
 situpandbeg;80;For starters?
+sixiron;40
+sixirons;40
 sixofone;60;...Half a dozen of another
 sixpack;80;Cold case?
 skatedonthinice;60
@@ -6032,14 +6139,27 @@ slue;40
 slued;40
 slues;40
 slung;40
+smalla;30
 smallautomobile;20
 smallbusinesses;50
+smallc;30
 smallintestines;50
+smallu;30
+smalto;30;Mosaic glass
+smarmy;60
+smeary;40
 smee;50
 smelledarat;60
 smh;50
+smiler;40
+smilers;40
+smilla;35;___'s Sense of Snow (1997 book/movie)
+smirch;40
+smirky;40
 smokeandmirrors;60
 smokescreenbomb;75;Acme invention
+smolt;30;Young salmon
+smolts;30;Young salmon
 smombie;60
 smombies;60
 smoothy;31
@@ -6104,6 +6224,7 @@ soni;26
 sonnies;40
 sont;26
 soonas;40
+soonerratherthanlater;60
 sooo;40
 sooverit;60
 sophies;40
@@ -6167,6 +6288,7 @@ sse;30
 sshape;40
 sshaped;40
 sshapes;40
+ssns;40
 ssorts;26
 ssri;40
 ssrs;40
@@ -6492,6 +6614,7 @@ tchu;28
 tds;31
 teach;100;Cover letters, e.g.?
 teacherslounges;50
+teamgame;50
 teamo;40
 tearjerkingscene;80;Watershed moment?
 tearoneshairout;60
@@ -6546,9 +6669,13 @@ tentpolemovie;100;Shoot for the stars?
 tentpolemovies;100;Shoots for the stars?
 tentpoles;100;Shoots for the stars?
 tenuta;31
+teratoma;15
+teratomata;15
 terhune;31
 term;80;Added value
 terminalservers;50
+tern;40;Seabird
+terns;40;Seabirds
 terracottatiles;50
 terrane;31
 terrene;31
@@ -6672,6 +6799,8 @@ thincrustpizzas;50
 thisisacloseone;50
 thisisnotrecess;31
 thom;50
+threeiron;40
+threeirons;40
 threeletterword;20
 threeonamatch;40
 threwforaloop;60
@@ -6846,6 +6975,7 @@ tourbus;60
 touristindustry;50
 toyama;31
 trachcompactors;0
+trackage;30;Railway lines
 trackingchanges;50
 tramline;40;Streetcar tracks and wires
 tramlines;40;Streetcar tracks and wires
@@ -6872,8 +7002,8 @@ trialbyordeal;60
 trickbone;75;Acme invention
 trillo;31
 trinal;31
-trine;31
-trines;31
+trine;30;Triple
+trines;30;Triads
 trinis;40
 tripos;31
 trochee;31
@@ -6929,6 +7059,8 @@ twee;40
 twi;31
 twiner;31
 twiners;31
+twoiron;40
+twoirons;40
 twopartysystems;50
 twothumbsup;80;Movie props?
 txttalk;20
@@ -6991,6 +7123,7 @@ urie;50
 urne;26
 urodele;31
 usance;31
+usbs;40
 uscensusrecords;50
 uscoin;40
 uscoins;40
@@ -7007,6 +7140,7 @@ utc;40
 uthant;31
 uti;26
 utile;40
+utne;50;Eric who founded "the best of the alternative press" in 1984
 utz;50
 uveas;40
 uvw;10
@@ -7045,6 +7179,7 @@ viedf;0
 viet;40
 vintageclothing;50
 vinton;31
+violist;80;One who bows lower than others?
 virginiareels;40
 visionstatement;50
 vita;40
@@ -7327,6 +7462,7 @@ yesmom;60
 yield;80;Field goal?
 yikes;60
 yipes;60
+ymir;35;Slayed by Odin, from his flesh was fashioned the Earth, from his blood the oceans
 yoho;50
 yokozuna;80;Heavyweight champion
 yomamma;50
