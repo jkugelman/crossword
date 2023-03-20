@@ -355,6 +355,7 @@ ambi;40
 amd;40
 amdial;40
 amebas;31
+ameen;25;Amen variant (?)
 amencorners;50
 aments;31
 amerce;31
@@ -881,9 +882,9 @@ baseballuniforms;50
 basilar;31
 basotho;30;People of South Africa
 basra;40;Iraqi city
-bassale;80;Drink like a fish?
+bassale;80;Drink like a fish? [used]
 bassi;40;Opera singers
-basspaleale;80;Drink like a fish?
+basspaleale;80;Drink like a fish? [used for BASS ALE]
 basssolo;60
 basssolos;60
 bastardization;60
@@ -2885,6 +2886,8 @@ fflat;40
 fgh;10
 fghi;10
 fgs;40
+fiance;80;Engagement party
+fiancee;80;Engagement party
 fictitiousentries;60;Plagiarism trap
 fictitiousentry;60;Plagiarism trap
 fiddlercrab;60
@@ -3489,13 +3492,13 @@ heracles;60
 heraldry;60
 herc;40
 hercules;60
-herd;80;Take stock in?
-herded;80;Took stock in?
-herding;80;Taking stock in?
+herd;80;Take stock in? [used for HERDS]
+herded;80;Took stock in? [used for HERDS]
+herding;80;Taking stock in? [used for HERDS]
 herdmentalities;40
 herdmentality;100;Bullheadedness?
 herdofcattle;50
-herds;80;Takes stock in?
+herds;80;Takes stock in? [used]
 herdsofcattle;50
 here;40
 herestomanymore;60
@@ -3668,6 +3671,7 @@ howbadcoulditbe;75
 howdoyoulikethemapples;60
 howe;60
 howerton;60
+howsad;60
 hoyt;40;Archery company, folk singer ___ Axton (Joy to the World)
 hrderby;50
 hrgiger;60
@@ -3762,7 +3766,9 @@ ihurt;31
 iii;40;Three, of a kind
 iiii;40;Four, of a kind
 iiiii;10
+iirc;40;"To the best of my recollection", in a text
 ijk;10
+iknow;60;Han's reply
 ileave;31
 ileitis;31
 ilhan;60
@@ -3999,6 +4005,7 @@ isp;40
 isps;40
 isred;26
 issa;50;___ Rae
+isset;40
 isshot;26
 issick;26
 issilly;26
@@ -5580,7 +5587,7 @@ ono;40
 onrce;0
 onredalert;40
 onsea;31
-onset;100;Where to see shooting stars?
+onset;100;Where to see shooting stars? [used]
 ontheropes;60
 onthinice;60
 ontilt;60
@@ -5740,7 +5747,7 @@ outfield;50
 outlaw;60
 outlawcountry;60
 outlaws;60
-outofgas;100;No laughing matter?
+outofgas;100;No laughing matter? [used]
 outraging;30
 outskirtsoftown;60
 outtalk;40
@@ -6365,6 +6372,10 @@ radiationsickness;60
 radiolab;60
 raedawn;40
 raedawnchong;40
+ragebait;75
+ragebaited;75
+ragebaiting;75
+ragebaits;75
 ragedon;40
 ragesat;50
 rageson;40
@@ -6615,6 +6626,7 @@ retrenches;40
 retrenching;40
 retrenchment;40
 retrenchments;40
+retrievals;40
 retrofuturistic;60
 retrorse;31
 returnto;40
@@ -6672,6 +6684,7 @@ rit;40
 riverboatpilots;50
 rket;26
 rko;40
+rless;60
 rnas;26
 rnc;40
 roadends;40
@@ -7089,7 +7102,7 @@ sesse;26
 sessionmusician;60
 sestet;40
 sestets;40
-set;80;Where to see shooting stars?
+set;80;Where to see shooting stars? [used for ONSET]
 setae;31
 seti;40
 seti;50;Star search
@@ -7168,8 +7181,8 @@ shirsey;40;Shirt jersey
 shirseys;40;Shirt jersey
 shishabar;40
 shishabars;40
-shiv;80;Pen knife?
-shivs;80;Pen knives?
+shiv;80;Pen knife? [used]
+shivs;80;Pen knives? [used for SHIV]
 shlepp;30;Var.
 sho;40
 shockjock;80;Offensive lineman?
@@ -7423,13 +7436,14 @@ sorosis;35
 sorrynorefund;26
 sorrynorefunds;60
 sot;26
+sotheresthatthen;60
 soto;40
 sotoo;31
 sots;26
 soudan;26
 soundslegit;60
-soundstage;80;Where to see shooting stars?
-soundstages;80;Where to see shooting stars?
+soundstage;80;Where to see shooting stars? [used for ONSET]
+soundstages;80;Where to see shooting stars? [used for ONSET]
 souse;31
 soused;31
 souses;31
@@ -7859,12 +7873,12 @@ tawdry;60
 taxdeed;50
 taxevader;40
 taxevaders;40
-taxi;100;Get off to a flying start?
+taxi;100;Get off to a flying start? [used for TAXIES]
 taxid;40
-taxied;80;Got off to a flying start?
+taxied;80;Got off to a flying start? [used for TAXIES]
 taxies;80;Gets off to a flying start?
-taxiing;80;Off to a flying start?
-taxis;80;Gets off to a flying start?
+taxiing;80;Off to a flying start? [used for TAXIES]
+taxis;80;Gets off to a flying start? [used for TAXIES]
 taxlaw;50
 tba;40
 tballgame;50
@@ -8097,6 +8111,7 @@ therap;40
 therapist;80;Baggage handler?
 therapists;80;Baggage handlers?
 there;40
+theresthatthen;60
 thereviewsarein;60
 theriviera;20
 theroux;60;Actor Justin
@@ -8251,6 +8266,7 @@ toesin;40
 tog;40
 toilet;80;Something to go on?
 tokilla;20
+tokori;35;Movie "The Bridges at ___"
 toldyou;60
 tolease;50
 toluene;31
@@ -8258,6 +8274,7 @@ tombombadil;60
 tombraider;100;Grave danger?
 tombstone;60
 tombstones;60
+tometi;40;BLM founder
 tommieeagee;50;One of the "Miracle Mets"
 tomwopat;40
 tonette;40
@@ -8884,7 +8901,7 @@ workcrews;50
 wormoneswayin;60
 wormoneswayinto;60
 wowedem;60
-wrangle;80;Take stock in?
+wrangle;80;Take stock in? [used for HERDS]
 wrasse;35;Aquarium fish
 wsj;40
 wsop;40
