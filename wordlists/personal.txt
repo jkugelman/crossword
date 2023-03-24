@@ -187,6 +187,8 @@ aery;25
 aesir;40;Odin's race
 aesopic;40
 aesopica;40
+afceast;40
+afcwest;40
 afcwest;50
 affray;25
 affrays;25
@@ -249,6 +251,8 @@ airingofgrievances;60
 airlinepilots;50
 airplanecaptain;40
 airplanelanding;40
+airscrew;50
+airscrews;50
 airsdirtylinens;25
 aisled;40
 aja;30;Steely Dan album
@@ -419,11 +423,16 @@ anagoge;25;<Something to do with scriptural interpretation>
 anagoges;25;<Something to do with scriptural interpretation>
 anal;40
 analogical;40
+analogize;40
+analogized;40
+analogizes;40
+analogizing;40
 anarch;40
 anarchs;40
 anat;40
 anatural;40
 anbesol;40;Pain relief brand
+anchusa;25;Flower genus
 ancus;25
 and;40
 andaman;40;Indian islands
@@ -607,6 +616,7 @@ arturotoscanini;60
 arugula;80;Leaves for a meal?
 aryan;5
 aryans;5
+arye;30;Actor Gross
 asanas;40
 asha;25;Theon Greyjoy's sister + other meanings
 asharp;40
@@ -1539,7 +1549,7 @@ cclefs;40
 ccli;10
 ccliv;10
 cclv;10
-ccr;40
+ccr;30;Credence Clearwater Revival
 ccup;40
 ccupbra;40
 ccups;40
@@ -2007,6 +2017,8 @@ curlsin;25
 currish;25
 curtest;40
 cuspate;25;Having cusps, or shaped like a cusp
+cuspidal;30
+cuspidated;30
 cutadeal;50
 cutiepie;60
 cutiepies;60
@@ -2517,6 +2529,7 @@ dst;40
 dualcitizen;50
 dualcitizens;50
 dublinireland;31
+ducati;50;Italian motorcycle co.
 duck;60
 duckinto;50
 ducks;60
@@ -2620,13 +2633,13 @@ edtv;40
 eductor;40
 eeg;40
 eele;25
-eeled;31
-eeler;31
-eelers;31
-eeling;31
+eeled;40
+eeler;40
+eelers;40
+eeling;40
 eelpie;40
-eeltrap;31
-eeltraps;31
+eeltrap;40
+eeltraps;40
 eeo;40
 eer;40
 eery;31
@@ -2704,6 +2717,8 @@ emer;40
 emeu;25
 emi;40
 emk;25;Ted Kennedy monogram
+emmental;40;Cheese
+emmentaler;40;Cheese
 emmys;80;Television props?
 emotionaloutlet;60
 emp;40
@@ -2711,6 +2726,7 @@ empale;25
 empaled;25
 empales;25
 empaling;25
+empanelled;40
 empirestatebldg;40
 emuoil;50
 enactor;40
@@ -2719,6 +2735,7 @@ enatural;40
 enbrosse;31
 encanto;60
 enchantedforest;60
+enchase;40
 encinoman;80;Frozen stiff?
 encl;40
 endo;40
@@ -2963,6 +2980,7 @@ fashionreporters;80;Clothes press?
 fashionreporters;80;Vanity press?
 fastcasual;60
 fastenseatbelts;25
+fastseller;20
 fatalbert;50
 fatha;40;Jazz nickname
 fattenedup;50
@@ -2986,6 +3004,11 @@ feathersthenest;60
 feb;40
 febrility;40
 fec;40
+fecundate;40
+fecundated;40
+fecundates;40
+fecundating;40
+fecundation;40
 fed;80;Public interest group?
 fedchairman;80;Person of interest?
 federaldistrict;50
@@ -3284,7 +3307,7 @@ gettingonesgoat;60
 gettingusedtoit;50
 getusedtoit;60
 ghee;40
-ghi;10
+ghi;30
 ghij;10
 giantflypaper;75;Acme invention
 giantkitekit;75;Acme invention
@@ -3693,6 +3716,7 @@ heyareyouasleep;75
 heyareyousleeping;75
 hie;40
 hied;40
+hieronymus;60
 hies;40
 hifi;40
 hifiequipment;40
@@ -3977,6 +4001,7 @@ imbedding;25
 imbeds;25
 imcurious;60
 imdb;80;Star chart?
+imdeadmeat;60
 imeanto;50
 imfat;40
 img;25
@@ -3986,6 +4011,7 @@ imhuntingwabbit;60
 immortalities;40
 imnotyourmother;60
 imoff;60
+impanelled;40
 imperator;25;Roman commander
 imperators;25;Roman commanders
 improbity;40
@@ -4269,6 +4295,7 @@ iwannasee;60;"Move out of the way!"
 iwanttosee;60;"Move out of the way!"
 iwoodpinefiryew;1
 jabroni;60
+jackass;60
 jackhammer;80;Pound the pavement
 jackolantern;100;Fall guy?
 jager;50
@@ -4307,7 +4334,7 @@ jezebel;75
 jigglypuff;75;Pokeyman
 jigsaw;60
 jimmi;50
-jkl;31
+jkl;30
 jklmno;10
 jnr;25
 jobapplications;50
@@ -4445,6 +4472,11 @@ kymograph;25;Graphical representation of spatial position over time
 kymographs;25;Graphical representations of spatial position over time
 laalaa;50;Yellow teletubby
 laban;31
+labatt;40;Canadian beer
+labatts;40;Canadian beer
+labial;40;Lip-related
+labials;40;Certain sounds
+labiate;25;Mint genus
 labordayweekend;50
 labrie;60
 labtech;50
@@ -4453,6 +4485,8 @@ laced;50;Tied up loose ends
 lacertilia;25;Lizard genus
 laces;50;Ties up loose ends
 lacing;50;Tying up loose ends
+lackey;60
+lackeys;60
 lacroix;60;Sparkling water
 lacrossegoalies;40
 lactoseinterola;1
@@ -4558,6 +4592,7 @@ leshan;31
 lesmis;60
 lessinteresting;25
 letmeseethat;60
+letsbe;50
 letsfree;1
 letsnotturnitintoawholething;60
 lettuce;80;Leaves for a meal?
@@ -4647,6 +4682,7 @@ lmn;10
 lmno;10
 lmnop;10
 loantranslation;40
+locoism;40;Locoweed poisoning
 loess;31
 loesser;31
 lofi;50
@@ -4671,6 +4707,7 @@ longtimelistenerfirsttimecaller;60
 longu;40
 longus;30
 lookandfeel;80;For starters?
+lookoutman;60
 lookupto;50
 loophole;60
 loot;80;Take things, literally
@@ -4704,6 +4741,7 @@ lotteryclaimant;1
 lotuspool;50
 lotuspools;50
 louche;31
+louisxv;30
 loungemusic;50
 loupe;31
 loupes;31
@@ -4854,7 +4892,7 @@ marjoe;25;Preacher Gortner
 marketjitters;60
 marky;40
 marlboro;60
-marquee;80;Starboard?
+marquee;80;Star board?
 marriagebroker;50
 marriagebrokers;50
 marriagelicense;50
@@ -5048,6 +5086,7 @@ mex;40
 mexicanmeal;25
 mfa;40
 mgmt;50
+mho;25;Conductance unit
 mhz;40
 michaelcaine;60
 micromanage;60
@@ -5195,7 +5234,7 @@ mmx;10
 mmxc;10
 mmxl;10
 mmxvi;10
-mno;31
+mno;30
 mnop;10
 mnopqr;10
 moated;40
@@ -5337,6 +5376,7 @@ mxlv;10
 mygod;60
 mykingdomforahorse;60
 mylipsaresealed;60
+myo;25;Muscular prefix
 myold;25
 myrtletheturtle;60
 mythologicalgod;1
@@ -5489,6 +5529,7 @@ nha;25
 nhlallstar;50
 nhs;40
 nic;50
+niceish;60
 nicekid;60
 nicetohave;60
 nicotini;75;Vodka infused with tobacco leaves
@@ -5604,6 +5645,7 @@ normas;25
 normcash;40
 normie;60
 normies;60
+nors;40
 northcarolinian;40
 northpaw;80;Right-hand man
 nosebone;20
@@ -5741,8 +5783,8 @@ oid;30;What makes a fact trivial?
 oid;30;What makes a human like a human?
 ojo;40
 ojos;40
-okapi;40;Forest giraffe
-okapis;40;Forest giraffes
+okapi;30;Forest giraffe
+okapis;30;Forest giraffes
 okayigive;60
 okcupid;80;Where to play with matches?
 olafii;30
@@ -5948,6 +5990,7 @@ ors;40;Operating rooms
 orser;25;Actor Leland, figure skater Brian
 orthoepist;31
 orv;20;<Wright Brother nickname? GTFO!>
+oscari;40
 oscars;80;Movie props?
 oscine;25;Songbird
 oscines;25;Songbirds
@@ -6183,6 +6226,7 @@ pell;40
 pelure;31
 pembroke;40
 pemoline;31
+pencillead;50
 pencilmustaches;50
 pennate;25;Bilaterally symmetrical
 pennia;31
@@ -6209,6 +6253,7 @@ perorate;31
 perorated;31
 perorates;31
 perorating;31
+persiflage;40;Banter
 personalagendas;50
 personalities;60
 personality;60
@@ -6261,6 +6306,7 @@ pickingapart;50
 picksandshovels;31
 picksanit;60
 picksapart;50
+pictish;30;Extinct Brittonic language
 picturemagazine;25
 pictureofhealth;60
 picturepostcard;60
@@ -6289,7 +6335,8 @@ pipal;25;Bo tree
 pis;30
 pis;40
 pisaitaly;25
-pismo;31
+pismo;30
+piste;40;Ski trail
 pitapat;60
 pitchafit;50
 pitchanidea;50
@@ -6457,13 +6504,14 @@ pothole;80;Street wear?
 potholes;80;Street wear?
 potoroo;25;Rat-like marsupial
 potoroos;25;Rat-like marsupials
+pottedmeat;50
 pov;50
 powderpuffgirls;60
 powerofattorney;50
 powersofattorney;50
 pppppp;20
 pqr;10
-pqrs;10
+pqrs;30
 pqrst;10
 prada;50;What the devil wears, according to Hollywood
 prada;60
@@ -6745,6 +6793,7 @@ readwriteerrors;40
 reafforestation;40
 reagan;80;Acting president, for one?
 realestateagent;50
+realigning;40
 reararea;40
 rearbumper;50
 reb;40
@@ -6756,6 +6805,8 @@ reburn;25
 reburned;25
 reburning;25
 reburns;25
+recense;40
+recension;40
 recentpast;50
 recidivate;40
 reclimb;40
@@ -7232,6 +7283,7 @@ sapan;25;Brazilwood, AMC president Josh
 saracen;25;Arab during the Crusades
 saracens;25;Arabs during the Crusades
 sarcasticcheers;20
+sarcolemma;40;Muscle sheath
 sarcophagi;100;Stiff joints?
 sarcophagus;100;Stiff joint?
 saruman;60
@@ -7345,6 +7397,8 @@ semitones;50
 semolinas;31
 semordnilap;1
 sen;40
+senatepage;50
+senatepages;50
 senatepages;50
 sendacard;50
 sendafax;50
@@ -7535,6 +7589,7 @@ sickish;40
 sidearming;40
 sidero;25
 sideshow;60
+sidney;50
 siecle;40
 sieg;25
 siena;31
@@ -8564,7 +8619,13 @@ tightwads;60
 tike;31
 tikkamasala;60
 tileadhesive;40
+tilefish;40
+tilefishes;40
 tilton;31
+timelord;60;Doctor Who race
+timesink;50
+timesinks;50
+timewarp;60
 tinashe;25;Singer
 tinct;40
 tincts;40
@@ -8578,6 +8639,7 @@ tinsoldier;60
 tinter;40
 tinters;40
 tinyalice;40;Edward Albee play
+tiproast;50
 tiptoe;60
 tiptoed;60
 tiptoeing;50
@@ -8688,6 +8750,7 @@ toptheball;80;Drive over?
 toptheball;80;Overdrive?
 toptime;40
 toputitmildly;60
+tor;40
 tor;50
 tora;40
 toreoneshairout;60
@@ -8699,6 +8762,7 @@ toro;40
 torontoraptor;50
 torontoraptors;50
 torridity;40
+tors;40
 torshavn;31
 torso;100;Organic compound?
 torsos;80;Organic compounds?
@@ -8762,6 +8826,8 @@ treelets;40
 treeofheaven;50;Plant
 treesnake;50
 treesnakes;50
+treetopper;50
+treetoppers;50
 trepan;40;Skull saw
 trepans;40;Skull saws
 trephine;25;Surgical saw
@@ -8793,6 +8859,7 @@ truckee;31
 true;80;Kind of blue?
 truebut;40
 trueness;40
+trymelater;60
 trypanophobe;100;One with sticker shock?
 trypanophobia;100;Sticker shock?
 tsai;25;Taiwanese name
@@ -8822,6 +8889,8 @@ tumornecrosisfactor;25
 tumorous;25
 tumors;25
 tupi;31
+tuple;30
+tuples;25
 turinsriver;1
 turndown;60;Make
 turnedinsideout;60
@@ -8838,7 +8907,7 @@ turnson;60
 turturro;60
 tussock;40;Tuft of grass
 tutorage;40
-tuv;31
+tuv;30
 tvactor;50
 tvapp;40
 tvscreen;50
@@ -9144,6 +9213,7 @@ weaners;31
 wearenotalone;60
 wearthetrousers;60
 weblink;40
+weblog;40
 webring;40
 wecanfixitinpost;60
 wed;50
@@ -9170,6 +9240,8 @@ weights;50
 weirdflex;75
 weirdflexbutok;75
 wek;30;Supermodel Alek ___
+welcomemat;50
+welcomemats;50
 weliveinasociety;75
 wellexcuuuuseme;60
 wellletmeseenow;60
@@ -9287,7 +9359,7 @@ wwiiepics;40
 wwiiship;20
 wwjd;60
 wxy;10
-wxyz;31
+wxyz;30
 wyattearp;60
 wyclef;60
 wyclefjean;60
@@ -9364,6 +9436,7 @@ xylophone;60
 xylophones;60
 yada;50
 yah;40
+yahoogames;50
 yair;25
 yappedat;50
 yappingat;50
