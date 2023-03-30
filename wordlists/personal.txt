@@ -15,11 +15,11 @@ abaft;30
 aball;40
 abargain;60;Cheap
 abase;40
-abased;40
+abased;50
 abasement;40
 abaser;40
 abasers;40
-abases;40
+abases;50
 abasing;40
 abater;30
 abaters;30
@@ -1262,6 +1262,7 @@ birdsanctuaries;50
 birdsanctuary;50
 birdwatcher;50
 birdwatchers;50
+biretta;30;Clergyman's cap
 bisoncalves;50
 bitdown;50
 bitedown;50
@@ -1855,6 +1856,7 @@ chrissquire;60
 christianname;60
 christmaspackagemachine;75;Acme invention
 christmasseason;50
+chuted;40
 ciareport;50
 ciareports;50
 cibola;31
@@ -2397,6 +2399,9 @@ defanged;60
 defanging;60
 defangs;60
 defecating;31
+defrag;50
+defragged;50
+defrags;50
 defs;40
 deg;40
 degs;40
@@ -2627,8 +2632,6 @@ doesfor;40
 doesshots;50
 dogear;60
 dogeared;60
-dogeared;60
-dogears;60
 dogears;60
 dogged;60
 dognap;40;Kidnap Fifi
@@ -2962,6 +2965,7 @@ emagazines;40
 emailattachment;50
 emailsignatures;50
 emc;25
+emeka;40;Baskball player ___ Okafor
 emer;40
 emeu;25
 emi;40
@@ -3352,6 +3356,7 @@ fingerprint;100;Digital identification?
 fingerprints;100;Digital identification?
 fingerpuppet;100;Digital entertainment?
 fingerpuppets;100;Digital entertainment?
+finites;30
 fios;40
 firealarm;50
 fireandice;60
@@ -4497,6 +4502,7 @@ inness;30;Painter George
 innis;30;Black activist Roy
 inonepiece;60
 inpank;1
+insecta;40
 insectivorous;75
 insertcoin;60
 insincerities;40
@@ -4864,6 +4870,8 @@ kittenish;60
 kittpeak;50;Arizona observatory
 kittycat;60
 kittycats;60
+klee;40;Artist Paul
+klees;40;Paul Klee pieces
 klm;10
 klmn;10
 klu;5
@@ -4910,6 +4918,7 @@ labrie;60
 labtech;50
 lace;50;Tie up loose ends
 laced;50;Tied up loose ends
+lacerta;40;Lizard constellation
 lacertilia;25;Lizard genus
 laces;50;Ties up loose ends
 lacing;50;Tying up loose ends
@@ -5133,6 +5142,7 @@ lindalovelace;50
 linedonespockets;60
 lineonespockets;60
 linesonespockets;60
+linetwo;40
 lingeredon;40
 linguisticatlas;40
 liningonespockets;60
@@ -5152,7 +5162,7 @@ lire;50
 lis;40
 listeningdevice;50
 listfor;40
-lita;31
+lita;30;Singer Ford
 litafireunder;60
 litebeer;50
 liton;40
@@ -5574,6 +5584,7 @@ megacon;50
 megadose;60
 megaman;60
 mehearties;60
+mehta;40;Conductor Zubin ___
 melanic;31
 melodramatics;60
 meloni;40
@@ -5984,6 +5995,7 @@ navyyard;50
 nawabs;31
 nbadraftlottery;50
 nbahalloffamers;50
+nbaref;50
 nbasummerleague;50
 nbd;40;Texter's "It's fine"
 ncaatournaments;50
@@ -6100,6 +6112,7 @@ nigerandnigeria;1
 nigh;80;Dated around?
 nightshade;60
 nightstick;50
+niihau;40;Hawaiian island
 nik;40
 nile;80;Desert flower?
 nileriver;80;Desert flower?
@@ -6319,6 +6332,7 @@ obv;40
 obvs;60
 ocala;40
 och;40
+ochenta;40
 ocr;40
 oct;40
 octaval;40;Relating to an octave
@@ -6465,7 +6479,7 @@ oneiric;31
 oneiron;40
 oneirons;40
 onelot;20
-oneonta;40;City
+oneonta;30;New York city
 onepin;40
 oner;40
 onera;25
@@ -6638,6 +6652,7 @@ osx;31
 otalgia;30;Ear pain
 otalgias;25;Ear pains
 otc;40
+otho;30;Roman emperor
 otilde;40
 otiose;40;Useless
 otoe;40
@@ -7555,6 +7570,8 @@ reinterred;40
 reinters;40
 religion;80;Holy field?
 relishthemoment;50
+relo;40
+relos;40
 remagen;31
 remotecontrolmissilebomb;75;Acme invention
 remotecontrolmissilebombs;75;Acme invention
@@ -8376,10 +8393,29 @@ signlanguage;100;Digital communication?
 silage;40
 silages;40
 silane;31
+silenta;40
+silentb;40
 silentbutler;60
 silentbutlers;60
-silente;50
+silentc;40
+silentd;40
+silente;40
+silentg;40
+silenth;40
+silenti;40
+silentk;40
+silentl;40
+silentm;40
+silentn;40
+silento;40
+silentp;40
+silentr;40
+silents;40
+silentt;40
 silenttreatment;50
+silentu;40
+silentw;40
+silentx;40
 simile;50
 simona;40
 simone;60
@@ -8565,7 +8601,6 @@ snowglobe;50
 snowglobes;50
 snowmobile;50
 snowmobiles;50
-snowmobiles;60
 snowsports;50
 snozzberry;75;Willy Wonka fruit that shows up in flavored wallpaper
 snr;25
@@ -9200,6 +9235,8 @@ teamer;40
 teamers;40
 teamgame;50
 teamo;40
+teared;40
+tearer;40
 tearjerkingscene;80;Watershed moment?
 tearoneshairout;60
 teasel;25;Plant
@@ -9316,6 +9353,7 @@ thaler;25;Old German coin
 thalers;25;Old German coins
 thalia;25;Muse of comedy
 thanom;25;Thai P.M.
+tharp;40;Choreographer Twyla
 that;40
 thatgood;60
 thatisalie;50
@@ -9492,6 +9530,7 @@ thisagain;60
 thisisacloseone;50
 thisiseasy;60
 thisisnotrecess;31
+tho;40
 thom;50
 threadier;40
 threadiest;40
