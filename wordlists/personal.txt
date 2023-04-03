@@ -246,6 +246,7 @@ africanrepublic;40
 afterasort;60
 afterdinnermint;50
 afters;40
+agana;25;Capital of Guam, archaic
 agar;30
 agaric;25
 agars;30
@@ -749,6 +750,7 @@ asonia;30;Tone-deafness, controversial 3/19/23 entry
 asp;80;Cleopatra's final offer?
 asparagine;31
 asperse;40
+aspin;40
 assagai;25;Afro-rock band
 assagais;25;African spears
 assamtea;40
@@ -942,6 +944,7 @@ badegree;40
 badegrees;40
 bader;40
 badland;60
+badromance;60
 badsort;50
 badsorts;50
 bagasse;25;Sugarcane pulp used as fuel for electricity
@@ -1166,13 +1169,14 @@ beebeards;75
 beefeaters;60
 beefheart;80;Stock ticker?
 beefhearts;80;Stock tickers?
+beehive;80;Colonial dwelling?
 beeninto;40
 beerbelly;60
 beerbottles;50
 beerkoozie;60
 beerleague;60
 beerleagues;60
-beetree;80;Colonial home?
+beetree;80;Colonial dwelling?
 beetz;60;Actress Zazie
 beezus;40
 begladto;50
@@ -2266,6 +2270,8 @@ dabomb;60
 dabon;40
 dabsat;40
 dabson;40
+dacoit;30;Indian bandit
+dacoits;30;Indian bandits
 dadgum;60
 dae;31
 dafe;25
@@ -2859,6 +2865,8 @@ easywin;60
 easywins;60
 eatameal;40
 eatem;31
+eater;40
+eaters;40
 eatfresh;50
 eathighoffthehog;60
 eathighonthehog;60
@@ -2914,6 +2922,7 @@ eery;31
 eevee;75;Pokeyman
 eff;40;Rejection letter?
 effs;30;Rejection letters
+effulgence;40
 efg;10
 efgh;10
 efghi;10
@@ -2995,6 +3004,10 @@ emailsignatures;50
 emc;25
 emeka;40;Baskball player ___ Okafor
 emer;40
+emerse;30
+emersed;30
+emersion;30
+emersions;30
 emeu;25
 emi;40
 emk;25;Ted Kennedy monogram
@@ -3468,6 +3481,7 @@ folkhero;60
 folkpop;50
 fomo;60
 foodandbeverage;50
+foolmeonce;60
 foolscap;60
 footballhelmets;50
 footballplayers;50
@@ -3606,6 +3620,7 @@ gazers;40
 gchat;40
 gchord;40
 gchords;40
+gday;60
 gdp;40
 gdps;40
 gearoil;40;Automotive lubricant
@@ -4553,6 +4568,7 @@ inness;30;Painter George
 innis;30;Black activist Roy
 inonepiece;60
 inpank;1
+inpractice;50
 insecta;40
 insectivorous;75
 insertcoin;60
@@ -5956,6 +5972,7 @@ mstars;30
 mtst;25
 mtu;25
 mtwtf;40
+much;80;It means a lot
 muchtomychagrin;60
 mudeel;50
 mudeels;50
@@ -6323,6 +6340,8 @@ notonboard;60
 notsohot;60
 notsosecretmenu;60
 nottoexaggerate;50
+noumena;40;Parts of Kantian philosophy
+noumenon;40;Part of Kantian philosophy
 nouri;30;Actor Michael
 nov;40
 novacain;25
@@ -6379,7 +6398,7 @@ oatiness;40
 oaty;40
 obamawhitehouse;40
 obe;40
-obeah;31
+obeah;30;Caribbean sorcery
 obeli;40
 obelia;31
 ober;25
@@ -6929,6 +6948,8 @@ pavanes;31
 pawpaw;50
 pawscar;75;Animal award
 pawscars;75;Animal awards
+paynim;25;Heathen, archaic
+paynims;25;Heathens, archaic
 pba;40
 pbr;40
 pcgamer;50
@@ -7626,6 +7647,7 @@ reetch;40
 reevestale;30;One of Chaucer's Canterbury Tales
 refactor;50
 refreshmymemory;50
+refulgence;40
 regaler;50
 reganandgoneril;20
 regionalairline;50
@@ -7779,6 +7801,7 @@ retrenchments;40
 retrievals;40
 retrofuturistic;60
 retrorse;31
+retsina;40;Greek wine
 returnto;40
 returntothefold;60
 revealthering;31
@@ -8032,6 +8055,7 @@ sailingto;40
 sailsto;40
 sailto;40
 saison;30;French season
+saith;40
 sajak;60
 sak;25
 sakecup;50
@@ -8310,6 +8334,7 @@ sep;40
 sepal;25;Flower part
 sepals;25;Flower parts
 sept;40
+septa;40;Nasal partitions
 sequester;60
 sequestered;60
 sequestering;60
@@ -8799,6 +8824,7 @@ soright;60
 sorosis;25
 sorrynorefund;25
 sorrynorefunds;60
+sorrystate;60
 sortied;40
 sosimple;60
 sosweet;60
@@ -8944,6 +8970,8 @@ stans;40
 stapedes;31
 stapes;31
 staph;40
+starbaker;60
+starbakers;60
 starfilled;50
 staringdaggersat;60
 starknaked;60
@@ -9038,7 +9066,7 @@ steelspikes;40
 steeltown;50
 steeltowns;50
 steeltrap;60
-steeltraps;50
+steeltraps;60
 steens;31
 steerclear;50
 steeves;40
@@ -9077,6 +9105,7 @@ stewartcopeland;60
 stfu;40
 stge;25
 stickshift;50
+stilettoes;40
 stingo;25;Strong beer: Br.
 stingos;25;Strong beers: Br.
 stink;50;Air offensive?
@@ -9092,6 +9121,8 @@ stleoii;31
 stlouiscardinal;50
 stockcube;50
 stockcubes;50
+stockist;30;Retailer that stocks goods: Br.
+stockists;30;Retailers that stock goods: Br.
 stockparts;50
 stockphoto;50
 stocksplit;50
@@ -9147,9 +9178,15 @@ stretchgoals;75
 stretchmark;50
 stretchmarks;50
 stria;25;Narrow groove
+stridulate;40
+stridulated;40
+stridulates;40
+stridulating;40
+stridulation;40
+stridulations;40
 strikezone;50
 striptt;1
-stroh;31
+stroh;30;Austrian spirit
 strongarm;60
 strongarmed;60
 strongarming;50
@@ -9252,6 +9289,7 @@ swinks;31
 swizzbeatz;75
 swizzle;60
 swizzles;60
+sworddance;60
 swornstatement;50
 swornstatements;50
 sws;25
@@ -9902,6 +9940,7 @@ tonguedepressors;50
 tonguetied;60
 tongueties;60
 tonneau;40
+tons;80;It means a lot
 tonus;31
 tonuses;31
 tonydow;40
@@ -9970,6 +10009,7 @@ torr;25;Unit of pressure
 torridity;40
 tors;40
 torshavn;30;Capital of Faroe Islands
+torsi;40
 torso;100;Organic compound?
 torsos;80;Organic compounds?
 tortola;30;British Virgin Island
@@ -10162,6 +10202,7 @@ tweets;60
 twi;30
 twiner;25
 twiners;25
+twoem;25
 twoiron;40
 twoirons;40
 twopartysystems;50
@@ -10256,6 +10297,7 @@ unloosen;40
 unlooses;40
 unmitigatedgall;60
 unodos;31
+unpen;40
 unpens;40
 unpeopled;40
 unpeoples;40
