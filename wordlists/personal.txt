@@ -438,6 +438,8 @@ amassers;40
 amateurstanding;50
 amati;40;Violin
 amatis;40;Violins
+amative;30
+amativeness;30
 amazedat;40
 amazon;51;Jungle flower?
 amazonriver;51;Jungle flower?
@@ -3183,6 +3185,8 @@ etailing;40
 etamine;31
 etape;40
 etat;40
+etatism;30;Statism
+etatist;30;Statist
 etchant;31
 etd;40
 ete;40
@@ -3284,6 +3288,18 @@ fahrenheitscale;50
 fairbanksak;30
 fairbanksalaska;40
 fallsononesfeet;1
+falsegod;60
+falsegods;60
+falsemove;60
+falsemoves;60
+falsename;60
+falsenames;60
+falsenote;60
+falsenotes;60
+falsepositive;60
+falsepositives;60
+falsepretense;60
+falsepretenses;60
 falterer;40
 familytradition;50
 fandango;60
@@ -3572,9 +3588,13 @@ gadflies;60
 gadfly;60
 gadroon;30;Decorative edging
 gainedmomentum;50
+gainedsteam;60
 gainingmomentum;50
+gainingsteam;60
 gainmomentum;50
 gainsmomentum;50
+gainssteam;60
+gainsteam;60
 galah;25;Cockatoo
 galaxies;60
 galaxy;60
@@ -3613,6 +3633,10 @@ gasman;40
 gasol;50
 gastly;60;Pokeyman
 gateless;40
+gatheredsteam;60
+gatheringsteam;60
+gatherssteam;60
+gathersteam;60
 gatlin;30;Country singer Larry
 gaudi;60
 gaudis;31
@@ -3924,6 +3948,9 @@ gymmembership;50
 gymmemberships;50
 gyno;40
 gyp;5
+gypped;5
+gypping;5
+gyps;5
 gyre;50
 haakon;30;Crown Prince of Norway
 haar;25;Hair: Ger.
@@ -4164,6 +4191,7 @@ hike;51;Offensive remark?
 him;50
 himom;60
 himorme;50
+hinny;40;Horse/mule hybrid
 hipbath;40
 hipbaths;40
 hipboot;50
@@ -5497,8 +5525,8 @@ marijuana;61;Leaves for a smoke?
 marinaro;40
 marinateinbrine;1
 marinerscompass;50
-marios;31
-marjoe;25;Preacher Gortner
+marios;40
+marjoe;30;Preacher Gortner
 marketjitters;60
 marky;40
 marlboro;60
@@ -8199,7 +8227,11 @@ scenarists;40
 scenethree;31
 scenicpanoramas;40
 sch;40
+schlemiel;60
+schlemiels;50
 schnappses;40
+schnoodle;50
+schnoodles;50
 schnoodles;60
 schoolyear;50
 schoolyears;50
@@ -8219,6 +8251,7 @@ scoresbig;50
 scotchpine;50
 scoutedout;50
 scoutingout;50
+scoutmotto;50
 scoutout;50
 scoutsout;50
 scrabbletourney;50
@@ -8232,6 +8265,8 @@ screenshot;50
 screentest;50
 screentests;50
 screwover;50
+scrubnurse;50
+scrubnurses;50
 scrumdiddlyumptious;60
 scubadiver;50
 scull;40;Oar, or row
@@ -8293,10 +8328,11 @@ sellsonessoul;60
 sema;25
 sematary;60
 semestersabroad;50
+semestral;40
 semiretired;50
 semitone;50
 semitones;50
-semolinas;31
+semolinas;40
 semordnilap;1
 sen;40
 senateaide;50
@@ -8304,9 +8340,11 @@ senatepage;50
 senatepages;50
 senaterace;50
 sendacard;50
+sendacard;50
 sendafax;50
 sendai;25;Japanese city
 sendin;40
+sendingacard;50
 sendingin;40
 sendingoff;40
 sendingon;40
@@ -8315,6 +8353,7 @@ sendingto;40
 sendoff;50
 sendon;40
 sendout;40
+sendsacard;50
 sendsacard;50
 sendsafax;50
 sendsin;40
@@ -8328,6 +8367,7 @@ sennett;31
 sennit;25;Braided cord
 sennits;25;Braided cords
 sens;40
+sentacard;50
 sentimentalizer;50
 sentimentallady;50
 sentin;40
@@ -8398,14 +8438,18 @@ sex;60
 sexcapade;60
 sexcapades;60
 sexdrives;60
+sexeditup;60
 sexedup;60
+sexesitup;60
 sexesup;60
 sexgoddess;60
 sexiest;60
 sexile;60
 sexiled;60
 sexiles;60
+sexingitup;60
 sexingup;60
+sexitup;60
 sexkitten;60
 sexkittens;60
 sexlife;60
@@ -8431,6 +8475,9 @@ sexsymbols;60
 sext;61;Blue note?
 sextalk;60
 sexting;61;Blue notes?
+sextuple;50
+sextupled;50
+sextuples;50
 sexup;60
 sfish;25
 sfmoma;40
@@ -8557,10 +8604,12 @@ simping;5
 simps;5
 sina;40
 sinciput;30;Forehead
+sineratio;50
 singfor;40
 singingto;40
 singsto;40
 singto;40
+sinhalese;40
 sino;40
 sinuate;25;Wavy
 sinusoidalwall;50
@@ -9115,6 +9164,7 @@ stfu;40
 stge;25
 stickshift;50
 stilettoes;40
+stillatit;60
 stingo;25;Strong beer: Br.
 stingos;25;Strong beers: Br.
 stink;50;Air offensive?
@@ -9308,6 +9358,8 @@ syms;30;Actress Sylvia
 syn;40
 synchronicityii;60
 syne;40
+synergism;40
+synergist;40
 synod;40;Church council
 synods;40;Church councils
 synovial;30;Type of bone joint
@@ -10455,6 +10507,7 @@ viedfor;40
 viefor;40
 viesfor;40
 viet;40
+vigny;30;Alfred de ___
 vintageclothing;50
 vinton;31
 violist;51;One who bows lower than others?
