@@ -2176,6 +2176,8 @@ crisscross;60
 crisscrossed;60
 crisscrosses;60
 crisscrossing;60
+critic;51;One who gets the picture?
+critics;51;They get the picture?
 cro;40
 crossatthegreen;1
 crosscountryski;50
@@ -2418,6 +2420,7 @@ deca;40
 decarceration;40
 decease;40
 deci;40
+deciare;30;10 square meters
 declass;40
 declassed;40
 declasses;40
@@ -2700,6 +2703,8 @@ dollface;60
 dolls;51;Dated women?
 dolma;40
 dolmas;40
+domedroof;50
+domedroofs;50
 domesticpartner;50
 dondeestalabiblioteca;60
 donefor;60
@@ -2823,6 +2828,7 @@ dundalk;25;Maryland/Ireland town
 dung;40
 dunno;60
 durer;25;Renaissance engraver
+duvalls;40
 dvdplayer;50
 dvdplayers;50
 dvi;10
@@ -3054,6 +3060,7 @@ eniwetok;31
 enlai;40
 enlistinthearmy;40
 enls;25
+ennio;50
 ennius;31
 eno;40
 enos;40
@@ -3404,6 +3411,8 @@ filledonesshoes;60
 fillingonesshoes;60
 fillonesshoes;60
 fillsonesshoes;60
+filmcritic;61;One who gets the picture?
+filmcritics;61;They get the picture?
 finalboss;60
 finalcheck;50
 finalchecks;50
@@ -3455,6 +3464,7 @@ fixitinpost;60
 fla;40
 flameon;60;Human Torch's catchphrase
 flamewar;61;Cross words?
+flaneur;30;Stroller: Fr.
 flatlet;40
 flee;51;Bolt out of the blue?
 fleethescene;61;Bolt from the blue?
@@ -3479,6 +3489,7 @@ floridasunshine;50
 floweret;40
 floweringplants;50
 flownthecoop;60
+fluidal;40
 flyat;40
 flyfish;50
 flyin;40
@@ -3867,6 +3878,7 @@ gowerchampion;40
 gpu;30
 graben;30;Valley: Geology
 grabens;30;Valleys: Geology
+grabthebullbythehorns;60
 graduationparty;50
 graecize;25;Make Greek in form or character
 graecized;25;Make Greek in form or character
@@ -4371,6 +4383,7 @@ hwy;40
 hydatid;31
 hyenacub;50
 hypernovae;40
+hyperspace;60
 hyssop;30;Shrub
 hyssops;30;Shrubs
 ialone;51;First person singular
@@ -4515,7 +4528,7 @@ inapile;40
 inarabic;40
 inasnare;40
 inasnit;60
-inatin;40
+inatin;30
 inatub;40
 inbedwith;60
 incagold;50
@@ -5692,6 +5705,7 @@ megaman;60
 mehearties;60
 mehta;40;Conductor Zubin ___
 melanic;31
+melilot;30;Sweet clover
 melodramatics;60
 meloni;40
 melter;40
@@ -5942,6 +5956,7 @@ morgues;51;Stiff joints?
 morningroutines;50
 moroni;40
 morpho;40
+morses;40
 mortallywounded;60
 mortalman;60
 mortalremains;60
@@ -6199,6 +6214,7 @@ newulm;31
 newyearsevegala;50
 newyorkislander;50
 newyorkmarathon;50
+nextto;40
 neyo;31
 nfceast;40
 nfcnorth;40
@@ -6286,6 +6302,7 @@ nne;25
 nnw;25
 noaa;40
 noahs;40
+noangel;60
 nobroccoliforme;1
 nocap;60
 nocarbdiet;51;It goes against the grain?
@@ -6368,6 +6385,7 @@ nothingnew;60
 notless;40
 notonadare;40;<Is this a real phrase?>
 notonboard;60
+notripe;20
 notsohot;60
 notsosecretmenu;60
 nottoexaggerate;50
@@ -6556,6 +6574,7 @@ onager;25;Wild ass
 onager;40
 onagers;25;Wild asses
 onagers;40
+onahill;20
 onahop;40
 onajury;40
 onakick;60
@@ -6603,6 +6622,7 @@ oneset;40
 onesown;20
 onestriper;40;Army private
 oneten;25
+onetime;60
 onetwo;40
 onetwothreefour;40
 onevolt;40
@@ -6734,6 +6754,7 @@ orthoepist;31
 orv;20;<Wright Brother nickname? GTFO!>
 orval;30;1950s governor
 oscari;40
+oscarii;40
 oscars;61;Movie props?
 oscine;25;Songbird
 oscines;25;Songbirds
@@ -6859,6 +6880,7 @@ oyez;50
 oyez;51;Supreme Court term
 oystermushrooms;50
 ozma;40;Princess Ozma of Oz
+pacelli;30;Pope last name
 pacem;25
 pachinko;60
 pachinkogame;60
@@ -7000,7 +7022,7 @@ peakiest;31
 peanutbutterand;1
 peanutgalleries;50
 pearljam;60
-pearse;31
+pearse;30;Irish activist
 peasecod;31
 peccavi;25;Expression of guilt
 peclass;50
@@ -7227,6 +7249,7 @@ pms;40;Prime ministers
 pneuma;31
 pneumas;31
 poa;25;Bluegrass genus
+pocillo;25;Mug: Sp.
 pocketveto;61;Presidential term?
 poilu;25;French soldier
 poincare;60
@@ -7254,6 +7277,10 @@ polocoat;50
 pompom;60
 pompoms;60
 pondscum;51;Dirty film
+poohpooh;60
+poohpoohed;60
+poohpoohing;60
+poohpoohs;60
 poorsoul;60
 poorsouls;60
 popeafb;31
@@ -7837,6 +7864,9 @@ retsina;40;Greek wine
 returnto;40
 returntothefold;60
 revealthering;31
+revisal;40
+reviser;40
+revisor;40
 rewritehistory;60
 rewriteshistory;60
 rewritingshistory;60
@@ -8134,6 +8164,7 @@ saluki;31
 salukis;31
 salumeria;40;Italian deli
 salumerias;40;Italian delis
+sameyness;60
 samisen;25;Japanese lute
 samisens;25;Japanese lutes
 samite;25;Middle Age fabric
@@ -8166,9 +8197,12 @@ sanseis;31
 santamonicaca;40
 santarosaisland;40
 santasworkshop;61;Present company?
+santolina;25;Chamomile genus
 sanz;50
 saos;1
 sapan;25;Brazilwood, AMC president Josh
+sarabande;30;Dance
+sarabands;30;Dances
 sarabi;40;Simba's mom
 saracen;25;Arab during the Crusades
 saracens;25;Arabs during the Crusades
@@ -8191,9 +8225,15 @@ satinet;40
 satintraffic;50
 satpoolside;50
 satprepbook;50
+satrap;30;Ancient Persian ruler
+satrapies;30;Ancient Persian provinces
+satrapy;30;Ancient Persian province
 satriani;60
+saturant;40
+saturants;40
 saturn;60
 saturnalia;50;Roman festival
+saturnism;40
 satya;40
 sauvignonblanc;50
 sauvignonblancs;50
@@ -8232,7 +8272,6 @@ schlemiels;50
 schnappses;40
 schnoodle;50
 schnoodles;50
-schnoodles;60
 schoolyear;50
 schoolyears;50
 schoolzone;50
@@ -8340,7 +8379,6 @@ senatepage;50
 senatepages;50
 senaterace;50
 sendacard;50
-sendacard;50
 sendafax;50
 sendai;25;Japanese city
 sendin;40
@@ -8353,7 +8391,6 @@ sendingto;40
 sendoff;50
 sendon;40
 sendout;40
-sendsacard;50
 sendsacard;50
 sendsafax;50
 sendsin;40
@@ -8489,6 +8526,7 @@ shameon;25
 shamer;40
 shamers;40
 shamram;1
+sharecrop;50
 sharer;40
 sharers;40
 shawm;25;Oboe ancestor
@@ -8570,9 +8608,11 @@ silages;40
 silane;31
 silenta;40
 silentb;40
+silentbutdeadly;60
 silentbutler;60
 silentbutlers;60
 silentc;40
+silentcal;50
 silentd;40
 silente;40
 silentg;40
@@ -8692,6 +8732,7 @@ sleepschedule;51;Retirement plan?
 sleepsin;51;Stays undercover?
 sleptin;51;Stayed undercover?
 slide;51;It's a slippery slope
+slidepast;50
 slimer;60
 slimey;40
 sloanes;31
@@ -9226,7 +9267,10 @@ streetarab;31
 streetfair;50
 streetmeat;50
 streetmeats;50
-streetname;60
+streetname;60;Handle like a gangster?
+streetname;60;Handle out in the open?
+streetname;60;Handle outside?
+streetname;60;Handle publicly?
 streetnames;60
 streetteam;50
 streetteams;50
@@ -9656,6 +9700,8 @@ tetany;31
 tetralogy;40
 teva;31
 tevere;30;Rome river
+texter;50
+texters;50
 teyana;31
 tgeisel;25
 tgel;40
@@ -9810,6 +9856,7 @@ thetale;40;Movie
 thetalk;60
 thetheater;50
 thetimeisnow;60
+thetis;30;Mother of Achilles
 thetokyodome;20
 thetokyotower;20
 thetonys;50
@@ -10464,6 +10511,7 @@ uveas;40
 uveitis;40;Eye inflammation
 uvw;10
 uwe;31
+uxorial;30;Relating to a wife
 vai;60
 valse;40
 valuta;31
