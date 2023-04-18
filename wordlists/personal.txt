@@ -131,6 +131,7 @@ acdcsingerscott;1
 aceae;25
 acedia;30;Mental sloth
 acerb;40
+acetabula;30;Hip sockets
 acetals;40
 aceten;40
 achene;25;Fruit
@@ -955,6 +956,7 @@ autotuner;60
 availablecredit;50
 avantgarde;60
 avanti;40;Studebaker coupe, Italian "Let's go!"
+avascular;40
 avatar;60
 avengers;60
 avengersendgame;60
@@ -1236,6 +1238,7 @@ bearbait;50
 bearcrawl;60
 bearcrawls;60
 bearcub;50
+beastmode;60
 beatadeadhorse;60
 beatingadeadhorse;60
 beatnik;60
@@ -1418,6 +1421,9 @@ bleepingout;60
 bleepout;60
 bleepsout;60
 bleeth;40;Yasmine ___
+blindside;60
+blindsided;60
+blindsides;60
 blockader;40
 blockaders;40
 blockbuster;61;Shoot for the stars?
@@ -1546,6 +1552,9 @@ briskest;40
 britishshilling;50
 brittanyspaniel;50
 broads;51;Dated women?
+broadside;60
+broadsided;60
+broadsides;60
 broast;40;Broil + roast
 broasted;40;Broil + roast
 broaster;40;Broil + roast
@@ -1972,6 +1981,7 @@ cheapseat;50
 cheapseats;50
 cheapskate;61;One who gives no quarter?
 cheapskates;61;Ones who gives no quarter?
+cheatmode;60
 checkers;51;Two can play at that game
 checkincounters;50
 checkoutcounter;50
@@ -2164,6 +2174,7 @@ coldplay;60
 coldspot;60;Supposed paranormal sign
 coldspots;60;Supposed paranormal signs
 coldwarpolicies;40
+coldwave;51;"___ linked to temperatures" (newspaper headline)
 coleco;50
 coleslaws;40
 collab;60
@@ -3567,6 +3578,7 @@ falsepretense;60
 falsepretenses;60
 falterer;40
 familytradition;50
+fancypantses;60
 fandango;60
 fannyprice;50;Austen's "Mansfield Park" heroine
 fanon;30;Papal vestment
@@ -4370,6 +4382,7 @@ headingforafall;60
 headways;40
 headwriter;50
 healthyasahorse;60
+hearing;51;"Shouting match ends teacher's ___" (newspaper headline)
 hearsays;40
 hearsts;40
 heartspecialist;50
@@ -6666,6 +6679,8 @@ nbaref;50
 nbasummerleague;50
 nbcsports;50
 nbd;40;Texter's "It's fine"
+ncaafinal;50
+ncaatitle;50
 ncaatournaments;50
 nckel;1
 ncwyeth;40;Illustrator
@@ -7095,6 +7110,7 @@ ohh;50
 ohme;30
 ohno;60
 oho;40
+ohsureblameme;60
 ohsweetsummerchild;60
 ohyousweetsummerchild;60
 oid;30;What makes a fact trivial?
@@ -7703,6 +7719,7 @@ perigean;40
 perine;31
 periodicpayment;25
 periodicupdates;50
+periodide;30;Chemistry word
 perl;40
 perma;40
 permissionslips;50
@@ -8832,7 +8849,6 @@ ruinates;40
 ruleth;40
 rumaki;30;Tiki hors d'oeuvre
 rumania;25
-rumbas;40
 rumbleseats;60
 rummer;40;Large drinking glass
 rummers;40;Large drinking glass
@@ -9430,6 +9446,7 @@ shot;50;Take in a movie? [used]
 shots;50;Takes in a movie? [used for SHOT]
 shotsofespresso;40
 shoulderbrace;50
+shoutingmatch;61;"___ ends teacher's hearing" (newspaper headline)
 showa;25;20th century Japanese era
 shower;51;Get into hot water
 shower;51;What nuns do out of habit?
@@ -10139,6 +10156,7 @@ stonetools;50
 stoneylonesome;60
 stoodon;40
 stoodtrial;50
+stool;51;"Child's ___ great for use in garden" (newspaper headline)
 stoopball;50
 stopmakingsense;60
 stork;60;Delivery vehicle
@@ -10255,6 +10273,7 @@ suittoatee;60
 suitup;60
 sukiyakis;31
 sulfo;25
+sulpha;25;Antibacterial
 sunaloiroc;1
 sundown;60
 sunevfohtribeht;1
@@ -11582,6 +11601,8 @@ vigny;30;Alfred de ___
 vinca;30;Periwinkle genus
 vintageclothing;50
 vinton;31
+violin;51;"Drunk gets three months in ___ case" (Headline)
+violincase;51;"Drunk gets three months in ___" (Headline)
 violist;51;One who bows lower than others?
 vir;25
 virginears;60
@@ -11943,11 +11964,16 @@ yahoo;60
 yahoogames;50
 yahoos;60
 yair;25
+yakima;30;Washington tribe
+yakimas;30;Washington tribe
+yaleman;50
 yappedat;50
 yappingat;50
 yar;40
 yarr;50
 yas;40
+yashmak;40;Muslim veil
+yashmaks;40;Muslim veils
 yaya;40
 ybor;25
 yds;40
