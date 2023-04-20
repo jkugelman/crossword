@@ -134,6 +134,7 @@ acerb;40
 acetabula;30;Hip sockets
 acetals;40
 aceten;40
+ach;40
 achene;25;Fruit
 achenes;25;Fruit
 achenial;25;Obscure fruit word
@@ -141,6 +142,7 @@ achieva;40;'90s Oldsmobile
 achille;25
 achillea;40
 achillestendons;50
+achs;40
 achs;40
 ackackgun;60
 acle;25
@@ -779,6 +781,8 @@ arsonist;51;Housewarming party?
 artbrut;60
 artbuyer;50
 artbuyers;50
+artcollector;50
+artcollectors;50
 artemus;25;1800s humorist
 arteriole;40;Capillary
 arterioles;40;Capillaries
@@ -1046,6 +1050,8 @@ bagasse;25;Sugarcane pulp used as fuel for electricity
 bagehot;31
 baggagecarousel;50
 baggagecarousels;50
+baht;40;Thai currency
+bahts;40;Thai currency
 bail;51;Booking fee?
 bailers;40
 bailie;31
@@ -1530,6 +1536,7 @@ braes;30;Scottish hillsides
 braff;50
 braggart;60
 brainish;30;Hotheaded
+brainrot;60
 brainscans;50
 brandt;30;German chancellor Willy
 brasi;40;Luca of "The Godfather"
@@ -1664,6 +1671,7 @@ cactuscostume;60;Acme invention
 cada;40
 cadaver;51;Body of evidence?
 cadavers;51;Bodies of evidence?
+caffeinic;40
 cagesin;50
 cagirls;25
 cagoule;31
@@ -2285,7 +2293,9 @@ corporateimages;50
 corporatelawyer;50
 corpse;51;Remains underground?
 corpses;51;Remains underground?
+correctchange;50
 correctingdents;1
+coshing;25
 cosi;40
 cosimo;25;Couple old Italians
 cosmo;60
@@ -3750,6 +3760,7 @@ flewthecoop;60
 flewto;40
 flex;60
 flibbertigibbet;60
+flickofaswitch;50
 fliesat;40
 fliesin;40
 fliesthecoop;60
@@ -4291,6 +4302,7 @@ hafted;40
 hafts;50
 hagatna;30;Capital of Guam
 hagia;40
+hah;40
 hahahaha;25
 hahs;40
 haifa;40;Israeli port
@@ -5598,6 +5610,7 @@ leapinto;40
 leapsinto;40
 leaptinto;40
 leavemealone;61;Layoff demand?
+leavenow;50
 leavetonguetied;50
 lebon;40;Simon of Duran Duran
 lecar;40
@@ -6668,6 +6681,7 @@ nauruguay;1
 nausee;40;Sartre's first novel
 nautch;31
 nautches;31
+nav;40
 navarre;25
 navette;30;Gemstone
 navettes;30;Gemstones
@@ -6882,6 +6896,7 @@ noentrance;50
 nofair;60
 nofilter;60
 nofunnybusiness;60
+noh;40
 nohorsingaround;60
 noia;25
 noire;40
@@ -7096,6 +7111,7 @@ oenophilia;50;Love of wine
 oersted;40
 ofada;25;Nigerian stew
 ofbad;31
+offchance;60
 offeror;40
 officer;51;Booking agent?
 officers;51;Booking agents?
@@ -9758,6 +9774,7 @@ sods;51;Lays the groundwork?
 sodumb;60
 soextra;60
 softcontactlens;50
+softmoney;60
 softtaco;50
 sohavei;50
 sohla;31
@@ -10473,7 +10490,9 @@ taskathand;50
 taskbar;50
 taskbars;40
 tasksathand;50
+tat;40
 tatler;40;British magazine
+tats;40
 tatterdemalions;60
 tauten;40
 tautened;40
@@ -11758,6 +11777,7 @@ whatareyoudoing;50
 whatareyouupto;50
 whatseemstobetheissue;50
 wheaten;40;Containing wheat
+wheaton;50
 whelan;40
 when;40
 where;40
