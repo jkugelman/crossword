@@ -63,7 +63,7 @@ abecedarium;40
 abecedary;40
 abele;30;White poplar
 abeles;30;White poplars
-abelia;25;Plant genus
+abelia;30;Plant genus
 aber;25
 aberdeenterrier;50
 aberdeenterriers;50
@@ -96,6 +96,8 @@ abreaction;40
 abreacts;40
 abrogator;40
 abrogators;40
+abroller;51;It could help in a crunch
+abrollers;51;They could help in a crunch
 abrupter;40
 abruptest;40
 abscise;40
@@ -445,6 +447,7 @@ alford;30
 alfre;40;Actress Woodard
 alfredu;20;NY state university
 alfs;30
+alga;40
 algebraproblems;50
 algid;25;Cold
 algoreiii;30;Son of Al Gore
@@ -636,7 +639,7 @@ anat;40
 anatural;40
 anbesol;40;Pain relief brand
 anc;40;Mandela's org.
-anchusa;25;Flower genus
+anchusa;30;Flower genus
 ancus;25
 and;40
 andaman;40;Indian islands
@@ -672,6 +675,7 @@ animatedgifs;60
 animi;25;Resins
 anion;40
 anions;40
+aniseeds;40
 aniseoil;40
 anissue;1
 anitem;50
@@ -714,6 +718,7 @@ antlike;40
 antpaste;40
 antpolly;1
 anumber;25
+anyguess;50
 anyhoo;60
 anyideas;60
 anyluck;60
@@ -782,6 +787,8 @@ araft;25
 aragorn;60
 araitdnomaid;1
 aramean;40
+araneid;30;Spider order
+araneids;30;Spider order
 arank;25
 arare;25
 arbored;40
@@ -1397,6 +1404,8 @@ bearfruit;60
 bearsfruit;60
 beastmode;60
 beatadeadhorse;60
+beatback;50
+beatease;50
 beatingadeadhorse;60
 beatnik;60
 beatniks;60
@@ -1723,6 +1732,9 @@ boyohboy;60
 boyos;40
 boyschoir;50
 boyschoirs;50
+bract;30;Botany word
+bracted;30;Botany word
+bracts;30;Botany word
 brae;30;Scottish hillside
 braes;30;Scottish hillsides
 braff;50
@@ -2010,6 +2022,8 @@ carmechanics;50
 carnie;60
 carnies;60
 caro;40
+carob;40
+carobs;40
 carolalt;50
 carolean;40
 carpe;40;___ diem
@@ -2317,6 +2331,7 @@ cli;10
 cliche;60
 cliched;60
 cliches;60
+clickthroughrate;60
 cliffburton;60
 clii;10
 cliii;10
@@ -2567,12 +2582,19 @@ coyer;40
 cpl;40
 cpu;50
 cpus;40
+crabball;50
+crabballs;50
 crabbe;40
+crabwalk;50
+crabwalked;50
+crabwalking;50
+crabwalks;50
 crack;51;"Strip search finds ___ between buttocks" (WYFF4.com headline)
 crack;51;Street wear?
 cracks;51;Street wear?
 crackswise;61;Defies gravity?
 crackwise;61;Defy gravity?
+crapgame;50
 crapsgame;50
 crapsgames;50
 crater;51;Great depression
@@ -2753,6 +2775,7 @@ dancetothemusic;50
 dancingaround;50
 dancingtothemusic;50
 dancy;40
+danelaw;40
 dansk;31
 danteii;30
 dareme;60
@@ -3338,6 +3361,7 @@ drzaius;60
 dsharp;40
 dsl;40
 dst;40
+dsw;40
 dualcitizen;50
 dualcitizens;50
 duane;50
@@ -3451,7 +3475,7 @@ eban;40
 ebills;40
 ebonite;40;Hard rubber
 ebow;40
-echinus;25;Sea urchin genus
+echinus;30;Sea urchin genus
 echoboomer;60
 echoboomers;60
 echopedal;50
@@ -3609,6 +3633,7 @@ emme;40
 emmental;40;Cheese
 emmentaler;40;Cheese
 emmys;51;Television props?
+emono;25
 emotionaloutlet;60
 emp;40
 empale;25
@@ -3887,6 +3912,7 @@ ews;50
 exactor;40
 examinationroom;50
 excellentgrades;1
+exchanges;51;Trading places
 excitor;40
 excretory;40
 exe;40
@@ -4134,6 +4160,7 @@ firstalert;50
 firstclasscabin;50
 firstclassstamp;50
 firstdance;60
+firstlaw;50
 firsttimecaller;60
 fishcalledwanda;50
 fishingindustry;50
@@ -4182,6 +4209,7 @@ flirtatiousmove;1
 flo;50
 floataway;50
 floaties;61;Pool resources?
+floors;51;Trading places
 floortile;50
 floortiles;50
 flop;51;Star destroyer?
@@ -4224,6 +4252,7 @@ footballplayers;50
 footballstadium;50
 footballuniform;50
 for;40
+foreplay;60
 forints;30;Hungarian money
 forkedout;50
 forkout;50
@@ -4250,6 +4279,8 @@ fps;40
 fra;40;Monk's title
 fracas;50
 fracases;40
+fractal;50
+fractals;50
 framegrab;50
 framegrabs;50
 framejob;60
@@ -4273,6 +4304,7 @@ freetrials;50
 freshofftheboat;60
 fretsaw;40
 fretsaws;40
+fretter;40
 fri;40
 frick;40
 friedchicken;50
@@ -4554,6 +4586,7 @@ gobletoffire;40
 goblue;50
 gobonkers;60
 gobust;60
+goby;40
 goby;50
 gocondo;50
 gocoop;31
@@ -4562,6 +4595,7 @@ godisdead;60
 godsgift;60
 goesas;50
 goesaway;50
+goesby;40
 goesby;50
 goeseasyon;50
 goesflat;50
@@ -4587,6 +4621,7 @@ goggling;60
 gogh;40
 gohard;50
 goinandout;61;For starters?
+goingby;40
 goingflat;50
 goingforadip;50
 goinghard;50
@@ -4611,6 +4646,7 @@ gonerilandregan;1
 gongongongongon;1
 gonogo;60
 gonuts;60
+goodby;40
 goodmorningtext;60
 goodpr;50
 goodpress;50
@@ -4686,6 +4722,8 @@ grandjury;50
 granpa;20
 grantamnesty;50
 grantedamnesty;50
+grantee;40
+grantees;40
 grantingamnesty;50
 grantor;40
 grantsamnesty;50
@@ -5491,6 +5529,7 @@ inapile;40
 inarabic;40
 inasnap;60
 inasnare;40
+inasnarl;50
 inasnit;60
 inatin;30
 inatree;40
@@ -5781,7 +5820,9 @@ isuspect;40
 itaintovertillitsover;60
 itaintoveruntil;31
 itaintso;20
+italiana;40
 italianice;50
+itartass;40;Russian news agency
 itband;50
 itbeatsme;60
 itcantbethatbad;60
@@ -5863,6 +5904,7 @@ jabroni;60
 jackass;60
 jackhammer;61;Pound the pavement
 jackolantern;61;Fall guy?
+jacobs;40
 jager;50
 jai;40
 jalapeno;60
@@ -6103,7 +6145,7 @@ labatt;40;Canadian beer
 labatts;40;Canadian beer
 labial;40;Lip-related
 labials;40;Certain sounds
-labiate;25;Mint genus
+labiate;30;Mint genus
 labneh;40;Middle Eastern yogurt cheese
 labordayweekend;50
 labrie;60
@@ -6112,7 +6154,7 @@ lacan;30;Psychoanalyst Jacques
 lace;50;Tie up loose ends
 laced;50;Tied up loose ends
 lacerta;40;Lizard constellation
-lacertilia;25;Lizard genus
+lacertilia;30;Lizard genus
 laces;50;Ties up loose ends
 lacing;50;Tying up loose ends
 lackey;60
@@ -6275,6 +6317,7 @@ leftfor;40
 leftlanes;40
 leftturnatalbuquerque;60
 legalid;50
+legatee;30;Person who receives a legacy
 leggedreference;1
 leghorn;60
 legirons;50
@@ -6338,6 +6381,7 @@ letsnotturnitintoawholething;60
 letssee;60
 lett;30;Latvian
 letterw;1
+letthingsplayout;60
 letts;30
 lettuce;51;Leaves for a meal?
 levier;40
@@ -6356,6 +6400,11 @@ liane;40;Author Moriarty, NPR's Hansen, woody vine
 liberalarts;50
 libraries;51;Bookkeepers
 library;51;Bookkeeper
+librate;30
+librated;30
+librates;30
+librating;30
+libration;30
 lickandapromise;50
 lieahead;50
 lieatanchor;50
@@ -6731,7 +6780,7 @@ managingeditors;50
 managingpartner;50
 manama;30;Capital of Bahrain
 mancuso;40;Mobster
-mandragora;25;Mandrake genus
+mandragora;30;Mandrake genus
 maneater;60
 maneaters;60
 manfromatlantis;50
@@ -7021,6 +7070,7 @@ microscopemount;1
 microsoftoffice;50
 middlefinger;60
 midear;40
+midstride;50
 midwife;60;Delivery person
 midwives;60;Delivery persons
 miele;40;Appliance manufacturer
@@ -7425,6 +7475,8 @@ nautches;31
 nauvoo;30;Mormon settlement
 nav;40
 navarre;25
+navelring;50
+navelrings;50
 navette;30;Gemstone
 navettes;30;Gemstones
 navyyard;50
@@ -7500,7 +7552,7 @@ nene;30
 neneh;25
 nenes;30
 neoteric;40
-nepeta;25;Catnip genus
+nepeta;30;Catnip genus
 neptune;60
 ner;25
 nereid;40
@@ -7696,6 +7748,7 @@ nopq;10
 nopqr;10
 noprobbob;60
 nord;40
+noreally;60
 norefunds;60
 normalprocedure;40
 normas;25
@@ -7981,7 +8034,7 @@ olines;40
 olla;40
 ollas;40
 olmsted;31
-olor;25;Swan genus
+olor;30;Swan genus
 oloroso;40;Sherry
 olson;60
 oluo;40;Author Ijeoma ___
@@ -8156,7 +8209,7 @@ orator;51;Figure of speech?
 oratorio;60
 oratrix;40
 orcapod;50
-orcinus;25;Dolphin genus
+orcinus;30;Dolphin genus
 orderto;25
 ordinee;25
 ordoc;30
@@ -8416,7 +8469,7 @@ panafricanflags;50
 panamacanal;50
 panamalithuania;1
 pancake;51;Fall flat?
-pandanus;25;Screw palm genus
+pandanus;30;Screw palm genus
 pandarus;25;Trojan War figure
 panfry;50
 panicle;30;Flower cluster
@@ -8804,7 +8857,7 @@ pluton;40;Rock mass inside Earth
 pms;40;Prime ministers
 pneuma;31
 pneumas;31
-poa;25;Bluegrass genus
+poa;30;Bluegrass genus
 pocillo;25;Mug: Sp.
 pocketveto;61;Presidential term?
 poilu;25;French soldier
@@ -9036,6 +9089,7 @@ propplanes;50
 props;50;Play things [used for PROGRAM]
 proshop;50
 proshops;50
+protease;40
 protohuman;60
 proton;51;Nuclear reactor?
 protons;51;Nuclear reactors?
@@ -9050,6 +9104,7 @@ prtag;1
 prtalk;50
 prteam;50
 prteams;50
+prwatch;50
 psa;50
 psalteries;31
 psas;50
@@ -9677,6 +9732,8 @@ rnc;40
 roadends;40
 roadflare;50
 roadflares;50
+roadgame;50
+roadgames;50
 roadie;60
 roadies;60
 roadrunnerlasso;60;Acme invention
@@ -9781,7 +9838,7 @@ rsc;25
 rsi;25
 rso;25
 rst;10
-rstlne;31
+rstlne;40
 rstu;10
 rstuv;10
 rte;40
@@ -10004,7 +10061,7 @@ sanseis;30;Grandchildren of a Japanese immigrant
 santamonicaca;40
 santarosaisland;40
 santasworkshop;61;Present company?
-santolina;25;Chamomile genus
+santolina;30;Chamomile genus
 sanz;50
 saos;1
 sapan;25;Brazilwood, AMC president Josh
@@ -10074,6 +10131,7 @@ saysso;40
 sayswho;60
 sbaloan;40
 sbaloans;40
+scabiosa;30;Honeysuckle genus
 scalage;40;Weight compensation for allowable loss
 scapegoat;60
 scapegoats;60
@@ -10158,6 +10216,8 @@ sealteam;50
 sealteams;50
 searchin;50
 seasider;50
+seasnail;50
+seasnails;50
 seattleseahawks;50
 seattlewa;40
 seau;30
@@ -10964,8 +11024,8 @@ spinayarn;60
 spinnaker;40;Sail
 spinnakers;40;Sails
 spinsayarn;60
-spiraea;25;Flower genus
-spiraeas;25;Flower genus
+spiraea;30;Flower genus
+spiraeas;30;Flower genus
 spiritualcrisis;50
 spitball;60
 spitballed;60
@@ -11021,6 +11081,7 @@ ssrs;41;United states, once: Abbr.
 sstar;30
 sstars;30
 ssw;25
+staccato;50
 staccato;60
 stadlers;25
 staffa;40;Scottish island
@@ -11435,6 +11496,7 @@ surrejoinders;31
 susanmolinari;30;90s house rep
 swale;30;Marshy area
 swales;30;Marshy areas
+swamlaps;50
 swanpaddleboats;50
 swards;31
 swat;51;Take a flyer on?
@@ -11453,6 +11515,9 @@ sweetpickles;50
 sweetpotatopies;50
 sweetsummerchild;60
 swimfins;50
+swimlaps;50
+swimminglaps;50
+swimslaps;50
 swingaway;50
 swinge;31
 swingera;50
@@ -12374,6 +12439,8 @@ treadingonthinice;60
 treadonthinice;60
 treadsonthinice;60
 treatedto;40
+treater;40
+treaters;40
 treatingto;40
 treatsto;40
 treatto;40
@@ -12746,7 +12813,7 @@ urne;25
 urning;40
 urodele;30
 urology;50
-ursus;25;Bear genus
+ursus;30;Bear genus
 usaf;40
 usance;31
 usbs;40
@@ -13006,6 +13073,7 @@ wellexcuuuuseme;60
 wellletmeseenow;60
 wellletsseenow;60
 wences;40;Ventriloquist
+wentby;40
 wentflat;50
 wentforadip;50
 wenthard;50
@@ -13069,6 +13137,7 @@ wildpitches;60
 willbequiet;51;Zip line?
 wiltchamberlain;60
 wilwheaton;60
+wim;40;Director Wenders
 winbronze;50
 windowmannequin;40
 windpower;50
