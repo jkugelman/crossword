@@ -368,6 +368,7 @@ ahso;5
 aiart;60
 aiders;30
 aidworkers;50
+aigrette;30;Feather headdress
 aik;25
 ailanthus;30;Tree genus
 aile;25
@@ -412,6 +413,7 @@ aja;30;Steely Dan album
 akc;40;American Kennel Club
 akeem;40;"Coming to America" prince
 akela;25;Minor Jungle Book character
+alabama;51;Mobile home?
 alack;40
 aladdin;60
 aladdins;40
@@ -494,6 +496,7 @@ allears;60
 allelic;40
 alleven;50
 allexpensespaid;50
+alley;51;Strikes home?
 alleyes;60
 allez;40
 allhandsmeeting;50
@@ -573,6 +576,7 @@ amati;40;Violin
 amatis;40;Violins
 amative;30
 amativeness;30
+amazeballs;60
 amazedat;40
 amazon;51;Jungle flower?
 amazonriver;51;Jungle flower?
@@ -671,9 +675,11 @@ angelinvestment;50
 angelinvestments;50
 angerer;40
 angevin;25;Anjou empire
+anginous;40
 angiology;40
 anglaise;40
 angryfruitsalad;60;UI with too many colors
+angrygod;60
 angryletter;61;Cross words?
 angryletters;61;Cross word?
 anhonestmistake;60
@@ -804,6 +810,7 @@ araneid;30;Spider order
 araneids;30;Spider order
 arank;25
 arare;25
+araucaria;30;Evergreen tree genus "monekey puzzles"
 arbored;40
 arborio;40;Type of rice
 arcaded;40
@@ -893,8 +900,12 @@ arrakis;60
 arrayer;30
 arrayers;30
 arrear;40
+arrestee;40
+arrester;40
 arrets;25
 arrivedonthedot;25
+arriver;40
+arrivers;40
 arrivesonthedot;25
 arrr;40
 ars;40;Classical art?
@@ -990,11 +1001,14 @@ astar;30
 astars;30
 astatic;40
 astense;1
+asterism;40
 astern;40
 asti;40;Wine region
 astolat;40
 aston;50
 astorbar;31
+astragal;30;Seal between a pair of doors
+astragals;30
 astringe;40
 astringed;40
 astringencies;40
@@ -1199,6 +1213,8 @@ bagasse;25;Sugarcane pulp used as fuel for electricity
 bagehot;31
 baggagecarousel;50
 baggagecarousels;50
+bagjob;60
+bagjobs;60
 bagnold;40;Playwright
 baht;40;Thai currency
 bahts;40;Thai currency
@@ -1307,6 +1323,8 @@ barstool;50
 barstools;50
 bartab;50
 bartabs;50
+bartender;51;Pro shot putter?
+bartenders;51;Pro shot putters?
 barthedoor;50
 barthedoors;50
 baseballcap;50
@@ -1327,6 +1345,8 @@ basotho;30;People of South Africa
 basra;40;Iraqi city
 bassale;50;Drink like a fish? [used]
 bassi;40;Opera singers
+bassinet;51;Mobile home?
+bassinets;51;Mobile homes?
 basspaleale;50;Drink like a fish? [used for BASS ALE]
 basssolo;60
 basssolos;60
@@ -1561,6 +1581,7 @@ biere;30
 bieres;25
 biers;40
 biga;30
+bigbang;61;Creative spark?
 bigego;60
 bigegos;60
 bigenchilada;60
@@ -1579,6 +1600,8 @@ bigwin;60
 bigwins;60
 bihar;30;State of India
 bikerace;50
+billboard;51;Hits home?
+billboardchart;61;Hits home?
 billbruford;60
 billburr;50
 billet;50
@@ -1761,6 +1784,7 @@ boutonniere;51;Stick it to the man
 bova;40;Sci-fi author Ben
 bowlder;30
 bowlders;30
+bowlingalley;51;Strikes home?
 bowser;60
 bowserjr;60
 bowserscastle;60
@@ -1881,6 +1905,8 @@ burnstoacrisp;60
 burnsup;60
 burntoacrisp;60
 burnup;60
+bus;51;Clear stuff
+bush;51;Leaves home?
 bushido;60
 businesscenter;50
 businesscenters;50
@@ -2071,6 +2097,7 @@ carolean;40
 carpe;40;___ diem
 carpi;30;Wrist bones
 carriagepainter;1
+carrions;40
 carsale;50
 carsales;50
 cartab;40
@@ -2548,6 +2575,8 @@ conestogawagons;50
 conformingrebel;1
 congressionalstaffer;50
 congressionalstaffers;50
+conjob;60
+conjobs;60
 conormcgregor;60
 consideritagift;60
 containeroftuna;1
@@ -2604,6 +2633,7 @@ cottier;25;Peasant, archaic
 cottiers;25;Peasants, archaic
 cottondockers;40
 cottonwoodtrees;50
+couch;51;Throws home?
 couldntstickaround;50
 countcalories;50
 countedcalories;50
@@ -2616,6 +2646,7 @@ coverartist;50
 coverartists;50
 coverme;60
 covertmission;60
+cow;51;Flies home?
 cowbell;60
 cowberries;40
 cowberry;40
@@ -2642,6 +2673,9 @@ crack;51;Street wear?
 cracks;51;Street wear?
 crackswise;61;Defies gravity?
 crackwise;61;Defy gravity?
+cradle;51;Mobile home?
+cradle;51;Phone home?
+cradles;51;Mobile homes?
 crapgame;50
 crapo;30
 crapsgame;50
@@ -2663,6 +2697,8 @@ creosoting;31
 crepepaper;50
 cresse;25
 cretonne;31
+crib;51;Mobile home?
+cribs;51;Mobile homes?
 cries;51;Watershed moments?
 criesoff;40
 crimelab;60
@@ -3208,6 +3244,7 @@ divvying;60
 divvyingup;60
 divvyup;60
 dixiemafia;60
+djent;60
 dli;10
 dlii;10
 dliii;10
@@ -3433,6 +3470,7 @@ duane;50
 dublinireland;31
 dubuqueia;40
 ducati;50;Italian motorcycle co.
+duck;51;Down home?
 duckinto;40
 duckpond;50
 duckponds;50
@@ -3473,9 +3511,12 @@ dxl;10
 dxli;10
 dxlv;10
 dxvi;10
+dyejob;60
+dyejobs;60
 dyer;40
 dykes;5
 eachoneteachone;60;African proverb
+eagle;51;Quarter back?
 eagye;25
 eanto;25
 eapoe;40
@@ -3615,6 +3656,9 @@ eharmony;51;Where to play with matches?
 eher;25
 ehow;40;Learning web site
 ehud;40;Israeli statesman
+eider;40
+eider;41;Down home?
+eiders;40
 eidgah;25;Open space outside a mosque
 eidi;25;Muslim gift money
 eightieth;40
@@ -3742,6 +3786,15 @@ ene;30
 ener;25;Will Shortz won't accept it
 enero;30
 eneros;25
+engine;51;Motor home?
+engines;51;Motor homes?
+engirded;40
+engirding;40
+engirdle;40
+engirdled;40
+engirdles;40
+engirdling;40
+engirds;40
 eni;25
 enid;40
 enidok;31
@@ -3758,6 +3811,7 @@ ennius;31
 eno;40
 enos;40
 enough;51;Layoff demand?
+enravish;40
 enrol;25;British spelling
 enrollee;40
 enrollin;40
@@ -3905,6 +3959,10 @@ estd;40
 este;40
 esterc;40
 estival;40;Summery
+estivate;40
+estivated;40
+estivates;40
+estivating;40
 esto;40
 estring;40
 estrins;40
@@ -4272,6 +4330,7 @@ flareguns;50
 flatlet;40
 flatterywillgetyounowhere;60
 flaunty;40
+fleabane;50
 fleance;40;Banquo's son
 flee;51;Bolt out of the blue?
 fleethescene;61;Bolt from the blue?
@@ -4524,6 +4583,7 @@ geekiest;50
 geeking;50
 geekout;60
 geeksout;60
+geelong;30;Melbourne suburb
 geewhiz;60
 geezer;60
 geezers;60
@@ -5252,6 +5312,8 @@ hitcher;40
 hitchers;40
 hite;30;Author Shere
 hite;40
+hitjob;60
+hitjobs;60
 hitmaker;60
 hitmakers;60
 hitpiece;60
@@ -5377,7 +5439,7 @@ horeb;40
 horndog;60
 horndogs;60
 horners;25;Eye syndrome
-horologe;40
+horologe;30
 horoscoper;40
 hors;40
 horse;51;Regular neighsayer
@@ -5552,6 +5614,8 @@ igby;40;"___ Goes Down"
 igive;51;Line of least resistance?
 igiveup;51;Line of least resistance?
 iglesia;40
+ignition;51;Starter home?
+ignitions;51;Starter homes?
 igorot;30;Phillippine headhunter
 igotac;1
 igotchufam;60
@@ -5593,6 +5657,7 @@ ilona;30;Actress Massey of old films
 ilonamassey;40
 ilonas;25
 ily;40
+imabigfan;60
 imahugefan;60
 imallgood;60
 imamess;60
@@ -5642,7 +5707,10 @@ imwayaheadofyou;60
 ina;30
 inaba;30;Japanese province/cat food
 inabalin;40;Actress
+inabikini;40
+inabowtie;40
 inacab;40
+inajam;60
 inandout;51;For starters?
 inanna;30;Sumerian goddess
 inanuproar;60
@@ -5662,6 +5730,7 @@ inavacuum;60
 inbedwith;60
 incagold;50
 incare;40
+incaution;40
 incenses;40
 inchnails;1
 incise;40
@@ -5763,6 +5832,7 @@ inpink;40
 inpractice;50
 inre;40
 inrun;40;Ski jump slope
+insatiate;40
 insecta;40
 insectivorous;60
 insertcoin;60
@@ -5892,6 +5962,7 @@ irruption;40
 irruptions;40
 irruptive;40
 irrupts;40
+irs;51;Returns home?
 irsform;40
 isabadidea;20
 isaidgooddaysir;60
@@ -6038,9 +6109,12 @@ jai;40
 jalapeno;60
 jameshetfield;60
 jameslabrie;50
+jamjar;60
+jamjars;60
 jamun;40
 jan;40
 jap;5
+japan;51;Go home?
 jarjar;50
 jarloose;60
 jasonnewsted;60
@@ -6297,6 +6371,7 @@ lacerta;40;Lizard constellation
 lacertilia;30;Lizard genus
 laces;50;Ties up loose ends
 lacing;50;Tying up loose ends
+laciniate;30
 lackey;60
 lackeys;60
 lacroix;60;Sparkling water
@@ -6713,6 +6788,7 @@ lores;40
 lorica;30;Roman leather armor
 lorimar;25;One-time TV studio
 loris;30;Sri Lankan primate
+losangeles;51;Rams home?
 losangeleslaker;50
 loselose;60
 loseonesmarbles;60
@@ -6957,6 +7033,7 @@ mantes;25;Mantises
 mantic;25;Prophetic
 mantid;25;Mantis
 mantua;25;Birthplace of Virgil
+manure;51;Flies home?
 maoii;40;Don DeLillo novel
 maosuit;50
 maosuits;50
@@ -7668,6 +7745,7 @@ neatnik;60
 neatniks;60
 nebuchadnezzars;40
 neck;51;End in a tie?
+neck;51;Head home?
 necktattoo;60
 necktattoos;60
 necropolis;60
@@ -7701,6 +7779,7 @@ nehru;40;Indian P.M.
 nei;25
 neins;40
 neisse;30;German/Poland border river
+nekton;30
 nel;25
 nella;30
 nelle;40
@@ -7724,6 +7803,7 @@ nerva;30;Roman emperor
 nervewracking;60
 nes;40
 nesses;20
+nest;51;Flying home?
 nestegg;60
 nesteggs;60
 nestor;40;Trojan War figure
@@ -7919,6 +7999,7 @@ norefunds;60
 normalprocedure;40
 normas;25
 normcash;40
+normcore;60
 normie;60
 normies;60
 nors;40
@@ -8044,6 +8125,8 @@ nurmi;30;Distance runner Paavo the "Flying Finn"
 nurmi;40
 nurser;40
 nursesaide;50
+nutjob;60
+nutjobs;60
 nvsro;25
 nwa;50
 nyad;40;Swimmer Diana
@@ -8354,6 +8437,7 @@ opah;40;Fish
 opahs;40;Fish
 opalish;40
 ope;50
+opedpage;50
 openairstadiums;50
 openmri;50
 openonto;40
@@ -8918,6 +9002,7 @@ pigsear;60
 pikachu;60
 pilatesteachers;40
 pillmills;50
+pillow;51;Down home?
 piloterror;50
 piloterrors;50
 pinchme;60
@@ -9013,6 +9098,7 @@ playedfair;60
 playedgames;60
 playfair;60
 playgames;60
+playground;51;Slides home?
 playgroundslide;51;It's a slippery slope
 playingfair;60
 playinggames;60
@@ -9429,6 +9515,7 @@ radiationshields;60
 radiationsickness;60
 radii;40
 radiolab;60
+radioshack;61;Hammer home?
 radler;40;Alcoholic drink
 raedawn;40
 raedawnchong;40
@@ -9477,6 +9564,7 @@ ranat;40
 ranawaywith;40
 ranbehind;50
 ranfor;40
+range;51;Driving home?
 rangfor;40
 ranine;30;Frog-related, or region under the tongue
 ranit;40
@@ -10126,6 +10214,8 @@ runsupatab;50
 runtimeerror;40
 runtimeerrors;40
 runupatab;50
+runway;51;Model home?
+runways;51;Model homes?
 runyan;30;Football player / politician Jon
 runyon;40;Writer Damon
 rushat;40
@@ -10407,6 +10497,8 @@ scrabbletourney;50
 scrabbletourneys;50
 scrapiron;50
 screak;40
+screamer;60
+screamers;60
 screechowl;50
 screechowls;50
 screenager;40
@@ -10414,7 +10506,11 @@ screenagers;40
 screenshot;50
 screentest;50
 screentests;50
+screwedup;60
 screwover;50
+screwsup;60
+screwup;60
+screwups;60
 scrubnurse;50
 scrubnurses;50
 scrumdiddlyumptious;60
@@ -10801,6 +10897,7 @@ silentc;40
 silentcal;50
 silentd;40
 silente;40
+silente;41;Close to home?
 silentg;40
 silenth;40
 silenti;40
@@ -11105,6 +11202,7 @@ sods;51;Lays the groundwork?
 sodumb;60
 soever;40
 soextra;60
+sofa;51;Throws home?
 softball;50
 softboil;50
 softboiling;50
@@ -11118,6 +11216,7 @@ softlaunches;60
 softmoney;60
 softtaco;50
 sohavei;50
+sohelpme;60
 sohla;31
 sohn;30;Son: Ger.
 soigne;25;Well-groomed
@@ -11175,9 +11274,12 @@ soongs;30
 sooo;40
 sooverit;60
 sophies;40
+sorandom;60
+sorespot;60
 sorethroat;50
 soright;60
 sorosis;25
+sorryfor;40
 sorrylots;40
 sorrynorefund;25
 sorrynorefunds;60
@@ -11239,6 +11341,7 @@ spearcarrier;60
 spearcarriers;60
 speargun;50
 spearguns;50
+specialk;50
 specialmentions;50
 specialrequests;50
 spectatorsports;50
@@ -11588,7 +11691,11 @@ strangs;25;Rare last name plural
 strathspey;31
 strathspeys;31
 strawboss;60
+strawmat;50
+strawmats;50
 straycat;50
+straydog;50
+straydogs;50
 streetarab;31
 streetfair;50
 streetmagician;61;Wander around town?
@@ -12011,6 +12118,8 @@ tedder;30;Haymaking machine
 tedeum;40;Short religious service
 tedeums;40;Short religious services
 tedlasso;60
+teebox;51;Drives home?
+teebox;51;Driving home?
 teedoff;61;Took a drive?
 teeheed;40
 teehees;40
@@ -12090,6 +12199,7 @@ tenurable;40
 tenuta;31
 ter;25
 terato;30;Prefix: monster
+teratoid;30;Type of tumor
 teratoma;15
 teratomata;15
 teredo;25;Termite of the sea
@@ -12171,6 +12281,7 @@ thebeard;60
 thebeeb;50
 thebends;60
 thebigbang;40
+thebigbang;41;Creative spark?
 thebigdipper;25
 thebit;40
 theboot;40
@@ -12550,8 +12661,11 @@ tookwing;60
 toolate;60
 toolbar;50
 toolbars;50
+toolbelt;51;Hammer home?
+toolbox;51;Hammer home?
 tooler;40
 toolers;40
+toolshed;51;Hammer home?
 tooreal;50
 toosoon;60
 tooter;40
@@ -12673,6 +12787,7 @@ trapezia;25;Wrist bones
 trapstreet;60;Plagiarism trap
 trapstreets;60;Plagiarism trap
 trapstreets;60;Plagiarism traps
+trash;51;Flies home?
 trashbag;51;Takeout container?
 trashbags;51;Takeout containers?
 trashcompactors;50
@@ -12696,6 +12811,7 @@ treatingto;40
 treatsto;40
 treatto;40
 trebly;40
+tree;51;Leaves home?
 treebark;50
 treelet;40
 treelets;40
@@ -12740,6 +12856,7 @@ tripplans;50
 trochee;31
 trochees;31
 troi;40
+trombone;51;Slide home?
 trooptransports;50
 tropine;30;Chemical
 tropism;40;Turning of a plant towards sunlight
@@ -12949,6 +13066,7 @@ unbid;40
 unchartedwaters;60
 uncle;51;Line of least resistance?
 unclefester;60
+uncordial;40
 uncus;25
 und;40
 undamaged;51;Never worn?
@@ -12971,6 +13089,7 @@ uniates;40
 uniball;50
 uniced;40;Not iced
 unicornstartups;60
+unionohio;40
 unionorganizers;50
 uniped;40
 unipeds;40
