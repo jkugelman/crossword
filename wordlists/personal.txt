@@ -413,6 +413,7 @@ aja;30;Steely Dan album
 akc;40;American Kennel Club
 akeem;40;"Coming to America" prince
 akela;25;Minor Jungle Book character
+akronoh;40
 alabama;51;Mobile home?
 alack;40
 aladdin;60
@@ -1234,7 +1235,7 @@ balancedbudgets;50
 balata;31
 balatas;31
 baldies;40
-baleen;40;Type of whale, or whale's mouth filter
+baleen;50;Type of whale
 baler;40
 balers;40
 balkanpeninsula;50
@@ -1343,11 +1344,11 @@ basilisk;60
 basilisks;60
 basotho;30;People of South Africa
 basra;40;Iraqi city
-bassale;50;Drink like a fish? [used]
+bassale;51;Drink like a fish?
 bassi;40;Opera singers
 bassinet;51;Mobile home?
 bassinets;51;Mobile homes?
-basspaleale;50;Drink like a fish? [used for BASS ALE]
+basspaleale;51;Drink like a fish?
 basssolo;60
 basssolos;60
 bast;40
@@ -1364,11 +1365,11 @@ bataneyelash;60
 batcave;60
 batcaves;50
 batguano;60
+bathe;50;What nuns do out of habit? [used in Familiar Surroundings]
 bathe;51;Get into hot water
-bathe;51;What nuns do out of habit?
 bathed;51;Got into hot water
+bathes;50;What a nun does out of habit? [used for BATHE]
 bathes;51;Gets into hot water
-bathes;51;What a nun does out of habit?
 bathroomfixture;50
 bathroomslipper;50
 bathroomslippers;50
@@ -3608,6 +3609,7 @@ edo;40;Japanese period
 edomite;40
 edtv;40
 eductor;40
+edy;40
 eeg;40
 eel;51;"Endangered seal with ___ up its nose remains a mystery" (BBC headline)
 eele;25
@@ -4598,6 +4600,7 @@ generalelectric;50
 generalmanagers;50
 genesee;40;New York river
 geniein;25
+genipap;30;Tropical tree
 genitor;40
 gentian;31
 gentians;31
@@ -4761,6 +4764,7 @@ goesforadip;50
 goesforajob;50
 goeshard;50
 goesinandout;61;For starters?
+goesoffkilter;50
 goesok;50
 goesokay;50
 goesoutwith;50
@@ -4787,6 +4791,7 @@ goingforadip;50
 goinghard;50
 goinginandout;61;For starters?
 goingmad;60
+goingoffkilter;50
 goingoutwith;50
 goingpro;50
 goinon;50
@@ -4804,6 +4809,7 @@ golfswing;50
 gomad;60
 goman;20
 goneinaninstant;60
+goneoffkilter;50
 gonerilandregan;1
 gongongongongon;1
 gonogo;60
@@ -4814,6 +4820,7 @@ goodpr;50
 goodpress;50
 goofball;60
 goofballs;60
+gooffkilter;50
 googletranslate;50
 googly;60
 googoodolls;60
@@ -4921,7 +4928,7 @@ groanedat;40
 groaningat;40
 groansat;40
 grogram;30;Scratchy fabric
-grogu;50
+grogu;40;Baby Yoda
 groining;25;Intersection of two vaults
 gromyko;31
 grooveme;25
@@ -5135,11 +5142,14 @@ heapon;40
 heapson;40
 hearing;51;"Shouting match ends teacher's ___" (newspaper headline)
 hearnoevil;60
+hearns;40;Boxer
 hearsays;40
 hearsts;40
 heartrate;50
 heartspecialist;50
 heartspecialists;50
+heatray;60
+heatrays;60
 heaveho;60
 hebert;25;French Revolution journalist
 hecht;40
@@ -5218,13 +5228,13 @@ her;50
 heraldry;60
 herc;40
 hercules;60
-herd;50;Take stock in? [used for HERDS]
-herded;50;Took stock in? [used for HERDS]
-herding;50;Taking stock in? [used for HERDS]
+herd;51;Take stock in?
+herded;51;Took stock in?
+herding;51;Taking stock in?
 herdmentalities;40
 herdmentality;61;Bullheadedness?
 herdofcattle;50
-herds;50;Takes stock in? [used]
+herds;51;Takes stock in?
 herdsofcattle;50
 here;40
 hereof;40
@@ -5267,6 +5277,8 @@ hexsigns;60;Bits of Pennsylvania Dutch folk magic
 hexwrenchset;40
 heyareyouasleep;60
 heyareyousleeping;60
+heybro;50
+heyday;60
 heygoogle;60
 heysiri;60
 hic;40
@@ -5526,6 +5538,7 @@ ibars;40
 ibeam;40
 ibeams;40
 ibelieveicanfly;40
+ibn;40
 icahn;40;Billionaire Carl
 icanadd;60
 icansee;51;Vision statement
@@ -5966,7 +5979,7 @@ irs;51;Returns home?
 irsform;40
 isabadidea;20
 isaidgooddaysir;60
-isamu;31
+isamu;30
 isatonesleisure;25
 isayitis;60
 isayyes;60
@@ -5998,6 +6011,7 @@ isotopic;40
 isout;30
 isp;40
 isps;40
+isr;40
 isred;25
 issa;50;___ Rae
 isset;40
@@ -6192,6 +6206,7 @@ juco;50;Junior college
 judogi;40
 judogis;40
 jul;40
+julienned;50
 jumpintothefire;60
 jumpstart;61;Get a charge out of?
 jun;40
@@ -6233,7 +6248,6 @@ kazoo;60
 kazoos;60
 kcal;40
 kcuppod;40
-keanu;60
 kearns;25
 keepittoyourself;60
 keeptabs;50
@@ -8115,11 +8129,11 @@ numpties;30;Stupid people: Br.
 numpty;30;Stupid person: Br.
 numskull;60
 numskulls;60
-nun;51;Someone who bathes out of habit?
+nun;50;Someone who bathes out of habit? [used for BATHE]
 nunchakus;60
 nuncheon;40
 nuncheons;40
-nuns;51;Ones who bathe out of habit?
+nuns;50;Ones who bathe out of habit? [used for BATHE]
 nuremberg;60
 nurmi;30;Distance runner Paavo the "Flying Finn"
 nurmi;40
@@ -8622,7 +8636,7 @@ outlate;50
 outlaw;60
 outlawcountry;60
 outlaws;60
-outofgas;50;No laughing matter? [used]
+outofgas;51;No laughing matter?
 outraging;30
 outroar;40
 outroared;40
@@ -10849,11 +10863,11 @@ shotsofespresso;40
 shoulderbrace;50
 shoutingmatch;61;"___ ends teacher's hearing" (newspaper headline)
 showa;25;20th century Japanese era
+shower;50;What nuns do out of habit? [used for BATHE]
 shower;51;Get into hot water
-shower;51;What nuns do out of habit?
 showered;51;Got into hot water
+showers;50;What a nun does out of habit? [used for BATHE]
 showers;51;Get into hot water
-showers;51;What a nun does out of habit?
 showgirl;60
 showgirls;60
 showmewhatyougot;60
@@ -11165,6 +11179,8 @@ snowfort;50
 snowforts;50
 snowglobe;50
 snowglobes;50
+snowjob;60
+snowjobs;60
 snowmobile;50
 snowmobiles;50
 snowsports;50
@@ -11933,8 +11949,8 @@ tailspins;50
 taio;30;Musician Cruz
 taisho;31
 tak;25
+takeabath;60;What nuns do out of habit? [used for BATHE]
 takeabath;61;Get into hot water
-takeabath;61;What nuns do out of habit?
 takeabus;40
 takeacab;40
 takeadisliketo;50
@@ -11946,8 +11962,8 @@ takeanip;40
 takeanl;60
 takeapic;50
 takeashineto;60
+takeashower;50;What nuns do out of habit? [used for BATHE]
 takeashower;51;Get into hot water
-takeashower;51;What nuns do out of habit?
 takefive;60
 takehimawayboys;60
 takeiteasy;60
@@ -11957,8 +11973,8 @@ takento;40
 takeoutjoint;60
 takeoutplace;50
 takeovertargets;50
+takesabath;60;What a nun does out of habit? [used for BATHE]
 takesabath;61;Gets into hot water
-takesabath;61;What a nun does out of habit?
 takesabus;40
 takesacab;40
 takesadisliketo;50
@@ -11967,8 +11983,8 @@ takesaheader;50
 takesanip;40
 takesapic;50
 takesashineto;60
+takesashower;50;What a nun does out of habit? [used for BATHE]
 takesashower;51;Gets into hot water
-takesashower;51;What a nun does out of habit?
 takesfive;60
 takesthebait;60
 takesthecake;60
@@ -12050,12 +12066,12 @@ tawdry;60
 taxdeed;50
 taxevader;40
 taxevaders;40
-taxi;50;Get off to a flying start? [used for TAXIES]
+taxi;51;Get off to a flying start?
 taxid;40
-taxied;50;Got off to a flying start? [used for TAXIES]
-taxies;50;Gets off to a flying start? [used]
-taxiing;50;Off to a flying start? [used for TAXIES]
-taxis;50;Gets off to a flying start? [used for TAXIES]
+taxied;51;Got off to a flying start?
+taxies;51;Gets off to a flying start?
+taxiing;51;Off to a flying start?
+taxis;51;Gets off to a flying start?
 taxlaw;50
 tay;40
 tba;40
@@ -12096,6 +12112,7 @@ teamgame;50
 teamo;40
 teamo;51;International date line?
 teapearl;50
+teapoy;40
 teared;40
 tearer;40
 tearjerkingscene;61;Watershed moment?
@@ -12935,15 +12952,19 @@ turinsriver;1
 turndown;60;Make
 turnedinsideout;60
 turnedon;60
+turnedonthewaterworks;60
 turninginsideout;60
 turningon;50
+turningonthewaterworks;60
 turninsideout;60
 turnitintoawholething;60
 turnlane;50
 turnlanes;50
 turnon;60
+turnonthewaterworks;60
 turnsinsideout;60
 turnson;60
+turnsonthewaterworks;60
 turturro;60
 tussock;40;Tuft of grass
 tutorage;40
@@ -13467,6 +13488,7 @@ wentflat;50
 wentforadip;50
 wenthard;50
 wentinandout;51;For starters?
+wentoffkilter;50
 wentoutwith;50
 wentsolo;50
 weptfor;40
@@ -13555,6 +13577,8 @@ wingcollar;40
 wingedt;31
 wingspan;60
 wingspans;40
+winnebago;50
+winnebagos;50
 wino;5
 winonaryder;60
 winos;5
@@ -13617,7 +13641,7 @@ wormoneswayinto;60
 worthit;60
 worths;40
 wowedem;60
-wrangle;50;Take stock in? [used for HERDS]
+wrangle;51;Take stock in?
 wrasse;25;Aquarium fish
 wrathy;40
 wsj;40
