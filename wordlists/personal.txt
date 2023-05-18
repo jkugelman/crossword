@@ -255,6 +255,7 @@ adillyofapickle;60
 adina;40
 adinitium;50
 adipic;25;Acid
+adj;40
 adjani;25;Actress Isabelle
 adjuratory;40
 adjures;40
@@ -274,6 +275,7 @@ adspaces;50
 adue;40;Together, in music
 adunit;50
 adunits;50
+adv;40
 advancedformula;50
 adverb;60;Now or never?
 advisee;40
@@ -2267,7 +2269,7 @@ certifiedkosher;50
 cervine;30;Deerlike
 cest;40
 cetacean;30;Whale/dolphin/porpoise
-cfc;31
+cfc;40
 cflat;40
 cgbg;25;NYC punk and new wave club
 cgi;50
@@ -2457,7 +2459,7 @@ cmxxx;10
 cnatural;40
 cnote;40
 cnotes;40
-cns;31
+cns;40
 coaler;40
 coalers;40
 coatee;31
@@ -2747,7 +2749,7 @@ csection;51;Express delivery?
 csharp;40
 csis;40
 csonka;31
-cst;31
+cst;40
 cstar;30
 cstars;30
 csu;30
@@ -2762,7 +2764,7 @@ ctrlp;40
 ctrlv;50
 ctrlx;50
 ctrlz;60
-ctu;31
+ctu;30
 cuando;40
 cuarenta;40
 cubans;50
@@ -2835,7 +2837,7 @@ dacoits;30;Indian bandits
 dadager;50
 dadagers;50
 dadgum;60
-dae;31
+dae;40
 dafe;25
 dafuq;50
 dagoba;30;Buddhist shrine
@@ -2891,7 +2893,7 @@ dashedoneshopes;60
 dashesoneshopes;60
 dashingoneshopes;60
 dashoneshopes;60
-dat;31
+dat;40
 datable;40
 datakey;50
 datakeys;50
@@ -4737,7 +4739,7 @@ glogg;40;Swedish spiced wine
 gloxinia;31
 gluedto;40
 gluons;50
-gma;31
+gma;40
 gman;31
 gmen;31
 gmo;50
@@ -5354,9 +5356,9 @@ hitpiece;60
 hitpieces;60
 hitsapaywall;40
 hitshow;50
-hitsnooze;61;Stay undercover?
+hitsnooze;60
 hitsout;40
-hitssnooze;61;Stays undercover?
+hitssnooze;60
 hitsthetop;20
 hitthetop;20
 hittingapaywall;25
@@ -6149,6 +6151,8 @@ jameshetfield;60
 jameslabrie;50
 jamjar;60
 jamjars;60
+jammer;51;Source of a killer wave?
+jammers;51;Sources of killer waves?
 jamun;40
 jan;40
 jap;5
@@ -6328,8 +6332,7 @@ kingboo;60
 kingcrimson;60
 kingdavid;50
 kingme;60
-kir;30;Cocktail
-kir;31
+kir;40;Cocktail
 kirkcameron;40
 kirkhammett;50
 kislev;30;Hebrew month
@@ -6886,7 +6889,7 @@ lowerjaw;50
 lowfare;50
 lowfares;50
 lowon;40
-loy;31
+loy;30
 loyalfan;50
 loyalfans;50
 loyaltyprograms;50
@@ -7628,7 +7631,7 @@ mrwilson;50
 msdegree;40
 msdegrees;40
 msrp;50
-mst;31
+mst;40
 mstar;30
 mstars;30
 mtst;25
@@ -8267,7 +8270,7 @@ oftenest;40
 ogam;25
 ogdenut;40
 ogill;25
-ogs;31
+ogs;30
 ohairs;31
 ohfine;60
 ohh;50
@@ -8616,7 +8619,7 @@ ostlers;30;Stablemen
 ostosis;31
 ostracod;30;Seed shrimp
 ostracodes;30;Seed shrimp
-osx;31
+osx;30
 otalgia;30;Ear pain
 otalgias;25;Ear pains
 otc;40
@@ -11080,8 +11083,8 @@ slavers;40
 slavonia;31
 slc;40
 sleekit;31
-sleepin;51;Stay undercover?
-sleepingin;51;Staying undercover?
+sleepin;50
+sleepingin;50
 sleepings;30
 sleeplab;50
 sleeplabs;50
@@ -11090,9 +11093,9 @@ sleepmasks;50
 sleepsack;50
 sleepsacks;50
 sleepschedule;51;Retirement plan?
-sleepsin;51;Stays undercover?
+sleepsin;50
 sleepys;25
-sleptin;51;Stayed undercover?
+sleptin;50
 slide;51;It's a slippery slope
 slidepast;50
 slimer;60
@@ -13471,7 +13474,7 @@ waxjob;60
 waycool;60
 wba;40
 wbo;40
-wds;31
+wds;40
 weakside;50
 weaner;31
 weaners;31
@@ -13531,7 +13534,7 @@ westpointcadets;50
 wests;40
 wetly;40
 wewillrockyou;61;Queen's decree?
-wha;31
+wha;40
 whackjob;60
 whalecalf;50
 whalecalves;50
@@ -13642,7 +13645,7 @@ witheringaway;50
 withersaway;50
 withlegs;40;Having staying power
 witter;40;Investor Dean
-wks;31
+wks;40
 wnw;25
 woim;25
 wonbronze;50
@@ -13736,7 +13739,7 @@ xlii;10
 xliii;10
 xliv;10
 xlix;10
-xls;31
+xls;30
 xlv;10
 xlvi;10
 xlviii;10
