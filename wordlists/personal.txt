@@ -69,6 +69,13 @@ abelia;30;Plant genus
 aber;25
 aberdeenterrier;50
 aberdeenterriers;50
+abetment;40
+abettal;40
+abettals;40
+abeyance;40
+abeyances;40
+abeyancy;40
+abeyant;40
 abfab;40
 abhorrer;40
 abhorrers;40
@@ -628,6 +635,7 @@ amion;25
 amman;40;Capital of Jordan
 ammobelt;50
 ammobelts;50
+ammonic;40
 amnion;30
 amnions;30
 amnios;30
@@ -971,7 +979,9 @@ aryans;5
 arye;30;Actor Gross
 asa;40
 asanas;40
+asarule;60
 asdidi;50
+asea;40
 asean;25;Association of Southeast Asian Nations
 asha;25;Theon Greyjoy's sister + other meanings
 asharp;40
@@ -1104,6 +1114,7 @@ atomictangerine;25
 atoners;40
 atonof;40
 atplay;50
+atsea;40
 att;30
 atta;40
 attaboy;60
@@ -1338,6 +1349,7 @@ bareall;60
 bareboned;50
 barebones;50
 barefoot;50
+bareitall;60
 barelygetby;50
 barelygetsby;50
 barelygettingby;50
@@ -2183,6 +2195,7 @@ carpe;40;___ diem
 carpi;30;Wrist bones
 carriagepainter;1
 carrions;40
+carrottop;60
 carsale;50
 carsales;50
 cartab;40
@@ -2190,6 +2203,8 @@ cartabs;40
 carteret;30;New Jersey town
 cartoonviolence;60
 cartwheel;51;Get over yourself
+caryatid;40;Greek female sculpture serving as a column
+caryatids;40;Greek female sculptures serving as columns
 casabamelon;50
 casca;25;One of Caesar's assassins
 cascara;40;Coffee cherry tea
@@ -2553,6 +2568,8 @@ cnatural;40
 cnote;40
 cnotes;40
 cns;40
+coagula;40
+coagulum;40
 coaler;40
 coalers;40
 coatee;31
@@ -2763,6 +2780,7 @@ cowhands;50
 cowpatties;60
 cowrie;40
 cows;51;"___ lose their jobs as milk prices drop" (Baltimore Sun)
+cowtools;60
 coxae;25
 coxed;40
 coxes;40
@@ -2892,6 +2910,7 @@ cuponeshands;50
 cuppedoneshands;50
 cuppingoneshands;50
 cupsoneshands;50
+curettage;40
 curiatii;31
 curiosa;25;Movie
 curlsin;25
@@ -4021,6 +4040,10 @@ ensouled;40
 ensouling;40
 ensouls;40
 enstate;25
+ensteel;40
+ensteeled;40
+ensteeling;40
+ensteels;40
 ent;40
 enteral;40
 enteredthepicture;60
@@ -4247,6 +4270,8 @@ everyonemakesmistakes;61;"'___' says teen who karate-kicked 74-year-old man into
 everythingeverywhereallatonce;60
 evictor;40
 evillest;40
+evitable;40
+evitably;40
 evite;40
 evo;40;Bolivian president Morales
 evolute;30;Geometry term
@@ -4460,6 +4485,8 @@ femininepronoun;50
 fenetre;30;Maison window (???)
 ferdelance;40;Venomous snake
 ferragamo;50
+ferretkit;50
+ferretkits;50
 fes;25
 fetishes;50
 fetishize;60
@@ -4686,6 +4713,7 @@ franc;51;French quarter
 franchitti;40;British motor racing driver
 frankgehry;50
 fratboy;50
+fratello;40
 freakazoid;60
 freds;40
 fredward;50
@@ -4735,6 +4763,7 @@ ftknox;51;Bar keep?
 ftp;30
 ftw;40
 fubsy;40;Short and fat: Br.
+fuddy;40
 fudgy;40
 fueltank;50
 fugitive;51;Person in the spotlight?
@@ -5205,7 +5234,6 @@ groining;25;Intersection of two vaults
 gromyko;31
 grooveme;25
 groper;40
-gross;60
 grotesque;60
 grotesquely;60
 grotesqueness;60
@@ -6321,6 +6349,7 @@ isinfor;40
 isithotinhere;60;Tie-pullers complaint
 isixteen;10
 islaer;1
+isleof;25
 isn;25
 isnap;25
 isnt;40
@@ -6583,6 +6612,7 @@ keepyourshirton;60
 kehuyquan;60
 kelpforest;50
 kelpforests;50
+kenan;50;Comedian Thompson
 kennan;31
 kepi;30;French military cap
 kepis;30;French military caps
@@ -6673,14 +6703,18 @@ knowall;40
 kobebeef;61;A cut above the rest?
 kod;40
 kofiannan;50
+kolas;40;Caffeinated nuts
 koln;31
+konas;40;Coffees
 konig;40;Burger king?
 koolaiddrinker;60
 koolaiddrinkers;60
+kopek;40
+kopeks;40
 koreanamericans;40
 koss;40;Headphones company
-koto;31
-kotos;31
+koto;40;Japanese national instrument
+kotos;40;Japanese national instruments
 koyaanisqatsi;60
 kph;40
 kra;25
@@ -6698,6 +6732,7 @@ kstars;30
 kudo;31
 kwacha;30;Zambian currency
 kwik;40
+kyles;40
 kymograph;25;Graphical representation of spatial position over time
 kymographs;25;Graphical representations of spatial position over time
 laalaa;50;Yellow teletubby
@@ -7350,6 +7385,7 @@ maintainability;50
 maitre;40
 maitred;50
 maitreds;50
+maja;40;Goya's "The Naked ___"
 majeste;40
 majorityleaders;50
 majorleaguegame;40
@@ -7448,6 +7484,8 @@ marineone;50
 marinerscompass;50
 marios;40
 marjoe;30;Preacher Gortner
+marketeer;40
+marketeers;40
 marketjitters;60
 marky;40
 marlboro;60
@@ -9228,6 +9266,7 @@ paree;40
 parentalunits;60
 paresthesia;30;Pins and needles
 paresthesias;30;Pins and needles, plurally
+parietals;40
 paripassu;40;"Equal footing" in contract law
 parole;51;Incomplete sentence?
 paroles;51;Incomplete sentences?
@@ -9320,6 +9359,7 @@ pearler;40
 pearlers;40
 pearljam;60
 pearse;30;Irish activist
+pease;40;Type of porridge
 peasecod;30;Pea pod, archaic
 peccavi;25;Expression of guilt
 peclass;50
@@ -9379,6 +9419,10 @@ periodide;30;Chemistry word
 perl;40
 perma;40
 permissionslips;50
+permittee;40
+permittees;40
+permitter;40
+permitters;40
 peroneal;40
 perorate;30;Speak at length
 perorated;30;Spoke at length
@@ -9746,6 +9790,8 @@ pragents;40
 praia;25
 praisebe;60
 prandial;40
+pratfall;60
+pratfalls;60
 prau;25
 preachit;60
 prearm;40
@@ -10715,6 +10761,8 @@ runandgun;61;For starters?
 runat;40
 runawaywith;40
 runbehind;50
+rundle;40;Ladder rung
+rundles;40;Ladder rungs
 rundown;60
 rundown;61;At no charge?
 rundown;61;Charge too little?
@@ -11778,7 +11826,7 @@ soihear;60
 soilied;60
 soir;40
 soiwaslike;60
-soju;40
+soju;40;Korean liquor
 sola;40
 solaced;40
 solacer;40
@@ -12231,7 +12279,7 @@ stoodtrial;50
 stool;51;"Child's ___ great for use in garden" (Buffalo Courier-Express)
 stoopball;50
 stopmakingsense;60
-stork;60;Delivery vehicle
+stork;51;Delivery vehicle
 stormalert;50
 stormin;60
 storytime;50
@@ -12243,6 +12291,10 @@ stp;40
 stpaulminnesota;31
 stpy;25
 straincredulity;60
+straiten;40
+straitened;40
+straitening;40
+straitens;40
 strake;30;Boat planking
 strakes;30
 strangeordeal;60
@@ -12592,6 +12644,7 @@ tapasbars;50
 tapeta;25;Retina layers
 tappedtelephone;40
 tarana;30;Hindustani composition
+tarantino;60
 tardes;40
 tariqaziz;60
 taros;40
@@ -12986,6 +13039,7 @@ thesox;20
 thespanishsteps;20
 thesplits;40
 thetab;20
+thetable;25
 thetale;40;Movie
 thetalk;60
 thetaoofpooh;60
@@ -13043,6 +13097,7 @@ threepiece;50
 threepm;40
 threer;40
 threers;60
+threetime;40
 threwforaloop;60
 threwunderthebus;60
 thriller;60
@@ -14224,6 +14279,8 @@ woim;25
 wojo;25
 wonbronze;50
 wonone;50
+wonted;40
+wontedly;40
 wood;51;Drive shaft?
 woodblockprints;50
 woodendoll;60
@@ -14403,6 +14460,7 @@ yenningfor;30
 yensfor;30
 yensid;1
 yenta;51;One who plays with matches?
+yeows;40
 yerevan;30;Capital of Armenia
 yers;40
 yesandno;60
