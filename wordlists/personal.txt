@@ -330,6 +330,7 @@ aer;40
 aerations;40
 aerialtour;50
 aerialtours;50
+aerialyoga;50
 aerier;25
 aeriest;25
 aero;40
@@ -540,6 +541,8 @@ alidade;25;Sighting instrument
 alidades;25;Sighting instrument
 alienage;40
 aliencat;20
+aliencat;40;???
+aliencats;40;???
 aliened;40
 alienee;40
 alienees;40
@@ -1213,6 +1216,7 @@ ataman;30;Cossack leader
 atamans;30;Cossack leaders
 atar;25
 ataraxia;40
+ataricorp;50
 atat;40
 ataxia;40
 ataxy;40
@@ -1845,6 +1849,7 @@ bertrandrussell;60
 besame;51;International date line?
 besieger;40
 besiegers;40
+besomebody;50
 bestie;60
 besties;60
 bestofseven;50
@@ -2018,9 +2023,7 @@ blockbusters;61;Shoots for the stars?
 blowpipe;50
 blowpipes;50
 blueberries;50
-blueberries;60
 blueberry;50
-blueberry;60
 bluegoose;50
 bluegrassregion;50
 bluegrassregions;50
@@ -2082,11 +2085,13 @@ bonelesschicken;50
 bonesup;60
 boneup;60
 bongodrum;50
+bongoes;25;Rare spelling
 boningup;60
 bonu;25
 bonzer;60
 booat;40
 booboo;60
+booboos;60
 boobtube;60
 booedat;40
 boogaloo;60
@@ -2192,6 +2197,7 @@ breezingrightpast;50
 breitbart;40
 breitbartnews;40
 breteastonellis;60
+brickcity;50;Newark, NJ
 brickovenpizzas;50
 bridesmaiddress;50
 bridgeofthenose;50
@@ -2985,6 +2991,7 @@ club;51;Drive shaft?
 clubfed;60
 clubfee;50
 clubfees;50
+clubscene;50
 clv;10
 clvi;10
 clx;10
@@ -3260,6 +3267,7 @@ cornhuskerstate;50
 cornpit;50
 cornpits;50
 coronaaustralis;60
+coronae;40
 corot;40;Landscape painter Camille
 corporateimages;50
 corporatelawyer;50
@@ -3346,6 +3354,8 @@ crackwise;61;Defy gravity?
 cradle;51;Mobile home?
 cradle;51;Phone home?
 cradles;51;Mobile homes?
+craftbeer;50
+craftbeers;50
 craftshop;50
 craftshops;50
 crapgame;50
@@ -4293,6 +4303,9 @@ dpi;40
 dpl;25
 dqs;40
 dracula;60
+draftcard;50
+draftcards;50
+draftcategory;50
 draftlist;50
 draftlists;50
 draftlottery;50
@@ -4334,6 +4347,7 @@ dreamteam;60
 dreamteams;60
 dreamtheater;60
 drebin;50
+dreck;50
 dressas;40
 dressedas;40
 dressedupas;60
@@ -5398,8 +5412,12 @@ fenetre;30;Maison window (???)
 ferdelance;40;Venomous snake
 fernand;40;Artist Léger
 ferragamo;50
+ferretedout;50
+ferretingout;50
 ferretkit;50
 ferretkits;50
+ferretout;50
+ferretsout;50
 fes;25
 fetishes;50
 fetishize;60
@@ -5504,6 +5522,7 @@ fiveirons;40
 fivek;30
 fiveks;30
 fivetimechamp;25
+fivews;50
 fixitinpost;60
 fla;40
 flameon;50;Human Torch's catchphrase
@@ -6004,6 +6023,7 @@ glanceat;40
 glancedat;40
 glancesat;40
 glancingat;40
+glasscity;40;Toledo, OH?
 glau;50
 glde;25
 glennhowerton;60
@@ -6049,10 +6069,13 @@ gobs;51;It means a lot
 gobust;60
 goby;40
 gocold;60
+gocondo;40;Convert apartments to owned condos
 gocondo;50
 gocoop;31
 godelescherbach;60
 godisdead;60
+godsacre;50
+godsacres;50
 godsgift;60
 goesallout;50
 goesas;50
@@ -6140,6 +6163,10 @@ gooffkilter;50
 gooffline;50
 goofiness;50
 goofingon;50
+goofoff;50
+goofoff;51;Defy gravity?
+goofoffs;50
+goofoffs;51;They defy gravity?
 goofon;50
 goofson;50
 googlelogo;50
@@ -6181,6 +6208,7 @@ gotchas;60
 gotchummy;60
 gotchummywith;60
 gotfat;40
+gothicart;50
 gotideas;60
 gotintoit;50
 gotlost;50
@@ -6411,6 +6439,8 @@ halfpint;50
 halfpints;50
 halfslip;50
 halfslips;50
+halftruth;50
+halftruths;50
 halfwit;60
 hallowedground;60
 halon;40;Fire suppressant
@@ -7785,7 +7815,7 @@ jameslabrie;50
 jamiroquai;60
 jamjar;60
 jamjars;60
-jammer;51;Source of a killer wave?
+jammer;51;Source of killer waves?
 jammers;51;Sources of killer waves?
 jamroll;50
 jamrolls;50
@@ -7821,6 +7851,8 @@ jennet;25;Small Spanish horse
 jennets;25;Small Spanish horses
 jerboa;31
 jerky;51;Animal preserves?
+jerrybrown;50
+jerseyboys;50
 jessel;40;Actor George
 jesses;40
 jessicachastain;60
@@ -8356,6 +8388,7 @@ lemonl;1
 lemonmeringue;50
 lemonslices;50
 lempira;30;Honduran currency
+leninstomb;50
 lenoir;25;North Carolina town
 leog;25;Actor Carroll
 leoi;30
@@ -9034,6 +9067,7 @@ mauiwowie;60;Hawaiian bud
 maupin;40;Novelist
 maxell;40;Japanese consumer electronics co.
 maxene;40
+maxfactor;50;Cosmetics line
 maxilla;40;Upper jawbone
 maxillae;40;Upper jawbones
 maxime;30;First name, unsure if notable
@@ -9482,6 +9516,7 @@ moated;40
 mobilead;50
 mobileal;30
 moblaw;50
+mobracket;50
 model;50;One who might say "Take your best shot!"
 modelrocketkit;60
 modelrocketkits;60
@@ -9509,6 +9544,7 @@ molinari;30;90s house rep
 molls;51;Dated women?
 molter;40
 momandpop;60
+momenta;40
 momzilla;60
 mon;40
 mondaymorningqb;40
@@ -9946,6 +9982,7 @@ newshelicopter;50
 newshelicopters;50
 newsmaker;50
 newsmakers;50
+newsmansown;50
 newspaperad;50
 newspaperads;50
 newspoll;50
@@ -10124,6 +10161,7 @@ nopales;25;Cacti
 nopq;10
 nopqr;10
 noprobbob;60
+noranda;30;Rouyn-Noranda, Quebec
 nord;40
 noreally;60
 norefunds;60
@@ -10169,6 +10207,7 @@ notarial;31
 notcheap;60
 notchesononesbelt;60
 notchononesbelt;60
+notcool;60
 notelet;40
 notelets;40
 noteof;25
@@ -10993,6 +11032,8 @@ pahlavi;30;Iranian Shah
 pahlevi;1
 pai;40;___ Gow
 paidto;40
+paintchip;50
+paintchips;50
 paintedover;50
 paintfleck;50
 paintflecks;50
@@ -11852,6 +11893,7 @@ progolfers;50
 programing;1
 programs;51;Play cards?
 progressiverock;60
+prohockey;50
 projecthailmary;50
 projectx;60
 prolapsing;31
@@ -11866,6 +11908,7 @@ propre;30
 props;50;Play things [used for PROGRAM]
 proshop;50
 proshops;50
+prosoccer;50
 protease;40
 protestbanner;60
 protestbanners;60
@@ -12852,6 +12895,7 @@ rowdyroddypiper;60
 royale;60
 royalmint;50
 roybean;50
+roycohn;40;Joseph McCarthy's chief counsel
 rpg;40
 rpgs;40
 rph;25
@@ -13687,6 +13731,8 @@ shoppingat;40
 shopsat;40
 shorta;40
 shortas;30
+shortcon;50
+shortcons;50
 shorte;40
 shortes;30
 shorti;40
@@ -14201,6 +14247,7 @@ sola;40
 solaced;40
 solacer;40
 solaces;40
+solange;50;Beyoncé's sister w/a Grammy of her own
 solano;30;California county
 solarcar;50
 solarcars;50
@@ -14364,6 +14411,7 @@ spflevels;50
 spfs;40
 spheral;25
 spic;5
+spicecake;50
 spicerub;50
 spicerubs;50
 spick;5
@@ -14450,6 +14498,7 @@ sstars;30
 ssw;25
 stadlers;25
 staffa;40;Scottish island
+stagecrew;50
 stagedad;60
 stagedads;60
 stagemom;60
@@ -14820,8 +14869,8 @@ studydates;50
 stuf;40
 stuntbike;50
 stuntbikes;50
-stuntcar;50
-stuntcars;50
+stuntcar;60
+stuntcars;60
 stuntpilot;50
 stuntpilots;50
 stuntplane;50
@@ -15477,6 +15526,7 @@ thefbi;20
 thefda;25
 thefed;50
 thefirstletters;1
+thefivews;50
 theflu;20
 thefuries;50
 thegap;50
@@ -15813,6 +15863,11 @@ toebean;50
 toebeans;60
 toedin;40
 toein;40
+toepoke;40;Australian soccer technique
+toepoked;40;Australian soccer technique
+toepokes;40;Australian soccer technique
+toepunt;40;Australian soccer technique
+toepunts;40;Australian soccer technique
 toesin;40
 tofuburger;50
 tofuburgers;50
@@ -15897,6 +15952,7 @@ tootrue;60
 toottoottootsie;40
 toowise;25
 top;51;Overdrive?
+topanga;40;Canyon, or "Boy Meets World" character
 topazquartz;60
 topees;25;Pith helmets
 topgunmaverick;60
@@ -16795,6 +16851,9 @@ wearthetrousers;60
 weate;40
 webbedfeet;50
 webbedfoot;50
+webfooted;50
+webfootedgecko;50
+webfootedgeckos;50
 weblink;40
 weblog;40
 weblogs;40
@@ -17281,6 +17340,7 @@ zakk;50
 zale;40
 zamboni;60
 zambonis;60
+zamfir;50
 zazie;60;Actress Beetz
 zaziebeetz;60;Actress from "Atlanta" and "Joker"
 zcars;25;British cop drama
