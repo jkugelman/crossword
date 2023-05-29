@@ -13,6 +13,8 @@ class WordList:
         edits=[],
     ):
         with open(rel_path(path)) as file:
+            words = dict()
+
             for line in file:
                 word, score = line.split(';', 1)
                 word = re.sub('[^a-z]', '', word.lower())
@@ -28,6 +30,9 @@ class WordList:
                 if score < 0:
                     continue
 
+                words[word] = score
+
+            for word, score in words.items():
                 self.words.setdefault(word, score)
 
     def save(self, path, scores, min_score=0):
