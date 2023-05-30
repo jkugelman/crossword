@@ -3,7 +3,7 @@ use std::ops::{Deref, DerefMut};
 
 use array2d::Array2D;
 
-use crate::{Square, Target};
+use crate::{Slot, Square};
 
 /// The crossword grid. Keeps track of the letters in each square and how many overlapping words
 /// there are in each location.
@@ -22,29 +22,27 @@ impl Grid {
         self.0.num_rows()
     }
 
-    /// Returns an iterator over the letters of a word and the squares they correspond with starting
-    /// from the target location.
-    pub fn squares(&self, target: Target) -> impl Iterator<Item = &Option<Square>> {
-        target.locations().map(|loc| &self[loc])
+    /// Returns an iterator over the squares in a slot.
+    pub fn squares(&self, slot: Slot) -> impl Iterator<Item = &Option<Square>> {
+        slot.locations().map(|loc| &self[loc])
     }
 
-    /// Returns an iterator over the letters of a word and the squares they correspond with starting
-    /// from the target location.
+    /// Returns an iterator over the letters of a word in a slot and the squares they correspond
+    /// with.
     pub fn letter_squares<'grid, 'word: 'grid>(
         &'grid self,
+        slot: Slot,
         word: &'word str,
-        target: Target,
     ) -> impl Iterator<Item = (char, &'grid Option<Square>)> + 'grid {
-        target
-            .letter_locations(word)
+        slot.letter_locations(word)
             .map(|(letter, loc)| (letter, &self[loc]))
     }
 
     /// Adds a word to the grid. Fails if there's a conflict with any crossing words.
     #[allow(clippy::result_unit_err)]
-    pub fn enter(&mut self, word: &str, target: Target) -> Result<(), ()> {
+    pub fn enter(&mut self, slot: Slot, word: &str) -> Result<(), ()> {
         // Check if the word fits up front to avoid having partially-entered words.
-        self.check_with(word, target, |(letter, square)| {
+        self.check_with(slot, word, |(letter, square)| {
             if let Some(square) = square {
                 square.letter == letter
             } else {
@@ -52,7 +50,7 @@ impl Grid {
             }
         })?;
 
-        for (letter, loc) in target.letter_locations(word) {
+        for (letter, loc) in slot.letter_locations(word) {
             let square = &mut self[loc];
             let square = square.get_or_insert_with(|| Square::new(letter));
 
@@ -64,15 +62,15 @@ impl Grid {
 
     /// Removes an existing word from the grid without disturbing crossing words.
     #[allow(clippy::result_unit_err)]
-    pub fn erase(&mut self, word: &str, target: Target) -> Result<(), ()> {
+    pub fn erase(&mut self, slot: Slot, word: &str) -> Result<(), ()> {
         // Check that the word is present up front to avoid having partially-removed words.
-        self.check_with(word, target, |(letter, square)| {
+        self.check_with(slot, word, |(letter, square)| {
             square
                 .as_ref()
                 .map_or(false, |square| square.letter == letter)
         })?;
 
-        for (_letter, loc) in target.letter_locations(word) {
+        for (_letter, loc) in slot.letter_locations(word) {
             let square = &mut self[loc];
             let crossings = &mut square.as_mut().unwrap().crossings;
             *crossings -= 1;
@@ -83,15 +81,15 @@ impl Grid {
         Ok(())
     }
 
-    /// Checks that a word at the target location matches the given predicate.
+    /// Checks that a word in a slot matches the given predicate.
     #[allow(clippy::result_unit_err)]
     pub fn check_with(
         &self,
+        slot: Slot,
         word: &str,
-        target: Target,
         pred: impl FnMut((char, &Option<Square>)) -> bool,
     ) -> Result<(), ()> {
-        if self.letter_squares(word, target).all(pred) {
+        if self.letter_squares(slot, word).all(pred) {
             Ok(())
         } else {
             Err(())

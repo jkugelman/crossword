@@ -3,7 +3,7 @@ use std::fs::File;
 use std::io::{self, BufRead, BufReader};
 use std::path::Path;
 
-use crate::{Grid, Target};
+use crate::{Grid, Slot};
 
 /// A crossword word list with clever indexes for speedy lookups.
 #[derive(Clone, Debug, Eq, PartialEq)]
@@ -87,18 +87,18 @@ impl WordList {
             .unwrap_or_default()
     }
 
-    /// Returns words that would fit in the grid at the target location.
-    pub fn find_fits(&self, grid: &Grid, target: Target) -> HashSet<&str> {
+    /// Returns words that would fit in a grid slot.
+    pub fn find_fits(&self, grid: &Grid, slot: Slot) -> HashSet<&str> {
         let mut fits: Option<HashSet<&str>> = None;
 
-        for (pos, square) in grid.squares(target).enumerate() {
+        for (pos, square) in grid.squares(slot).enumerate() {
             let Some(square) = square else {
                 continue;
             };
 
             match &mut fits {
                 None => {
-                    fits = Some(self.words_with_len_pos_letter(target.len, pos, square.letter));
+                    fits = Some(self.words_with_len_pos_letter(slot.len, pos, square.letter));
                 }
                 Some(fits) => {
                     fits.retain(|word| word.as_bytes()[pos] as char == square.letter);
@@ -110,6 +110,6 @@ impl WordList {
         }
 
         // If all squares were blank then return the full word list.
-        fits.unwrap_or_else(|| self.words_with_len(target.len))
+        fits.unwrap_or_else(|| self.words_with_len(slot.len))
     }
 }

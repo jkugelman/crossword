@@ -4,16 +4,16 @@ mod direction;
 mod grid;
 mod location;
 mod search;
+mod slot;
 mod square;
-mod target;
 mod wordlist;
 
 pub use direction::Direction;
 pub use grid::Grid;
 pub use location::Location;
 pub use search::Search;
+pub use slot::Slot;
 pub use square::Square;
-pub use target::Target;
 pub use wordlist::WordList;
 
 use std::{env, io};
@@ -36,7 +36,7 @@ fn main() -> io::Result<()> {
     let word_list = WordList::load(word_list)?;
     let mut grid = Grid::blank(size);
 
-    let targets = match pattern.as_str() {
+    let slots = match pattern.as_str() {
         "ring" => ring(size, thickness),
         "figure_eight" => figure_eight(size, thickness),
         "window_pane" => window_pane(size, thickness),
@@ -44,12 +44,12 @@ fn main() -> io::Result<()> {
         "custom" => custom(size, thickness),
         _ => panic!("bad pattern, expected ring|figure_eight|window_pane|cross|custom"),
     };
-    Search::search(&word_list, &mut grid, &targets);
+    Search::search(&word_list, &mut grid, &slots);
 
     Ok(())
 }
 
-fn ring(size: usize, thickness: usize) -> Vec<Target> {
+fn ring(size: usize, thickness: usize) -> Vec<Slot> {
     assert!(thickness <= size / 2);
 
     let t = 0;
@@ -58,27 +58,25 @@ fn ring(size: usize, thickness: usize) -> Vec<Target> {
     let b = size - 1;
 
     #[rustfmt::skip]
-    let targets = (0..thickness)
+    let slots = (0..thickness)
         .flat_map(|i| {
             [
-                Target { loc: Location { row: t + i, col: l }, dir: Direction::East, len: size },
-                Target { loc: Location { row: t, col: r - i }, dir: Direction::South, len: size },
-                Target { loc: Location { row: b - i, col: l }, dir: Direction::East, len: size },
-                Target { loc: Location { row: t, col: l + i }, dir: Direction::South, len: size },
+                Slot { loc: Location { row: t + i, col: l }, dir: Direction::East, len: size },
+                Slot { loc: Location { row: t, col: r - i }, dir: Direction::South, len: size },
+                Slot { loc: Location { row: b - i, col: l }, dir: Direction::East, len: size },
+                Slot { loc: Location { row: t, col: l + i }, dir: Direction::South, len: size },
             ]
         })
         .collect();
-
-    targets
+    slots
 }
 
-fn figure_eight(size: usize, thickness: usize) -> Vec<Target> {
+fn figure_eight(size: usize, thickness: usize) -> Vec<Slot> {
     assert!(thickness <= size / 2);
 
-    let mut targets = ring(size, thickness);
-
+    let mut slots = ring(size, thickness);
     for i in 0..thickness {
-        targets.push(Target {
+        slots.push(Slot {
             loc: Location {
                 row: size / 2 - thickness / 2 + i,
                 col: 0,
@@ -87,17 +85,15 @@ fn figure_eight(size: usize, thickness: usize) -> Vec<Target> {
             len: size,
         });
     }
-
-    targets
+    slots
 }
 
-fn window_pane(size: usize, thickness: usize) -> Vec<Target> {
+fn window_pane(size: usize, thickness: usize) -> Vec<Slot> {
     assert!(thickness <= size / 2);
 
-    let mut targets = figure_eight(size, thickness);
-
+    let mut slots = figure_eight(size, thickness);
     for i in 0..thickness {
-        targets.push(Target {
+        slots.push(Slot {
             loc: Location {
                 row: 0,
                 col: size / 2 - thickness / 2 + i,
@@ -106,17 +102,16 @@ fn window_pane(size: usize, thickness: usize) -> Vec<Target> {
             len: size,
         });
     }
-
-    targets
+    slots
 }
 
-fn cross(size: usize, thickness: usize) -> Vec<Target> {
+fn cross(size: usize, thickness: usize) -> Vec<Slot> {
     assert!(thickness <= size / 2);
 
     let row = size / 2;
     let col = size / 2;
 
-    let targets = (0..isize::try_from(thickness).unwrap())
+    let slots = (0..isize::try_from(thickness).unwrap())
         .flat_map(|i| {
             let offset = match i % 2 {
                 0 if i == 0 => 0,
@@ -126,7 +121,7 @@ fn cross(size: usize, thickness: usize) -> Vec<Target> {
             };
 
             [
-                Target {
+                Slot {
                     loc: Location {
                         row: row.saturating_add_signed(offset),
                         col: 0,
@@ -134,7 +129,7 @@ fn cross(size: usize, thickness: usize) -> Vec<Target> {
                     dir: Direction::East,
                     len: size,
                 },
-                Target {
+                Slot {
                     loc: Location {
                         row: 0,
                         col: col.saturating_add_signed(offset),
@@ -145,15 +140,22 @@ fn cross(size: usize, thickness: usize) -> Vec<Target> {
             ]
         })
         .collect();
-
-    targets
+    slots
 }
 
-fn custom(_size: usize, _thickness: usize) -> Vec<Target> {
+fn custom(_size: usize, _thickness: usize) -> Vec<Slot> {
     vec![
-        // Target { loc: Location { row: 2, col: 0 }, dir: Direction::East, len: 15 },
-        Target { loc: Location { row: 0, col: 2 }, dir: Direction::South, len: 15 },
-        // Target { loc: Location { row: 12, col: 0 }, dir: Direction::East, len: 15 },
-        Target { loc: Location { row: 0, col: 12 }, dir: Direction::South, len: 15 },
+        // Slot { loc: Location { row: 2, col: 0 }, dir: Direction::East, len: 15 },
+        Slot {
+            loc: Location { row: 0, col: 2 },
+            dir: Direction::South,
+            len: 15,
+        },
+        // Slot { loc: Location { row: 12, col: 0 }, dir: Direction::East, len: 15 },
+        Slot {
+            loc: Location { row: 0, col: 12 },
+            dir: Direction::South,
+            len: 15,
+        },
     ]
 }
