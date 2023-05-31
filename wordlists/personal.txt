@@ -1901,6 +1901,7 @@ beefheart;51;Stock ticker?
 beefhearts;51;Stock tickers?
 beefyt;30;Thick Hanes t-shirt
 beehive;51;Colonial dwelling?
+beene;40;Fashion designer Geoffrey Beene
 beenhad;50
 beeninto;40
 beepat;40
@@ -1959,6 +1960,7 @@ bemired;40
 bemires;40
 bemiring;31
 benand;1
+bene;40;N.B.
 benedicti;31
 benedictxvi;31
 benefitspackage;50
@@ -2242,6 +2244,7 @@ bombsite;50
 bombsites;50
 bomer;40
 bonaire;40;Island off Venezuela
+bondo;40;Putty brand
 bonedensity;50
 bonedup;60
 bonelesschicken;50
@@ -3105,8 +3108,13 @@ choli;40;Sari go-with
 choochoo;60
 choochootrain;60
 chooseme;40
+chopchop;60
+chopdown;50
 chophouse;50
 chophouses;50
+choppeddown;50
+choppingdown;50
+chopsdown;50
 chorines;31
 chortle;60
 chortled;60
@@ -3622,7 +3630,9 @@ coxing;40
 coyer;40
 coyotepup;50
 coyotepups;50
+cpa;40
 cpl;40
+cpu;40
 cpu;50
 cpus;50
 crabball;50
@@ -3715,6 +3725,7 @@ crossoverepisode;60
 crossoverepisodes;60
 crouse;40;Actress Lindsay
 crowley;60
+cru;30
 crudities;40
 crudity;40
 crushedtomatoes;50
@@ -3727,6 +3738,7 @@ crypto;50
 csa;5
 csection;51;Express delivery?
 csharp;40
+csi;40
 csis;40
 csonka;31
 cst;40
@@ -4972,7 +4984,7 @@ ebill;40
 ebills;40
 ebonite;40;Hard rubber
 ebow;40
-ecash;30
+ecash;40
 ecce;40
 echeck;40
 echecks;40
@@ -5731,6 +5743,7 @@ facingtherap;25
 factis;60
 facto;40
 fadings;40
+fae;30
 faeroe;25
 faff;40
 fag;5
@@ -8357,6 +8370,7 @@ isnt;40
 isntsure;50
 isogon;40;Polygon having all angles equal
 isogonic;40
+isolda;30;Not Tristan's love, it's rarely spelled that way
 isotone;30;Certain atom
 isotones;30;Certain atoms
 isotonic;40
@@ -8983,7 +8997,11 @@ latebet;50
 latebets;50
 lateen;30;Triangular sail
 lateens;30;Triangular sails
+laten;40
+latened;50
 lateness;40
+latening;50
+latens;50
 lateran;30
 latergram;60
 latergrams;60
@@ -9097,6 +9115,7 @@ leftturnatalbuquerque;60
 legalid;50
 legalids;50
 legatee;30;Person who receives a legacy
+leger;40;Fernand Léger, cubist painter
 leggedreference;1
 leghorn;60
 legirons;50
@@ -9160,12 +9179,17 @@ leroidys;31
 leshan;31
 lesmis;60
 lessinteresting;25
+letat;40
+letch;5
+letches;5
+letem;40
 letgoofme;50
 lethe;40;River in Hades whose waters cause drinkers to forget their past
 letlive;50
 letmego;60
 letmein;60
 letmeseethat;60
+letsat;40
 letsbe;50
 letsfree;1
 letsjustmoveon;60
@@ -9317,6 +9341,7 @@ lipsyncs;50
 lira;50
 lire;50
 lis;40
+lisle;40;Cotton thread
 listenedfor;40
 listenfor;40
 listeningdevice;50
@@ -9420,6 +9445,7 @@ lookma;60
 lookmeintheeye;60
 lookmeintheeyeandsaythat;60
 lookoutman;60
+looksee;60;Gander
 lookupto;50
 lookwhatidrew;61;Made a bee line, say?
 loomedlarge;60
@@ -10191,6 +10217,8 @@ micromanaging;60
 microphonestand;50
 microscopemount;1
 microsoftoffice;50
+midden;30;Domestic waste dump
+middens;30;Domestic waste dumps
 middlefinger;60
 midear;40
 midfields;40
@@ -12884,6 +12912,8 @@ potsoftea;50
 pottedmeat;50
 pouf;40;Ottoman
 poufs;40;Ottomans
+poult;40;Young fowl
+poults;40
 pounddogs;50
 pouter;40
 pouters;40
@@ -12979,6 +13009,7 @@ pretoria;50;One of South Africa's three capital cities
 prettied;40
 prettyfishy;60
 prettymuch;60
+prettysure;50
 pretzelloop;50
 pretzelloops;50
 prevent;40
@@ -13651,6 +13682,7 @@ relatedto;40
 relatesto;40
 relateto;40
 relatingto;40
+releap;1
 releasee;40
 releasees;40
 relee;5
@@ -15078,7 +15110,7 @@ shorti;40
 shortis;30
 shorto;40
 shortos;30
-shortround;60
+shortround;50
 shortu;40
 shortus;30
 shot;50;Take in a movie? [used]
@@ -16086,6 +16118,7 @@ steeltrap;60
 steeltraps;60
 steelyard;50
 steelyards;50
+steen;40;Painter Jan Steen
 steens;31
 steerclear;50
 steeves;40
@@ -16295,7 +16328,7 @@ struma;30;Disease, river, ship
 strutting;51;Model behavior?
 sts;40
 sttc;25
-sttng;40
+sttng;30
 studentid;50
 studentidcard;50
 studentidcards;50
@@ -16394,6 +16427,7 @@ sunobdedda;1
 sunriseserenade;40
 sunshinelaw;60
 sunshinelaws;60
+superbowlbabies;60
 supercharger;60
 superegos;40
 supermajority;61;Congressional term?
@@ -17692,6 +17726,7 @@ tripplans;50
 trireme;40
 triremes;40
 tris;40
+tritt;50;Country artist Travit Tritt
 trochee;40;Iamb opposite (stress + unstress)
 trochees;40;Iamb opposites (stress + unstress)
 troi;40
