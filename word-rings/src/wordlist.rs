@@ -82,13 +82,13 @@ impl WordList {
             for (i, line) in reader.lines().enumerate() {
                 let line = line?;
 
-                let parts = line.splitn(3, ';').collect::<Vec<_>>();
-                let (Some(word), Some(score)) = (parts.get(0), parts.get(1))
+                let parts = line.split(';').take(2).collect::<Vec<_>>();
+                let &[word, score] = &parts[..]
                 else {
                     eprintln!("{}:{}: bad entry: {}", name, i + 1, line);
                     continue;
                 };
-                
+
                 let word = word.to_uppercase();
                 let score = score
                     .parse::<Score>()
