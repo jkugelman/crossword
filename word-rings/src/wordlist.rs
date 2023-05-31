@@ -89,7 +89,7 @@ impl WordList {
                     continue;
                 };
 
-                let word = word.to_uppercase();
+                let word = word.to_string();
                 let score = score
                     .parse::<Score>()
                     .map_err(|e| io::Error::new(io::ErrorKind::InvalidData, e))?;
@@ -153,5 +153,117 @@ impl WordList {
 
         // If all squares were blank then return the full word list.
         fits.unwrap_or_else(|| self.words_with_len(slot.len))
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_load_reader() {
+        let wordlist = load_test_wordlist();
+
+        assert_eq!(wordlist.words, vec!["foo", "bar", "baz", "quux"]);
+        assert_eq!(wordlist.scores, vec![30, 50, 30, 40]);
+        assert_eq!(
+            wordlist.index_by_len,
+            HashMap::from([(3, HashSet::from([0, 1, 2])), (4, HashSet::from([3])),])
+        );
+        assert_eq!(
+            wordlist.index_by_len_pos_letter,
+            HashMap::from([
+                ((3, 0, 'f'), HashSet::from([0])),
+                ((3, 1, 'o'), HashSet::from([0])),
+                ((3, 2, 'o'), HashSet::from([0])),
+                ((3, 0, 'b'), HashSet::from([1, 2])),
+                ((3, 1, 'a'), HashSet::from([1, 2])),
+                ((3, 2, 'r'), HashSet::from([1])),
+                ((3, 2, 'z'), HashSet::from([2])),
+                ((4, 0, 'q'), HashSet::from([3])),
+                ((4, 1, 'u'), HashSet::from([3])),
+                ((4, 2, 'u'), HashSet::from([3])),
+                ((4, 3, 'x'), HashSet::from([3])),
+            ])
+        );
+    }
+
+    #[test]
+    fn test_score() {
+        let wordlist = load_test_wordlist();
+
+        assert_eq!(wordlist.score("foo"), Some(30));
+        assert_eq!(wordlist.score("bar"), Some(50));
+        assert_eq!(wordlist.score("baz"), Some(30));
+        assert_eq!(wordlist.score("quux"), Some(40));
+        assert_eq!(wordlist.score("quuux"), None);
+    }
+
+    #[test]
+    fn test_words_with_len() {
+        let wordlist = load_test_wordlist();
+
+        assert_eq!(
+            wordlist.words_with_len(3),
+            HashSet::from(["foo", "bar", "baz"])
+        );
+        assert_eq!(wordlist.words_with_len(4), HashSet::from(["quux"]));
+        assert_eq!(wordlist.words_with_len(5), HashSet::new());
+    }
+
+    #[test]
+    fn test_words_with_len_pos_letter() {
+        let wordlist = load_test_wordlist();
+
+        assert_eq!(
+            wordlist.words_with_len_pos_letter(3, 0, 'f'),
+            HashSet::from(["foo"])
+        );
+        assert_eq!(
+            wordlist.words_with_len_pos_letter(3, 1, 'o'),
+            HashSet::from(["foo"])
+        );
+        assert_eq!(
+            wordlist.words_with_len_pos_letter(3, 2, 'o'),
+            HashSet::from(["foo"])
+        );
+        assert_eq!(
+            wordlist.words_with_len_pos_letter(3, 0, 'b'),
+            HashSet::from(["bar", "baz"])
+        );
+        assert_eq!(
+            wordlist.words_with_len_pos_letter(3, 1, 'a'),
+            HashSet::from(["bar", "baz"])
+        );
+        assert_eq!(
+            wordlist.words_with_len_pos_letter(3, 2, 'r'),
+            HashSet::from(["bar"])
+        );
+        assert_eq!(
+            wordlist.words_with_len_pos_letter(3, 2, 'z'),
+            HashSet::from(["baz"])
+        );
+        assert_eq!(
+            wordlist.words_with_len_pos_letter(3, 0, 'q'),
+            HashSet::new()
+        );
+        assert_eq!(
+            wordlist.words_with_len_pos_letter(3, 1, 'u'),
+            HashSet::new()
+        );
+        assert_eq!(
+            wordlist.words_with_len_pos_letter(3, 2, 'u'),
+            HashSet::new()
+        );
+        assert_eq!(
+            wordlist.words_with_len_pos_letter(3, 3, 'x'),
+            HashSet::new()
+        );
+    }
+
+    fn load_test_wordlist() -> WordList {
+        let words = ["foo;30", "bar;50", "baz;30", "quux;40"];
+        let words = words.join("\n");
+        WordList::load_reader(words.as_bytes(), "test").unwrap()
     }
 }
