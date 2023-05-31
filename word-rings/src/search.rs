@@ -34,13 +34,6 @@ impl<'wl> Search<'wl> {
 
     fn search_r(&mut self, word_list: &'wl WordList, grid: &mut Grid, slots: &[Slot]) {
         match slots.split_first() {
-            // All slots full. Print the solution.
-            None => {
-                println!();
-                println!("{}", grid);
-                self.found_count += 1;
-            }
-
             Some((&slot, later_slots)) => {
                 let fits = word_list.find_fits(grid, slot);
                 for (i, word) in fits.iter().enumerate() {
@@ -61,6 +54,13 @@ impl<'wl> Search<'wl> {
                     self.used.remove(word);
                     self.print_progress();
                 }
+            }
+
+            // All slots full. Print the solution.
+            None => {
+                println!();
+                println!("{}", grid);
+                self.found_count += 1;
             }
         }
     }
