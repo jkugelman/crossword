@@ -1,7 +1,11 @@
-use std::collections::{HashMap, HashSet};
+use std::borrow::Cow;
+use std::collections::{hash_set, HashMap, HashSet};
 use std::fs::File;
 use std::io::{self, BufRead, BufReader, Read};
+use std::iter;
 use std::path::Path;
+
+use itertools::{Either, Itertools};
 
 use crate::{Grid, Slot};
 
@@ -11,7 +15,8 @@ pub type Score = u16;
 /// A crossword word list with clever indexes for speedy lookups.
 #[derive(Clone, Debug, Eq, PartialEq)]
 pub struct WordList {
-    /// A raw list of all the words. The indexes below store positional indices into this vector.
+    /// A raw list of all the words stored in alphabetical order.
+    /// The indexes below store positional indices into this vector.
     words: Vec<String>,
     /// Word scores, stored in the same order as `words`.
     scores: Vec<Score>,
@@ -30,6 +35,13 @@ impl WordList {
     pub fn new(words: Vec<String>, scores: Vec<Score>) -> Self {
         assert_eq!(words.len(), scores.len());
 
+        // Sort both `words` and `scores` at the same time.
+        let (mut words, mut scores) = (words, scores);
+        let mut permutation = permutation::sort(&words);
+        permutation.apply_slice_in_place(&mut words);
+        permutation.apply_slice_in_place(&mut scores);
+
+        // Build the indexes.
         let mut index_by_len: HashMap<_, HashSet<usize>> = HashMap::new();
         let mut index_by_len_pos_letter: HashMap<_, HashSet<usize>> = HashMap::new();
 
@@ -111,48 +123,180 @@ impl WordList {
         let score = self.scores[index];
         Some(score)
     }
+}
 
-    /// Returns a list of words of length `len`.
-    pub fn words_with_len(&self, len: usize) -> HashSet<&str> {
-        self.index_by_len
-            .get(&len)
-            .map(|indices| indices.iter().map(|&i| self.words[i].as_str()).collect())
-            .unwrap_or_default()
+impl WordList {
+    /// Returns an iterator over words of length `len`.
+    pub fn words_with_len(&self, len: usize) -> WordsWithLen<'_> {
+        WordsWithLen {
+            word_list: self,
+            iter: self.index_by_len.get(&len).map(HashSet::iter),
+        }
     }
+}
 
-    /// Returns a list of words of length `len` that have `letter` at position `pos`. For example,
-    /// all 21-letter words whose 3rd letter is "C".
-    pub fn words_with_len_pos_letter(&self, len: usize, pos: usize, letter: char) -> HashSet<&str> {
-        self.index_by_len_pos_letter
-            .get(&(len, pos, letter))
-            .map(|indices| indices.iter().map(|&i| self.words[i].as_str()).collect())
-            .unwrap_or_default()
+#[derive(Clone, Debug)]
+struct WordsWithLen<'wl> {
+    word_list: &'wl WordList,
+    iter: Option<hash_set::Iter<'wl, usize>>,
+}
+
+impl<'wl> Iterator for WordsWithLen<'wl> {
+    type Item = &'wl str;
+
+    fn next(&mut self) -> Option<Self::Item> {
+        self.iter
+            .as_mut()?
+            .next()
+            .map(|&idx| self.word_list.words[idx].as_str())
     }
+}
 
+impl ExactSizeIterator for WordsWithLen<'_> {
+    fn len(&self) -> usize {
+        self.iter.as_ref().map_or(0, |iter| iter.len())
+    }
+}
+
+impl WordList {
+    /// Returns an iterator over words of length `len` that have `letter` at position `pos`. For
+    /// example, all 21-letter words whose 3rd letter is "C".
+    pub fn words_with_len_pos_letter(
+        &self,
+        len: usize,
+        pos: usize,
+        letter: char,
+    ) -> WordsWithLenPosLetter<'_> {
+        WordsWithLenPosLetter {
+            word_list: self,
+            iter: self
+                .index_by_len_pos_letter
+                .get(&(len, pos, letter))
+                .map(HashSet::iter),
+        }
+    }
+}
+
+#[derive(Clone, Debug)]
+struct WordsWithLenPosLetter<'wl> {
+    word_list: &'wl WordList,
+    iter: Option<hash_set::Iter<'wl, usize>>,
+}
+
+impl<'wl> Iterator for WordsWithLenPosLetter<'wl> {
+    type Item = &'wl str;
+
+    fn next(&mut self) -> Option<Self::Item> {
+        self.iter
+            .as_mut()?
+            .next()
+            .map(|&idx| self.word_list.words[idx].as_str())
+    }
+}
+
+impl ExactSizeIterator for WordsWithLenPosLetter<'_> {
+    fn len(&self) -> usize {
+        self.iter.as_ref().map_or(0, |iter| iter.len())
+    }
+}
+
+impl WordList {
     /// Returns words that would fit in a grid slot.
-    pub fn find_fits(&self, grid: &Grid, slot: Slot) -> HashSet<&str> {
+    pub fn find_fits(&self, grid: &Grid, slot: Slot) -> FindFits<'_> {
         let mut fits: Option<HashSet<&str>> = None;
 
-        for (pos, square) in grid.squares(slot).enumerate() {
-            let Some(square) = square else {
-                continue;
-            };
+        let filled_squares = grid
+            .squares(slot)
+            .enumerate()
+            .flat_map(|(pos, square)| square.map(|square| (pos, square)))
+            .collect_vec();
 
-            match &mut fits {
-                None => {
-                    fits = Some(self.words_with_len_pos_letter(slot.len, pos, square.letter));
-                }
-                Some(fits) => {
-                    fits.retain(|word| word.as_bytes()[pos] as char == square.letter);
-                    if fits.is_empty() {
-                        break;
+        match filled_squares[..] {
+            // If all squares are filled then return the word whether or not it's in the word list.
+            _ if filled_squares.len() == slot.len => {
+                let word = filled_squares
+                    .iter()
+                    .map(|(_, square)| square.letter)
+                    .collect::<String>();
+                FindFits::AllFilled(Some(word))
+            }
+
+            // If all squares are blank then return the full word list.
+            [] => FindFits::AllBlank(self.words_with_len(slot.len)),
+
+            // If only one square is filled then return words that fit that square.
+            [(pos, square)] => {
+                FindFits::OneFilled(self.words_with_len_pos_letter(slot.len, pos, square.letter))
+            }
+
+            // If multiple squares are filled then return words that fit all squares.
+            [..] => {
+                // Get the word sets for each filled square, sorted by length.
+                let word_sets = filled_squares
+                    .iter()
+                    .map(|(pos, square)| {
+                        self.index_by_len_pos_letter
+                            .get(&(slot.len, *pos, square.letter))
+                    })
+                    .sorted_by_key(|set| set.map_or(0, HashSet::len))
+                    .collect_vec();
+                assert!(word_sets.len() >= 2);
+
+                // Get the intersection of all word sets.
+                let mut word_sets = word_sets.into_iter();
+                let mut fits = word_sets.next().unwrap().cloned().unwrap_or_default();
+
+                for word_set in word_sets {
+                    let Some(word_set) = word_set else { break; };
+                    fits.retain(|idx| word_set.contains(idx));
+                    if fits.capacity() >= fits.len() * 2 {
+                        fits.shrink_to_fit();
                     }
                 }
+
+                FindFits::MultipleFilled(self, fits.into_iter().collect_vec())
             }
         }
+    }
+}
 
-        // If all squares were blank then return the full word list.
-        fits.unwrap_or_else(|| self.words_with_len(slot.len))
+#[derive(Clone, Debug)]
+enum FindFits<'wl> {
+    AllFilled(Option<String>),
+    AllBlank(WordsWithLen<'wl>),
+    OneFilled(WordsWithLenPosLetter<'wl>),
+    MultipleFilled(&'wl WordList, Vec<usize>),
+}
+
+impl<'wl> Iterator for FindFits<'wl> {
+    type Item = Cow<'wl, str>;
+
+    fn next(&mut self) -> Option<Self::Item> {
+        match self {
+            FindFits::AllFilled(word) => word.take().map(Cow::Owned),
+            FindFits::AllBlank(iter) => iter.next().map(Cow::Borrowed),
+            FindFits::OneFilled(iter) => iter.next().map(Cow::Borrowed),
+            FindFits::MultipleFilled(word_list, indexes) => indexes
+                .pop()
+                .map(|idx| Cow::Borrowed(word_list.words[idx].as_str())),
+        }
+    }
+}
+
+impl<'wl> ExactSizeIterator for FindFits<'wl> {
+    fn len(&self) -> usize {
+        match self {
+            FindFits::AllFilled(word) => {
+                if word.is_some() {
+                    1
+                } else {
+                    0
+                }
+            }
+            FindFits::AllBlank(iter) => iter.len(),
+            FindFits::OneFilled(iter) => iter.len(),
+            FindFits::MultipleFilled(_, iter) => iter.len(),
+        }
     }
 }
 
@@ -204,11 +348,17 @@ mod tests {
         let wordlist = load_test_wordlist();
 
         assert_eq!(
-            wordlist.words_with_len(3),
+            wordlist.words_with_len(3).collect::<HashSet<_>>(),
             HashSet::from(["foo", "bar", "baz"])
         );
-        assert_eq!(wordlist.words_with_len(4), HashSet::from(["quux"]));
-        assert_eq!(wordlist.words_with_len(5), HashSet::new());
+        assert_eq!(
+            wordlist.words_with_len(4).collect::<HashSet<_>>(),
+            HashSet::from(["quux"])
+        );
+        assert_eq!(
+            wordlist.words_with_len(5).collect::<HashSet<_>>(),
+            HashSet::new()
+        );
     }
 
     #[test]
@@ -216,47 +366,69 @@ mod tests {
         let wordlist = load_test_wordlist();
 
         assert_eq!(
-            wordlist.words_with_len_pos_letter(3, 0, 'f'),
+            wordlist
+                .words_with_len_pos_letter(3, 0, 'f')
+                .collect::<HashSet<_>>(),
             HashSet::from(["foo"])
         );
         assert_eq!(
-            wordlist.words_with_len_pos_letter(3, 1, 'o'),
+            wordlist
+                .words_with_len_pos_letter(3, 1, 'o')
+                .collect::<HashSet<_>>(),
             HashSet::from(["foo"])
         );
         assert_eq!(
-            wordlist.words_with_len_pos_letter(3, 2, 'o'),
+            wordlist
+                .words_with_len_pos_letter(3, 2, 'o')
+                .collect::<HashSet<_>>(),
             HashSet::from(["foo"])
         );
         assert_eq!(
-            wordlist.words_with_len_pos_letter(3, 0, 'b'),
+            wordlist
+                .words_with_len_pos_letter(3, 0, 'b')
+                .collect::<HashSet<_>>(),
             HashSet::from(["bar", "baz"])
         );
         assert_eq!(
-            wordlist.words_with_len_pos_letter(3, 1, 'a'),
+            wordlist
+                .words_with_len_pos_letter(3, 1, 'a')
+                .collect::<HashSet<_>>(),
             HashSet::from(["bar", "baz"])
         );
         assert_eq!(
-            wordlist.words_with_len_pos_letter(3, 2, 'r'),
+            wordlist
+                .words_with_len_pos_letter(3, 2, 'r')
+                .collect::<HashSet<_>>(),
             HashSet::from(["bar"])
         );
         assert_eq!(
-            wordlist.words_with_len_pos_letter(3, 2, 'z'),
+            wordlist
+                .words_with_len_pos_letter(3, 2, 'z')
+                .collect::<HashSet<_>>(),
             HashSet::from(["baz"])
         );
         assert_eq!(
-            wordlist.words_with_len_pos_letter(3, 0, 'q'),
+            wordlist
+                .words_with_len_pos_letter(3, 0, 'q')
+                .collect::<HashSet<_>>(),
             HashSet::new()
         );
         assert_eq!(
-            wordlist.words_with_len_pos_letter(3, 1, 'u'),
+            wordlist
+                .words_with_len_pos_letter(3, 1, 'u')
+                .collect::<HashSet<_>>(),
             HashSet::new()
         );
         assert_eq!(
-            wordlist.words_with_len_pos_letter(3, 2, 'u'),
+            wordlist
+                .words_with_len_pos_letter(3, 2, 'u')
+                .collect::<HashSet<_>>(),
             HashSet::new()
         );
         assert_eq!(
-            wordlist.words_with_len_pos_letter(3, 3, 'x'),
+            wordlist
+                .words_with_len_pos_letter(3, 3, 'x')
+                .collect::<HashSet<_>>(),
             HashSet::new()
         );
     }

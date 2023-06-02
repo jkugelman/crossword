@@ -1,3 +1,4 @@
+use std::borrow::Cow;
 use std::collections::HashSet;
 use std::io::{stderr, Write};
 use std::iter::{empty, repeat};
@@ -12,7 +13,7 @@ use crate::{Grid, Slot, WordList};
 pub struct Search<'wl> {
     slot_count: usize,
     peak_count: usize,
-    used: HashSet<&'wl str>,
+    used: HashSet<Cow<'wl, str>>,
     percent_complete: f64,
     found_count: usize,
 }
@@ -36,22 +37,22 @@ impl<'wl> Search<'wl> {
         match slots.split_first() {
             Some((&slot, later_slots)) => {
                 let fits = word_list.find_fits(grid, slot);
-                for (i, word) in fits.iter().enumerate() {
+                for (i, word) in fits.enumerate() {
                     if self.used.is_empty() {
                         self.percent_complete = i as f64 / fits.len() as f64;
                     }
 
-                    if !self.used.insert(word) {
+                    if !self.used.insert(word.clone()) {
                         return;
                     }
                     self.peak_count = self.peak_count.max(self.used.len());
-                    grid.enter(slot, word).unwrap();
+                    grid.enter(slot, &word).unwrap();
                     self.print_progress();
 
                     self.search_r(word_list, grid, later_slots);
 
-                    grid.erase(slot, word).unwrap();
-                    self.used.remove(word);
+                    grid.erase(slot, &word).unwrap();
+                    self.used.remove(&word);
                     self.print_progress();
                 }
             }
