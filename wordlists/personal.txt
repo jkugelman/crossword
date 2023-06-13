@@ -38,12 +38,12 @@ aball;40
 abandonee;40
 abargain;50;Cheap
 abase;40
-abased;50
+abased;40
 abasement;40
 abasements;40
 abaser;40
 abasers;40
-abases;50
+abases;40
 abashment;40
 abashments;40
 abasing;40
@@ -352,6 +352,7 @@ adsorbate;40
 adspaces;50
 adu;40;One-time soccer phenom Freddy Adu
 adue;40;Together, in music
+adultadhd;50
 adunit;50
 adunits;50
 adv;40
@@ -381,6 +382,7 @@ aerobicsclasses;50
 aeroflot;40;Russia's largest airline
 aerogel;60
 aerology;40
+aerosmith;50
 aery;25
 aesir;40;Odin's race
 aesopic;40
@@ -882,8 +884,10 @@ anissue;1
 anitem;50
 anke;40;Tennis player Huber
 annao;25
+anneheche;50
 annelid;25;Worm phylum
 annelids;25;Worm phylum
+annetyler;50
 anni;40
 annies;40
 anno;40
@@ -919,6 +923,8 @@ antis;40
 antisana;30;Volcano in Ecuador
 antiseptics;50
 antispam;60
+antitoxin;50
+antitoxins;50
 antiwarprotest;50
 antiwarprotests;50
 antlike;40
@@ -1292,6 +1298,9 @@ asstprof;40
 asstprofs;40
 assumable;40
 assumably;40
+assumedownership;50
+assumeownership;50
+assumingownership;50
 asta;40
 astana;30;Capital of Kazakhstan
 astar;30
@@ -1432,7 +1441,11 @@ autobus;30
 autocompletes;50
 autodefe;30;Spanish Inquisition ceremony
 automaticweapon;50
-autotuner;60
+autotune;50
+autotuned;50
+autotuner;50
+autotunes;50
+autotuning;50
 availablecredit;50
 avantgarde;60
 avanti;40;Studebaker coupe, Italian "Let's go!"
@@ -3658,8 +3671,7 @@ coyotepups;50
 cpa;40
 cpl;40
 cpu;40
-cpu;50
-cpus;50
+cpus;40
 crabball;50
 crabballs;50
 crabbe;40
@@ -5193,6 +5205,7 @@ elgallo;40
 elicitor;40
 elihu;30;Critic of Job
 elim;40
+eliotness;50
 elis;40
 elitisms;40
 elkcalf;50
@@ -5479,6 +5492,7 @@ eritrean;40
 eritreans;40
 erle;40
 ernani;25;Verdi opera
+ernstmach;50
 ernurse;40
 erodent;40;Erosive
 eroder;40
@@ -5562,6 +5576,8 @@ esta;40
 estado;40
 estaminet;40;Small cafe
 estar;40
+estatecar;50
+estatecars;50
 estd;40
 este;40
 esterc;40
@@ -6525,6 +6541,7 @@ getfat;40
 gethsemane;60
 getinhere;60;"My office, now!"
 getintoit;50
+getlost;51;Take the wrong way?
 getonesgoat;60
 getright;50
 getsadate;40
@@ -6537,6 +6554,7 @@ getschummy;50
 getschummywith;50
 getsfat;40
 getsintoit;50
+getslost;51;Takes the wrong way?
 getsonesgoat;60
 getsonesmittson;60
 getsugly;60
@@ -6747,6 +6765,7 @@ goingoffline;50
 goingontour;50
 goingoutwith;50
 goingpro;50
+goingthroughsomestuff;50
 goinon;50
 goipo;50
 goldenlab;50
@@ -6839,6 +6858,7 @@ gothicart;50
 gotideas;60
 gotintoit;50
 gotlost;50
+gotlost;51;Took the wrong way?
 gotmilk;60
 gotoetotoe;60
 gotohell;60
@@ -7562,9 +7582,11 @@ homebrewer;50
 homebrewers;50
 homebrewing;50
 homebrews;50
+homedinon;50
 homeec;50
 homegym;50
 homegyms;50
+homeinon;50
 homelab;40
 homelabs;40
 homeo;40
@@ -7580,10 +7602,12 @@ homeschooled;50
 homeschooling;50
 homeschools;50
 homescreen;50
+homesinon;50
 homespuns;40
 homicide;51;"___ victims rarely talk to police" (Express Times)
 homie;40
 homies;40
+hominginon;50
 hommes;40
 homos;5
 homs;25
@@ -7707,8 +7731,8 @@ hotwiring;50
 hotyoga;50
 hou;40
 houdini;60
-housebeer;61;Number one draft pick, often?
-housebeers;61;Number one draft picks, often?
+housebeer;51;Number one draft pick, often?
+housebeers;51;Number one draft picks, often?
 howbadcoulditbe;60
 howdoyoulikethemapples;60
 howe;60
@@ -7796,8 +7820,8 @@ ibn;40
 icahn;40;Billionaire Carl
 ican;40
 icanadd;60
-icansee;51;Vision statement
-icanseeagain;51;Vision statement
+icansee;50;Vision statement [used for Er, I See]
+icanseeagain;50;Vision statement [used for Er, I See]
 icantbebothered;60
 icantbelieveit;60
 icantbelievemyeyes;60
@@ -7945,6 +7969,7 @@ ikette;40
 ikillme;60
 iknow;60;Han's reply
 iknowiknow;60
+iknowsomeofthesewords;60
 iko;30
 ileave;30
 ileftmy;1
@@ -7957,7 +7982,7 @@ ilhanomar;60
 ilia;40;Pelvic bones
 iliac;40;Hip-related
 ilich;40;Carlos the Jackal
-illatease;60
+illatease;50
 illbet;60;"Of course"
 illegals;5
 illmannered;50
@@ -8083,9 +8108,12 @@ inatin;30
 inatree;40
 inatub;40
 inavacuum;60
+inbasket;50
+inbaskets;50
 inbedwith;60
 incagold;50
 incare;40
+incatrail;50
 incaution;40
 incenses;40
 inchnails;1
@@ -8121,6 +8149,8 @@ indianapa;30
 indicatorlights;50
 indicatorstrip;50
 indicatorstrips;50
+indieband;50
+indiebands;50
 indigodye;50
 indigos;40
 indirectobjects;50
@@ -8388,10 +8418,13 @@ isayyes;60
 isbn;40
 isbns;40
 isdueto;40
-isee;51;Vision statement?
-iseeit;51;Vision statement
-iseeitnow;61;Vision statement
-iseethat;61;Vision statement?
+isee;50
+isee;51;Vision statement? [used for Er, I See]
+iseeit;50
+iseeit;51;Vision statement? [used for Er, I See]
+iseeitnow;50
+iseeitnow;50;Vision statement? [used for Er, I See]
+iseethat;60;Vision statement? [used for Er, I See]
 iselin;31
 iseult;30;Isolde
 ish;40
@@ -8523,7 +8556,7 @@ itwasadaylikeanyother;60
 itwasalljustadream;60
 itwasi;40
 itwasjustadream;60
-itwasntme;61;Defensive line?
+itwasntme;51;Defensive line?
 ivani;40
 ivaniii;40
 ivanvi;30;Russian emperor who was overthrown at 15 months of age
@@ -8957,6 +8990,7 @@ lacto;40
 lactoseinterola;1
 lacunae;40
 ladadog;40;Albert Payson Terhune novel
+ladiesman;50
 ladler;40
 ladlers;40
 ladyish;40
@@ -9415,18 +9449,22 @@ livedebate;50
 livedebates;50
 livedhighoffthehog;60
 livedhighonthehog;60
+liveditup;50
 livedto;40
 livehighoffthehog;60
 livehighonthehog;60
+liveitup;50
 livemusic;50
 liveoutofatrunk;60
 liveradar;50
 liverpoolaccent;50
 liveshighoffthehog;60
 liveshighonthehog;60
+livesitup;50
 livingdeath;60
 livinghighoffthehog;60
 livinghighonthehog;60
+livingitup;50
 livingright;50
 lix;10
 llamallama;60
@@ -11546,6 +11584,7 @@ ogs;30
 oh;50
 ohairs;30
 ohfine;60
+ohfudge;60
 ohfun;60
 ohgod;60
 ohh;50
@@ -13421,7 +13460,11 @@ raisinghell;60
 raisingthecurtain;50
 raita;40;Indian dip
 rajiv;25;Indian P.M., son of Indira Gandhi
+rakeditin;50
+rakeitin;50
 rakeoff;40;Cut taken by an operator
+rakesitin;50
+rakingitin;50
 ral;25
 ramdass;40;Yoga guru
 ramfis;30
@@ -13461,6 +13504,8 @@ rapporteur;31
 rapsat;40
 rapsession;60
 rapsessions;60
+rapsheet;50
+rapsheets;50
 rara;40;___ avis
 rarae;25
 rareashensteeth;60
@@ -13476,6 +13521,8 @@ raregem;50
 raregems;50
 rarestamp;50
 rarestamps;50
+raretreat;50
+raretreats;50
 rarin;60
 rarite;30
 ras;40
@@ -14152,7 +14199,9 @@ roaringat;40
 roarings;40
 roarsat;40
 roastbeast;60;Whoville meal
+rob;51;Take the wrong way?
 rob;51;Take things, literally
+robbed;51;Took the wrong way?
 robbed;51;Took things, literally
 robbing;51;Taking things, literally
 robertedwardlee;31
@@ -14160,6 +14209,7 @@ robertfripp;60
 robinia;30;Plant genus
 robmcelhenney;60
 robo;40
+robs;51;Takes the wrong way?
 robs;51;Takes things, literally
 robsof;40
 roc;50
@@ -14241,6 +14291,7 @@ roseslugs;40;Insects
 roset;31
 roseto;40
 rosetofame;60
+rosetopaz;50
 rosetopazes;50
 rosets;31
 rosh;40
@@ -16144,6 +16195,7 @@ std;40
 stds;40
 ste;40
 steaded;40
+steal;51;Take the wrong way?
 steal;51;Take things, literally
 steala;25
 stealakiss;61;Make out like a bandit?
@@ -16152,6 +16204,7 @@ stealapeek;50
 stealing;51;Taking things, literally
 stealingakiss;61;Making out like a bandit?
 stealingapeek;50
+steals;51;Takes the wrong way?
 steals;51;Takes things, literally
 stealsakiss;61;Makes out like a bandit?
 stealsapeek;50
@@ -16277,11 +16330,13 @@ stoke;50;Rekindle an old flame
 stoked;60;Rekindled an old flame
 stokes;50;Rekindles an old flame
 stolav;40
+stole;51;Took the wrong way?
 stole;51;Took things, literally
 stoleakiss;61;Made out like a bandit?
 stolealook;50
 stoleapeek;50
 stolemoney;20
+stolen;51;Taken the wrong way?
 stolenbase;50
 stolenbases;50
 stolenkiss;60
@@ -16655,8 +16710,9 @@ tailspins;50
 taio;30;Musician Cruz
 taisho;31
 tak;25
-takeabath;60;What nuns do out of habit? [used for BATHE]
-takeabath;61;Get into hot water
+takeabath;50;What nuns do out of habit? [used for BATHE]
+takeabath;51;Get into hot water
+takeabath;60
 takeabus;40
 takeacab;40
 takeacut;50
@@ -16680,8 +16736,8 @@ takento;40
 takeoutjoint;60
 takeoutplace;50
 takeovertargets;50
-takesabath;60;What a nun does out of habit? [used for BATHE]
-takesabath;61;Gets into hot water
+takesabath;50;What a nun does out of habit? [used for BATHE]
+takesabath;51;Gets into hot water
 takesabus;40
 takesacab;40
 takesacut;50
@@ -17082,6 +17138,7 @@ thatssurprising;50
 thatsthewayitgoes;60
 thatsthewayitis;60
 thatsthewaythecookiecrumbles;60
+thatswhatyousoundlike;60
 thatswild;60
 thatwasagoodone;50
 thc;40
@@ -17305,6 +17362,7 @@ thirdeye;60
 thisagain;60
 thisisacloseone;50
 thisiseasy;60
+thisismylifenow;60
 thisisnotrecess;31
 tho;40
 thom;50
@@ -17558,7 +17616,8 @@ tonys;51;Theater props?
 toocool;60
 toocute;60
 toofar;60
-tookabath;61;Got into hot water
+tookabath;50
+tookabath;51;Got into hot water
 tookabus;40
 tookacab;40
 tookacut;50
@@ -18028,6 +18087,7 @@ ulnae;40
 ulnas;40
 ulrich;50
 ultimateextreme;60
+ultimatum;50
 ultrahdtv;50
 ultrahdtvs;50
 ulu;25
@@ -18045,6 +18105,7 @@ umiak;40
 umm;50
 umno;50
 umpteen;50
+umpteenth;50
 umpteenth;60
 una;40
 unadon;40;Japanese eel dish
@@ -18212,7 +18273,7 @@ upsetwith;40
 upsonesgame;60
 upstair;40
 upsy;40
-uptospeed;60
+uptospeed;50
 uranus;60
 urbaner;40
 urbani;30;Pope
@@ -18234,6 +18295,8 @@ urodele;30
 urologist;50
 urologists;50
 urology;50
+ursamajor;50
+ursaminor;50
 ursus;30;Bear genus
 us;50
 usaf;40
@@ -18646,6 +18709,7 @@ welcometotherealworld;60
 weliveinasociety;60
 wellexcusemeprincess;60
 wellexcuuuuseme;60
+wellfudge;60
 wellletmeseenow;60
 wellletsseenow;60
 wences;40;Ventriloquist
