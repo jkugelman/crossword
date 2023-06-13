@@ -73,11 +73,12 @@ def xwi_renumber(word, score):
 def rel_path(path):
     return os.path.join(os.path.dirname(__file__), path)
 
-def load_word_list():
+def load_word_list(min_score=0):
     word_list = WordList()
     word_list.load('personal.txt')
     word_list.load('XwiJeffChenList.txt', [xwi_renumber])
     word_list.load('spreadthewordlist.txt', [filter(min_score=50)])
+    word_list.words = {word: score for (word, score) in word_list.words.items() if score >= min_score}
     return word_list
 
 def save_word_list(word_list):
