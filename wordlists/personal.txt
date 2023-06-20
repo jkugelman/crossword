@@ -97,6 +97,7 @@ abiders;40
 abie;30
 abigailfillmore;50
 abintra;40;From within: Lat.
+abitofacharacter;60
 abitsteep;50
 abjuratory;40
 abjure;40;Renounce
@@ -436,6 +437,7 @@ agars;40
 agegap;60
 agegaps;60
 agegrade;50
+ager;40
 agers;40
 agesold;40;Ancient
 ageten;30
@@ -465,6 +467,7 @@ agreewith;40
 agri;40
 agriculture;51;Corn field?
 agrology;40
+agua;40
 aguafrescas;50
 aguything;60
 ahh;40
@@ -650,6 +653,7 @@ alizarin;40;Red dye
 alkanes;40
 alkies;5;Alcoholics
 alkyls;25;Chemicals
+alla;40
 allaboard;50
 allaboard;51;Cruise line?
 allages;50
@@ -1499,6 +1503,7 @@ attractiveoffer;50
 attractivewoman;25
 atts;40
 atty;40
+atul;40;Surgeon/author Atul Gwande
 aubades;40
 aube;25
 auctionhouses;50
@@ -2308,6 +2313,7 @@ bitesonesheadoff;60
 bitingdown;50
 bitingonesheadoff;60
 bitit;40
+bitofacharacter;60
 bitonesheadoff;60
 bitplayer;60
 bitplayers;60
@@ -3143,6 +3149,7 @@ cbers;40
 cbhandle;50
 cbhandles;50
 cbradio;50
+ccc;30
 ccci;10
 ccciv;10
 cccl;10
@@ -3179,6 +3186,7 @@ ccvii;10
 ccx;10
 ccxi;10
 ccxii;10
+cdc;40
 cde;10
 cdef;10
 cdi;10
@@ -3200,11 +3208,13 @@ cdracks;40
 cdrate;40
 cdrates;40
 cdrs;40
+cds;40
 cdsales;40
 cdslot;40
 cdslots;40
 cdstand;40
 cdstands;40
+cdt;40
 cdtower;40
 cdtowers;40
 cdv;10
@@ -3278,7 +3288,7 @@ cflat;40
 cfo;40
 cfos;40
 cgbg;25;NYC punk and new wave club
-cgi;50
+cgi;40
 chachas;40
 chafeat;40
 chafedat;40
@@ -3974,6 +3984,7 @@ coyotepup;50
 coyotepups;50
 cpa;40
 cpl;40
+cpr;40
 cpu;40
 cpus;40
 crabball;50
@@ -4078,9 +4089,10 @@ crosswordconstructors;50
 crouse;40;Actress Lindsay
 crowley;60
 crowsnest;50
-cru;30
+cru;30;French vineyard
 crudities;40
 crudity;40
+crus;30;French vineyards
 crushedtomatoes;50
 cry;51;Watershed moment?
 cryingoverspilledmilk;60
@@ -4178,6 +4190,7 @@ cutthroattactic;60
 cvi;10
 cvii;10
 cviii;10
+cvs;40
 cxc;10
 cxi;10
 cxid;10
@@ -4920,6 +4933,7 @@ dogcarriers;50
 dogcatcher;50
 dogcatchers;50
 dogchow;50
+doge;40
 dogear;50
 dogeared;50
 dogears;50
@@ -5565,7 +5579,7 @@ ehs;40
 ehud;40;Israeli statesman
 ehudbarak;50
 eider;40
-eider;41;Down home?
+eider;41;Down on the farm?
 eiders;40
 eidgah;25;Open space outside a mosque
 eidi;25;Muslim gift money
@@ -5969,12 +5983,14 @@ eructed;40
 esa;40
 esai;40
 esais;25
-esau;40
+esau;40;Son of Isaac, Jacob's older twin
 escallop;40
 escalloped;40
 escallops;40
-escapee;51;One caught in the spotlight?
-escapees;51;Ones caught in the spotlight?
+escapee;40
+escapee;41;One caught in the spotlight?
+escapees;40
+escapees;41;Ones caught in the spotlight?
 escargots;40
 escarp;40
 escarped;40
@@ -6057,6 +6073,7 @@ etalii;40
 etameson;40
 etamine;30;Fabric
 etape;40
+etas;40
 etat;40
 etatism;30;Statism
 etatist;30;Statist
@@ -6703,6 +6720,7 @@ fmstations;50
 fnatural;40
 foamparties;60
 focusses;25
+foer;40;Author Jonathan Safran Foer
 foghornleghorn;60
 foie;40
 fokker;40
@@ -7268,6 +7286,7 @@ gnawingon;40
 gnawon;40
 gnawson;40
 gnight;40
+gnote;40
 gnp;40
 gnucalf;50
 go;50
@@ -8989,6 +9008,7 @@ inforapenny;60
 infra;40
 ing;40
 inga;40;Swenson of "Benson"
+inge;40;Playwright William Inge
 ingemar;31
 ingodwetrust;61;Quarter note
 inhd;40
@@ -9121,6 +9141,7 @@ iodate;30;Iodine molecule
 iodates;30;Iodine molecules
 iommi;50
 ion;51;Roaming charge?
+ione;40;Actress Ione Skye
 ionia;40
 ionian;40
 ionians;40
@@ -9146,11 +9167,11 @@ ipitythefool;60
 ipodnano;50
 ipodnanos;50
 ips;40
+ipso;40
 iqtesting;40
 irabu;40;Pitcher Hideki
-irade;25;Muslim decree
-irade;31
-irades;31
+irade;30;Muslim decree
+irades;30;Muslim decrees
 irae;40
 irail;40;Train track part
 irails;40;Train track parts
@@ -9272,7 +9293,7 @@ israir;40;Israeli airline
 isred;25
 iss;40
 issa;50;___ Rae
-isset;40
+isset;30
 isshot;25
 issick;25
 issilly;25
@@ -9280,6 +9301,7 @@ issober;25
 issueless;40
 ist;40
 iste;25
+isthataquestion;60
 isthatso;60
 isthereanyonehome;60
 isthisabadtime;60
@@ -10071,6 +10093,7 @@ leerer;40
 leerers;40
 leeringat;40
 leersat;40
+leet;40;Leetspeak
 leftfor;40
 leftfordead;60
 leftlanes;40
@@ -11255,6 +11278,8 @@ metonymies;40
 metonyms;40
 metonymy;40
 metoo;50
+metope;30
+metopes;30
 metpayroll;50
 metre;40
 metres;40
@@ -11683,6 +11708,7 @@ mottoes;25;Less common spelling
 mottst;40;Chinatown's main street in NYC
 mou;25
 moucado;25;16th century fabric
+moue;30;Pouting expression
 mounded;40
 mounjaro;60;Weight loss drug
 mounterebus;50
@@ -12560,6 +12586,7 @@ obscener;40
 obscenest;40
 obstruent;40
 obv;40
+obvi;40
 obvs;50
 ocala;40
 ocasio;50
@@ -13186,6 +13213,7 @@ otilde;40
 otiose;40;Useless
 otoe;40
 otoes;40
+otoh;40
 otolith;30
 otoliths;30
 otology;40
@@ -13579,7 +13607,9 @@ pcuser;40
 pcusers;40
 pcworld;50
 pdas;40
+pdf;40
 pdfformat;40
+pdfs;40
 peabean;40
 peabeans;40
 peabrain;60
@@ -16219,6 +16249,7 @@ seadragons;50
 seaear;40
 seaes;1
 seafire;50
+seagal;50
 sealeddocuments;50
 sealedin;50
 sealegs;50
@@ -16491,9 +16522,9 @@ settingupshop;50
 setto;40
 settop;50
 setupshop;50
-seuss;60
-seussian;60
-seussical;60
+seuss;50
+seussian;50
+seussical;50
 sevencent;30
 seveniron;40
 sevenirons;40
@@ -16807,8 +16838,10 @@ sinecures;40
 sineratio;50
 singfor;40
 singha;40;Thai beer
+singin;40
 singingof;40
 singingto;40
+singit;40
 singof;40
 singsof;40
 singsto;40
@@ -17104,7 +17137,7 @@ smarttag;50
 smearier;40
 smeariest;40
 smeary;40
-smee;50
+smee;40
 smelledarat;60
 smells;51;"City unsure why the sewer ___" (South Haven Herald-Palladium)
 smelltests;50
@@ -17324,6 +17357,7 @@ solvating;40
 solvation;40
 solveacrossword;25
 soma;40
+somethingofacharacter;60
 somethingsneverchange;60
 somethingtogoon;60
 sommer;40
@@ -18883,6 +18917,7 @@ thenra;20
 thensa;20
 theoldheaveho;60
 theolheaveho;60
+theopen;1
 theopenera;20
 theoscars;40
 thepacers;40
@@ -20305,6 +20340,7 @@ walksandtalks;50
 walksonthinice;60
 walkswithpurpose;60
 walkwithpurpose;60
+walla;40
 wallendas;50
 wallsafe;50
 wallsafes;50
