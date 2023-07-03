@@ -4068,6 +4068,7 @@ cro;40
 croci;40;Crocuses
 crocodiledundee;50
 crocus;50;Flower
+cropped;51;Out of the picture?
 crossatthegreen;1
 crosscountryski;50
 crosse;40;La crosse stick
@@ -6973,6 +6974,7 @@ gaol;50
 gaper;40
 gapers;40
 garaged;51;In one's wheelhouse?
+garbageday;51;Waste time?
 garde;40
 gardenbox;50
 gardenboxes;50
@@ -7133,6 +7135,7 @@ getfat;40
 gethsemane;60
 getinhere;60;"My office, now!"
 getintoit;50
+getitthroughyourskull;60
 getlost;51;Take the wrong way?
 getonesgoat;60
 getright;50
@@ -8798,6 +8801,8 @@ iloilo;40;Singaporean film
 ilona;30;Actress Massey of old films
 ilonamassey;40
 ilonas;25
+ilovethatforyou;60
+ilovethispart;60
 ilsung;40;Kim Il Sung, father of Kim Jong Il
 ily;40
 imabigfan;60
@@ -9536,6 +9541,7 @@ jnr;25
 joakim;30;Bibilical king of Judah
 jobapplications;50
 joboffer;50
+jobs;51;Desktop icon?
 jockjam;60
 jockstrap;50
 jockstraps;50
@@ -10731,6 +10737,7 @@ madeofhonor;1
 madeplans;50
 madeproud;50
 maderoom;50
+madeshortworkof;60
 madetime;50
 madetimefor;50
 madewar;40
@@ -10832,12 +10839,14 @@ makesauie;50
 makesaware;50
 makesbail;50
 makesfaces;60
+makeshortworkof;60
 makesitlookeasy;60
 makesof;30;???
 makesoff;40
 makesplans;50
 makesproud;50
 makesroom;50
+makesshortworkof;60
 makestime;50
 makestimefor;50
 makeswar;40
@@ -10853,6 +10862,7 @@ makingoff;40
 makingplans;50
 makingproud;50
 makingroom;50
+makingshortworkof;60
 makingtime;50
 makingtimefor;50
 makingwar;40
@@ -11302,6 +11312,8 @@ mhz;40
 miasmal;40
 miasmata;40
 michaelcaine;60
+mickey;51;Animated icon?
+mickeymouse;51;Animated icon?
 micks;40
 microdose;60
 microdosed;60
@@ -11445,6 +11457,7 @@ misacts;40;???
 misadd;40
 misadded;40
 misadds;40
+misattribution;51;Bad credit?
 misdo;40
 misfed;40
 misfeed;40
@@ -16197,6 +16210,7 @@ scrabbletourney;50
 scrabbletourneys;50
 scrapiron;50
 scrat;40;"Ice Age" squirrel
+scratch;51;Mark on one's record?
 screak;40
 screamer;50
 screamers;50
@@ -17303,6 +17317,8 @@ softlaunches;60
 softmoney;60
 softon;40
 softtaco;50
+softwarepackage;50
+softwarepackages;50
 sohavei;50
 sohelpme;60
 sohla;25
@@ -19489,6 +19505,7 @@ trash;51;Flies home?
 trashbag;51;Takeout container?
 trashbags;51;Takeout containers?
 trashcompactors;50
+trashday;51;Waste time?
 trashedon;40
 trasheson;40
 trashingon;40
@@ -20315,6 +20332,10 @@ w;1
 wack;40
 wader;40
 waders;40
+wadofbills;50
+wadofcash;50
+wadsofbills;50
+wadsofcash;50
 wageron;40
 wahl;40;Barber brand
 wahs;40
@@ -20779,6 +20800,7 @@ worsted;40;Wool yarn
 wort;50
 worthit;60
 worths;40
+wouldntitbenice;60
 wowedem;60
 wrangle;51;Take stock in?
 wrasse;25;Aquarium fish
