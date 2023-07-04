@@ -682,6 +682,7 @@ allrighty;60
 allrise;50
 allrise;51;Court order?
 allrise;51;Order in the court?
+alls;40
 allsoulscollege;50
 allstar;60
 allstargamemvps;50
@@ -1197,6 +1198,10 @@ armorclad;50
 armorplates;50
 armrest;50
 armrests;50
+armsdeal;50
+armsdeals;50
+armsdepot;50
+armsdepots;50
 armydoctors;50
 armylife;51;Private time?
 armyrecon;50
@@ -2106,6 +2111,7 @@ begladto;50
 begsfor;40
 behim;25
 beigepaint;1
+beiges;40
 beingbad;50
 bejesus;60
 bel;40
@@ -2671,9 +2677,11 @@ bstar;30
 bstars;30
 btes;25
 btry;25
+bts;40
 btsarmy;60
 btu;40
 btus;40
+btw;40
 bubble;51;Figure of speech?
 bubbles;51;Figures of speech?
 buckaroo;60
@@ -3595,6 +3603,11 @@ cnatural;40
 cnote;40
 cnotes;40
 cns;40
+coact;40
+coacted;40
+coacting;40
+coaction;40
+coacts;40
 coagula;40
 coagulum;40
 coaler;40
@@ -4188,6 +4201,8 @@ cutnoice;60
 cutsnoice;60
 cutthechitchat;60
 cutthroattactic;60
+cutvelvet;50
+cutweight;50
 cvi;10
 cvii;10
 cviii;10
@@ -5118,6 +5133,7 @@ dozer;50
 dozers;50
 dpi;40
 dpl;25
+dqed;40
 dqs;40
 draconids;50;Meteor shower
 dracula;60
@@ -5889,7 +5905,7 @@ eolia;25
 eos;40
 epalab;40
 epalabs;40
-eparch;31
+eparch;30
 eparchy;30;Province of the Orthodox church
 epee;40
 epees;40
@@ -6675,6 +6691,8 @@ floors;51;Trading places
 floortile;50
 floortiles;50
 flop;51;Star destroyer?
+flopera;60;Slang for a celeb's downfall
+floperas;60;Slang for celebs' down periods
 flops;51;Star destroyers?
 floridapanthers;50
 floridasunshine;50
@@ -6905,9 +6923,13 @@ funsponge;60
 furniturepolish;50
 furpeak;50;Chinese tea
 furstole;50
+furstoles;50
 furtrader;50
 furtraders;50
 fuscous;30;Brownish-gray
+fusebox;50
+fuseboxes;50
+fusedglass;50
 fusion;60
 fusionjazz;60
 futurescontract;50
@@ -7647,6 +7669,7 @@ gsuit;50
 gsuits;50
 gta;25
 gtbr;25
+gto;40
 guarani;30;Indigenous South American
 guaranis;30;Indigenous South Americans
 guardduty;50
@@ -8390,6 +8413,8 @@ hookingup;60
 hooksup;60
 hookup;60
 hookups;60
+hoopoe;30;Colorful bird
+hoopoes;30;Colorful birds
 hoorah;40
 hoorays;40
 hoosegow;60
@@ -8560,7 +8585,12 @@ hurry;50
 hurry;51;Rush order?
 hurryup;50
 hurryup;51;Rush order?
+hurwitz;50;"Arrested Development" creator
+hustledup;50
 hustler;51;Blue book?
+hustlesup;50
+hustleup;60
+hustlingup;50
 hut;51;Offensive remark?
 hutment;40
 hwy;40
@@ -8646,6 +8676,8 @@ idabble;60
 idahos;40
 idareyou;60
 idbecareful;60
+idealgas;50
+idealgaslaw;50
 ideate;40
 ideated;40
 ideates;40
@@ -9359,6 +9391,7 @@ itprofessionals;40
 itried;60
 itrustyou;50
 its;50
+itsabigif;60
 itsablur;60
 itsacademic;60
 itsadate;60
@@ -11262,8 +11295,8 @@ merman;60
 mermen;60
 merton;25;American monk Thomas
 mes;40
-mesaaz;31
-mesabi;40;Minnesota iron mining range
+mesaaz;30
+mesabi;30;Minnesota iron mining range
 meshuggah;60
 mesne;30;Legal term
 mesnes;30;Feudal lord
@@ -11585,6 +11618,7 @@ mohr;40;Comedian Jay
 moieties;30;Parts or portions
 moiety;30;Part or portion
 moiling;31
+moises;30;Biblical name
 moisttowelette;50
 moisttowelettes;50
 mojo;60
@@ -12139,12 +12173,20 @@ nfcteam;40
 nfcwest;40
 nfler;40
 nflhalloffamers;50
-nflref;50
-nflrefs;50
+nflqb;40
+nflqbs;40
+nflref;40
+nflreferee;40
+nflreferees;40
+nflrefs;40
+nflstar;40
+nflstars;40
 nflump;40
 nflumpire;40
 nflumpires;40
 nflumps;40
+nfluniform;40
+nfluniforms;40
 nft;40
 ngaio;40;Mystery writer
 ngo;40
@@ -14207,6 +14249,7 @@ popspills;40
 popularizer;50
 popupbook;50
 popupbooks;50
+por;40
 porchpirate;60
 porchpirates;60
 porer;40
@@ -14798,6 +14841,8 @@ ranine;30;Frog-related, or region under the tongue
 ranit;40
 ranlast;1
 ranringsaround;60
+ranshort;50
+ranshorton;40
 rant;51;Going off line?
 ranupatab;50
 ranwithit;50
@@ -15118,6 +15163,7 @@ reinsert;40
 reinter;40
 reinterred;40
 reinters;40
+reives;30
 rejudge;40
 rejudged;40
 rejudges;40
@@ -15801,6 +15847,8 @@ runningbehind;50
 runningfast;40
 runningfor;40
 runningringsaround;60
+runningshort;50
+runningshorton;40
 runningupatab;50
 runningwithit;50
 runringsaround;60
@@ -15814,9 +15862,13 @@ runsbehind;50
 runsby;40
 runsfast;40
 runsfor;40
+runshort;50
+runshorton;40
 runsin;40
 runson;40
 runsringsaround;60
+runsshort;50
+runsshorton;40
 runsto;40
 runsupatab;50
 runswithit;50
@@ -16292,6 +16344,8 @@ seattlewa;40
 seaturtle;50
 seaturtles;50
 seau;30
+seawar;40
+seawars;40
 seaworld;60
 seay;25
 secrecies;40
@@ -16361,6 +16415,7 @@ seinenet;40
 seiner;30
 seiners;30
 seis;40
+seises;30
 seism;40
 seitan;40
 seiu;25
@@ -17076,6 +17131,8 @@ slaver;40
 slavers;40
 slavonia;31
 slc;40
+sleddog;50
+sleddogs;50
 sleekit;31
 sleepin;50
 sleepingin;50
@@ -17609,6 +17666,7 @@ spumed;40
 spuming;40
 spunhay;40
 sqft;40
+sqrt;40
 squarethecircle;60
 squeezy;40;Cramped
 squib;60
@@ -18161,6 +18219,10 @@ sulker;40
 sullage;40
 sulpha;25;Antibacterial
 summitt;40;Women's basketball coach, winningest in history
+sumomatch;50
+sumomatches;50
+sumoring;50
+sumorings;50
 sunaloiroc;1
 sundown;60
 sunevfohtribeht;1
@@ -18568,6 +18630,8 @@ teaneck;30;Unremarkable New Jersey town
 teapearl;50
 teapearls;50
 teapoy;40;Tea stand
+tearduct;50
+tearducts;50
 teared;40
 tearer;40
 tearjerkingscene;61;Watershed moment?
@@ -18780,6 +18844,7 @@ that;40
 thatdogdonthunt;60
 thatgood;60
 thatisalie;50
+thatsabigif;60
 thatsaspicymeataball;60
 thatsaspicymeataballa;60
 thatsawholenotherstory;60
@@ -19578,10 +19643,10 @@ trillo;31
 trimaran;40;Type of yacht
 trimarans;40;Types of yacht
 trimurti;40;Hindu triad: Brahma, Vishnu and Shiva
-trinal;31
+trinal;30;Threefold
 trine;30;Triple
 trines;30;Triads
-trini;50;Singer Lopez, or Trinidadian
+trini;40;Singer Lopez, or Trinidadian
 trinis;40;Trinidadians
 tripos;31
 tripplan;50
@@ -19787,6 +19852,7 @@ ubolt;40
 ucsf;40
 uey;40
 ueys;40
+ufc;40
 uffda;60;Midwest exclamation
 ughs;50
 ugli;40
@@ -19800,6 +19866,7 @@ uhf;40
 uhh;50
 uhnak;1
 uhohspaghettios;60
+uhs;40
 uhuru;30;Swahili for "freedom"
 ukase;30;Imperial decree
 ukases;30;Imperial decrees
@@ -19808,8 +19875,11 @@ ukelele;20
 ukeleles;20
 ukes;40
 ukr;40
+ulaanbaatar;50;Capital of Mongolia
 ulalume;40
+ulan;30;Ulan Bator, outdated anglicization of Mongolia's capital (now Ulaanbaatar)
 ulan;40;___ Bator, capital of Mongolia
+ulanbator;40;Outdated anglicization of Mongolia's capital (now Ulaanbaatar)
 ulanude;25;Siberian city
 ulee;30
 ullage;40;Liquid headspace
@@ -19833,12 +19903,14 @@ umbrellaacademy;60
 umbria;40
 umhi;40
 umiak;40
+umm;40
 umm;50
 umno;50
 umpire;51;Ballpark figure?
 umpires;51;Ballpark figures?
 umpteen;50
 umpteenth;50
+ums;40
 una;40
 unadon;40;Japanese eel dish
 unaimed;40
@@ -19941,6 +20013,9 @@ unpen;40
 unpens;40
 unpeopled;40
 unpeoples;40
+unpick;40
+unpicking;40
+unpicks;40
 unpile;40
 unpiled;40
 unpiles;40
@@ -19955,6 +20030,8 @@ unroof;40
 unroofed;40
 unroofs;40
 unrra;25
+unsay;40
+unsays;40
 unseams;40
 unseld;40
 unsewed;40
@@ -20004,6 +20081,7 @@ uppercasex;25
 uppercasey;25
 uppercasez;25
 uppingonesgame;60
+uppish;40
 uprear;40
 uprooter;40
 uprooters;40
@@ -20023,13 +20101,16 @@ urbani;30;Pope
 urbanii;30
 urbanmusicgenre;1
 uremia;30
+urgeon;40
 urger;40
+urgers;40
 uri;40
 urie;40;Brendan Urie, lead singer of My Chemical Romance
 urie;50
 uriel;40;Archangel
 uris;40;Author Leon
 urkelos;50
+url;40
 urna;25
 urnas;25
 urne;25
@@ -20040,6 +20121,8 @@ urologists;50
 urology;50
 ursamajor;50
 ursaminor;50
+ursid;30
+ursids;30
 ursine;40
 ursus;30;Bear genus
 us;50
@@ -20083,6 +20166,7 @@ usmotoristsclub;1
 usone;40
 usopens;40
 uspat;25
+usrda;40
 uss;40
 ussalaska;40
 ussalbatross;40
@@ -20422,6 +20506,7 @@ waterskis;50
 waterslide;51;It's a slippery slope
 watervole;50
 watervoles;50
+waterwater;1
 watford;40
 wausau;30;Wisconsin city
 wavedto;40
@@ -20661,6 +20746,7 @@ wingcollar;40
 wingedt;31
 wingspan;60
 wingspans;40
+winkwink;60
 winnebago;50
 winnebagos;50
 winningsilver;40
