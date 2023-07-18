@@ -79,6 +79,7 @@ abelia;30;Plant genus
 aber;25
 aberdeenterrier;50
 aberdeenterriers;50
+abes;40;Fivers
 abetment;40
 abettal;40
 abettals;40
@@ -2256,6 +2257,7 @@ bigloser;60
 bigmood;50
 bignono;50
 bignonos;50
+bigscene;60
 bigtalk;60
 bigtodo;50
 bigwin;60
@@ -3480,6 +3482,7 @@ chuted;40
 ciaos;40
 ciareport;50
 ciareports;50
+ciaspy;30
 cibola;31
 ciel;40
 cigarband;50
@@ -4085,7 +4088,7 @@ cremora;40;Discontinued non-dairy creamer
 crenate;30;Having a scalloped edge (botany/zoology)
 crenated;30
 crenation;30
-creon;31
+creon;40;Antigone's cruel uncle
 creosoting;31
 crepepaper;50
 cresse;25
@@ -4999,6 +5002,8 @@ dogears;50
 dogfight;50
 dogfights;50
 dogged;60
+doghouse;50
+doghouse;51;Doodle pad?
 dogleash;50
 dogleashes;50
 dognap;40;Abduct Fifi
@@ -5252,6 +5257,8 @@ dressto;1
 drewahead;50
 drewinto;40
 drewtoaclose;60
+driblet;40
+driblets;40
 driftages;40
 driftier;40
 driftiest;40
@@ -6301,6 +6308,7 @@ exsert;40
 exserted;40
 exserting;40
 exserts;40
+exspy;40
 exspy;50
 exstar;30
 ext;40
@@ -6480,6 +6488,7 @@ fawn;51;Babe in the woods?
 fawns;51;Babes in the woods?
 fbireport;50
 fbireports;50
+fbispy;30
 fclef;40
 fearandloathing;60
 fearedfor;40
@@ -8045,6 +8054,8 @@ hayfield;50
 hayfields;50
 haymaker;60
 haymakers;60
+hbcu;40;Historically black colleges and universities
+hbcus;40
 hbeam;40
 hbeams;40
 hbomax;40;Now just "Max"
@@ -8280,6 +8291,7 @@ heygoogle;60
 heysiri;60
 hgwells;50
 hi;50
+hiatt;40;Singer John Hiatt
 hibernal;40
 hiberno;40;Irish-
 hibillymayshere;60
@@ -8809,6 +8821,8 @@ idotters;50
 idtag;40
 idtags;40
 idub;30
+idunit;40;An autobiographical or confessional account usually of a sensational character
+idunits;40
 idyl;25
 idylist;25
 idylists;25
@@ -9234,6 +9248,8 @@ intl;40
 intoner;40
 intoners;40
 inuk;40;Single Inuit
+inunct;30;Rub with ointment
+inunction;40;Rub with ointment
 invalidusername;50
 invalue;40
 inveigler;40
@@ -9582,6 +9598,7 @@ jana;40
 janite;40;Fan of Jane Austen
 jap;5
 japan;51;Go home?
+jaques;40;"As You Like It" character
 jarjar;50
 jarloose;60
 jasonnewsted;50
@@ -10812,6 +10829,7 @@ lupercalia;25;Ancient Roman festival
 lusaka;30;Capital of Zambia
 lustra;30
 luxes;40;Units of illumination
+luzon;40;Largest island in the Philippines, home to Manila
 lvi;10
 lvii;10
 lviii;10
@@ -12013,6 +12031,8 @@ mythologicalgod;1
 n;1
 nacl;40
 nacre;40;Mother-of-pearl
+nacred;40
+nacres;40
 nadasurf;60
 naes;40
 nagasaki;60
@@ -12025,6 +12045,7 @@ nail;51;Hit it!
 nailart;50
 nailsit;60
 nainsook;31
+naiver;40
 nakedape;50;Book
 nakeder;40
 nakedest;40
@@ -12045,6 +12066,8 @@ nanu;40
 naoh;40
 nap;51;Early retirement?
 napped;51;Went into early retirement?
+narked;30;British slang
+narking;30;British slang
 nars;30;Cosmetics company
 naryaone;60
 nasality;31
@@ -13595,6 +13618,7 @@ palinode;30;Type of poem
 palinodes;30;Types of poem
 palledaround;50
 palledaroundwith;50
+pallette;30
 palliasse;40;Straw mattress
 palliasses;40;Straw mattresses
 pallingaround;50
@@ -16752,7 +16776,6 @@ sestet;40
 sestets;40
 sestina;40;Poetic form
 sestinas;40;Poetic form
-set;51;Where to see shooting stars?
 setae;25
 setat;40
 seteyeson;60
@@ -17128,12 +17151,12 @@ sirups;25
 siryessir;60
 sisal;30
 sisals;30
+sisi;40
 siskin;31
 siskins;31
 sisler;30;Baseball's "Gorgeous George"
 sisley;31
-siss;20;Tire deflation sound
-siss;31
+siss;30;Tire deflation sound
 sissed;31
 sissle;31
 sissled;31
@@ -17920,6 +17943,11 @@ sss;40;Selective Service System
 sstar;30
 sstars;30
 ssw;25
+stabile;40;Abstract sculpture or structure
+stabiles;40;Abstract sculpture or structure
+stabilist;30
+stabilists;30
+stabintheback;60
 stadlers;25
 staffa;40;Scottish island
 stagecrew;50
@@ -18882,6 +18910,7 @@ tec;40
 technic;30;Technique
 technics;30;Techniques
 technopop;50
+tecs;40
 tedder;30;Haymaking machine
 tedeum;40;Short religious service
 tedeums;40;Short religious services
@@ -19275,6 +19304,7 @@ thesaints;40
 thescales;25
 thesea;20
 thesecret;30;Woo-woo self-help book
+theseine;40
 theshahofiran;31
 theshining;60
 thesiciliandefence;31
@@ -19837,6 +19867,7 @@ treaters;40
 treatingto;40
 treatsto;40
 treatto;40
+treblec;30;Flour brand
 trebly;40
 tree;51;Leaves home?
 treebark;50
@@ -19977,6 +20008,7 @@ tuataras;30;Reptiles
 tubate;40
 tubetop;50
 tubful;40
+tucsonaz;40
 tudorarch;50
 tudorarches;50
 tudorrose;50
