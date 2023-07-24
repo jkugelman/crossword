@@ -177,6 +177,7 @@ accepters;40
 accidie;30;Mental sloth
 accomplice;50
 accomplice;51;Stealing second?
+accord;51;Kind of a big deal
 accordingtowho;60
 accordingtowhom;60
 accordionplayer;50
@@ -261,6 +262,7 @@ acmesuctioncups;60;Acme invention
 acmesuperspeedvitamins;60;Acme invention
 acmetornadoseeds;60;Acme invention
 acmetrickbone;60;Acme invention
+acquisition;51;Kind of a big deal
 acrazylittlethingcalledlove;61;Queen's subject?
 acro;40
 actas;40
@@ -1124,6 +1126,13 @@ araucaria;30;Evergreen tree genus "monekey puzzles"
 arbored;40
 arborio;40;Type of rice
 arcaded;40
+archaeologicaldig;50
+archaeologicaldigs;50
+archeological;30
+archeologies;30
+archeologist;30
+archeologists;30
+archeology;30
 archon;25;Athenian magistrate
 archons;25;Athenian magistrates
 arctics;40
@@ -1271,6 +1280,7 @@ artforgeries;50
 artforgers;50
 artforgery;50
 artieshaw;50
+artifact;51;A thing of the past
 artificialrock;60;Acme invention
 artiste;60
 artistes;50
@@ -1755,10 +1765,12 @@ balata;31
 balatas;31
 balconyseat;50
 balconyseats;50
+bald;51;Have a falling out?
 baldasacoot;50
 baldeagle;50
 baldeagles;50
 baldies;40
+balds;51;Has a falling out?
 baleen;50;Type of whale
 baler;40
 balers;40
@@ -1920,11 +1932,11 @@ bataneyelash;60
 batcave;60
 batcaves;50
 batguano;60
-bathe;50;What nuns do out of habit? [used in Familiar Surroundings]
 bathe;51;Get into hot water
+bathe;51;What nuns do out of habit?
 bathed;51;Got into hot water
-bathes;50;What a nun does out of habit? [used for BATHE]
 bathes;51;Gets into hot water
+bathes;51;What a nun does out of habit?
 bathroomfixture;50
 bathroomslipper;50
 bathroomslippers;50
@@ -2086,6 +2098,8 @@ beefheart;51;Stock ticker?
 beefhearts;51;Stock tickers?
 beefmedallion;50
 beefmedallions;50
+beefskewer;50
+beefskewers;50
 beefyt;30;Thick Hanes t-shirt
 beehive;51;Colonial dwelling?
 beene;40;Fashion designer Geoffrey Beene
@@ -2095,6 +2109,7 @@ beepat;40
 beepedat;40
 beepingat;40
 beepsat;40
+beer;51;Garden variety
 beerbatter;50
 beerbattered;50
 beerbatters;50
@@ -2416,6 +2431,7 @@ bluestates;50
 bluesteel;60
 bluetees;60
 bluntwords;61;Plain tiff?
+blush;51;A thing of beauty
 blvd;40
 bmi;40
 bmoc;40
@@ -2632,6 +2648,7 @@ brickroad;50
 bridesmaiddress;50
 bridetobe;50
 bridgeofthenose;50
+bridgeovertroubledwater;61;Rapid transit?
 brien;40
 brimstone;50
 bringsto;50
@@ -3412,6 +3429,8 @@ chicagomarathon;50
 chicagopd;40
 chicanery;50
 chick;51;"___ accuses some of her colleagues of sexism" (L.A. Times)
+chickenskewer;50
+chickenskewers;50
 chiefexecutives;50
 chihuahuamexico;40
 childrensmuseum;50
@@ -3733,6 +3752,7 @@ coho;31
 cohos;30;Salmon
 coinop;50
 coinops;50
+coinslots;51;Change channels?
 cojones;60
 coked;40
 cokepie;40
@@ -4759,16 +4779,24 @@ dielorelei;60
 dieth;30
 dietorangesodas;40
 diff;40
+digdowndeep;60
 digester;40
 digesters;40
 digestthenews;50
 digg;30
+diggingdeep;50
+diggingdowndeep;50
+digginginonesheels;60
+diginonesheels;60
 digitalart;60
 digitalize;40
 digitalized;40
 digitalizes;40
 digitalizing;40
 digitalslrs;40
+digsdeep;50
+digsdowndeep;50
+digsinonesheels;60
 dihedral;40
 dii;10
 diii;10
@@ -5274,6 +5302,7 @@ drivered;40
 driversed;50
 drivingwhileblack;60
 drk;25;Baseball nickname
+drolls;30
 dromedarycamel;50
 dromedarycamels;50
 dronebee;50
@@ -5357,7 +5386,10 @@ duded;40
 dudedup;60
 duebill;50
 duebills;50
+dugdeep;50
+dugdowndeep;50
 duggar;40;"19 Kids and Counting" family
+duginonesheels;60
 dui;5
 dulce;40;___ de leche
 dule;30
@@ -5773,6 +5805,7 @@ emerse;30
 emersed;30
 emersion;30
 emersions;30
+emetic;40
 emeu;25
 emhoff;40;Second gentleman Doug (Kamala Harris's husband)
 emi;40
@@ -6335,6 +6368,7 @@ eyemasks;50
 eyeofra;50
 eyer;40
 eyers;40
+eyeshadow;51;A thing of beauty
 eyesore;60
 eyetest;50
 eyetests;50
@@ -6872,6 +6906,7 @@ forthefirsttime;50
 fortknox;51;Bar keep?
 fortunemagazine;50
 fortytwo;60
+fossil;51;A thing of the past
 fossils;51;Remains underground?
 fosterdad;50
 fosterdads;50
@@ -6879,6 +6914,7 @@ foto;40
 foughtfor;40
 foulard;40;Lightweight fabric, or kerchief made from it
 foulards;40;Kerchief made from foulard fabric
+foundation;51;A thing of beauty
 fourdayworkweek;60
 fourhundred;31
 fouriron;40
@@ -7904,6 +7940,9 @@ handbellchoirs;50
 handbills;51;Play cards?
 handdryer;50
 handdryers;50
+handmirror;50
+handmirror;51;A thing of beauty
+handmirrors;50
 handmodel;51;Digital assistant?
 handmodel;51;Manual laborer?
 handmodels;51;Digital assistants?
@@ -9786,6 +9825,8 @@ kcars;40
 kcuppod;40
 keanes;30
 kearns;25
+kebabskewer;50
+kebabskewers;50
 kedrova;40;"Zorba the Greek" Best Supporting Actress
 keene;40;Nancy Drew author Carolyn
 keepingtabs;50
@@ -10496,6 +10537,7 @@ lipreading;50
 lipreads;50
 lipring;50
 liprings;50
+lipstick;51;A thing of beauty
 lipsync;50
 lipsynced;50
 lipsyncing;50
@@ -10798,6 +10840,8 @@ lubricity;40
 luc;40
 lucasarts;50
 lucie;40;Desi's daughter
+luckypennies;61;Change of fortune?
+luckypenny;61;Change of fortune?
 lucubrate;40
 lucubrated;40
 lucubrates;40
@@ -11005,6 +11049,12 @@ makestimefor;50
 makeswar;40
 maketime;50
 maketimefor;50
+makeup;51;A thing of beauty
+makeupbag;51;A thing of beauty
+makeupbrush;51;A thing of beauty
+makeupcase;50
+makeupcase;51;A thing of beauty
+makeupcases;50
 makewar;40
 makingahashof;50;Bungling
 makingaware;50
@@ -11137,6 +11187,7 @@ mas;40
 masa;40;Tortilla/tamale dough
 masala;60
 masalas;40
+mascara;51;A thing of beauty
 mascarameltdown;50
 mascot;51;Ballpark figure?
 mascots;51;Ballpark figures?
@@ -11301,6 +11352,8 @@ meatballsub;50
 meatballsubs;50
 meatrub;50
 meatrubs;50
+meatskewer;50
+meatskewers;50
 meattenderizers;50
 meatthermometer;50
 meatus;25;Anatomical passage
@@ -11410,6 +11463,7 @@ merchtent;60
 mercs;40
 mercury;60
 meredithwillson;40
+merger;51;Kind of a big deal
 meritpay;50
 meriwetherlewis;60
 mermaid;60
@@ -11787,6 +11841,7 @@ montezuma;50
 montypythonskit;1
 mooer;40
 mooers;40
+moon;51;Give a cheeky look?
 mooncake;50
 mooncakes;50
 moondog;50;Composer
@@ -12700,13 +12755,13 @@ numpties;30;Stupid people: Br.
 numpty;30;Stupid person: Br.
 numskull;60
 numskulls;60
-nun;50;Someone who bathes out of habit? [used for BATHE]
+nun;51;Someone who bathes out of habit?
 nunatak;30;Glacial island
 nunataks;30;Glacial islands
 nunchakus;60
 nuncheon;40
 nuncheons;40
-nuns;50;Ones who bathe out of habit? [used for BATHE]
+nuns;51;Ones who bathe out of habit?
 nuremberg;60
 nurmi;30;Distance runner Paavo the "Flying Finn"
 nurmi;40
@@ -12996,6 +13051,7 @@ oligocene;40;Epoch
 olinda;40;Brazilian city, UNESCO World Heritage site
 oline;40
 olines;40
+olive;51;Garden variety?
 olivedrab;50
 olivetree;50
 olivetrees;50
@@ -14089,6 +14145,8 @@ piffles;50
 piffling;50
 pigear;50
 pigears;50
+piggybank;61;Change location?
+piggybanks;61;Change locations?
 pigpile;50
 pigpiles;50
 pigsear;50
@@ -14808,6 +14866,20 @@ pustules;5
 puta;5
 putapininit;60
 putbuttsinseats;60
+putdowninwords;60
+putdowninwriting;60
+putdownroots;60
+putdowntoage;60
+putdowntoamisunderstanding;60
+putdowntochance;60
+putdowntoexperience;60
+putdowntohardwork;60
+putdowntoignorance;60
+putdowntoluck;60
+putdowntonerves;60
+putdowntotiming;60
+putdowntoyouth;60
+putdownyourpens;60
 putitback;60
 putitback;61;Restoring order?
 putitto;40
@@ -15027,6 +15099,10 @@ rant;51;Going off line?
 ranupatab;50
 ranwithit;50
 rapat;40
+rapbattle;60
+rapbattle;61;Needle exchange?
+rapbattles;60
+rapbattles;61;Needle exchange?
 rapduo;50
 rapduos;50
 rapgod;60
@@ -15368,6 +15444,7 @@ releap;1
 releasee;40
 releasees;40
 relee;5
+relic;51;A thing of the past
 relict;40
 relicts;40
 relievo;30
@@ -15545,6 +15622,8 @@ resigners;40
 resile;30
 resink;40
 resiny;40
+resistanttochange;50
+resistchange;51;Mind altering?
 reslate;40
 reslated;40
 reslates;40
@@ -15555,6 +15634,10 @@ resorters;30
 resortingto;40
 resortsto;40
 resortto;40
+resoundingfailure;50
+resoundingno;50
+resoundingsuccess;50
+resoundingyes;50
 respace;40
 respan;30
 respecter;40
@@ -15832,6 +15915,7 @@ robs;51;Takes things, literally
 robsof;40
 roc;50
 roche;40;Pharmaceutical company
+rock;51;Garden variety
 rocketpoweredrollerskates;60;Acme invention
 rockfall;60
 rocs;50
@@ -15905,6 +15989,7 @@ ropetrick;50
 ropetricks;50
 rorem;31
 roscoelee;31
+rose;51;Garden variety
 roseate;40
 rosecolored;60
 rosecut;50
@@ -15948,6 +16033,10 @@ rowanandmartin;50
 rowanatkinson;50
 rowans;30;Mountain trees
 rowdyroddypiper;60
+rowel;30
+roweled;30
+rowell;30
+rowels;30
 royalball;50
 royalballs;50
 royale;60
@@ -17207,6 +17296,16 @@ skeletomuscular;50
 skelter;50
 sketcher;51;One who's quick on the draw?
 sketchout;60
+skewedthetruth;60
+skeweredthecompetition;60
+skeweringthecompetition;60
+skewerofmeat;50
+skewersofmeat;50
+skewersthecompetition;60
+skewerthecompetition;60
+skewingthetruth;60
+skewsthetruth;60
+skewthetruth;60
 skiable;40
 skiarea;40
 skiareas;40
@@ -18187,6 +18286,10 @@ stickshift;50
 stiffarm;60
 stiffarmed;60
 stiffarms;60
+stiffenedup;50
+stiffeningup;50
+stiffensup;50
+stiffenup;50
 stiffopposition;50
 stilettoes;30
 stilettos;50
@@ -18645,9 +18748,10 @@ tailspins;50
 taio;30;Musician Cruz
 taisho;31
 tak;25
-takeabath;50;What nuns do out of habit? [used for BATHE]
+takeabath;50
 takeabath;51;Get into hot water
-takeabath;60
+takeabath;51;What nuns do out of habit?
+takeabathon;60
 takeabus;40
 takeacab;40
 takeacut;50
@@ -18663,8 +18767,9 @@ takeanip;40
 takeanl;60
 takeapic;50
 takeashineto;60
-takeashower;50;What nuns do out of habit? [used for BATHE]
 takeashower;51;Get into hot water
+takeashower;51;What nuns do out of habit?
+takebaths;51;What nuns do out of habit?
 takefive;60
 takeflak;50
 takehimawayboys;60
@@ -18675,8 +18780,8 @@ takento;40
 takeoutjoint;60
 takeoutplace;50
 takeovertargets;50
-takesabath;50;What a nun does out of habit? [used for BATHE]
 takesabath;51;Gets into hot water
+takesabath;51;What a nun does out of habit?
 takesabus;40
 takesacab;40
 takesacut;50
@@ -18689,10 +18794,11 @@ takesalook;50
 takesanip;40
 takesapic;50
 takesashineto;60
-takesashower;50;What a nun does out of habit? [used for BATHE]
 takesashower;51;Gets into hot water
+takesashower;51;What a nun does out of habit?
 takesfive;60
 takesflak;50
+takeshowers;51;What nuns do out of habit?
 takesthebait;60
 takesthecake;60
 takesthefall;60
@@ -18860,6 +18966,7 @@ tcrossers;50
 tcu;30;Texas Christian University
 tdk;25;Cassette maker
 tds;40
+tea;51;Subject of a steep tax?
 teaact;50
 teabasket;40
 teabraid;50
@@ -19521,6 +19628,7 @@ tinytim;50
 tinytot;50
 tinytots;50
 tios;40
+tip;51;That's the point!
 tiponeill;50
 tiproast;50
 tirana;40;Albania's capital
@@ -19803,12 +19911,19 @@ trackingchanges;50
 trackshoe;50
 trackshoes;50
 tradedfor;40
+tradedinsults;50
+tradedinsults;51;Participated in a needle exchange?
 tradedon;40
 tradefor;40
+tradeinsults;50
+tradeinsults;51;Exchange needles?
 tradeon;40
 tradesfor;40
 tradeson;40
 tradingfor;40
+tradinginsults;50
+tradinginsults;51;Needle exchange?
+tradinginsults;51;Participating in a needle exchange?
 tradingon;40
 traduce;40
 traduced;40
@@ -19867,6 +19982,7 @@ treaters;40
 treatingto;40
 treatsto;40
 treatto;40
+treaty;51;Kind of a big deal
 treblec;30;Flour brand
 trebly;40
 tree;51;Leaves home?
@@ -20393,6 +20509,7 @@ urbani;30;Pope
 urbanii;30
 urbanmusicgenre;1
 uremia;30
+uremic;30
 urgeon;40
 urger;40
 urgers;40
@@ -20538,6 +20655,7 @@ valuemeals;50
 valuta;31
 vanark;31
 vanillayogurt;40
+vanity;51;A thing of beauty
 vaporizer;50
 vaporizers;50
 var;40
@@ -20552,6 +20670,9 @@ vaticinator;31
 vaya;40
 veallawfourchin;1
 vealparm;50
+vegetable;51;Garden variety
+vegetableskewer;50
+vegetableskewers;50
 vegetarianbacon;50
 vegetarianmenus;50
 velazquez;60
@@ -21462,6 +21583,7 @@ zebroids;40;Zebra hybrids
 zebu;30;Indian ox
 zedonk;40
 zedonks;40
+zen;51;Garden variety
 zener;40
 zenmonk;60
 zenmonks;60
@@ -21504,6 +21626,7 @@ ziptie;50
 zipties;50
 zodiacs;40
 zohan;40;Adam Sandler character
+zombie;51;Stiff opposition?
 zombie;61;Bored stiff?
 zombie;61;Grave danger?
 zombieland;60
