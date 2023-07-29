@@ -213,6 +213,7 @@ achillea;40
 achillestendons;50
 achs;40
 acidness;40
+ack;40
 ackackgun;60
 ackroyd;30;Some author
 acle;25
@@ -1006,6 +1007,7 @@ anyluck;60
 anzac;40;Aussie/NZ holiday
 aoc;50
 aodai;25;Vietnamese garment
+aok;40
 aoki;50
 aotearoa;40;Maori for New Zealand
 aoudads;25
@@ -2381,6 +2383,7 @@ blameson;40
 blandallisonact;31
 blankammunition;50
 blankpage;50
+blas;40;1715 Lesage novel "Gil Blas", or San Blas islands
 blastit;60
 blastoise;50;Pokeyman
 bldg;40
@@ -3667,6 +3670,8 @@ coatees;31
 coati;40;South American raccoon
 coatis;40;South American raccoons
 cobaltblue;50
+cobblestone;51;Rocky road ingredient?
+cobblestones;51;Rocky road ingredients?
 cobweb;60
 cobwebs;60
 cocacolaclassic;50
@@ -4258,6 +4263,7 @@ cuspidal;30
 cuspidated;30
 cut;51;Production line?
 cutadeal;50
+cutagainstthegrain;60
 cutiepie;60
 cutiepies;60
 cutnoice;60
@@ -4566,6 +4572,8 @@ deflators;40
 defrag;50
 defragged;50
 defrags;50
+defriend;50
+defriended;50
 defs;40
 deg;40
 degs;40
@@ -4693,6 +4701,7 @@ deterging;30
 detester;40
 detesters;40
 dethorn;40
+detlef;30
 dets;40
 deucegame;50
 deux;40
@@ -6796,6 +6805,11 @@ floaties;61;Pool resources?
 floors;51;Trading places
 floortile;50
 floortiles;50
+floosie;30
+floosies;30
+floozie;30
+floozies;40
+floozy;40
 flop;51;Star destroyer?
 flopera;60;Slang for a celeb's downfall
 floperas;60;Slang for celebs' down periods
@@ -7184,6 +7198,7 @@ geeking;50
 geekout;60
 geeksout;60
 geelong;30;Melbourne suburb
+geer;40;Will Geer of "The Waltons"
 geewhiz;60
 geezer;50
 geezers;50
@@ -7707,6 +7722,7 @@ grateson;40
 gratingon;40
 grau;25
 gravamen;40
+gravel;51;Rocky road ingredient?
 graveperil;60
 graveyard;51;Stiff joint?
 graveyards;51;Stiff joints?
@@ -9400,7 +9416,7 @@ irruption;40
 irruptions;40
 irruptive;40
 irrupts;40
-irs;51;Returns home?
+irs;50;Returns home, for short? [used in Assume Ownership]
 irsform;40
 is;50
 isabadidea;20
@@ -11555,7 +11571,7 @@ midwives;50
 midwives;60;Delivery persons
 miele;40;Appliance manufacturer
 mieles;30;Certain appliances
-mii;40
+mii;30
 miii;10
 mika;50
 mikados;40;Japanese emperors
@@ -11676,6 +11692,9 @@ misfire;50
 misfired;50
 misfires;50
 misfiring;50
+misgauge;50
+misgauged;50
+misgauges;50
 mismatchedsocks;50
 misopaste;50
 misos;40
@@ -13203,7 +13222,7 @@ onlineauctions;50
 onlineboutiques;50
 onlinepetitions;50
 onloanto;40
-onlya;31
+onlya;30
 ono;40
 ononeknee;50
 onos;25
@@ -13211,7 +13230,7 @@ onramp;50
 onramps;50
 onrce;1
 onredalert;40
-onsea;31
+onsea;30
 onset;51;Where to see shooting stars?
 ontape;40
 ontheball;50
@@ -14788,6 +14807,7 @@ pter;25
 pto;40
 ptolemys;30
 ptrap;40;Plumbing fixture
+ptraps;40;Plumbing fixtures
 pts;40
 pubdate;30
 pubdates;30
@@ -14868,6 +14888,7 @@ putapininit;60
 putbuttsinseats;60
 putdowninwords;60
 putdowninwriting;60
+putdownonpaper;50
 putdownroots;60
 putdowntoage;60
 putdowntoamisunderstanding;60
@@ -14886,6 +14907,7 @@ putitto;40
 putonesfingeron;60
 putonto;40
 putouttopasture;60
+putsdownonpaper;50
 putsonesfingeron;60
 putsthefingeron;60
 putsthepiecestogether;60
@@ -14893,6 +14915,7 @@ putsunder;50
 putteringaround;60
 putthefingeron;60
 putthepiecestogether;60
+puttingdownonpaper;50
 puttingitmildly;60
 puttingthepiecestogether;60
 puttputt;60
@@ -15269,7 +15292,7 @@ rebids;40
 rebind;40
 rebinding;40
 rebinds;40
-rebop;40
+rebop;30
 reburn;25
 reburned;25
 reburning;25
@@ -15628,6 +15651,8 @@ reslate;40
 reslated;40
 reslates;40
 resnais;40;French director Alain
+resod;40
+resods;40
 resortedto;40
 resorter;30
 resorters;30
@@ -15848,6 +15873,7 @@ ringsfor;40
 ringy;40
 rinser;40
 rinsers;40
+rinso;40;Soap brand
 rintintin;50
 riomuni;40;Region of Equatorial Guinea
 riorita;40;Abbott and Costello movie
@@ -16895,6 +16921,8 @@ sevencent;30
 seveniron;40
 sevenirons;40
 sevenofdiamonds;25
+severeweather;50
+severeweatheralert;50
 seversties;60
 sew;51;Line one's pockets, perhaps?
 sewed;51;Lined one's pockets, perhaps?
