@@ -56,6 +56,7 @@ abatises;30;Means of defense formed by felled trees
 abator;30;Person who abates
 abators;30;Persons who abate
 abbe;30
+abbi;40;Comedian Abbi Jacobson
 abbr;40
 abbrs;40
 abcd;10
@@ -524,11 +525,8 @@ aintseennothingyet;60
 aintshesweet;60
 aintso;60
 aintthatashame;60
-airball;50
 airball;60
-airballed;50
 airballed;60
-airballs;50
 airballs;60
 aircannon;60
 aircannons;60
@@ -1536,6 +1534,7 @@ atidein;1;???
 atilt;40
 atimetodie;50;Movie
 atimetoremember;50
+atiptoe;30
 atis;25
 atitagain;50
 atkins;60;He went against the grain
@@ -1614,6 +1613,8 @@ auror;40
 aurors;40
 aus;40
 ausable;31
+auscultate;40;Examine a patient with a stethoscope
+auscultates;40;Examines a patient with a stethoscope
 austenite;40
 austenites;40
 austintx;40
@@ -1723,14 +1724,13 @@ babyshampoo;50
 babyshark;60
 babyshoe;50
 babyshoes;60
-babyshower;50
-babyshowers;50
+babyshower;60
+babyshowers;60
 babysister;50
 babysisters;50
 babysitter;50
 babysitters;50
 babysmurf;50
-babyspice;50
 babyspice;60
 babystep;50
 babysteps;60
@@ -2255,6 +2255,7 @@ bentonite;40;Type of clay
 bepolite;60
 bequiet;51;Zip line?
 berea;40
+bereal;60
 berlusconi;50
 bernardherrmann;50
 bernese;40;Mountain dog
@@ -2393,23 +2394,14 @@ biol;40
 biomom;60
 biomoms;50
 bionic;60
-bionicarm;50
 bionicarm;60
-bionicarms;50
 bionicarms;60
-bioniceye;50
 bioniceye;60
-bioniceyes;50
 bioniceyes;60
-bionicleg;50
 bionicleg;60
-bioniclegs;50
 bioniclegs;60
-bionicman;50
 bionicman;60
-bionicmen;50
 bionicmen;60
-bionics;50
 bionics;60
 bionicwoman;60
 bioparent;50
@@ -3451,6 +3443,7 @@ chafesat;40
 chafingat;40
 chainmail;50
 chainreactors;50
+chainz;60;Rapper 2 Chainz
 chairoftheboard;50
 chaitea;50
 chaiteas;50
@@ -3749,6 +3742,8 @@ cmix;10
 cmli;10
 cmlv;10
 cmlx;10
+cmonletsbereal;60
+cmonlivealittle;60
 cmonman;60
 cms;40
 cmv;10
@@ -3917,7 +3912,13 @@ comebet;50
 comefor;40
 comefrom;40
 comeinto;40
+comeondown;60
+comeonecomeall;60
+comeoneileen;60
+comeonletsbereal;60
 comeonto;40
+comeoutandplay;60
+comeoutofonesshell;60
 comesafter;50
 comesat;40
 comesfor;40
@@ -4554,6 +4555,8 @@ dartgun;50
 dartguns;50
 das;41;Battery chargers, for short?
 dashboardgauges;40
+dashcam;60
+dashcams;60
 dashedoneshopes;60
 dashesoneshopes;60
 dashingoneshopes;60
@@ -4949,8 +4952,7 @@ didshots;50
 didtime;50
 didto;40
 didtoat;40
-didtoat;50
-didtoatee;50
+didtoatee;40
 didtoo;50
 didwe;40
 dieaslowdeath;60
@@ -6423,6 +6425,8 @@ etiolate;40;Deprive of light, as a plant
 etiolated;40;Deprived of light, as a plant
 etiolates;40;Deprive of light, as a plant
 etiolating;40;Depriving of light, as a plant
+etoile;40
+etoiles;40
 etosha;25;Park in Namibia
 etrade;40
 etradebaby;40
@@ -6550,7 +6554,6 @@ exserted;40
 exserting;40
 exserts;40
 exspy;40
-exspy;50
 exstar;30
 ext;40
 extensionladder;50
@@ -8535,6 +8538,7 @@ herds;51;Takes stock in?
 herdsofcattle;50
 here;40
 hereand;1
+hereat;40;Because, archaically
 hereof;40
 herestomanymore;60
 heretostay;60
@@ -9063,6 +9067,8 @@ iconical;40
 icried;40;Song title
 icry;40;Song title
 ictinus;30;Co-architect of the Parthenon
+ictus;30
+ictuses;30
 icunurse;50
 icunurses;50
 icysea;40;Arctic Ocean, on old maps
@@ -9117,7 +9123,6 @@ idomeneo;40;Mozart opera
 idonot;40
 idontbelieveit;60
 idontbite;60
-idontcare;50
 idontcare;60
 idontevencare;60
 idontfeelsogood;60
@@ -9358,9 +9363,16 @@ inbaskets;50
 inbedwith;60
 incagold;50
 incare;40
+incars;1
 incatrail;50
 incaution;40
 incenses;40
+incent;40
+incept;40
+inceptive;40
+incest;40
+incestuous;40
+incestuously;40
 inchnails;1
 incise;40
 incised;40
@@ -10443,6 +10455,7 @@ lastonein;51;Rotten egg
 laststraw;60
 laszlo;40;Peter Lorre, originally
 laszlo;40;Victor ___ of "Casablanca"
+lata;40;Lata Mangeshkar, influential Indian singer
 latebet;50
 latebets;50
 lateen;30;Triangular sail
@@ -10559,6 +10572,8 @@ leavingon;40
 lebon;40;Simon of Duran Duran
 lecar;40
 lech;5
+lecher;40
+lechers;40
 leches;40
 lechs;5
 ledbyexample;60
@@ -10673,6 +10688,7 @@ letmein;60
 letmeseethat;60
 letsat;40
 letsbe;50
+letsbehonest;60
 letsfree;1
 letsgetcracking;60
 letsgetitstarted;60
@@ -11673,6 +11689,7 @@ mecham;40
 mechs;50
 med;40
 medalhunt;50;???
+medeas;40;2015 movie
 medflies;40
 medfly;40;Mediterranean fruit fly
 medford;40
@@ -11702,9 +11719,7 @@ megadose;60
 megafauna;50
 megaflora;50
 megalo;40
-megalodon;50
 megalodon;60
-megalodons;50
 megalodons;60
 megaman;60
 megusta;50
@@ -11862,6 +11877,7 @@ midfields;40
 midmost;40
 midstride;50
 midsummer;50
+midtempo;50
 midwife;50
 midwife;51;Delivery person
 midwives;50
@@ -12439,9 +12455,9 @@ namers;40
 namings;40
 nances;40;Yellow cherry-sized fruit
 nanci;40;Folk singer Nanci Griffith
-nankeen;31
-nankeens;31
-nankipoo;31
+nankeen;30
+nankeens;30
+nankipoo;40
 nanowrimo;60
 nans;40
 nantz;50;Sports broadcaster Jim
@@ -12453,7 +12469,7 @@ narked;30;British slang
 narking;30;British slang
 nars;30;Cosmetics company
 naryaone;60
-nasality;31
+nasality;40
 nasalize;40
 nasalstrip;50
 nasalstrips;50
@@ -12461,11 +12477,10 @@ nasarover;50
 nasarovers;50
 natalies;40
 natalities;40
-natality;31
 natality;40
-natation;31
+natation;40
 natatorial;40
-natatory;31
+natatory;40
 nathanhale;50
 nationalairline;50
 nationalanthems;50
@@ -12527,9 +12542,7 @@ ncaatournaments;50
 nckel;1
 ncwyeth;40;Illustrator
 nda;40
-nda;50
 ndas;40
-ndas;50
 ndebele;40;People of Zimbabwe
 nea;40
 neale;40
@@ -12607,6 +12620,7 @@ nelle;40
 nelligan;30
 nematodes;30
 nemea;40;Where Hercules fought a lion
+nemean;40
 nememiah;40
 nena;40;"99 Luftballons" singer
 nene;30
@@ -15725,7 +15739,6 @@ recordsleeve;51;It helps cover one's tracks?
 recordsleeves;51;They help cover one's tracks?
 recreancy;40
 recross;40
-rectal;40
 rectal;5
 rectos;30
 recu;25;Received: Fr.
@@ -15934,6 +15947,7 @@ renfro;40;Brad Renfro of "The Client", died at age 25
 reni;40;Painter Guido
 rennin;31
 renonevada;25
+renonv;40
 rentalcontract;50
 rentalcontracts;50
 rentaltux;50
@@ -16656,6 +16670,8 @@ sa;50
 saag;40
 sabato;30;Actor Antonio, or Saturday: Ital.
 sabena;25;Defunct Belgian airline
+sabersaw;40
+sabersaws;40
 sabina;25;Italian region, movie
 sabine;25;TX/LA river
 sablefur;50
@@ -16695,6 +16711,7 @@ sageadvice;50
 sagest;40
 saginaw;50
 sagitta;40;Constellation, not to be confused with Sagittarius
+sagittate;40
 sago;25;Palm starch
 sahib;40;Arabic "companion"
 sahm;40
@@ -16938,6 +16955,7 @@ sayboo;60
 sayest;40
 sayido;40
 saymass;50
+sayplease;60
 saysso;40
 sayswho;60
 sbaloan;40
@@ -17001,6 +17019,8 @@ scissors;50
 scissors;51;Cutting edge technology?
 scitech;40
 sclerae;40
+scleral;40
+scleras;40
 scoleco;30
 scooba;30;Discontinued Roomba sibling
 scoobas;30;Discontinued Roomba siblings
@@ -17165,7 +17185,6 @@ seenoevil;60
 seenred;40
 seensay;40
 seensays;40
-seensays;50
 seento;40
 seepedinto;40
 seepinginto;40
@@ -17576,11 +17595,11 @@ shoutingto;40
 shoutsto;40
 shoutto;40
 showa;25;20th century Japanese era
-shower;50;What nuns do out of habit? [used for BATHE]
 shower;51;Get into hot water
+shower;51;What nuns do out of habit?
 showered;51;Got into hot water
-showers;50;What a nun does out of habit? [used for BATHE]
-showers;51;Get into hot water
+showers;51;Gets into hot water
+showers;51;What a nun does out of habit?
 showgirl;60
 showgirls;60
 showme;60
@@ -18418,6 +18437,7 @@ speedrecord;50
 speedrecords;50
 speedsto;40
 speedto;40
+speer;30;Nazi Albert Speer
 spellbinding;60
 spellbound;60
 spellcaster;60
@@ -20196,6 +20216,7 @@ timetables;50
 timewarp;60
 timothee;60
 timreid;40;Actor
+tims;40
 tinafey;50
 tinashe;25;Singer
 tinct;40
@@ -20587,7 +20608,6 @@ treblec;30;Flour brand
 trebly;40
 tree;51;Leaves home?
 treebark;50
-treebeard;50
 treebeard;60
 treed;40
 treehugger;60
@@ -20990,6 +21010,7 @@ unfilial;40
 unfrozencavemanlawyer;50
 unglued;60
 unhale;40
+unhandme;60
 unhandmevillain;60
 unhat;40
 unhats;40
@@ -21707,6 +21728,7 @@ whatazoo;60;60 is borderline...
 whatchagotthere;60
 whatfor;60
 whatseemstobetheissue;50
+whatsthemagicword;60
 wheaten;40;Containing wheat
 wheaton;50
 whelan;40
@@ -22178,6 +22200,7 @@ youcanthaveitbothways;60
 youcantteachheight;60;N.B.A. draft saying
 youdareme;60
 youdidit;51;Line of credit?
+youdidntsaythemagicword;60
 youdig;60
 youdontknowhowitfeels;60
 youdoyou;60
