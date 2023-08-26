@@ -1637,6 +1637,8 @@ audiofeeds;50
 audiotour;50
 audiotours;50
 auditcommittees;50
+audra;40;Audra McDonald of Broadway
+audre;40;Feminist author Audre Lorde
 auel;40;"The Clan of the Cave Bear" author Jean
 auer;25
 aug;40
@@ -2909,6 +2911,7 @@ buildsafire;50
 builtafire;50
 bulbasaur;50;Pokeyman
 bulimia;40
+bull;51;Jersey boy?
 bullgun;50
 bullguns;50
 bullhockey;60
@@ -2918,6 +2921,7 @@ bullpen;51;Stock yard?
 bullpens;51;Stock holders?
 bullpens;51;Stock rooms?
 bullpens;51;Stock yards?
+bulls;51;Jersey boys?
 bumaride;50
 bumble;51;Where to play with matches?
 bummedaride;50
@@ -3108,6 +3112,10 @@ canihaveyourattentionplease;60
 canit;60
 canitalk;60
 cannae;25;Punic War battle site
+cannibal;60
+cannibalism;60
+cannibalistic;60
+cannibals;60
 cannoli;50
 cannolis;50
 cannula;40;Medicine tube
@@ -4821,6 +4829,12 @@ decca;40;Record label
 decease;40
 deci;40
 deciare;30;10 square meters
+declaim;40
+declaimed;40
+declaimer;40
+declaimers;40
+declaiming;40
+declaims;40
 declass;40
 declassed;40
 declasses;40
@@ -5365,7 +5379,9 @@ dognapped;40;Abducted Fifi
 dognapping;40;Abducting Fifi
 dognaps;40;Abducts Fifi
 dogpark;50
+dogpark;60
 dogparks;50
+dogparks;60
 dogpile;50
 dogpond;60
 dogrocket;60
@@ -6588,6 +6604,8 @@ ethnical;40
 ethniccleansing;31
 ethnicrelations;40
 ethnics;5
+ethno;40
+ethnos;40
 ethoses;40
 etiolate;40;Deprive of light, as a plant
 etiolated;40;Deprived of light, as a plant
@@ -6683,6 +6701,10 @@ exe;40
 exene;30;Punk singer Cervenka
 exerciseprogram;50
 exfbi;40
+exiledfrom;40
+exilefrom;40
+exilesfrom;40
+exilingfrom;40
 exlax;60
 exnbaer;30
 exnihilo;60
@@ -6766,10 +6788,16 @@ facedit;40
 facedtherap;25
 faceid;50
 faceit;60
+facepaint;61;Make a profile picture?
+facepainting;61;Profile picture?
 facesit;40
 facestherap;25
+facetat;61;Profile pic?
+facetats;61;Profile pics?
 facetattoo;60
+facetattoo;61;Profile picture?
 facetattoos;60
+facetattoos;61;Profile pictures?
 facetherap;25
 facetime;50
 facetimed;50
@@ -7303,6 +7331,7 @@ fortknox;51;Bar keep?
 fortord;40;Closed US Army post
 fortsumter;50
 fortunemagazine;50
+fortylove;40
 fortytwo;60
 fossil;51;A thing of the past
 fossils;51;Remains underground?
@@ -8343,10 +8372,10 @@ hai;40;Bali ___
 haifa;40;Israeli port
 haig;50
 haight;40;Haight-Ashbury district in San Francisco
-hailedfrom;40
-hailfrom;40
-hailingfrom;40
-hailsfrom;40
+hailedfrom;50
+hailfrom;50
+hailingfrom;50
+hailsfrom;50
 haim;40;Corey ___
 hairyballtheorem;60
 haji;40;Muslim who has made it to Mecca
@@ -8644,6 +8673,8 @@ hehhehs;40
 hehitme;60
 hehs;40
 heiressapparent;40
+heistfilm;60
+heistfilms;60
 hejira;30;Joni Mitchell album
 heldback;50
 heldscoreless;50
@@ -8671,7 +8702,7 @@ hellions;60
 hellish;60
 hellishly;60
 hellno;60
-hello;51;Standard pick up line?
+hello;51;Pick up line?
 hellodolly;50
 hellohello;50
 hellosailor;50
@@ -9006,12 +9037,14 @@ hookingup;60
 hooksup;60
 hookup;60
 hookups;60
+hooliganism;60
 hoopoe;30;Colorful bird
 hoopoes;30;Colorful birds
 hoorah;40
 hoorays;40
 hoosegow;60
 hoosgow;60
+hopacab;40
 hopacab;60
 hopedto;40
 hopefor;40
@@ -9021,13 +9054,16 @@ hopetogod;60
 hopingto;40
 hopinto;40
 hoponto;40
+hoppedacab;40
 hoppedacab;60
 hoppedinto;40
 hoppedonto;40
+hoppingacab;40
 hoppingacab;60
 hoppinginto;40
 hoppingmad;60
 hoppingonto;40
+hopsacab;40
 hopsacab;60
 hopsinto;40
 hopsonto;40
@@ -9221,8 +9257,8 @@ ibn;40
 icahn;40;Billionaire Carl
 ican;40
 icanadd;60
-icansee;50;Vision statement [used for Er, I See]
-icanseeagain;50;Vision statement [used for Er, I See]
+icansee;51;Vision statement
+icanseeagain;51;Vision statement
 icantbebothered;60
 icantbelieveit;60
 icantbelievemyeyes;60
@@ -9243,6 +9279,8 @@ icedlatte;50
 icedlattes;50
 icedmocha;50
 icedmochas;50
+icehotel;60
+icehotels;60
 icein;40
 iceit;50;Injury instruction
 iceless;40
@@ -9387,6 +9425,7 @@ ihaveto;60
 ihavetotakethat;60
 iheardyouthefirsttime;60
 ihearya;60
+ihopenobodysawthat;60
 ihopeso;60
 ihopetogod;60
 ihops;40
@@ -9938,12 +9977,12 @@ isbn;40
 isbns;40
 isdueto;40
 isee;50
-isee;50;Vision statement? [used for Er, I See]
+isee;51;Vision statement?
 iseeit;50
-iseeit;50;Vision statement? [used for Er, I See]
+iseeit;51;Vision statement?
 iseeitnow;50
-iseeitnow;50;Vision statement? [used for Er, I See]
-iseethat;60;Vision statement? [used for Er, I See]
+iseeitnow;51;Vision statement?
+iseethat;61;Vision statement?
 iselin;31
 iseult;30;Isolde
 ish;40
@@ -10045,7 +10084,9 @@ itmakesyouthink;60
 ito;40;Judge Lance
 itoo;40
 itpro;40
+itprofessional;40
 itprofessionals;40
+itpros;40
 itried;60
 itrustyou;50
 its;50
@@ -10374,6 +10415,7 @@ keepunderwraps;60
 keepyourshirton;60
 kehuyquan;60
 keithmoon;50
+kelli;40;7-time Tony winner Kelli O'Hara
 kelloggscracklinoatbran;50
 kelpforest;50
 kelpforests;50
@@ -10564,6 +10606,8 @@ labwork;50
 lacan;30;Psychoanalyst Jacques
 lace;50;Tie up loose ends
 laced;50;Tied up loose ends
+lacedoilies;50
+lacedoily;50
 lacerta;40;Lizard constellation
 lacertilia;30;Lizard genus
 laces;50;Ties up loose ends
@@ -10649,6 +10693,7 @@ laniards;25
 lansingmichigan;31
 laon;25
 lap;51;Blanket coverage?
+lapat;40
 lapelmic;50
 lapelmicrophone;50
 lapelmicrophones;50
@@ -10657,6 +10702,9 @@ lapelmike;50
 lapelmikes;50
 laperi;30;Paul Dukas ballet
 lapham;30;Harper's editor Lewis
+lappedat;40
+lappingat;40
+lapsat;40
 laputa;5
 lapweld;50
 laraza;40;Latino race, not sure how to sum it up, NYT debut
@@ -10676,6 +10724,8 @@ las;40
 lascar;30;Indian sailor
 lascars;30;Indian sailors
 lascrucesnm;30
+lase;51;Have some light work done?
+lased;51;Had some light work done?
 lasercut;50
 lasercuts;50
 lasercutter;50
@@ -10685,6 +10735,7 @@ laserdisc;50
 laserdiscs;50
 laserfocus;60
 laserfocused;60
+lases;51;Has some light work done?
 laso;25
 lasses;50
 lassoo;1
@@ -10701,10 +10752,10 @@ latebets;50
 lateen;30;Triangular sail
 lateens;30;Triangular sails
 laten;40
-latened;50
+latened;40
 lateness;40
-latening;50
-latens;50
+latening;40
+latens;40
 lateran;30
 latergram;60
 latergrams;60
@@ -11957,7 +12008,7 @@ mecham;40
 mechs;50
 med;40
 medalhunt;50;???
-medeas;40;2015 movie
+medeas;30;2013 movie
 medflies;40
 medfly;40;Mediterranean fruit fly
 medford;40
@@ -11975,6 +12026,8 @@ medstudent;50
 medstudents;50
 medullary;40
 medusa;50
+medusa;60
+medusa;61;Her looks are to die for
 medusae;40
 meetat;40
 meeter;25;One meeting
@@ -12711,25 +12764,29 @@ nacrous;40;Of or resembling pearl
 nadasurf;60
 naes;40
 nagasaki;60
+nagat;40
 nagaviper;50
 nagavipers;50
+naggedat;40
+naggingat;40
+nagsat;40
 nahs;40
 nahum;30;Minor book of the Hebrew Bible
-nail;50;Drive home a point?
-nail;51;Drive home a point?
+nail;50;Hammer home a point?
+nail;51;Hammer home a point?
 nail;51;Hit it!
 nailart;50
-nailed;51;Drove home a point?
+nailed;51;Hammered home a point?
 nailedin;40
-nailedin;41;Drove home a point?
+nailedin;41;Hammered home a point?
 nailin;40
-nailin;41;Drive home a point?
-nailing;51;Driving home a point?
+nailin;41;Hammer home a point?
+nailing;51;Hammering home a point?
 nailingin;40
-nailingin;41;Driving home a point?
-nails;51;Drives home a point?
+nailingin;41;Hammering home a point?
+nails;51;Hammers home a point?
 nailsin;40
-nailsin;41;Drives home a point?
+nailsin;41;Hammers home a point?
 nailsit;60
 nainsook;31
 naiver;40
@@ -13158,6 +13215,7 @@ noaa;40
 noahs;40
 noangel;60
 nobite;60
+nobodysawthatright;60
 nobroccoliforme;1
 nobueno;50
 nocap;60
@@ -13169,6 +13227,8 @@ nocked;50
 nocking;40
 nocks;50
 noclass;50
+nocutting;60
+nocutting;61;Line rule
 nodat;40
 nodayatthebeach;60
 noddedat;40
@@ -13916,6 +13976,7 @@ onramp;50
 onramps;50
 onrce;1
 onredalert;40
+onsafari;61;Where to watch the big game?
 onsea;30
 onset;51;Where to see shooting stars?
 ontape;40
@@ -14489,17 +14550,21 @@ parsis;40;Zoroastrians
 partb;30;Medicare option
 partc;30;Medicare option
 partd;30;Medicare option
+partedfrom;40
+partfrom;40
 parti;40
 participationmedal;60
 participationmedals;60
 participationtrophies;60
 particularizing;40
 partiers;51;Punch line, say?
+partingfrom;40
 partingofways;60
 partitive;40
 partof;40
 partridgechicks;40
 partsdepartment;50
+partsfrom;40
 partsong;40
 partsongs;40
 partygoers;51;Punch line, say?
@@ -14525,6 +14590,7 @@ pastiches;50
 pastonesbedtime;60
 pastorate;40
 paten;40;Plate used to carry bread during Mass
+patens;40
 patentattorney;50
 patentattorneys;50
 pater;40;Latin father
@@ -15160,12 +15226,15 @@ poncas;30;Midwestern tribe
 ponderer;40
 ponderers;40
 pondscum;51;Dirty film
+pontiffs;51;See stars?
 ponyride;50
 ponyrides;50
 poohpooh;60
 poohpoohed;60
 poohpoohing;60
 poohpoohs;60
+poolcover;50
+poolcovers;50
 pooler;40
 poolpump;50
 poolpumps;50
@@ -15222,6 +15291,7 @@ popepiusx;30
 popepiusxi;30
 popepiusxii;30
 popery;40;Disparaging, archaic
+popes;51;See stars?
 popgun;50
 popguns;50
 pophit;50
@@ -15437,6 +15507,8 @@ prise;40;Force two things apart
 prised;40;Forced two things apart
 prises;40;Forces two things apart
 prising;40;Forcing two things apart
+prismoid;40
+prismoids;40
 prisonwing;60
 prisonwings;60
 pristine;51;Never worn?
@@ -16148,6 +16220,8 @@ redstate;50
 redstates;50
 redtape;60
 redthermometers;1
+reducer;40
+reducers;40
 redwine;50
 reedinstrument;50
 reedinstruments;50
@@ -16317,6 +16391,10 @@ renegedon;40
 renegeon;40
 renegeson;40
 renegingon;40
+renest;40
+renested;40
+renesting;40
+renests;40
 renewer;40
 renewers;40
 renfro;40;Brad Renfro of "The Client", died at age 25
@@ -16593,6 +16671,8 @@ returntothefold;60
 retuse;30
 revealthering;31
 reversible;50
+reviler;40
+revilers;40
 revisal;40
 reviser;40
 revisor;40
@@ -17099,6 +17179,8 @@ sadpanda;60
 sadsack;60
 sadsacks;60
 saens;40
+safari;51;Where to watch the big game?
+safaris;51;Where to watch the big game?
 safespace;60
 safespaces;60
 safetydepositbox;50
@@ -17571,6 +17653,8 @@ sedalia;30;Missouri town
 sedater;40
 sedatest;40
 seducee;40
+seducer;40
+seducers;40
 sedum;30;Plant
 sedums;30;Plants
 seeable;40
@@ -17919,6 +18003,7 @@ shamers;40
 shamiram;40;Neo-Assyrian queen
 shammuramat;40;Neo-Assyrian queen
 shamram;1
+shangrila;60
 shapelier;40
 shapeliest;40
 sharecrop;50
@@ -18692,7 +18777,9 @@ solacer;40
 solaces;40
 solange;50;Beyoncé's sister w/a Grammy of her own
 solano;30;California county
+solarcar;40
 solarcar;50
+solarcars;40
 solarcars;50
 solarcell;50
 solarcells;50
@@ -18715,6 +18802,7 @@ soli;40
 solider;40
 solidfood;50
 solidfoods;50
+solisten;60
 soliton;30;In physics, a solitary wave
 solitons;30;In physics, solitary waves
 sollal;40;Korean New Year
@@ -19086,6 +19174,7 @@ stagline;40;Unaccompanied men at a dance
 stah;25
 staider;40
 staidest;40
+stain;51;Spot of trouble?
 stainers;40
 staircars;50
 stairstep;50
@@ -19132,6 +19221,7 @@ stapleguns;50
 staranise;50
 starbaker;60
 starbakers;60
+starboard;51;Berth right?
 stardust;60
 starfilled;50
 staringdaggersat;60
@@ -19198,16 +19288,20 @@ stayat;40
 stayedat;40
 stayedinbed;50
 stayedinoneslane;60
+stayedwarm;50
 stayinbed;50
 stayingalive;51;"Breathing oxygen linked to ___" (Mason County Press)
 stayingat;40
 stayinginbed;50
 stayinginoneslane;60
+stayingwarm;50
 stayinoneslane;60
 staypuft;60
 staysat;40
 staysinbed;50
 staysinoneslane;60
+stayswarm;50
+staywarm;50
 stbernard;50
 stbernards;50
 stclair;30;Michigan city/river
@@ -19273,7 +19367,9 @@ steelyard;50
 steelyards;50
 steen;40;Painter Jan Steen
 steens;31
+steer;51;Jersey boy?
 steerclear;50
+steers;51;Jersey boys?
 steeves;40
 steg;25
 stela;30
@@ -19363,6 +19459,7 @@ stirrups;50
 stix;40
 stjoan;30
 stl;40
+stleoi;40
 stleoii;31
 stlouiscardinal;50
 stlouismo;30
@@ -19766,6 +19863,7 @@ syllogisms;50
 syms;30;Actress Sylvia
 syn;40
 synchronicityii;60
+syndicalism;40
 syne;40
 synergism;40
 synergist;40
@@ -20140,6 +20238,8 @@ teemer;40
 teemers;40
 teener;40;Teenager, or drug slang
 teeners;40;Teenagers, or drug slang
+teenidol;60
+teenidols;60
 teenpregnancy;51;"Statistics show that ___ drops off significantly after age 25" (Denver Post)
 teentsier;30
 teentsiest;30
@@ -20741,6 +20841,8 @@ tincts;40
 tincup;50
 tincups;50
 tinder;61;Where to play with matches?
+tinea;40;Ringworm
+tineas;30
 tinetest;40
 tinga;40;Mexican chicken dish
 tingaling;50
@@ -22037,6 +22139,8 @@ waitlist;60
 waitlisted;60
 waitlisting;60
 waitlists;60
+waityourturn;60
+waityourturn;61;Line rule
 wakaflockaflame;60
 wakeman;60
 waken;40
@@ -22779,6 +22883,8 @@ youreameanonemrgrinch;60
 youreaskingforit;60
 youregood;60
 yourenext;51;Line of succession?
+yourenofun;60
+yourenohelp;60
 youreokay;60
 youreon;60
 yourgrace;50
