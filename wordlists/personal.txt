@@ -901,6 +901,7 @@ ameliorant;40
 amencorners;50
 amenhotep;50
 aments;25
+ameproblem;60
 amerce;25;Punish with a fine
 amerces;25;Fines
 americanpharaoh;50
@@ -1804,6 +1805,7 @@ ayearago;40
 ayeayesir;50
 ayer;40
 ayo;45
+ayouproblem;60
 ayres;30;Actor Lew
 ays;45
 ayup;50
@@ -2187,6 +2189,7 @@ battingoneseyes;50
 battleax;60
 battleformation;60
 battlers;40
+battletested;60
 battlewagon;60
 baudrate;50
 baudrate;51;Terminal velocity?
@@ -2823,6 +2826,7 @@ borefruit;60
 boreinon;40
 borer;40
 boresinon;40
+boriskarloff;60
 bornto;40
 bos;45
 bossanova;50
@@ -3169,6 +3173,12 @@ calaminelotions;50
 calc;40
 calcareous;40
 calcific;40
+calcine;40
+calcined;40
+calcines;40
+calcining;40
+calcite;40
+calcitic;40
 calculator;51;Product development tool?
 calculators;51;Product development tools?
 cale;40
@@ -3344,6 +3354,8 @@ cardcounters;60
 cardcounting;60
 cardigansweater;50
 cardinaloconnor;40
+cardskimmer;60
+cardskimmers;60
 carebear;60
 carebears;60
 caredto;40
@@ -3365,6 +3377,7 @@ caricatures;51;Draws stares?
 caricaturing;51;Drawing stares?
 carina;40;Constellation
 carinas;25;Doublets
+carioca;40
 carious;30;Decayed, as teeth
 carjack;40
 carjacked;40
@@ -3676,11 +3689,13 @@ cerements;40;Waxed cloths covering a corpse
 cerf;40
 cerises;30;Reds
 cersei;50
+certificated;40
 certifiedchecks;50
 certifiedkosher;50
 ceruminous;40;Ear gland
 cervine;30;Deerlike
 cest;40
+cetacea;40;Order of whales, dolphines, porpoises
 cetacean;30;Whale/dolphin/porpoise
 ceylon;30;Sri Lanka, formerly
 cfc;45
@@ -4057,7 +4072,6 @@ cocapaste;50
 cocaplant;50
 cocaplants;50
 cocatea;40
-cocatea;50
 cocatree;50
 cocatrees;50
 coche;40
@@ -4428,6 +4442,8 @@ couchforts;60
 couldhebetheone;60
 couldntstickaround;50
 couldshebetheone;60
+coulee;40
+coulees;40
 countcalories;50
 countcards;60
 countedcalories;50
@@ -5605,7 +5621,6 @@ dogwood;50
 doha;50;Capital of Qatar
 dohonor;40
 dohs;40
-dohs;50
 doidare;60
 doido;40;Stevie Wonder song
 doingajobon;60
@@ -5625,7 +5640,7 @@ doingtoatee;50
 doink;40
 doitnow;60
 doityourselftornadokit;60;Acme invention
-doj;50
+doj;45
 dojo;60
 dojos;60
 doke;40
@@ -6059,6 +6074,8 @@ earlaps;40
 earless;40
 earlies;40
 earlmonroe;50;NBA hall of famer
+earlyadopter;60
+earlyadopters;60
 earlybird;50
 earlybirds;50
 earlylead;50
@@ -7031,6 +7048,7 @@ ext;45
 extensionladder;50
 extoller;40
 extollers;40
+extramustard;40
 extrarare;50
 eyalet;25;Ottoman Empire province
 eyalets;25;Ottoman Empire provinces
@@ -7141,6 +7159,8 @@ falsepositive;50
 falsepositives;50
 falsepretense;50
 falsepretenses;50
+falser;40
+falsest;40
 falsie;50
 falsies;50
 falterer;40
@@ -7339,6 +7359,7 @@ fetter;40
 fettered;40
 fettering;40
 fetters;40
+fettles;40
 feu;25
 feverdream;60
 feverdreams;60
@@ -8743,6 +8764,7 @@ hailingfrom;50
 hailsfrom;50
 haim;40;Corey ___
 hairyballtheorem;60
+haj;45
 haji;40;Muslim who has made it to Mecca
 hajj;40;Islamic pilgrimage mandatory for all Muslims
 haka;30;Maori dance
@@ -9794,6 +9816,7 @@ igetlonely;60
 iglesia;40
 ignition;51;Starter home?
 ignitions;51;Starter homes?
+ignorantness;40
 igorot;30;Filipino headhunter
 igorots;30;Filipino headhunters
 igotac;1
@@ -9894,6 +9917,7 @@ imbedded;25
 imbedding;25
 imbeds;25
 imcallingitanight;50
+imcomin;1
 imcurious;60
 imdb;51;Star chart?
 imdeadmeat;60
@@ -10531,6 +10555,8 @@ itsokbyme;51;Line of latitude?
 itsokwithme;51;Line of latitude?
 itsoundslikeayouproblem;60
 itsover;60
+itspecialist;40
+itspecialists;40
 itstimetomoveon;60
 itstoobad;60
 itsupport;40
@@ -10842,6 +10868,7 @@ kebabskewer;50
 kebabskewers;50
 kedrova;40;"Zorba the Greek" Best Supporting Actress
 keene;40;Nancy Drew author Carolyn
+keeners;30
 keens;40
 keepdigging;60
 keepingtabs;50
@@ -11208,6 +11235,8 @@ laststraw;60
 laszlo;40;Peter Lorre, originally
 laszlo;40;Victor ___ of "Casablanca"
 lata;40;Lata Mangeshkar, influential Indian singer
+lateadopter;60
+lateadopters;60
 latebet;50
 latebets;50
 lateen;30;Triangular sail
@@ -11397,8 +11426,8 @@ legroom;60
 legsofmutton;50
 lehar;40
 leica;40;Camera brand
-leica;50;Camera brand
-leicas;50;Luxury cameras
+leicas;40;Luxury cameras
+leifers;40
 leilani;40
 leisured;40
 leisures;40
@@ -12215,6 +12244,7 @@ maledict;40
 malesex;50
 malices;40
 malik;40;Zayn Malik, formerly of One Direction
+malle;40;Louis Malle, director of "My Dinner With Andre"
 mallets;51;Bonkers
 malorys;25
 mammon;30;Biblical wealth
@@ -14209,6 +14239,8 @@ odinic;40
 odon;5
 odonata;30;Dragonfly genus
 odor;50;Air offensive?
+odorant;40
+odorants;40
 ods;5
 odson;5
 oed;45
@@ -16166,9 +16198,7 @@ prevoting;40
 prfirm;50
 prfirms;50
 prguru;40
-prguru;50
 prgurus;40
-prgurus;50
 pri;45
 pricewar;50
 pricewars;50
@@ -16617,6 +16647,7 @@ raisingaglass;61;Lifting one's spirits?
 raisinghell;60
 raisingthecurtain;50
 raita;40;Indian dip
+raj;45
 rajiv;25;Indian P.M., son of Indira Gandhi
 rakeditin;50
 rakeitin;50
@@ -16898,6 +16929,14 @@ recoats;40
 recomb;40
 recordsleeve;51;It helps cover one's tracks?
 recordsleeves;51;They help cover one's tracks?
+recrank;40
+recranked;40
+recranking;40
+recranks;40
+recrate;40
+recrated;40
+recrates;40
+recrating;40
 recreancy;40
 recross;40
 rectal;5
@@ -18474,6 +18513,7 @@ seeingred;50
 seeingstars;60
 seeingto;40
 seeinto;40
+seeland;40
 seemedto;40
 seemingto;40
 seemsto;40
@@ -19796,9 +19836,8 @@ spaded;40
 spading;40
 spadix;40;Botany word
 spahn;40;Baseballer Warren
-spamemail;30
-spamemail;50
-spamemails;50
+spamemail;40
+spamemails;40
 spandau;40;Berlin borough
 spanx;50
 sparekey;50
@@ -20023,6 +20062,10 @@ stagedad;60
 stagedads;60
 stagemom;60
 stagemoms;60
+stagemother;60
+stagemothers;60
+stagename;60
+stagenames;60
 stageparent;60
 stageparents;60
 stager;40
@@ -20645,6 +20688,7 @@ sunaloiroc;1
 sundance;50
 sundown;60
 sunevfohtribeht;1
+sunglasslens;50
 sunimrosulp;1
 sunobdedda;1
 sunriseserenade;40
@@ -21113,6 +21157,7 @@ teakettle;50
 teakettles;50
 tealight;50
 tealights;50
+teals;40
 teamer;40
 teamers;40
 teamgame;50
@@ -21126,6 +21171,7 @@ tearduct;50
 tearducts;50
 teared;40
 tearer;40
+tearers;40
 tearjerkingscene;61;Watershed moment?
 tearoneshairout;60
 tearstrip;50
@@ -22836,6 +22882,7 @@ usedon;40
 usefor;30
 useindoorvoices;50
 useon;40
+userfriendly;60
 usesasbait;50
 usesfor;30
 useson;40
@@ -23319,6 +23366,8 @@ welcomer;40
 welcomers;40
 welcometotherealworld;60
 weliveinasociety;60
+wellackshually;60
+wellactually;60
 wellexcusemeprincess;60
 wellexcuuuuseme;60
 wellfixitinpost;60
@@ -23408,6 +23457,8 @@ whitehousestaff;50
 whitehousetours;50
 whitekey;50
 whitekeys;50
+whiteknight;60
+whiteknights;60
 whitelie;50
 whitelies;50
 whiterat;40
