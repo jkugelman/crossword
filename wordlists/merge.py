@@ -60,15 +60,11 @@ def xwi_renumber(word, score):
     if score >= 50:
         return (word, 50)
     if score >= 30:
-        return (word, 40)
+        return (word, 30)
     elif score >= 25:
-        return (word, 30)
-    elif score >= 20:
-        return (word, 30)
-    elif score >= 10:
         return (word, 25)
     else:
-        return (word, 20)
+        return (word, 25)
 
 def rel_path(path):
     return os.path.join(os.path.dirname(__file__), path)
@@ -83,7 +79,7 @@ def load_word_list(min_score=0):
 
 def save_word_list(word_list):
     word_list.save('merged.txt', scores=True)
-    word_list.save('words-only-merged.txt', scores=False, min_score=21)
+    word_list.save('words-only-merged.txt', scores=False, min_score=25)
 
 if __name__ == '__main__':
     word_list = load_word_list()
