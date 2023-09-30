@@ -27,13 +27,13 @@ aateam;30
 aateams;30
 aaugh;30
 aave;30;African-American Vernacular English
-aaverage;30
+aaverage;40
 aaverages;30
 aba;40;Bar assoc.
 abacab;50
 abaci;30
 aback;30
-abaculus;25
+abaculus;30
 abadegg;25
 abaft;30
 aball;30
@@ -59,7 +59,7 @@ abators;25;Persons who abate
 abbacy;30
 abbe;25
 abbi;30;Comedian Abbi Jacobson
-abbr;30
+abbr;40
 abbrs;30
 abcd;25
 abcdaytimehosts;25
@@ -114,7 +114,7 @@ ablate;30
 ablated;30
 ablates;30
 ablating;30
-abler;30
+abler;40
 abomb;30
 abombs;30
 aboner;25
@@ -345,7 +345,9 @@ actv;30
 acup;30
 acupbra;25
 acups;30
+acuter;40
 acutes;30
+acutest;40
 acyrologia;25;Malapropism
 ad;50
 adab;30
@@ -358,6 +360,7 @@ adaptedto;30
 adaptingto;30
 adaptsto;30
 adaptto;30
+adayago;40
 adblocker;50
 adblockers;50
 adcreep;50
@@ -431,10 +434,8 @@ adu;40;One-time soccer phenom Freddy Adu
 adue;30;Together, in music
 adultadhd;50
 adulting;60
-adunit;30
-adunit;50
-adunits;30
-adunits;50
+adunit;40
+adunits;40
 adv;40
 advancedformula;50
 adverb;60;Now or never?
@@ -580,11 +581,12 @@ aimat;30
 aimedat;30
 aimedto;30
 aimers;25
+aimes;30;You love: Fr.
 aimingat;30
 aimingto;30
 aimsat;30
 aimsto;30
-aimto;30
+aimto;40
 ainge;30;Danny Ainge, NBA player, coach, and executive of the Utah Jazz
 aintlifegrand;60
 aintlovegrand;60
@@ -623,9 +625,7 @@ airkiss;50
 airkisses;50
 airlike;30
 airlinepilots;50
-airlock;50
 airlock;60
-airlocks;50
 airlocks;60
 airmattress;50
 airmattresses;50
@@ -716,6 +716,7 @@ alertest;30
 alertto;30
 ales;51;Heady stuff?
 alessi;25;Italian houseware brand
+alet;25
 aletap;25
 aletaps;25
 alewife;30;Herring
@@ -989,7 +990,7 @@ amrita;25;Hindu beverage
 amritas;25;Hindu beverages
 amritsar;25;Indian city
 ams;25
-amso;30
+amso;40
 amstation;50
 amstations;50
 amt;40
@@ -1050,6 +1051,7 @@ andnotthawedout;1
 andone;50;NBA term
 android;60
 ands;50
+andso;40
 andsoitgoes;60
 andthelike;60
 andtheyreoff;61;Starting line?
@@ -1261,7 +1263,7 @@ appositive;30
 appositively;30
 approveof;30
 appsych;30
-appt;30
+appt;40
 apr;40
 apradio;50
 apri;25
@@ -1339,7 +1341,7 @@ areolas;30
 areoles;30
 arepa;30;Colombian food
 arepa;30;Corncake
-areso;30
+areso;40
 arete;30
 arethas;25
 aretied;25
@@ -1354,7 +1356,7 @@ areyouinsane;60
 areyoukidding;60
 areyoumad;60
 areyousleeping;60
-arf;50
+arf;40
 arfed;30
 arfs;30
 arg;25;Argentina
@@ -1616,19 +1618,19 @@ assistedon;30
 assistingon;30
 assiston;30
 assistson;30
-assn;30
+assn;40
 assns;30
 associatedegree;50
 associatedegrees;50
-assort;30
+assort;40
 assorter;30
 assorters;30
-assorting;30
-assorts;30
+assorting;40
+assorts;40
 asss;25
-asst;30
-asstprof;25
-asstprofs;25
+asst;40
+asstprof;30
+asstprofs;30
 assumable;30
 assumably;30
 assumedownership;50
@@ -2658,6 +2660,7 @@ bingocard;50
 bingocards;50
 biodad;60
 biodads;50
+biodata;40
 biofilm;50
 bioink;60;Used to 3D print artificial tissue
 bioinks;60;Used to 3D print artificial tissue
@@ -2763,6 +2766,7 @@ blindsides;60
 blissedout;60
 blissesout;50
 blissout;60
+blm;40
 bloater;30
 bloaters;30
 blockader;30
@@ -2780,12 +2784,14 @@ blowpipe;50
 blowpipes;50
 blowsakiss;50
 bluebeard;50
+bluebells;50
 blueberries;50
 blueberry;50
 bluegoose;50
 bluegrassregion;50
 bluegrassregions;50
 bluehole;60
+blueholes;60
 blueing;30
 blueings;25
 blueness;30
@@ -3776,8 +3782,8 @@ cds;40
 cdsales;30
 cdslot;30
 cdslots;30
-cdstand;30
-cdstands;30
+cdstand;40
+cdstands;40
 cdt;25
 cdtower;30
 cdtowers;30
@@ -5150,9 +5156,9 @@ datesup;50
 dateup;50
 datingup;50
 datums;25
-dauber;30
-daubers;30
-daubings;30
+dauber;40
+daubers;40
+daubings;40
 daudet;25;Unnotable French writer
 davebautista;50
 davidgilmour;60
@@ -6060,6 +6066,8 @@ doublewide;50
 doublewides;50
 douche;30
 douches;30
+dourer;40
+dourest;50
 doux;30
 dovekie;25;Little auk bird
 doverde;25
@@ -6206,6 +6214,8 @@ drseuss;50
 drspock;50
 drugdeal;50
 drugdeals;50
+drugmule;60
+drugmules;60
 drugtrial;50
 drugtrials;50
 druguse;30
@@ -6457,6 +6467,8 @@ ebill;30
 ebills;30
 ebonite;30;Hard rubber
 ebow;30
+ecard;30
+ecards;30
 ecash;30
 ecce;30
 echeck;30
@@ -6781,9 +6793,7 @@ emoji;60
 emojis;60
 emoney;30
 emono;25
-emoticon;50
 emoticon;60
-emoticons;50
 emoticons;60
 emotionaloutlet;60
 emp;40
@@ -7102,7 +7112,7 @@ eructed;5
 eructing;5
 eructs;5
 esa;40
-esai;30
+esai;40
 esais;25
 esau;30;Son of Isaac, Jacob's older twin
 esc;40
@@ -7124,6 +7134,7 @@ escarping;30
 escarpment;30
 escarpments;30
 escarps;30
+esce;25
 escheat;25
 escheator;25
 escher;50
@@ -7242,6 +7253,7 @@ ethnics;5
 ethno;30
 ethnos;30
 ethoses;30
+etic;25
 etienne;30
 etiolate;30;Deprive of light, as a plant
 etiolated;30;Deprived of light, as a plant
@@ -7289,7 +7301,7 @@ eutaw;25
 euterpe;30;Muse of music
 eutheria;25;Mammal group
 eutherian;25;Type of mammal
-evac;30
+evac;40
 evacuant;30
 evacuants;30
 evacuationplan;50
@@ -10123,6 +10135,7 @@ hypotenuse;50
 hyssop;25;Shrub
 hyssops;25;Shrubs
 i;50
+iact;25
 ialone;51;First person singular
 iandj;25
 ians;30
@@ -10185,6 +10198,8 @@ iceskatingrinks;50
 icetea;25
 ichat;30
 ichneumon;30;???
+ichnite;30;Fossilized footprint
+ichnites;30
 ichthyoid;30;???
 ici;40
 icietla;25;Here and there: Fr.
@@ -10802,6 +10817,8 @@ ioc;40
 iocane;60
 iodate;25;Iodine molecule
 iodates;25;Iodine molecules
+iode;25
+iola;25
 iommi;50
 ion;51;Roaming charge?
 ione;30;Actress Ione Skye
@@ -10959,6 +10976,7 @@ isntsure;50
 isogon;30;Polygon having all angles equal
 isogonic;30
 isolable;30
+isolato;30;Outcast
 isolda;25;Not Tristan's love, it's rarely spelled that way
 isotone;25;Certain atom
 isotones;25;Certain atoms
@@ -10991,7 +11009,7 @@ isthmi;30
 istle;30;Fiber
 istles;30
 isto;30
-istoo;30;Playground retort
+istoo;40;Playground retort
 istria;30;Peninsula shared by Croatia, Slovenia, and Italy
 ists;30
 isuspect;30
@@ -11099,6 +11117,7 @@ itsyourluckyday;60
 itt;40
 itta;25
 ittt;1
+iturbi;30;Pianist Jose Iturbi
 itwasadaylikeanyother;60
 itwasalljustadream;60
 itwasi;30
@@ -12772,6 +12791,7 @@ maidenaunt;50
 maidens;50
 maidofhonor;50
 maidsofhonor;50
+maier;30;Skier Hermann Maier
 maigre;25;Day on which the eating of flesh is forbidden by the Roman Catholic Church
 maigret;30;Inspector Maigret, detective
 mailedto;30
@@ -13439,6 +13459,7 @@ milker;30
 milkers;30
 milkpunch;50
 millage;50
+millais;30;Artist
 millardfillmore;50
 millionthsplace;30
 milometer;30;???
@@ -13956,10 +13977,10 @@ mummy;51;Remains under wraps?
 munchlax;50;Pokeyman
 muni;30
 munis;30
-muon;30;Subatomic particle
+muon;40;Subatomic particle
 muonneutrino;50
 muonneutrinos;50
-muons;30;Subatomic particles
+muons;40;Subatomic particles
 muppet;60
 muppetbabies;60
 muppetmovie;60
@@ -14984,9 +15005,11 @@ odalisque;30
 odamae;30;Whoopi in "Ghost"
 odawa;25;Ottawa
 oday;30;Jazz vocalist Anita
+oddball;60
 oddjob;60
 oddjobs;60
 oddmenout;50
+oddsare;60
 oddsfor;25
 oddsmaker;50
 oddsmakers;50
@@ -15014,6 +15037,7 @@ odon;5
 odonata;25;Dragonfly genus
 odonto;30;Dental prefix
 odor;50;Air offensive?
+odorama;60
 odorant;30
 odorants;30
 ods;5
@@ -15655,8 +15679,8 @@ ornurses;30
 oro;40
 orogenies;25
 orogeny;25
-oroide;30;Fake gold
-oroides;30;Fake gold alloys
+oroide;25;Fake gold
+oroides;25;Fake gold alloys
 orontes;25;Syrian river
 orontes;30;???
 oronym;30;I scream for ice cream, for example
@@ -16128,12 +16152,14 @@ pastiche;50
 pastiches;50
 pastonesbedtime;60
 pastorate;30
+pate;50
 paten;30;Plate used to carry bread during Mass
 patens;30
 patentattorney;50
 patentattorneys;50
 pater;30;Latin father
 paters;30
+pates;40
 patisserie;50
 patissier;50
 patissiers;50
@@ -16216,8 +16242,8 @@ pcmagazine;30
 pcp;40
 pcs;40
 pcts;30
-pcuser;30
-pcusers;30
+pcuser;40
+pcusers;40
 pcworld;50
 pda;40
 pdas;30
@@ -16566,6 +16592,7 @@ pinera;30;Chilean president Sebastián Pinera
 pinero;30
 piners;30
 pinesfor;30
+piney;40
 pinier;30
 piniest;30
 piningfor;30
@@ -16583,8 +16610,8 @@ pinniped;30;Seal, scientifically
 pinnipeds;30;Seals, scientifically
 pinnule;30;Part of a fern leaf
 pinotnoir;50
-pion;30;Subatomic particle
-pions;30;Subatomic particles
+pion;40;Subatomic particle
+pions;40;Subatomic particles
 pipal;25;Bo tree
 pipaltree;50
 pipaltrees;50
@@ -16999,10 +17026,10 @@ poufs;30;Ottomans
 poult;30;Young fowl
 poults;30
 pounddogs;50
-pourer;30
-pourers;30
-pouter;30
-pouters;30
+pourer;40
+pourers;40
+pouter;40
+pouters;40
 pov;50
 powderpuffgirls;60
 powerade;50
@@ -17423,9 +17450,14 @@ qat;40
 qbcontroversies;30
 qbs;40
 qbs;41;Ones who make snap decisions, briefly?
+qed;40
+qid;25
 qing;30
+qir;25
+qis;25
 qrcode;60
 qrcodes;60
+qrs;25
 qrst;25
 qrstu;25
 qtr;40
@@ -17440,6 +17472,7 @@ qualityoflife;51;"Terminal illness strains ___" (Arizona Republic)
 quarterback;61;One who makes snap decisions?
 quarterbacks;61;Ones who makes snap decisions?
 quayage;30;Wharf fee
+que;40
 queene;25
 queenofjazz;60
 queers;5
@@ -17458,6 +17491,7 @@ quires;30
 quiteso;60
 quitesure;50
 quoi;30
+qvc;40
 qwave;30;Heart wave measured in an ECG
 qxquv;1
 r;1
@@ -18750,7 +18784,7 @@ rorem;30;Composer Ned Rorem
 roscoelee;30;1970s actor Roscoe Lee Browne
 rose;51;Garden variety
 rose;51;Garden variety?
-roseate;30
+roseate;40
 rosecolored;60
 rosecut;50
 rosemadder;60
@@ -18791,8 +18825,8 @@ roughdraft;50
 roughdrafts;50
 roughit;60
 roundtheseparts;60
-rouser;30;Rabble ___
-rousers;30
+rouser;40;Rabble ___
+rousers;40
 rousingsuccess;60
 rouster;30
 rousters;30
@@ -20490,6 +20524,7 @@ slashermovie;60
 slashermovies;60
 slashers;50
 slaters;30;???
+slatey;30;Crazy: Irish
 slatings;25
 slaty;30;Dark gray
 slaver;30
@@ -21159,6 +21194,7 @@ spooner;50
 sportcoupe;50
 sportcoupes;50
 sportive;30
+sporto;30
 sporto;30;???
 sportsanthem;50
 sportsanthems;50
@@ -21232,7 +21268,7 @@ ssri;30
 ssris;30
 ssrs;25
 ssrs;25;United states, once: Abbr.
-sss;40;Selective Service System
+sss;30;Selective Service System
 sstar;25
 sstars;25
 ssw;25
@@ -21613,11 +21649,12 @@ stolider;30
 stolidest;30
 stolon;25;Plant part
 stolons;25;Plant parts
-stoma;30
+stoma;30;Leaf pore
 stomacher;30
 stomachic;30
 stomachy;30
 stomal;30
+stomata;30;Leaf pores
 stompingground;60
 stompinggrounds;60
 stonechat;30;Small bird
@@ -21760,7 +21797,7 @@ struma;25
 struma;25;Disease, river, ship
 strumae;25
 strutting;51;Model behavior?
-sts;40
+sts;30
 sttc;25
 sttng;25
 stuckonesnosein;60
@@ -22336,7 +22373,8 @@ tauten;30
 tautened;30
 tautening;30
 tautens;30
-tauter;30
+tauter;40
+tautest;40
 tautonym;30;Scientific name in which the same word is used for both genus and species
 tautonyms;30;Scientific names in which the same word is used for both genus and species
 tawdry;60
@@ -24073,6 +24111,7 @@ unionsuits;50
 uniped;30
 unipeds;30
 unis;30
+unisys;40
 unitard;50
 unitards;50
 unitedstates;60
@@ -24292,7 +24331,7 @@ ussarizona;30
 usscole;50
 ussconstitution;50
 ussecretservice;30
-ussenate;30
+ussenate;40
 ussenator;30
 ussenators;30
 ussenterprise;50
@@ -24315,11 +24354,11 @@ usstate;30
 usstates;30
 usstrike;30
 usstrikes;30
-ussupremecourt;30
+ussupremecourt;40
 usswasp;30
 usten;30
 usterr;30
-ustreasury;50
+ustreasury;40
 usvisa;30
 uswnt;25
 uta;25;Actress Hagen
@@ -24354,8 +24393,8 @@ v;1
 vac;40
 vai;50
 vaio;30
-validid;50
-validids;50
+validid;25
+validids;25
 valse;30
 valueat;30
 valuedat;50
