@@ -62,6 +62,7 @@ abbe;25
 abbi;30;Comedian Abbi Jacobson
 abbr;40
 abbrs;30
+abc;50
 abcd;25
 abcdaytimehosts;25
 abcde;25
@@ -909,6 +910,7 @@ alyssums;25;Flowers
 am;50
 ama;40
 amahl;30;"___ and the Night Visitors"
+amajor;40
 amal;30;Mrs. Clooney
 amana;30;Kitchen brand
 amanapart;50
@@ -985,7 +987,9 @@ amilli;50;Lil Wayne hit
 amilne;1
 amin;5
 amines;25;Chemicals
+aminor;40
 aminos;30
+aminus;40
 amion;25
 amis;30
 amities;30
@@ -1242,6 +1246,7 @@ apl;25
 aplasia;30;Missing organ or limb birth defect
 aplatin;30
 aplit;30
+aplus;40
 apmacro;30
 apneas;30
 apogeal;30
@@ -2894,7 +2899,10 @@ bluntwords;61;Plain tiff?
 blush;51;A thing of beauty
 blushful;30
 blvd;30
+bmajor;40
 bmi;40
+bminor;40
+bminus;40
 bmoc;30
 bmovie;60
 bmovies;60
@@ -3099,6 +3107,7 @@ boyschoir;50
 boyschoirs;50
 bozo;50
 bozos;50
+bplus;40
 bracero;30
 braceros;30
 bracketologist;60
@@ -3276,7 +3285,7 @@ buildsafire;50
 builtafire;50
 bulbasaur;50;Pokeyman
 bulimia;30
-bull;51;Jersey boy?
+bull;50;Jersey boy? [used for Er, I See]
 bullgun;50
 bullguns;50
 bullhockey;60
@@ -3286,7 +3295,7 @@ bullpen;51;Stock yard?
 bullpens;51;Stock holders?
 bullpens;51;Stock rooms?
 bullpens;51;Stock yards?
-bulls;51;Jersey boys?
+bulls;50;Jersey boys? [used for Er, I See]
 bumaride;50
 bumble;51;Where to play with matches?
 bummedaride;50
@@ -3593,7 +3602,9 @@ capt;30
 captaineo;30
 carads;50
 caravaned;30
+carbomb;5
 carbomb;50
+carbombs;5
 carbombs;50
 carbonaroeffect;50
 carboncapture;60
@@ -3824,6 +3835,7 @@ cbgb;25;NYC punk and new wave club
 cbhandle;50
 cbhandles;50
 cbradio;50
+cbs;50
 cbstv;30
 ccc;25
 ccci;25
@@ -4307,6 +4319,7 @@ closelooks;50
 closeon;30
 closeson;30
 closetalker;61;Space invader?
+closetalkers;61;Space invaders?
 closetorganizer;50
 closingon;30
 clothesdesigner;30
@@ -4336,11 +4349,14 @@ clxvi;25
 clxxv;25
 clym;25
 cma;40
+cmajor;40
 cmas;40
 cmdr;25
 cmi;25
 cmii;25
 cmiii;25
+cminor;40
+cminus;40
 cmiv;25
 cmix;25
 cmli;25
@@ -4846,6 +4862,7 @@ cozens;30
 cpa;40
 cpas;40
 cpl;40
+cplus;40
 cpr;40
 cpu;50
 cpus;50
@@ -5159,6 +5176,7 @@ dabbedon;30
 dabbingat;40
 dabbingon;30
 dabhand;30
+dabney;30;Actor Dabney Coleman
 dabo;30;Actress Olivia
 dabomb;60
 dabon;30
@@ -5491,7 +5509,7 @@ defrayal;30
 defrayals;30
 defriend;50
 defriended;50
-defs;30
+defs;40
 deg;40
 degs;30
 dehisce;25;Burst open, as a pod
@@ -5529,6 +5547,7 @@ deloreans;60
 delorme;25
 delpotro;25;Retired unremarkable tennis player
 dels;30
+delt;40
 deltapi;25
 deltawing;50
 dem;40
@@ -5903,8 +5922,11 @@ dlr;25
 dlv;25
 dlvi;25
 dlx;25
+dmajor;40
 dmed;30
 dming;30
+dminor;40
+dminus;40
 dmitrimendeleev;50
 dmitris;30
 dmitrishostakovich;50
@@ -6198,6 +6220,7 @@ dotherightthing;60
 dotier;30
 dotiest;30
 dotime;50
+dotnet;40
 doto;30
 dotoat;50
 dotoatee;50
@@ -6237,6 +6260,7 @@ dozer;50
 dozers;50
 dpi;40
 dpl;25
+dplus;40
 dqed;30
 dqs;40
 drachmae;30
@@ -6387,9 +6411,10 @@ drumout;30
 drumset;50
 drumsets;50
 drumsout;30
-drunkard;30
-drunkards;30
+drunkard;5
+drunkards;5
 drunkhistory;60
+drunks;5
 drunktalk;61;Loaded questions?
 dryarea;1
 dryasabone;60
@@ -6717,6 +6742,8 @@ eeled;25
 eeler;25
 eelers;25
 eelery;25
+eelier;30
+eeliest;30
 eeling;25
 eellike;30
 eelpie;30
@@ -6862,7 +6889,7 @@ elem;30
 elenas;30
 elephantssnacks;1
 elerian;30
-eless;30
+eless;25
 elev;30
 eleve;25;Student: Fr.
 elevenam;30
@@ -6933,6 +6960,7 @@ emagazines;30
 emailattachment;50
 emailme;50
 emailsignatures;50
+emajor;40
 emanuelax;50;Classical pianist
 embank;30
 embanked;30
@@ -6959,6 +6987,7 @@ emhoff;30;Second gentleman Doug (Kamala Harris's husband)
 emi;40
 emil;30;Jannings, Gilels
 emilys;30
+eminor;40
 emk;25;Ted Kennedy monogram
 emme;30
 emmental;30;Cheese
@@ -7219,6 +7248,7 @@ epodes;30;Poetic forms
 epomy;1
 epopee;25;Epic poem
 epopees;25;Epic poems
+epping;30;Epping Forest
 eprint;30
 eps;40
 eqs;40
@@ -7509,6 +7539,7 @@ evangels;30
 evel;30
 evels;25
 evenfall;50;Dusk, literarily
+evers;40
 evertor;30
 everyonemakesmistakes;60;"'___' says teen who karate-kicked 74-year-old man into River Mersey" (Manchester Evening News)
 everythingeverywhereallatonce;60
@@ -8177,7 +8208,9 @@ flyintheface;25
 flyopen;50
 flythecoop;60
 flyto;40
+fmajor;40
 fmdial;30
+fminor;40
 fmri;30
 fmstation;50
 fmstations;50
@@ -8391,6 +8424,8 @@ fundraiser;50
 fundraisers;50
 fundraising;50
 fundraisingdrive;50
+funhouse;60
+funhouses;60
 funrun;60
 funruns;60
 funsies;60
@@ -8751,9 +8786,9 @@ giantkitekit;60;Acme invention
 giantmousetrap;60;Acme invention
 giantrubberband;60;Acme invention
 gide;30;French novelist Andre
-gif;40
-giffile;30;Image
-gifs;30
+gif;50
+giffile;40;Image
+gifs;50
 giga;30
 gigue;30;Lively baroque dance
 gigues;30;Lively baroque dance
@@ -8859,10 +8894,12 @@ gluons;40
 glutelin;30;Wheat protein
 glutenin;30;Wheat protein
 gma;40
+gmajor;40
 gman;30
 gmat;40
 gmcs;30
 gmen;30
+gminor;40
 gmo;40
 gmofoods;50
 gmofree;50
@@ -9878,6 +9915,7 @@ hereof;30
 herestomanymore;60
 hereto;30
 heretostay;60
+hereweare;60
 heritor;30
 heritors;30
 hermana;30
@@ -10645,6 +10683,7 @@ ilhan;50
 ilhanomar;60
 ilia;30;Pelvic bones
 iliac;30;Hip-related
+iliads;30
 ilich;30;Carlos the Jackal
 ilium;30;Pelvis bone
 illatease;50
@@ -11923,6 +11962,7 @@ koed;40
 kofiannan;50
 koipond;50
 koiponds;50
+koko;40
 kola;40
 kolas;40;Caffeinated nuts
 koln;31;Cologne to Europeans
@@ -11999,15 +12039,23 @@ labtech;50
 labwork;50
 lacan;25;Psychoanalyst Jacques
 lace;50;Tie up loose ends
+lace;51;Tie up in knots?
+lace;51;Tie up loose ends?
 laced;50;Tied up loose ends
+laced;51;Tied up in knots?
+laced;51;Tied up loose ends?
 lacedoilies;50
 lacedoily;50
 lacerta;30;Lizard constellation
 lacertilia;25;Lizard genus
 laces;50;Ties up loose ends
+laces;51;Ties up in knots?
+laces;51;Ties up loose ends?
 lachesis;30
 lachlan;30;???
 lacing;50;Tying up loose ends
+lacing;51;Tying up in knots?
+lacing;51;Tying up loose ends?
 laciniate;25
 lackey;50
 lackeys;50
@@ -12136,8 +12184,8 @@ las;40
 lascar;25;Indian sailor
 lascars;25;Indian sailors
 lascrucesnm;25
-lase;51;Have some light work done?
-lased;51;Had some light work done?
+lase;50;Have some light work done? [used in Jack o' Lantern]
+lased;50;Had some light work done? [used in Jack o' Lantern]
 lasercut;50
 lasercuts;50
 lasercutter;50
@@ -12147,7 +12195,7 @@ laserdisc;50
 laserdiscs;50
 laserfocus;60
 laserfocused;60
-lases;51;Has some light work done?
+lases;50;Has some light work done? [used in Jack o' Lantern]
 laso;25
 lasses;50
 lassi;40;Indian drink
@@ -12626,7 +12674,7 @@ linnet;30
 linnets;30
 lino;30
 linton;30;???
-linty;40
+linty;30
 lionelmessi;60
 lionsdens;50
 lionsgate;50
@@ -13328,7 +13376,7 @@ manuallaborer;50
 manuallaborers;50
 manubrium;30
 manure;51;Flies home?
-mao;50
+mao;40
 maoii;30;Don DeLillo novel
 maosuit;40
 maosuits;40
@@ -14107,6 +14155,7 @@ mollies;25
 molls;50
 molter;30
 moltobene;50
+mom;51;Awkward thing to call your teacher
 momandpop;60
 momenta;30
 momently;30
@@ -14300,6 +14349,8 @@ mre;30
 mres;30
 mrfreeze;60
 mrgates;1
+mri;50
+mris;50
 mristudies;50
 mristudy;50
 mrlee;30;From Bobbettes song "I Shot Mr. Lee"
@@ -14320,7 +14371,7 @@ msecs;30
 msg;40
 msn;40
 msquad;30;Old TV show
-msrp;40
+msrp;50
 mst;40
 mstar;25
 mstars;25
@@ -14329,6 +14380,7 @@ mthatha;30;South Africa city formerly known as Umtata where Nelson Mandela comes
 mtossa;30;Unnotable Greek mountain
 mtst;25
 mtu;25
+mtv;50
 mtwtf;30
 muchtomychagrin;60
 mudcat;50
@@ -14583,6 +14635,7 @@ nbarings;50
 nbastar;50
 nbastars;50
 nbasummerleague;50
+nbc;50
 nbcsports;50
 nbctv;30
 nbd;40;Texter's "It's fine"
@@ -14708,6 +14761,7 @@ nervewracking;60
 nes;25
 nescience;40
 nescient;40
+ness;40
 nesses;25
 nest;51;Flying home?
 nestedin;40
@@ -14903,8 +14957,8 @@ ninjastars;60
 ninjaturtle;60
 ninjaturtles;60
 ninjawarrior;60
-nino;50
-ninos;30
+nino;40
+ninos;40
 nintendo;50
 nintendogameboy;50
 nintendogameboys;50
@@ -15377,6 +15431,7 @@ obote;30;President of Uganda
 obovate;25;Egg-shaped
 obscener;30
 obscenest;40
+obsolesce;40
 obstruent;30
 obv;40
 obvert;30
@@ -16252,6 +16307,8 @@ outfielder;51;Ballpark figure?
 outfielders;51;Ballpark figures?
 outfit;50
 outfits;50
+outhouse;60
+outhouses;60
 outlast;50
 outlasted;50
 outlasting;50
@@ -16308,6 +16365,7 @@ overinflation;50
 overman;30
 overnightbags;50
 overperforming;50
+overs;25
 oversaw;50
 oversee;50
 overseeing;50
@@ -16702,6 +16760,7 @@ pearljam;60
 pearse;25;Irish activist
 pease;30;Type of porridge
 peasecod;25;Pea pod, archaic
+pec;40
 peccaries;30;Skunk pigs
 peccary;30;Skunk pig
 peccavi;25;Expression of guilt
@@ -17835,7 +17894,6 @@ purlie;25;Musical
 purpledye;25;Green paint, right???
 purpledyes;25
 purplerain;61;Prince's subject?
-purse;51;Phone home, maybe?
 push;50
 push;51;Contractual obligation?
 pushstart;50
@@ -19176,7 +19234,7 @@ robroys;30;Scottish cocktails
 robs;50;Takes the wrong way? [used in Roughly Speaking]
 robs;51;Takes things, literally
 robsof;40
-roc;50
+roc;40
 roche;30;Pharmaceutical company
 rock;50;Garden variety? [used in Assume Ownership]
 rocketpoweredrollerskates;60;Acme invention
@@ -19184,7 +19242,7 @@ rockfall;60
 rockfan;30
 rockfans;30
 rococos;30
-rocs;50
+rocs;40
 rodeaway;30
 rodeobull;50
 rodeobulls;50
@@ -19365,6 +19423,7 @@ royalmint;50
 roybean;50
 roycohn;30;Joseph McCarthy's chief counsel
 royko;30;1970s journalist Mike Royko
+roz;40
 rpg;40
 rpgs;40
 rph;25
@@ -21514,6 +21573,7 @@ sorrynorefund;25
 sorrynorefunds;60
 sorrysort;60
 sorrystate;60
+sorrytobotheryou;60
 sortied;30
 sortieing;30
 sos;50
@@ -21805,7 +21865,7 @@ squints;51;Looks not so well?
 squire;60
 squirtle;50;Pokeyman
 sra;40
-sras;30
+sras;40
 sri;40
 srirocco;30;Hot African wind
 sriroccos;30;Hot African winds
@@ -22070,12 +22130,12 @@ steelyard;50
 steelyards;50
 steen;30;Painter Jan Steen
 steens;25
-steer;51;Jersey boy?
+steer;50;Jersey boy? [used for Er, I See]
 steerable;30
 steerclear;50
 steeredto;40
 steeringto;40
-steers;51;Jersey boys?
+steers;50;Jersey boys? [used for Er, I See]
 steersto;40
 steerto;40
 steeves;30
@@ -22925,7 +22985,7 @@ tarrers;30
 tarses;25;ABC president Jamie ___
 tarsi;30;Ankle bones
 tarter;30
-tartt;30;Author Donna of "The Goldfinch"
+tartt;40;Author Donna of "The Goldfinch"
 tartufe;25;Hypocrite
 tartuffe;30;Moliere play
 tartuffes;25;Hypocrites
@@ -23109,6 +23169,7 @@ teeitup;25
 teeline;30
 teemer;30
 teemers;30
+teena;40
 teener;30;Teenager, or drug slang
 teeners;30;Teenagers, or drug slang
 teenidol;60
@@ -23900,12 +23961,12 @@ toadying;30
 toadyingto;30
 toadyto;30
 toarms;40;Battle cry
-toast;51;Lift one's spirits?
-toasted;51;Lifted one's spirits?
-toasting;51;Lifting one's spirits?
+toast;50;Lift one's spirits? [used in Jack o' Lantern]
+toasted;50;Lifted one's spirits? [used in Jack o' Lantern]
+toasting;50;Lifting one's spirits? [used in Jack o' Lantern]
 toastmistress;50
 toastmistresses;50
-toasts;51;Lifts one's spirits?
+toasts;50;Lifts one's spirits? [used in Jack o' Lantern]
 toaturn;30
 tobacco;51;Leaves for a smoke?
 tobacco;51;Leaves out to dry?
@@ -23957,6 +24018,7 @@ toldyou;60
 tolease;50
 toledooh;25
 toledoohio;30
+tolet;30
 tolle;30;Self-help author Eckhart Tolle
 tollman;40
 tollmen;40
@@ -24291,6 +24353,7 @@ trepans;30;Skull saws
 trephine;25;Surgical saw
 tres;30
 tresjolie;50
+tress;40
 tresse;30
 tressy;30
 trex;60
@@ -24714,6 +24777,7 @@ undamaged;51;Never worn?
 underboob;60
 undercard;50
 undercards;50
+unders;25
 understudy;61;Star pupil
 underthewire;60
 undimmed;30
@@ -25068,7 +25132,7 @@ vanitycard;50
 vanitycards;50
 vaporizer;50
 vaporizers;50
-var;40
+var;30
 varanasi;30;Spiritual capital of India
 varese;25;Musician or Italian city
 varig;25;Brazilian airline
@@ -25160,7 +25224,7 @@ vigny;25;Alfred de ___
 vii;25
 viii;25
 vinca;25;Periwinkle genus
-vinci;30
+vinci;40
 vintageclothing;50
 vinton;30;???
 viol;30
@@ -26041,6 +26105,7 @@ yerevan;25;Capital of Armenia
 yers;30
 yesandno;60
 yeslets;50
+yesm;40
 yesmaster;50
 yesmom;60
 yesreally;60
