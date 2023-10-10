@@ -776,6 +776,8 @@ alinement;30
 alioth;25;Big Dipper star
 aliquant;30;Math term
 alist;50
+alist;51;Star catalog?
+alist;51;Where Tom Cruise has lived for 40 years
 alister;50
 alisters;50
 alit;30
@@ -3603,9 +3605,7 @@ captaineo;30
 carads;50
 caravaned;30
 carbomb;5
-carbomb;50
 carbombs;5
-carbombs;50
 carbonaroeffect;50
 carboncapture;60
 carcinoma;30
@@ -4202,6 +4202,8 @@ cigarette;50
 cigarette;51;Con currency?
 cigarettes;50
 cigarettes;51;Con currency?
+ciggies;40
+ciggy;40
 cii;25
 ciii;25
 cilantro;60
@@ -8312,6 +8314,7 @@ fouryearcollege;50
 foxcub;50
 foxcubs;50
 foy;40;Various
+foyt;30;Indy winner A. J. Foyt
 fpaper;1
 fps;40
 fra;40;Monk's title
@@ -8490,6 +8493,7 @@ gallinules;30
 gallopade;25;Galop dance
 galop;25;French dance
 galops;25
+galosh;30
 galt;30
 gam;40
 gamal;30;President Nasser of Egypt
@@ -8567,6 +8571,8 @@ gaspers;30
 gasrates;50
 gasspring;30
 gassprings;30
+gastap;30
+gastaps;30
 gastly;50;Pokeyman
 gat;40
 gateleg;30
@@ -10778,6 +10784,8 @@ immies;25;Marbles
 immortalities;30
 imnoangel;60
 imnotdead;60
+imnotgoingtoreadallthat;60
+imnotgonnareadallthat;60
 imnotyourmother;60
 imo;40
 imoff;60
@@ -10825,6 +10833,9 @@ imscrewed;60
 imserious;60
 imsobored;60
 imsoold;60
+imsorryifiupsetyou;60
+imsorrythathappened;60
+imsorryyouremad;60
 imsure;50
 imtired;50
 imtoo;25
@@ -12503,6 +12514,7 @@ letlive;50
 letmego;60
 letmein;60
 letmeseethat;60
+letnaturerunitscourse;60
 letsat;40
 letsbe;50
 letsbehonest;60
@@ -12866,6 +12878,7 @@ loper;30
 lopers;30
 loquat;30;Plum
 loquats;30
+lorain;25;Ohio city
 loran;25;Ship navigation system
 lorange;25;Not well known hip hop producer
 lorans;25;Ship navigation systems
@@ -13484,6 +13497,7 @@ mathew;25;Dunno if anyone notable
 mathteam;50
 matin;30;Morning prayer, or "morning" in French
 matinal;25;Relating to the morning
+matins;30;Early morning Christian prayer
 matless;30
 matricide;60
 matsui;50;Yankee Hideki, World Series MVP
@@ -13560,6 +13574,7 @@ mcdx;25
 mced;30
 mcelhenney;60
 mcescher;60
+mcewan;40;Ian McEwan, author of "Atonement"
 mcg;30
 mci;40
 mcii;25
@@ -15784,6 +15799,7 @@ oneacat;25;Old ball game
 oneacre;30
 oneall;30
 onealltie;30
+oneals;30
 oneam;30
 oneandall;60
 onear;30;Type of headphones
@@ -15892,6 +15908,7 @@ onesugar;30
 oneten;25
 onetime;50
 onetogo;30
+oneton;30
 onetoten;30
 onetotwo;30
 onetwo;30
@@ -17866,6 +17883,8 @@ pullrank;50
 pullsrank;50
 pulserate;50
 pumpediron;50
+pumper;30
+pumpers;30
 pumpfake;60
 pumpfaked;60
 pumpfakes;60
@@ -17928,6 +17947,7 @@ putdownyourpens;60
 putitback;60
 putitback;61;Restoring order?
 putitto;40
+putnam;40
 putonesfingeron;60
 putonto;40
 putouttopasture;60
@@ -18505,8 +18525,16 @@ redthermometers;1
 reducer;30
 reducers;30
 redwine;50
+reearn;30
+reearned;30
+reearning;30
+reearns;30
+reecho;30
+reechoed;30
+reechoes;30
 reedinstrument;50
 reedinstruments;50
+reefed;40
 reefermadness;60
 reefshark;50
 reefsharks;50
@@ -18583,12 +18611,19 @@ rehides;30
 rehiding;30
 rehinge;30
 rehinges;30
+rehoe;30
+rehoed;30
+rehone;30
+rehoned;30
+rehones;30
+rehoning;30
 rei;40
 reice;30
 reiced;30
 reices;30
 reicing;30
 reigate;25;England town
+rein;51;Hold your horses
 reinas;30
 reindoctrinated;50
 reiners;30
@@ -21295,6 +21330,7 @@ snarler;30
 snarlers;30
 snarly;30
 snatching;51;Taking form?
+sneads;30
 snell;30;Fishing line attachment
 snelleneyechart;60
 snells;30;Snell's law of refraction
@@ -21568,12 +21604,14 @@ sorrel;30;Herb
 sorrels;30;Herbs
 sorryfor;40
 sorryforthespam;60
+sorryifiupsetyou;60
 sorrylots;30
 sorrynorefund;25
 sorrynorefunds;60
 sorrysort;60
 sorrystate;60
 sorrytobotheryou;60
+sorryyouremad;60
 sortied;30
 sortieing;30
 sos;50
@@ -23174,8 +23212,10 @@ teener;30;Teenager, or drug slang
 teeners;30;Teenagers, or drug slang
 teenidol;60
 teenidol;61;Minor celebrity?
+teenidol;61;Minor in music?
 teenidols;60
 teenidols;61;Minor celebrities?
+teenidols;61;Minors in music?
 teenpregnancy;50;"Statistics show that ___ drops off significantly after age 25" (Denver Post)
 teentsier;25
 teentsiest;25
@@ -24671,6 +24711,7 @@ ubends;30
 uberize;30
 uberrich;60
 ubid;25;Forgotten auction site
+ubiety;30
 ubolt;40
 ubolts;40
 ucla;40
@@ -25428,6 +25469,8 @@ wast;25
 wastedpotential;60
 wastemanagement;50
 wastrel;30
+watch;51;It's strapped for time
+watches;51;They're strapped for time
 watchyourform;61;Exercise caution?
 waterfiltration;50
 watergate;50
@@ -25670,6 +25713,7 @@ wienerdogracing;60
 wificonnections;50
 wigeon;25;Duck
 wigeons;25;Ducks
+wiggy;40
 wii;40
 wiiitis;25
 wiimini;50
@@ -26177,10 +26221,12 @@ yourenofun;60
 yourenohelp;60
 youreokay;60
 youreon;60
+youretellingmethisnow;60
 yourgrace;50
 yourloss;60
 yourock;60
 yousnoozeyoulose;60
+youtellmethisnow;60
 youtry;50
 youvegottabejoking;60
 youvegottabekiddingme;60
