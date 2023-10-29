@@ -1,0 +1,38 @@
+#!/bin/bash
+#
+# Given two words like `ball` and `chain`, find compound phrases that can have
+# them appended to each respective word, such as `powersupply`.
+
+set -euo pipefail
+
+: ${WORDLIST:=words-only-merged.txt}
+
+main() {
+    local a_words; a_words=($(words-that-come-before "$1"))
+    local b_words; b_words=($(words-that-come-before "$2"))
+
+    [[ -n $1 ]]
+    [[ -n $2 ]]
+
+    local options=()
+    for a in "${a_words[@]}"; do
+        for b in "${b_words[@]}"; do
+            [[ $a == $2 || $b == $1 ]] && continue
+            options+=(-e "$a$b")
+        done
+    done
+
+    for ((i = 0; i < ${#options[@]}; i += 1000)); do
+        grep -w "${options[@]:i:1000}" "$WORDLIST" || :
+    done |
+        awk '{print length, $0}' |
+        sort -n |
+        awk '{print $2}'
+}
+
+words-that-come-before() {
+    local suffix="$1"
+    grep -E "${suffix}\$" "$WORDLIST" | sed -r "s/${suffix}\$//" | sort -u | awk 'length>=3'
+}
+
+main "$@"
