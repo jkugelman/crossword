@@ -1302,6 +1302,7 @@ anumber;25
 anumberofoccasions;50
 anvils;51;Hearing things?
 anydaynow;50
+anydayoftheweek;50
 anyguess;50
 anyhoo;60
 anyideas;60
@@ -3093,10 +3094,13 @@ bitesat;40
 bitesdown;50
 bitesinto;40
 bitesonesheadoff;60
+bitesthedust;60
+bitethedust;60
 bitingat;40
 bitingdown;50
 bitinginto;40
 bitingonesheadoff;60
+bitingthedust;60
 bitinto;40
 bitit;50
 bitofacharacter;60
@@ -3108,6 +3112,7 @@ bitrole;50
 bitroles;50
 bitte;30
 bitted;30
+bitthedust;60
 bitting;30
 bitumen;30;Asphalt
 bitumens;30;Asphalt ingredients
@@ -5428,6 +5433,8 @@ cpas;40
 cpl;40
 cplus;40
 cpr;40
+cprtrainer;50
+cprtrainers;50
 cpu;50
 cpus;50
 crabball;50
@@ -8110,6 +8117,8 @@ episodev;30
 episodevi;30
 episodevii;30
 epistaxis;30;Nosebleed, medically
+epistler;40
+epistlers;40
 epizoa;30;???
 epizootic;30;???
 epluribusunum;61;Quarter note
@@ -8226,7 +8235,7 @@ escaper;30
 escapers;30
 escapes;50;Avoids the spotlight, maybe? [used in Assume Ownership and Roughly Speaking]
 escaping;50;Avoiding the spotlight, maybe? [used in Assume Ownership and Roughly Speaking]
-escargots;30
+escargots;40;Valid plural
 escarp;30
 escarped;30
 escarping;30
@@ -13475,6 +13484,7 @@ koreanspas;50
 korra;50;Aang's successor on Avatar, lead character of The Legend of Korra
 koruna;30;Czech currency
 kos;40
+kos;41;Feats of Clay? (Abbr.)
 koshermeal;50
 koshermeals;50
 koss;30;Headphones company
@@ -17188,7 +17198,7 @@ nstar;25
 nstars;25
 nter;1
 ntro;25
-ntsb;30
+ntsb;40
 nubber;30;Weakly hit baseball
 nubble;30;Small lump
 nubbles;30;Small lump
@@ -17879,6 +17889,7 @@ onlinepetitions;60
 onloanto;40
 onlow;40
 onlya;25
+onlytoo;25
 onnotice;60
 ono;40
 ononeknee;50
@@ -18580,6 +18591,8 @@ paparazzi;61;Stargazers?
 paparazzo;61;Stargazer?
 papaw;40
 papeete;25;Capital of French Polynesia
+paperchain;50
+paperchains;50
 paperchaser;50
 paperorplastic;60
 paperorplastic;61;Checkout line?
@@ -19508,6 +19521,7 @@ polevaulter;50
 polevaulters;50
 polevaulting;50
 polevaults;50
+policechief;61;Copper head?
 policewomen;50
 polios;25
 politico;50
@@ -22839,7 +22853,8 @@ segwaytour;50
 segwaytours;50
 seigniories;25
 seigniory;25;Power of a feudal lord
-seinenet;30
+seinenet;40
+seinenets;40
 seiner;25
 seiners;25
 seis;40
@@ -24261,7 +24276,9 @@ solarcars;30
 solarcell;50
 solarcells;50
 solarfarm;50
-solarpanel;50
+solarpanel;60
+solarpanels;60
+solarplexus;60
 solarroad;50
 solarroads;50
 solarsail;50
@@ -25269,7 +25286,7 @@ strangeordeal;60
 strangs;25;Rare last name plural
 stratagem;60;Cool word???
 stratagems;60
-stratas;30
+stratas;25
 strathspey;30;???
 strathspeys;30;???
 strati;30
@@ -26121,6 +26138,7 @@ teabricks;50
 teach;51;Cover letters, e.g.?
 teachablemoment;60
 teachablemoments;60
+teachersass;61;Bottom of the class?
 teacherslounges;50
 teachest;50
 teachests;50
@@ -26487,6 +26505,7 @@ thearea;30
 thearia;30
 thearmy;30
 theart;25
+theas;40;The Athletics
 theasp;30;Daddy Warbucks's bodyguard
 theasteroidbelt;50
 theaterdirector;30
@@ -26659,6 +26678,7 @@ theoldheaveho;60
 theolheaveho;60
 theopen;1
 theopenera;25
+theos;40;The Orioles
 theoscars;30
 thepacers;30
 thepack;30
@@ -27066,8 +27086,10 @@ titularly;30
 tix;40
 tjhooker;50;Shatner police drama
 tko;40
-tkod;30
-tkos;30
+tko;41;Feat of Clay? (Abbr.)
+tkod;40
+tkos;40
+tkos;41;Feats of Clay? (Abbr.)
 tla;25
 tlaib;50;Congresswoman Rashida Tlaib of "The Squad"
 tlaloc;25;Aztec rain god
@@ -27612,8 +27634,12 @@ troye;30;Singer & YouTuber Troye Sivan
 troyes;30;French commune
 tru;30
 truancies;30
+truckdriver;51;Semi conductor?
+truckdrivers;51;Semi conductors?
 truckee;30;???
 truckeeriver;40
+trucker;51;Semi conductor?
+truckers;51;Semi conductors?
 truckie;25;Trucker
 truckies;25;Truckers
 true;51;Kind of blue?
@@ -28866,6 +28892,7 @@ wellfixitinpost;60
 wellfudge;60
 wellletmeseenow;60
 wellletsseenow;60
+wellrested;50
 welltheresyourproblem;60
 wemadeit;60
 wences;30;Ventriloquist
