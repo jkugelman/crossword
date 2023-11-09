@@ -4665,6 +4665,9 @@ chrissquire;60
 christianname;60
 christmaspackagemachine;60;Acme invention
 christmasseason;50
+chromed;40
+chromedome;60
+chromedomes;50
 chromo;40
 chrono;40
 chuckitall;50;Quit
@@ -4723,6 +4726,7 @@ cineration;30
 cinnabon;50
 cinnabons;50
 cinnamontanager;50
+cio;40
 cioppino;50;Italian seafood stew
 cioppino;60
 cir;40
@@ -5965,6 +5969,9 @@ daws;30
 dayan;30
 dayflies;30
 dayfly;30
+daylightsavings;50
+daylightsavingstime;50
+daylightsavingtime;50
 dayne;30;'80s singer Taylor Dayne
 dayofthedead;60
 daysend;50
@@ -6157,6 +6164,12 @@ deets;60
 def;40
 defacer;30
 defacers;30
+defalcate;40;Embezzle
+defalcated;40
+defalcates;40
+defalcating;40
+defalcation;40
+defalcations;40
 defang;50
 defanged;50
 defanging;50
@@ -6198,6 +6211,7 @@ dekalb;30;???
 dekaliter;25
 dekaliters;25
 del;40
+delacorte;40;Central Park theater that hosts Shakespeare in the Park
 delanoroosevelt;1
 delawareriver;50
 delco;30;Battery brand (different from AC Delco???)
@@ -7273,6 +7287,8 @@ dullache;50
 dullaches;50
 duma;40
 dumas;30
+dumbass;60
+dumbasses;60
 dumbdown;61;Counter intelligence?
 dumbquestion;60
 dumontnetwork;30
@@ -10999,6 +11015,7 @@ headusher;50
 headushers;50
 headways;30
 headwriter;50
+healheal;1
 healthfood;50
 healthnut;60
 healthnuts;60
@@ -11045,7 +11062,7 @@ heckno;60
 hectoliter;30
 hecuba;30;Greek queen of myth
 hed;50
-hedda;40;Ibsen play "Hedda Gabler", or '40s gossip columnist Hedda Hopper
+hedda;40;Ibsen play "Hedda Gabler" (highly esteemed), or '40s gossip columnist Hedda Hopper
 hedison;30;???
 heeder;30
 heeders;30
@@ -11710,6 +11727,7 @@ hunter;51;Person with an outside shot?
 hur;30
 hurons;30
 hurricaneseason;50
+hurricaneseasons;50
 hurriedalong;50
 hurriesalong;50
 hurry;50
@@ -16541,6 +16559,7 @@ needair;50
 neededahand;50
 neededair;50
 neededto;40
+needforspeed;60
 needfulthings;60
 needingahand;50
 needingair;50
@@ -19676,6 +19695,8 @@ poppop;50
 poppunk;50
 popspill;30
 popspills;30
+poptart;60
+poptarts;60
 popularizer;50
 popupbook;50
 popupbooks;50
@@ -21190,6 +21211,8 @@ repaste;25
 repasted;25
 repastes;25
 repasting;25
+repealer;40
+repealers;40
 repentedof;40
 repenter;40
 repenters;40
@@ -21745,7 +21768,9 @@ rob;50;Take the wrong way? [used in Roughly Speaking]
 rob;51;Take things, literally
 robbed;50;Took the wrong way? [used in Roughly Speaking]
 robbed;51;Took things, literally
+robbedpetertopaypaul;60
 robbing;51;Taking things, literally
+robbingpetertopaypaul;60
 robertedwardlee;30;???
 robertfripp;60
 robinia;25;Plant genus
@@ -21757,10 +21782,12 @@ robodials;60
 robotaxi;60
 robotaxis;60
 robotry;30
+robpetertopaypaul;60
 robroys;30;Scottish cocktails
 robs;50;Takes the wrong way? [used in Roughly Speaking]
 robs;51;Takes things, literally
 robsof;40
+robspetertopaypaul;60
 roc;40
 rocambole;30;Garlic-like plant
 roche;30;Pharmaceutical company
@@ -22400,7 +22427,7 @@ saponified;30
 saponifies;30
 saponify;30
 saponifying;30
-sapor;40;Flavor
+sapor;40;Taste, flavor
 sapors;40
 sarabande;25;Dance
 sarabands;25;Dances
@@ -24724,8 +24751,11 @@ sprangaleak;50
 spreadem;60
 spreadingout;50
 spreadingrumors;50
+spreadingthegoodword;60
 spreadout;50
 spreadsout;50
+spreadsthegoodword;60
+spreadthegoodword;60
 spreadthin;60
 springaleak;50
 springingaleak;50
@@ -27035,6 +27065,7 @@ tightwad;60
 tightwads;60
 tigon;30
 tigons;30
+tik;25
 tikal;25;Mayan city
 tike;25;Alternate spelling for tyke
 tikitorch;60
@@ -29031,6 +29062,7 @@ whatjusthappened;60
 whatseemstobetheissue;50
 whatsshakinbacon;60
 whatsthat;60
+whatsthegoodword;60
 whatsthemagicword;60
 whatsthewordonthestreet;60
 whatstheworstthatcouldhappen;60
