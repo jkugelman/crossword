@@ -2848,6 +2848,7 @@ bellaswan;50
 belli;25;Celebrity lawyer Melvin
 belljar;60;Sylvia Plath's only novel, with "The"
 bellsareringing;60
+bellthecat;50;Idiom, attempt an impossibly difficult task
 bellybump;60
 bellybumps;60
 bellybuttonlint;50
@@ -3178,6 +3179,7 @@ blenches;30
 blenching;30
 blende;25;Zinc sulfide
 blewakiss;50
+blewonesownhorn;50
 blindblindstudy;1
 blindside;60
 blindsided;60
@@ -3202,10 +3204,15 @@ bloodties;60
 bloodwork;50
 bloviation;50
 blowakiss;50
+blowhisownhorn;50
 blowingakiss;50
+blowingonesownhorn;50
+blowonesownhorn;50
 blowpipe;50
 blowpipes;50
 blowsakiss;50
+blowsonesownhorn;50
+blowyourownhorn;50
 bluebeard;50
 bluebells;50
 blueberries;50
@@ -5095,6 +5102,7 @@ combomeal;50
 combomeals;50
 comeat;40;Attack, threaten
 comebet;50
+comedy;50
 comefor;40
 comefrom;40
 comeinto;40
@@ -8009,6 +8017,7 @@ enplaned;30
 enplanes;30
 enplaning;30
 enravish;30
+enricos;40
 enrol;25;British spelling
 enrolledin;40
 enrollee;30
@@ -11389,6 +11398,7 @@ hobbitvillage;25
 hoc;40
 hocusses;25
 hoda;40;Hoda Kotb, Today Show host
+hodge;30;Hodge-podge, British actress Patricia Hodge (semi-notable), Hodge conjecture (Millennium Prize problem)
 hoecake;30
 hoecakes;30
 hof;40
@@ -12054,6 +12064,7 @@ illgottengain;60
 illgottengains;60
 illini;30;Illinois Fighting Illini, U. of Illinois team
 illiteracy;50;"___ an obstable, study finds" (The Washington Post)
+illleaveyoutoit;60
 illlive;60
 illmannered;50
 illseemyselfout;60
@@ -12214,7 +12225,12 @@ imtoo;25
 imupforit;60
 imupset;30
 imustbedreaming;60
+imustbeoff;60
+imustinsist;60
+imustsay;60
+imwaiting;60
 imwayaheadofyou;60
+imwellaware;60
 in;50
 ina;25
 inaba;25;Japanese province/cat food
@@ -12224,9 +12240,11 @@ inabikini;30
 inabowtie;30
 inacab;25
 inacast;40
+inaidof;40
 inajam;60
 inajiff;60
 inajiffy;60
+inaknot;40
 inalather;50
 inanna;25;Sumerian goddess
 inanuproar;60
@@ -12241,6 +12259,8 @@ inapppurchases;60
 inappreciable;25
 inapproachable;25
 inarabic;30
+inarmor;40
+inashoe;40
 inasimilarvein;60
 inasling;30
 inasnap;60
@@ -13458,10 +13478,15 @@ kneebrace;50
 kneebraces;50
 kneejerk;60
 kneeldown;50
+kneeledon;40
+kneelingon;40
+kneelon;40
+kneelson;40
 kneepain;50
 kneepatch;50
 kneepatches;50
 kneesocks;50
+knelton;40
 knife;51;Chopper
 knifeedge;50
 knifeedges;50
@@ -13661,6 +13686,8 @@ lamode;1
 lan;40
 lanark;30;???
 lanate;30;Covered with fine hair, woolly
+lancelet;30;Small eel-like organism
+lancelets;30
 lancer;40
 lancers;40
 lancia;30;Italian car manufacturer
@@ -16553,7 +16580,6 @@ necropolis;60
 necrose;30
 nedicks;30;Old defunct fast food chain
 neds;30
-needahand;50
 needahand;60
 needair;50
 neededahand;50
@@ -17920,6 +17946,7 @@ onetwothreefour;30
 onevolt;30
 onewatt;30
 onewoman;30
+onewood;40
 onfeed;30
 ongod;50
 onhard;1
@@ -17939,6 +17966,7 @@ onloanto;40
 onlow;40
 onlya;25
 onlytoo;25
+onlyyou;50
 onnotice;60
 ono;40
 ononeknee;50
@@ -18191,6 +18219,10 @@ oriel;25;Bay window
 oriels;25;Bay windows
 orientals;5
 oriente;30
+orienteer;40
+orienteered;40
+orienteering;50
+orienteers;40
 oriflamme;30;Scarlet banner, or rallying idea
 orig;30
 origanum;30;???
@@ -19525,6 +19557,7 @@ podcast;60
 podcasts;60
 podpeople;60
 podperson;60
+poeslaw;60
 poesy;30;Poetry
 poetess;30
 poetical;30
@@ -20482,7 +20515,7 @@ randr;30
 ranfast;30
 ranfor;40
 ranforit;40
-rangabell;50
+rangabell;60
 range;51;Driving home?
 rangel;30;Charles Rangel, founding member of the Congressional Black Caucus
 rangfor;40
@@ -20831,6 +20864,10 @@ recoat;25
 recoated;25
 recoating;25
 recoats;25
+recoiledinfear;50
+recoilinfear;50
+recoilinginfear;50
+recoilsinfear;50
 recomb;25
 recombed;25
 recombing;25
@@ -21296,6 +21333,10 @@ reseen;25
 resees;25
 resemblant;30
 reserpine;30;Blood pressure drug
+reserveatable;50
+reservedatable;50
+reservesatable;50
+reservingatable;50
 resew;25
 resewed;25
 resewn;25
@@ -21681,16 +21722,15 @@ rimose;25;Full of crevices, like a mushroom
 rimy;30
 rina;25;Actress Rina Morelli
 rinderpest;40;Cattle plague, second disease to be declared officially eradicated
-ringabell;50
 ringabell;60
 ringbearer;50
 ringbearers;50
 ringfor;40
-ringingabell;50
+ringingabell;60
 ringingfor;40
 ringos;1
 ringring;50
-ringsabell;50
+ringsabell;60
 ringsfor;40
 ringy;30
 rino;40
@@ -26265,9 +26305,7 @@ tearstrip;50
 tearstrips;50
 teasel;25;Plant
 teasels;25;Plants
-teaserad;50
 teaserad;60
-teaserads;50
 teaserads;60
 teashop;50
 teashops;50
@@ -27360,15 +27398,28 @@ toolers;30
 toolshed;51;Hammer home?
 tooreal;50
 toosoon;60
+tootedonesownhorn;50
+tootedyourownhorn;40
 tooter;30
 tooters;30
+toothisownhorn;50
 tootie;30;"The Facts of Life" character
+tootingonesownhorn;50
+tootingyourownhorn;60
 tootler;30
 tootlers;30
 tootles;60
+tootonesownhorn;50
 tootoo;60
 tootrue;50
+tootshisownhorn;50
+tootsiepop;60
+tootsiepops;60
+tootsieroll;60
+tootsierolls;60
+tootsonesownhorn;50
 toottoottootsie;30
+tootyourownhorn;60
 toowise;25
 top;51;Overdrive?
 topanga;30;Canyon, or "Boy Meets World" character
@@ -28981,10 +29032,12 @@ wellexcusemeprincess;60
 wellexcuuuuseme;60
 wellfixitinpost;60
 wellfudge;60
+wellimwaiting;60
 wellletmeseenow;60
 wellletsseenow;60
 wellrested;50
 welltheresyourproblem;60
+wellwerewaiting;60
 wemadeit;60
 wences;30;Ventriloquist
 wentallin;50
