@@ -8834,6 +8834,8 @@ favela;30;Brazilian slum
 favelas;30;Brazilian slums
 fawn;51;Babe in the woods?
 fawns;51;Babes in the woods?
+fbiagent;61;Someone who may bug you
+fbiagents;61;They may bug you
 fbireport;50
 fbireports;50
 fbispies;25
@@ -11974,6 +11976,7 @@ ifeelsilly;60
 ifes;25
 ifidosaysomyself;60
 ifigured;60
+ifiguredyoudsaythat;60
 ifill;30;Journalist Gwen
 ifimight;60
 ifimust;60
@@ -12029,6 +12032,7 @@ ijssel;25;Branch of the Rhine
 ijustate;60
 ikette;30
 ikillme;60
+iknewyoudsaythat;60
 iknow;60;Han's reply
 iknowiknow;60
 iknowsomeofthesewords;60
@@ -12845,6 +12849,7 @@ itheewed;50
 ithelp;30
 ithelpdesk;30
 ithelpdesks;30
+ithoughtyoudsaythat;60
 ithoughtyouknew;60
 itihat;1
 itina;30
@@ -17001,7 +17006,7 @@ noduh;60
 noear;30
 noem;25;South Dakota governor Kristi Noem
 noentrance;50
-noes;30
+noes;25
 nofair;60
 nofilter;60
 nofunnybusiness;60
@@ -20240,6 +20245,7 @@ putdownyourpens;60
 putitback;60
 putitback;61;Restoring order?
 putitto;40
+putmeincoach;60
 putnam;40
 putonesfingeron;60
 putonto;40
@@ -20864,10 +20870,18 @@ recoat;25
 recoated;25
 recoating;25
 recoats;25
-recoiledinfear;50
-recoilinfear;50
-recoilinginfear;50
-recoilsinfear;50
+recoiledindisgust;60
+recoiledinfear;60
+recoiledinhorror;60
+recoilindisgust;60
+recoilinfear;60
+recoilingindisgust;60
+recoilinginfear;60
+recoilinginhorror;60
+recoilinhorror;60
+recoilsindisgust;60
+recoilsinfear;60
+recoilsinhorror;60
 recomb;25
 recombed;25
 recombing;25
@@ -23032,6 +23046,7 @@ semestersabroad;50
 semestral;30
 semiramis;30;Assyrian legend
 semiretired;50
+semiretirement;50
 semitone;50
 semitones;50
 semolinas;30
@@ -24700,6 +24715,7 @@ spiderwasp;50
 spiderwasps;50
 spiderweb;50
 spiderwebs;50
+spies;51;They may bug you
 spikelet;30
 spikyhair;50
 spile;25;Fit with a spigot
@@ -24811,6 +24827,7 @@ spunayarn;60
 spunhay;30
 spunsilk;50
 spurge;25
+spy;51;Someone who may bug you
 spyfiction;60
 spyfilm;60
 spyfilms;60
@@ -26610,6 +26627,12 @@ thatsthat;60
 thatsthewayitgoes;60
 thatsthewayitis;60
 thatsthewaythecookiecrumbles;60
+thatswhatiexpected;60
+thatswhatifigured;60
+thatswhatimafraidof;60
+thatswhatisuspected;60
+thatswhatithoughtyoudsay;60
+thatswhatiwasafraidof;60
 thatswhatyousoundlike;60
 thatswild;60
 thatwasagoodone;50
@@ -29103,10 +29126,15 @@ whang;40
 whassup;50
 what;50
 whatacard;50
+whatadisaster;60
+whatadisgrace;60
 whatadrag;60
 whatamess;60
 whatareyoudoing;50
+whatareyounuts;60
+whatareyouon;60
 whatareyouupto;50
+whatareyouupto;60
 whatazoo;60;60 is borderline...
 whatcanido;60
 whatchagotthere;60
