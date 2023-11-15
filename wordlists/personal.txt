@@ -2009,6 +2009,7 @@ atnoon;40
 atoast;50
 atob;30
 atole;25;Mexican drink
+atombombproject;50
 atomical;30
 atomicpile;50
 atomicpiles;50
@@ -3981,6 +3982,9 @@ cantstickaround;50
 cantwin;50
 cantyousee;60
 canwe;30
+canyoubeatthat;60
+canyoubelieveit;60
+canyoudigit;50
 canyousee;60
 canyoutell;50
 capacitate;30
@@ -4148,9 +4152,11 @@ casca;25;One of Caesar's assassins
 cascara;30;Coffee cherry
 cascara;30;Coffee cherry tea
 cascaras;30;Coffee cherries
+caseinsensitive;50
 casereport;50
 casereports;50
 caserta;30
+casesensitive;50
 cashback;50
 cashcrop;50
 cashcrops;50
@@ -5387,6 +5393,7 @@ couchforts;60
 couldhebetheone;60
 couldntstickaround;50
 couldshebetheone;60
+couldyounot;60
 coulee;30
 coulees;30
 countcalories;50
@@ -5620,6 +5627,8 @@ crownvic;50
 crownvics;50
 crowsnest;50
 cru;25;French vineyard
+cruciverbalist;60
+cruciverbalists;60
 crudities;30
 crudity;30
 crue;40
@@ -6437,6 +6446,7 @@ didaflip;50
 didallthetalking;60
 didaset;50
 didashot;50
+didastretch;50
 didavanishingact;60
 didbusiness;40
 didchores;50
@@ -6732,6 +6742,7 @@ doallthetalking;60
 doaset;50
 doashot;50
 doasisay;60
+doastretch;50
 doavanishingact;60
 dob;50
 dobusiness;40
@@ -6762,6 +6773,7 @@ doesaflip;50
 doesallthetalking;60
 doesaset;50
 doesashot;50
+doesastretch;50
 doesavanishingact;60
 doesdonuts;50
 doesfor;30
@@ -6845,6 +6857,7 @@ doingallthetalking;60
 doingaset;50
 doingashot;50
 doingasolid;60
+doingastretch;50
 doingdonuts;50
 doingdyingtying;1
 doinghonor;30
@@ -6935,6 +6948,7 @@ dontwaitup;60
 dontwaitupforus;50
 dontworryaboutit;60
 dontworryaboutit;61;Line of latitude?
+dontyoubelieveit;60
 donuthole;60
 donutholes;60
 donutshop;60
@@ -7071,6 +7085,7 @@ draginto;40
 dragline;50
 draglines;50
 dragonet;30
+dragonhead;50
 dragonite;50;Pokeyman
 dragontattoo;60
 dragrace;60
@@ -7675,6 +7690,7 @@ eggtoss;50
 eggtosses;50
 egmont;30;Goethe drama
 egocart;1
+egocentricities;40;Bad plural???
 egodeath;60
 egoiste;30;Chanel fragrance
 egomania;60
@@ -7759,6 +7775,8 @@ elegists;40
 eleison;40;"Kyrie eleison" ("Have mercy", mass prayer)
 elem;30
 elenas;30
+elenchi;25
+elenchus;25;Logical refutation, from the Socratic method
 elephantmario;60
 elephantssnacks;1
 elerian;30
@@ -7766,6 +7784,7 @@ eless;25
 elev;30
 eleve;25;Student: Fr.
 elevenam;30
+elevenfiftynine;1
 eleventy;30
 eleventyone;50
 eleves;25;Students: Fr.
@@ -9243,6 +9262,8 @@ flyingv;60
 flyinthe;1
 flyintheface;25
 flyopen;50
+flyswatter;51;Buzzer beater?
+flyswatters;51;Buzzer beaters?
 flythecoop;60
 flyto;40
 fmajor;40
@@ -9981,6 +10002,8 @@ giveground;50
 giveitago;50
 giveitarest;61;Layoff demand?
 giveitonesall;60
+givemeonereason;60
+givemesomespace;60
 givesairto;40
 givesear;30
 givesearto;30
@@ -10257,6 +10280,7 @@ goodcook;50
 goodcooks;50
 gooddeed;50
 gooddeeds;50
+goodeye;60
 goodfornothing;60
 goodfornothings;60
 goodgracious;60
@@ -10275,6 +10299,7 @@ goodsport;60
 goodsports;60
 goodstart;60
 goodtaste;60
+goodthinking;60
 goofball;60
 goofball;60;One who tends to defy gravity? [used in Assume Ownership]
 goofballs;60
@@ -10507,6 +10532,8 @@ greninja;50;Pokeyman
 greprepbook;50
 gretna;30;___ Green, Scottish wedding destination
 grewon;40
+greyheron;50
+greyherons;50
 greylock;30;VC firm, or Massachusetts mountain
 greymalkin;25;Archaic term for cat
 griese;50;Dolphins quarterback during their undefeated season
@@ -12250,6 +12277,8 @@ inajiff;60
 inajiffy;60
 inaknot;40
 inalather;50
+inallfairness;60
+inalllikelihood;60
 inanna;25;Sumerian goddess
 inanuproar;60
 inapan;1
@@ -12908,6 +12937,7 @@ itservice;30
 itsfasterifwesplitup;60
 itsfine;51;Line of latitude?
 itsit;25;Ice cream brand
+itsjustathought;60
 itsjustoneofthosedays;60
 itsmeanttobe;60
 itsmine;60
@@ -12943,6 +12973,7 @@ itwasadaylikeanyother;60
 itwasalljustadream;60
 itwasi;30
 itwasjustadream;60
+itwasjustathought;60
 itwasmeanttobe;60
 itwasntme;61;Defensive line?
 iud;40
@@ -14953,6 +14984,7 @@ makeahashof;50;Bungle
 makeakilling;60
 makealist;30
 makeanentrances;1
+makeapass;50
 makeatoast;50
 makeauey;40
 makeauie;40
@@ -14979,6 +15011,7 @@ makeroom;50
 makesacrack;60;Defies gravity? [used in Assume Ownership]
 makesahashof;50;Bungles
 makesakilling;60
+makesapass;50
 makesatoast;50
 makesauey;40
 makesauie;40
@@ -15012,6 +15045,7 @@ makewar;30
 makewaves;60
 makingahashof;50;Bungling
 makingakilling;60
+makingapass;50
 makingatoast;50
 makingauey;40
 makingauie;40
@@ -15118,7 +15152,10 @@ mapes;25;Shadout ___, "Dune" character
 mapkey;30
 mapkeys;50
 maquis;25
+maranta;25;Plant genus
 marathi;30;Indo-Aryan language
+marbleslab;50
+marbleslabs;50
 marcaregistrada;25
 marcels;30
 marchi;25
@@ -15250,7 +15287,7 @@ maturate;40
 maturated;40
 maturates;40
 maturating;40
-maturation;40
+maturation;50
 maturational;40
 maturations;40
 matutinal;40;Occurring in the morning
@@ -16174,6 +16211,7 @@ moue;40;Pout (noun)
 moues;40
 mounded;30
 mounjaro;60;Weight loss drug
+mountainousarea;40
 mounterebus;50
 mounthoodoregon;50
 mountweazel;60;Plagiarism trap
@@ -16718,6 +16756,7 @@ neuroplastic;50
 neutrino;60
 nev;40;Nevada
 nevadas;30
+neverbeenkissed;60
 nevergiveaninch;60
 nevil;30;Novelist Nevil Shute
 nevski;30
@@ -17022,6 +17061,7 @@ noho;30
 nohogging;61;Blanket policy?
 nohorsingaround;60
 noia;25
+noice;40
 noire;30
 noirs;30
 noised;30
@@ -18063,6 +18103,7 @@ opedpage;50
 opel;30;European auto brand
 opels;30
 openairstadiums;50
+openandshutcase;60
 openbar;60
 openbook;50
 openbooks;50
@@ -19910,6 +19951,8 @@ presort;30
 presorted;30
 presorting;30
 presorts;30
+pressevent;50
+pressevents;50
 presskit;50
 presskits;50
 pressons;50
@@ -20438,6 +20481,7 @@ rah;40
 rahal;30;Indy 500's Bobby
 rahman;30
 rahs;40
+raid;51;Buzzer beater?
 railage;30
 railcar;50
 railcars;50
@@ -22852,6 +22896,8 @@ seamine;30
 seamines;30
 seamonkey;50
 seamonkeys;50
+seamonster;50
+seamonsters;50
 seance;60
 seance;61;Attempt to raise one's spirits?
 seances;60
@@ -23446,6 +23492,7 @@ shoepac;30;Waterproof boot
 shoepacs;30
 shoeprint;50
 shoeprints;50
+shoevelssnow;50
 shofar;30;???
 shooin;60
 shooins;60
@@ -23524,6 +23571,9 @@ shoutingto;40
 shoutsat;40
 shoutsto;40
 shoutto;40
+shoveledsnow;50
+shovelingsnow;50
+shovelsnow;50
 showa;25;20th century Japanese era
 shower;51;Get into hot water
 shower;51;What nuns do out of habit?
@@ -23685,6 +23735,7 @@ sineater;60;Ritualist who ate the sins of deceased people to absolve their souls
 sineaters;60;Ritualists who ate the sins of deceased people to absolve their souls
 sinecure;50;Position requiring little or no work but giving the holder status or financial benefit
 sinecures;50
+sinedie;40;Legalese for "indefinitely", literally "without day"
 sineratio;50
 sinewave;50
 sinewaves;50
@@ -24126,6 +24177,7 @@ smartchips;50
 smartdrink;50
 smartdrinks;50
 smarttag;50
+smartthinking;60
 smashburger;60
 smaze;30;Smoke/haze mix
 smearier;30
@@ -24566,6 +24618,7 @@ soupladles;50
 soupladles;51;Stock holders?
 souppot;51;Stock holder?
 souppots;51;Stock holders?
+soupsandwich;60
 soupson;50
 soupspoon;51;Stock holder?
 soupspoons;51;Stock holders?
@@ -25111,18 +25164,18 @@ steadicam;60
 steal;50;Take the wrong way? [used in Roughly Speaking]
 steal;51;Take things, literally
 steala;25
-stealakiss;61;Make out like a bandit?
+stealakiss;60
 stealalook;50
 stealapeek;50
 stealing;51;Taking form?
 stealing;51;Taking things, literally
-stealingakiss;61;Making out like a bandit?
+stealingakiss;60
 stealingapeek;50
 stealingon;25
 stealon;25
 steals;50;Takes the wrong way? [used in Roughly Speaking]
 steals;51;Takes things, literally
-stealsakiss;61;Makes out like a bandit?
+stealsakiss;60
 stealsapeek;50
 stealson;25
 steamclean;50
@@ -25330,7 +25383,7 @@ stokes;50;Rekindles an old flame
 stolav;30
 stole;50;Took the wrong way? [used in Roughly Speaking]
 stole;51;Took things, literally
-stoleakiss;61;Made out like a bandit?
+stoleakiss;60
 stolealook;50
 stoleapeek;50
 stolemoney;25
@@ -25968,6 +26021,7 @@ takeabath;51;What nuns do out of habit?
 takeabathon;60
 takeabus;30
 takeacab;30
+takeaction;50
 takeacut;50
 takeadisliketo;50
 takeafter;50
@@ -26004,6 +26058,7 @@ takesabath;51;Gets into hot water
 takesabath;51;What a nun does out of habit?
 takesabus;30
 takesacab;30
+takesaction;50
 takesacut;50
 takesadisliketo;50
 takesafter;50
@@ -26040,6 +26095,7 @@ takewing;60
 taki;25
 takingabus;30
 takingacab;30
+takingaction;50
 takingacut;50
 takingadisliketo;50
 takingafter;50
@@ -26633,6 +26689,7 @@ thatswhatimafraidof;60
 thatswhatisuspected;60
 thatswhatithoughtyoudsay;60
 thatswhatiwasafraidof;60
+thatswhatiwasthinking;60
 thatswhatyousoundlike;60
 thatswild;60
 thatwasagoodone;50
@@ -26648,6 +26705,7 @@ theaisle;40
 theam;30
 theamazingrandi;60
 theamish;30
+theanimals;50
 theapeman;30
 thearea;30
 thearia;30
@@ -26791,6 +26849,7 @@ themanilove;50
 themap;25
 themarines;40
 themarsvolta;60
+themasters;50
 themedalofhonor;25
 themeg;30;Shark movie
 themepark;60
@@ -26896,6 +26955,7 @@ thesiciliandefense;50
 thesilenttreatment;60
 thesilkroad;30
 thesinai;25
+thesixties;50
 theskyisfalling;60
 theslammer;25
 theslots;30
@@ -27282,6 +27342,7 @@ tobaccoindustry;50
 tobe;40
 tobear;25
 tobeclear;60
+tobefrank;60
 tobesafe;60
 tocarry;25
 tocome;30
@@ -27388,6 +27449,7 @@ tookabath;50
 tookabath;51;Got into hot water
 tookabus;30
 tookacab;30
+tookaction;50
 tookacut;50
 tookadisliketo;50
 tookafter;50
@@ -27498,6 +27560,7 @@ toroidal;30
 toroids;30
 torontoraptor;50
 torontoraptors;50
+torpors;40;Bad plural???
 torr;25;Unit of pressure
 torridity;30
 tors;30
@@ -29098,6 +29161,7 @@ wereallout;60
 wereallset;60
 werealmostthere;60
 werebad;60
+wereonthesamewavelength;60
 wererich;60
 wereyoulookingforthis;60
 wernicke;30;Wernicke-Korsakoff syndrome, brain disorder
@@ -29133,7 +29197,6 @@ whatamess;60
 whatareyoudoing;50
 whatareyounuts;60
 whatareyouon;60
-whatareyouupto;50
 whatareyouupto;60
 whatazoo;60;60 is borderline...
 whatcanido;60
@@ -29802,6 +29865,7 @@ younglions;50;???
 youoweme;60
 youpick;50;"I can't decide..."
 yourargumentisinvalid;60
+youreadmymind;60
 youreameanonemrgrinch;60
 youreaskingforit;60
 yourebad;60
@@ -29818,6 +29882,7 @@ yourloss;60
 yourock;60
 yousnoozeyoulose;60
 youtellmethisnow;60
+youtotallyreadmymind;60
 youtry;50
 youvegottabejoking;60
 youvegottabekiddingme;60
