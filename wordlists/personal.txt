@@ -3739,6 +3739,7 @@ businesscontact;50
 businesscourses;50
 businesspartner;50
 businesspartners;50
+busit;25;???
 bussin;60
 bustagut;60
 bustarib;50
@@ -8740,6 +8741,8 @@ fallsononesfeet;1
 fallsshy;50
 fallsto;40
 fallto;40
+falseequivalence;50
+falseequivalency;50
 falseflag;60
 falseflags;60
 falsegod;60
@@ -9393,6 +9396,7 @@ framejob;60
 franc;51;French quarter
 franchitti;30;British motor racing driver
 frankenstein;61;Body builder?
+frankenweenie;60
 frankgehry;50
 fratboy;50
 fratello;30
@@ -10532,6 +10536,9 @@ greninja;50;Pokeyman
 greprepbook;50
 gretna;30;___ Green, Scottish wedding destination
 grewon;40
+greyed;40
+greyer;40
+greyest;40
 greyheron;50
 greyherons;50
 greylock;30;VC firm, or Massachusetts mountain
@@ -14573,6 +14580,8 @@ loominglarge;60
 loomlarge;60
 loomslarge;60
 loophole;60
+looseconnection;50
+looseconnections;50
 looseend;60
 looseends;60
 loosetea;50
@@ -14924,7 +14933,7 @@ magicsets;60
 magicshop;60
 magicshops;60
 magictouch;60
-magicword;60
+magicword;61;Casting call?
 magicwords;50
 maglie;30;Sal Maglie, 1950s pitcher
 magnesias;25
@@ -17553,6 +17562,8 @@ odie;50
 odile;30;Swan Lake black swan
 oding;5
 odinic;30
+odist;40
+odists;40
 odon;5
 odonata;25;Dragonfly genus
 odonto;25;Dental prefix
@@ -20256,6 +20267,7 @@ purpledyes;25
 purplerain;61;Prince's subject?
 push;50
 push;51;Contractual obligation?
+push;51;Delivery order?
 pushstart;50
 pushstarted;50
 pushstarting;50
@@ -20497,6 +20509,8 @@ rainer;30;Luise Rainer, 1930s Best Actress
 rainfalls;30
 rainforest;60
 rainforests;60
+rainhat;40
+rainhats;40
 rainingon;40
 rainmaker;60
 rainmakers;60
@@ -20942,6 +20956,12 @@ recrates;25
 recrating;25
 recreancy;30
 recross;30
+recrudesce;40
+recrudesced;40
+recrudescence;40;Recurrence of an undesirable condition
+recrudescent;40
+recrudesces;40
+recrudescing;40
 rectal;5
 recto;25
 rectorate;40
@@ -22715,8 +22735,10 @@ sceptres;30
 sch;30
 schatzi;25
 schatzis;25
+schedule;51;Times table?
 schedulea;50
 schedulers;30
+schedules;51;Times tables?
 schifrin;30;Pianist Lalo
 schlemiel;60
 schlemiels;50
@@ -24463,6 +24485,7 @@ solarroad;50
 solarroads;50
 solarsail;50
 solarsails;50
+solarsystem;61;Revolutionary group?
 solastyear;60;Old hat
 solate;25;Turn from a gel into a liquid
 solates;25;Turns from a gel into a liquid
@@ -25208,6 +25231,8 @@ steeldrumband;50
 steeldrumbands;50
 steeldrummer;50
 steeldrums;50
+steelie;40;Type of marble
+steelies;40
 steelspike;30
 steelspikes;30
 steeltoeboot;50
@@ -26642,7 +26667,7 @@ teyana;30;???
 tformation;50
 tfw;30
 tgeisel;25
-tgel;30
+tgel;40
 tgif;40
 tha;40
 thaitea;50
@@ -29565,6 +29590,7 @@ wrestlingmeet;60
 wrestlingmeets;60
 writesto;40
 writeto;40
+writinggroup;51;Word association?
 writingto;40
 wroteto;40
 wrothful;30
@@ -29773,6 +29799,7 @@ yellowcarded;60
 yellowcards;60
 yellowlab;50
 yellowlabs;50
+yelloworgold;1
 yellowsea;50
 yellsat;40
 yellsto;40
