@@ -215,7 +215,6 @@ acculturation;30
 acdcsingerscott;1
 acduct;30
 acducts;30
-ace;50;Point of no return? [used in Roughly Speaking and Jack o' Lantern]
 aceae;25
 acedeuce;30
 acedia;25;Mental sloth
@@ -2782,7 +2781,7 @@ beepat;40
 beepedat;40
 beepingat;40
 beepsat;40
-beer;50;Garden variety? [used in Assume Ownership]
+beer;51;Garden variety?
 beer;51;Heady stuff?
 beerbatter;50
 beerbattered;50
@@ -2893,7 +2892,6 @@ bernswitzerland;50
 berried;30
 bertram;25;Silicon Valley & other minor characters
 bertrandrussell;60
-besame;30;International date line? [used in Assume Ownership]
 beseated;51;Court order?
 beseated;51;Order in the court?
 beserious;60
@@ -3425,7 +3423,7 @@ bossfight;60
 bossfights;60
 bossofme;1
 bostonmarathons;50
-botanical;50;Garden variety? [used in Assume Ownership]
+botanical;51;Garden variety
 botcher;30
 botchers;30
 botha;30;Louis Botho, South African PM
@@ -4745,6 +4743,8 @@ cio;40
 cioppino;50;Italian seafood stew
 cioppino;60
 cir;40
+circleoftrust;60
+circlesoftrust;60
 circuitdiagram;60
 circuitdiagrams;60
 circumlocution;60
@@ -5484,8 +5484,8 @@ crack;50;"Strip search finds ___ between buttocks" (WYFF4.com headline)
 crack;51;Street wear?
 cracklinoatbran;50
 cracks;51;Street wear?
-crackswise;60;Defies gravity? [used in Assume Ownership]
-crackwise;60;Defy gravity? [used in Assume Ownership]
+crackswise;60
+crackwise;60
 cradle;51;Mobile home?
 cradle;51;Phone home?
 cradles;51;Mobile homes?
@@ -8292,14 +8292,8 @@ esc;50
 escallop;30
 escalloped;30
 escallops;30
-escape;50;Avoid the spotlight, maybe? [used in Assume Ownership and Roughly Speaking]
-escaped;50;Avoided the spotlight, maybe? [used in Assume Ownership and Roughly Speaking]
-escapee;30;One caught in the spotlight? [used in Assume Ownership and Roughly Speaking]
-escapees;30;Ones caught in the spotlight? [used in Assume Ownership and Roughly Speaking]
 escaper;30
 escapers;30
-escapes;50;Avoids the spotlight, maybe? [used in Assume Ownership and Roughly Speaking]
-escaping;50;Avoiding the spotlight, maybe? [used in Assume Ownership and Roughly Speaking]
 escargots;40;Valid plural
 escarp;30
 escarped;30
@@ -9236,7 +9230,6 @@ floridaroom;50
 floridarooms;50
 floridasunshine;50
 florifetum;30;Ancient Roman festival
-flower;50;Garden variety? [used in Assume Ownership]
 floweret;30
 floweringplants;50
 flowerings;30
@@ -9506,8 +9499,6 @@ fueloils;40
 fuelrod;50
 fuelrods;50
 fueltank;50
-fugitive;50;One caught in the spotlight? [used in Assume Ownership and Roughly Speaking]
-fugitives;50;Ones caught in the spotlight? [used in Assume Ownership and Roughly Speaking]
 fula;25;African ethnic group
 fulani;25;West African muslims
 fullbirdcolonel;50
@@ -10314,18 +10305,14 @@ goodstart;60
 goodtaste;60
 goodthinking;60
 goofball;60
-goofball;60;One who tends to defy gravity? [used in Assume Ownership]
 goofballs;60
-goofballs;60;They tend to defy gravity? [used in Assume Ownership]
 goofedon;50
 gooffkilter;50
 gooffline;50
 goofiness;50
 goofingon;50
-goofoff;50
-goofoff;50;Defy gravity? [used in Assume Ownership]
-goofoffs;50
-goofoffs;50;They defy gravity? [used in Assume Ownership]
+goofoff;60
+goofoffs;60
 goofon;50
 goofson;50
 googlebots;40
@@ -10847,7 +10834,7 @@ hangglider;60
 hanggliders;60
 hangglides;60
 hanggliding;60
-hanging;50;Garden variety? [used in Assume Ownership]
+hanging;51;Garden variety?
 hangingauie;30
 hangry;60
 hangsauie;30
@@ -11356,7 +11343,7 @@ hihos;25
 hij;25
 hijinksensue;60
 hijo;40
-hike;50;Offensive remark? [used for Assume Ownership]
+hike;50;Offensive remark?
 hilaire;30;Writer Belloc
 hillel;30;Jewish campus group
 him;50
@@ -11796,7 +11783,7 @@ hustler;51;Blue book?
 hustlesup;50
 hustleup;60
 hustlingup;50
-hut;50;Offensive remark? [used in Assume Ownership]
+hut;50
 hutment;30
 hwy;40
 hyaline;25;Type of joint cartilage
@@ -12747,7 +12734,7 @@ irons;51;Press agents?
 ironson;40
 irr;25
 irrawaddy;30;???
-irreverence;50;Tendency to defy gravity? [used in Assume Ownership]
+irreverence;50
 irrupt;30
 irrupted;30
 irrupting;30
@@ -12755,7 +12742,7 @@ irruption;30
 irruptions;30
 irruptive;30
 irrupts;30
-irs;50;Returns home, for short? [used in Assume Ownership]
+irs;51;Returns home, for short?
 irsauditor;50
 irsauditors;50
 irsform;30
@@ -13146,7 +13133,7 @@ jessel;30;Actor George
 jesses;30
 jessicachastain;60
 jessye;40;Opera singer Jessye Norman
-jetaime;50;International date line? [used in Assume Ownership]
+jetaime;50
 jete;30;Ballet leap
 jetengine;50
 jetes;30;Ballet leaps
@@ -13221,8 +13208,8 @@ jokedaround;50
 jokedaroundwith;50
 jokesaround;50
 jokesaroundwith;50
-jokester;60;One who defies gravity? [used in Assume Ownership]
-jokesters;60;Ones who defies gravity? [used in Assume Ownership]
+jokester;60
+jokesters;60
 jokingaround;50
 jokingaroundwith;50
 jolteon;50;Pokeyman
@@ -14996,7 +14983,7 @@ majoroperations;50
 majorsin;40
 makable;25;Variant of makeable
 makeabeelinefor;60
-makeacrack;60;Defy gravity? [used in Assume Ownership]
+makeacrack;50
 makeafist;50
 makeahashof;50;Bungle
 makeakilling;60
@@ -15026,7 +15013,7 @@ makeoff;30
 makeplans;50
 makeproud;50
 makeroom;50
-makesacrack;60;Defies gravity? [used in Assume Ownership]
+makesacrack;50
 makesahashof;50;Bungles
 makesakilling;60
 makesapass;50
@@ -16087,7 +16074,6 @@ montypythonskit;1
 moocow;60
 mooer;30
 mooers;30
-moon;50;Give a cheeky look? [used in Roughly Speaking]
 moonbase;60
 moonbases;60
 moonbeam;60
@@ -16095,9 +16081,7 @@ moonbeams;60
 mooncake;50
 mooncakes;50
 moondog;50;Composer
-mooned;50;Gave a cheeky look? [used in Roughly Speaking]
 moonglow;60
-mooning;50;Giving a cheeky look? [used in Roughly Speaking]
 moonlight;60
 moonlighted;60
 moonlighter;60
@@ -16113,7 +16097,6 @@ moonquakes;60
 moonrise;60
 moonrises;50
 moonriver;60
-moons;50;Gives a cheeky look? [used in Roughly Speaking]
 moonscape;60
 moonshine;60
 moonshiner;60
@@ -17800,7 +17783,7 @@ oligocene;30;Epoch
 olinda;30;Brazilian city, UNESCO World Heritage site
 oline;30
 olines;30
-olive;50;Garden variety? [used in Assume Ownership]
+olive;51;Garden variety?
 olivedrab;50
 olivers;30
 olivetree;50
@@ -19351,6 +19334,10 @@ pilotstudy;50
 pilsner;51;Heady stuff?
 pilsners;51;Heady stuff?
 pimms;40;English liqueur brand
+pinata;61;Party animal?
+pinata;61;Stuffed animal?
+pinatas;61;Party animals?
+pinatas;61;Stuffed animals?
 pinchme;60
 pinedfor;40
 pinefor;40
@@ -20100,6 +20087,8 @@ promcourt;60
 promdate;60
 promdates;60
 promiseme;60
+promisering;61;Circle of trust?
+promiserings;61;Circles of trust?
 promking;60
 promkings;60
 promocode;50
@@ -21891,9 +21880,7 @@ roaringat;40
 roarings;30
 roarsat;40
 roastbeast;50;Whoville meal
-rob;50;Take the wrong way? [used in Roughly Speaking]
 rob;51;Take things, literally
-robbed;50;Took the wrong way? [used in Roughly Speaking]
 robbed;51;Took things, literally
 robbedpetertopaypaul;60
 robbing;51;Taking things, literally
@@ -21911,14 +21898,13 @@ robotaxis;60
 robotry;30
 robpetertopaypaul;60
 robroys;30;Scottish cocktails
-robs;50;Takes the wrong way? [used in Roughly Speaking]
 robs;51;Takes things, literally
 robsof;40
 robspetertopaypaul;60
 roc;40
 rocambole;30;Garlic-like plant
 roche;30;Pharmaceutical company
-rock;50;Garden variety? [used in Assume Ownership]
+rock;51;Garden variety?
 rocketpoweredrollerskates;60;Acme invention
 rockfall;60
 rockfan;30
@@ -22008,7 +21994,7 @@ rons;30
 roo;40
 rood;25
 roods;25
-rooftop;50;Garden variety? [used in Assume Ownership]
+rooftop;50
 rooiboos;30;Type of tea
 roomer;30
 roomers;30
@@ -22037,7 +22023,6 @@ ropetrick;50
 ropetricks;50
 rorem;30;Composer Ned Rorem
 roscoelee;30;1970s actor Roscoe Lee Browne
-rose;50;Garden variety [used in Assume Ownership]
 roseanneroseannadanna;60
 roseate;40
 rosecolored;60
@@ -22775,7 +22760,6 @@ scilicet;30;Legal term
 scilla;30;Flower
 scintillae;30
 scirocco;40;Hot African wind, or VW model
-scissors;50;Cutting edge technology? [used in Roughly Speaking]
 scitech;30
 sclerae;30
 scleral;30
@@ -23452,7 +23436,6 @@ shavers;40
 shavetail;50;???
 shawm;25;Oboe ancestor
 shea;50
-shears;50;Cutting edge technology? [used in Roughly Speaking]
 sheaved;30
 shebeen;25;Illicit bar
 sheenier;30
@@ -24201,10 +24184,10 @@ smalltimer;60
 smallu;25
 smalto;25;Mosaic glass
 smarmy;60
-smartaleck;60;One who likes to defy gravity? [used in Assume Ownership]
-smartalecks;60;Ones who like to defy gravity? [used in Assume Ownership]
-smartass;60;One who likes to defy gravity? [used in Assume Ownership]
-smartasses;60;Ones who like to defy gravity? [used in Assume Ownership]
+smartaleck;60
+smartalecks;60
+smartass;60
+smartasses;60
 smartchip;50
 smartchips;50
 smartdrink;50
@@ -25195,7 +25178,6 @@ stds;30
 ste;40
 steaded;30
 steadicam;60
-steal;50;Take the wrong way? [used in Roughly Speaking]
 steal;51;Take things, literally
 steala;25
 stealakiss;60
@@ -25207,7 +25189,6 @@ stealingakiss;60
 stealingapeek;50
 stealingon;25
 stealon;25
-steals;50;Takes the wrong way? [used in Roughly Speaking]
 steals;51;Takes things, literally
 stealsakiss;60
 stealsapeek;50
@@ -25417,13 +25398,11 @@ stoked;60;Rekindled an old flame
 stokers;30
 stokes;50;Rekindles an old flame
 stolav;30
-stole;50;Took the wrong way? [used in Roughly Speaking]
 stole;51;Took things, literally
 stoleakiss;60
 stolealook;50
 stoleapeek;50
 stolemoney;25
-stolen;50;Taken the wrong way? [used in Roughly Speaking]
 stolenart;50
 stolenbase;50
 stolenbases;50
@@ -25590,8 +25569,6 @@ strongman;61;Heavy weight champion?
 strongmen;61;Heavy weight champions?
 strongsuit;60
 strontium;50
-strop;50;Cutting edge equipment? [used in Roughly Speaking]
-strops;50;Cutting edge equipment? [used in Roughly Speaking]
 strugglebus;60
 struma;25
 struma;25;Disease, river, ship
@@ -26312,14 +26289,9 @@ tawdry;60
 taxdeed;50
 taxevader;30
 taxevaders;30
-taxi;50;Get off to a flying start? [used in Roughly Speaking]
 taxid;30
 taxidancer;50
 taxidancers;50
-taxied;50;Got off to a flying start? [used in Roughly Speaking]
-taxies;50;Gets off to a flying start? [used in Roughly Speaking]
-taxiing;50;Off to a flying start? [used in Roughly Speaking]
-taxis;50;Gets off to a flying start? [used in Roughly Speaking]
 taxlaw;50
 taxol;30;Chemotherapy drug
 taxon;40;Kingdom, phylum, etc.
@@ -26359,7 +26331,7 @@ tdk;25;Cassette maker
 tdpass;30
 tdpasses;30
 tds;40
-tea;50;Garden variety? [used in Assume Ownership]
+tea;51;Garden variety?
 tea;51;Subject of a steep tax?
 teaact;50
 teabasket;30
@@ -26389,7 +26361,7 @@ teamers;30
 teamgame;50
 teammascot;50
 teammascots;50
-teamo;30;International date line? [used in Assume Ownership]
+teamo;40
 teamroster;50
 teamrosters;50
 teaneck;25;Unremarkable New Jersey town
@@ -28704,7 +28676,7 @@ vee;40
 vees;30
 veg;40
 vegandiet;60
-vegetable;50;Garden variety [used in Assume Ownership]
+vegetable;51;Garden variety?
 vegetableskewer;50
 vegetableskewers;50
 vegetarianbacon;50
@@ -29264,7 +29236,6 @@ whentheshoefitswearit;60
 where;50
 wheredoyoudrawtheline;60
 wheretheresawilltheresaway;60
-whetstone;50;Cutting edge equipment? [used in Roughly Speaking]
 whipin;40
 whippedin;40
 whippingin;40
@@ -29459,10 +29430,10 @@ wisdomteeth;50
 wisdomtooth;50
 wisdomtree;50
 wisdomtrees;50
-wiseass;60;One who likes to defy gravity? [used in Assume Ownership]
-wiseasses;60;Ones who like to defy gravity? [used in Assume Ownership]
-wisecracker;60;One who likes to defy gravity? [used in Assume Ownership]
-wisecrackers;60;Ones who like to defy gravity? [used in Assume Ownership]
+wiseass;60
+wiseasses;60
+wisecracker;60
+wisecrackers;60
 wisedupto;50
 wiselatina;50
 wisemen;50
@@ -29964,7 +29935,7 @@ zedonk;30
 zedonks;30
 zeena;30;Ethan Frome's wife
 zeldas;30
-zen;50;Garden variety? [used in Assume Ownership]
+zen;50
 zener;30
 zenercard;50
 zenercards;50
