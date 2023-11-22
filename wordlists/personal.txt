@@ -562,6 +562,7 @@ agana;25;Capital of Guam, archaic
 agar;30
 agaric;25
 agars;30
+agasp;30
 agaze;30
 agedlikefinewine;60
 agedlikemilk;60
@@ -614,6 +615,7 @@ agreewith;40
 agri;30
 agriculture;51;Corn field?
 agrology;30
+agt;40
 agua;30
 aguafrescas;50
 aguything;60
@@ -992,7 +994,7 @@ alyssas;25
 alyssum;25;Flower genus
 alyssums;25;Flowers
 am;50
-ama;40
+ama;30
 amahl;30;"___ and the Night Visitors"
 amajor;40
 amal;30;Mrs. Clooney
@@ -1083,6 +1085,7 @@ amion;25
 amiright;60
 amis;30
 amities;30
+amitoolate;60
 amman;30;Capital of Jordan
 ammobelt;50
 ammobelts;50
@@ -1263,6 +1266,7 @@ anosmia;25;Lose of sense of smell
 anouk;30;French actress Anouk Aimée of "La Dolce Vita" and "8 1/2"
 anoukaimee;50;French actress
 anounce;25
+ans;30
 anspach;40;Actress Susan Anspach of "Five Easy Pieces"
 ansu;25
 answeredthedoor;50
@@ -1346,7 +1350,7 @@ apelets;25
 aper;30
 apercu;40;Clever summation
 apercus;40;Clever summations
-apers;40
+apers;30
 apesuit;60
 apfrench;40
 apgerman;30
@@ -1431,6 +1435,7 @@ approvesof;40
 approvingof;40
 appsych;30
 appt;40
+appts;25
 apr;40
 apradio;40
 apres;40
@@ -2118,6 +2123,7 @@ availablecredit;50
 avantgarde;60
 avanti;30;Studebaker coupe, Italian "Let's go!"
 avascular;30
+avec;40
 avengers;60
 avengersendgame;60
 avenuec;25
@@ -2793,6 +2799,8 @@ beerbong;60
 beerbongs;60
 beerbottle;50
 beerbottles;50
+beerbust;50
+beerbusts;50
 beerier;30
 beeriest;30
 beerkoozie;60
@@ -3087,6 +3095,8 @@ biretta;25;Clergyman's cap
 biretta;30;Cap worn by Roman Catholic clergy
 birettas;30
 bisexual;60
+bishop;51;Profession of faith
+bishops;51;Professions of faith
 bisoncalf;50
 bisoncalves;50
 bitat;40
@@ -4048,7 +4058,9 @@ cardcounter;60
 cardcounters;60
 cardcounting;60
 cardigansweater;50
+cardinal;51;Profession of faith
 cardinaloconnor;30
+cardinals;51;Professions of faith
 cardskimmer;60
 cardskimmers;60
 carebear;60
@@ -4287,6 +4299,7 @@ caviling;25
 caviller;25;Quibbler
 cavilling;25
 cavils;25
+cavs;40
 cavy;30;Guinea pig
 cba;25
 cbd;40;Cannabanoid oil
@@ -4619,6 +4632,7 @@ chirrup;40
 chirruped;40
 chirruping;40
 chirrups;40
+chis;40
 chisinau;30
 chiton;25;Ancient Greek tunic
 chiwere;30;Siouxan language
@@ -4816,6 +4830,9 @@ cleanwater;50
 clearsoup;50
 clefairy;50;Pokeyman
 cleon;30;Pericles rival, or baseballer
+clergy;51;Profession of faith
+clergyman;51;Profession of faith
+clergymen;51;Professions of faith
 clericals;30
 clerklier;25
 clerkliest;25
@@ -5386,6 +5403,10 @@ cotter;30;Type of pin
 cottier;25;Peasant, archaic
 cottiers;25;Peasants, archaic
 cottondockers;30
+cottonedonto;50
+cottoningonto;50
+cottononto;50
+cottonsonto;50
 cottonwoodtrees;50
 coty;40;Major beauty conglomerate (owns Adidas, Gucci, Tiffany, and many more)
 couch;51;Remote place to be lost?
@@ -5459,8 +5480,8 @@ cozened;30
 cozener;30
 cozening;30
 cozens;30
-cpa;40
-cpas;40
+cpa;50
+cpas;50
 cpl;40
 cplus;40
 cpr;40
@@ -8307,7 +8328,7 @@ escheator;25
 escher;50
 eschewer;30
 eschewers;30
-esckey;30
+esckey;50
 escoffier;30;???
 escooter;30
 escooters;30
@@ -8725,6 +8746,8 @@ fairtrial;60
 fairtrials;50
 fairway;50
 fairways;50
+fairytale;61;Something related to children
+fairytales;61;They're related to children
 fakemeat;50
 fakemeats;50
 fakenails;60
@@ -9320,6 +9343,7 @@ foolandhismoney;61;Chump change?
 foolmeonce;60
 foolproof;60
 foolscap;60
+foolserrand;61;Boob job?
 footballhelmets;50
 footballplayers;50
 footballstadium;50
@@ -10338,6 +10362,7 @@ goonthelam;61;Bolt from the blue?
 goontherun;61;Bolt from the blue?
 goontour;50
 goos;30
+goosechase;40
 goosefat;50
 goosen;30;Golfer Retief
 goosewing;30
@@ -10625,6 +10650,7 @@ guiderail;50
 guiderails;50
 guilttrip;50
 guilttrips;50
+guilty;51;Legal profession?
 gulab;30
 gulabjamun;30
 gulliver;51;Swift traveller?
@@ -11328,6 +11354,7 @@ hifisets;30
 hifistereo;40
 hifistereos;40
 hifisystem;40
+highc;40
 highhorse;60
 highjump;60
 highjumper;60
@@ -12136,8 +12163,10 @@ imago;30;Bug stage
 imahugefan;60
 imallgood;60
 imallout;60
+imam;51;Profession of faith
 imamess;50
 imamoron;60;Forehead-slapping exclamation
+imams;51;Professions of faith
 iman;30
 iman;50;Somalian model married to David Bowie
 imanage;60;<Not "I'm an age">
@@ -12852,6 +12881,7 @@ ists;30
 isuspect;30
 iswearit;60
 it;50
+ita;25
 itaint;25
 itaintovertillitsover;60
 itaintoveruntil;25
@@ -14167,6 +14197,8 @@ lesnessman;40;Character on "WKRP in Cincinatti"
 lessee;30
 lessees;30
 lessinteresting;25
+lesson;51;Something related to children
+lessons;61;They're related to children
 lessor;30
 lessors;30
 letat;40
@@ -15798,6 +15830,8 @@ minipizza;50
 minipizzas;50
 miniquiche;30
 miniquiches;30
+minister;51;Profession of faith
+ministers;51;Professions of faith
 minisub;30
 minisubs;30
 minisuv;30
@@ -17234,6 +17268,7 @@ noters;30
 noteven;60
 notfair;60
 notforamoment;60
+notguilty;51;Legal profession?
 noth;40;Chris Noth
 nothere;60;"Let's discuss this later"
 nothingnew;60
@@ -17373,6 +17408,7 @@ numpties;25;Stupid people: Br.
 numpty;25;Stupid person: Br.
 numskull;60
 numskulls;60
+nun;51;Profession of faith
 nun;51;Someone who bathes out of habit?
 nunatak;25;Glacial island
 nunataks;25;Glacial islands
@@ -17384,6 +17420,7 @@ nunciates;30
 nuncio;30
 nuncios;30
 nuns;51;Ones who bathe out of habit?
+nuns;51;Professions of faith
 nuremberg;60
 nurmi;25;Distance runner Paavo the "Flying Finn"
 nurmi;30
@@ -20002,6 +20039,8 @@ pricewar;50
 pricewars;50
 pricker;30
 pridoli;25;Late Silurian epoch
+priest;51;Profession of faith
+priests;51;Professions of faith
 prii;40
 primacies;30
 primerib;50
@@ -20390,6 +20429,8 @@ rabats;30;Clerical garments
 rabbet;25;Wood joint
 rabbeted;25;Made wood joints
 rabbets;25;Wood joints
+rabbi;51;Profession of faith
+rabbis;51;Professions of faith
 rabbited;30
 rabbitedon;30;Talked at length, British
 rabbiting;30
@@ -22368,6 +22409,7 @@ saidido;50
 saidmass;50
 saidno;30
 saidok;30
+saidshh;25
 saidto;40
 saidyesto;40
 sailedto;40
@@ -23429,6 +23471,9 @@ sharingacab;50
 sharingin;40
 sharkfin;60
 sharkfins;60
+sharpedge;50
+sharpedged;50
+sharpedges;50
 sharpmind;30;???
 sharpturn;50
 shaver;40
@@ -23717,8 +23762,8 @@ silex;30;Silica material
 silicas;30
 silkascot;50
 silkascots;50
-silkhat;50
-silkhats;50
+silkhat;50;A la Frosty
+silkhats;40
 silkmoth;50
 silkmoths;50
 silksonic;50
@@ -25093,27 +25138,31 @@ starsystem;50
 starsystems;50
 startallover;50
 startat;40
-startatab;60
+startatab;50
 startattheskull;1
 startedallover;50
 startedat;40
-startedatab;60
+startedatab;50
+startedon;40
 starterbras;50
 starterkit;50
 starterkits;50
 startingallover;50
 startingat;40
-startingatab;60
+startingatab;50
 startinglineup;50
 startinglineups;50
+startingon;40
 startler;40
 startlers;40
 startmeup;50;Rolling Stones song
+starton;40
 startour;50
 startours;50
 startsallover;50
 startsat;40
 startsatab;50
+startson;40
 starturn;60
 starturns;60
 stash;51;Drug store?
@@ -26320,6 +26369,7 @@ tbonesteak;60
 tboone;25;Businessman ___ Pickens
 tbs;40
 tbsp;50
+tbsps;50
 tbt;25;Nostalgic midweek hashtag
 tchu;25
 tcm;40
@@ -26605,6 +26655,7 @@ terrygross;50
 tertian;30
 terzarima;40;Poetic form used in the Divine Comedy
 terzetto;30;???
+tes;25
 teslacars;25
 tesori;30;Jean Tesori, most honored female theatrical composer in history
 tesoro;30
@@ -27624,6 +27675,7 @@ towhee;30;Sparrow-like bird
 towhees;30
 towtruck;50
 towtrucks;50
+tox;40
 toyama;30;???
 toydrive;60
 toydrives;60
@@ -27654,6 +27706,7 @@ trackage;25;Railway lines
 trackingchanges;50
 trackshoe;50
 trackshoes;50
+trad;40
 tradedfor;40
 tradedinsults;50
 tradedinsults;51;Participated in a needle exchange?
@@ -27926,7 +27979,8 @@ tsop;25
 tsos;40
 tsotsi;30;Movie, "thug" in Joburg
 tsouris;25;Variant spelling of tsuris, Yiddish trouble
-tsps;40
+tsp;50
+tsps;50
 tstops;30
 tstrap;30
 tstraps;30
@@ -27962,7 +28016,7 @@ tudorarch;50
 tudorarches;50
 tudorrose;50
 tue;40
-tues;30
+tues;40
 tuftsuniversity;50
 tufu;25
 tugat;40
@@ -28744,7 +28798,7 @@ victoriancorset;50
 victorvictoria;60
 victoryismine;60
 vicuna;30;Andes animal
-vida;50
+vida;40
 vide;40;Sous vide cooking technique
 videodisc;40
 videodiscs;40
@@ -28756,6 +28810,7 @@ viedfor;40
 viefor;40
 viesfor;40
 viet;40
+vig;50
 vigny;25;Alfred de ___
 vii;25
 viii;25
@@ -28830,6 +28885,7 @@ vixens;60
 viz;40;Namely: Lat.
 vizier;60
 viziers;60
+vjs;30
 vladiii;30;???
 vlasicdill;50
 vlogging;50
@@ -28861,6 +28917,7 @@ voldemort;50
 volksgeist;50
 volleyball;50
 volleyballs;50
+vols;40
 voltage;51;Potential difference
 voltorb;50;Pokeyman
 volume;51;Remote possibility?
@@ -29044,6 +29101,7 @@ weakbosons;50
 weakforce;50
 weaksauce;60
 weakside;50
+weal;50
 weaner;30
 weaners;30
 weapons;50;"Federal agents raid gun shop, find ___" (The World)
@@ -29083,6 +29141,7 @@ weddingalbums;50
 weddingguests;50
 weddingvows;50
 wedidit;51;Line of credit?
+wedo;40
 weedeater;50
 weedeaters;50
 weefolk;50
