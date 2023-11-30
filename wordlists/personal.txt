@@ -4891,6 +4891,7 @@ chromed;40
 chromedome;60
 chromedomes;50
 chromo;40
+chronicallyonline;60
 chrono;40
 chuckitall;50;Quit
 chuckitallin;50
@@ -5986,6 +5987,7 @@ cuppingoneshands;50
 cuprite;30;Copper ore
 cupsoneshands;50
 curad;30;Bandage brand
+curare;40;Arrow poison
 curedham;50
 curedhams;50
 curedpork;50
@@ -10151,7 +10153,7 @@ geishaaccessory;1
 gelee;30
 gelinsert;50
 gelinserts;50
-gelt;30;Hannukah money
+gelt;40;Hannukah money
 gemoore;30;Philosopher
 gemsbok;30;???
 genc;30;Generation Covid, supposedly
@@ -13166,7 +13168,7 @@ iodates;25;Iodine molecules
 iode;25
 iola;25
 iommi;50
-ion;51;Roaming charge?
+ion;50
 ione;30;1980s actress Ione Skye
 ionia;30
 ionian;30
@@ -13179,7 +13181,7 @@ ionium;30;Isotope of thorium
 ionone;25
 ionones;25
 ionospheric;30
-ions;51;Roaming charges?
+ions;50
 ionstorm;50;Geomagnetic disturbance
 ionstorms;50;Geomagnetic disturbances
 ioo;25
@@ -17491,6 +17493,7 @@ nestsin;40
 netcafe;50
 netcafes;50
 netcom;25
+nethack;50
 netherregions;60
 neti;40
 netipot;50
@@ -19646,7 +19649,7 @@ pas;40
 paseo;40
 pasha;30;Turkish title
 pasmoi;25;???
-paso;30
+paso;40
 pasoan;25
 passedfor;40
 passedoffas;40
@@ -21448,7 +21451,7 @@ rainon;40
 rainson;40
 rainstorm;50
 rainstorms;50
-raisa;30;Mrs. Gorbachev
+raisa;25;Mrs. Gorbachev
 raiseaglass;61;Lift one's spirits?
 raisedaglass;61;Lifted one's spirits?
 raisedhell;60
@@ -25671,7 +25674,7 @@ sophs;40
 sopor;30
 sopors;30
 sorandom;60
-sorare;40;Song
+sorare;40;Jimmy Dorsey song "So Rare"
 sorbo;40
 soreat;40
 sorespot;60
@@ -28490,7 +28493,7 @@ titillated;50
 titillates;50
 titillation;50
 titillations;50
-titipu;30;Gilbert and Sullivan's "The Mikado
+titipu;30;Town in Gilbert and Sullivan's "The Mikado"
 titlegame;60
 titlegames;60
 titleshot;60
@@ -29920,6 +29923,12 @@ vaporizers;50
 var;30
 varanasi;30;Spiritual capital of India
 varese;25;Musician or Italian city
+variegate;40
+variegated;50
+variegates;40
+variegating;40
+variegation;50
+variegations;50
 varig;25;Brazilian airline
 varlet;30;Knight's attendant
 varlets;30;Knight's attendants
@@ -31265,7 +31274,9 @@ zebroids;30;Zebra hybrids
 zebu;25;Indian ox
 zedonk;30
 zedonks;30
+zee;30
 zeena;30;Ethan Frome's wife
+zees;30
 zeldas;30
 zen;50
 zener;30
@@ -31323,7 +31334,7 @@ ziptie;50
 zipties;50
 zod;40
 zodiacs;30
-zohan;30;Adam Sandler character
+zohan;40;Adam Sandler character
 zombie;61;Bored stiff?
 zombie;61;Grave danger?
 zombie;61;Stiff opposition?
