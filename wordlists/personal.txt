@@ -1156,6 +1156,7 @@ ams;25
 amso;40
 amstation;50
 amstations;50
+amstereo;30
 amt;40
 amts;30
 amurtiger;50
@@ -4728,6 +4729,7 @@ cheapskates;61;Ones who gives no quarter?
 cheatmeal;50
 cheatmeals;50
 cheatmode;60
+cheatmodes;50
 checkers;51;Two can play at that game
 checkincounters;50
 checkmate;60
@@ -6661,7 +6663,7 @@ desmoinesiowa;30
 destael;30;Madame ___ in the French Revolution, author of "Delphine"
 destination;51;Get to it!
 destro;25;G.I. Joe character
-det;30;Grill master, for short?
+det;26;Grill master, for short?
 detective;51;Grill master?
 detectivecomics;60
 detectivepikachu;60
@@ -6678,7 +6680,7 @@ detesters;30
 dethorn;30
 detlef;25
 detroitmi;30
-dets;30
+dets;26
 deucecoupe;50
 deucegame;50
 deux;30
@@ -11559,6 +11561,7 @@ hearsays;25
 hearsts;30
 hearties;60
 heartrate;50
+heartrates;50
 heartsick;60
 heartspecialist;50
 heartspecialists;50
@@ -13478,6 +13481,7 @@ its;50
 itsabigif;60
 itsabird;60
 itsablur;60
+itsabovemypaygrade;60
 itsacademic;60
 itsadate;60
 itsadoozy;60
@@ -14927,6 +14931,7 @@ likeoras;1
 likesto;40
 liketo;40
 likewaterforchocolate;50
+likeyouwouldntbelieve;60
 liletee;25;1992 Kentucky Derby winner
 lille;30;French city
 lilmo;40;Singer Lil' Mo, unclear notability
@@ -17051,6 +17056,10 @@ mulch;50;Lay the groundwork? [used in Er, I See]
 mulched;50;Laid the groundwork? [used in Er, I See]
 mulches;50;Lays the groundwork? [used in Er, I See]
 mulching;50;Laying the groundwork? [used in Er, I See]
+mulct;30;Extort
+mulcted;30
+mulcting;30
+mulcts;30
 muleta;30;Matador's cape
 mullet;50
 mullets;50
@@ -17243,6 +17252,8 @@ narked;25;British slang
 narking;25;British slang
 narrations;40
 nars;25;Cosmetics company
+narwhal;60
+narwhals;60
 naryaone;60
 nasality;30
 nasalize;30
@@ -20922,6 +20933,8 @@ princesspeach;60
 princesszelda;60
 printedout;40
 printedup;40
+printerjam;50
+printerjams;50
 printingout;40
 printingup;40
 printout;50
@@ -22039,7 +22052,7 @@ reege;25
 reembodied;25
 reembodies;25
 reembody;25
-reembodying;325
+reembodying;25
 reerect;25
 reerected;25
 reerecting;25
@@ -23647,9 +23660,13 @@ saturnism;30
 satya;30
 sauk;25;Green Bay tribe
 saunteredin;50
+saunteredout;50
 saunterin;50
 saunteringin;50
+saunteringout;50
+saunterout;50
 sauntersin;50
+sauntersout;50
 saurel;25;Fish
 saurels;25;Fish
 sauria;25;Lizard order
@@ -27380,6 +27397,8 @@ tarareid;50
 tarbaby;50
 tardes;30
 tares;40
+targetheartrate;60
+targetheartrates;50
 tariqaziz;60
 tarochip;40
 tarochips;40
@@ -27855,6 +27874,7 @@ thatdogdonthunt;60
 thatgood;60
 thatisalie;50
 thatsabigif;60
+thatsabovemypaygrade;60
 thatsaspicymeataball;60
 thatsaspicymeataballa;60
 thatsawholenotherstory;60
@@ -28327,6 +28347,8 @@ tiaraed;30
 tias;40
 tibetanox;50
 tibetanoxen;50
+tibetanyak;50
+tibetanyaks;50
 tibiae;30
 tical;25;Siamese coin
 ticals;25
@@ -28877,6 +28899,8 @@ trackage;25;Railway lines
 trackingchanges;50
 trackshoe;50
 trackshoes;50
+tracthome;50
+tracthomes;50
 trad;40
 tradedfor;40
 tradedinsults;50
