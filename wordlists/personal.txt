@@ -3866,6 +3866,7 @@ brokeragehouses;50
 brokeredadeal;50
 brokeringadeal;50
 brokersadeal;50
+broking;40
 brollies;40;Umbrellas: Brit.
 brolly;40;Umbrella: Brit.
 bronchi;40;Lung tubes
@@ -4101,6 +4102,11 @@ byzantine;50
 byzantineempire;50
 c;1
 caa;25;Talent agency
+cabala;40
+cabalas;40
+cabalism;40
+cabalist;40
+cabalists;40
 cabdriver;50
 cabdrivers;50
 cabinetofficial;50
@@ -4135,6 +4141,8 @@ cagoule;30;???
 cahn;30;Lyricist Sammy
 cait;30
 caitlin;30;???
+cajoler;40
+cajolers;40
 cakedecorator;50
 cakedecorators;50
 cakedon;40
@@ -11450,6 +11458,7 @@ graecizing;25;Make Greek in form or character
 gramma;25
 grammy;50
 grampus;30;Risso's dolphin
+granados;40;Classical composer Enrique Granados
 grandad;25
 grandads;25
 grandcru;50
@@ -11494,8 +11503,8 @@ graveyards;51;Stiff joints?
 gravity;51;Force of law?
 gravyboat;50
 gravyboats;50
-grayarea;50
-grayareas;50
+grayarea;60
+grayareas;60
 grayfox;50
 grayfoxes;50
 gre;40
@@ -11511,6 +11520,8 @@ greasethepalm;50
 greasingonespalms;50;Not sure if plural is right???
 greasingsomeonespalm;50
 greasingthepalm;50
+greatape;60
+greatapes;60
 greaten;30
 greatlakesstate;50
 greatshot;50
@@ -18804,6 +18815,8 @@ noserings;50
 nosesabout;50
 nosestud;50
 nosestuds;50
+nosher;40
+noshers;40
 noside;30;End of a rugby match
 nosingabout;50
 nosir;50
@@ -19619,7 +19632,7 @@ oneocat;25;Old ball game
 oneoclock;40
 oneofus;60
 oneoldcat;25;Old ball game
-oneon;30
+oneon;40
 oneone;30
 oneonta;25;New York city
 oneoverpar;40
@@ -22901,6 +22914,10 @@ recoilinhorror;60
 recoilsindisgust;60
 recoilsinfear;60
 recoilsinhorror;60
+recoin;30
+recoined;30
+recoining;30
+recoins;30
 recomb;25
 recombed;25
 recombing;25
@@ -24409,6 +24426,7 @@ sabras;25;Native Israeli
 sabre;40;British spelling, or Buffalo hockey player
 sabut;1
 saccule;30;Inner ear organ
+sachar;40;"Holes" novelist Louis Sachar
 sackbut;30;Trombone precursor
 sackbuts;30
 sacker;30
@@ -27491,17 +27509,17 @@ steaded;30
 steadicam;60
 steal;51;Take things, literally
 steala;25
-stealakiss;60
+stealakiss;61;Make out like a bandit?
 stealalook;50
 stealapeek;50
 stealing;51;Taking form?
 stealing;51;Taking things, literally
-stealingakiss;60
+stealingakiss;61
 stealingapeek;50
 stealingon;25
 stealon;25
 steals;51;Takes things, literally
-stealsakiss;60
+stealsakiss;61
 stealsapeek;50
 stealson;25
 steamclean;50
@@ -27610,6 +27628,7 @@ stereosets;40
 steric;25;Chemistry term
 sterlet;25;Fish
 sternal;40;Near the sternum
+sterne;40;Laurence Sterne, author of "Tristram Shandy"
 steroid;51;Mass producer?
 steroidera;60
 steroids;51;Mass producers?
@@ -27719,7 +27738,7 @@ stokers;30
 stokes;50;Rekindles an old flame
 stolav;30
 stole;51;Took things, literally
-stoleakiss;60
+stoleakiss;61;Made out like a bandit?
 stolealook;50
 stoleapeek;50
 stolemoney;25
@@ -30963,6 +30982,7 @@ unseld;30
 unsewed;30
 unshipped;30
 unsolid;30
+unsore;40
 unspokenprayers;50
 unstow;40
 unstowed;40
