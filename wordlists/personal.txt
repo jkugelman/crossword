@@ -523,6 +523,8 @@ adroiter;30
 adroitest;30
 adsale;30
 adsales;30
+adsite;25
+adsites;25
 adslogan;50
 adslogans;50
 adsorbate;30
@@ -3482,6 +3484,7 @@ billiardsparlors;50
 billingsmt;30
 billingto;40
 billmoyers;50
+billofrights;50
 billsto;40
 billto;40
 billymayshere;60
@@ -6136,6 +6139,7 @@ conferee;30
 conferees;30
 confider;40
 confiders;40
+confirmhumanity;60;reCAPTCHA title
 conformingrebel;1
 confucian;50
 confucius;50
@@ -7997,6 +8001,7 @@ doesitlooklikeimkidding;60
 doesitlooklikeimlaughing;60
 doesitmatter;60
 doeslaps;50
+doesntgiveaflip;60
 doespoorly;50
 doesshots;50
 doest;30
@@ -11602,6 +11607,7 @@ gethsemane;60
 getideas;50
 getinabind;50
 getinhere;60;"My office, now!"
+getinline;60
 getinto;40
 getintoit;50
 getitthroughyourskull;60
@@ -12486,6 +12492,7 @@ greenes;30
 greenest;50
 greenhorn;60
 greenish;30
+greetingsearthlings;60
 greisen;30;???
 greninja;50;Pokeyman
 greprepbook;50
@@ -12993,8 +13000,8 @@ hasup;40
 hatari;30;John Wayne movie
 hatdance;50
 hatdances;50
-hatecrime;50
-hatecrimes;50
+hatecrime;5
+hatecrimes;5
 hatedto;40
 hateit;50
 hatemail;61;Cross words?
@@ -14223,6 +14230,7 @@ idontevencare;60
 idontfeelsogood;60
 idontgetit;60
 idontgiveadamn;60
+idontgiveaflip;60
 idonthaveto;60
 idontknow;50
 idontknowcanyou;60
@@ -14375,7 +14383,7 @@ iloilo;30;Singaporean film
 ilona;25;Actress Massey of old films
 ilonamassey;30
 ilonas;25
-ilose;40
+ilose;30;Unnatural
 ilovethatforyou;60
 ilovethispart;60
 ilsa;40;From Casablanca
@@ -14459,6 +14467,7 @@ immies;25;Marbles
 immortalities;30
 immotile;30
 imnoangel;60
+imnotarobot;60;CAPTCHA checkbox
 imnotdead;60
 imnotgoingtoreadallthat;60
 imnotgonnareadallthat;60
@@ -16774,6 +16783,7 @@ letsnotturnitintoawholething;60
 letsparty;50
 letssee;50
 letsseeit;60
+letsseenow;60
 letssplitupitllbefaster;60
 letssplitupitsfaster;60
 letsthingsplayout;60
@@ -17794,6 +17804,7 @@ makesoff;30
 makesplans;50
 makesproud;50
 makesroom;50
+makessense;60
 makesshortworkof;60
 makestime;50
 makestimefor;50
@@ -25319,6 +25330,7 @@ resoil;30;Make dirty again
 resoiled;30
 resoiling;30
 resoils;30
+resorcinol;30
 resortedto;40
 resorter;25
 resorters;25
@@ -30266,6 +30278,17 @@ superbug;50
 superbugs;50
 superc;40;Vicks vitamin C drink
 supercharger;60
+supercollider;50
+supercolliders;50
+supercomputer;50
+supercomputers;50
+superconducting;50
+superconductivity;50
+superconductor;50
+superconductors;50
+supercontinent;50
+supercontinents;50
+supercool;60
 supereasybarelyaninconvenience;60
 superegos;30
 superfood;60
@@ -30609,6 +30632,7 @@ takeagoodlook;60
 takeahardpass;50
 takeaheader;50
 takeahint;60
+takeaimat;40
 takeall;30
 takealook;50
 takeamemo;40
@@ -30649,6 +30673,7 @@ takesafter;50
 takesahardpass;50
 takesaheader;50
 takesahint;50
+takesaimat;40
 takesalook;50
 takesamemo;40
 takesanip;30
@@ -30690,6 +30715,7 @@ takingadisliketo;50
 takingafter;50
 takingahardpass;50
 takingaheader;50
+takingaimat;40
 takingalook;50
 takingamemo;40
 takinganip;30
@@ -31189,6 +31215,7 @@ tenpast;25
 tenpounder;30;???
 tenrec;25;Madagascar animal
 tenrecs;25;Madagascar animals
+tenseconds;30
 tenski;25
 tensplace;50
 tenstone;25
@@ -31408,6 +31435,7 @@ thebigbang;26;Creative spark?
 thebigdipper;25
 thebigmo;50;Big Momentum
 thebigsleep;60
+thebillofrights;50
 thebit;30
 thebodyshop;50;???
 thebomb;60
@@ -32272,6 +32300,7 @@ tookafter;50
 tookahardpass;50
 tookaheader;50
 tookahint;50
+tookaimat;40
 tookalook;50
 tookamemo;40
 tookanip;30
@@ -34161,6 +34190,7 @@ webworm;30
 webworms;30
 wecanfixitinpost;60
 wecantlose;60
+wecomeinpeace;60
 wecool;60
 wed;50
 weddingalbums;50
@@ -34221,6 +34251,7 @@ wellthatsafinehowdoyoudo;60
 welltheresyourproblem;60
 wellwerewaiting;60
 wemadeit;60
+wemeanyounoharm;60
 wen;30;Cyst
 wences;30;Ventriloquist
 wentallin;50
@@ -34390,6 +34421,7 @@ whodiedandmadeyouking;60
 whodoeshethinkheis;60
 whodoesshethinksheis;60
 whodotheythinktheyare;60
+whogivesaflip;60
 whoisthat;60
 whoisthis;60
 whoknew;60
