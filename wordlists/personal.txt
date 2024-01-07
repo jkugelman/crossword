@@ -48,8 +48,8 @@ abandonee;30
 abargain;40;Cheap
 abase;40
 abased;40
-abasement;40
-abasements;40
+abasement;30
+abasements;30
 abaser;30
 abasers;30
 abases;40
@@ -12892,6 +12892,8 @@ hangthecost;60
 hanif;25
 hankofhair;40
 hankypanky;60
+hanlon;50;Hanlon's razor
+hanlonsrazor;60
 hanseaticleague;30;???
 hansolo;60
 hanszimmer;60
@@ -15264,6 +15266,7 @@ itllbefasterifwesplitup;60
 itllbeourlittlesecret;60
 itllbetheendofme;60
 itllturnup;60
+itmakesnosense;60
 itmakesyouthink;60
 ito;30;Judge Lance
 itonya;40
@@ -21879,8 +21882,8 @@ oxer;30
 oxo;40;Kitchen utensil brand
 oxpecker;50;See Rex review 2023/09/05
 oxpeckers;50
-oxteam;30
-oxteams;30
+oxteam;25
+oxteams;25
 oxter;25;Armpit: Scottish
 oxters;25;Armpits: Scottish
 oxygen;50;"Breathing ___ linked to staying alive" (Mason County Press)
@@ -26947,6 +26950,7 @@ scruple;30
 scrupled;30
 scry;50
 scrying;50
+sct;25;Scout abbrev. (banned post-Shortz)
 sctv;30
 scubadive;50
 scubadiver;50
@@ -31349,6 +31353,7 @@ tharp;30;Choreographer Twyla
 that;50
 thataintso;50
 thatdogdonthunt;60
+thatdogwonthunt;60
 thatgood;60
 thatisalie;50
 thatsabigif;60
@@ -33434,7 +33439,8 @@ uppercasez;25
 uppercut;60
 uppercuts;60
 uppingonesgame;60
-uppish;30
+uppish;25
+uppity;5;Offensive, TIL
 uprear;30
 uprooter;30
 uprooters;30
@@ -34356,6 +34362,7 @@ whatchagotthere;60
 whatdoesthatevenmean;60
 whatdoesthatmean;60
 whatdoyouthinkyouredoing;60
+whatexactlyisthepoint;60
 whatfor;60
 whatjusthappened;60
 whatseemstobetheissue;50
