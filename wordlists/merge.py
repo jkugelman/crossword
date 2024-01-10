@@ -72,12 +72,12 @@ def rel_path(path):
 def load_word_list(min_score=0):
     word_list = WordList()
 
-    word_list.load('wordlist-jkugelman.txt')
+    word_list.load('jkugelman-wordlist.txt')
     word_list.load('XwiJeffChenList.txt', [xwi_renumber])
     word_list.load('spreadthewordlist.txt', [filter(min_score=50)])
     word_list.words = {word: score for (word, score) in word_list.words.items() if score >= min_score}
 
-    with open(rel_path('clues-jkugelman.txt')) as clues:
+    with open(rel_path('jkugelman-clues.txt')) as clues:
         clued_words = {line.strip().split(';')[0] for line in clues}
         for clued_word in clued_words:
             word_list.words[clued_word] += 1
@@ -86,7 +86,7 @@ def load_word_list(min_score=0):
 
 def save_word_list(word_list):
     word_list.save('wordlist.txt', scores=True)
-    word_list.save('wordlist-unscored.txt', scores=False, min_score=25)
+    word_list.save('unscored.txt', scores=False, min_score=25)
 
 if __name__ == '__main__':
     word_list = load_word_list()
