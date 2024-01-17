@@ -4579,6 +4579,7 @@ canids;40
 canifinish;60
 canihaveyourattention;60
 canihaveyourattentionplease;60
+canisfamiliaris;50
 canit;50;"Shut up"
 canitalk;60
 cannae;25;Punic War battle site
@@ -5787,6 +5788,7 @@ cockedhat;50
 cockers;30
 cockeye;50
 cockeyed;60
+cockneyrhymingslang;60
 cockshy;5
 cockspur;25;Tree
 cockspurs;25;Trees
@@ -9975,6 +9977,8 @@ excelledin;40
 excellentgrades;1
 excellingat;40
 excellingin;40
+excelmacro;50
+excelmacros;50
 excelsat;40
 excelsin;40
 exchanges;50
@@ -11836,6 +11840,7 @@ glidepaths;50
 glinka;30;Russian composer Mikhail Glinka
 glo;40
 gloam;50
+globalmacro;50;Investment strategy that leverages large-scale macroeconomic and geopolitical data
 globose;25;Spherical
 glogg;30;Swedish spiced wine
 glomeruli;25
@@ -13560,6 +13565,7 @@ hoister;30
 hoisters;30
 hokums;25
 holbein;25;Renaissance painter
+holbrook;40
 holdback;50
 holdingback;50
 holdingto;40
@@ -14322,6 +14328,7 @@ illleaveyoutoit;60
 illlive;60
 illmannered;50
 illseemyselfout;60
+illseeyouinhell;60
 illsue;60
 illtell;60
 illtryredialing;25
@@ -15820,6 +15827,8 @@ kevlar;60
 kew;30;Kew Gardens in London
 kewl;30
 keyandpeele;60
+keyboardmacro;50
+keyboardmacros;50
 keyboardplayers;50
 keyboardwarrior;60
 keyboardwarriors;60
@@ -16863,6 +16872,7 @@ likehotcakes;60
 likemagic;60
 likento;40
 likeoras;1
+likeshareandsubscribe;60
 likesto;40
 liketo;40
 likewaterforchocolate;50
@@ -17119,6 +17129,8 @@ lodicule;30
 lodicules;30
 loess;40;Layer of mineral-rich sediment
 loesser;25;Composer/lyricist
+loew;25
+loews;30;Defunct theater chain
 lofat;30
 lofi;50
 lofter;30
@@ -18008,6 +18020,7 @@ marvelat;40
 marveledat;40
 marvelingat;40
 marvelsat;40
+maryhigginsclark;50
 maryi;40;"Bloody Mary"
 maryjanes;50
 marylynn;50;Mary Lynn Rajskub
@@ -27133,6 +27146,7 @@ seetv;25
 seeum;25
 seeums;25
 seeup;40
+seeyouallinhell;60
 segno;40
 sego;30
 segos;30
@@ -31251,6 +31265,7 @@ thatdogdonthunt;60
 thatdogwonthunt;60
 thatgood;60
 thatisalie;50
+thatissonotokay;60
 thatsabigif;60
 thatsabovemypaygrade;60
 thatsadickmove;60
@@ -31277,6 +31292,7 @@ thatsocool;1
 thatsodd;60
 thatsonme;60
 thatsoundslikeayouproblem;60
+thatssonotokay;60
 thatssurprising;50
 thatsthat;60
 thatsthewayitgoes;60
