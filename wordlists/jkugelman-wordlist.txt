@@ -668,6 +668,8 @@ agnates;25
 agnomen;25
 agnomens;25
 agnosia;25;Inability to interpret sensations
+agonist;40
+agonists;40
 agonyof;1
 agoodbook;50;???
 agora;40;Ancient Greek market
@@ -4242,13 +4244,13 @@ bulkedout;50
 bulkingout;50
 bulkout;50;???
 bulksout;50
-bull;50;Jersey boy? [used for Er, I See]
+bull;50
 bullgun;50
 bullguns;50
 bullhockey;60
 bullpen;50
 bullpens;50
-bulls;50;Jersey boys? [used for Er, I See]
+bulls;50
 bumaride;50
 bumble;50
 bumknee;50
@@ -8667,7 +8669,6 @@ e;1
 eachoneteachone;60;African proverb
 eagerto;40
 eagle;50
-eagle;50;Old quarter back? [used in Familiar Surroundings]
 eagleeye;60
 eagleeyed;60
 eagleeyes;60
@@ -8935,7 +8936,6 @@ eeg;40
 eegs;40
 eeks;40
 eel;50
-eel;50;"Endangered seal with ___ up its nose remains a mystery" (BBC) [used in Doing Front Flips]
 eele;25
 eeled;25
 eeler;25
@@ -8950,7 +8950,6 @@ eelpies;30
 eelpot;30
 eelpots;30
 eels;50
-eels;50;"___ stuck in Hawaiian monk seals' noses baffle scientists" (Washington Post) [used in Doing Front Flips]
 eeltrap;30
 eeltraps;30
 eelworm;40
@@ -9639,6 +9638,7 @@ eritrean;40
 eritreans;40
 erivo;30;Actress Cynthia
 erle;30
+erm;40
 ernani;25;Verdi opera
 ernieford;50
 ernst;40
@@ -16106,9 +16106,7 @@ lacage;40;La Cage aux Folles musical, familiarly
 lacan;25;Psychoanalyst Jacques
 lacarte;1
 lace;50
-lace;50;Tie up loose ends? [used in Square to Begin]
 laced;50
-laced;50;Tied up loose ends? [used in Square to Begin]
 lacedinto;40
 lacedoilies;50
 lacedoily;50
@@ -16116,12 +16114,10 @@ laceinto;40
 lacerta;30;Lizard constellation
 lacertilia;25;Lizard genus
 laces;50
-laces;50;Ties up loose ends? [used in Square to Begin]
 lacesinto;40
 lachesis;30
 lachlan;30;???
 lacing;50
-lacing;50;Tying up loose ends? [used in Square to Begin]
 lacinginto;40
 laciniate;25
 lackey;50
@@ -16292,8 +16288,8 @@ las;40
 lascar;25;Indian sailor
 lascars;25;Indian sailors
 lascrucesnm;25
-lase;50;Have some light work done? [used in Jack o' Lantern]
-lased;50;Had some light work done? [used in Jack o' Lantern]
+lase;50
+lased;50
 laserbeam;60
 laserbeams;60
 lasercut;50
@@ -16310,7 +16306,7 @@ laserprinters;50
 laserrifle;60
 laserrifles;60
 lasertag;50
-lases;50;Has some light work done? [used in Jack o' Lantern]
+lases;50
 lashat;30
 lashedat;30
 lashedoutat;40
@@ -19219,10 +19215,10 @@ mufti;30
 muggyday;40;Green paint???
 mugoftea;50
 mugsoftea;50
-mulch;50;Lay the groundwork? [used in Er, I See]
-mulched;50;Laid the groundwork? [used in Er, I See]
-mulches;50;Lays the groundwork? [used in Er, I See]
-mulching;50;Laying the groundwork? [used in Er, I See]
+mulch;50
+mulched;50
+mulches;50
+mulching;50
 mulct;25;Extort
 mulcted;25
 mulcting;25
@@ -21042,7 +21038,7 @@ ondope;5
 ondra;50;Adam Ondra
 ondrugs;5
 ondvd;25
-one;50;Number line? [used in Doing Front Flips]
+one;50
 oneacat;25;Old ball game
 oneacre;30
 oneall;30
@@ -21154,7 +21150,7 @@ onereelers;50
 oneroom;30;Always clued as "like an old schoolhouse"
 oneround;30
 oners;40
-ones;50;Number lines? [used in Doing Front Flips]
+ones;50
 onescoop;30
 onese;25
 onesecond;50
@@ -23701,12 +23697,12 @@ promqueens;60
 promtux;50
 promtuxes;50
 pronominal;40;Pronoun-related
-prop;50;Play thing [used in Doing Front Flips]
+prop;50
 propertyistheft;60
 propplane;50
 propplanes;50
 propre;25
-props;50;Play things [used in Doing Front Flips]
+props;50
 proration;40
 prosed;40;Talked tediously
 proses;40;Talks tediously
@@ -27513,7 +27509,7 @@ sez;30
 sezme;30
 sezwho;30
 sfish;25
-sfmoma;30
+sfmoma;25
 sfo;40
 sfumato;40
 sgls;25
@@ -27649,11 +27645,11 @@ shirsey;30;Shirt jersey
 shirseys;30;Shirt jersey
 shishabar;30
 shishabars;30
-shiv;50;Pen knife? [used in Doing Front Flips]
+shiv;50
 shiverer;30
 shiverers;30
 shivermytimbers;1
-shivs;50;Pen knives? [used in Doing Front Flips]
+shivs;50
 shlepp;25;Var.
 shmear;40;More commonly spelled schmear
 shmears;40
@@ -28044,7 +28040,7 @@ sittingpoolside;50
 situ;50
 siunit;40
 siunits;40
-siwa;50;YouTuber JoJo Siwa (or the Siwa Oasis in Egypt, not used in Shortz era)
+siwa;50;YouTuber JoJo Siwa
 sixgun;30
 sixiron;40
 sixirons;40
@@ -28493,8 +28489,8 @@ snapbrimhat;50
 snapbrimhats;50
 snapbrims;50
 snapless;40
-snapline;30;Chalked string used in construction
-snaplines;30;Chalked strings used in construction
+snapline;40;Chalked string used in construction
+snaplines;40;Chalked strings used in construction
 snappedat;40
 snappingat;40
 snapples;40
@@ -28646,13 +28642,13 @@ soclose;60
 socony;25;Standard Oil Company of New York
 socool;60
 socrates;50
-sod;50;Lay the groundwork? [used in Er, I See]
+sod;50
 sodabread;50
 sodabreads;50
-sodded;50;Laid the groundwork? [used in Er, I See]
-sodding;50;Laying the groundwork? [used in Er, I See]
+sodded;50
+sodding;50
 sodiumna;1
-sods;50;Lays the groundwork? [used in Er, I See]
+sods;50
 sodumb;60
 soeasyacavemancandoit;60
 soever;30
@@ -29620,13 +29616,13 @@ steepedin;40
 steepin;40
 steepingin;40
 steepsin;40
-steer;50;Jersey boy? [used for Er, I See]
+steer;50
 steerable;30
 steerages;40;Bad plural???
 steerclear;50
 steeredto;40
 steeringto;40
-steers;50;Jersey boys? [used for Er, I See]
+steers;50
 steersto;40
 steerto;40
 steeve;40;Stow in a ship's hold
@@ -32071,12 +32067,12 @@ toadyto;30
 toaman;40
 toapoint;50
 toarms;40;Battle cry
-toast;50;Lift one's spirits? [used in Jack o' Lantern]
-toasted;50;Lifted one's spirits? [used in Jack o' Lantern]
-toasting;50;Lifting one's spirits? [used in Jack o' Lantern]
+toast;50
+toasted;50
+toasting;50
 toastmistress;50
 toastmistresses;50
-toasts;50;Lifts one's spirits? [used in Jack o' Lantern]
+toasts;50
 toat;30
 toatee;40
 toaturn;30
@@ -32781,7 +32777,7 @@ ttoy;25
 ttyl;30
 tuatara;25;Reptile
 tuataras;25;Reptiles
-tubas;50;They have big brass bells [used in Square to Begin]
+tubas;50
 tubate;30
 tubbed;40
 tubbier;40

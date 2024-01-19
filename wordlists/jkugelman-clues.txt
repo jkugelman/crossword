@@ -151,12 +151,14 @@ bubble;Figure of speech?
 bubbles;Figures of speech?
 bugspray;Buzzer beater?
 bugsprays;Buzzer beaters?
+bull;Jersey boy? [ignored in Er, I See]
 bullpen;Stock holder?
 bullpen;Stock room?
 bullpen;Stock yard?
 bullpens;Stock holders?
 bullpens;Stock rooms?
 bullpens;Stock yards?
+bulls;Jersey boys? [ignored in Er, I See]
 bumble;Where to play with matches?
 bus;Clear stuff
 bush;Leaves home?
@@ -293,8 +295,10 @@ depositions;Hearing things?
 dermatologist;One who makes rash decisions?
 dermatologists;Ones who makes rash decisions?
 destination;Get to it!
+det;Grill master, for short?
 detective;Grill master?
 detectives;Grill masters?
+dets
 developer;One who buys a lot?
 developers;Ones who buys a lot?
 dialogue;Plot lines
@@ -335,9 +339,13 @@ dull;Pointless?
 dumbdown;Counter intelligence?
 dumpster;It could be right up one's alley
 dumpsters;They could be right up one's alley
+eagle;Old quarter back?
+eagles;Old quarter backs?
 earbuds;Hearing things?
 ears;Hearing things?
 earthmother;Dirty girl?
+eel;"Endangered seal with ___ up its nose remains a mystery" (BBC)
+eels;"___ stuck in Hawaiian monk seals' noses baffle scientists" (Washington Post)
 eff;Rejection letter?
 eharmony;Where to play with matches?
 eider;Down on the farm?
@@ -624,9 +632,13 @@ knives;Choppers
 kobebeef;A cut above the rest?
 koln;Cologne to Europeans
 lace;Tie up in knots?
+lace;Tie up loose ends? [used in Square to Begin]
 laced;Tied up in knots?
+laced;Tied up loose ends? [used in Square to Begin]
 laces;Ties up in knots?
+laces;Ties up loose ends? [used in Square to Begin]
 lacing;Tying up in knots?
+lacing;Tying up loose ends? [used in Square to Begin]
 ladle;Stock holder?
 ladles;Stock holders?
 lager;Heady stuff?
@@ -638,6 +650,9 @@ languagebarriers;Term limits?
 lap;Blanket coverage?
 larynx;Pipe organ?
 larynxes;Pipe organs?
+lase;Have some light work done?
+lased;Had some light work done?
+lases;Has some light work done?
 lastonein;Rotten egg
 laughinggas;Number for takeout?
 lawfirm;Legal pad
@@ -704,6 +719,10 @@ movieagent;Star pitcher?
 movieagents;Star pitchers?
 movieset;Where to see shooting stars?
 moviesets;Where to see shooting stars?
+mulch;Lay the groundwork?
+mulched;Laid the groundwork?
+mulches;Lays the groundwork?
+mulching;Laying the groundwork?
 mummies;Remains under wraps?
 mummified;Kept under wraps?
 mummifies;Keeps under wraps?
@@ -769,6 +788,8 @@ officer;Booking agent?
 officers;Booking agents?
 okcupid;Where to play with matches?
 olive;Garden variety?
+one;Number line? [ignored in Doing Front Flips]
+ones;Number lines? [ignored in Doing Front Flips]
 onsafari;Where to watch the big game?
 onset;Where to see shooting stars?
 oohaahpoint;Grand Canyon overlook and what to do there
@@ -982,6 +1003,8 @@ shakespearianactors;Globe trotters?
 shell;Gas giant?
 shelovesme;Picky verdict?
 shelovesmenot;Picky verdict?
+shiv;Pen knife? [ignoreed in Doing Front Flips]
+shivs;Pen knife? [ignoreed in Doing Front Flips]
 shockjock;Offensive lineman?
 shockjocks;Offensive linemen?
 shortstop;Ballpark figure?
@@ -1016,6 +1039,10 @@ smut;Blue prints?
 snatching;Taking form?
 snip;Short cut
 snips;Short cuts
+sod;Lay the groundwork? [ignored in Er, I See]
+sodded;Laid the groundwork? [ignored in Er, I See]
+sodding;Laying the groundwork? [ignored in Er, I See]
+sods;Lays the groundwork? [ignored in Er, I See]
 sofa;Remote place to be lost?
 sofa;Throws home?
 solarsystem;Revolutionary group?
@@ -1064,6 +1091,8 @@ stealingakiss
 steals;Mistakes?
 steals;Takes things, literally
 stealsakiss
+steer;Jersey boy? [ignored in Er, I See]
+steers;Jersey boys? [ignored in Er, I See]
 stenographer;Hearing aide
 stenographers;Hearing aides
 steponit;Rush order?
@@ -1148,6 +1177,7 @@ tentpolemovies;Shoots for the stars?
 term;Added value
 thatsenough;Finish line?
 thatsit;Finish line?
+thebigbang;Creative spark?
 thenextroundisonme
 therapist;Baggage handler?
 therapists;Baggage handlers?
@@ -1157,6 +1187,10 @@ tiebreakers;Draw conclusions?
 timessymbol;Product lines?
 tinder;Where to play with matches?
 tip;That's the point!
+toast;Lift one's spirits?
+toasted;Lifted one's spirits?
+toasting;Lifting one's spirits?
+toasts;Lifts one's spirits?
 tobacco;Leaves for a smoke?
 tobacco;Leaves out to dry?
 toilet;Head out to sea?
@@ -1197,6 +1231,7 @@ truckers;Semi conductors?
 true;Kind of blue?
 trypanophobe;One with sticker shock?
 trypanophobia;Sticker shock?
+tubas;They have big brass bells [used in Square to Begin]
 twothumbsup;Movie props?
 uberrich;Overloaded?
 ugli;Unsightly-sounding fruit
@@ -1253,6 +1288,3 @@ zombie;Bored stiff?
 zombie;Grave danger?
 zombie;Stiff opposition?
 zombies;Grave danger?
-det;Grill master, for short?
-dets
-thebigbang;Creative spark?
