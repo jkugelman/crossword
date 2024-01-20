@@ -733,7 +733,9 @@ aintnothang;60
 aintseennothingyet;60
 aintshesweet;60
 aintso;60
+aintthatacryingshame;60
 aintthatashame;60
+aintthatthetruth;60
 airarm;40;Military branch
 airball;60
 airballed;60
@@ -2186,7 +2188,7 @@ astrophiles;50
 astroturf;60
 astroturfing;60
 asummer;25
-asus;40;Laptop brand
+asus;50;Laptop brand, never used in NYT for some unknown reason
 aswan;30;Egyptian city
 aswe;25
 asyla;30
@@ -2197,6 +2199,7 @@ atadesk;25
 atafeverpitch;60
 atahualpa;50
 atalanta;25
+ataleasoldastime;50
 atalefortheages;60
 atalowebb;40
 ataman;25;Cossack leader
@@ -8176,7 +8179,8 @@ doorcrasher;60
 doorcrasherdeal;60
 doorcrasherdeals;60
 doorcrashers;60
-doormat;60
+doormat;50
+doormats;50
 doorone;30
 dooropener;50
 dooropeners;50
@@ -12710,6 +12714,7 @@ haddibson;50
 hadenoughorareyouthirstyformore;60
 hadgame;40
 hadheart;50
+hadin;40
 hadit;40
 haditbad;50
 haditgood;50
@@ -12717,6 +12722,7 @@ hadlegs;50
 hadnolife;50
 hadnooomph;60
 hadnoplan;50
+hadon;40
 hadones;25
 hadonesdruthers;60
 hadrosaur;40
@@ -14017,6 +14023,10 @@ ibars;30
 ibeam;30
 ibeams;30
 ibelieveicanfly;30
+ibex;40;Wild goat
+ibexes;40;Just "ibex" is more common
+ibexkid;40
+ibexkids;40
 ibexkids;50
 ibid;40
 ibis;30;Bird
@@ -15238,6 +15248,7 @@ itpros;30
 itried;60
 itrustyou;50
 its;50
+itsabet;40
 itsabigif;60
 itsabird;60
 itsablur;60
@@ -24237,15 +24248,23 @@ ramessesi;40
 ramfis;25
 ramie;25
 ramies;25
+ramin;40
+raminto;40
 ramjet;30;Plane engine
 ramjets;30
 ramline;30;Line used to mark a straight middle line (as on a spar or mast)
 ramlines;30;Lines used to mark a straight middle line (as on a spar or mast)
+rammedin;40
+rammedinto;40
 rammer;30
 rammers;30
+rammingin;40
+ramminginto;40
 ramons;30
 ramose;25;Branched / Egyptian prince
 ramsesi;30
+ramsin;40
+ramsinto;40
 ramtruck;30
 ramtrucks;30
 ranaclosesecond;50
@@ -24274,6 +24293,7 @@ ranit;25
 ranitby;25
 ranlast;1
 ranloose;50
+ranon;40
 ranpoint;50
 ranringsaround;60
 ranshort;50
@@ -26191,6 +26211,7 @@ runningfast;30
 runningfor;40
 runningforit;50
 runningloose;50
+runningon;40
 runningpoint;50
 runningringsaround;60
 runningshort;50
@@ -26200,6 +26221,7 @@ runningupatab;50
 runningupto;40
 runningwithit;50
 runningwithscissors;60
+runon;50
 runpoint;50
 runringsaround;60
 runsaclosesecond;50
@@ -30657,6 +30679,7 @@ talbot;30;???
 talced;30
 talcose;30;???
 talcs;30
+taleasoldastime;50
 talefortheages;60
 talenti;30
 talentpool;50
@@ -30738,6 +30761,7 @@ tapdancers;50
 tapdances;50
 tapdancing;50
 tapeta;25;Retina layers
+tapin;40
 tapinto;40
 tapircalf;50
 tapircalves;50
@@ -30745,12 +30769,15 @@ taplight;40;Portable stick-on light
 taplights;40
 tapon;40
 tappan;30;Appliance brand???
+tappedin;40
 tappedinto;40
 tappedon;40
 tappedtelephone;30
 tappets;25
+tappingin;40
 tappinginto;40
 tappingon;40
+tapsin;40
 tapsinto;40
 tapson;40
 tapster;30;Bartender
@@ -33100,7 +33127,7 @@ umbral;40
 umbras;40
 umbrellaacademy;60
 umbria;30
-umhi;40
+umhi;25;NYT doesn't like it: "UM HI ... felt too 'made up' as a phrase, and a little tricky to clue to boot"
 umiak;30
 umm;40
 umno;50
@@ -33912,6 +33939,7 @@ walkedonthinice;60
 walkedouton;40
 walkedwithpurpose;60
 walkingandtalking;50
+walkingdistance;50
 walkingonthinice;60
 walkingouton;40
 walkingwithpurpose;60
@@ -34565,6 +34593,7 @@ witheredaway;50
 witheringaway;50
 withersaway;50
 withes;25
+withinwalkingdistance;50
 withlegs;30;Having staying power
 witter;30;Investor Dean
 wizard;60
@@ -35021,6 +35050,7 @@ youcandoit;60
 youcanthaveitbothways;60
 youcantteachheight;60;N.B.A. draft saying
 youcantwin;60
+youcouldsaythat;60
 youdareme;60
 youdidit;50
 youdidntsaythemagicword;60
