@@ -2314,6 +2314,7 @@ attaboy;60
 attagirl;60
 attaq;50;Reebok Shaq Attaq shoes
 attar;30;Fragrant oil
+attaway;25;Used in NYT, I don't buy it
 atted;40
 attelet;30;Ornamental metal skewer for food, e.g. sandwiches
 attelets;30;Ornamental metal skewers for food, e.g. sandwiches
@@ -2792,6 +2793,8 @@ bardotfilm;1
 bareall;60
 bareboned;50
 barebones;50
+bareessence;50
+bareessentials;50
 barefoot;50
 bareitall;60
 barelyaninconvenience;60
@@ -3959,6 +3962,7 @@ bottlenosewhale;60
 bottletop;50
 bottletops;50
 bottomline;60
+bottomrung;50
 bottsdots;50
 boudicea;30;Ancient queen
 boulderco;30
@@ -4086,6 +4090,7 @@ bridgeofthenose;50
 bridgeovertroubledwater;60
 briecheese;50
 brien;30
+brighamyoung;50
 brimmer;25
 brimstone;50
 bringingonesagame;60
@@ -4320,6 +4325,11 @@ businesscontact;50
 businesscourses;50
 businesspartner;50
 businesspartners;50
+businessschool;50
+businessschools;50
+businesssection;50
+businessspeak;50
+businessweek;50
 busit;25;???
 bussin;60
 bustagut;60
@@ -6295,8 +6305,8 @@ cosmists;40
 cosmogirl;50
 cosmogirls;50
 cosmologicalprinciple;60
-cosmonaut;60
-cosmonauts;60
+cosmonaut;50
+cosmonauts;50
 cosplay;60
 cosplaycontest;60
 cosplaycontests;60
@@ -6749,6 +6759,7 @@ curioshop;50
 curioshops;50
 curlbar;50
 curlbars;50
+curledlip;50
 curlingteam;50
 curlingteams;50
 curlsin;25
@@ -7588,6 +7599,7 @@ didistutter;60
 didja;50
 didlaps;50
 didnot;50
+didonesfairshare;50
 didpoorly;50
 didshots;50
 didtime;50
@@ -7596,6 +7608,7 @@ didtoat;40
 didtoatee;40
 didtoo;50
 didwe;30
+didyourfairshare;50
 dieaslowdeath;60
 diecast;50
 diecasting;50
@@ -7959,6 +7972,7 @@ doesitlooklikeimlaughing;60
 doesitmatter;60
 doeslaps;50
 doesntgiveaflip;60
+doesonesfairshare;50
 doespoorly;50
 doesshots;50
 doest;30
@@ -8054,12 +8068,14 @@ doinggood;50
 doinghonor;30
 doinghonorto;40
 doinglaps;50
+doingonesfairshare;50
 doingpoorly;50
 doingshots;50
 doingtime;50
 doingto;30
 doingtoat;40
 doingtoatee;40
+doingyourfairshare;50
 doink;30
 doitnow;60
 doityourselftornadokit;60;Acme invention
@@ -8171,6 +8187,7 @@ doomingto;40
 doomsto;40
 doomto;40
 doonein;40
+doonesfairshare;50
 doorbuster;60
 doorbusterdeal;60
 doorbusterdeals;60
@@ -8289,6 +8306,7 @@ doxx;50
 doya;30;ELO song
 doyoudareme;60
 doyouknowwhatyouvedone;60
+doyourfairshare;50
 doyouthinkimplaying;60
 doyouthinkitsagame;60
 doyouthinkthisisagame;60
@@ -8428,6 +8446,7 @@ driveshafts;50
 drivetrain;50
 drivetrains;50
 drivingat;40
+drivingdistance;50
 drivingwhileblack;60
 drk;25;Baseball nickname
 droidapp;50
@@ -8917,7 +8936,7 @@ edo;30;Tokyo, formerly
 edocastle;50
 edomite;30
 edsel;40
-edsheeran;60
+edsheeran;50
 edt;25
 edtv;30
 edu;40
@@ -10178,6 +10197,8 @@ fairdeal;50
 fairdeals;50
 fairish;30
 fairpoint;60
+fairshare;50
+fairshares;50
 fairtrial;50
 fairtrials;50
 fairway;50
@@ -14694,6 +14715,8 @@ infielder;50
 infielders;50
 infix;50
 inflightentertainment;50
+influencer;60
+influencers;60
 infodesk;50
 infodesks;50
 infoil;30
@@ -14809,6 +14832,9 @@ inspirers;30
 inspo;60
 inspot;40;Cool place, according to other clues???
 inst;40
+instagramfamous;60
+instagramfilter;60
+instagramfilters;60
 instal;25
 instalment;25
 instalments;25
@@ -17939,6 +17965,7 @@ maojacket;50
 maojackets;50
 maosuit;40
 maosuits;40
+maotsetung;50
 mapes;25;Shadout ___, "Dune" character
 mapkey;30
 mapkeys;50
@@ -17984,6 +18011,8 @@ markcuban;50
 marketeer;30
 marketeers;30
 marketjitters;60
+marketshare;50
+marketshares;50
 marky;40
 marlas;30
 marlboro;50
@@ -20764,7 +20793,7 @@ oglers;30
 ogles;30
 ogress;30
 ogresses;30
-ogs;25
+ogs;30
 oh;50
 ohairs;25
 ohbother;60
@@ -21914,6 +21943,7 @@ pah;30
 pahlavi;25;Iranian Shah
 pahlevi;1
 pai;40;___ Gow
+paidonesfairshare;50
 paidretail;50
 paidthetab;50
 paidto;40
@@ -22261,12 +22291,15 @@ payday;50
 paydays;50
 payhike;60
 payhikes;60
+payingonesfairshare;50
 payingretail;50
 payingthetab;50
 paynim;25;Heathen, archaic
 paynims;25;Heathens, archaic
+payonesfairshare;50
 payorplay;60
 payretail;50
+paysonesfairshare;50
 paysretail;50
 paysthetab;50
 paythetab;50
@@ -23480,6 +23513,9 @@ praters;30
 pratfall;60
 pratfalls;60
 prau;25
+prayedtotheporcelaingod;60
+prayingtotheporcelaingod;60
+praystotheporcelaingod;60
 praytotheporcelaingod;60
 pre;40
 preachit;60
@@ -23610,6 +23646,8 @@ printerjam;50
 printerjams;50
 printingout;40
 printingup;40
+printissue;30;As Rex points out, it's "print edition"
+printissues;30
 printout;50
 printsout;40
 printsup;40
@@ -23800,7 +23838,7 @@ ptboats;25;Patrol torpedo boats in W.W.II
 pter;25
 pterosaur;50
 pterosaurs;50
-pto;40
+pto;25;Not used in NYT since 1995
 ptolemys;25
 ptrap;30;Plumbing fixture
 ptraps;30;Plumbing fixtures
@@ -26799,6 +26837,7 @@ scenev;25
 scenexii;25
 scenexiv;25
 scenicpanoramas;25
+scenicroute;50
 scenter;30
 scenters;30
 scenting;30
@@ -27608,6 +27647,7 @@ sheenier;30
 sheeniest;30
 sheepdog;50
 sheeple;60
+sheeran;50
 sheesh;60
 sheetofice;50
 sheetsofice;50
@@ -27623,6 +27663,8 @@ shellshocked;60;"Tortoise theft leaves owner ___" (Whitechurch Herald)
 shelovesme;50
 shelovesmenot;50
 shem;25
+shepherdscrook;50
+shepherdscrooks;50
 sherees;25;Plural first name
 sherehite;30
 sherekhan;50
@@ -28648,6 +28690,7 @@ socialcontracts;50
 socialcue;50
 socialcues;50
 socialmediainfluencer;60
+socialmediainfluencers;60
 socialnorm;60
 socialnorms;60
 socialreformers;50
@@ -30294,7 +30337,17 @@ surroundsound;50
 surtitle;30
 surtitles;30
 susanmolinari;25;90s house rep
-susans;30
+susans;40;Lazy susans
+sushibar;60
+sushibars;60
+sushiboat;60
+sushiboats;60
+sushiburrito;50
+sushiburritos;50
+sushichef;60
+sushichefs;60
+sushijoint;60
+sushijoints;60
 suspenddisbelief;60
 suspendeddisbelief;60
 suspendingdisbelief;60
@@ -30634,6 +30687,7 @@ takesthecake;60
 takesthefall;60
 takesthel;60
 takestheoath;50
+takesthescenicroute;50
 takestime;50
 takesto;40
 takestwototango;30
@@ -30642,6 +30696,7 @@ takethebait;60
 takethefall;60
 takethel;60
 taketheoath;50
+takethescenicroute;50
 taketime;50
 taketo;40
 takewing;60
@@ -30671,6 +30726,7 @@ takingthebait;60
 takingthefall;60
 takingthel;60
 takingtheoath;50
+takingthescenicroute;50
 takingtime;50
 takingto;40
 takingwing;50
@@ -31636,6 +31692,7 @@ theroyalnavy;25
 thesack;40
 thesaints;30
 thescales;25
+thescenicroute;25
 thesea;25
 theseats;1
 thesecret;25;Woo-woo self-help book
@@ -32260,6 +32317,7 @@ tookthebait;60
 tookthefall;60
 tookthel;60
 tooktheoath;50
+tookthescenicroute;50
 tooktime;50
 tookto;40
 tookwing;60
@@ -34042,6 +34100,8 @@ watchfobs;50
 watchstem;50
 watchstems;50
 watchyourform;60
+waterbag;50
+waterbags;50
 waterbuffalocalf;50
 waterbuffalocalves;50
 waterbug;50
@@ -34437,6 +34497,7 @@ wildrose;50
 wildroses;50
 wildturkey;50
 wildturkeys;50
+williamhung;40
 williami;30
 williamii;30
 williamiii;30
@@ -34593,6 +34654,7 @@ witheredaway;50
 witheringaway;50
 withersaway;50
 withes;25
+withindrivingdistance;50
 withinwalkingdistance;50
 withlegs;30;Having staying power
 witter;30;Investor Dean
