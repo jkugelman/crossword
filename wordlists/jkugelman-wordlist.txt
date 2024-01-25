@@ -1376,6 +1376,7 @@ animadverting;30
 animadverts;30
 animal;50
 animalmagnetism;60
+animalprint;50
 animals;50
 animatedgif;60
 animatedgifs;60
@@ -1785,6 +1786,7 @@ argosy;25;Large ship
 arguer;40
 arguers;40
 argus;30;Various Greek myths
+argyleprint;50
 aria;50;Solo flight
 ariane;25;French satellite launcher
 arianes;25;French satellite launchers
@@ -4612,6 +4614,7 @@ cannoli;50
 cannolis;50
 cannonarm;50
 cannonarms;50
+cannotstaystill;50
 cannotunsee;50
 cannula;30;Medicine tube
 cannulae;30;Medicine tubes
@@ -6071,6 +6074,7 @@ compasssaws;30
 compedmeal;50
 compedmeals;50
 completedpasses;50
+completenightmare;60
 complier;40
 compliers;40
 compostbin;50
@@ -15285,6 +15289,7 @@ itsabird;60
 itsablur;60
 itsabovemypaygrade;60
 itsacademic;60
+itsacompletenightmare;60
 itsactuallyhappening;60
 itsadate;60
 itsadickmove;60
@@ -15305,6 +15310,7 @@ itsasign;60
 itsastart;60
 itsastretch;60
 itsathing;60
+itsatotalnightmare;60
 itsawaitinggame;60
 itsawash;60
 itsawonderfullife;60
@@ -17532,6 +17538,8 @@ lunula;40;White part of the fingernail
 lunule;40;White part of the fingernail
 lupefiasco;50
 lupercalia;25;Ancient Roman festival
+luray;50
+luraycaverns;50
 lusaka;25;Capital of Zambia
 lustra;25
 lustre;25
@@ -19576,7 +19584,9 @@ nbaref;50
 nbarefs;50
 nbaring;50
 nbarings;50
+nbastar;40
 nbastar;50
+nbastars;40
 nbastars;50
 nbasummerleague;50
 nbc;50
@@ -21005,6 +21015,7 @@ olson;50
 olsons;30
 oluo;30;Author Ijeoma Oluo
 olympiawa;30
+olyphant;50
 omagazine;50
 omahas;30
 oman;50;Where you'll find the Land of Frankincense
@@ -21211,7 +21222,7 @@ onesown;25
 onestep;30
 onestop;30
 onestriper;30;Army private
-onesugar;30
+onesugar;40
 onetaste;30
 oneten;25
 onetime;50
@@ -21970,6 +21981,7 @@ paintmixer;50
 paintmixers;50
 pairer;30
 pairofskis;50
+paisleyprint;50
 pajamarich;60;So rich you don't care how you dress in public
 pak;40
 pala;25
@@ -31517,6 +31529,7 @@ thefatoftheland;60
 thefbi;25
 thefda;25
 thefed;50
+thefineprint;50
 thefirstletters;1
 thefivews;50
 theflu;25
@@ -31834,9 +31847,11 @@ thirtieth;40
 thirtieths;40
 thisagain;60
 thisisacloseone;50
+thisisacompletenightmare;60
 thisisactuallyhappening;60
 thisisadillyofapickle;60
 thisisarightpickle;60
+thisisatotalnightmare;60
 thisisbig;60
 thisiseasy;60
 thisisit;60
@@ -32032,6 +32047,7 @@ tilsit;30;Swiss cheese
 tilth;25
 tilths;25
 tilton;25
+timbernerslee;50
 time;50
 timeandlabor;50
 timeandtimeagain;60
@@ -32058,6 +32074,7 @@ timewarner;50
 timewarp;60
 timing;50
 timothee;50
+timothyolyphant;50
 timreid;30;Actor
 tims;30
 tinafey;50
@@ -32468,6 +32485,7 @@ totalitarians;50
 totalities;30
 totalloss;50
 totalmess;60
+totalnightmare;60
 totalrecall;60
 totalwar;50
 totedup;40
@@ -33079,6 +33097,7 @@ twopartysystems;50
 twopence;30
 twostep;50
 twosteps;50
+twosugars;40
 twothumbsup;60
 twotime;60
 twotimed;60
@@ -34380,6 +34399,7 @@ whatadisaster;60
 whatadisgrace;60
 whatadrag;60
 whatamess;60
+whatanightmare;60
 whatareyoudoing;50
 whatareyounuts;60
 whatareyouon;60
@@ -34559,6 +34579,8 @@ windpower;50
 windshieldwiper;50
 windsleeve;50
 windsleeves;50
+windsprint;50
+windsprints;50
 windstoaclose;60
 windstorm;50
 windstorms;50
