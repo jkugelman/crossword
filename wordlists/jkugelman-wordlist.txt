@@ -665,6 +665,7 @@ aginglikemilk;50
 agita;50
 aglet;30
 aglets;30
+aglimmer;40
 agnate;25
 agnates;25
 agnomen;25
@@ -690,6 +691,7 @@ agreeto;40
 agreewith;40
 agri;30
 agriculture;50
+agrimony;30;Herb
 agrology;30
 agt;40
 agua;30
@@ -4072,6 +4074,7 @@ breezesrightpast;50
 breezingrightpast;50
 breitbart;5
 breitbartnews;5
+breslau;25;Polish city
 breteastonellis;60
 brew;50
 brews;50
@@ -4716,6 +4719,7 @@ caproom;40;Salary cap room??? not sure
 capslock;50
 capstone;50
 capt;30
+captainbuzzkill;60
 captaineo;25
 captcha;50
 captchaimage;50
@@ -5259,15 +5263,19 @@ chargeat;40
 chargedat;40
 chargedit;25;???
 chargedto;40
+chargedup;50
 chargeit;25;???
 charger;50
 chargesat;40
 chargesit;25;???
 chargesto;40
+chargesup;50
 chargeto;40
+chargeup;50
 chargingat;40
 chargingit;25;???
 chargingto;40
+chargingup;50
 charioteer;30
 charizard;50;Pokeyman
 charlatan;50
@@ -5277,6 +5285,7 @@ charlieday;50
 charlottehornet;50
 charmander;50;Pokeyman
 charo;30
+charsiu;40;Cantonese-style barbecued pork
 chartae;25
 chasmal;30
 chasse;30;Dance step
@@ -6588,6 +6597,8 @@ crocodiledundee;50
 crocus;50;Flower
 cromulent;60
 crooklyn;60
+cropcircle;60
+cropcircles;60
 cropdust;50
 cropdusted;50
 cropduster;50
@@ -13021,6 +13032,7 @@ hatersgonnahate;60
 hatesme;25;???
 hatesto;40
 hateto;40
+hatetoburstyourbubble;60
 hatform;50
 hatforms;50
 hatha;40;Type of yoga
@@ -14315,6 +14327,7 @@ iguessnot;60
 iguessso;60
 ihadnoidea;60
 ihateeverythingaboutthis;60
+ihatetoburstyourbubble;60
 ihatewar;50;FDR speech
 ihavenoidea;60
 ihaveplacestobe;60
@@ -14327,6 +14340,7 @@ ihopenobodysawthat;60
 ihopenot;60
 ihopeso;60
 ihopetogod;60
+ihopeyourehappy;60
 ihops;30
 ihre;25
 ihurt;25
@@ -15259,6 +15273,7 @@ itasca;30;Headwater of the Mississippi
 itband;50
 itbands;50
 itbeatsme;60
+itbeatsthealternative;60
 itcantbethatbad;60
 itcanwait;60
 itcracksmeup;60
@@ -17981,6 +17996,7 @@ manspread;60
 manspreaded;60
 manspreading;60
 manspreads;60
+manteau;40
 mantee;25;Bogart role
 mantelet;30
 mantes;25;Mantises
@@ -20425,6 +20441,8 @@ nottodaysatan;60
 nottoexaggerate;50
 nottomention;60
 nottoosure;60
+nottorainonyourparade;60
+nottorainonyourparadebut;60
 notuptoit;60
 notuptothetask;60
 noturnonred;60
@@ -28565,6 +28583,8 @@ smokeandmirrors;60
 smokebreak;50
 smokedacigar;50
 smokedfish;50
+smokefilledroom;60
+smokefilledrooms;60
 smokering;50
 smokerings;50
 smokesacigar;50
@@ -31131,6 +31151,8 @@ tedeum;30;Short religious service
 tedeums;30;Short religious services
 tedfellow;50
 tedfellows;50
+tedia;25;Tediums
+tediums;40;Bad plural?
 tedkoppel;50
 tedlasso;50
 tedtalk;50
@@ -35212,6 +35234,7 @@ youidiot;60
 youllfitrightin;60
 youllgofar;60
 youllnevertakemealive;60
+youlookpleasedwithyourself;60
 youlose;50
 youlove;1
 youmaybeexcused;60
