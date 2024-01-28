@@ -1,3 +1,4 @@
+a;50
 aaa;40
 aaamap;25
 aaamaps;25
@@ -2317,7 +2318,7 @@ attaboy;60
 attagirl;60
 attaq;50;Reebok Shaq Attaq shoes
 attar;30;Fragrant oil
-attaway;25;Used in NYT, I don't buy it
+attaway;30;Used in NYT, I don't buy it
 atted;40
 attelet;30;Ornamental metal skewer for food, e.g. sandwiches
 attelets;30;Ornamental metal skewers for food, e.g. sandwiches
@@ -4207,6 +4208,10 @@ bubblegumpink;60
 bubbles;50
 buc;40
 buckaroo;60
+buckedforapromotion;50
+buckforapromotion;50
+buckingforapromotion;50
+bucksforapromotion;50
 buco;30;Osso ___
 budapesthungary;30;???
 buddhaair;50
@@ -4262,6 +4267,11 @@ bullhockey;60
 bullpen;50
 bullpens;50
 bulls;50
+bullyforher;60
+bullyforhim;60
+bullyforthem;60
+bullyforus;60
+bullyforyou;60
 bumaride;50
 bumble;50
 bumknee;50
@@ -6286,6 +6296,12 @@ corpse;50
 corpserun;60
 corpseruns;60
 corpses;50
+corrade;25;Erode away
+corraded;25
+corrades;25
+corrading;25
+corrasion;25
+corrasive;25
 correctchange;50
 correctingdents;1
 correctme;1
@@ -8910,7 +8926,7 @@ ectoderm;30;Zoology term
 ecuelle;30;???
 edacious;30
 edacity;30
-edam;30
+edam;40
 edda;30
 edema;40
 edemas;30
@@ -12982,6 +12998,7 @@ hasit;40
 hasitbad;50
 hasitgood;50
 haslegs;50
+hasnext;40;Playground dibs
 hasnolife;50
 hasnooomph;60
 hasnoplan;50
@@ -13355,6 +13372,7 @@ hesinrareform;60
 hesjustsayingwhateveryonesthinking;60
 hesjustsayingwhatwereallthinking;60
 hesjustsayingwhatweveallbeenthinking;60
+hesnext;40
 hessafe;50;Baseball shout???
 hetaera;25;Ancient Greek courtesan
 hetaerae;25;Ancient Greek courtesans
@@ -14466,6 +14484,7 @@ immie;25;Marble
 immies;25;Marbles
 immortalities;30
 immotile;30
+imnext;50
 imnoangel;60
 imnotarobot;60;CAPTCHA checkbox
 imnotdead;60
@@ -16040,11 +16059,15 @@ knifepleat;50
 knifepleats;50
 knightley;50
 knives;50
+knockedforaloop;60
 knockedin;40
 knockeditoutofthepark;60
+knockforaloop;60
 knockin;40
+knockingforaloop;60
 knockingitoutofthepark;60
 knockitoutofthepark;60
+knocksforaloop;60
 knocksin;40
 knocksitoutofthepark;60
 knorr;30;Bouillon brand
@@ -19266,8 +19289,12 @@ muffinman;50
 muffintin;50
 muffintins;50
 mufti;30
+mugforthecamera;60
+muggedforthecamera;60
+muggingforthecamera;60
 muggyday;40;Green paint???
 mugoftea;50
+mugsforthecamera;60
 mugsoftea;50
 mulch;50
 mulched;50
@@ -20743,7 +20770,7 @@ oding;5
 odinic;30
 odist;40
 odists;40
-odom;50;Leslie Odom, Jr., from "Hamilton" and "Glass Onion"
+odom;40;Leslie Odom, Jr., from "Hamilton" and "Glass Onion"
 odon;5
 odonata;25;Dragonfly genus
 odonto;25;Dental prefix
@@ -25865,6 +25892,7 @@ roadrash;50
 roadrunnerlasso;60;Acme invention
 roadshow;50
 roadshows;50
+roadtohell;60
 roadtoruin;60
 roadtrip;50
 roadtripped;50
@@ -27707,6 +27735,7 @@ shesinrareform;60
 shesjustsayingwhateveryonesthinking;60
 shesjustsayingwhatwereallthinking;60
 shesjustsayingwhatweveallbeenthinking;60
+shesnext;40
 shew;30
 shewed;30
 shewing;30
@@ -31717,6 +31746,7 @@ therio;30
 theriver;50
 theriviera;25
 thermoset;30
+theroadtohell;60
 therod;30
 theroom;60
 theropod;40;Dinosaur clade
@@ -31819,6 +31849,7 @@ thewhiskeyrebellion;40
 thewickerman;50
 thewisemen;30
 thexgames;40
+theyrenext;40
 theyreoff;50
 theysee;1
 thezapruderfilm;25
@@ -34356,6 +34387,7 @@ wereallout;60
 wereallset;60
 werealmostthere;60
 werebad;60
+werenext;50
 wereonthesamewavelength;60
 wererich;60
 weretoast;60
