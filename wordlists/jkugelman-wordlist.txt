@@ -3167,8 +3167,9 @@ bedsores;40
 bedtime;50
 beebeard;60
 beebeards;60
-beefalo;30;Hybrid cattle/bison
-beefalos;30
+beefalo;50;Hybrid cattle/bison
+beefaloes;40
+beefalos;40
 beefbroth;50
 beefcake;60
 beefcakes;60
@@ -4994,6 +4995,7 @@ catsitting;50
 catsmeow;60
 catt;30;Suffragist Carrie
 cattalo;30;Beefalo
+cattalo;30;Hybrid cattle/buffalo (see beefalo)
 catties;25
 cattlecar;50
 cattlecars;50
@@ -5155,6 +5157,7 @@ cellocases;50
 cellosolo;50
 cellosolos;50
 cellule;30
+cembalo;25;Harpsichord
 cementer;30
 cementnail;30
 cementnails;30
@@ -5861,6 +5864,7 @@ cocktailumbrella;50
 cocktailweenie;50
 cocoamix;50
 cocoamixes;50
+cocoapowder;50
 cocoapuff;30
 cocoas;40
 cocoasyrup;50
@@ -7505,6 +7509,7 @@ descistere;25
 describer;30
 describers;30
 deseret;25;Mormon state proposed in 1849
+desiarnazjr;50
 desica;30;Director of "The Bicycle Thief"
 designatedproxy;50
 desilu;30;Desi and Lucille's production company
@@ -9592,8 +9597,8 @@ eos;30;Goddess of the dawn
 epa;50
 epalab;30
 epalabs;30
-eparating;30;EPA rating
-eparatings;30
+eparating;50;EPA rating
+eparatings;50
 eparch;25
 eparchies;25
 eparchy;25;Eastern Christian equivalent of a diocese
@@ -11013,6 +11018,8 @@ forkedout;50
 forkout;50
 forksout;50
 formalin;30;Formeldahyde solution
+formaloffer;50
+formaloffers;50
 formerpresident;50
 formers;30
 forreal;60
@@ -11212,6 +11219,7 @@ fueltanks;50
 fugacity;40;Literary quality of being fleeting or evanescent
 fula;25;African ethnic group
 fulani;25;West African muslims
+fullamnesty;50
 fullbirdcolonel;50
 fullbirdcolonels;50
 fullgainer;50
@@ -11504,7 +11512,7 @@ geer;30;Will Geer of "The Waltons"
 geewhiz;60
 geezer;50
 geezers;50
-geigers;30
+geigers;40;Geiger counters, or particles detected by them
 geishaaccessory;1
 gelee;30
 gelinsert;50
@@ -11594,6 +11602,7 @@ getadate;30
 getafterit;60
 getajumpon;60
 getallthebreaks;50
+getalockon;50
 getamatch;50
 getana;40
 getanedge;50
@@ -11639,6 +11648,7 @@ getropedinto;40
 getsabumrap;60
 getsadate;30
 getsajumpon;60
+getsalockon;50
 getsamatch;50
 getsana;40
 getsanedge;50
@@ -11693,6 +11703,7 @@ getthesack;50
 gettingabumrap;60
 gettingadate;30
 gettingajumpon;60
+gettingalockon;50
 gettingamatch;50
 gettingapass;50
 gettingarun;30
@@ -12147,10 +12158,10 @@ goldwatch;50
 goldwatches;50
 golfcart;50
 golfcarts;50
+golfclap;60
 golfclaps;50
 golfclub;50
-golfclub;60
-golfclubs;60
+golfclubs;50
 golfmajor;50
 golfmajors;50
 golfpants;50
@@ -12253,8 +12264,7 @@ goos;30
 goosebump;60
 goosebumps;60
 goosechase;40
-goosechase;60
-goosechases;60
+goosechases;40
 gooseegg;60
 gooseeggs;50
 goosefat;50
@@ -12288,6 +12298,7 @@ gotabumrap;60
 gotadate;30
 gotagal;1
 gotajumpon;60
+gotalockon;50
 gotamatch;50
 gotaminute;60
 gotana;40
@@ -12649,8 +12660,10 @@ guffawing;50
 guffaws;50
 guidedog;50
 guidedogs;50
+guider;40
 guiderail;50
 guiderails;50
+guiders;40
 guilttrip;50
 guilttrips;50
 guilty;50
@@ -14085,7 +14098,6 @@ ibex;40;Wild goat
 ibexes;40;Just "ibex" is more common
 ibexkid;40
 ibexkids;40
-ibexkids;50
 ibid;40
 ibis;30;Bird
 ibischick;50
@@ -17631,6 +17643,7 @@ m;1
 maa;30
 maas;30
 maasai;40;Correct spelling of Masai
+maathai;40;Wangari Maathai, 2004 Nobel Peace Prize winner
 mabels;30
 macadam;30;Driving surface
 macadams;30;Driving surfaces
@@ -17669,6 +17682,7 @@ madeafist;50
 madeahashof;50;Bungled
 madeakilling;60
 madealist;30
+madeanoffer;50
 madeapass;50
 madeatoast;50
 madeauey;40
@@ -17688,6 +17702,7 @@ madenoises;50
 madeof;40
 madeoff;30
 madeofhonor;1
+madeonoffer;50
 madeplans;50
 madeproud;50
 maderoom;50
@@ -17796,10 +17811,13 @@ mainlot;1
 mainpoint;50
 mainst;30
 maintainability;50
+maison;40;French house
+maisons;40
 maisoui;50
 maitre;30
 maitred;50
 maitreds;50
+maitres;30
 maja;30;Goya's "The Naked ___"
 majeste;30
 majoredin;40
@@ -17818,6 +17836,7 @@ makeahashof;50;Bungle
 makeakilling;60
 makealist;30
 makeanentrances;1
+makeanoffer;50
 makeapass;50
 makeatoast;50
 makeauey;40
@@ -17846,6 +17865,7 @@ makeroom;50
 makesacrack;50
 makesahashof;50;Bungles
 makesakilling;60
+makesanoffer;50
 makesapass;50
 makesatoast;50
 makesauey;40
@@ -17883,6 +17903,7 @@ makewar;30
 makewaves;60
 makingahashof;50;Bungling
 makingakilling;60
+makinganoffer;50
 makingapass;50
 makingatoast;50
 makingauey;40
@@ -19628,9 +19649,7 @@ nbarefs;50
 nbaring;50
 nbarings;50
 nbastar;40
-nbastar;50
 nbastars;40
-nbastars;50
 nbasummerleague;50
 nbc;50
 nbcsports;50
@@ -22220,7 +22239,6 @@ partingofways;60
 partitive;30
 partof;40
 partridgechick;50
-partridgechicks;30
 partridgechicks;50
 partsdepartment;50
 partsfrom;40
@@ -23664,6 +23682,7 @@ prestir;30
 prestired;30
 prestirring;30
 prestirs;30
+pretaporter;50;Prêt-à-porter, ready-to-wear
 preterit;25
 preterite;30
 pretest;30
@@ -26445,6 +26464,7 @@ sacrum;30;Lower back bone
 sadbeige;60
 sadbeigebaby;60
 sadd;40
+saddams;25
 saddleseat;50
 saddleseats;50
 saddos;25
@@ -27272,15 +27292,18 @@ seesup;40
 seeth;30
 seethelight;60
 seethings;50
+seethru;40
 seeto;40
 seetv;25
 seeum;25
 seeums;25
 seeup;40
 seeyouallinhell;60
+segals;25
 segno;40
 sego;30
 segos;30
+segura;40;Comedian/podcaster Tom Segura
 segwaytour;50
 segwaytours;50
 seigniories;25
@@ -28768,8 +28791,8 @@ socialcue;50
 socialcues;50
 socialmediainfluencer;60
 socialmediainfluencers;60
-socialnorm;60
-socialnorms;60
+socialnorm;50
+socialnorms;50
 socialreformers;50
 societe;30
 socio;30
@@ -33237,6 +33260,8 @@ uhnak;1
 uhohspaghettios;60
 uhs;30
 uhuru;25;Swahili for "freedom"
+uinta;30;Utah mountain range
+uintas;30
 ukase;25;Imperial decree
 ukases;25;Imperial decrees
 uke;40
@@ -33885,9 +33910,7 @@ victoryismine;60
 vicuna;30;Alpaca-like animal
 vicuna;30;Andes animal
 vicunacalf;30
-vicunacalf;50
 vicunacalves;30
-vicunacalves;50
 vicunas;30
 vida;40
 vide;40;Sous vide cooking technique
@@ -33965,6 +33988,8 @@ visitswith;40
 visitwith;40
 vistaed;25
 vistula;30;Longest river in Poland
+visualnovel;60
+visualnovels;60
 vita;40
 vitamini;40;Ibuprofen
 vitamink;50
@@ -34047,6 +34072,7 @@ vwx;25
 vyingfor;40
 w;1
 wack;30
+wackadoodle;60
 wader;30
 waders;30
 wadofbills;50
@@ -34117,6 +34143,7 @@ wallspace;50
 walruscalf;50
 walruscalves;50
 waltdisney;60
+wampum;40
 wanderaroundtown;50
 wanner;40
 wannest;40
@@ -34446,6 +34473,7 @@ whang;40
 whassup;50
 what;50
 whataboutism;60
+whataboutit;60
 whatacard;50
 whatacoincidence;60
 whatadickmove;60
@@ -34955,10 +34983,9 @@ xcviii;25
 xdate;25
 xdin;25
 xdout;30
-xed;30
 xed;40
 xedin;25
-xedout;30
+xedout;40
 xeljanz;30;Arthritis medication
 xem;25;???
 xeno;40
