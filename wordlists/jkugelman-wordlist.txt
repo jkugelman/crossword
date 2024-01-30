@@ -135,6 +135,7 @@ ablating;30
 abler;40
 ablest;50
 abnegative;50
+abo;25;Blood typing [common]
 abomb;30
 abombs;30
 aboner;20
@@ -824,6 +825,7 @@ aisleseats;50
 aix;20
 aja;20;Steely Dan album
 aji;20
+ajo;25;Garlic: Sp. [rare]
 aka;50
 akas;30
 akc;30;American Kennel Club
@@ -1032,6 +1034,7 @@ almondpaste;50
 almostthere;60
 almvp;40
 almvps;40
+alo;25;Hello in Portugese and South/Central American Spanish [occasional]
 aloadof;20
 aloerter;30;Discus champion
 alohastate;50
@@ -1570,7 +1573,7 @@ aplit;30
 aplus;40
 apmacro;30
 apneas;30
-apo;20;Army Post Office
+apo;25;Army Post Office [common]
 apocket;20
 apogeal;30
 apogean;30
@@ -1886,6 +1889,7 @@ aroar;40
 aroint;20;Shakespearean "Begone!"
 aroints;20;Drives away, archaic
 aromatize;40
+aroo;30;Suffix with buck [common]
 arousals;30
 arouser;40
 arousers;40
@@ -2067,6 +2071,7 @@ asleepinthedeep;60
 asmara;20;Capital of Eritrea
 asmaran;20;From Asmara, Eritrea's capital
 asmr;30
+aso;25;Japan's largest volcano [rare]
 asof;50
 asoftenasnot;60
 asolo;20
@@ -2440,6 +2445,7 @@ avidfan;50
 avidfans;50
 avisos;20;Boats
 avlub;1
+avo;20
 avo;20;Avocado
 avocadoseed;50
 avocadoseeds;50
@@ -2496,6 +2502,9 @@ azeri;30;Turk ethnic group in Azerbaijan
 azeris;30;Turk ethnic group in Azerbaijan
 azimuthal;30
 azingers;20
+azo;25;Kind of dye [common]
+azo;25;Kind of dye [rare]
+azodye;30
 azodyes;30
 azoth;30;Mercury, to alchemists
 azov;30;Russian sea
@@ -9218,7 +9227,7 @@ elkcalf;50
 elkcalves;50
 elkormoose;1
 elkslodge;50
-ell;30
+ell;25;L [common]
 ellegirl;50
 elleking;50;Country singer
 ellesse;30;Italian sportswear brand
@@ -10325,6 +10334,7 @@ farouche;30;???
 farrar;30;Publisher, or original NYT crossword editor
 fart;20;Air offensive?
 farworse;50
+fas;25;Scale notes [occasional]
 fasciae;30
 fascicle;30
 fascicles;30
@@ -13409,7 +13419,7 @@ hewedto;40
 hewingto;40
 hewsto;40
 hewto;40
-hex;60
+hex;50
 hexad;40
 hexadecimal;50
 hexads;40
@@ -14080,6 +14090,7 @@ hyssop;20;Shrub
 hyssops;20;Shrubs
 i;50
 iact;20
+ial;25;Suffix [occasional]
 ialone;50
 iamtoast;50
 iandj;20
@@ -14104,6 +14115,7 @@ ibis;30;Bird
 ibischick;50
 ibischicks;50
 ibn;40
+ibo;25;Nigerian tribe [occasional]
 ibram;30;???
 icahn;30;Billionaire Carl
 ican;30
@@ -14295,6 +14307,8 @@ idylists;20
 idyls;20
 ied;5
 ieds;5
+ier;25;Occupational suffix [common]
+ies;25;Plural suffix [rare]
 if;50
 ifear;40
 ifeelbad;60
@@ -14357,8 +14371,8 @@ ihopeyourehappy;60
 ihops;30
 ihre;20
 ihurt;20
-iii;20;Three, of a kind
-iiii;20;Four, of a kind
+iii;25;Three, of a kind
+iiii;25;Four, of a kind
 iiiii;20
 iirc;30;"To the best of my recollection", in a text
 ijk;20
@@ -14375,6 +14389,7 @@ iknowsomeofthesewords;60
 iko;20
 ikoiko;30;Mardis Gras song
 ilana;30;Actress Ilana Glazer
+ile;40
 ileave;20
 iledelacite;50
 ileftmy;1
@@ -14382,7 +14397,7 @@ ileitis;20
 ilene;30;Graff, Chaiken, Woods
 ilenes;20
 ileostomy;30
-iles;30
+iles;40
 ilex;20;Holly
 ilhan;50
 ilhanomar;50
@@ -14602,6 +14617,7 @@ imwayaheadofyou;60
 imwellaware;60
 in;50
 ina;20
+ina;25;Partial or suffix [extremely common]
 inaba;20;Japanese province/cat food
 inabadway;50
 inabalin;30;Actress
@@ -14651,6 +14667,7 @@ inatin;20
 inatree;30
 inatub;30
 inavacuum;60
+inb;25;Key signature [occasional]
 inbasket;50
 inbaskets;50
 inbedwith;60
@@ -14749,6 +14766,7 @@ indwelling;20
 indwells;20
 indwelt;30
 indya;30
+ine;25;Suffix or key signature [extremely common]
 ineedalift;60
 ineedanap;60
 ineedaride;50
@@ -14835,6 +14853,7 @@ innis;20;Black activist Roy
 innotime;60
 innu;20;Canadian natives
 innuendo;50
+ino;25;Rescuer of Odysseus, or Italian suffix [common]
 inocula;30
 inoculum;30
 inodorous;30
@@ -14904,6 +14923,7 @@ insult;50;Offensive line?
 insultcomic;60
 insults;50;Offensive lines?
 insurancebroker;50
+int;30;Interception or interest
 intaglio;50
 intaglioed;50
 intaglios;50
@@ -14967,6 +14987,7 @@ intrust;40
 intrusted;40
 intrusting;40
 intrusts;40
+inu;25;Shiba inu [only once in 2022]
 inuk;30;Single Inuit
 inunct;20;Rub with ointment
 inunction;30;Rub with ointment
@@ -15026,6 +15047,7 @@ ions;50
 ionstorm;50;Geomagnetic disturbance
 ionstorms;50;Geomagnetic disturbances
 ioo;20
+ior;25;Suffix [rare]
 ios;40
 iouua;1
 iowas;30
@@ -15180,6 +15202,7 @@ iseult;20;Isolde
 ish;40
 ishares;30;ETF collection
 ishi;20
+isi;20;Partial [occasional]
 isidora;30
 isidore;30
 isidro;30
@@ -15246,7 +15269,7 @@ issueless;30
 issuesto;40
 issueto;40
 issuingto;40
-ist;30
+ist;25;Suffix [common]
 iste;20
 isthatall;60
 isthatano;60
@@ -15320,7 +15343,7 @@ itllbetheendofme;60
 itllturnup;60
 itmakesnosense;60
 itmakesyouthink;60
-ito;30;Judge Lance
+ito;30;Judge Lance Ito or skater Ito Midori
 itonya;40
 itoo;40
 itpro;30
@@ -15424,6 +15447,7 @@ itwasjustadream;60
 itwasjustathought;60
 itwasmeanttobe;60
 itwasntme;60
+ity;25;Suffix [rare]
 iud;40
 iuds;40
 ivani;30
@@ -16186,6 +16210,7 @@ kymograph;20;Graphical representation of spatial position over time
 kymographs;20;Graphical representations of spatial position over time
 kyocera;30;Japanese electronics company
 l;1
+laa;25;Los Angeles Angels, on scoreboards [occasional]
 laalaa;30;Yellow Teletubby
 laalaa;50;Yellow teletubby
 laban;20;Jacob's father-in-law
@@ -16201,6 +16226,7 @@ labordayweekend;50
 labrie;50
 labtech;50
 labwork;50
+lac;25;Fond du Lac [common]
 lacage;40;La Cage aux Folles musical, familiarly
 lacan;20;Psychoanalyst Jacques
 lacarte;1
@@ -16359,6 +16385,7 @@ lapsesinto;40
 lapsinginto;40
 laputa;5
 lapweld;50
+lar;25;Choreographer Lar Lubovitch [occasional]
 laram;40
 laraza;30;Latino race, not sure how to sum it up, NYT debut
 larb;30;Laotian dish
@@ -16553,6 +16580,7 @@ lbeam;30
 lbeams;30
 lbj;40
 lbjranch;50
+lbo;25;Leveraged buyout [common]
 lbomb;60
 lbombs;60
 lbs;50
@@ -16751,6 +16779,7 @@ leisured;30
 leisures;30
 leisuretime;50
 lek;20;Albanian coin
+lem;40;Moon lander, or Stanislaw Lem
 lemaitre;40;???
 lemmeatem;60
 lemming;50
@@ -16871,6 +16900,7 @@ lexan;20;Type of plastic
 lexingtonky;30
 leyna;30;Unnotable name???
 lgbtflag;60
+lgs;25;Some phones/TVs [rare]
 lhasa;30
 lhasan;20;From Tibet's capital
 lhasans;20;From Tibet's capital
@@ -16894,6 +16924,7 @@ librates;20
 librating;20
 libration;20
 libre;40
+lic;25;License [common]
 licensefee;50
 licensefees;50
 lickandapromise;50
@@ -17252,7 +17283,7 @@ logrides;50
 logsinto;40
 logsonto;40
 logy;20;Lethargic
-loi;20
+loi;25;Law: Fr. [occasional]
 loire;30;Longest river in France
 loiret;30;Orléans department in France
 lol;50
@@ -17534,11 +17565,12 @@ ltcols;40
 ltd;50
 ltdan;50
 ltds;20;Old Fords
-lte;20
+lte;25;Cell phone speed [common]
 ltflap;40;Beetle Bailey character
 ltgov;40
 ltgovs;30
 ltr;20
+lts;30;Lieutenants
 luanda;30;Capital of Angola
 lubricity;30
 luc;40
@@ -20708,6 +20740,7 @@ obol;30
 obote;30;President of Uganda
 obovate;20;Egg-shaped
 obrother;50
+obs;40;Obstetricians
 obscener;30
 obscenest;40
 obscenicon;50;"$*@!" e.g., aka grawlix
@@ -20912,6 +20945,7 @@ ohyourebad;60
 ohyousweetsummerchild;60
 oid;20;What makes a fact trivial?
 oid;20;What makes a human like a human?
+oid;25;Suffix [occasional]
 oilbaron;50
 oilbarons;50
 oilcar;40
@@ -20974,7 +21008,7 @@ oksmartypants;60
 oksure;50
 okthen;50
 oktober;50
-ola;30
+ola;25;Greeting or suffix [extremely common]
 olafi;30
 olafii;20
 olafiv;20
@@ -21100,6 +21134,7 @@ oms;40
 omsk;30;Siberian city
 omw;40
 on;50
+ona;25;Partial [extremely common]
 onabender;50
 onabet;30
 onabinge;30
@@ -21338,6 +21373,7 @@ onrce;1
 onrecord;50
 onredalert;30
 onrye;30
+ons;30;Usually a FITB or "word after" [common]
 onsafari;60
 onsaleat;30
 onsea;20
@@ -21390,6 +21426,7 @@ oon;20
 oona;30
 oons;20
 ooo;20
+ooo;25;Tic-tac-toe winner [common]
 oooh;30
 oop;40
 oopak;20;Black tea
@@ -21731,6 +21768,7 @@ ossie;40
 ossies;20
 ossipee;20
 osso;30;___ buco
+ost;25;East: Ger. [common]
 ostar;20
 ostars;20
 osteal;30;Pertaining to bones
@@ -23573,6 +23611,7 @@ powertool;50
 powertools;50
 pows;40
 ppe;40
+ppg;25;NBA stat [rare]
 ppp;20
 pppppp;20
 pps;40
@@ -27173,7 +27212,7 @@ seattleseahawks;50
 seattlewa;30
 seaturtle;50
 seaturtles;50
-seau;20
+seau;30;NFL hall-of-famer Junior Seau
 seaurchin;50
 seaurchins;50
 seawar;30
@@ -27468,7 +27507,7 @@ sequester;50
 sequestered;50
 sequestering;50
 sequesters;50
-ser;30
+ser;25;Spanish verb, GOT title, or sermon [extremely common]
 sera;40
 serai;20;Caravansary
 serais;20
@@ -27612,7 +27651,7 @@ sewists;50
 sewon;50
 sews;50
 sewson;40
-sex;60
+sex;50
 sexappeal;60
 sexcapade;60
 sexcapades;60
@@ -29440,7 +29479,7 @@ srilanka;50
 sriracha;50
 sris;30
 sro;30
-srs;30
+srs;25;Seniors [extremely common]
 srta;40
 srtas;40
 sry;40
@@ -29453,12 +29492,12 @@ sshapes;40
 ssn;40
 ssns;40
 ssorts;20
-ssr;20
+ssr;25;Part of the USSR [extremely common]
 ssri;40
 ssris;40
-ssrs;20
-ssrs;20;United states, once: Abbr.
-sss;20;Selective Service System
+ssrs;25
+sss;25;Selective Service System, or sound [extremely common]
+sst;25;Concorde [extremely common]
 sstar;20
 sstars;20
 ssw;20
@@ -30168,7 +30207,7 @@ struma;20
 struma;20;Disease, river, ship
 strumae;20
 strutting;50
-sts;40
+sts;30
 sttc;20
 sttng;20
 stuckon;50
@@ -33928,8 +33967,8 @@ viesfor;40
 viet;40
 vig;50
 vigny;20;Alfred de ___
-vii;20
-viii;20
+vii;25
+viii;25
 vinblanc;50
 vinca;20;Periwinkle genus
 vinci;40
@@ -35010,8 +35049,8 @@ xfl;40
 xgames;60
 xian;30;Christian, or city of 12 million in Western China
 xiang;30
-xii;20
-xiii;20
+xii;25
+xiii;25
 xin;30
 xinag;20
 xing;40
@@ -35077,7 +35116,7 @@ xylitol;60
 xylophone;60
 xylophones;60
 xylose;30
-xyz;60
+xyz;50
 y;1
 yaateeh;40;Navajo "hello"
 yabook;20
@@ -35349,9 +35388,8 @@ zebracrossing;60
 zebracrossings;60
 zebroid;30;Zebra hybrid
 zebroids;30;Zebra hybrids
-zebu;20
-zebu;20;Indian ox
-zebus;20
+zebu;30;Indian ox [occasional]
+zebus;30
 zedonk;30
 zedonks;30
 zee;30
