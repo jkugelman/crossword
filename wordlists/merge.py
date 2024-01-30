@@ -62,9 +62,9 @@ def xwi_renumber(word, score):
     if score >= 30:
         return (word, 30)
     elif score >= 25:
-        return (word, 25)
+        return (word, 20)
     else:
-        return (word, 25)
+        return (word, 20)
 
 def rel_path(path):
     return os.path.join(os.path.dirname(__file__), path)
@@ -86,7 +86,7 @@ def load_word_list(min_score=0):
 
 def save_word_list(word_list):
     word_list.save('wordlist.txt', scores=True)
-    word_list.save('unscored.txt', scores=False, min_score=25)
+    word_list.save('unscored.txt', scores=False, min_score=20)
 
 if __name__ == '__main__':
     word_list = load_word_list()
