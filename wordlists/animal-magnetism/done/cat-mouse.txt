@@ -1,5 +1,0 @@
-AND + cat/mouse = catandmouse
-ANDGAME + cat/mouse = catandmousegame
-ANDGAMES + cat/mouse = catandmousegames
-NIP + cat/mouse = catnipmouse
-PLAYAND + cat/mouse = playcatandmouse

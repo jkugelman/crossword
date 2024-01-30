@@ -1,6 +1,0 @@
-COM + bat/ant = combatant
-COMS + bat/ant = combatants
-NONCOM + bat/ant = noncombatant
-NONCOMS + bat/ant = noncombatants
-UNARMEDCOM + bat/ant = unarmedcombatant
-UNARMEDCOMS + bat/ant = unarmedcombatants
