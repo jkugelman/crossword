@@ -80,7 +80,10 @@ def load_word_list(min_score=0):
     with open(rel_path('jkugelman-clues.txt')) as clues:
         clued_words = {line.strip().split(';')[0] for line in clues}
         for clued_word in clued_words:
-            word_list.words[clued_word] += 1
+            try:
+                word_list.words[clued_word] += 1
+            except KeyError:
+                pass
 
     return word_list
 

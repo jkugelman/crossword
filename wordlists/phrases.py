@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
-import fileinput
+from argparse import ArgumentParser
+import re
+import sys
 
 from merge import *
 
@@ -14,9 +16,13 @@ def phrases(entry, words):
         yield [entry]
 
 if __name__ == '__main__':
-    word_list = load_word_list(min_score=2)
+    parser = ArgumentParser()
+    parser.add_argument('-m', '--min', type=int, default=2)
+    args = parser.parse_args()
 
-    for line in fileinput.input():
-        entry = line.rstrip()
+    word_list = load_word_list(min_score=args.min)
+
+    for line in sys.stdin:
+        entry = re.sub(';.*', '', line.strip())
         for phrase in phrases(entry, word_list.words):
             print(" ".join(phrase))
