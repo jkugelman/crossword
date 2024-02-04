@@ -124,6 +124,7 @@ bishops;Professions of faith
 blackbeauty;Night mare?
 blackjackdealer;Ace pitcher?
 blackjackdealers;Ace pitchers?
+blackjackdealers;Table manners?
 bland;Boring name for an Australian town
 blockbuster;Shoot for the stars?
 blockbusters;Shoots for the stars?
@@ -289,6 +290,7 @@ dead;Charge too little?
 dead;Free of charge?
 dealer;Ace pitcher?
 dealers;Ace pitchers?
+dealers;Table manners?
 dealingto;Giving a hand
 dealsto;Gives a hand
 dealto;Give a hand
@@ -577,7 +579,7 @@ identifies;Gets a handle on?
 identify;Get a handle on?
 identifying;Getting a handle on?
 ididntdoit;Defensive line?
-ido;Swear words
+#ido;Swear words [used in One and the Same]
 ignition;Starter home?
 ignitions;Starter homes?
 illiteracy;"___ an obstable, study finds" (The Washington Post)
@@ -664,13 +666,13 @@ knives;Choppers
 kobebeef;A cut above the rest?
 koln;Cologne to Europeans
 lace;Tie up in knots?
-lace;Tie up loose ends? [used in Square to Begin]
+#lace;Tie up loose ends? [used in Square to Begin]
 laced;Tied up in knots?
-laced;Tied up loose ends? [used in Square to Begin]
+#laced;Tied up loose ends? [used in Square to Begin]
 laces;Ties up in knots?
-laces;Ties up loose ends? [used in Square to Begin]
+#laces;Ties up loose ends? [used in Square to Begin]
 lacing;Tying up in knots?
-lacing;Tying up loose ends? [used in Square to Begin]
+#lacing;Tying up loose ends? [used in Square to Begin]
 ladle;Stock holder?
 ladles;Stock holders?
 lager;Heady stuff?
@@ -1031,6 +1033,7 @@ sermon;Cross promotion
 sermon;Cross talk
 sermons;Cross promotion
 sermons;Cross talk
+servers;Table manners?
 service;Cross promotion
 service;Cross talk
 services;Cross promotion
@@ -1303,7 +1306,7 @@ truckers;Semi conductors?
 true;Kind of blue?
 trypanophobe;One with sticker shock?
 trypanophobia;Sticker shock?
-tubas;They have big brass bells [used in Square to Begin]
+#tubas;They have big brass bells [used in Square to Begin]
 twothumbsup;Movie props?
 uberrich;Overloaded?
 ugli;Unsightly-sounding fruit
@@ -1322,7 +1325,10 @@ voltage;Potential difference
 volume;Remote possibility?
 vowofsilence;Zip code?
 waiters;Table manners?
+waiters;Table manners?
 waitresses;Table manners?
+waitresses;Table manners?
+waitrons;Table manners?
 waityourturn;Line rule
 walkout;"Limb centre hit by ___" (Cumberland News)
 wasitgoodforyou;Finish line?
