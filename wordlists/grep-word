@@ -1,0 +1,14 @@
+#!/bin/bash
+
+main() {
+    local word="$1"
+    local wordlist="${2:-wordlist.txt}"
+
+    rg "$word" "$wordlist" | ./phrases.py --min 30 | rg -w "$word" | sed 's/ //g' | uniq | rgl "$word"
+}
+
+rgl() {
+    rg -p "$@" | less -R
+}
+
+main "$@"
