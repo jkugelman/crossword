@@ -1618,6 +1618,10 @@ apothems;30
 appa;20;Dad: Kor.
 appal;20;Variant spelling
 appanage;20;Gift of land, archaic
+appealedtoonesbaserinstincts;60
+appealingtoonesbaserinstincts;60
+appealstoonesbaserinstincts;60
+appealtoonesbaserinstincts;60
 appearedin;40
 appearin;40
 appearingin;40
@@ -4230,6 +4234,8 @@ browncows;50
 browndwarf;50
 browndwarfs;50
 brownnoise;60
+brownshirt;20
+brownshirts;20
 brr;50
 brrr;30
 brrrr;20
@@ -4242,6 +4248,7 @@ bruiting;30;Spreading, as a rumor
 bruits;30;Spreads, as a rumor
 bruni;30;Carla ___
 brusselsbelgium;30;???
+bsa;40
 bsdegree;40
 bsdegrees;40
 bsee;20
@@ -4710,6 +4717,7 @@ cantcook;30;???
 canteen;50
 canteens;50
 canticleforleibowitz;50
+cantmakeanyguarantees;60
 cantonment;30
 cantonoh;30
 cantonohio;30
@@ -10225,6 +10233,10 @@ exserts;30
 exspy;40
 exstar;20
 ext;40
+extendanolivebranch;50
+extendedanolivebranch;50
+extendinganolivebranch;50
+extendsanolivebranch;50
 extensionladder;50
 extoller;30
 extollers;30
@@ -10327,6 +10339,7 @@ fairbanksalaska;50
 fairdeal;50
 fairdeals;50
 fairish;30
+fairmaiden;50
 fairpoint;60
 fairshare;50
 fairshares;50
@@ -10334,6 +10347,7 @@ fairtrial;50
 fairtrials;50
 fairway;50
 fairways;50
+fairyoungmaiden;50
 fairytale;60
 fairytales;60
 fakemeat;50
@@ -10755,6 +10769,7 @@ fireat;40
 fireaway;50
 firedashot;50
 firedat;40
+firedonallcylinders;60
 fireemoji;60
 fireexit;50
 fireexits;50
@@ -10769,14 +10784,17 @@ fireiron;40;Fireplace poker
 fireirons;40;Fireplace pokers
 firemansred;1
 firemarshal;50
+fireonallcylinders;60
 fireplug;60
 firesale;60
 firesales;60
 firesashot;50
 firesat;40
 fireseason;50
+firesonallcylinders;60
 firingashot;50
 firingat;40
+firingonallcylinders;60
 firings;30
 firmbelief;50
 firmbeliefs;50
@@ -12131,6 +12149,7 @@ godeaf;50
 godelescherbach;60
 godim;30
 godisdead;60
+godowntheline;50
 godry;40
 godsacre;50
 godsacres;50
@@ -12146,6 +12165,7 @@ goesblank;50
 goesby;40
 goescondo;50
 goesdeaf;50
+goesdowntheline;50
 goesdry;50
 goeseasyon;50
 goesflat;50
@@ -12220,6 +12240,7 @@ goingblank;50
 goingby;40
 goingcondo;50
 goingdeaf;50
+goingdowntheline;50
 goingdry;50
 goingflat;50
 goingforadip;50
@@ -14264,6 +14285,7 @@ icantbelieveitsactuallyhappening;60
 icantbelieveitshappening;60
 icantbelievemyeyes;60
 icantgonow;60
+icantmakeanyguarantees;60
 icantstandit;60
 icanttakeit;60
 icantwait;60
@@ -14447,6 +14469,7 @@ ieds;5
 ier;25;Occupational suffix [common]
 ies;25;Plural suffix [rare]
 if;50
+ifbysomemiracle;60
 ifear;40
 ifeelbad;60
 ifeelpretty;60
@@ -14564,6 +14587,7 @@ illlive;60
 illmannered;50
 illseemyselfout;60
 illseeyouinhell;60
+illshowmyselfout;60
 illsue;60
 illtell;60
 illtryredialing;20
@@ -14733,6 +14757,7 @@ imsaved;60
 imscared;60
 imscrewed;60
 imserious;60
+imshockeditellyou;60
 imsobored;60
 imsold;60
 imsoold;60
@@ -15115,6 +15140,7 @@ inthat;40
 inthatcase;50
 inthealtogether;60
 intheghetto;50;Elvis song
+intheheatofbattle;50
 inthehouse;50
 inthehunt;60
 inthelurch;60
@@ -18036,10 +18062,13 @@ mahayanist;30;Type of Buddhist
 mahi;40
 mai;40;___ tai
 maidenaunt;50
+maidenaunts;50
 maidenform;50
 maidenname;50
 maidennames;50
 maidens;50
+maidenvoyage;50
+maidenvoyages;50
 maidofhonor;50
 maidsofhonor;50
 maier;30;Skier Hermann Maier
@@ -34503,6 +34532,7 @@ wagontrains;50
 wahl;30;Barber brand
 wahs;30
 waitabit;50
+waitadarnminute;60
 waite;30;Various people, not super notable
 waitedabit;50
 waiters;50
@@ -34820,6 +34850,7 @@ wentblank;50
 wentby;40
 wentcondo;50
 wentdeaf;50
+wentdowntheline;50
 wentdry;50
 wentflat;50
 wentforadip;50
@@ -34911,9 +34942,11 @@ whatadisgrace;60
 whatadrag;60
 whatamess;60
 whatanightmare;60
+whatareweeventalkingabout;60
 whatareyoudoing;50
 whatareyounuts;60
 whatareyouon;60
+whatareyoutalkingabout;60
 whatareyouupto;60
 whatarip;60
 whatazoo;60;60 is borderline...
@@ -34924,6 +34957,8 @@ whatdoesthatmean;60
 whatdoyouthinkyouredoing;60
 whatexactlyisthepoint;60
 whatfor;60
+whatinblazes;60
+whatisdeadmayneverdie;60
 whatjusthappened;60
 whatseemstobetheissue;50
 whatsshakinbacon;60
@@ -35696,6 +35731,7 @@ yougood;60
 yougottabejoking;60
 yougottabekiddingme;60
 youguysgiveuporareyouthirstyformore;60
+youhadonejob;60
 youhearme;60
 youidiot;60
 youllfitrightin;60
