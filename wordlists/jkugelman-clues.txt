@@ -1,3 +1,9 @@
+#ido;Swear words [used in One and the Same]
+#lace;Tie up loose ends? [used in Square to Begin]
+#laced;Tied up loose ends? [used in Square to Begin]
+#laces;Ties up loose ends? [used in Square to Begin]
+#lacing;Tying up loose ends? [used in Square to Begin]
+#tubas;They have big brass bells [used in Square to Begin]
 aaa;Org. with many roadside towers?
 abettor;Stealing second?
 abroller;It could help in a crunch
@@ -183,7 +189,9 @@ cadaver;Body of evidence?
 cadavers;Bodies of evidence?
 calculator;Product development tool?
 calculators;Product development tools?
+calendar;51;Its days are numbered
 calendar;Times square?
+calendars;51;Their days are numbered
 calendars;April showers, in April?
 camels;Saudi Arabia imports them from Australia
 campfire;Bush telly, to an Aussie
@@ -305,6 +313,8 @@ deionized;Free of charge?
 depositions;Hearing things?
 dermatologist;One who makes rash decisions?
 dermatologists;Ones who makes rash decisions?
+deskcalendar;51;Its days are numbered
+deskcalendars;51;Their days are numbered
 destination;Get to it!
 det;Grill master, for short?
 detective;Grill master?
@@ -357,14 +367,18 @@ ears;Hearing things?
 earthmother;Dirty girl?
 earthshattering;Groundbreaking?
 edit;Have away with words?
+edit;Make paper cuts
 edit;Put in a good word?
 edit;Solve word problems?
 edited;Had away with words?
+edited;Made paper cuts
 edited;Put in a good word?
 edited;Solved word problems?
+editing;Making paper cuts
 editing;Putting in a good word?
 editing;Solving word problems?
 edits;Has away with words?
+edits;Makes paper cuts
 edits;Puts in a good word?
 edits;Solves word problems?
 eel;"Endangered seal with ___ up its nose remains a mystery" (BBC)
@@ -579,7 +593,6 @@ identifies;Gets a handle on?
 identify;Get a handle on?
 identifying;Getting a handle on?
 ididntdoit;Defensive line?
-#ido;Swear words [used in One and the Same]
 ignition;Starter home?
 ignitions;Starter homes?
 illiteracy;"___ an obstable, study finds" (The Washington Post)
@@ -666,13 +679,9 @@ knives;Choppers
 kobebeef;A cut above the rest?
 koln;Cologne to Europeans
 lace;Tie up in knots?
-#lace;Tie up loose ends? [used in Square to Begin]
 laced;Tied up in knots?
-#laced;Tied up loose ends? [used in Square to Begin]
 laces;Ties up in knots?
-#laces;Ties up loose ends? [used in Square to Begin]
 lacing;Tying up in knots?
-#lacing;Tying up loose ends? [used in Square to Begin]
 ladle;Stock holder?
 ladles;Stock holders?
 lager;Heady stuff?
@@ -1306,7 +1315,6 @@ truckers;Semi conductors?
 true;Kind of blue?
 trypanophobe;One with sticker shock?
 trypanophobia;Sticker shock?
-#tubas;They have big brass bells [used in Square to Begin]
 twothumbsup;Movie props?
 uberrich;Overloaded?
 ugli;Unsightly-sounding fruit
@@ -1331,6 +1339,8 @@ waitresses;Table manners?
 waitrons;Table manners?
 waityourturn;Line rule
 walkout;"Limb centre hit by ___" (Cumberland News)
+wallcalendar;51;Its days are numbered
+wallcalendars;51;Their days are numbered
 wasitgoodforyou;Finish line?
 watch;It's strapped for time
 watches;They're strapped for time

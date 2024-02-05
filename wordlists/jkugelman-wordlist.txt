@@ -797,6 +797,8 @@ airlike;30
 airlinepilots;50
 airlock;50
 airlocks;50
+airmarshal;50
+airmarshals;50
 airmattress;50
 airmattresses;50
 airness;60
@@ -2310,7 +2312,7 @@ atme;20
 atminside;50
 atmmachine;50
 atmmachines;50
-atms;40
+atms;50
 atmyage;50
 atnight;30
 atnine;20
@@ -2521,7 +2523,7 @@ aymara;30;Peruvian native/language
 ayo;40;Ayo Edebiri of "The Bear" or Ayọ Tometi, co-founder of Black Lives Matter
 ayouproblem;60
 ayres;20;Actor Lew
-ays;40
+ays;30;Shakespearean cries
 ayup;50
 azathoth;60;Lovecraftian god
 azera;20;Discontinued Hyundai model
@@ -2707,6 +2709,7 @@ baggagecarousel;50
 baggagecarousels;50
 bagjob;60
 bagjobs;60
+baglunch;50
 bagnold;30;Playwright
 bahn;30
 bahs;30
@@ -3247,6 +3250,8 @@ beerbottle;50
 beerbottles;50
 beerbust;50
 beerbusts;50
+beergut;50
+beerguts;50
 beerier;30
 beeriest;30
 beerkoozie;60
@@ -3290,6 +3295,7 @@ beguines;30
 behan;30;Irish writer Brendan Behan
 behar;40;Joy Behar of "The View"
 behim;20
+behindit;20
 behonest;60
 beigepaint;1
 beiges;30
@@ -4275,6 +4281,8 @@ buckaroo;60
 buckedforapromotion;50
 buckforapromotion;50
 buckingforapromotion;50
+bucksaw;50
+bucksaws;50
 bucksforapromotion;50
 buco;40;Osso ___
 budapesthungary;30;???
@@ -5143,7 +5151,7 @@ cclefs;30
 ccli;20
 ccliv;20
 cclv;20
-ccr;40;Credence Clearwater Revival
+ccr;30;Credence Clearwater Revival
 ccs;40
 cctv;30
 ccup;40
@@ -6580,6 +6588,8 @@ crammingin;40
 cramsin;40
 craner;30
 craners;30
+craniate;30;Member of the Craniata, animals with skulls
+craniates;30
 crapgame;50
 crapo;20
 crapsgame;50
@@ -6738,6 +6748,7 @@ crower;30
 crowers;30
 crowley;50;Aleister Crowley
 crowne;40;Crowne Plaza hotels
+crownroyal;50
 crownvic;50
 crownvics;50
 crowpose;50
@@ -6826,6 +6837,7 @@ cueball;60
 cueballs;50
 cuecard;50
 cuecards;50
+cuellar;40;Rep. Henry Cuellar (R-TX)
 cues;50
 cuestick;50
 cuesticks;50
@@ -7095,6 +7107,7 @@ darnit;60
 darnitall;60
 darnitalltoheck;60
 darnittoheck;60
+darpa;40
 darter;40
 darters;40
 dartgun;50
@@ -8897,6 +8910,7 @@ eastasia;50
 easterbunny;60
 easternseaboard;50
 easya;60
+easybake;50
 easycare;40;Warranty company
 easychair;50
 easychairs;50
@@ -9251,6 +9265,7 @@ eldenring;60
 elderthing;60;From Lovecraft
 elderthings;60;From Lovecraft
 eldestson;50
+eldorado;50
 eldrich;20;Archaic form of eldritch
 elea;40
 elean;20
@@ -10170,6 +10185,7 @@ exertson;30
 exfbi;30
 exgi;40
 exgis;40
+exigible;40;Able to be charged or levied, as a tax or duty
 exiledfrom;40
 exilefrom;40
 exilesfrom;40
@@ -10749,6 +10765,8 @@ finedining;50
 finemess;50
 fineseasalt;50
 finetoo;1
+fingerbowl;50
+fingerbowls;50
 fingerpaint;60
 fingerpainting;60
 fingerpaintings;50;Digital art?
@@ -11381,6 +11399,7 @@ funsies;60
 funsponge;60
 furbies;40
 furby;40
+furlined;50
 furniturepolish;50
 furpeak;50;Chinese tea
 furstole;50
@@ -14242,6 +14261,8 @@ hyperrealism;60
 hyperrealistic;60
 hyperspace;60
 hypotenuse;50
+hyrax;30;Marmot-like animal
+hyraxes;30
 hyssop;20;Shrub
 hyssops;20;Shrubs
 i;50
@@ -14767,6 +14788,7 @@ imsoold;60
 imsorryifiupsetyou;60
 imsorrythathappened;60
 imsorryyouremad;60
+imsosore;60
 imsosorry;60
 imsure;50
 imtired;50
@@ -20050,6 +20072,7 @@ nehru;40;Jawaharlal Nehru, first prime minister of independent India (1947-64)
 nehrus;20
 nei;20
 neimans;1
+nein;40
 neins;30
 neisse;20;German/Poland border river
 neko;30;Neko Case, member of the indie band New Pornographers
@@ -20809,6 +20832,7 @@ nowlookhere;60
 nowme;60
 nowthen;50
 nox;40;Night goddess
+noyes;40;Poet Alfred Noyes
 noyourotherright;60
 npc;30
 npg;20
@@ -20927,6 +20951,8 @@ nyah;30
 nyala;30;African antelope
 nyalas;30;African antelope
 nyarlathotep;60;Lovecraftian god
+nybble;30;Half a byte
+nybbles;30
 nycfc;40;New York City soccer team
 nyer;30
 nyets;30
@@ -22940,6 +22966,7 @@ peratio;50
 peratios;50
 percha;20
 perdu;20;Hidden
+pere;40
 peres;40;Israeli PM Shimon Peres
 perfecta;40;Race track bet
 perfectmarriage;50
@@ -23251,6 +23278,7 @@ piloterror;50
 piloterrors;50
 pilotstudies;50
 pilotstudy;50
+pils;40;Pilsner, for short [NYT debut in 2023]
 pilsner;50
 pilsners;50
 pimms;40;English liqueur brand
@@ -23550,6 +23578,7 @@ pluses;50
 plusminus;50
 plusone;50
 plusones;50
+plutarch;50
 plutarchy;30;Society controlled by the rich (syn. plutocracy)
 plutoed;60;Demoted -- 2006 Word of the Year
 pluton;30;Rock mass inside Earth
@@ -23659,6 +23688,7 @@ politico;50
 politicos;50
 polkaband;50
 polkabands;50
+polkapower;50;Weird Al song
 pollard;30
 pollarded;30;Trimmed flat, as a line of trees
 pollarding;30
@@ -24442,6 +24472,8 @@ pyedogs;30
 pyramus;30
 pyre;50
 pyrites;30
+pyrogen;30;Bacterial contaminant
+pyrogens;30
 pythia;30;High priestess of the Temple of Apollo at Delphi
 q;1
 qaeda;5
@@ -24514,7 +24546,7 @@ quo;50
 quoi;40
 quoter;40
 quoters;40
-qvc;40
+qvc;50
 qwave;30;Heart wave measured in an ECG
 qxquv;1
 r;1
@@ -27013,9 +27045,9 @@ sampleplatters;50
 samshepard;50
 samshepherd;20;???
 samuelbarber;50
-samurai;60
-samuraijack;60
-samurais;60
+samurai;50
+samuraijack;50
+samurais;50
 samuraisword;60
 samuraiswords;60
 samwise;50
@@ -28774,7 +28806,7 @@ slantiest;30
 slanty;30
 slapat;40
 slapbass;60
-slapdash;60
+slapdash;50
 slapintheface;60
 slapped;60
 slappedat;40
@@ -29191,6 +29223,8 @@ socketsets;30
 socketwrenchset;30
 sockingaway;50
 socksaway;50
+socle;20
+socles;20
 soclose;60
 socony;20;Standard Oil Company of New York
 socool;60
@@ -31024,6 +31058,7 @@ symbionts;40
 symone;40;Drag queen
 syms;20;Actress Sylvia
 syn;40
+synchronal;40
 synchronicityii;60
 syndic;20
 syndicalism;30
@@ -31964,6 +31999,7 @@ thebigmo;50;Big Momentum
 thebigsleep;60
 thebillofrights;50
 thebit;30
+theblob;50
 thebodyshop;50;???
 thebomb;60
 theboot;40
@@ -31993,6 +32029,7 @@ thecongo;30
 thecore;40;Sci-fi film
 thecount;20
 thecow;20
+thecrab;40;???
 thecrimea;30
 thecsuite;20
 thecubs;30
@@ -32341,6 +32378,7 @@ thinkoutsidethebox;60
 thinkpiece;60
 thinksoutsidethebox;60
 thinontop;50
+thiouracil;40;???
 thirdeye;60
 thirdlaw;50
 thirdpunicwar;50
@@ -32725,6 +32763,7 @@ tobear;20
 tobeclear;60
 tobefrank;60
 tobesafe;50
+tobesure;50
 tocarry;20
 tocome;30
 tocsin;20;Alarm bell, archaic
@@ -32839,6 +32878,7 @@ tonynom;50
 tonynoms;50
 tonys;50
 tonystark;60
+toocareful;50
 toocool;60
 toocute;60
 tooearlytotell;60
@@ -33453,6 +33493,8 @@ tufu;20
 tugat;40
 tuggedat;40
 tuggedon;40
+tugger;40;Warehouse vehicle
+tuggers;40
 tuggingat;40
 tuggingon;40
 tugmcgraw;50
@@ -33494,6 +33536,7 @@ tuples;20
 turaco;30;African bird
 turacos;30;African birds
 turfed;30;Laid turf, or kicked out (British)
+turgor;30;State of turgidity, in botany
 turinsriver;1
 turkeybaster;50
 turkeybasters;50
@@ -34045,9 +34088,7 @@ urger;30
 urgers;30
 urhamlet;50
 uri;40
-urie;30;Brendan Urie, lead singer of My Chemical Romance
-urie;30;Michael Urie of "Ugly Betty"
-urie;50
+urie;30;Brendan Urie of My Chemical Romance, or Michael Urie of "Ugly Betty"
 uriel;30;Archangel
 uris;30;Author Leon
 urkelos;50
@@ -34309,6 +34350,8 @@ venule;30;Tiny vein
 venules;30;Tiny veins
 venus;50
 verandaed;30
+verandah;40;Acceptable variant spelling
+verandahs;40
 verbalcue;50
 verbalcues;50
 verbingweirdslanguage;60
@@ -34422,6 +34465,8 @@ viptour;50
 viptours;50
 viptreatment;50
 vir;20
+vireo;20;Songbird
+vireos;20
 virginears;60
 virginiareels;30
 virtu;20;Love of fine art
@@ -34515,6 +34560,7 @@ vulcandeathgrip;60
 vulcans;60
 vwjetta;50
 vwjettas;50
+vwrabbit;50
 vwx;20
 vyingfor;40
 w;1
@@ -35457,6 +35503,8 @@ xcviii;20
 xdate;20
 xdin;20
 xdout;30
+xebec;30;Three-masted sailing ship
+xebecs;30
 xed;40
 xedin;20
 xedout;40
