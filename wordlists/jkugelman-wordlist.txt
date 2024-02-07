@@ -1434,6 +1434,7 @@ annoyers;30
 anns;30
 annulet;30;Small ring, or ring-shaped molding
 annulets;30
+annum;40
 ano;40
 anode;50
 anodes;50
@@ -1525,6 +1526,7 @@ anyhoo;60
 anyideas;60
 anyluck;60
 anymomentnow;60
+anysecondnow;60
 anyworse;50
 anzac;30;Aussie/NZ holiday
 aoc;50
@@ -12025,6 +12027,7 @@ gismo;20
 gismos;20
 git;40
 gita;30;???
+gitano;40;Jeans brand
 gitanojeans;30
 gitanos;30
 gitgo;30
@@ -16432,6 +16435,7 @@ kop;20
 kopek;40
 kopeks;40
 kops;20
+koranic;40
 koreanamerican;50
 koreanamericans;50
 koreanspa;50
@@ -21171,6 +21175,7 @@ octads;30
 octahedra;50
 octanes;40
 octaval;30;Relating to an octave
+octavo;40;Book size
 octette;20
 octile;30
 octo;40
@@ -21584,7 +21589,7 @@ oneacre;30
 oneall;30
 onealltie;30
 oneals;30
-oneam;30
+oneam;40
 oneandall;60
 oneando;30
 onear;30;Type of headphones
@@ -22663,6 +22668,7 @@ participationtrophies;60
 particularizing;30
 partiers;50
 partii;40
+partiii;40
 partingfrom;40
 partingofways;60
 partitive;30
@@ -23464,6 +23470,7 @@ pitcrew;50
 pitcrews;50
 pithhelmet;50
 pithhelmets;50
+pitino;40;Basketball coach Rick Pitino
 pitless;30
 pitorgan;40;Snake's infrared sensing organ
 pitorgans;40
@@ -24162,6 +24169,7 @@ prguru;30
 prgurus;30
 pri;40
 priam;30;Trojan king
+pricelinecom;1
 pricewar;50
 pricewars;50
 pricker;30
@@ -26397,6 +26405,7 @@ rnas;20
 rnc;40
 road;50
 roadends;30
+roadeo;40
 roader;30;Partial
 roaders;30
 roadflare;50
@@ -26473,6 +26482,7 @@ rodeobulls;50
 rodeoutthestorm;50
 rodethepine;50
 rodeto;40
+rodino;30;Nixon impeachment chairman Peter Rodino
 rodless;30;Type of cylinder
 rodsandcones;50
 roebuck;40
@@ -27535,8 +27545,12 @@ screenshot;50
 screentest;50
 screentests;50
 screw;50
+screwedin;40
 screwedup;50
+screwin;40
+screwingin;40
 screwover;50
+screwsin;40
 screwsup;50
 screwthis;60
 screwup;50
@@ -30337,9 +30351,11 @@ stellae;30;Stars: Lat.
 stellate;30;Arranging in a radiating pattern like a star
 stemturn;40;Skiing maneuver
 stemturns;40
+steno;40
 stenog;30
 stenographer;50
 stenographers;50
+stenos;40
 stenose;20
 stenosis;30;Spinal cord narrowing
 stenotic;30
@@ -30641,6 +30657,7 @@ streetnames;50
 streetteam;50
 streetteams;50
 strega;30;Saffron liqueur
+stregis;40
 strep;50
 streps;20
 strepthroat;50
@@ -31937,6 +31954,7 @@ terrine;20
 terrines;20
 territorialize;30
 territorialized;30
+terroir;30;Character of wine
 terrorism;5
 terrorist;5
 terroristattack;5
@@ -32403,6 +32421,7 @@ thesticks;60
 thestilt;50;Wilt Chamberlain's nickname
 thestoneage;40
 thestones;50
+thesuezcanal;40
 thesuzukimethod;40
 thetab;20
 thetable;20
