@@ -17,7 +17,7 @@ aahed;40
 aahedat;30
 aahing;40
 aahingat;30
-aahs;30
+aahs;50
 aahsat;30
 aameeting;50
 aameetings;50
@@ -32,7 +32,7 @@ aardvarkcubs;50
 aaronite;30
 aaronites;30
 aarons;30
-aaronsrod;30;Biblical stick carried by Moses's brother, D. H. Lawrence novel
+aaronsrod;40;Biblical stick carried by Moses's brother, D. H. Lawrence novel
 aarp;50
 aarpcard;30
 aarpcards;30
@@ -50,7 +50,7 @@ abacab;50
 abaci;30
 aback;30
 abaculus;30
-abadegg;25
+abadegg;40
 abaft;30
 aball;20
 abandonee;30
@@ -411,6 +411,7 @@ actsin;40
 actsofwar;50
 actssad;1
 actssore;1
+acttwo;40
 actuarialtables;50
 actv;30
 acunit;40
@@ -720,7 +721,7 @@ ahas;40
 ahchoo;20;Sneeze sound: Var.
 aherne;30;1930s actor Brian Aherne
 ahh;50
-ahhs;30
+ahhs;50
 ahmadrashad;50
 ahme;20
 ahnold;60
@@ -899,10 +900,10 @@ alcoholism;40
 alcohols;30
 alcorn;30;Mississippi university
 aldesko;50;Eating at one's desk, humorously
-aldi;30;Grocery store
-aldis;30;Grocery stores
+aldi;40;Grocery store
+aldis;40;Grocery stores
 aldiss;20;Author Brian
-aldo;30;Aldo Gucci
+aldo;40;Aldo Gucci
 aldrich;30
 ale;50
 aleatory;30
@@ -935,6 +936,7 @@ alfa;40
 alfalfas;30
 alfas;30
 alfatah;20;Militant Palestinian organization
+alfieri;40;1700s playwright Vittorio Alfieri, "founder of Italian tragedy"
 alford;20
 alfre;30;Actress Woodard
 alfredu;20;NY state university
@@ -2943,6 +2945,7 @@ bartender;50
 bartenders;50
 barthedoor;50
 barthedoors;50
+bartholomewandtheoobleck;60;Dr. Seuss book
 bartstarr;50
 baruch;30;Manhattan college
 bas;40
@@ -4140,7 +4143,8 @@ brans;30
 brapad;50
 brapads;50
 braque;40;French cubist Georges Braque
-brasale;30
+brasale;40;Green paint, but usable
+brasales;40
 brasi;30;Luca of "The Godfather"
 brassica;40;Genus for cabbage, broccoli, cauliflower, bok choy, turnips, et al.
 brassie;30;2-wood
@@ -4483,6 +4487,7 @@ butreally;60
 buttdial;60
 buttdialing;60
 buttdials;60
+butterbattlebook;60;Dr. Seuss book, with "The"
 butterflyeffect;60
 butterflykiss;60
 butterflykisses;60
@@ -4683,6 +4688,7 @@ campdavid;50
 campfire;50
 campground;50
 campgrounds;50
+camphors;40
 camporee;40;Scouting jamboree
 campout;50
 campouts;50
@@ -5427,7 +5433,7 @@ chatshow;30
 chatshows;30
 chaudhry;30;Last name???
 chautauqua;60
-chaz;30
+chaz;50;Chaz Bono
 cheapdate;60
 cheapdates;60
 cheaphotel;50
@@ -6829,6 +6835,8 @@ cruisesinto;40
 cruisinginto;40
 crum;20
 crus;20;French vineyards
+crusado;20;Old Portuguese coin
+crusados;20
 crushedtomatoes;50
 cry;50
 cryingoutto;40
@@ -6918,6 +6926,7 @@ culthits;50
 culturevulture;60;Art hound
 culturevultures;60;Art hounds
 cum;40
+cumbrous;40;Cumbersome, literary
 cuneate;20;Wedge-shaped, in botany/anatomy
 cuneiform;50
 cuoco;30
@@ -7797,6 +7806,7 @@ diddonuts;50
 didgood;50
 didhonor;30
 didhonorto;40
+didievertellyouhowluckyyouare;60;Dr. Seuss book
 didiloseyou;60
 didistutter;60
 didja;50
@@ -9085,8 +9095,8 @@ eblasts;20
 ebonite;30;Hard rubber
 ebow;40
 ebows;40
-eboy;30
-eboys;30
+eboy;40
+eboys;40
 ecard;30
 ecards;30
 ecash;30
@@ -9163,7 +9173,7 @@ editingdown;50
 editingin;40
 editsdown;50
 editsin;40
-edmeese;30
+edmeese;30;A.G. under Reagan, not very notable
 edmontonalberta;30;???
 edmundi;30
 edo;30;Tokyo, formerly
@@ -9286,6 +9296,8 @@ eggwashed;50
 eggwashes;50
 eggwhite;50
 eggwhites;50
+egirl;40
+egirls;40
 egmont;30;Goethe drama
 egocart;1
 egocentricities;40;Bad plural???
@@ -9672,7 +9684,7 @@ ennius;30;???
 ennuis;20;Bad plural
 eno;40
 enoch;40;Biblical figure
-enorme;40;Huge: Fr.
+enorme;30;Huge: Fr.
 enos;40;Grandson of Adam and Eve
 enote;20
 enotes;20
@@ -9937,6 +9949,7 @@ erotized;40
 erotizes;40
 erotizing;40
 erotomania;60
+errantia;20;Worm subclass
 erratics;30
 errorpage;50
 errorpages;50
@@ -10002,6 +10015,7 @@ esos;30
 esoterica;60
 esp;50
 espalier;30;Gardening technique
+espanol;40
 esparto;20;Textile fiber
 esperanto;50
 espial;30;Sighting
@@ -10095,6 +10109,7 @@ etd;40
 etds;30
 ete;40
 etee;20
+eterne;40
 etes;40
 etesian;30;Mediterranean wind
 etext;30
@@ -10240,6 +10255,7 @@ ews;40
 exactor;30
 exalts;50
 examinationroom;50
+exarmy;40
 exceededexpectations;50
 exceedexpectations;50
 exceedingexpectations;50
@@ -11213,6 +11229,7 @@ footballhelmets;50
 footballplayers;50
 footballstadium;50
 footballuniform;50
+footbook;50;Dr. Seuss book, with "The"
 footfault;50
 footfaults;50
 footfetish;60
@@ -11310,6 +11327,7 @@ fourirons;40
 fouryearcollege;50
 foxcub;50
 foxcubs;50
+foxinsocks;60;Dr. Seuss book
 foxtrot;50
 foy;50;Actress Claire Foy
 foyt;30;Indy winner A. J. Foyt
@@ -11350,14 +11368,14 @@ freeloaders;60
 freemason;50
 freemasonry;50
 freemasons;50
-freer;30
+freer;50
 freeradical;50
 freeradicals;60
 freeriderproblem;60
 freesoil;50
 freesolo;60
 freespirited;50
-freest;30
+freest;50
 freetoy;50
 freetoys;50
 freetrial;50
@@ -12795,6 +12813,7 @@ greasingsomeonespalm;50
 greasingthepalm;50
 greatape;50
 greatapes;50
+greatdayforup;60;Dr. Seuss book
 greaten;30
 greatlakesstate;50
 greatoldone;60;Cthulhu, e.g.
@@ -12817,6 +12836,7 @@ greenbusinesses;50
 greencar;20
 greencars;20
 greenday;50
+greeneggsandham;60;Dr. Seuss book
 greener;50
 greenes;30
 greenest;50
@@ -14002,7 +14022,7 @@ holes;50
 holesaw;50
 holesaws;50
 holesinone;50
-holi;30;Hindu festival of colors
+holi;40;Hindu festival of colors
 holist;40
 holists;40
 hollander;30
@@ -14145,6 +14165,7 @@ hopin;40
 hopingto;40
 hopinto;40
 hopon;40
+hoponpop;60;Dr. Seuss book
 hoponto;40
 hoppedacab;30
 hoppedin;40
@@ -14195,6 +14216,8 @@ horsiest;30
 horst;30;Geology word, or first name
 hortative;20
 hortatory;20
+hortonhatchestheegg;60;Dr. Seuss book
+hortonhearsawho;60
 hortons;50
 hortoria;40
 hortorium;40
@@ -14374,6 +14397,7 @@ hummocks;30;Rounded hills
 hummocky;20;Hilly?
 humstrum;50;Musical instrument
 humuses;20
+hunchesinbunches;60;Dr. Seuss book
 hundop;40;100%, slangily
 hundredthsplace;50
 hungeredfor;40
@@ -14400,6 +14424,7 @@ hustleup;60
 hustlingup;50
 hut;50
 hutment;30
+huttwo;40
 hwy;40
 hyaline;20;Type of joint cartilage
 hydatid;20;Tapeworm larva, or cyst
@@ -14427,6 +14452,7 @@ i;50
 iact;20
 ial;25;Suffix [occasional]
 ialone;50
+iamnotgoingtogetuptoday;60;Dr. Seuss book
 iamtoast;50
 iandj;20
 iannucci;40;Armando Iannucci, creator of "Veep"
@@ -14456,6 +14482,7 @@ icahn;30;Billionaire Carl
 ican;30
 icanadd;50
 icandoit;60
+icanreadwithmyeyesshut;60;Dr. Seuss book
 icanrelate;60
 icansee;50
 icanseeagain;50
@@ -14662,7 +14689,8 @@ ifiguredyoudsaythat;60
 ifill;30;Journalist Gwen
 ifimight;60
 ifimust;60
-ifiranthezoo;50;Seuss book
+ifiranthecircus;60;Dr. Seuss book
+ifiranthezoo;60;Dr. Seuss book
 ifneedbe;60
 iforone;50
 ifrun;20
@@ -16437,6 +16465,7 @@ kingsizetwix;50
 kingsleyamis;50
 kingsnake;50
 kingsnakes;50
+kingsstilts;60;Dr. Seuss book, with "The"
 kingwenceslas;50
 kinkshame;60
 kinkshamed;60
@@ -17188,6 +17217,7 @@ legoblock;50
 legoblocks;50
 legobrick;50
 legobricks;50
+legoland;60
 legomania;50
 legominifigure;50
 legominifigures;50
@@ -18115,9 +18145,9 @@ lusaka;20;Capital of Zambia
 lustra;20
 lustre;20
 lustres;20
-luteal;40;Menstrual phase
-lutece;40;Michelin restaurant
-lutein;30;Vitamin
+luteal;30;Menstrual phase
+lutece;30;Michelin restaurant
+lutein;40;Eye vitamin
 luton;20;English town
 luv;40
 lux;40
@@ -18222,7 +18252,7 @@ madegoodon;50
 madeiras;40;Portuguese wines
 madeitlookeasy;60
 madeitpop;60
-mademad;30
+mademad;50
 madenice;60
 madenoises;50
 madeof;40
@@ -18385,7 +18415,7 @@ makeitsnappy;60
 makeitso;60
 makelikeatreeandgetoutofhere;60
 makelikeatreeandleave;60
-makemad;30
+makemad;50
 makeme;60
 makenice;60
 makenoises;50
@@ -18409,7 +18439,7 @@ makesgoodon;50
 makeshortworkof;60
 makesitlookeasy;60
 makesitpop;60
-makesmad;30
+makesmad;50
 makesnice;60
 makesnoises;50
 makesof;20;???
@@ -18502,6 +18532,7 @@ mana;50
 managingeditors;50
 managingpartner;50
 manama;20;Capital of Bahrain
+manassa;20
 manateecalf;50
 manateecalves;50
 mancha;40;Man of La Mancha
@@ -18665,6 +18696,7 @@ marvelat;40
 marveledat;40
 marvelingat;40
 marvelsat;40
+marvinkmooneywillyoupleasegonow;60;Dr. Seuss book
 maryhigginsclark;50
 maryi;40;"Bloody Mary"
 maryjanes;50
@@ -19803,6 +19835,7 @@ mps;40
 mpthreeplayers;20
 mrandmrs;50
 mrapril;20
+mrbrowncanmoocanyou;60;Dr. Seuss book
 mrbungle;60
 mrcoffee;50
 mrcool;50
@@ -19970,6 +20003,7 @@ mxli;20
 mxlv;20
 my;50
 myb;40
+mybookaboutme;50;Dr. Seuss book
 myear;40;"Like hell"
 myeloid;30;Bone marrow related, lots of leukemia-related Google results
 myeye;40;"Like hell"
@@ -20582,7 +20616,7 @@ nightshade;60
 nightshift;50
 nightshifts;50
 nightstick;50
-nih;30
+nih;40
 nihao;40
 nihaoma;30
 nihil;40
@@ -21152,6 +21186,7 @@ numbles;20;Edible entrails, archaic
 numero;40
 numetal;60
 numina;20
+numinous;40;Having a strong religious or spiritual quality
 numismatic;50
 numismatics;50
 numismatist;50
@@ -21469,11 +21504,13 @@ ogresses;30
 ogs;25;Rap pioneers [debuted 2024]
 oh;50
 ohairs;20
+oharas;40
 ohbother;60
 ohcomenow;60
 ohcool;60
 ohcrud;60
 ohdear;60
+ohdrat;60
 ohfine;60
 ohfudge;60
 ohfun;60
@@ -21494,11 +21531,14 @@ ohno;50
 ohnoreason;60
 oho;40
 ohs;40
+ohsaycanyousay;60;Dr. Seuss book of tongue twisters
 ohshoot;60
 ohsnap;60
 ohsure;60
 ohsureblameme;60
 ohsweetsummerchild;60
+ohtheplacesyoullgo;60;Dr. Seuss book
+ohthethinksyoucanthink;60;Dr. Seuss book
 ohwerebad;60
 ohwoeisme;50
 ohyourebad;60
@@ -21723,18 +21763,18 @@ onanumberofoccasions;50
 onapar;40
 onappeal;50
 onaraft;20
-onarail;40
+onarail;40;How to run someone out of town
 onaroll;60
-onarope;30
+onarope;40
 onaslant;30
-onastar;30
+onastar;20
 onastick;40
 onastreak;50
 onastring;40
 onatangent;40
 onateam;40
 onatear;50
-onatimer;30
+onatimer;40
 onatip;20
 onatoot;20
 onatopp;30;GoldenEye's bond girl Xenia Zaragevna Onatopp
@@ -21742,6 +21782,7 @@ onavisa;30
 onavisit;30
 onawire;30
 onbeing;30
+onbeyondzebra;60;Dr. Seuss book
 onboard;50
 onboarding;50
 onboardwith;40
@@ -21802,6 +21843,7 @@ oneeyed;50
 onefalsemove;60
 onefin;20
 onefingersalute;60
+onefishtwofishredfishbluefish;60;Dr. Seuss book
 onefold;20
 onefranc;30
 oneg;30
@@ -21858,6 +21900,7 @@ oneoldcat;20;Old ball game
 oneon;40
 oneone;30
 oneonta;20;New York city
+oneout;40
 oneoverpar;40
 onepage;30
 onepager;40
@@ -21950,7 +21993,7 @@ onset;50
 onsets;50
 onskidrow;50
 onstilts;50
-ontape;30
+ontape;50
 ontarian;40
 ontarians;40
 ontheball;50
@@ -21979,6 +22022,7 @@ oofs;30
 oohaahpoint;60
 oohed;40
 oohing;40
+oohs;50
 oohshiny;60
 oolite;20
 oolites;20
@@ -22895,7 +22939,7 @@ partylines;50
 parure;30;Set of matching jewelry
 pas;40
 paseo;40
-paseos;40
+paseos;30
 pasha;40;Turkish title
 pashas;40
 pasmoi;20;???
@@ -23176,8 +23220,10 @@ pekans;20;Fishers (mammals)
 pelage;30;Fur
 pele;50
 peleg;30;"Moby Dick" character
+pelias;30;King Pelias, Jason's uncle
 pelicanchick;50
 pelicanchicks;50
+pelion;20
 pelisse;30;Fur-lined cloak
 pelisses;30
 pell;50
@@ -23219,11 +23265,13 @@ pennystocks;50
 pensee;30;Thought or reflection put into literary form
 pensees;30
 pensin;40
+pentane;40
 pentangle;30
 pentangles;30
 pentas;20
 pentateuch;40;The Torah, by another name
 pente;30;Board game
+pentene;40
 penthousesuites;50
 penuche;20;Fudge-like candy
 peoplefood;60
@@ -23855,7 +23903,7 @@ plungedin;40
 plungein;40
 plungesin;40
 plungingin;40
-pluot;30
+pluot;30;Plum/apricot hybrid aka aprium
 pluots;30
 plus;50
 pluses;50
@@ -24177,7 +24225,8 @@ potatobuds;50
 potatoe;20;Dan Quayle's misspelling
 potedible;50
 potedibles;50
-poteen;30;???
+poteen;30;Irish moonshine
+poteens;20
 potence;20
 potences;20
 potencies;30
@@ -25763,6 +25812,10 @@ regs;40
 rehang;40
 rehanging;40
 rehangs;40
+rehaul;20
+rehauled;20
+rehauling;20
+rehauls;20
 rehear;20
 reheard;20
 rehearing;20
@@ -25961,6 +26014,7 @@ rentamobs;50;British slang
 rentaroom;40;Green paint???
 rentedaroom;40
 rentedto;40
+rentes;20
 rentingaroom;40
 rentingto;40
 rentroll;30
@@ -26059,6 +26113,10 @@ reroofing;20
 reroofs;20
 reroot;20
 rerose;20
+resalt;30
+resalted;30
+resalting;30
+resalts;30
 resaw;20
 resaws;20
 resays;20
@@ -26178,6 +26236,8 @@ restaining;20
 restains;20
 resteasy;50
 restep;20
+rester;30
+resters;30
 resteth;40
 restiresto;40
 restlessfeeling;50
@@ -26213,10 +26273,10 @@ retamed;20
 retames;20
 retaming;20
 retap;20
-retape;30
-retaped;30
-retapes;30
-retaping;30
+retape;40
+retaped;40
+retapes;40
+retaping;40
 retapped;20
 retaps;20
 retar;20
@@ -26331,6 +26391,7 @@ reune;40
 reuned;40
 reunes;40
 revealthering;1
+revell;40;Model car company
 revenuer;30
 revenuers;30
 revenues;40
@@ -27764,6 +27825,7 @@ scrabbletourney;50
 scrabbletourneys;50
 scrag;30
 scrags;30
+scrambledeggssuper;60;Dr. Seuss book
 scrapie;30;Sheep/goat prion disease
 scrapiron;50
 scrat;40;"Ice Age" squirrel
@@ -27901,7 +27963,7 @@ searchbot;60
 searchbots;60
 searchin;50
 searedahituna;50
-searle;30;Philosopher John with the "Chinese room" argument
+searle;40;Philosopher John with the "Chinese room" argument
 seascented;50
 seasider;50
 seasnail;50
@@ -28213,6 +28275,7 @@ sepals;20;Flower parts
 sepias;30
 sepoy;20;Indian soldier
 sepoys;20;Indian soldiers
+sepsis;40
 sept;40
 septa;30;Nasal partitions
 septate;30;Partitioned by a septum
@@ -28306,7 +28369,7 @@ setinstone;50
 setitup;1
 setoffs;30;Amounts set off against others in the settlement of accounts
 setones;20
-setons;30
+setons;30;Family name
 setose;20;Bristly
 setpoint;50
 setpoints;50
@@ -29448,6 +29511,7 @@ sneerer;40
 sneerers;40
 sneeringat;40
 sneersat;40
+sneetches;50;Dr. Seuss characters
 snell;30;Fishing line attachment
 snelleneyechart;60
 snells;30;Snell's law of refraction
@@ -29821,7 +29885,7 @@ sortieing;30
 sos;50
 sosick;60
 sosimple;60
-sosoon;60
+sosoon;50
 sospad;40
 sospads;40
 sosweet;50
@@ -30444,6 +30508,7 @@ startsatab;50
 startson;40
 starturn;60
 starturns;60
+stases;40
 stash;50
 stashes;50
 stassen;30;Harold Stassen, ran for president nine times
@@ -31674,6 +31739,7 @@ takingtime;50
 takingto;40
 takingwing;50
 takis;40;Tortilla chips
+talaria;30;Mercury's winged sandals
 talbot;30;???
 talced;30
 talcose;30;???
@@ -32217,7 +32283,7 @@ terns;40;Seabirds
 terpin;20
 terracing;30
 terracottatiles;50
-terrains;30
+terrains;50
 terrane;20
 terras;30
 terrene;20
@@ -32407,6 +32473,7 @@ theboxerrebellion;40
 thebraves;40
 thebrow;20
 thebuddha;50
+thebutterbattlebook;60;Dr. Seuss book
 thecab;20
 thecar;20
 thecarbonaroeffect;50
@@ -32414,6 +32481,8 @@ thecase;20
 thecast;20
 thecastro;50;San Francisco gay district
 thecat;20
+thecatinthehat;60;Dr. Seuss book
+thecatinthehatcomesback;60;Dr. Seuss book
 thecensusbureau;30
 thecharlesriver;20
 thecia;20
@@ -32472,6 +32541,7 @@ thefineprint;50
 thefirstletters;1
 thefivews;50
 theflu;20
+thefootbook;60;Dr. Seuss book
 theforeignlegion;30
 thefuries;50
 thegameisafoot;60
@@ -32510,6 +32580,7 @@ thekeyofc;1
 thekeystonekops;20
 thekid;30
 thekingofhearts;20
+thekingsstilts;60;Dr. Seuss book
 thekiss;50;Rodin sculpture
 thelakers;50
 theleft;30
@@ -32642,6 +32713,7 @@ therent;20
 theresalottounpack;60
 theresalottounpackthere;60
 theresalwayssomething;60
+theresawocketinmypocket;60;Dr. Seuss book
 theresmorewherethatcamefrom;60
 theresnoexcuse;60
 theresnoexcuseforyou;60
@@ -32679,6 +32751,7 @@ theseine;30
 thesenate;30
 thesevenseas;60
 theshahofiran;30;???
+theshapeofmeandotherstuff;50;Dr. Seuss book
 theshining;60
 theshire;30
 thesiciliandefence;30;???
@@ -32690,6 +32763,8 @@ thesixties;50
 theskyisfalling;60
 theslammer;20
 theslots;30
+thesneetches;50;Dr. Seuss characters
+thesneetchesandotherstories;50;Dr. Seuss book
 thesox;20
 thespanishsteps;20
 thesplits;30
@@ -32770,6 +32845,8 @@ theysee;1
 thezapruderfilm;20
 thezoomies;60
 thezooplane;40;???
+thidwick;40;Dr. Seuss moose
+thidwickthebigheartedmoose;60;Dr. Seuss book
 thighslappers;60
 thighslapping;60
 thimphu;20;Capital of Bhutan
@@ -33515,11 +33592,11 @@ toyshop;60
 toyshops;60
 toystore;50
 toystores;50
-tped;30
-tping;30
+tped;40
+tping;40
 tpk;30
 tpke;40
-tps;30
+tps;40
 trabecula;20;Anatomical partition
 trabeculae;20;Anatomical partitions
 trabert;30;Tony Trabert, 10-time Grand Slam tennis player in the 1950s
@@ -35144,6 +35221,7 @@ wasinfor;20
 wasitgoodforyou;60
 wasmet;20
 wasonadate;30;Green paint???
+wasrun;30
 wassail;30
 wasser;30;Water: Ger.
 wast;20
@@ -36166,6 +36244,8 @@ yeows;30
 yerevan;20;Capital of Armenia
 yerkes;30;Wisconsin observatory
 yers;30
+yertletheturtle;60
+yertletheturtleandotherstories;50;Dr. Seuss book
 yesand;60
 yesandno;60
 yeslets;50
@@ -36269,6 +36349,7 @@ yourenofun;60
 yourenohelp;60
 youreokay;60
 youreon;60
+youreonlyoldonce;60;Dr. Seuss book
 youreonmute;60
 youreoutofline;60
 youreoutoforder;60
