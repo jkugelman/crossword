@@ -1196,7 +1196,7 @@ amazonriver;50
 amberbock;50
 amberglasswings;30;Butterflies
 ambertamblyn;30
-ambi;30
+ambi;40
 ambivert;50
 ambiverts;50
 ambledout;40
@@ -6965,6 +6965,7 @@ cuoco;30
 cupbearer;50
 cupbearers;50
 cupcakery;60;Specialized type of bakery
+cupofmilk;50
 cupojoe;60
 cuponeshands;50
 cuppedoneshands;50
@@ -8176,6 +8177,8 @@ doadryrun;50
 doaduet;20
 doaflip;50
 doajig;60
+doall;20
+doalls;20
 doallthetalking;60
 doaset;50
 doashot;50
@@ -9701,6 +9704,10 @@ engluts;30
 englutted;30
 englutting;30
 engrish;5
+enhalo;40
+enhaloed;40
+enhaloes;40
+enhaloing;40
 eni;20
 enid;40
 enidok;20
@@ -9994,7 +10001,7 @@ errantia;20;Worm subclass
 erratics;30
 errorpage;50
 errorpages;50
-ers;30
+ers;40
 erskine;30
 erst;30
 erte;30;Artist
@@ -10159,6 +10166,7 @@ ethane;50
 ethanhunt;60
 ethans;30
 ethene;30
+ethene;40
 ethenes;20
 ethereally;50
 etheric;30;Relating to the heavens
@@ -10440,6 +10448,7 @@ eyemasks;50
 eyeofra;50
 eyepatch;50
 eyepatches;50
+eyepit;40;Eye socket
 eyer;30
 eyeroll;60
 eyerolling;60
@@ -13356,7 +13365,9 @@ hardten;50
 hardway;50
 hardyboys;50
 hardyboysseries;50
+harem;40;Harem pants
 harempants;50
+harems;5
 harijan;20;Indian "untouchable"
 harinef;50;Transgender actress, Dr. Barbie in "Barbie"
 harlemite;30
@@ -14511,8 +14522,8 @@ ibank;30;Investment bank
 ibanking;20
 ibar;30
 ibars;30
-ibeam;30
-ibeams;30
+ibeam;40
+ibeams;40
 ibelieveicanfly;30
 ibex;40;Wild goat
 ibexes;40;Just "ibex" is more common
@@ -14918,7 +14929,7 @@ imdone;50
 imdying;60
 imeanit;60
 imeanto;50
-imed;30
+imed;40
 imetsomeone;50
 imf;40
 imfat;5
@@ -14934,7 +14945,7 @@ imhome;50
 imhonored;60
 imhuntingwabbit;60
 imightjustdothat;60
-iming;30
+iming;40
 iminnocent;60
 imjustsaying;60
 imjustsayingwhateveryonesthinking;60
@@ -15017,7 +15028,7 @@ improvtroupe;60
 improvtroupes;60
 imran;40;Imran Khan, Pakistani PM 2018-2022
 imrich;60
-ims;30
+ims;40
 imsad;50
 imsaved;60
 imscared;60
@@ -15859,6 +15870,8 @@ itsmorethanthat;60
 itsmyturn;50
 itsnewstome;60
 itsnotatoy;60
+itsnotmuchtolookat;60
+itsnotmydepartment;60
 itsnotright;60
 itsnouse;60
 itsok;50
@@ -15982,6 +15995,7 @@ jaguarcub;50
 jaguarcubs;50
 jah;40;Rastafarian god
 jai;40
+jalapa;30;Capital of the Mexican state of Veracruz, Xalapa is preferred spelling
 jalapeno;50
 jalapenos;50
 jama;30;Journal of the A.M.A.
@@ -17461,6 +17475,7 @@ libris;40;Ex libris???
 lic;25;License [common]
 licensefee;50
 licensefees;50
+lichee;20;Lychee/litchi are way more common
 lickandapromise;50
 licker;30
 lickers;30
@@ -19255,8 +19270,10 @@ mho;20;Conductance unit
 mhz;40
 miamian;40
 miamifl;30
+miasm;20
 miasmal;30
 miasmata;30
+miasms;20
 mib;30
 mica;40;Mineral
 micas;30
@@ -20423,6 +20440,7 @@ nena;30;"99 Luftballons" singer
 nene;20
 neneh;20
 nenes;20
+neocene;20;Variant spelling of neogene
 neologism;60
 neologisms;60
 neoncarrot;50;Crayon color
@@ -21113,6 +21131,8 @@ notlike;1
 notlive;1
 notlongforthisworld;60
 notlookingsohot;60
+notmuchtolookat;60
+notmydepartment;60
 notnear;1
 notneed;1
 notochordal;30;Type of tumor cell
@@ -23235,7 +23255,7 @@ peculations;30
 peculator;30
 peculators;30
 pecunia;20
-ped;40
+ped;30;Pedestrian
 pedagog;20
 pedagogs;20
 pedicle;20;Anatomy word
@@ -27421,7 +27441,7 @@ salata;30;Afghan salad
 saleable;40
 saleh;20;Jets head coach, singer/actor Dua
 salemor;20
-salems;30
+salems;50;Cigarettes
 salemslot;60
 salemwitchtrial;60
 salemwitchtrials;60
@@ -27992,6 +28012,8 @@ seadust;30
 seaear;40;Alternate name for abalone
 seaears;40
 seaes;1
+seafan;40
+seafans;40
 seafarer;50
 seafarers;50
 seafaring;50
@@ -31965,6 +31987,9 @@ tarpons;20;Fish
 tarr;20
 tarrer;40
 tarrers;40
+tarrier;40
+tarriest;40
+tarry;40
 tarses;20;ABC president Jamie ___
 tarsi;30;Ankle bones
 tarter;50
@@ -32484,6 +32509,7 @@ thatsmorelikeit;60
 thatsnewstome;60
 thatsnotatoy;60
 thatsnotcorrect;50
+thatsnotmydepartment;60
 thatso;60
 thatsocool;1
 thatsodd;60
@@ -33397,6 +33423,8 @@ toledoohio;30
 toledos;40;Old swords
 tolet;30
 tolle;30;Self-help author Eckhart Tolle
+toller;30;Real word???
+tollers;30
 tollman;40
 tollmen;40
 tolstoyan;30
@@ -33419,7 +33447,7 @@ tometi;30;BLM founder
 tomfool;60
 tomfooleries;40
 tomfoolery;60
-tomfools;50
+tomfools;60
 tomhanks;50
 tomharkin;30;Iowa senator 1985-2015
 tommieagee;50
@@ -33439,6 +33467,10 @@ tonne;40
 tonneau;30
 tonner;40
 tonnes;40
+tonsure;40;Monk's bald spot
+tonsured;40
+tonsures;40
+tonsuring;40
 tonus;30;???
 tonuses;30;???
 tonyas;30
@@ -33668,8 +33700,8 @@ toydrive;60
 toydrives;60
 toyer;30
 toyers;30
-toyger;30
-toygers;30
+toyger;40;Striped cat breed
+toygers;40
 toypoodle;50
 toypoodles;50
 toyroom;60
@@ -35486,6 +35518,7 @@ wellfixitinpost;60
 wellfudge;60
 wellimsold;60
 wellimwaiting;60
+wellitsnotmuchtolookat;60
 wellletmeseenow;60
 wellletsseenow;60
 wellrested;50
