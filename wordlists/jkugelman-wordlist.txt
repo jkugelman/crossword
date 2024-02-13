@@ -80,7 +80,8 @@ abbe;20
 abbi;30;Comedian Abbi Jacobson
 abboud;40;Joseph Abboud men's suits
 abbr;40
-abbrs;30
+abbrev;40
+abbrs;40
 abc;50
 abcd;20
 abcdaytimehosts;20
@@ -92,7 +93,7 @@ abcdf;20
 abcrunch;50
 abcrunches;50
 abctv;20
-abduls;30
+abduls;30;Plural name
 abear;20
 abecedaria;30
 abecedarian;30
@@ -164,7 +165,7 @@ abreacting;30
 abreaction;30
 abreacts;30
 abreeze;40;Easy
-abreu;30;Ballplayer, don't know if notable???
+abreu;40;José Abreu, AL MVP in 2020
 abridger;30
 abridgers;30
 abrogator;30
@@ -1608,7 +1609,7 @@ apiano;1
 apis;20;Roman bull god
 apish;50
 apitalian;30
-apjapanese;40
+apjapanese;30
 apl;20
 aplasia;30;Missing organ or limb birth defect
 aplatin;30
@@ -1623,17 +1624,17 @@ apocket;20
 apogeal;30
 apogean;30
 apolloi;40
-apolloii;40
-apolloix;40
+apolloii;30
+apolloix;30
 apollos;30
 apollovi;30
-apollovii;30
-apolloviii;30
-apollox;30
-apolloxi;50;First moon landing
-apolloxii;30
-apolloxiii;50
-apolo;30;Skater Ohno
+apollovii;30;First successful manned flight
+apolloviii;30;First to reach moon's orbit
+apollox;30;Dress rehearsal for moon landing
+apolloxi;40;First moon landing
+apolloxii;30;Second moon landing
+apolloxiii;40;Movie
+apolo;40;Skater Ohno
 apologue;30
 apologycard;60
 apologycards;60
@@ -10783,6 +10784,8 @@ feelingdown;50
 feelingfor;50
 feelingfunny;50
 feelingheard;50
+feelinglikeafool;50
+feelinglikeamillionbucks;60
 feelingoff;50
 feelingsad;40
 feelingseen;50
@@ -10791,6 +10794,8 @@ feelingsmall;50
 feelingtenfeettall;60
 feelingtheburn;60
 feelinsatisfied;50
+feellikeafool;50
+feellikeamillionbucks;60
 feelme;60
 feeloff;50
 feelonespain;60
@@ -10800,6 +10805,8 @@ feelsfor;50
 feelsfunny;50
 feelsheard;60
 feelsick;40
+feelslikeafool;50
+feelslikeamillionbucks;60
 feelsmall;50
 feelsoff;50
 feelssad;40
@@ -10831,6 +10838,8 @@ fellto;40
 feltfor;50
 feltfunny;50
 feltheard;60
+feltlikeafool;50
+feltlikeamillionbucks;60
 feltoff;50
 feltpen;50
 feltpens;50
@@ -29877,7 +29886,7 @@ solacer;30
 solaces;30
 solame;50
 solana;20
-solange;50;Beyoncé's sister w/a Grammy of her own
+solange;40;Beyoncé's sister w/a Grammy of her own
 solano;20;California county
 solans;20
 solararray;50
