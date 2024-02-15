@@ -10470,7 +10470,8 @@ eyemasks;50
 eyeofra;50
 eyepatch;50
 eyepatches;50
-eyepit;40;Eye socket
+eyepit;30;Eye socket, wordlist spam
+eyepits;30
 eyer;30
 eyeroll;60
 eyerolling;60
@@ -20397,6 +20398,7 @@ nealhefti;30;Creator of "Batman" TV theme
 nearanddear;60
 nearat;20
 nearerto;40
+nearestanddearest;60
 nearestto;40
 neargale;50;7 on the Beaufort wind force scale
 nearlywed;60
@@ -30943,6 +30945,8 @@ stillmooing;60
 stillof;1
 stillstanding;50
 stillworksthough;60
+stimulatingconversation;50
+stimulatingconversations;50
 stinge;30;Act stingily
 stingo;20;Strong beer: Br.
 stingos;20;Strong beers: Br.
@@ -34519,6 +34523,10 @@ unbagged;50
 unbagging;50
 unbags;50
 unbale;30
+unban;50
+unbanned;50
+unbanning;50
+unbans;50
 unbid;30
 unc;40
 unchartedwaters;60
@@ -36029,6 +36037,7 @@ wishbone;60
 wishbones;60
 wisher;40
 wishers;40
+wishy;40
 wisingupto;50
 witch;50
 witchery;50

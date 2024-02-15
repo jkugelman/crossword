@@ -56,9 +56,11 @@ applause;Stage props?
 area;A in math
 armylife;Private time?
 arsonist;Housewarming party?
+art;People movers?
 artcritic;Line judge?
 artcritics;Line judges?
 artifact;A thing of the past
+arts;People movers?
 artstudio;Drawing pad?
 artstudio;Sketch pad?
 artstudios;Drawing pads?
@@ -78,7 +80,12 @@ backup;Reverse order?
 bail;Booking fee?
 bailiff;Hearing aide
 bailiffs;Hearing aides
+baked;High definition
+bald;Distressed?
 bald;Have a falling out?
+balded;Distressed?
+balding;Distressing?
+balds;Distresses?
 balds;Has a falling out?
 banker;Person of interest?
 bankers;Persons of interest?
@@ -1101,6 +1108,10 @@ shakespeareanactor;Globe trotter?
 shakespeareanactors;Globe trotters?
 shakespearianactor;Globe trotter?
 shakespearianactors;Globe trotters?
+shave;Distress?
+shaved;Distressed?
+shaven;Distressed?
+shaving;Distressing?
 shell;Gas giant?
 shellshocked;"Tortoise theft leaves owner ___" (Whitechurch Herald)
 shelovesme;Picky verdict?
@@ -1235,6 +1246,7 @@ stole;Mistook?
 stole;Took things, literally
 stoleakiss;Made out like a bandit?
 stolen;Mistaken?
+stoned;High definition
 stool;"Child's ___ great for use in garden" (Buffalo Courier-Express)
 stork;Delivery vehicle
 street;Kind of a drag
@@ -1414,6 +1426,8 @@ windstorm;Rough draft?
 windstorms;Rough drafts?
 wing;Bit of a lark?
 wood;Drive shaft?
+workofart;People mover?
+worksofart;People movers?
 wrangle;Take stock in?
 wrangled;Took stock in?
 wrangles;Takes stock in?
