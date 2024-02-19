@@ -2,7 +2,7 @@ a;50
 aaa;40
 aaamap;20
 aaamaps;20
-aaas;40
+aaas;40;Batteries
 aaateam;50
 aaateams;50
 aaaugh;20
@@ -36,7 +36,7 @@ aaronsrod;40;Biblical stick carried by Moses's brother, D. H. Lawrence novel
 aarp;50
 aarpcard;30
 aarpcards;30
-aas;40
+aas;40;Batteries
 aasponsor;50
 aasponsors;50
 aateam;50
@@ -45,10 +45,10 @@ aaugh;40;Charlie Brown cry
 aave;40;African-American Vernacular English
 aaverage;40
 aaverages;40
-aba;20;Bar assoc.
+aba;30;Bar assoc.
 abacab;50
 abaci;30
-aback;30
+aback;50
 abaculus;30
 abadegg;40
 abaft;30
@@ -755,12 +755,16 @@ aileens;20
 aimat;40
 aime;40
 aimedat;40
+aimedfor;40
 aimedto;40
 aimers;20
 aimes;30;You love: Fr.
+aimfor;40
 aimingat;40
+aimingfor;40
 aimingto;40
 aimsat;40
+aimsfor;40
 aimsto;40
 aimto;40
 ainge;30;Danny Ainge, NBA player, coach, and executive of the Utah Jazz
@@ -1407,6 +1411,7 @@ anglaise;40
 angledfor;40
 anglefor;40
 anglesfor;40
+anglian;20
 anglingfor;40
 angryfruitsalad;60;UI with too many colors
 angrygod;60
@@ -2419,6 +2424,7 @@ attestor;30
 attestors;30
 atteststo;40
 attestto;40
+atthebat;30;Awkward
 atthehalf;50
 atthenet;30
 atthisrate;60
@@ -2449,6 +2455,14 @@ audre;30;Feminist author Audre Lorde
 auel;30;"The Clan of the Cave Bear" author Jean
 auer;20
 aug;40
+augmentedfifth;50
+augmentedfifths;50
+augmentedfourth;50
+augmentedfourths;50
+augmentedsecond;40
+augmentedseconds;40
+augmentedthird;40
+augmentedthirds;40
 augurer;50
 augustaga;20
 augustame;20
@@ -2495,6 +2509,8 @@ automata;50
 automaticweapon;50
 automaton;50
 automatons;50
+autotradein;50
+autotradeins;50
 autotune;50
 autotuned;50
 autotuner;50
@@ -4120,6 +4136,9 @@ bottomline;60
 bottomrung;50
 bottsdots;50
 boudicea;30;Ancient queen
+boughtoncredit;50
+boughtonimpulse;50
+boughtonmargin;50
 boulderco;30
 bounden;20
 boundto;40
@@ -4553,7 +4572,16 @@ buttholesurfers;50
 buttload;60
 buttloads;60
 button;50
+buyingoncredit;50
+buyingonimpulse;50
+buyingonmargin;50
+buyoncredit;50
+buyonimpulse;50
+buyonmargin;50
 buysapiginapoke;20
+buysoncredit;50
+buysonimpulse;50
+buysonmargin;50
 buzzy;50
 bvd;30;Underwear brand
 bvds;30
@@ -5687,6 +5715,7 @@ choreo;30;Choreography abbr.
 chorine;30;1930s chorus girl
 chorines;30
 chorines;30;???
+chorion;20
 chorister;40;Choir member
 choristers;40
 choroid;30;Layer of eye tissue
@@ -5737,7 +5766,7 @@ ciaagent;50
 ciaagents;50
 ciachief;40
 ciachiefs;40
-ciaos;30
+ciaos;40
 ciareport;50
 ciareports;50
 ciaspecialagent;20
@@ -6201,7 +6230,11 @@ collodi;30;Pinnochio creator
 colonelcy;40
 colonelsun;30;Post-Fleming James Bond novel
 colones;30;Costa Rican currency
+colonialera;50
+colonialtimes;50
+colonialwar;50
 colonialwarfare;50
+colonialwars;50
 colonna;20
 coloreds;5
 colter;30;Plow cutting tool
@@ -7994,6 +8027,14 @@ dimbulbs;60
 dimed;50
 dimelo;20;Spanish "give me that"
 diming;50
+diminishedfifth;50
+diminishedfifths;50
+diminishedfourth;40
+diminishedfourths;40
+diminishedsecond;40
+diminishedseconds;40
+diminishedthird;40
+diminishedthirds;40
 dimout;30
 dimouts;30
 dineat;40
@@ -8461,6 +8502,7 @@ domeshaped;50
 domesticpartner;50
 dominanthand;50
 dominanthands;50
+dominantseven;50
 dominie;20;Clergyman
 dominies;20;Clergyman
 dominospizza;50
@@ -9576,6 +9618,7 @@ elmariachi;60
 elmira;40;Mark Twain's hometown
 elmisti;30;Peruvian volcano
 elmos;40;St Elmo's fire, or ticklish dolls
+elmst;40
 elninos;30
 elnorte;40
 elo;40
@@ -9658,6 +9701,8 @@ emil;30;Jannings, Gilels
 emiles;20;Plural name
 emilys;30
 eminor;40
+emirati;40;UAE natives
+emiratis;40
 emk;20;Ted Kennedy monogram
 emme;30;One-named supermodel
 emmental;30;Cheese
@@ -11093,6 +11138,8 @@ firingonallcylinders;60
 firings;30
 firmbelief;50
 firmbeliefs;50
+firmoffer;50
+firmoffers;50
 firstalert;50
 firstbase;50
 firstclasscabin;60
@@ -11184,10 +11231,12 @@ flashlightbeam;50
 flashlightbeams;50
 flatabs;60
 flatlet;30
+flatnine;50
 flatow;40;NPR journalist Ira Flatow, among others
 flatstomach;50
 flatterywillgetyoueverywhere;60
 flatterywillgetyounowhere;60
+flatthirteen;50
 flattire;50
 flattires;50
 flaunty;30
@@ -11256,6 +11305,8 @@ floaties;50
 floormap;50
 floormaps;50
 floors;50
+floorsample;50
+floorsamples;50
 floortile;50
 floortiles;50
 floorwax;50
@@ -11678,6 +11729,8 @@ funhouse;60
 funhouses;60
 funicular;50;Cable railway system on a mountainside
 funiculars;50
+funnyface;60
+funnyfaces;60
 funrun;60
 funruns;60
 funs;20
@@ -12817,6 +12870,7 @@ gotideas;50
 gotinabind;50
 gotinto;40
 gotintoit;50
+gotitmade;50
 gotlost;50
 gotmad;30
 gotmade;50
@@ -13599,9 +13653,9 @@ haveatit;60
 havedibson;50
 haveheart;50
 haveitbad;50
-haveitbothways;60
+haveitbothways;50
 haveitgood;50
-haveitmade;60
+haveitmade;50
 havelegs;50
 havener;1
 havenolife;50
@@ -14902,6 +14956,7 @@ igorots;20;Filipino headhunters
 igotac;1
 igotcha;60
 igotchufam;60
+igotitmade;60
 igotnothing;60
 igotorio;40;Song
 igotoverit;60
@@ -15162,6 +15217,11 @@ improvgroups;60
 improvingon;40
 improvtroupe;60
 improvtroupes;60
+impulsebuy;60
+impulsebuying;60
+impulsebuys;60
+impulsepurchase;60
+impulsepurchases;60
 imran;40;Imran Khan, Pakistani PM 2018-2022
 imrich;60
 ims;40
@@ -16072,6 +16132,7 @@ ivedoneit;60
 iveeaten;60
 ivefallen;1
 ivegot;1
+ivegotitmade;60
 ivegottahandittoyou;60
 ivegottajet;60
 ivegotthis;60
@@ -18031,6 +18092,7 @@ londoneye;50
 lonegunmen;60
 loneness;30
 lonestarstate;50
+lonevoice;50
 longa;40
 longas;20
 longe;40
@@ -18603,9 +18665,24 @@ majoredin;40
 majorin;40
 majoringin;40
 majorityleaders;50
+majorlabel;50
+majorlabels;50
+majorleague;50
 majorleaguegame;30
 majoroperations;50
+majorplayer;50
+majorplayers;50
+majorprophet;50
+majorprophets;50
+majorsecond;50
+majorseconds;50
+majorseven;50
+majorseventh;50
 majorsin;40
+majorsix;50
+majorsixth;50
+majorthird;50
+majorthirds;50
 majorwalterreed;50
 makable;20;Variant of makeable
 makeabeelinefor;60
@@ -19281,6 +19358,8 @@ melodramatically;50
 melodramatics;50
 melodramatist;50
 melodramatists;50
+melonballer;50
+melonballers;50
 meloni;50;Christopher Meloni of "Law and Order: SVU"
 melpomene;30;Greek goddess of tragedy
 melter;30
@@ -19399,8 +19478,8 @@ metooera;60
 metope;20
 metopes;20
 metpayroll;50
-metre;30
-metres;30
+metre;40
+metres;40
 metrist;30;Student of meter/verse
 metrists;30;Students of meter/verse
 metroline;50
@@ -19584,7 +19663,15 @@ minoringin;40
 minorityleaders;50
 minorplanet;50
 minorplanets;50
+minorsecond;50
+minorseconds;50
+minorseven;50
+minorseventh;50
 minorsin;40
+minorsix;50
+minorsixth;50
+minorthird;50
+minorthirds;50
 minoso;30;"Jackie Robinson" for Latin ballplayers
 minster;30
 mint;50
@@ -20255,6 +20342,7 @@ myneck;20
 myo;20;Muscular prefix
 myob;30
 myold;20
+myope;40;Nearsighted or myopic person
 myosotis;20;Flower genus
 myownworstenemy;60
 myriapod;30
@@ -20570,6 +20658,7 @@ negativing;30
 negeb;20;Region of Israel: Var.
 negev;20
 negga;30;Actress Ruth Negga
+negotiatrix;30
 negris;20;???
 negritude;40
 negro;5
@@ -20994,7 +21083,7 @@ nneka;30;Nigerian singer
 nnw;20
 no;50
 noaa;30
-noahs;30
+noahs;40;___ Ark
 noahsark;50
 noamex;20
 noangel;60
@@ -21696,8 +21785,8 @@ odowd;40;Comedian Chris O'Dowd
 ods;5
 odson;5
 oed;40
-oedipal;60
-oedipus;60
+oedipal;50
+oedipus;50
 oeno;30
 oenologist;50
 oenologists;50
@@ -21726,6 +21815,7 @@ officinal;30
 offings;30
 offleashdogpark;50
 offleashdogparks;50
+offtone;40;Off-key, dissonant
 ofiwo;20
 ofrenda;30;Día de los Muertos offering
 ofrendas;30;Día de los Muertos offerings
@@ -21811,6 +21901,7 @@ oilembargoes;50
 oilfree;50
 oilleak;50
 oilleaks;50
+oiloncanvas;50
 oilrig;50
 oilrigs;50
 oiltanker;50
@@ -21967,6 +22058,7 @@ olson;50
 olsons;30
 oluo;30;Author Ijeoma Oluo
 olympiawa;30
+olympiclogo;50
 olyphant;50
 omagazine;50
 omahas;30
@@ -22722,6 +22814,7 @@ our;50
 ourlittlesecret;60
 ouroboros;60
 ours;50
+ourtime;20;Partial
 ousel;20
 ousels;20
 oust;50
@@ -23565,6 +23658,9 @@ perdu;20;Hidden
 pere;40
 peres;40;Israeli PM Shimon Peres
 perfecta;40;Race track bet
+perfectfifth;50
+perfectfifths;50
+perfectfourth;50
 perfectmarriage;50
 perforatedlines;50
 performative;60
@@ -26865,6 +26961,7 @@ riga;40;Capital of Latvia
 rigatonipie;40
 rigg;40;Diana Rigg, Bond girl
 rightface;50
+rightfit;20;Green paint
 rightinthefeels;60
 rightlyso;50
 rightoh;30;???
@@ -27769,6 +27866,7 @@ sangof;40
 sangto;40
 sanicle;20;Plant
 sanicles;20;Plants
+sanjoseca;40
 sanjuanbautista;30
 sankinto;40
 sanmateoca;30
@@ -28856,9 +28954,11 @@ sharkfins;60
 sharpedge;50
 sharpedged;50
 sharpedges;50
+sharpeleven;50
 sharpers;40;Card sharps
 sharpeye;50
 sharpmind;30;???
+sharpnine;50
 sharpturn;50
 shaver;40
 shavers;40
@@ -29873,6 +29973,13 @@ snookercue;50
 snookercues;50
 snookums;60
 snoot;50
+snoozealarm;50
+snoozealarms;50
+snoozebar;50
+snoozebutton;50
+snoozebuttons;50
+snoozefest;60
+snoozefests;60
 snorefest;50
 snorefests;50
 snorer;50
@@ -30331,8 +30438,8 @@ sparer;30
 sparestherod;60
 sparetherod;60
 sparetime;50
-sparetire;60
-sparetires;60
+sparetire;50
+sparetires;50
 sparetyres;20
 sparge;30;Moisten grains in beer brewing
 sparged;30
@@ -33200,9 +33307,11 @@ thewhiskeyrebellion;40
 thewickerman;50
 thewisemen;30
 thexgames;40
+theygotitmade;60
 theyrenext;40
 theyreoff;50
 theysee;1
+theyvegotitmade;60
 thezapruderfilm;20
 thezoomies;60
 thezooplane;40;???
@@ -34994,7 +35103,7 @@ urgeson;40
 urgingon;40
 urhamlet;50
 uri;40
-urie;30;Brendan Urie of My Chemical Romance, or Michael Urie of "Ugly Betty"
+urie;40;Brendan Urie of My Chemical Romance, or Michael Urie of "Ugly Betty"
 uriel;30;Archangel
 uris;30;Author Leon
 urkelos;50
@@ -35771,6 +35880,7 @@ weeun;50;Scot's tot
 weeuns;50;Scot's tots
 wefie;30;Group selfie
 wefies;30;Group selfies
+wegotitmade;60
 weightedblanket;50
 weightlift;50
 weightlifted;50
@@ -35896,6 +36006,7 @@ wetnurse;50
 wetnurses;50
 wetpaint;50
 wettig;30;Patricia Wettig from "City Slickers" or TV's "Thirtysomething"
+wevegotitmade;60
 wewillrockyou;60
 wha;40
 whackjob;60
@@ -36462,6 +36573,7 @@ xenomorphs;60
 xenon;50
 xenongas;50
 xenons;30
+xeroderma;40;Dry skin
 xerosis;20;Dry skin
 xerox;50
 xeroxed;50
@@ -36733,6 +36845,7 @@ youdontsay;60
 youdothetalking;60
 youdoyou;60
 yougood;60
+yougotitmade;60
 yougottabejoking;60
 yougottabekiddingme;60
 youguysgiveuporareyouthirstyformore;60
@@ -36785,6 +36898,7 @@ youthinkitsagame;60
 youthinkthisisagame;60
 youtotallyreadmymind;60
 youtry;50
+youvegotitmade;60
 youvegottabejoking;60
 youvegottabekiddingme;60
 youvegottobejoking;60
