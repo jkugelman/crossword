@@ -869,7 +869,7 @@ airwarden;50
 airwardens;50
 airwave;50
 ais;40
-aisled;30
+aisled;30;Awkward
 aisleseat;50
 aisleseats;50
 aix;20
@@ -7333,6 +7333,7 @@ damozel;20
 damozels;20
 damsels;50
 danae;20;Mother of Perseus
+danai;40;Actress Danai Gurira from "Black Panther" and "The Walking Dead"
 danaides;30;???
 danas;30
 dancastellaneta;60
@@ -9646,6 +9647,10 @@ elance;20
 elanced;20
 elances;20
 elancing;20
+eland;40
+elandcalf;40
+elandcalves;40
+elands;40
 elapid;20;Snake family
 elapids;20;Snake family
 elastics;40
@@ -15695,6 +15700,7 @@ inrush;30
 ins;40
 insales;30
 insatiate;30
+inscale;30;Awkward
 inseam;50
 inseams;50
 insecta;30
@@ -19068,8 +19074,8 @@ manorial;30
 manowar;60
 manque;40;Unsuccessful, e.g. poet manqué
 mansards;30;???
-manse;30;Minister's house
-manses;30;Ministers' houses
+manse;40;Minister's house
+manses;40;Ministers' houses
 mansiere;50
 mansieres;50
 mansplain;60
@@ -20647,6 +20653,7 @@ namesto;40
 nameto;40
 namings;30
 namingto;40
+nan;40
 nana;40
 nanaimo;40;Port in British Columbia, don't know if notable didn't look
 nanas;30
@@ -21562,7 +21569,7 @@ notamused;50
 notany;30
 notapeep;60
 notaprob;60
-notar;30;Cigarette claim
+notar;40;Cigarette claim
 notarial;30;???
 notatoy;50
 notbeen;1
@@ -21948,7 +21955,7 @@ oculi;30
 oculist;40;Eye doctor
 oculists;40
 odalisque;30
-odamae;30;Whoopi in "Ghost"
+odamae;20;Whoopi in "Ghost"
 odawa;20;Ottawa
 oday;30;Jazz vocalist Anita
 oddball;60
@@ -23159,6 +23166,7 @@ oversight;50
 overtimes;50
 oviedo;30;Spanish city
 ovine;30;Sheep-related
+ovines;40;???
 ovipara;30
 oviparity;30
 oviparous;30
@@ -30141,6 +30149,7 @@ smartchip;50
 smartchips;50
 smartdrink;50
 smartdrinks;50
+smartmove;60
 smarttag;50
 smartthinking;60
 smashburger;60
