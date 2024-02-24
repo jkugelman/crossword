@@ -367,6 +367,7 @@ acs;40
 actaeon;30;Greek hero
 actas;40
 actbig;40
+actcasual;60
 acte;30
 actedas;40
 actedfor;40
@@ -408,6 +409,7 @@ actionpacked;60
 actium;20;Greek battle site
 activ;30
 actnatural;60
+actnormal;60
 actofparliament;50
 actofwar;50
 actprep;50
@@ -585,6 +587,8 @@ aegises;40
 aeiou;40
 aeiouy;40
 aeolus;30;Greek god of the winds
+aeon;40
+aeons;40
 aepyornis;30;Extinct bird genus, maybe the largest ever
 aer;30
 aerations;30
@@ -1772,6 +1776,11 @@ arables;30
 araby;40;???
 aracari;30;Toucan
 arachne;30;Mythical weaver
+arachnologist;50
+arachnologists;50
+arachnology;50
+arachnophobia;50
+arachnophobic;50
 araft;20
 aragonite;30;Mineral
 aragorn;50
@@ -2829,6 +2838,7 @@ bailsmen;50
 bairns;30;???
 baiter;50;Troll, "He had become famous as a baiter of left-wing politicians"
 baiters;50
+baiul;40
 bakedbrie;50
 bakedin;50
 bakedziti;50
@@ -3023,6 +3033,9 @@ barthedoors;50
 bartholomewandtheoobleck;60;Dr. Seuss book
 bartstarr;50
 baruch;30;Manhattan college
+baryonnumber;50
+baryonnumbers;50
+baryshnikov;50
 bas;40
 basalbody;30
 baseballcap;50
@@ -3036,6 +3049,8 @@ baseballtonight;50
 baseballuniform;50
 baseballuniforms;50
 baseliner;50
+basenji;40;Dog breed
+basenjis;40
 basesloaded;50
 bashtag;50
 bashtags;50
@@ -3891,6 +3906,10 @@ bloodplasma;50
 bloodtie;50
 bloodties;50
 bloodwork;50
+blossomedinto;40
+blossominginto;40
+blossominto;40
+blossomsinto;40
 blouson;30;Tight-wasted men's of jacket
 bloviation;50
 blowakiss;50
@@ -4051,8 +4070,21 @@ boningup;60
 bonmot;50
 bonmots;50
 bonnenuit;50
+bonsaitree;50
+bonsaitrees;50
 bonsmots;50
 bonu;20
+bonuscheck;50
+bonuschecks;50
+bonusfeature;50
+bonusfeatures;50
+bonuslevel;50
+bonuslevels;50
+bonusmiles;50
+bonusoffer;50
+bonusoffers;50
+bonuspoint;50
+bonuspoints;50
 bonvivant;50
 bonvoyage;50
 bonzer;60
@@ -8818,6 +8850,8 @@ dpl;20
 dplus;40
 dqed;30
 dqs;40
+drabclothing;40;Green paint?
+drabcolors;40;Green paint?
 drachmae;30
 draconids;50;Meteor shower
 dracula;60
@@ -13153,8 +13187,13 @@ graspingat;40
 graspsat;40
 grassed;40
 grasso;20;NYSE chief, CT governor
+grassrootsmovement;50
+grassrootsmovements;50
 grassseed;50
+grassskirt;50
+grassskirts;50
 grassstained;50
+grassyknoll;50
 gratedfilm;40
 gratedon;40
 grateon;40
@@ -13219,7 +13258,8 @@ greeneggsandham;60;Dr. Seuss book
 greener;50
 greenes;30
 greenest;50
-greenhorn;60
+greenhorn;50
+greenhorns;50
 greenish;30
 greetingsearthlings;60
 greisen;30;???
@@ -14100,6 +14140,7 @@ hereand;1
 hereat;30;Because, archaically
 hereitis;50
 hereof;30
+heresanidea;60
 heresatip;60
 herestomanymore;60
 hereto;30
@@ -14257,6 +14298,8 @@ hightops;50
 hiho;40
 hihos;20
 hij;20
+hijacker;40
+hijackers;40
 hijinksensue;60
 hijo;40
 hike;50;Offensive remark?
@@ -16367,6 +16410,7 @@ jackaroo;50;Aussie farm apprentice
 jackaroos;50;Aussie farm apprentices
 jackass;60
 jackasses;60
+jacketcopy;50
 jackhammer;60
 jackolantern;60
 jacobeanera;50
@@ -16475,8 +16519,10 @@ jerkmagnet;50
 jerky;50
 jerrybrown;50
 jerseyboys;50
+jerseycity;50
 jessejames;50
 jessel;30;Actor George
+jesseowens;50
 jesses;30
 jessicachastain;60
 jessye;40;Opera singer Jessye Norman
@@ -16573,6 +16619,7 @@ jokester;60
 jokesters;60
 jokingaround;50
 jokingaroundwith;50
+jolietjake;50
 jolteon;50;Pokeyman
 jonanderson;60
 jonboy;30;Celebrity tattooer
@@ -16616,12 +16663,19 @@ judogi;30
 judogis;30
 juggalo;60
 juggalos;60
+juggernaut;60
 juicebar;50
 juicebars;50
+juicepress;50
+juicepresses;50
 jul;40
 julienned;50
 jumboloan;50
+jumpbail;50
+jumpedbail;50
+jumpingbail;50
 jumpintothefire;60
+jumpsbail;50
 jumpscare;60
 jumpscares;60
 jumpshooter;50
@@ -19027,6 +19081,8 @@ mamabear;50
 mamabears;50
 mamabird;50
 mamabirds;50
+maman;20
+mamans;20
 mamaonaraft;50;???
 mame;40;Musical
 mammon;20;Biblical wealth
@@ -19938,7 +19994,8 @@ missamericanpie;60
 missedacue;40
 missedexam;20
 missellie;40;"Dallas" character
-missent;30
+missend;40
+missent;40
 missesacue;40
 missfirecracker;50
 missilesilo;60
@@ -24397,6 +24454,9 @@ planckconstant;60
 plancksconstant;60
 planer;30
 planers;30
+planetaria;50
+planetarium;50
+planetariums;50
 planetesimal;60
 planetesimals;60
 planetshine;60
@@ -27476,10 +27536,13 @@ rolf;30;Massage
 rolfe;30;John Rolfe, husband of Pocahontas
 rolfing;30
 rolfs;30
+rollacigar;50
 rollatwo;20
 rollcage;50
 rollcages;50
+rollcigars;50
 rolle;30
+rolledacigar;50
 rolledinto;40
 rolledoveranira;20
 rolledr;50
@@ -27492,10 +27555,12 @@ rollicked;30
 rollicking;30
 rollicks;30
 rollie;30;___ Fingers baseballer
+rollingacigar;50
 rollinginto;40
 rollingupintoaball;30
 rollinto;40
 rollo;40;"Nancy" character
+rollsacigar;50
 rollsinto;40
 rollsupintoaball;30
 rollupintoaball;30
@@ -28042,6 +28107,8 @@ salemslot;60
 salemwitchtrial;60
 salemwitchtrials;60
 salesassistants;50
+salesdrive;50
+salesdrives;50
 salesforce;50
 salesforces;50
 salesian;30;???
@@ -28554,7 +28621,8 @@ screwsup;50
 screwthis;60
 screwup;50
 screwups;50
-scries;50
+scried;40
+scries;40
 scrod;50;Fish
 scrods;30;Fish
 scrubnurse;50
@@ -28562,8 +28630,8 @@ scrubnurses;50
 scrumdiddlyumptious;60
 scruple;30
 scrupled;30
-scry;50
-scrying;50
+scry;40
+scrying;40
 sct;20;Scout abbrev. (banned post-Shortz)
 sctv;30
 scubadive;50
@@ -29345,6 +29413,7 @@ shiningarmour;30
 shiningat;20
 shiningexamples;50
 shinleaf;30;Plant
+shinsplints;50
 shipit;60
 shipp;30;Actress Alexandra Shipp of X-Men???
 shippingcontainer;50
@@ -32599,6 +32668,7 @@ tanakh;30;Hebrew Bible
 tandys;20
 tangencies;40
 tangency;40
+tania;40
 tanika;20;Entertainment reporter Tanika Ray, not notable enough
 tanith;20;First name
 tanmandm;50
@@ -32610,6 +32680,7 @@ tantara;30;Trumpet blast
 tantaras;30;Trumpet blasts
 tante;20;Aunt: Fr.
 tantes;20;Aunts: Fr.
+tanto;40;So much, in music
 tanyas;30
 tao;50;"The ___ of Pooh"
 taoofpooh;60
@@ -32737,6 +32808,7 @@ tauter;40
 tautest;40
 tautonym;30;Scientific name in which the same word is used for both genus and species
 tautonyms;30;Scientific names in which the same word is used for both genus and species
+tavissmiley;50
 taw;30;Marble, or Tweety Bird word
 tawana;20
 tawdry;50
