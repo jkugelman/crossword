@@ -12562,6 +12562,7 @@ givesway;50
 givethesilenttreatment;60
 giveuporareyouthirstyformore;60
 giveway;50
+giveyouoneguess;60
 givingahand;50
 givingairto;40
 givingalift;50
@@ -14867,6 +14868,8 @@ hurryalong;50
 hurryingalong;50
 hurryup;50
 hurwitz;50;"Arrested Development" creator
+hushnowthegrownupsaretalking;60
+hushthegrownupsaretalking;60
 hustledup;50
 hustler;50
 hustlesup;50
@@ -15243,6 +15246,7 @@ illegalslidetackle;50
 illgetby;60
 illgeterdone;50
 illgetit;60
+illgiveyouoneguess;60
 illgiveyouthat;60
 illgottengain;60
 illgottengains;60
@@ -24504,22 +24508,26 @@ playdates;50
 playdcupid;1
 playedagig;40
 playedfair;50
+playedforlaughs;50
 playedgames;60
 playedgolf;50
 playerone;50
 playfair;50
+playforlaughs;50
 playgames;60
 playgolf;50
 playground;50
 playgroundslide;50
 playingagig;40
 playingfair;50
+playingforlaughs;50
 playinggames;60
 playinggolf;50
 playmats;50
 playnice;60
 playsagig;40
 playsfair;50
+playsforlaughs;50
 playsgames;60
 playsgolf;50
 playtest;60
@@ -25589,11 +25597,13 @@ quesodips;50
 quickerpickerupper;60
 quietcar;50
 quietcars;50
+quietnowthegrownupsaretalking;60
 quietquit;60
 quietquits;60
 quietquitter;60
 quietquitters;60
 quietquitting;60
+quietthegrownupsaretalking;60
 quik;40
 quiltingbee;50
 quiltingbees;50
@@ -33443,6 +33453,7 @@ thegop;20
 thegreatbrain;30;Children's book series
 thegreatest;60
 thegreatoldones;60;Cthulhu, etc.
+thegrownupsaretalking;60
 thehat;20
 thehavenots;60
 thehaves;60
@@ -33647,6 +33658,7 @@ theshahofiran;30;???
 theshapeofmeandotherstuff;50;Dr. Seuss book
 theshining;60
 theshire;30
+theshowmustgoon;60
 thesiciliandefence;30;???
 thesiciliandefense;50
 thesilenttreatment;60
