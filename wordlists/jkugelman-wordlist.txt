@@ -1435,6 +1435,7 @@ angryfruitsalad;60;UI with too many colors
 angrygod;60
 angryletter;60
 angryletters;60
+angsty;50
 anhonestmistake;60
 anil;40;Dye, or first name
 anilide;20;Fungicide compound
@@ -3143,6 +3144,7 @@ batter;50
 batteredchicken;50
 batters;50
 battery;50
+batterycharge;50
 battingin;40
 battingoneseyes;50
 battleax;60
@@ -3461,6 +3463,9 @@ bemired;30
 bemires;30
 bemiring;30;???
 benand;1
+benandjerry;50
+benandjerrys;50
+benandjerrysicecream;50
 benares;20
 benchjockey;60
 benchjockeys;60
@@ -5504,6 +5509,8 @@ centerpositions;30
 centesimo;30;One hundredth of an Italian lira
 centi;30
 centralartery;50;Boston freeway, or blood vessel
+centralheater;50
+centralheating;50
 centraltimezone;30
 centre;40
 centres;40
@@ -5740,7 +5747,13 @@ chico;50
 chicos;40
 chidi;40;Chidi Anagonye, character on "The Good Place"
 chiefer;30;Sounds weeeeird???
+chiefexecutiveofficer;50
+chiefexecutiveofficers;50
 chiefexecutives;50
+chieffinancialofficer;50
+chieffinancialofficers;50
+chiefjustice;50
+chiefjustices;50
 chigoe;20
 chigoes;20
 chihuahuamexico;30
@@ -5966,6 +5979,9 @@ civiccenter;50
 civilresistance;50
 civvy;50
 cix;20
+claimjumper;50
+claimjumpers;50
+claimjumping;50
 clair;50
 clambed;50
 clambeds;50
@@ -8147,6 +8163,8 @@ digsinto;40
 dihedral;30
 dii;20
 diii;20
+dijonmustard;50
+dijonnaise;50
 dik;20;Cartoonist Browne
 diktat;30;Unpopular decree
 diktats;30;Unpopular decrees
@@ -8445,6 +8463,7 @@ dockingstations;50
 docock;50;Doctor Octopus
 docseverinsen;50
 docter;40;Pixar director Pete Docter
+doctordoctor;50
 doctoredfigures;60
 doctorfrankenstein;60
 dod;40
@@ -11807,6 +11826,7 @@ froglegs;50
 frogpose;50
 frogs;50;Rips out knitting
 frogspit;50;Anti-fog brand for helmets
+fromcentralcasting;60
 fromm;30;Psychologist Erich (he's notable)
 frommer;40;???
 fromseatoshiningsea;50
@@ -12096,6 +12116,8 @@ gasmasks;50
 gasol;40
 gasolene;20
 gasolenes;20
+gasolinepump;50
+gasolinepumps;50
 gasper;30
 gaspers;30
 gasrates;50
@@ -13263,6 +13285,8 @@ greenest;50
 greenhorn;50
 greenhorns;50
 greenish;30
+greenpepper;50
+greenpeppers;50
 greetingsearthlings;60
 greisen;30;???
 greninja;50;Pokeyman
@@ -16268,6 +16292,7 @@ itsallinthegame;60
 itsalottounpack;60
 itsanhonor;60
 itsanogo;60
+itsanonstarter;60
 itsanyonesguess;60
 itsashame;60
 itsasign;60
@@ -16422,9 +16447,12 @@ jackasses;60
 jacketcopy;50
 jackhammer;60
 jackolantern;60
+jackrussell;50
+jackrussells;50
 jacobeanera;50
 jacobs;30
 jager;50
+jaggedlittlepill;50
 jaguarcub;50
 jaguarcubs;50
 jah;40;Rastafarian god
@@ -16446,6 +16474,7 @@ jameskpolk;50
 jameslabrie;50
 jamesmadison;50
 jamesmonroe;50
+jamespatterson;50
 jamestkirk;60
 jamesvi;30
 jamesvii;30
@@ -16486,7 +16515,8 @@ jarredloose;50
 jarringloose;50
 jarsloose;50
 jasonnewsted;50
-javaprogrammers;20
+javaprogrammer;50
+javaprogrammers;50
 jawohl;30;German for "Yes, sir"
 jax;40
 jayjg;1
@@ -16518,6 +16548,11 @@ jelloshot;50
 jelloshots;50
 jellybean;50
 jellybeans;50
+jellydonut;50
+jellydonuts;50
+jellydoughnut;50
+jellydoughnuts;50
+jellyfishbloom;50
 jem;40
 jenner;50
 jenners;50
@@ -16558,8 +16593,14 @@ jetskis;50
 jetstream;50
 jezebel;60
 jiaozi;30;Chinese dumplings
+jiffylube;50
+jiffypop;50
 jigglypuff;50;Pokeyman
-jigsaw;60
+jigsaw;50
+jigsawpuzzle;50
+jigsawpuzzles;50
+jigsawpuzzletable;50
+jigsawpuzzletables;50
 jillaroo;50;Aussie farm apprentice
 jillaroos;50;Aussie farm apprentices
 jillions;50
@@ -16615,6 +16656,8 @@ johnx;20
 joie;30
 joint;50
 jointcommittee;50
+jointreturn;50
+jointreturns;50
 jointventure;50
 jointventures;50
 jojo;60
@@ -18477,6 +18520,7 @@ losingtheplot;50
 losingto;40
 lossleader;60
 lossleaders;60
+lossofmotorfunction;50
 lostart;60
 lostarts;50
 lostastep;50
@@ -20382,6 +20426,10 @@ motorcity;60
 motorinn;50
 motorinns;50
 motoroil;50
+motorskill;50
+motorskills;50
+motorspeedway;50
+motorspeedways;50
 mots;30
 mott;30
 mottoes;20;Less common spelling
@@ -23174,6 +23222,7 @@ outlived;50
 outlives;50
 outliving;50
 outof;40;Without
+outofcentralcasting;60
 outofgas;50
 outonbail;50
 outraging;20
@@ -23709,6 +23758,7 @@ pawsat;40
 pawscar;60;Humane society acting award
 pawscars;60;Human society acting awards
 paxromana;50
+payatthepump;50
 paybacks;40
 payday;50
 paydays;50
@@ -24494,6 +24544,8 @@ plateau;50
 platen;20;Glass surface of a copier/scanner
 platens;20
 platetectonics;50
+platformpump;50
+platformpumps;50
 platies;30;???
 playagig;40
 playbook;50
@@ -24623,6 +24675,8 @@ pneumata;40
 pneumo;30
 pneumonic;40
 poa;20;Bluegrass genus
+poblanopepper;50
+poblanopeppers;50
 poc;40
 pocahontas;50
 pocatelloid;20;Idaho town
@@ -25095,6 +25149,8 @@ presorts;30
 pressedham;50
 pressevent;50
 pressevents;50
+pressjunket;50
+pressjunkets;50
 presskit;50
 presskits;50
 pressons;50
@@ -26437,6 +26493,8 @@ redpencils;50
 redpenned;50
 redpenning;50
 redpens;50
+redpepper;50
+redpeppers;50
 redphone;50
 redplanet;50
 redraft;40;Make another draft
@@ -27326,10 +27384,12 @@ rigatonipie;40
 rigg;40;Diana Rigg, Bond girl
 rightface;50
 rightfit;20;Green paint
+rightfromcentralcasting;60
 rightinthefeels;60
 rightlyso;50
 rightoh;30;???
 righton;60
+rightoutofcentralcasting;60
 rightpickle;60
 righttobeararms;60
 righty;50
@@ -31508,6 +31568,8 @@ steerclear;50
 steeredto;40
 steerer;40
 steerers;40
+steeringcommittee;50
+steeringcommittees;50
 steeringto;40
 steers;50
 steersto;40
@@ -31800,6 +31862,8 @@ stpy;20
 strada;40;Fellini's "La Strada"
 stradivarii;40
 straightenyourselfout;60
+straightfromcentralcasting;60
+straightoutofcentralcasting;60
 straincredulity;60
 straiten;30
 straitened;30
@@ -31816,6 +31880,14 @@ stratas;20
 strathspey;30;???
 strathspeys;30;???
 strati;40;Certain clouds
+strawberrymojito;50
+strawberrymojitos;50
+strawberryshake;50
+strawberryshakes;50
+strawberryshortcake;50
+strawberrytree;50
+strawberrytrees;50
+strawberrywine;50
 strawboss;50
 strawbosses;50
 strawhut;50
@@ -32014,13 +32086,17 @@ subdeacon;30
 subdeacons;30
 subfor;40
 subj;30
+subjectmatter;50
+subjectmatterexpert;50
+subjectmatterexperts;50
 sublime;50
 sublimer;30
 suborbital;50
 suborbitals;50
 subpoenas;50
 subrosa;50
-subscribebutton;60
+subscribebutton;50
+subscribebuttons;50
 subsfor;40
 subspace;50
 subspaces;50
@@ -33276,6 +33352,7 @@ thatsadickmove;60
 thatsafinehowdoyoudo;60
 thatsagiven;60
 thatsaid;60
+thatsanonstarter;60
 thatsaspicymeataball;60
 thatsaspicymeataballa;60
 thatsawholenotherstory;60
@@ -34183,6 +34260,7 @@ tofudog;50
 tofudogs;50
 tofupudding;50
 tofupuffs;50
+tofusalad;50
 tog;40;Dress (up)
 togae;30
 togaed;40
@@ -37334,6 +37412,7 @@ youlove;1
 youmaybeexcused;60
 youmind;60
 youmissed;60
+youmustbejoking;60
 youneedtogetyourheadexamined;60
 younglion;50;???
 younglions;50;???
