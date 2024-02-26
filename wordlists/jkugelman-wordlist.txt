@@ -1435,6 +1435,9 @@ angryfruitsalad;60;UI with too many colors
 angrygod;60
 angryletter;60
 angryletters;60
+angst;50
+angstier;50
+angstiest;50
 angsty;50
 anhonestmistake;60
 anil;40;Dye, or first name
@@ -3555,6 +3558,7 @@ betatestversion;50
 betatron;50;Particle accelerator
 betatrons;50;Particle accelerators
 betenoire;50
+bethe;20;Partial
 bethnal;30;???
 betiaraed;30
 betide;30
@@ -3574,6 +3578,7 @@ bewareofthedogs;60
 bfa;40
 bflat;40
 bharat;40;Alternate name for India
+bi;50
 biafra;30;African state 1967-1970
 biafran;20
 bialik;50
@@ -3975,6 +3980,7 @@ bmws;40
 bnai;30
 bnatural;40
 bneg;20
+bo;50
 boardbook;50
 boardbooks;50
 boardgamenight;60
@@ -4703,6 +4709,7 @@ bythesea;50
 byzantine;50
 byzantineempire;50
 c;1
+ca;40
 caa;20;Talent agency
 cabala;40
 cabalas;40
@@ -5415,6 +5422,7 @@ ccvii;20
 ccx;20
 ccxi;20
 ccxii;20
+cd;50
 cdc;50
 cde;20
 cdef;20
@@ -5700,7 +5708,7 @@ chemistrysymbol;20
 chemo;50
 cheng;30;???
 cheng;30;Not sure who's notable???
-chere;30
+chere;40
 cheri;50
 cheris;40
 chess;50
@@ -5888,6 +5896,7 @@ churningout;50
 churnout;50
 churnsout;50
 chuted;30
+ci;40
 ciaagent;50
 ciaagents;50
 ciachief;40
@@ -6154,6 +6163,7 @@ cnnnews;50
 cnote;40
 cnotes;40
 cns;40
+co;40
 coachdog;40;Dog trained to run alongside carriages to protect from bandits
 coachdogs;40
 coact;30
@@ -7307,6 +7317,7 @@ cyrillicletters;50
 cyst;40
 cysts;40
 d;1
+da;40
 daae;40;Christine of Phantom
 dabat;30
 dabbedat;40
@@ -9835,6 +9846,7 @@ ely;30;Ron Ely who played Tarzan
 elya;20
 elytron;20;Beetle part
 elytrons;20;Beetle parts
+em;40
 emac;20;Old Macintosh
 emacs;20;Old Macintoshes
 emagazine;30
@@ -9919,6 +9931,7 @@ emufarm;40
 emufarms;40
 emulative;40
 emuoil;30
+en;40
 enactor;30
 enam;20
 enamels;30
@@ -10243,6 +10256,7 @@ equipage;30
 equivoke;30
 equivoque;30
 equus;40
+er;50
 eradiate;30;Radiate
 eradiated;30;Radiated
 eradiates;30;Radiates
@@ -10792,6 +10806,7 @@ eying;30
 ezine;30
 ezines;30
 f;1
+fa;40
 faa;50
 fabfive;50
 fabi;30;F1 driver Teo Fabi
@@ -12487,6 +12502,7 @@ ghoststories;60
 ghoststory;60
 ghosttown;60
 ghosttowns;60
+gi;40
 gia;50
 giano;20
 giantess;40
@@ -12953,6 +12969,7 @@ gooddog;60
 gooddoggie;60
 gooddoggies;60
 gooddoggy;60
+goode;40
 goodeye;60
 goodfornothing;60
 goodfornothings;60
@@ -14087,6 +14104,7 @@ hellion;60
 hellions;60
 hellish;60
 hellishly;60
+hellmannsdijonnaise;50
 hellno;60
 hello;50
 hellodolly;50
@@ -14327,6 +14345,7 @@ hightop;50
 hightops;50
 hiho;40
 hihos;20
+hihowareyou;50
 hij;20
 hijacker;40
 hijackers;40
@@ -14891,6 +14910,8 @@ hurry;50
 hurryalong;50
 hurryingalong;50
 hurryup;50
+hurter;20
+hurters;20
 hurwitz;50;"Arrested Development" creator
 hushnowthegrownupsaretalking;60
 hushthegrownupsaretalking;60
@@ -16767,6 +16788,7 @@ justimagine;60
 justincase;60
 justlikenew;60
 justplaying;60
+justsayinghi;60
 justspititout;60
 justtryme;60
 jutes;20
@@ -17222,6 +17244,7 @@ kymograph;20;Graphical representation of spatial position over time
 kymographs;20;Graphical representations of spatial position over time
 kyocera;30;Japanese electronics company
 l;1
+la;40
 laa;25;Los Angeles Angels, on scoreboards [occasional]
 laalaa;30;Yellow Teletubby
 laalaa;50;Yellow teletubby
@@ -17826,6 +17849,8 @@ lemmings;50
 lemnos;30;Greek island
 lemondrizzlecake;50
 lemondrizzlecakes;50
+lemondropcookie;50
+lemondropcookies;50
 lemonglaze;50
 lemonl;1
 lemonmeringue;50
@@ -18787,6 +18812,7 @@ lysin;20;Enzyme
 lysins;20;Enzymes
 lyso;20
 m;1
+ma;50
 maa;30
 maas;30
 maasai;40;Correct spelling of Masai
@@ -19543,6 +19569,7 @@ mdxi;20
 mdxl;20
 me;50
 mea;40
+meade;50;Gettysburg general
 mealprep;50
 mealticket;60
 meandmybigmouth;60
@@ -20156,6 +20183,7 @@ mneme;20
 mno;20
 mnop;20
 mnopqr;20
+mo;40
 moab;40;Utah city
 moated;30
 mobcap;30;18th century bonnet
@@ -20233,6 +20261,7 @@ monarda;20;Plant genus
 moncher;50;Mon cheri, shortened
 moncheri;50;My dear, for a man
 mondaymorningqb;30
+monde;40
 monedavis;50
 moneta;30;Juno Moneta, epithet of Juno, Roman goddess, origin of "money"
 money;50
@@ -21708,6 +21737,7 @@ notforamoment;60
 notguilty;50
 noth;40;Chris Noth
 nothere;60;"Let's discuss this later"
+nothingbeatsnewhellmannsdijonnaise;50
 nothingnew;50
 noti;40
 noticer;40
@@ -23278,6 +23308,7 @@ overseer;50
 overseers;50
 oversees;50
 oversight;50
+overthe;1
 overtimes;50
 oviedo;30;Spanish city
 ovine;30;Sheep-related
@@ -23610,6 +23641,8 @@ partb;20;Medicare option
 partc;20;Medicare option
 partd;20;Medicare option
 partedfrom;40
+parter;40
+parters;40
 partfrom;40
 parti;40
 participationmedal;60
@@ -24563,6 +24596,7 @@ playedfair;50
 playedforlaughs;50
 playedgames;60
 playedgolf;50
+playedto;40
 playerone;50
 playfair;50
 playforlaughs;50
@@ -24575,6 +24609,7 @@ playingfair;50
 playingforlaughs;50
 playinggames;60
 playinggolf;50
+playingto;40
 playmats;50
 playnice;60
 playsagig;40
@@ -24582,12 +24617,14 @@ playsfair;50
 playsforlaughs;50
 playsgames;60
 playsgolf;50
+playsto;40
 playtest;60
 playtested;60
 playtester;60
 playtesters;60
 playtesting;60
 playtests;60
+playto;40
 plazasuite;50
 pleach;30;Entwine branches to form a hedge
 pleached;30;Entwined branches to form a hedge
@@ -28490,6 +28527,8 @@ sayboo;60
 sayest;30
 sayido;30
 sayingamen;40
+sayinghi;50
+sayinghito;40
 sayingido;30
 sayingmass;50
 sayingto;40
@@ -29647,6 +29686,7 @@ shurikens;60
 shush;50
 shute;20;Author Nevil
 shutupandkissme;60
+si;40
 sia;40;Singer
 siamang;30;Indonesian primate
 siamese;50
@@ -32227,6 +32267,7 @@ supereasybarelyaninconvenience;60
 superegos;30
 superfood;60
 superfoods;60
+superintendentchalmers;50
 superiorcourt;50
 superioritycomplex;60
 superlike;60
@@ -33957,6 +33998,7 @@ thutmoseiii;30
 thyestes;30;Seneca play
 thyronine;30
 thyrse;20
+ti;40
 tia;40
 tiafoe;30;Tennis player Frances
 tiaraed;30
