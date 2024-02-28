@@ -1253,6 +1253,7 @@ aments;20
 ameproblem;60
 amerce;20;Punish with a fine
 amerces;20;Fines
+americachavez;50;Marvel superhero
 americanpharaoh;50
 americanredcross;50
 americanspanish;50
@@ -3251,6 +3252,7 @@ beallears;1
 beaman;50
 beamer;50;BMW
 beamers;50
+beanballs;50
 beanbunny;50;Muppet
 beaneater;5
 beansprout;50
@@ -5031,6 +5033,7 @@ capitaly;30
 capitalz;30
 capitulant;30
 capitular;40
+capn;40
 caponize;30
 caponized;30
 caponizes;30
@@ -5045,6 +5048,9 @@ capstone;50
 capt;30
 captainbuzzkill;60
 captaineo;20
+captainplanet;50
+captainplanetandtheplaneteers;50
+captainpolluition;50;Captain Planet's opposite
 captcha;50
 captchaimage;50
 captchaimages;50
@@ -5213,6 +5219,7 @@ cascara;30;Coffee cherry tea
 cascaras;30;Coffee cherries
 casedout;40
 caseinsensitive;50
+caseofthemondays;60
 caseout;40;Check out???
 casereport;50
 casereports;50
@@ -8474,6 +8481,7 @@ dockingstations;50
 docock;50;Doctor Octopus
 docseverinsen;50
 docter;40;Pixar director Pete Docter
+doctorblight;50;Captain Planet baddie
 doctordoctor;50
 doctoredfigures;60
 doctorfrankenstein;60
@@ -8881,6 +8889,7 @@ dpl;20
 dplus;40
 dqed;30
 dqs;40
+dr;50
 drabclothing;40;Green paint?
 drabcolors;40;Green paint?
 drachmae;30
@@ -8950,6 +8959,7 @@ drayhorses;30
 drayman;30
 drays;30
 drayyard;50
+drblight;50;Captain Planet baddie
 drdemento;50
 drea;40;Actress de Matteo
 dreamboat;60
@@ -10818,6 +10828,9 @@ facedit;30
 facedtherap;20
 faceid;50
 faceit;60
+facemelting;60
+facemeltingguitarsolo;60
+facemeltingsolo;60
 facepaint;60
 facepainting;60
 facesit;30
@@ -12943,6 +12956,8 @@ gondorff;40;Paul Newman's "The Sting" character Henry Gondorff
 gondwanan;50
 goneat;30
 gonedark;50
+gonefishin;50
+gonefishing;50
 goneinaninstant;60
 goneinto;40
 goneoffkilter;50
@@ -13280,6 +13295,7 @@ greatoldones;60
 greatshot;50
 greatstuff;60
 greedisgood;60
+greedly;50;Hoggish Greedly, Captain planet baddie
 greekcross;50
 greekcrosses;50
 greekgod;50
@@ -14477,6 +14493,8 @@ hogcaller;50
 hogcallers;50
 hogcalling;50
 hogcalls;50
+hoggish;50;Hoggish Greedly, Captain planet baddie
+hoggishgreedly;50;Captain Planet baddie
 hogshead;50
 hogthrob;50;Muppet Link Hogthrob
 hogtie;60
@@ -14750,6 +14768,7 @@ hotfootit;60
 hotfoots;50
 hotfootsit;60
 hotfuzz;60
+hotgarbage;60
 hotgoss;60;Hot gossip
 hothead;60
 hotheaded;60
@@ -16164,6 +16183,7 @@ isms;30
 isn;20
 isnap;20
 isnear;20
+isnothingsacred;60
 isnt;50
 isnthome;20
 isntok;20
@@ -18688,6 +18708,7 @@ lseven;30
 lsf;20
 lst;20;WWII carrier, "Landing Ship, Tank"
 lsu;40
+lt;50
 lta;20
 ltcol;40
 ltcols;40
@@ -19708,6 +19729,8 @@ melonballers;50
 meloni;50;Christopher Meloni of "Law and Order: SVU"
 melpomene;30;Greek goddess of tragedy
 melter;30
+meltingface;60;Emoji
+meltingfaceemoji;60
 melton;30
 memaine;1
 memberdirectory;50
@@ -20517,6 +20540,7 @@ mpg;50
 mph;50
 mps;40
 mpthreeplayers;20
+mr;50
 mrandmrs;50
 mrapril;20
 mrbrowncanmoocanyou;60;Dr. Seuss book
@@ -20552,6 +20576,7 @@ mrsoleary;50
 mrssmith;50
 mrswho;50;Character in "A Wrinkle in Time"
 mrwilson;50
+ms;50
 msdegree;30
 msdegrees;30
 msec;40
@@ -21738,6 +21763,8 @@ notguilty;50
 noth;40;Chris Noth
 nothere;60;"Let's discuss this later"
 nothingbeatsnewhellmannsdijonnaise;50
+nothingincommon;50
+nothingissacred;60
 nothingnew;50
 noti;40
 noticer;40
@@ -24204,6 +24231,8 @@ phenomenon;50
 phenoms;60
 phfactor;50
 phfactors;50
+phillipsheadscrewdriver;50
+phillipsheadscrewdrivers;50
 philol;20
 philomenacunk;50
 philter;30;Love potion
@@ -24549,6 +24578,8 @@ planers;30
 planetaria;50
 planetarium;50
 planetariums;50
+planeteer;50;Captain Planet sidekick
+planeteers;50
 planetesimal;60
 planetesimals;60
 planetshine;60
@@ -25477,6 +25508,7 @@ publiclibraries;50
 publicofficials;50
 publicrelations;50
 publictv;50
+publishorperish;60
 puckerpie;50
 puckerpies;50
 puerperal;20;Medical word
@@ -30247,6 +30279,8 @@ slidon;40
 slimer;50
 slimey;20
 slimfast;50
+slinkytoss;50
+slinkytosses;50
 slipinto;40
 slipon;40
 slippedinto;40
@@ -31184,6 +31218,8 @@ spreadsthegoodword;60
 spreadthegoodword;60
 spreadthin;60
 springaleak;50
+springfieldil;30
+springfieldmo;30
 springingaleak;50
 springsaleak;50
 sprit;30;Sail extension
@@ -31236,6 +31272,7 @@ squire;60
 squirtbottle;50
 squirtbottles;50
 squirtle;50;Pokeyman
+sr;40
 sra;40
 sras;40
 sri;40
@@ -36896,6 +36933,8 @@ winteraconite;30;???
 winterale;50
 winterales;50
 winteregg;50;Fabergé egg
+winterpear;50
+winterpears;50
 winterxgames;50
 wintery;20;Less common spelling
 winthewar;50
@@ -37107,6 +37146,8 @@ writingto;40
 wrongun;20
 wroteto;40
 wrothful;30
+wroughtirongate;50
+wroughtirongates;50
 wsj;40
 wsop;40
 wsw;20
@@ -37465,6 +37506,7 @@ youreadmymind;60
 youreameanonemrgrinch;60
 youreaskingforit;60
 yourebad;60
+youregettingsleepy;60
 youregood;60
 youreinrareform;60
 yourejustsayingwhateveryonesthinking;60
@@ -37557,6 +37599,8 @@ zenmonks;60
 zeolite;30;Detergent mineral
 zeolites;30;Detergent minerals
 zero;50
+zerocalorie;50
+zerocalories;50
 zeroedin;50
 zeroedinon;50
 zeroesin;50
@@ -37572,6 +37616,7 @@ zerostar;60
 zerostarreview;60
 zerostarreviews;60
 zerostars;60
+zerowaste;50
 zerozero;50
 zestar;30;___! apple
 zestars;30;___! apples
