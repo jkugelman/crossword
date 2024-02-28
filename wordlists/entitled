@@ -1,0 +1,24 @@
+#!/bin/bash
+
+main() {
+    local title="$1"
+    local name="$2"
+
+    rg "$name" wordlist.txt |
+        sed "s/$name/$title$name/g" |
+        ./phrases.py |
+        rg "\\b$title$name\\b|\\b$title $name\\b" |
+        sed 's/ //g' |
+        uniq |
+        rgl "$title$name"
+}
+
+rgl() {
+    if [[ -t 1 ]]; then
+        rg -p "$@" | less -R
+    else
+        rg "$@"
+    fi
+}
+
+main "$@"
