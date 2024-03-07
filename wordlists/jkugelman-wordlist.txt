@@ -1106,7 +1106,9 @@ almvp;40
 almvps;40
 alo;25;Hello in Portugese and South/Central American Spanish [occasional]
 aloadof;20
+aloe;50
 aloerter;30;Discus champion
+aloes;40
 alohas;40;Questionable plural
 alohastate;50
 alonely;20
@@ -2189,6 +2191,8 @@ askingin;40
 askingof;40
 askingto;40
 askmeificare;60
+askmenoquestions;60
+askmenoquestionsandilltellyounolies;60
 asknow;50
 askof;40
 asksfor;40
@@ -2232,6 +2236,7 @@ aspiresto;40
 aspireto;40
 aspiringto;40
 asregards;40
+assads;40;Syrian ruling family
 assagai;20;Afro-rock band
 assagais;20;African spears
 assam;40;Indian state, type of tea
@@ -2292,6 +2297,7 @@ asspennies;60
 asspenny;60
 asss;20
 asst;40
+asstda;40
 asstprof;40
 asstprofs;40
 assumable;30
@@ -4383,6 +4389,8 @@ breastofchicken;20
 breathingroom;50
 breccia;30
 breck;20
+breechesrole;60
+breechesroles;60
 breezedrightpast;50
 breezerightpast;50
 breezesrightpast;50
@@ -5214,8 +5222,8 @@ carnifies;30
 carnify;30
 carnifying;30
 caro;30;Beloved: Italian
-carob;30
-carobs;30
+carob;40;Chocolate substitute
+carobs;30;Not usually pluralized
 carolalt;50
 carolbrady;50
 carolean;30
@@ -12468,6 +12476,7 @@ getinabind;50
 getinhere;60;"My office, now!"
 getinline;60
 getinto;40
+getintoarut;50
 getintoit;50
 getitthroughyourskull;60
 getlost;50
@@ -12506,6 +12515,7 @@ getsfat;5
 getsideas;50
 getsinabind;50
 getsinto;40
+getsintoarut;50
 getsintoit;50
 getsloshed;50
 getslost;50
@@ -12561,6 +12571,7 @@ gettingforasong;60
 gettingideas;50
 gettinginabind;50
 gettinginto;40
+gettingintoarut;50
 gettingintoit;50
 gettingmade;50
 gettingnear;40
@@ -13230,6 +13241,7 @@ gothicart;50
 gotideas;50
 gotinabind;50
 gotinto;40
+gotintoarut;50
 gotintoit;50
 gotitmade;50
 gotlost;50
@@ -14504,6 +14516,7 @@ hillel;30;Jewish campus group
 him;50
 himom;60
 himorme;50
+hindermost;40
 hindugod;50
 hindugods;50
 hingedon;40
@@ -15457,6 +15470,7 @@ illshowmyselfout;60
 illshutupnow;60
 illsue;60
 illtell;60
+illtellyounolies;60
 illtryredialing;20
 illume;40
 illumed;40
@@ -15791,10 +15805,15 @@ indeedy;60
 indeliblepencil;60
 indenial;50
 indestructosteelball;60;Acme invention
+indianahoosier;50
 indianahoosiers;50
+indianajones;60
 indianan;40
 indianans;40
 indianapa;20
+indianapoliscolt;50
+indianapoliscolts;50
+indianapolisin;30
 indiancorn;50
 indicant;40
 indicants;40
@@ -20136,8 +20155,8 @@ minable;30
 minari;40;2020 Netflix movie
 mincedoneswords;60
 mincesnowords;60
-minderaser;60
-mindkiller;60
+minderaser;50;Drink
+mindkiller;60;Fear, in "Dune"
 minefield;60
 minefields;60
 minella;20;Tennis player, wine grape, Irish racehorse
@@ -20216,6 +20235,7 @@ minorthird;50
 minorthirds;50
 minoso;30;"Jackie Robinson" for Latin ballplayers
 minster;30
+minstrelsy;40
 mint;50
 mintcondition;50
 minter;30
@@ -20641,6 +20661,7 @@ motjuste;60;The exact, appropriate word
 motlier;30
 motliest;30
 motmot;30;???
+moto;40;Motorola phone, Mr. Moto, others
 motorcade;50
 motorcades;50
 motorcity;60
@@ -23761,6 +23782,8 @@ pantaloons;60
 panthercub;50
 panthercubs;50
 pantomimeartist;30;???
+pantsrole;60
+pantsroles;60
 pantyline;50
 pantylines;50
 pantyraid;50
@@ -33197,8 +33220,19 @@ tasseler;30;Worker who makes tassels
 tasselers;30
 tastebud;50
 tastebuds;50
+tastedof;40
+tastedok;40
+tastelessjoke;60
+tastelessjokes;60
+tastemaker;60
+tastemakers;60
+tasteof;40
+tasteok;40
+tastesof;40
+tastesok;40
 tastetester;60
 tastetesters;60
+tastingof;40
 tastingroom;50
 tastingrooms;50
 tat;50
@@ -33472,6 +33506,7 @@ tellnoone;60
 tellof;40
 tellsafib;40
 tellsof;40
+tellyounolies;60
 telomere;30;Genetic word
 telomeres;30;Genetic word
 telos;40;Term from Aristotle
@@ -35006,6 +35041,7 @@ tralee;30;Ireland town
 tramline;40;Streetcar tracks and wires
 tramlines;40;Streetcar tracks and wires
 trampas;20;Cowboy villain in "The Virginian"
+tranced;40
 tranio;20;Taming of the Shrew character
 transactor;30
 transactors;30
@@ -35094,6 +35130,8 @@ tremblers;30
 tremolos;30
 trencher;30
 trenchers;30
+trendsetter;60
+trendsetters;60
 trenta;30
 trental;30;Blood circulation medicine
 trentas;30;Extra large Starbucks drinks
@@ -35216,6 +35254,8 @@ troubleshooting;50
 troubleshoots;50
 troubleshot;50
 trouser;40;OK as an adjective "trouser pockets"
+trouserrole;60
+trouserroles;60
 trover;20;Type of lawsuit
 trow;20
 trowed;20
