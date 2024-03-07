@@ -4100,9 +4100,15 @@ bombshellannouncement;60
 bombshells;60
 bombsite;50
 bombsites;50
+bombsniffingdog;50
+bombsniffingdogs;50
+bombsquad;50
+bombsquads;50
 bomer;30;Matt Bomer of "Magic Mike"
 bon;40
 bonaire;30;Island off Venezuela
+bondbroker;50
+bondbrokers;50
 bondo;30;Putty brand
 bonedensity;50
 bonedup;60
@@ -4136,6 +4142,8 @@ bonusoffer;50
 bonusoffers;50
 bonuspoint;50
 bonuspoints;50
+bonusround;50
+bonusrounds;50
 bonvivant;50
 bonvoyage;50
 bonzer;60
@@ -4967,11 +4975,15 @@ candystores;50
 canid;40
 canids;40
 canifinish;60
+canigetinonthat;60
+canigonow;60
 canihaveyourattention;60
 canihaveyourattentionplease;60
 canisfamiliaris;50
+canistealyouforasecond;60
 canit;50;"Shut up"
 canitalk;60
+canithinkaboutit;60
 cannae;20;Punic War battle site
 canneryrow;50
 cannibal;50
@@ -5984,7 +5996,7 @@ cimino;40;"The Deer Hunter" writer/director
 cinc;20;Commander in chief
 cincinattioh;30
 cinco;40
-cinderella;60
+cinderella;50
 cinderellastory;60
 cineol;20
 cineraria;30
@@ -6868,17 +6880,17 @@ couldyoupleasenot;60
 coulee;30
 coulees;30
 countcalories;50
-countcards;60
+countcards;50
 countchocula;60
 countedcalories;50
-countedcards;60
+countedcards;50
 counterto;40
 countingcalories;50
-countingcards;60
+countingcards;50
 countingthedays;50
 countpalatine;30;Feudal lord
 countscalories;50
-countscards;60
+countscards;50
 countytax;50
 countytaxes;50
 coupdetat;50
@@ -6989,6 +7001,7 @@ craners;30
 craniate;30;Member of the Craniata, animals with skulls
 craniates;30
 crapgame;50
+crapgames;50
 crapo;20
 crapsgame;50
 crapsgames;50
@@ -7473,6 +7486,8 @@ dancingtothemusic;50
 dancy;30
 dandan;40;Chinese noodle dish
 danelaw;30
+dangersign;50
+dangersigns;50
 dangit;60
 dangitall;60
 dangitalltoheck;60
@@ -7693,6 +7708,7 @@ dealers;50
 dealfor;30
 dealingout;50
 dealingto;40
+dealornodeal;60
 dealout;50
 dealsout;50
 dealsto;40
@@ -9875,7 +9891,7 @@ elion;20
 eliotness;50
 elis;30
 elitisms;20
-eliud;50;Eliud Kipchoge, all-time-great long-distance runner
+eliud;40;Eliud Kipchoge, all-time-great long-distance runner
 eljames;50
 elkcalf;50
 elkcalves;50
@@ -11032,6 +11048,7 @@ fannychmelar;60
 fannyprice;50;Austen's "Mansfield Park" heroine
 fanon;20;Papal vestment
 fanons;20;Papal vestments
+fanservice;60
 fantomas;60
 fao;40;___ Schwartz
 fap;20
@@ -12038,6 +12055,9 @@ fundraiser;50
 fundraisers;50
 fundraising;50
 fundraisingdrive;50
+fungaria;50
+fungarium;50;Fungus collection
+fungariums;50
 funhouse;60
 funhouses;60
 funicular;50;Cable railway system on a mountainside
@@ -12648,9 +12668,18 @@ gimped;5
 gimping;5
 gimps;5
 gimpy;5
+ginandtonic;50
+ginandtonics;50
 ginfizz;50
 ginfizzes;50
-gingerspice;60
+gingerbreadhouse;50
+gingerbreadhouses;50
+gingerbreadman;50
+gingerbreadmen;50
+gingerroot;50
+gingerspice;50
+ginmartini;50
+ginmartinis;50
 ginos;30
 ginza;40;Tokyo shopping district
 gio;20;???
@@ -13316,8 +13345,16 @@ grandees;30
 grandfatherclock;50
 grandin;20;Animal rights activist Temple ___
 grandjury;50
+grandprix;50
+grandprize;50
+grandprizes;50
+grandrapidsmi;40
+grandreopening;50
+grandreopenings;50
 grandtier;50
 grandtiers;50
+grandtour;50
+grandtours;50
 grange;40
 granite;50
 granites;40
@@ -14244,6 +14281,7 @@ helltotheno;60
 helluva;60
 hellweek;60
 hellyeah;60
+hellzapoppin;50;1941 movie
 helmsdeep;50
 helo;20
 helos;20
@@ -16580,6 +16618,7 @@ ivyleagueschools;50
 ivysaur;50;Pokeyman
 ivyvine;40
 iwannasee;60;"Move out of the way!"
+iwantinonthat;60
 iwantout;60
 iwanttosee;60;"Move out of the way!"
 iwillnot;50
@@ -16911,6 +16950,8 @@ junebugs;60
 junglier;30
 jungliest;30
 jungly;30
+juniormiss;50
+juniorseau;50
 juniperberries;50
 juniperberry;50
 juniperoil;50
@@ -17177,6 +17218,7 @@ kimohara;20
 kimye;40;Kim/Kanye
 kinara;30;Kwanzaa candle holder
 kinase;30;ATP enzyme
+kingarthur;50
 kingboo;60
 kingcrimson;60
 kingdavid;50
@@ -17483,6 +17525,8 @@ laidto;30;Docked
 laidtorest;50
 laika;30;Soviet space dog
 lainie;30;Actress/singer Lainie Kazan
+laird;20;Scottish landowner
+lairds;20
 lait;40;Cafe au lait
 lakier;20
 lakiest;20
@@ -18703,13 +18747,15 @@ losingface;50
 losingonesmarbles;60
 losingoutto;40
 losingsteam;60
+losingstreak;50
+losingstreaks;50
 losingtheplot;50
 losingto;40
 lossleader;60
 lossleaders;60
 lossofmotorfunction;50
 lostart;60
-lostarts;50
+lostarts;60
 lostastep;50
 lostcat;40
 lostcats;40
@@ -19361,6 +19407,8 @@ manias;40;Bad plural
 manioc;20;Cassava
 manless;30
 mannas;20
+mannerist;40
+mannerists;40
 mano;40
 manoamano;60
 manofthehour;60
@@ -20240,6 +20288,7 @@ misos;30;Bad plural
 missa;40
 missacue;40
 missamericanpie;60
+missdaisy;50
 missedacue;40
 missedexam;20
 missellie;40;"Dallas" character
@@ -21273,6 +21322,7 @@ nervewracking;60
 nervoustic;60
 nervoustics;60
 nes;20
+nesbit;40;1800s writer Edith Nesbit
 nescience;40
 nescient;40
 ness;40
@@ -21344,6 +21394,7 @@ newconstruction;50
 newdo;50
 newel;20;Staircase support
 newface;50
+newfearunlocked;60
 newhire;50
 newhires;50
 newintown;50
@@ -21812,6 +21863,7 @@ noproblemo;60
 norad;30
 noranda;20;Rouyn-Noranda, Quebec
 norbert;40;Unknown cluing angle, only used once in NYT
+norbit;40;Eddit Murphy movie
 nord;30;North: Fr. (not Nordic)
 noreally;60
 noreason;60
@@ -22277,6 +22329,7 @@ octobass;50
 octobasses;50
 octopussy;60
 octroi;20
+ocularpatdown;60
 oculars;30
 oculi;30
 oculist;40;Eye doctor
@@ -23712,6 +23765,10 @@ pandaporn;60
 pandareserve;50
 pandareserves;50
 pandarus;20;Trojan War figure
+panderedto;40
+panderingto;40
+pandersto;40
+panderto;40
 pandit;30
 pandl;20;Profit and loss
 panem;40;Hunger Games nation
@@ -23734,6 +23791,8 @@ pantyraid;50
 pantyraider;50
 pantyraiders;50
 pantyraids;50
+panzertank;50
+panzertanks;50
 paoloveronese;20
 papabear;50
 papajohn;50
@@ -24058,6 +24117,8 @@ peaceoffering;50
 peaceofferings;50
 peaceprize;50
 peaceprizes;50
+peaceprotest;50
+peaceprotests;50
 peacetalk;60
 peacetalks;60
 peachick;50
@@ -24361,6 +24422,7 @@ petridishes;50
 petrucci;50
 petsematary;50
 petsmart;50
+pettycash;50
 pewee;30;Bird
 pewees;30
 pewit;30;Bird
@@ -26125,6 +26187,8 @@ rakingitin;50
 ral;20
 rallycar;50
 rallycars;50
+rallye;30;Alternate spelling of rally
+rallyes;30
 ralphnader;50
 ralphs;30
 ralston;30;Some brand ???
@@ -27061,6 +27125,8 @@ rentaroom;40;Green paint???
 rentedaroom;40
 rentedto;40
 rentes;20
+rentfreeze;50
+rentfreezes;50
 rentingaroom;40
 rentingto;40
 rentroll;30
@@ -29323,9 +29389,11 @@ senateseats;50
 sendacard;50
 sendafax;50
 sendai;20;Japanese city
+sendflowers;50
 sendin;40
 sendingacard;50
 sendingafax;50
+sendingflowers;50
 sendingin;40
 sendingmoney;30;???
 sendingoff;40
@@ -29338,6 +29406,7 @@ sendon;40
 sendout;40
 sendsacard;50
 sendsafax;50
+sendsflowers;50
 sendsin;40
 sendsmoney;30;???
 sendsoff;40
@@ -29374,6 +29443,7 @@ sensoria;30
 sensorial;40
 sentacard;50
 sentafax;50
+sentflowers;50
 sentimentalizer;50
 sentimentallady;50
 sentin;40
@@ -31071,13 +31141,13 @@ sotheresthatthen;60
 sothern;40;Actress Ann Sothern
 sotheysay;60
 sothis;1
-soto;40
+soto;40;De Soto, or partial (ugh)
 sotoo;30
 sotospeak;60
 sotrue;60
 sots;20
 sotto;30
-sotu;40;State of the Union address
+sotu;30;State of the Union address
 souchong;40;Lapsang souchong black tea
 soudan;20
 sough;30
@@ -33558,8 +33628,8 @@ tes;20
 teslacars;20
 tesori;30;Jean Tesori, most honored female theatrical composer in history
 tesoro;30
-tessera;30;Mosaic tile
-tesserae;30;Mosaic tiles
+tessera;40;Mosaic tile
+tesserae;40;Mosaic tiles
 tessie;40;Various
 tessio;40;Sal Tessio, Abe Vigoda's character in "The Godfather"
 testaceous;30
@@ -33928,6 +33998,7 @@ theoldheaveho;60
 theolheaveho;60
 theopen;1
 theopenera;20
+theopera;40
 theos;40;The Orioles
 theoscars;40
 thepacers;40
@@ -34585,6 +34656,7 @@ tokened;30
 tokilla;20
 tokori;20;Movie "The Bridges at ___"
 tokyodome;50
+tolast;40
 toldafib;40
 toldno;50
 toldof;40
@@ -34869,7 +34941,7 @@ towhees;30
 towtruck;50
 towtrucks;50
 tox;40
-toyama;30;???
+toyama;30;Random Japanese city
 toydrive;60
 toydrives;60
 toyer;30
@@ -34945,6 +35017,8 @@ trailsoff;50
 trainedfor;40
 trainfor;40
 trainingfor;40
+trainingmontage;50
+trainingmontages;50
 trainman;40;Member of a train crew
 trainmen;40
 trainset;50
@@ -35808,6 +35882,8 @@ unsolders;40
 unsolid;30
 unsore;40
 unspokenprayers;50
+unsportsmanlike;50
+unsportsmanlikeconduct;50
 unstow;40
 unstowed;40
 unstowing;40
@@ -36503,6 +36579,10 @@ walruscalves;50
 waltdisney;60
 wampum;40
 wanderaroundtown;50
+wanderedin;40
+wanderin;40
+wanderingin;40
+wandersin;40
 wanner;40
 wannest;40
 wanter;40
@@ -37089,6 +37169,9 @@ windtunnel;50
 windtunnels;50
 winduptoy;50
 winduptoys;50
+wineaficionado;50
+wineaficionados;50
+wineanddine;60
 winebar;50
 winebarrel;50
 winebarrels;50
@@ -37105,7 +37188,14 @@ winecooler;50
 winecoolers;50
 winecritic;50
 winecritics;50
+winedanddined;60
+winedecanter;50
+winedecanters;50
+winefridge;50
+winefridges;50
 winegoblet;50
+winegrape;50
+winegrapes;50
 winejug;50
 winejugs;50
 winelist;50
@@ -37118,6 +37208,7 @@ winepress;50
 winepresses;50
 winerack;50
 wineracks;50
+winesanddines;60
 wineskin;50
 wineskins;50
 winestand;50
@@ -37133,6 +37224,7 @@ wingcollar;30
 wingedt;30;???
 wingspan;50
 wingspans;50
+wininganddining;60
 winkwink;60
 winnebago;50
 winnebagos;50
@@ -37152,6 +37244,8 @@ winsilver;50
 winsomer;30
 winsomest;30
 winssilver;50
+winstreak;50
+winstreaks;50
 winteraconite;30;???
 winterale;50
 winterales;50
