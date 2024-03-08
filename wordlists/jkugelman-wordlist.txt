@@ -5794,7 +5794,7 @@ chevron;50
 chewbacca;60
 chewer;40
 chewers;40
-chewie;60
+chewie;50
 chewygranolabar;20
 cheyennewy;30
 chica;40
@@ -7223,6 +7223,7 @@ cstore;20;Convenience store
 cstores;20
 csu;20
 cteam;40
+cteams;40
 cto;40
 ctr;30
 ctrlc;50
@@ -9075,6 +9076,7 @@ dressler;30;Marie Dressler, Best Oscar winner 1931
 dressshop;50
 dressshops;50
 dressto;20
+drevil;50
 drewabye;40
 drewagunon;40
 drewahead;50
@@ -22070,6 +22072,8 @@ nsfwpic;60
 nstar;20
 nstars;20
 nter;1
+ntest;20
+ntests;20
 ntro;20
 ntsb;40
 nubber;30;Weakly hit baseball
@@ -27608,6 +27612,9 @@ rheumy;20
 rhfactor;50
 rhiannon;40;Fleetwood Mac single
 rhinal;30;Nose-related
+rhinoceri;40;Nonstandard plural
+rhinoceros;50
+rhinoceroses;50
 rhinoplasties;50
 rhinoplasty;50
 rhmacy;30;Creator of Macy's
@@ -35521,8 +35528,8 @@ twa;30;Defunct airline
 twains;30
 tweany;20;Maid, archaic
 twee;40
-tween;60
-tweens;60
+tween;50
+tweens;50
 tweeps;20
 tweet;50
 tweeted;50
@@ -37026,6 +37033,7 @@ wheretheresawilltheresaway;60
 whereyouat;60
 whetstone;50
 whetstones;50
+whilom;20;Former, archaic
 whipin;40
 whippedin;40
 whippingin;40
@@ -37053,6 +37061,11 @@ whitelies;50
 whitemagic;60
 whitenoise;50
 whiterat;30
+whiterhino;50
+whiterhinoceri;40;Nonstandard plural
+whiterhinoceros;50
+whiterhinoceroses;50
+whiterhinos;50
 whiteroom;50
 whitesmoke;50;Vatican signal
 whitezin;50
