@@ -147,6 +147,7 @@ abo;30;Blood typing [common]
 abomb;30
 abombs;30
 aboner;20
+aboriginalland;50
 aborter;30
 aborters;30
 aboundedin;30
@@ -1199,6 +1200,9 @@ alumna;30;Female grad
 alumnimagazines;50
 alundum;20;Fused alumina used as abrasive/refractory
 alva;40;Thomas Alva Edison
+alwayswasalwayswillbe;50;Australian slogan for Aboriginal rights
+alwayswasalwayswillbeaboriginalland;50
+alwayswillbe;50;Australian slogan for Aboriginal rights
 aly;20;___ Khan married to Rita Hayworth
 alyssas;20
 alyssum;20;Flower genus
@@ -2013,7 +2017,7 @@ arne;40;Secretary of Education Duncan
 arnica;20;Sunflower herb
 arnicas;20;Sunflower herbs
 arniesy;1
-aro;40
+aro;30
 aroar;40
 aroint;20;Shakespearean "Begone!"
 aroints;20;Drives away, archaic
@@ -8826,6 +8830,7 @@ dontstare;60
 dontstart;60
 dontstartinonme;50
 dontstartwithme;60
+donttaptheglass;60
 donttestme;60
 dontwaitup;60
 dontwaitupforus;50
@@ -33308,8 +33313,10 @@ taskathand;50
 taskbar;50
 taskbars;30
 tasksathand;50
+tass;20
 tasseler;30;Worker who makes tassels
 tasselers;30
+tasses;20
 tastebud;50
 tastebuds;50
 tastedof;40
@@ -35518,6 +35525,7 @@ tupelos;20;Black gum trees, last used 1992
 tupi;20;Brazilian people
 tuple;20
 tuples;20
+tupper;40;Earl Tupper who invented Tupperware
 turaco;30;African bird
 turacos;30;African birds
 turbit;30;Breed of pigeon
