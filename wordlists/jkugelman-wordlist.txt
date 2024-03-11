@@ -4304,6 +4304,10 @@ boughtoncredit;50
 boughtonimpulse;50
 boughtonmargin;50
 boulderco;30
+bouncehouse;60
+bouncehouses;60
+bouncycastle;60
+bouncycastles;60
 bounden;20
 boundto;40
 boutonniere;50
@@ -20669,6 +20673,8 @@ moonbase;60
 moonbases;60
 moonbeam;60
 moonbeams;60
+moonbounce;60
+moonbounces;60
 mooncake;50
 mooncakes;50
 moondog;50;Composer
@@ -23330,7 +23336,10 @@ orangelos;50
 orangemarmalade;50
 orangs;40
 orangy;40
+orant;20
 orant;20;Christian art figure
+orantes;30;1970s tennis star Miguel Orantes
+orants;20
 orants;20;Christian art figure
 orations;30
 orator;50
@@ -29977,7 +29986,16 @@ sheenier;30
 sheeniest;30
 sheepdog;50
 sheeple;60
+sheeragony;60
 sheeran;50
+sheerbliss;60
+sheerdelight;60
+sheergenius;60
+sheerluck;60
+sheermadness;60
+sheerperfection;60
+sheerterror;60
+sheerwill;60
 sheesh;60
 sheetanchor;40;Reliable person, nautical etymology
 sheetofice;50
@@ -32655,6 +32673,7 @@ subbingfor;40
 subdeacon;30
 subdeacons;30
 subfor;40
+subito;40;Immediately, in music
 subj;30
 subjectmatter;50
 subjectmatterexpert;50
