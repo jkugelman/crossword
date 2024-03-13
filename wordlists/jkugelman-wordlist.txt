@@ -1366,6 +1366,8 @@ amyalcott;50;LPGA hall-of-famer
 amylases;30
 amys;40;Frozen food brand
 an;50
+anachronym;60;Word used in an anachronistic way, like "carbon copy" or "podcast"
+anachronyms;60
 anadearmas;60
 anadem;20;Head wreath
 anadems;20;Head wreaths
@@ -2255,7 +2257,7 @@ assagai;20;Afro-rock band
 assagais;20;African spears
 assam;40;Indian state, type of tea
 assamese;30
-assamtea;30
+assamtea;40
 assassin;50
 assassins;50
 assassinscreed;60
@@ -11319,6 +11321,7 @@ feelthelove;60
 feelthirsty;50
 feetontheground;60
 feh;40
+feig;40;Director Paul Feig, frequent Melissa McCarthy collaborator
 fela;40;Musician Fela Kuti
 feldon;30;Barbara Feldon of "Get Smart"
 feldspar;30;Mineral
@@ -26518,6 +26521,7 @@ rarecoin;50
 rarecoins;50
 rarecommodities;50
 rarecommodity;50
+rared;40
 raredup;40
 rareearth;50
 rareearthelement;50
@@ -26534,7 +26538,7 @@ rarefinds;50
 rareform;50
 raregem;50
 raregems;50
-rares;30;Bad plural
+rares;40;Rares up
 rarestamp;50
 rarestamps;50
 raresup;40
@@ -26544,6 +26548,7 @@ rareup;40;Dialectical, more properly "rear up"
 rarewine;50
 rarewines;50
 rarin;50
+raring;50;Raring to go, raring up
 raringtogo;50
 raringup;40
 rarintogo;50
@@ -30521,6 +30526,9 @@ skeletomuscular;50
 skelter;50
 sketcher;50
 sketchout;60
+skeumorph;50
+skeumorphism;50
+skeumorphs;50
 skewedthetruth;60
 skeweredthecompetition;60
 skeweringthecompetition;60
@@ -35092,12 +35100,16 @@ toped;5;Drank to excess
 topees;20;Pith helmets
 topekaks;30
 topes;5;Drinks to excess
+topexecutive;50
+topexecutives;50
 topfiddle;50
 topflight;50
 topgunmaverick;60
 tophat;50
 tophats;50
 tophet;20;Biblical location
+tophit;50
+tophits;50
 tophole;30;First rate, in British slang
 topiaries;50
 topiary;50
@@ -36880,8 +36892,10 @@ walkswithpurpose;60
 walkwithpurpose;60
 walla;30
 wallendas;50
+walloftext;60
 wallsafe;50
 wallsafes;50
+wallsoftext;60
 wallspace;50
 walruscalf;50
 walruscalves;50
