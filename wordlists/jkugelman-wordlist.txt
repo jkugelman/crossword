@@ -6199,6 +6199,8 @@ closetalker;60
 closetalkers;60
 closetheloop;50
 closetorganizer;50
+closingnumber;50
+closingnumbers;50
 closingon;30
 closingtheloop;50
 clothesdesigner;30
@@ -6619,6 +6621,8 @@ compedmeal;50
 compedmeals;50
 completedpasses;50
 completenightmare;60
+complexnumber;50
+complexnumbers;50
 complier;40
 compliers;40
 complot;20;Plot, archaic
@@ -18844,6 +18848,7 @@ losangeleslaker;50
 loseastep;50
 loseface;50
 loselose;60
+losemynumber;60
 loseonesmarbles;60
 loseoutto;40
 losersweepers;60
@@ -19747,6 +19752,10 @@ mathbook;50
 mathbooks;50
 mathew;20;Dunno if anyone notable
 mathphd;20;Green paint
+mathpuzzle;50
+mathpuzzles;50
+mathsymbol;50
+mathsymbols;50
 mathteam;50
 matin;30;Morning prayer, or "morning" in French
 matinal;20;Relating to the morning
@@ -21028,6 +21037,8 @@ muscatgrapes;50
 musical;50
 musicalcomedies;50
 musicale;20
+musicalnumber;50
+musicalnumbers;50
 musicals;50
 musicbox;50
 musicboxes;50
@@ -23241,6 +23252,8 @@ openfire;30
 openfireon;40
 openingfire;30
 openinginon;40
+openingnumber;50
+openingnumbers;50
 openingon;40
 openingpandorasbox;60
 openinon;40
@@ -26448,6 +26461,8 @@ randb;30
 randd;40
 randi;50
 randle;40;NBA All-Star Julius Randle
+randomnumber;50
+randomnumbers;50
 randr;30
 ranfast;30
 ranfor;40
@@ -28241,6 +28256,8 @@ roomer;30
 roomers;30
 roomkey;50
 roomkeys;50
+roomnumber;50
+roomnumbers;50
 roos;30
 rootcause;50
 rootcauses;50
@@ -35738,6 +35755,7 @@ turnedpro;50
 turnedsour;50
 turnedto;40
 turnedtraitor;50
+turnedupsidedown;50
 turnery;30
 turninginsideout;60
 turninginto;40
@@ -35748,6 +35766,7 @@ turningpro;50
 turningsour;50
 turningto;40
 turningtraitor;50
+turningupsidedown;50
 turninsideout;60
 turninto;40
 turnitintoawholething;60
@@ -35768,8 +35787,11 @@ turnspro;50
 turnssour;50
 turnsto;40
 turnstraitor;50
+turnsupsidedown;50
+turnthatfrownupsidedown;60
 turnto;40
 turntraitor;50
+turnupsidedown;50
 turtlenest;50
 turtlenests;50
 turturro;50
@@ -36280,6 +36302,8 @@ upsala;20;Defunct New Jersey college
 upscale;50
 upsettheapplecart;60
 upsetwith;40
+upsidedownfrown;50
+upsidedownfrowns;50
 upsonesgame;60
 upstair;50
 upsvan;30
@@ -37825,6 +37849,8 @@ writesto;40
 writeto;40
 writinggroup;50
 writingto;40
+wrongturn;50
+wrongturns;50
 wrongun;20
 wroteto;40
 wrothful;30
