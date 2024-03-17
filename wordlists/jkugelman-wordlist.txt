@@ -1273,7 +1273,6 @@ amelcorn;30;Wheat variety
 ameliorant;30
 amencorners;50
 amendmenti;20
-amendmenti;40
 amendmentix;20
 amendmentxix;20
 amenhotep;50
@@ -5167,6 +5166,10 @@ carboy;30;Large bottle
 carboys;30
 carbuncle;30;Abscess
 carbuncles;30
+carcinogen;30
+carcinogenesis;30
+carcinogenic;30
+carcinogens;30
 carcinoma;30
 carcinomas;30
 carcinomata;30
@@ -9648,6 +9651,8 @@ ecolodges;30
 econ;40
 econmajor;50
 econmajors;50
+economiesofscale;50
+economyofscale;50
 ecotage;40;Eco-sabotage
 ecotone;30
 ecotones;30
@@ -12357,6 +12362,8 @@ gatwa;40;Actor Ncuti Gatwa of "Barbie", and the 15th Doctor in "Doctor Who"
 gaudery;30;Gaudy display
 gaudi;50
 gaudis;30
+gaussiandistribution;50
+gaussiandistributions;50
 gauzepad;50
 gauzepads;50
 gauzes;30
@@ -15972,6 +15979,8 @@ infester;30
 infesters;30
 infielder;50
 infielders;50
+infinitemoneyglitch;60
+infinitemoneyglitches;50
 infix;50
 inflightentertainment;50
 influencer;60
@@ -16619,6 +16628,7 @@ itsin;30;Usually a partial
 itsit;20;Ice cream brand
 itsjustathought;60
 itsjustoneofthosedays;60
+itsjustthetipoftheiceberg;60
 itsmeanttobe;60
 itsmine;60
 itsmorethanthat;60
@@ -17078,6 +17088,7 @@ justlikenew;60
 justplaying;60
 justsayinghi;60
 justspititout;60
+justthetipoftheiceberg;60
 justtryme;60
 jutes;20
 k;1
@@ -23180,6 +23191,8 @@ ooeygooeycookies;50
 oofs;30
 oohaahpoint;60
 oohed;40
+oohimscared;60
+oohimsoscared;60
 oohing;40
 oohs;40
 oohshiny;60
@@ -23358,11 +23371,9 @@ orangelos;50
 orangemarmalade;50
 orangs;40
 orangy;40
-orant;20
 orant;20;Christian art figure
 orantes;30;1970s tennis star Miguel Orantes
 orants;20
-orants;20;Christian art figure
 orations;30
 orator;50
 oratorio;50
@@ -25550,6 +25561,7 @@ powerposed;50
 powerposes;50
 powerposing;50
 powersofattorney;50
+powersthatbe;60
 powersurge;50
 powersurges;50
 powertool;50
@@ -28601,6 +28613,7 @@ s;1
 sa;50
 saag;40
 sabato;20;Actor Antonio, or Saturday: Ital.
+sabbathstheater;50;Philip Roth novel
 sabena;20;Defunct Belgian airline
 sabersaw;30
 sabersaws;30
