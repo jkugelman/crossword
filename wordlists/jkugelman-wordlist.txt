@@ -497,6 +497,7 @@ adelie;40;Type of penguin
 adelina;30;19th century soprano ___ Patti
 aden;30;Red Sea city/port
 adenauer;30;German chancellor 1949-63
+adenoma;30;Non-cancerous tumor
 adepo;20;Actor Jovan
 adeptat;40
 adepts;40
@@ -1608,6 +1609,7 @@ antivenom;50
 antiwarprotest;50
 antiwarprotests;50
 antlike;30
+antons;30;Plural name
 antpaste;30
 antpolly;1
 anumber;20
@@ -2030,7 +2032,7 @@ aroint;20;Shakespearean "Begone!"
 aroints;20;Drives away, archaic
 aromatize;40
 aron;40;Elvis Aron Presley
-aroo;30;Suffix with buck [common]
+aroo;40;Suffix with buck/switch [common]
 arousals;30
 arouser;40
 arousers;40
@@ -2556,7 +2558,7 @@ auklets;30
 auks;30
 aulani;30;Disney resort in Hawaii
 auld;30
-aulii;50;Auli'i Cravalho who voiced Moana
+aulii;40;Auli'i Cravalho who voiced Moana
 auntandtuna;1
 auntselma;50
 aurae;30
@@ -4767,10 +4769,29 @@ butterflykiss;60
 butterflykisses;60
 butterflypose;50
 butthead;60
+buttheads;60
+buttheadswith;60
 buttholesurfers;50
+buttingheads;60
+buttingheadswith;60
+buttinski;60
+buttinskies;60
+buttinsky;60
 buttload;60
 buttloads;60
 button;50
+buttonflies;50
+buttonfly;50
+buttonflyjeans;50
+buttonmash;60
+buttonmashed;60
+buttonmashers;60
+buttonmashing;60
+buttout;60
+buttoutofit;60
+buttsheads;60
+buttsheadswith;60
+buttsinseats;60
 buyingoncredit;50
 buyingonimpulse;50
 buyingonmargin;50
@@ -5693,6 +5714,8 @@ chancres;5
 chancroid;5;STD
 chancroids;5
 chandlerarizona;30
+changeofperspective;50
+changesofperspective;50
 chanteuse;50
 chantey;20;(Sea) shanty
 chantries;30;Church things
@@ -7805,6 +7828,8 @@ debaser;30
 debasers;30
 debateteam;50
 debateteams;50
+debbiedowner;60
+debbiedowners;60
 deboner;40
 deboners;40
 debose;50;"Hamilton" actress Ariana DeBose, one of Time's 100 most influential people
@@ -8314,6 +8339,7 @@ digsdowndeep;50
 digsinonesheels;60
 digsinto;40
 dihedral;30
+dihydrogenmonoxide;50;Water, cheekily
 dii;20
 diii;20
 dijonmustard;50
@@ -10656,7 +10682,8 @@ etalibi;30
 etalii;30
 etameson;30
 etamine;20;Fabric
-etape;30
+etape;30;Stage in a cycling race
+etapes;30
 etas;40
 etat;40
 etatism;20;Statism
@@ -10809,6 +10836,7 @@ evite;40
 evo;30;Bolivian president Morales
 evolute;20;Geometry term
 evolutes;20;Geometry term
+evonne;40;70s/80s #1 tennis player Evonne Goolagong
 evoo;20;Extra virgin olive oil
 evs;40
 ewaste;50
@@ -10822,6 +10850,7 @@ exactdoubles;50
 exactor;30
 exalts;50
 examinationroom;50
+exante;40;Ex-ante or notional demand refers to the desire for goods and services that is not backed by the ability to pay for those goods and services
 exarmy;30
 exceededexpectations;50
 exceedexpectations;50
@@ -10839,6 +10868,7 @@ excelmacros;50
 excelsat;40
 excelsin;40
 exchanges;50
+excia;30
 excitor;30
 excogitate;50;Think out, devise
 excogitated;50
@@ -11248,6 +11278,7 @@ feather;50
 featherbed;50
 featherbeds;50
 feathersthenest;60
+featurecreep;60
 feb;40
 febrility;30
 fec;40
@@ -11427,6 +11458,8 @@ fibrinous;40
 fictitiousentries;60;Plagiarism trap
 fictitiousentry;60;Plagiarism trap
 fiddlercrab;60
+fidgetspinner;60
+fidgetspinners;60
 fieldbet;50
 fieldbets;50
 fieldday;50
@@ -11488,6 +11521,7 @@ fineseasalt;50
 finetoo;1
 fingerbowl;50
 fingerbowls;50
+fingerguns;60
 fingerpaint;60
 fingerpainting;60
 fingerpaintings;50;Digital art?
@@ -13731,6 +13765,7 @@ gunsafety;50
 gunsfor;40
 gunshop;50
 gunshops;50
+gunsnroses;60
 guntotin;50
 gurira;40;Actress Danai Gurira from "Black Panther" and "The Walking Dead"
 gurunanak;40;Founder of Sikhism
@@ -15224,8 +15259,8 @@ iate;50
 ibadan;20;Nigerian city
 ibank;30;Investment bank
 ibanking;20
-ibar;30
-ibars;30
+ibar;40
+ibars;40
 ibeam;40
 ibeams;40
 ibelieveicanfly;30
@@ -19455,6 +19490,7 @@ makeupcase;50
 makeupcases;50
 makewar;30
 makewaves;60
+makin;40;"Makin' Whoopee"
 makingahashof;50;Bungling
 makingakilling;60
 makinganoffer;50
@@ -19863,7 +19899,7 @@ mcewan;40;Ian McEwan, author of "Atonement"
 mcg;30;Director [rare]
 mci;40
 mcii;20
-mcing;30
+mcing;40
 mciv;20
 mcjob;60
 mcjobs;60
@@ -20110,6 +20146,7 @@ menorrhea;20;Menstrual flow
 mensan;50
 mensans;50
 menssana;30
+mensurable;40
 mensural;30;???
 menswearhouse;50
 mentalcruelty;40
@@ -20186,10 +20223,13 @@ metamerism;30;Zoology thing
 metat;40
 metgala;50
 meth;40
+methamphetamine;50
+methamphetamines;50
 methene;30
 metier;40
 metiers;40
 metime;60
+metis;20;Aboriginal people of Canada
 metonym;30
 metonymic;30
 metonymies;30
@@ -20289,6 +20329,8 @@ miking;50
 mil;40
 milady;50
 milchcow;40;Cow kept for milk
+miler;40;One that competes in mile races, or ___-miler
+milers;40
 militaryuniform;50
 milker;30
 milkers;30
@@ -20461,6 +20503,7 @@ missilesilo;60
 missilesilos;60
 missingacue;40
 missionaryridge;50
+missioncreep;50
 missm;30
 missme;60
 missmississippi;60
@@ -21327,6 +21370,8 @@ naziera;5
 nbadraftlottery;50
 nbaer;20
 nbaers;20
+nbafan;40
+nbafans;40
 nbafinals;50
 nbahalloffamers;50
 nbalottery;50
@@ -21373,7 +21418,7 @@ nearto;40
 neatnik;60
 neatniks;60
 neato;50
-nebr;30
+nebr;40
 nebuchadnezzars;30
 neck;50
 necklet;40
@@ -21591,6 +21636,8 @@ newmusic;30;Green paint?
 newnormal;60
 newparent;50
 newparents;50
+newperspective;50
+newperspectives;50
 newportri;30
 newseum;50
 newshelicopter;50
@@ -21627,6 +21674,8 @@ nfcwest;40
 nfldraft;50
 nfler;20
 nflers;20
+nflfan;40
+nflfans;40
 nflfilms;50;NFL production company
 nflhalloffamers;50
 nflmvp;40
@@ -21982,7 +22031,9 @@ nonaligned;40
 nonalignment;40
 nonarab;30
 nonchalant;50
+noncom;40
 noncomposmentis;60
+noncoms;40
 nondenialdenial;60
 noneformethanks;50
 nonego;40;Psychology/philosophy term
@@ -22587,7 +22638,7 @@ odorized;40
 odorizes;40
 odorizing;40
 odorous;40
-odoul;30;Baseball's Lefty O'Doul
+odoul;40;Baseball's Lefty O'Doul
 odowd;40;Comedian Chris O'Dowd
 ods;5
 odson;5
@@ -23036,6 +23087,7 @@ oneliners;60
 onelira;30
 oneliter;30
 onelitre;20
+onellama;40
 onelot;20
 onelove;50;Bob Marley song
 onels;30
@@ -24584,6 +24636,8 @@ personator;30
 personators;30
 personofinterest;60
 personsofinterest;60
+perspectiveshift;50
+perspectiveshifts;50
 perter;30
 perv;5
 pervert;5
@@ -25546,6 +25600,7 @@ pouters;40
 pov;40
 powderpuffgirls;60
 powerade;50
+powercreep;60
 powerdive;50
 powerdives;50
 powerdiving;50
@@ -26074,6 +26129,8 @@ pustular;5
 pustule;5
 pustules;5
 puta;5
+putacurseon;50
+putahexon;50
 putalidonit;60
 putapininit;60
 putbuttsinseats;60
@@ -26092,6 +26149,7 @@ putdowntonerves;60
 putdowntotiming;60
 putdowntoyouth;60
 putdownyourpens;60
+putinagoodwordfor;50
 putitback;50
 putitdown;50
 putitto;40
@@ -26101,8 +26159,13 @@ putoneoveron;50
 putonesfingeron;60
 putonto;40
 putouttopasture;60
+putput;20
+putsacurseon;50
+putsahexon;50
 putsalidonit;50
+putsbuttsinseats;60
 putsdownonpaper;50
+putsinagoodwordfor;50
 putsoneoveron;50
 putsonesfingeron;60
 putsthefingeron;60
@@ -26113,7 +26176,11 @@ puttees;30
 putteringaround;60
 putthefingeron;60
 putthepiecestogether;60
+puttingacurseon;50
+puttingahexon;50
+puttingbuttsinseats;60
 puttingdownonpaper;50
+puttinginagoodwordfor;50
 puttingitmildly;60
 puttingoneoveron;50
 puttingthepiecestogether;60
@@ -26852,6 +26919,10 @@ rebbe;20
 rebbes;20
 rebecs;20
 rebelarmy;50
+rebelsoldier;50
+rebelsoldiers;50
+rebeltrooper;50
+rebeltroopers;50
 rebend;30
 rebending;30
 rebends;30
@@ -28705,7 +28776,7 @@ saidmass;50
 saidno;40
 saidok;40
 saidshh;20
-saidso;40
+saidso;50
 saidto;40
 saidyesto;40
 sailedinto;40
@@ -29151,6 +29222,7 @@ sceptre;30
 sceptred;20
 sceptres;30
 sch;40
+schadenfreude;60
 schatzi;20
 schatzis;20
 schedule;50
@@ -29206,6 +29278,7 @@ scoobas;20;Discontinued Roomba siblings
 scoochover;60
 scoopseat;50
 scoopseats;50
+scopecreep;60
 scorcher;60
 scorchers;60
 scoredon;40
@@ -29689,10 +29762,20 @@ senhor;30
 senhora;30
 senhoras;30
 senhors;30
+seniorcenter;50
+seniorcenters;50
+seniorcitizen;50
+seniorcitizens;50
 seniordiscount;50
 seniordiscounts;50
+seniormoment;50
+seniormoments;50
+seniorpartner;50
+seniorpartners;50
 seniorstaffer;50
 seniorstaffers;50
+seniortheses;50
+seniorthesis;50
 senna;30;Medicinal plant [common]
 sennas;30
 sennett;30;???
@@ -30527,7 +30610,7 @@ sittinginfor;40
 sittingintraffic;50
 sittingnear;40
 sittingpoolside;50
-situ;50
+situ;40
 siunit;40
 siunits;40
 siwa;50;YouTuber JoJo Siwa
@@ -34314,6 +34397,7 @@ thenow;30
 thenra;20
 thensa;20
 thenudemaja;40
+theodora;40;???
 theok;20;???
 theoldheaveho;60
 theolheaveho;60
@@ -34816,6 +34900,7 @@ tinstar;50
 tinstars;50
 tinter;30
 tinters;30
+tintoretto;40;Renaissance painter
 tinyalice;30;Edward Albee play
 tinyhouse;60
 tinyhouses;60
@@ -37172,8 +37257,8 @@ weefolk;50
 weeklyallowance;50
 weelass;50
 weeness;30
-weenieroast;60
-weenieroasts;60
+weenieroast;50
+weenieroasts;50
 weepfor;40
 weepingfor;40
 weepsfor;40
