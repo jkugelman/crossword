@@ -15696,6 +15696,12 @@ illseeyouinhell;60
 illshowmyselfout;60
 illshutupnow;60
 illsue;60
+illsuethepantsoffher;60
+illsuethepantsoffhim;60
+illsuethepantsoffofher;60
+illsuethepantsoffofhim;60
+illsuethepantsoffofthem;60
+illsuethepantsoffthem;60
 illtell;60
 illtellyounolies;60
 illtryredialing;20
@@ -16697,12 +16703,16 @@ itll;50
 itllbefasterifwesplitup;60
 itllbeourlittlesecret;60
 itllbetheendofme;60
+itllpayforitself;60
+itllpayforitselfinnotime;60
 itllturnup;60
 itmakesnosense;60
 itmakesyouthink;60
 ito;40;Judge Lance Ito or skater Ito Midori
 itonya;30
 itoo;40
+itpaidforitself;60
+itpaysforitself;60
 itpro;30
 itprofessional;30
 itprofessionals;30
@@ -17275,7 +17285,7 @@ kart;40
 karts;40
 kashas;20
 kat;40
-katespade;60
+katespade;50
 katharsis;30
 katmai;20;Alaska park
 katsu;30
@@ -24095,6 +24105,7 @@ pah;40
 pahlavi;20;Iranian Shah
 pahlevi;1
 pai;40;___ Gow
+paidforitself;60
 paidonesfairshare;50
 paidretail;50
 paidthetab;50
@@ -24483,6 +24494,7 @@ paynims;20;Heathens, archaic
 payonesfairshare;50
 payorplay;60
 payretail;50
+paysforitself;60
 paysonesfairshare;50
 paysretail;50
 paysthetab;50
@@ -33046,6 +33058,8 @@ suesehtminotaur;1
 suesfor;40
 suesover;40
 suet;30;Animal fat
+suethepantsoff;60
+suethepantsoffof;60
 suets;20
 suey;30
 sufferer;40
