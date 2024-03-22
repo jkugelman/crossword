@@ -299,6 +299,7 @@ achillestendons;50
 achingfor;40
 achs;30
 acidness;30
+acidreflux;40
 acidulate;30
 acidulated;30
 acidulates;30
@@ -11926,6 +11927,10 @@ floorsamples;50
 floortile;50
 floortiles;50
 floorwax;50
+floorwaxer;50
+floorwaxers;50
+floorwaxes;50
+floorwaxing;50
 floosie;20
 floosies;20
 floozie;20
@@ -30856,6 +30861,7 @@ siemens;30
 siena;20;Italian city
 sienese;20;Renaissance school of painting
 siepi;20
+sierraclub;50
 siesta;50
 siete;40
 sigep;20;Fraternity for short
@@ -36864,7 +36870,7 @@ unsafer;30
 unsay;30
 unsays;30
 unsched;30;???
-unscripted;60
+unscripted;50
 unseams;30
 unseld;30
 unsewed;30
