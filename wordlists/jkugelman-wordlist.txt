@@ -570,8 +570,13 @@ adsite;20
 adsites;20
 adslogan;50
 adslogans;50
+adsorb;40
 adsorbate;30
+adsorbates;30
+adsorbed;40
 adsorbent;40
+adsorbing;40
+adsorbs;40
 adspaces;50
 adspeak;50
 adspot;40
@@ -6196,6 +6201,7 @@ ciaspies;30
 ciaspy;30
 cibola;30;???
 cicatrice;40;Scar
+cicely;40;Plant, or actress Cicely Tyson
 ciceronian;40
 cid;40
 ciel;40
@@ -8280,6 +8286,8 @@ demowork;50;???
 dems;40
 demulcent;30;Mucous membrane medicine
 demulcents;30
+demurrage;50;Shipping penalty
+demurrages;40;Awkward plural?
 demurrer;30
 demurrers;30
 denada;40
@@ -10697,6 +10705,8 @@ enures;20
 enuresis;5;Bedwetting
 envier;40
 enviers;40
+environed;40;Enclosed (by)
+environing;40
 enwiki;20;???
 enzo;50
 eocene;40
@@ -11732,6 +11742,7 @@ fencepost;50
 fenceposts;50
 fenetre;20;Maison window (???)
 feng;40;Feng shui
+fenn;40;Sherilyn Fenn
 ferdelance;30;Venomous snake
 fermiestimate;50
 fermiestimates;50
@@ -12054,6 +12065,7 @@ flickersoflight;60
 flickofaswitch;50
 flics;20
 flied;40;Baseball meaning
+fliesakite;50
 fliesat;40
 fliesin;40
 fliesopen;50
@@ -12146,6 +12158,7 @@ flutiest;30
 fluting;30
 flutings;30
 fluxus;30;Neo-Dada art movement
+flyakite;50
 flyat;40
 flyfish;50
 flyfisherman;50
@@ -12154,6 +12167,7 @@ flyfishing;50
 flygirl;50
 flygirls;50
 flyin;40
+flyingakite;50
 flyingat;40
 flyingin;40
 flyingopen;50
@@ -12393,6 +12407,12 @@ freesample;50
 freesamples;50
 freesoil;50
 freesolo;60
+freesoloed;60
+freesoloing;60
+freesolos;60
+freespace;50
+freespaces;50
+freespeech;50
 freespirited;50
 freest;50
 freetoy;50
@@ -14252,6 +14272,7 @@ hadanip;50
 hadapoint;50
 hadar;20
 hadarow;30
+hadashotat;40
 hadasip;50
 hadass;20
 hadat;40
@@ -14513,6 +14534,7 @@ hasanin;50
 hasanip;50
 hasapoint;50
 hasarow;30
+hasashotat;40
 hasasip;50
 hasat;30;Attacks, dives into
 hasatit;50
@@ -14590,6 +14612,7 @@ haveanin;50
 haveanip;50
 haveapoint;50
 havearow;30
+haveashotat;40
 haveasip;50
 haveatit;60
 haveayenfor;40
@@ -14616,6 +14639,7 @@ havinganedge;50
 havinganeyeon;40
 havinganip;50
 havingarow;30
+havingashotat;40
 havingasip;50
 havingayenfor;40
 havingeyesfor;40
@@ -16106,6 +16130,8 @@ ilya;30
 imabigfan;60
 imacatch;60
 imafraid;50
+imagemaker;50
+imagemakers;50
 imagism;30;Poetry movement
 imagist;30
 imagists;30
@@ -16641,6 +16667,7 @@ instrumentpanel;50
 insult;50
 insultcomic;60
 insurancebroker;50
+insurances;40
 int;40;Interception or interest
 intaglio;50
 intaglioed;50
@@ -16687,6 +16714,8 @@ interneteconomy;50
 interpol;50
 interpolator;30
 interpolators;30
+interregna;40
+interregnum;40;Pause
 interse;30
 intestacy;40
 inthat;40
@@ -18427,7 +18456,7 @@ lastmeals;50
 lastmile;50
 lastmove;50
 lastonein;50
-lastresort;50
+lastresort;60
 lastresorts;50
 lastsecond;50
 laststraw;60
@@ -20493,6 +20522,8 @@ mayihaveyourattentionplease;60
 mayim;50
 mayimbialik;60
 mayoralelection;50
+mayoress;40
+mayoresses;40
 maypo;30;Old cereal brand
 maypop;30
 maythefourth;50
@@ -24035,6 +24066,7 @@ openedfire;50
 openedinon;40
 openedon;40
 openedpandorasbox;60
+openedupto;40
 openend;40;Like a fund or loan that can be added to
 openest;30
 openfire;50
@@ -24045,6 +24077,7 @@ openingnumber;50
 openingnumbers;50
 openingon;40
 openingpandorasbox;60
+openingupto;40
 openinon;40
 openit;50
 openmic;50
@@ -24069,8 +24102,10 @@ openson;40
 opensource;50
 opensourcesoftware;50
 openspandorasbox;60
+opensupto;40
 opento;40
 opentoes;30
+openupto;40
 oper;30
 operaaria;40
 operaarias;40
@@ -26544,6 +26579,8 @@ presort;30
 presorted;30
 presorting;30
 presorts;30
+pressclub;50
+pressclubs;50
 presscorps;50
 presscoverage;50
 pressedham;50
@@ -28994,6 +29031,8 @@ rishi;30;Hindu sage
 risingsealevels;60
 risingto;40
 risingtothetop;50
+ristretto;40;Espresso shot
+ristrettos;40
 rit;40
 ritagam;30;Old actress
 ritenuto;40;Music term
@@ -29296,6 +29335,8 @@ rosinbags;50
 rossi;40;Martini & Rossi wine
 rostand;30;Edmond Rostand, "Cyrano de Bergerac" playwright
 rosten;30;Humorist Leo Rosten
+rosterspot;50
+rosterspots;50
 rostra;40;Podiums
 rosyboa;30;Desert snake
 rotc;50
@@ -29978,6 +30019,7 @@ saturn;50
 saturnalia;50;Roman festival
 saturnism;30
 satya;30
+satyriasis;40;Uncontrollable sexual desire in a man
 saudiarabia;50
 sauk;20;Green Bay tribe
 saunteredin;50
@@ -31956,10 +31998,14 @@ smarttag;50
 smartthinking;60
 smashburger;60
 smaze;30;Smoke/haze mix
+smearedon;50
 smearer;40;Reputation assassin
 smearers;40
 smearier;30
 smeariest;30
+smearingon;50
+smearon;50
+smearson;50
 smeary;30
 smee;40
 smelledarat;60
@@ -33188,15 +33234,15 @@ steal;50
 steala;20
 stealakiss;60
 stealalook;50
-stealapeek;50
+stealapeek;40;"Not a thing", per Rex
 stealing;50
 stealingakiss;60
-stealingapeek;50
+stealingapeek;40;"Not a thing", per Rex
 stealingon;20
 stealon;20
 steals;50
 stealsakiss;60
-stealsapeek;50
+stealsapeek;40;"Not a thing", per Rex
 stealson;20
 steamage;50
 steamclean;50
@@ -33453,7 +33499,7 @@ stolav;30
 stole;50
 stoleakiss;60
 stolealook;50
-stoleapeek;50
+stoleapeek;40;"Not a thing", per Rex
 stolemoney;20
 stolen;50
 stolenart;30;Green paint
@@ -33941,6 +33987,8 @@ superiorcourt;50
 superioritycomplex;60
 superkrewe;50
 superkrewes;50
+superlaser;50;Death Star, e.g.
+superlasers;50
 superlike;60
 superliked;60
 superlikes;60
@@ -33969,6 +34017,8 @@ superuser;50
 superusers;50
 supervolcano;60
 supervolcanoes;60
+superweapon;50;Death Star, e.g.
+superweapons;50
 supinator;30
 supples;30
 suppliance;30
@@ -34027,6 +34077,10 @@ suspenddisbelief;60
 suspendeddisbelief;60
 suspendingdisbelief;60
 suspendsdisbelief;60
+susurrant;40
+susurration;50;Whispering, murmuring: literary
+susurrus;40;Whisper or rustling sound
+susurruses;40
 sutural;30;Relating to sutures
 suv;50
 suvs;50
@@ -34151,6 +34205,8 @@ swissmadewatches;50
 swissmiss;60
 swissroll;50
 swissrolls;50
+swisswatch;50
+swisswatches;50
 swit;30;Loretta Swit of "M.A.S.H."
 switchedto;40
 switchesto;40
@@ -35273,6 +35329,7 @@ thedarksideofthemoon;60
 thedarktower;60
 thede;40;Robin Thede, creator of "A Black Lady Sketch Show" on HBO
 thedeeps;50
+thedetails;40;2011 Tobey Maguire movie, no theatrical release
 thedew;1
 thedie;20
 thedj;20
@@ -36119,6 +36176,8 @@ toiles;30;Test garments
 toilet;50
 toiletbag;50;Camping accessory
 toiletbags;50
+toiletroll;40;???
+toiletrolls;40
 toilets;50
 toilette;50
 toilettes;40
@@ -37160,6 +37219,8 @@ ufologists;60
 ufology;60
 ufos;40
 ugarte;30;"Casablanca" character
+ugg;50
+uggs;50
 ughs;40
 ugli;40
 uglystepsisters;60
@@ -38659,6 +38720,8 @@ where;50
 wheredoyoudrawtheline;60
 wheretheresawilltheresaway;60
 whereyouat;60
+wherries;30
+wherry;30;Small British boat
 whetstone;50
 whetstones;50
 whilom;20;Former, archaic
