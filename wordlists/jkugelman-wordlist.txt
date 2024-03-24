@@ -581,7 +581,7 @@ adspaces;50
 adspeak;50
 adspot;40
 adspots;40
-adu;40;One-time soccer phenom Freddy Adu
+adu;30;One-time soccer phenom Freddy Adu
 aduba;40;Actress Uzo Aduba
 adue;30;Together, in music
 adultadhd;50
@@ -1906,7 +1906,7 @@ archeologists;20
 archeology;20
 archon;20;Athenian magistrate
 archons;20;Athenian magistrates
-arco;30
+arco;40
 arcsin;40
 arctan;40
 arctics;30
@@ -2968,7 +2968,8 @@ bailiffs;50
 bailors;30
 bailsman;50
 bailsmen;50
-bairns;30;???
+bairn;30;Child, to a Scot
+bairns;30
 baiter;50;Troll, "He had become famous as a baiter of left-wing politicians"
 baiters;50
 baiul;40
@@ -2995,8 +2996,8 @@ balded;50
 baldies;30
 balds;50
 baleen;50;Type of whale
-baler;30
-balers;30
+baler;50;Farm machine
+balers;50
 balihai;50
 baliindonesia;50
 balkanpeninsula;50
@@ -5101,6 +5102,8 @@ camelcorps;50
 camelid;20;Camel, llama or alpaca
 camelids;20;Camels, llamas and alpacas
 camellia;20;Flower genus
+camelopard;40;Archaic word for giraffe, from the Greek for camel + leopard
+camelopardalis;40;Constellation
 camels;50
 camelspin;60;Basic figure skating move
 camelspins;60
@@ -7522,7 +7525,7 @@ csection;50
 cshaped;40
 csharp;40
 csharps;40
-csi;50
+csi;40
 csis;40
 csmajor;50
 csmajors;50
@@ -7736,6 +7739,9 @@ dachas;30;Russian cottages
 dacoit;20;Indian bandit
 dacoits;20;Indian bandits
 dacron;30;Polyester fiber
+dadaartist;50
+dadaartists;50
+dadaartmovement;50
 dadada;30
 dadager;40
 dadagers;40
@@ -8046,7 +8052,6 @@ deanery;30
 deanship;40
 deanships;40
 deanslist;50
-deanslist;60
 deanslists;50
 dear;50
 dearbornmi;30
@@ -8867,7 +8872,7 @@ dmitrishostakovich;50
 dmme;40
 dms;40
 dmt;20
-dmv;50
+dmv;40
 dmvs;40
 dna;50
 dnaanalysis;50
@@ -9871,6 +9876,7 @@ easingupto;40
 eastasia;50
 easterbunny;60
 easternseaboard;50
+eastorange;40;New Jersey city
 easya;60
 easybake;50
 easycare;40;Warranty company
@@ -10994,7 +11000,7 @@ esposo;40
 esposos;40
 espouser;40
 espousers;40
-esq;50
+esq;40
 esqs;30
 ess;20
 essais;20
@@ -11531,14 +11537,15 @@ fandango;50
 fandom;50
 fanedit;50
 fanedits;50
+faneuil;30;Faneuil Hall in Boston (I was there!)
 fanletter;50
 fanletters;50
 fanny;50
 fannybrice;40
 fannychmelar;60
 fannyprice;50;Austen's "Mansfield Park" heroine
-fanon;20;Papal vestment
-fanons;20;Papal vestments
+fanon;50;Fan canon, or papal vestment
+fanons;50
 fanservice;60
 fantasying;40
 fantomas;60
@@ -12155,7 +12162,13 @@ flittingin;40
 flo;50
 floatanote;50
 floataway;50
+floatedonair;50
 floaties;50
+floatingonair;50
+floatonair;50
+floatrider;50
+floatriders;50
+floatsonair;50
 floormap;50
 floormaps;50
 floors;50
@@ -13781,7 +13794,7 @@ goosiest;30
 gooutlikealight;60
 gooutonatim;1
 gooutwith;50
-gop;50
+gop;40
 gopfft;40
 gopublic;50
 gorgedon;40
@@ -14133,6 +14146,7 @@ growsdim;30
 growsinto;40
 growson;40
 grp;40
+grr;40
 grrm;20
 gruels;30
 grumpycat;60
@@ -14295,6 +14309,7 @@ gyrenes;20
 gyrfalcon;30
 gyrfalcons;30
 h;1
+haagen;40;Häagen-Dazs
 haakon;20;Crown Prince of Norway
 haar;20;Hair: Ger.
 habanero;50
@@ -14438,10 +14453,14 @@ hamite;20
 hamites;20
 hamlisch;50;Composer Marvin Hamlisch with an EGOT and Pulitzer
 hammer;50;Drive home a point?
+hammerat;40
 hammerdrill;50
 hammerdrills;50
+hammeredat;40
+hammeringat;40
 hammerlock;50;Wrestling or dance move
 hammers;50
+hammersat;40
 hammett;50
 hammock;30;Rounded hill
 hammocks;30;Rounded hills
@@ -14734,6 +14753,7 @@ hdvideo;40
 hdvideos;40
 he;50
 headcanon;60
+headcanons;60
 headchef;50
 headchefs;50
 headcount;50
@@ -16275,6 +16295,7 @@ imhuntingwabbit;60
 imightjustdothat;60
 iming;40
 iminnocent;60
+iminnomood;60
 imjustsaying;60
 imjustsayingwhateveryonesthinking;60
 imjustsayingwhatwereallthinking;60
@@ -17780,6 +17801,8 @@ karo;30;Corn syrup brand + other meanings
 karolyi;30;Nadia Comaneci's coach
 karoo;20
 karras;40;Alex Karras, Mongo in "Blazing Saddles", or Ted Karras of the Patriots
+karst;40;Limestone formation
+karsts;40
 kart;40
 karts;40
 kashas;20
@@ -18529,6 +18552,8 @@ laster;20
 lastforever;50
 lastgasp;60
 lastiheard;60
+lastleg;60
+lastlegs;60
 lastmeal;50
 lastmeals;50
 lastmile;50
@@ -19487,7 +19512,7 @@ logy;20;Lethargic
 loi;30;Law: Fr. [occasional]
 loire;30;Longest river in France
 loiret;30;Orléans department in France
-lol;50
+lol;40
 lolat;20
 lolcat;60
 loller;30
@@ -20570,6 +20595,7 @@ matricide;50
 matsui;50;Yankee Hideki, World Series MVP
 mattbomer;30
 mattdamon;50
+mattdrudge;50
 mattea;30;Country singer Kathy
 matteddown;50
 mattlauer;5
@@ -20826,9 +20852,7 @@ megafauna;50
 megaflora;50
 megalo;30
 megalodon;50
-megalodon;60
 megalodons;50
-megalodons;60
 megalomaniacal;60
 megalopolis;60
 megalopolises;60
@@ -21547,7 +21571,6 @@ moonriver;60
 moonrover;50
 moonrovers;50
 moonscape;50
-moonscape;60
 moonscapes;50
 moonshine;50
 moonshiner;50
@@ -22247,6 +22270,7 @@ necrose;40
 nedicks;30;Old defunct fast food chain
 nedkelly;50
 neds;30
+nee;40
 needahand;60
 needair;50
 neededahand;50
@@ -23999,7 +24023,9 @@ onesock;30
 onesown;20
 onestep;30
 onestop;30
-onestriper;30;Army private
+onestripe;40
+onestriper;40;Army private
+onestripers;40
 onesugar;40
 onetaste;30
 oneten;20
@@ -25638,6 +25664,8 @@ pgachampionships;50
 pgatour;50
 phaedrus;50
 phag;20;Eating: prefix
+phalarope;30;Shorebird
+phalaropes;30
 phantasm;60
 phantasmagoria;60
 phantasmagoric;60
@@ -32250,6 +32278,10 @@ snarly;30
 snatching;50
 snead;40
 sneads;30
+sneakedinto;40
+sneakinginto;40
+sneakinto;40
+sneaksinto;40
 sneerat;40
 sneeredat;40
 sneerer;40
@@ -32342,6 +32374,7 @@ snowstorm;50
 snowstorms;50
 snozzberry;60;Willy Wonka fruit that shows up in flavored wallpaper
 snr;20
+snuckinto;40
 so;50
 soakage;30;Fluid absorbed by soil
 soakedtothebone;60
@@ -35791,10 +35824,14 @@ thetetons;30
 thetexans;50
 thethe;30;Punk band
 thetheater;50
+thethirddegree;40
+thethirdrail;40
 thethreebears;40
+thethreefuries;50;???
 thetide;1
 thetime;1
 thetimeisnow;60
+thetimemachine;50
 thetinman;30
 thetis;20;Mother of Achilles
 thetokyodome;20
@@ -35874,6 +35911,8 @@ thiouracil;40;???
 thirdeye;60
 thirdlaw;50
 thirdpunicwar;50
+thirdrail;50
+thirdrails;50
 thirstforknowledge;60
 thirstingforknowledge;60
 thirsttrap;60
@@ -36126,6 +36165,7 @@ timeeternal;50
 timeflieswhenyourehavingfun;60
 timefuse;50
 timefuses;50
+timelag;60
 timeline;50
 timelines;50
 timelord;60;Doctor Who race
@@ -37321,6 +37361,7 @@ twotiming;60
 twoxtwo;20
 twp;20;Township
 twps;20;Townships
+txt;40
 txttalk;20
 tyco;30
 tyd;20
@@ -37367,6 +37408,8 @@ ubahn;30;German transit system
 ube;30;Trendy purple yam
 ubend;30
 ubends;30
+uberdriver;50
+uberdrivers;50
 uberize;30
 uberrich;60
 ubid;20;Forgotten auction site
@@ -38349,6 +38392,8 @@ wageredon;40
 wageringon;40
 wageron;40
 wagerson;40
+wagnerian;50
+wagnerians;50
 wagontrain;50
 wagontrains;50
 wahine;30;Female surfer
@@ -38590,7 +38635,6 @@ weakforce;50
 weaksauce;60
 weakside;50
 weal;40;Red, swollen mark
-weal;50
 weals;40
 weaner;30
 weaners;30
