@@ -46,7 +46,7 @@ aave;40;African-American Vernacular English
 aaverage;40
 aaverages;40
 aba;40;Bar assoc.
-abacab;50
+abacab;40
 abaci;30
 aback;50
 abaculus;30
@@ -609,6 +609,7 @@ aegis;40
 aegises;40
 aeiou;40
 aeiouy;40
+aeneid;40
 aeolus;30;Greek god of the winds
 aeon;40
 aeons;40
@@ -1525,6 +1526,8 @@ animadverted;30
 animadverting;30
 animadverts;30
 animal;50
+animalcule;40;Microscopic organism, archaic
+animalcules;40
 animalmagnetism;60
 animalprint;50
 animals;50
@@ -1646,7 +1649,7 @@ antisana;20;Volcano in Ecuador
 antisanta;60;Krampus, who visits misbehaving children
 antiseptics;50
 antiskid;50
-antispam;60
+antispam;50
 antitoxin;50
 antitoxins;50
 antius;20
@@ -4745,6 +4748,8 @@ buenas;40
 buenos;40
 buffalocalf;50
 buffalocalves;50
+bufferzone;50
+bufferzones;50
 bugbomb;50
 bugbombs;50
 bugged;60
@@ -5852,6 +5857,7 @@ cfos;40
 cgi;40
 chachaed;40
 chachas;40
+chadic;30;Afroasiatic languages
 chafeat;40
 chafedat;40
 chafesat;40
@@ -6266,6 +6272,7 @@ circuitdiagrams;60
 circumlocution;60
 circumlocutions;60
 circusy;30
+ciroc;40;Vodka brand (popular and high quality)
 cirrhosis;30
 cirrhotic;30
 cirri;40
@@ -10383,6 +10390,7 @@ elp;40
 elpasotx;30
 elropo;30;Cheap cigar
 els;40
+elsevier;40;Dutch academic publishing company
 elston;40;Yankees great Elston Howard
 eluant;20;Chemistry word
 eluants;20;Chemistry word
@@ -14988,6 +14996,7 @@ heptagons;40
 hepto;30
 her;50
 heraldry;50
+herbcaen;40
 herc;20;"The Wire" character is the best result...
 hercules;50
 herd;50
@@ -15756,6 +15765,8 @@ hungerpains;50
 hungerpang;50
 hungerpangs;60
 hungersfor;40
+hungjuries;50
+hungjury;50
 hungtough;50
 hunter;50
 hup;40
@@ -16706,7 +16717,7 @@ inprint;40
 inradiorange;50
 inre;40
 inreason;20
-inrepair;30
+inrepair;40
 inrun;30;Ski jump slope
 inrush;30
 ins;40
@@ -16893,6 +16904,7 @@ ione;30;1980s actress Ione Skye
 ionia;30
 ionian;30
 ionians;30
+ionicorder;40
 ionics;30
 ioniq;40;Hyundai electric SUV
 ioniqs;40
@@ -19950,6 +19962,7 @@ lynley;30;The Inspector Lynley Mysteries, British detective series
 lyrate;20;Lyre-shaped
 lyrid;30;April meteor shower
 lyrids;30;April meteor shower
+lysimachus;30;Successor of Alexander the Great
 lysin;20;Enzyme
 lysins;20;Enzymes
 lyso;20
@@ -21409,7 +21422,7 @@ mnop;20
 mnopqr;20
 mo;40
 moab;40;Utah city
-moated;30
+moated;40
 mobcap;30;18th century bonnet
 mobcaps;30
 mobil;50
@@ -22003,6 +22016,7 @@ naders;20;Nader's Raiders consumer group
 nadja;30;???
 nadu;20;Tamil Nadu, India
 nadya;30;???
+nae;40
 naes;30
 nafta;40
 nagasaki;50
@@ -22067,6 +22081,7 @@ nanaimo;40;Port in British Columbia, don't know if notable didn't look
 nanas;40
 nances;30;Yellow cherry-sized fruit
 nanci;30;Folk singer Nanci Griffith
+nandrolone;40;???
 nankeen;20
 nankeens;20
 nankipoo;30
@@ -23156,6 +23171,7 @@ nra;5
 nrachief;30
 nrc;20
 nrgpark;50
+nsa;40
 nsachief;40
 nsachiefs;40
 nsc;40
@@ -23591,6 +23607,7 @@ ohjeez;60
 ohkay;30;Gershwin musical
 ohlamour;40;1986 Erasure song
 ohlone;20
+ohlord;60
 ohmama;60
 ohman;60
 ohme;20
@@ -23800,6 +23817,7 @@ omagazine;50
 omahas;30
 oman;50;Where you'll find the Land of Frankincense
 omars;30
+omasum;30;Third stomach of a ruminant
 omd;20
 omened;30;Only useful as a partial like ill-omened??? Not used post-Shortz
 omenii;20
@@ -23848,7 +23866,8 @@ onamission;60
 onanist;30;???
 onanists;30;???
 onanumberofoccasions;50
-onapar;40
+onapar;50
+onaparwith;50
 onappeal;50
 onapproval;40
 onaraft;20
@@ -25185,7 +25204,8 @@ pastingon;40
 pastlife;50
 pastlives;50
 pastonesbedtime;60
-pastorate;30
+pastorate;40
+pastorates;40
 pate;50
 pated;40;Addle-pated?
 paten;30;Plate used to carry bread during Mass
@@ -26361,6 +26381,8 @@ polyhedron;50
 polypus;20;Polyp, archaic
 pom;40;POM Wonderful, Pomeranian, pom-pom
 pomace;30;Fruit residue after pressing
+pomatum;30;Pomade
+pomatums;30
 pome;20;Some fruit
 pomes;20;Some fruits
 pommesfrites;50
@@ -27317,6 +27339,10 @@ quire;30;Four sheets of paper, a twentieth of a ream
 quires;30
 quiteso;60
 quitesure;50
+quiverat;40
+quiveredat;40
+quiveringat;40
+quiversat;40
 quo;50
 quoi;40
 quoter;40
@@ -27684,11 +27710,17 @@ rareearthmagnets;50
 rareearthmetal;50
 rareearthmetals;50
 rarees;20
+rarefaction;40
 rarefeat;50
 rarefeats;50
+rarefiedcircle;60
+rarefiedcircles;60
+rarefies;40
 rarefind;50
 rarefinds;50
 rareform;50
+rarefy;40
+rarefying;40
 raregem;50
 raregems;50
 rares;40;Rares up
@@ -36219,7 +36251,8 @@ tinks;50;Unknits
 tinner;30;Tin miner or tinsmith
 tinners;30
 tinsels;30
-tinsoldier;60
+tinsoldier;50
+tinsoldiers;50
 tinstar;50
 tinstars;50
 tinter;30
