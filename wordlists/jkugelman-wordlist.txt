@@ -454,6 +454,7 @@ adaptedto;40
 adaptingto;40
 adaptsto;40
 adaptto;40
+adaware;40;Adblock software
 adayago;40
 adblocker;50
 adblockers;50
@@ -466,6 +467,7 @@ addedonto;40
 addedspice;50
 addedto;40
 addedupto;40
+addies;40;Addresses, slangily [never used]
 addin;40
 addingin;40
 addingmachines;50
@@ -493,10 +495,10 @@ adduced;20
 adduces;20
 adducts;30
 addupto;40
-addy;30
+addy;40;Address, slangily [never used]
 ade;40
 adeedoo;20
-adela;30;Journalist Adela Rogers St. Johns
+adela;40;Journalist Adela Rogers St. Johns
 adeleh;20;Truffaut's "The Story of Adele H."
 adeles;30;Adele plural
 adelie;40;Type of penguin
@@ -564,6 +566,8 @@ adorest;20
 adoseof;20
 adp;40
 adriana;40;Model Adriana Lima
+adriani;40
+adriano;40
 adrians;30;Plural name
 adroidest;30
 adroiter;30
@@ -995,6 +999,7 @@ aldrich;30
 ale;50
 aleatory;30
 alecks;50
+alecost;20
 alecto;40;One of the Furies [occasional]
 alee;30
 alegup;60
@@ -1108,6 +1113,7 @@ alleycat;50
 alleycats;50
 alleyes;50
 allez;30
+allgood;60
 allhandsmeeting;50
 allhandsmeetings;50
 alligator;50
@@ -1607,6 +1613,7 @@ anouk;30;French actress Anouk Aimée of "La Dolce Vita" and "8 1/2"
 anoukaimee;50;French actress
 anounce;20
 ans;40
+anselmo;40;Various, including Phil Anselmo of Pantera
 ansonia;30;Luxurious, or Connecticut city
 anspach;40;Actress Susan Anspach of "Five Easy Pieces"
 ansu;20
@@ -1722,6 +1729,7 @@ apercus;40;Clever summations
 aperient;30;Laxative
 aperies;30;Bad plural???
 apers;30
+aperson;30;Each
 apesuit;50
 apesuits;50
 apewoman;50
@@ -2214,6 +2222,7 @@ asap;40
 asarail;30
 asarule;50
 asason;20
+asatest;50
 ascender;40
 ascenders;40
 ascendingorder;50
@@ -2493,6 +2502,7 @@ atelunch;30
 ateof;40
 ateoneshat;60
 ateover;40
+aterror;20
 atete;20
 atethem;1
 ateup;50
@@ -2640,7 +2650,9 @@ auklet;30
 auklets;30
 auks;30
 aulani;30;Disney resort in Hawaii
-auld;30
+auld;40;"Auld Lang Syne"
+aulder;20
+auldest;20
 aulii;40;Auli'i Cravalho who voiced Moana
 auntandtuna;1
 auntselma;50
@@ -3658,9 +3670,9 @@ belongto;40
 belsnickel;50;German folkloric Christmas gift-bringer
 beltdrive;50
 bemadat;1
-bemire;30
-bemired;30
-bemires;30
+bemire;40
+bemired;40;Covered or stuck in mud
+bemires;40
 bemiring;30;???
 benaderet;30;Old Hollywood actress Bea Benaderet
 benand;1
@@ -10477,6 +10489,7 @@ emeu;20
 emezi;40;LGBT novelist Akwaeke Emezi
 emhoff;30;Second gentleman Doug (Kamala Harris's husband)
 emi;40
+emigree;30;Variant spelling?
 emil;30;Jannings, Gilels
 emiles;20;Plural name
 emilys;30
@@ -10825,6 +10838,10 @@ epical;30;???
 epicfail;60
 epicness;50
 epifauna;40
+epigone;30;Follower, disciple, imitator
+epigonic;30
+epigonism;30
+epigonous;30
 epilate;30;Hair removal technique
 epilog;30;More commonly epilogue
 episodei;30
@@ -14403,6 +14420,7 @@ hadones;20
 hadonesdruthers;60
 hadrosaur;40
 hadrosaurs;40
+hadst;40
 hadthelimelight;30
 hadtorun;30;???
 haematin;40;Iron pigment from blood
@@ -16264,6 +16282,7 @@ imagism;30;Poetry movement
 imagist;30
 imagists;30
 imago;30;Bug stage
+imagoes;30
 imahugefan;60
 imall;20;Partial
 imalldone;60
@@ -17080,6 +17099,7 @@ is;50
 isabadidea;20
 isabroad;20
 isadoras;1
+isahead;20
 isaidgooddaysir;60
 isamu;20
 isanart;20
@@ -17870,7 +17890,8 @@ kcar;20
 kcars;20
 kcroyal;50
 kcroyals;50
-kcuppod;30
+kcuppod;50
+kcuppods;50
 kdrama;50;"Squid Game", e.g.
 kdramas;50
 kea;40
@@ -22274,7 +22295,7 @@ nckel;1
 ncstate;40
 ncwyeth;30;Illustrator
 nda;50
-ndakota;30
+ndakota;40
 ndas;50
 ndebele;30;People of Zimbabwe
 nea;40
@@ -23700,6 +23721,7 @@ okapi;40;Forest giraffe
 okapicalf;40
 okapicalves;40
 okapis;40;Forest giraffes
+okayand;60
 okaybut;50;"Yeah, except..."
 okayfine;60
 okaygo;60
@@ -23991,6 +24013,7 @@ onegallon;30
 onegame;20
 oneggs;20
 onegig;1
+onegram;40
 oneheart;20
 onehit;30
 onehits;20
@@ -30578,7 +30601,7 @@ scutum;30;???
 scytale;30;Ancient ciphering tool
 scytales;30
 sdak;30
-sdakota;30
+sdakota;40
 sdcard;40
 sdcards;40
 sdeath;20;Archaic oath
@@ -37388,6 +37411,7 @@ tweeting;50
 tweets;50
 tweetstorm;50
 tweetstorms;50
+twerent;50
 twi;20
 twigtea;50
 twilight;60
