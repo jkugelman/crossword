@@ -2,6 +2,6 @@
 #
 # Pass -n or -v to show lengths.
 
-awk '{text=$0; sub(/;.*/, "", text); print length(text), $0}' |
+awk '{text=$0; sub(/;.*/, "", text); sub(/[^a-zA-Z0-9]/, "", text); print length(text), $0}' |
     sort -n |
     if [[ -n $1 ]]; then cat; else sed 's/^[0-9]* //'; fi
