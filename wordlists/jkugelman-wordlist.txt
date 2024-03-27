@@ -1973,14 +1973,17 @@ areyouasleep;50
 areyoublind;60
 areyoucrazy;60
 areyoudone;60
+areyouforreal;60
 areyougame;60
 areyougood;60
+areyouhappy;60
 areyouinsane;60
 areyoukidding;60
 areyoumad;60
 areyounuts;60
 areyouopen;50
 areyououtofyourmind;60
+areyouserious;60
 areyousleeping;50
 areyousureaboutthat;60
 arf;40
@@ -3650,8 +3653,12 @@ belalugosi;60
 beldar;40;Beldar Conehead
 belesprit;50;Person with a gifted mind
 belieber;50
+believedin;40
+believein;40
 believeit;60
 believeme;60
+believesin;40
+believingin;40
 bellagio;60
 bellaswan;50
 belli;20;Celebrity lawyer Melvin
@@ -16023,7 +16030,7 @@ ideation;50
 ideative;40
 ided;40
 idee;40
-idem;30
+idem;40;Ditto, in footnotes
 idemandarematch;60
 identified;50
 identifiedas;40
@@ -16497,6 +16504,7 @@ inajam;50
 inajiff;60
 inajiffy;60
 inaknot;40
+inalarm;50
 inalather;50
 inallfairness;60
 inalllikelihood;60
@@ -20272,6 +20280,8 @@ makeme;60
 makenice;60
 makenoises;50
 makeoff;30
+makeovermontage;60
+makeovermontages;60
 makeplans;50
 makeproud;50
 makeroom;50
@@ -21796,6 +21806,8 @@ moviedeal;50
 moviedeals;50
 moviemogul;50
 moviemoguls;50
+moviemontage;60
+moviemontages;60
 movieprop;50
 movieprops;50
 moviereel;50
@@ -24182,7 +24194,7 @@ onthestrugglebus;60
 onthinice;60
 onthird;30
 ontilt;60
-ontoe;40
+ontoe;30
 ontogeny;30
 ontv;40
 onvideo;40
@@ -32680,6 +32692,7 @@ somethingofacharacter;60
 somethingsneverchange;60
 somethingtogoon;60
 somethingwrong;60
+somewhen;40
 sommer;30
 somnambulate;50
 somnambulated;50
@@ -32894,13 +32907,16 @@ sparedtherod;60
 sparekey;50
 sparekeys;50
 spareme;60
+sparemeyourlies;60
 sparer;30
+sparers;30
 sparestherod;60
 sparetherod;60
 sparetime;50
 sparetire;50
 sparetires;50
 sparetyres;20
+spareus;60
 sparge;30;Moisten grains in beer brewing
 sparged;30
 sparges;30
@@ -35244,6 +35260,7 @@ televisioncrews;50
 tellafib;40
 tellies;50
 tellmemore;60
+tellmewithouttellingme;60
 tellnoone;60
 tellof;40
 tellsafib;40
@@ -36870,8 +36887,8 @@ trailsoff;50
 trainedfor;40
 trainfor;40
 trainingfor;40
-trainingmontage;50
-trainingmontages;50
+trainingmontage;60
+trainingmontages;60
 trainman;40;Member of a train crew
 trainmen;40
 trainset;50
@@ -39885,6 +39902,9 @@ youawake;60
 youbet;60
 youcandoit;60
 youcanthaveitbothways;60
+youcantlose;60
+youcantmakeme;60
+youcantmeanthat;60
 youcantteachheight;60;N.B.A. draft saying
 youcantwin;60
 youcouldsaythat;60
@@ -39928,9 +39948,11 @@ yourebad;60
 youregettingsleepy;60
 youregood;60
 youreinrareform;60
+yourejokingright;60
 yourejustsayingwhateveryonesthinking;60
 yourejustsayingwhatwereallthinking;60
 yourejustsayingwhatweveallbeenthinking;60
+yourekiddingright;60
 yourenext;60
 yourenofun;60
 yourenohelp;60
