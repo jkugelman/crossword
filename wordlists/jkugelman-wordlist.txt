@@ -969,6 +969,7 @@ alain;30
 alaina;30;Singer Lauren Alaina... notable???
 alamodes;40
 alamosa;20;Colorado city
+alandershowitz;50
 alandtippergore;1
 alanine;30;Amino acid
 alanlomax;50
@@ -994,6 +995,7 @@ albumsleeve;50
 albumsleeves;50
 alcaide;20;Prison warden: Sp.
 alcaldes;30
+alcapone;50
 alcatraz;60
 alceste;30;Gluck opera
 alcestis;30;Euripides play
@@ -3107,6 +3109,7 @@ balt;30;Latvian, e.g.
 baltimorerave;1
 bama;40
 bamako;20;Capital of Mali
+bambam;50
 bamboopole;50
 bamboopoles;50
 bambooshoot;50
@@ -4375,7 +4378,7 @@ bondbroker;50
 bondbrokers;50
 bondo;30;Putty brand
 bonedensity;50
-bonedup;60
+bonedup;50
 bonegrubber;50
 bonegrubbers;50
 bonelesschicken;50
@@ -4383,11 +4386,12 @@ bonepicker;50
 bonepickers;50
 bonesman;50;Member of the Skull and Bones society (many presidents)
 bonesmen;50;Members of the Skull and Bones society (many presidents)
-bonesup;60
-boneup;60
+bonesup;50
+boneup;50
+bonewhite;50
 bongodrum;50
 bongoes;20;Rare spelling
-boningup;60
+boningup;50
 bonmot;50
 bonmots;50
 bonnenuit;50
@@ -4713,7 +4717,7 @@ bringonesagame;60
 bringsonesagame;60
 bringsto;40
 bringto;40
-brio;40
+brio;50
 briskest;30
 brisksales;50
 brithume;50;ABC journalist
@@ -18182,6 +18186,10 @@ justincase;60
 justlikenew;60
 justplaying;60
 justsayinghi;60
+justscratchedthesurface;60
+justscratchesthesurface;60
+justscratchingthesurface;60
+justscratchthesurface;60
 justspititout;60
 justthetipoftheiceberg;60
 justtryme;60
@@ -23111,6 +23119,7 @@ nhlgoalie;40
 nhlgoalies;40
 nhlplayoffs;50
 nhs;40
+ni;40;Monty Python word
 nia;40
 niall;40;Niall Horan of One Direction
 niamey;40;Capital of Niger
@@ -24642,6 +24651,10 @@ onlsd;40
 onlya;20
 onlyagame;1
 onlyhuman;60
+onlyscratchedthesurface;60
+onlyscratchesthesurface;60
+onlyscratchingthesurface;60
+onlyscratchthesurface;60
 onlytoo;20
 onlyyou;50
 onnotice;50
@@ -25218,6 +25231,7 @@ outfielder;50
 outfielders;50
 outfit;50
 outfits;50
+outforaspin;50
 outherod;40;Out-Herod Herod, surpass in cruelty
 outherodedherod;50
 outherodherod;50
@@ -29974,17 +29988,28 @@ roc;40
 rocambole;30;Garlic-like plant
 roche;30;Pharmaceutical company
 rock;50
+rockedout;60
 rockeries;40;Rock gardens
 rockery;40;Rock garden
 rocketpoweredrollerskates;60;Acme invention
-rockfall;60
+rockfall;50
+rockfalls;50
 rockfan;30
 rockfans;30
 rockhound;50
 rockhounds;50
+rockingchair;50
+rockingchairs;50
+rockinghorse;50
+rockinghorses;50
+rockingout;60
 rockit;50
+rockout;60
 rockptarmigan;40;Game bird
 rockptarmigans;40
+rockquarries;50
+rockquarry;50
+rocksout;60
 rockystart;50
 rockystarts;50
 rococos;30
@@ -31151,6 +31176,10 @@ scrapie;30;Sheep/goat prion disease
 scrapiron;50
 scrat;40;"Ice Age" squirrel
 scratch;50
+scratchedthesurface;60
+scratchesthesurface;60
+scratchingthesurface;60
+scratchthesurface;60
 screak;30
 screamat;40
 screamedat;40
@@ -33710,6 +33739,7 @@ spinbike;50
 spinbikes;50
 spinclass;50
 spinclasses;50
+spincontrol;50
 spindoc;40
 spindocs;40
 spinel;30;Gemstone
@@ -38951,6 +38981,8 @@ valuemeals;50
 valuesat;40
 valuingat;40
 valuta;20
+valvetrombone;50
+valvetrombones;50
 vampirefinch;50
 vampirefinches;50
 vanark;20
@@ -39261,6 +39293,8 @@ vol;40
 volante;30
 volare;30
 volares;30
+volcanicrock;50
+volcanicrocks;50
 voldemort;50
 volet;20
 volets;20
@@ -40201,8 +40235,8 @@ wisemove;60
 wisent;20
 wisesupto;50
 wiseupto;50
-wishbone;60
-wishbones;60
+wishbone;50
+wishbones;50
 wisher;40
 wishers;40
 wishy;40
