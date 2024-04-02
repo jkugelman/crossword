@@ -1573,8 +1573,12 @@ animal;50
 animalcule;40;Microscopic organism, archaic
 animalcules;40
 animalmagnetism;60
+animalpreserve;50
+animalpreserves;50
 animalprint;50
 animals;50
+animaltrainer;50
+animaltrainers;50
 animatedgif;60
 animatedgifs;60
 animi;20;Resins
@@ -19515,7 +19519,9 @@ letteredin;40
 letteri;1
 letterin;40
 letteringin;40
+letteroftransit;50
 lettersin;40
+lettersoftransit;50
 letterw;1
 letthingsplayout;60
 lettingthingsplayout;60
@@ -23791,7 +23797,7 @@ numan;30;Musician Gary Numan
 numans;20
 numbat;20
 numbereight;30;???
-numberofletters;1
+numberofletters;50
 numberofthebeast;60
 numberoneseed;60
 numbersgames;50
