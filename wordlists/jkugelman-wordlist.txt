@@ -12472,6 +12472,7 @@ flopshot;50
 flopshots;50
 florae;40
 floralia;30;Ancient Roman festival
+floralprint;50
 floridapanthers;50
 floridaroom;50
 floridarooms;50
@@ -16836,7 +16837,7 @@ imwaiting;60
 imwayaheadofyou;60
 imwellaware;60
 in;50
-ina;30;Partial or suffix [extremely common]
+ina;30;Chef Ina Garten, or partial/suffix [extremely common]
 inaba;20;Japanese province/cat food
 inabadway;50
 inabalin;30;Actress
@@ -31287,7 +31288,10 @@ seahare;40;Marine snail
 seahares;40
 seahog;40;Porpoise
 seahogs;40
+sealeddocument;50
 sealeddocuments;50
+sealedenvelope;50
+sealedenvelopes;50
 sealedin;50
 sealegs;60
 sealer;50
@@ -32925,7 +32929,7 @@ smallcar;30
 smallcars;30
 smalley;30
 smallintestines;50
-smallprint;60
+smallprint;50
 smallslam;50;Bridge play
 smallstage;50
 smallsuv;50
@@ -38128,9 +38132,9 @@ turkeybreast;50
 turncard;50
 turncards;50
 turndown;50
-turnedinsideout;60
+turnedinsideout;50
 turnedinto;40
-turnedon;60
+turnedon;50
 turnedonthewaterworks;60
 turnedonto;40
 turnedpale;50
@@ -38141,7 +38145,7 @@ turnedtogold;50
 turnedtraitor;50
 turnedupsidedown;50
 turnery;30
-turninginsideout;60
+turninginsideout;50
 turninginto;40
 turningon;50
 turningonthewaterworks;60
@@ -38153,7 +38157,7 @@ turningto;40
 turningtogold;50
 turningtraitor;50
 turningupsidedown;50
-turninsideout;60
+turninsideout;50
 turninto;40
 turnitintoawholething;60
 turnlane;50
@@ -38164,9 +38168,9 @@ turnonthewaterworks;60
 turnonto;40
 turnpale;50
 turnpro;50
-turnsinsideout;60
+turnsinsideout;50
 turnsinto;40
-turnson;60
+turnson;50
 turnsonthewaterworks;60
 turnsonto;40
 turnsour;50
@@ -38967,6 +38971,7 @@ uzo;40;Uzo Aduba, actress on "Orange is the New Black"
 v;1
 vac;40
 vacuo;30;In vacuo, in a vacuum
+vacuumsealed;50
 vahospital;50
 vahospitals;50
 vai;50
