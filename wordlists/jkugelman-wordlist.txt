@@ -4004,6 +4004,10 @@ bingeson;40
 bingingon;20
 bingocard;50
 bingocards;50
+bingogame;50
+bingogames;50
+bingomarker;50
+bingomarkers;50
 bingosheet;50
 bingosheets;50
 binnacle;30;Housing for a ship's compass
@@ -4395,6 +4399,8 @@ boneup;50
 bonewhite;50
 bongodrum;50
 bongoes;20;Rare spelling
+bongoplayer;50
+bongoplayers;50
 boningup;50
 bonmot;50
 bonmots;50
@@ -7834,6 +7840,7 @@ cutiepie;60
 cutiepies;60
 cutnoice;30
 cutonesteethon;60
+cutsadeal;50
 cutsarug;50
 cutsbothways;60
 cutscene;50
@@ -7847,6 +7854,7 @@ cutstothebone;60
 cutstothequick;60
 cutthechitchat;60
 cutthroattactic;60
+cuttingadeal;50
 cuttingarug;50
 cuttingbothways;60
 cuttingclass;50
@@ -8219,8 +8227,12 @@ deadspot;60
 deadtree;60
 deafears;50
 deafto;40
+dealbreaker;50
+dealbreakers;50
 dealer;50
 dealers;50
+dealersshoe;50
+dealersshoes;50
 dealfor;30
 dealingout;50
 dealingto;40
@@ -13387,6 +13399,7 @@ getideas;50
 getinabind;50
 getinhere;60;"My office, now!"
 getinline;60
+getinonadeal;50
 getinto;40
 getintoarut;50
 getintoit;50
@@ -13428,6 +13441,7 @@ getscozy;50
 getsfat;5
 getsideas;50
 getsinabind;50
+getsinonadeal;50
 getsinto;40
 getsintoarut;50
 getsintoit;50
@@ -13484,6 +13498,7 @@ gettingfat;5
 gettingforasong;60
 gettingideas;50
 gettinginabind;50
+gettinginonadeal;50
 gettinginto;40
 gettingintoarut;50
 gettingintoit;50
@@ -14198,6 +14213,7 @@ gothbands;50
 gothicart;50
 gotideas;50
 gotinabind;50
+gotinonadeal;50
 gotinto;40
 gotintoarut;50
 gotintoit;50
@@ -18128,6 +18144,8 @@ judas;50
 judases;50
 judaspriest;60
 judastree;50
+judeo;40
+judeochristian;50
 judgejuryandexecutioner;60
 judges;50
 judgmentcall;50
@@ -18487,6 +18505,7 @@ kingdavid;50
 kinginthecastle;60
 kingme;60
 kingofclay;60;Rafael Nadal
+kingofhearts;50
 kingset;40;Bedroom set
 kingsized;50
 kingsizekitkat;50
@@ -21686,15 +21705,15 @@ milometers;30;???
 milord;50
 milosforman;50
 miltie;30;Milton Berle "Uncle ___"
-mimeo;30
-mimeoed;30
-mimeograph;30
-mimeographed;30
-mimeographing;30
-mimeographpaper;30
-mimeographs;30
-mimeography;30
-mimeos;30
+mimeo;40
+mimeoed;40
+mimeograph;40
+mimeographed;40
+mimeographing;40
+mimeographpaper;40
+mimeographs;40
+mimeography;40
+mimeos;40
 mimesis;20;Imitation of the real world in art and literature
 mimikyu;50;Pokeyman
 min;40
@@ -27558,6 +27577,7 @@ progolfers;50
 programing;1
 programs;50
 progressiverock;60
+progressosoup;50
 progrock;60
 prohockey;50
 projecthailmary;50
@@ -27959,6 +27979,7 @@ quatre;40;Four: Fr.
 quayage;30;Wharf fee
 que;40
 queene;20
+queenofhearts;60
 queenofjazz;60
 queenset;40;Bedroom set
 queerprom;60
@@ -32243,6 +32264,7 @@ siameses;40
 sicem;50
 sickburn;60
 sickish;30
+sickomode;60
 sicon;40
 sidearming;30
 sideburns;60
@@ -33252,6 +33274,9 @@ softcs;30
 softee;30;Mister Softee ice cream trucks, or Softee hair gel
 softg;30
 softgs;30
+softheart;50
+softhearted;50
+softhearts;50
 softie;60
 softies;60
 softlaunch;60
@@ -34618,6 +34643,7 @@ stratas;20
 strathspey;30;???
 strathspeys;30;???
 strati;40;Certain clouds
+stratosphere;50
 strawberrymojito;50
 strawberrymojitos;50
 strawberryshake;50
