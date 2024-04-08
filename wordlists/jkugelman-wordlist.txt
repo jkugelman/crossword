@@ -3198,6 +3198,7 @@ barelygetby;50
 barelygetsby;50
 barelygettingby;50
 barelygotby;50
+barenecessities;50
 barer;30
 baresall;60
 baresitall;60
@@ -3252,6 +3253,8 @@ barredthedoor;50
 barredthedoors;50
 barrelorgan;50
 barrelorgans;50
+barrenwasteland;50
+barrenwastelands;50
 barringthedoor;50
 barringthedoors;50
 barrybonds;50
@@ -3392,7 +3395,8 @@ batterycharge;50
 battingin;40
 battingoneseyes;50
 battleax;60
-battleformation;60
+battleformation;50
+battleformations;50
 battlerope;60
 battleropes;60
 battlers;30
@@ -4767,6 +4771,8 @@ brokenbone;50
 brokenbones;50
 brokencode;50;Green paint?
 brokencodes;50
+brokencontract;50
+brokencontracts;50
 brokendown;50
 brokenhome;50
 brokenin;50
@@ -5256,6 +5262,8 @@ camelshair;50
 camelshaircoat;60
 camelspin;50;Basic figure skating move
 camelspins;50
+cameoappearance;50
+cameoappearances;50
 cameonto;40
 cameoring;50
 cameorings;50
@@ -5454,6 +5462,8 @@ caponizes;30
 caponizing;30
 capotes;20
 caproom;40;Salary cap room??? not sure
+capsaicincream;50
+capsaicincreams;50
 capsid;30;Protein shell of a virus
 capslock;50
 capslockon;50
@@ -5583,6 +5593,8 @@ carnified;30
 carnifies;30
 carnify;30
 carnifying;30
+carnivalseason;50
+carnivalseasons;50
 caro;30;Beloved: Italian
 carob;40;Chocolate substitute
 carobs;30;Not usually pluralized
@@ -5920,6 +5932,8 @@ celebrator;30
 celebrityroast;60
 celebrityroasts;60
 celeryseed;50
+celestialbodies;50
+celestialbody;50
 cellardoor;60
 cellarer;40;Person in charge of a cellar or provisions, usually in a monastery
 cellarers;40
@@ -6223,6 +6237,16 @@ chieffinancialofficer;50
 chieffinancialofficers;50
 chiefjustice;50
 chiefjustices;50
+chiefmarketingofficer;50
+chiefmarketingofficers;50
+chiefoperatingofficer;50
+chiefoperatingofficers;50
+chiefpettyofficer;50
+chiefpettyofficers;50
+chiefriskofficer;50
+chiefriskofficers;50
+chieftechnologyofficer;50
+chieftechnologyofficers;50
 chigoe;20
 chigoes;20
 chihuahuamexico;50
@@ -6572,6 +6596,8 @@ closetalker;60
 closetalkers;60
 closetheloop;50
 closetorganizer;50
+closingceremonies;50
+closingceremony;50
 closingnumber;50
 closingnumbers;50
 closingon;30
@@ -7238,7 +7264,7 @@ cornfritters;50
 cornhuskerstate;50
 cornpit;40
 cornpits;40
-coronaaustralis;60
+coronaaustralis;50
 coronach;30;Scottish funeral song
 coronae;30
 corot;40;1800s landscape painter Jean-Baptiste-Camille Corot
@@ -7356,6 +7382,8 @@ countytax;50
 countytaxes;50
 coupdetat;50
 coupdetats;50
+couplesretreat;50
+couplesretreats;50
 coupsdetat;50
 couragethecowardlydog;60
 courante;30;16th century court dance
@@ -7535,6 +7563,7 @@ crib;50
 cribs;50
 criedoutto;40
 cries;50
+criesofderision;50
 criesoff;30
 criesoutto;40
 crimedog;50
@@ -7643,6 +7672,8 @@ crossonests;60
 crossover;60
 crossoverepisode;60
 crossoverepisodes;60
+crossovermovie;50
+crossovermovies;50
 crosspartylines;60
 crossthepicketline;50
 crossword;60
@@ -7686,6 +7717,7 @@ cry;50
 cryingoutto;40
 cryingoverspilledmilk;60
 cryingshame;60
+cryofderision;50
 cryofreeze;60
 cryolite;30;Mineral
 cryosleep;60
@@ -11932,6 +11964,8 @@ fearfor;40
 fearingfor;40
 fearingto;40
 fearisthemindkiller;60
+fearlessleader;50
+fearlessleaders;50
 fearmonger;60
 fearofneedles;60
 fearsfor;40
@@ -12124,6 +12158,7 @@ fghi;20
 fgs;40
 fiance;50
 fiancee;50
+fibonacciseries;50
 fibrinous;40
 fictitiousentries;60;Plagiarism trap
 fictitiousentry;60;Plagiarism trap
@@ -15540,6 +15575,8 @@ highchurch;50
 highconcept;60
 highcouncil;50
 highcouncils;50
+highearthorbit;50
+highearthorbits;50
 highhorse;60
 highjump;50
 highjumper;50
@@ -15808,6 +15845,8 @@ homegyms;50
 homeinon;50
 homelab;30
 homelabs;30
+homemadecookie;50
+homemadecookies;50
 homemovie;50
 homemovies;50
 homeo;40
@@ -15943,6 +15982,7 @@ horoscoper;30
 horrorshow;60
 hors;30
 horse;50
+horsebackriding;50
 horsefeathers;60
 horsehockey;60
 horsepill;50
@@ -15951,6 +15991,8 @@ horseplay;60
 horsepower;50
 horserace;50
 horseraces;50
+horseshoemagnet;50
+horseshoemagnets;50
 horsethief;60
 horsey;50
 horseys;50
@@ -17296,6 +17338,7 @@ invacuo;30;In a vacuum
 invalidid;40;Green paint???
 invalidusername;50
 invalue;30
+invasivespecies;50
 inveigler;30
 inveiglers;30
 inventhim;60
@@ -17693,6 +17736,7 @@ itsallgood;60
 itsallgoodinthehood;60
 itsallinthegame;60
 itsalottounpack;60
+itsamemario;60
 itsanhonor;60
 itsanogo;60
 itsanonstarter;60
@@ -20285,6 +20329,8 @@ lovetopieces;60
 lovey;40;Lovey-dovey
 lowcarbdiet;50
 lowclass;50
+lowearthorbit;50
+lowearthorbits;50
 lowells;20
 lowercasea;20
 lowercaseb;20
@@ -20526,6 +20572,7 @@ macten;30;Weapon
 macula;50;Center of the retina
 madabout;50
 madama;40;Puccini's "Madama Butterfly"
+madamepresident;50
 madat;40
 madcap;60
 madcaps;40
@@ -20539,6 +20586,7 @@ madeakilling;60
 madealist;40
 madeanoffer;50
 madeapass;50
+madeastatement;50
 madeatoast;50
 madeauey;40
 madeauie;40
@@ -20718,6 +20766,7 @@ makealist;40;Green paint?
 makeanentrances;1
 makeanoffer;50
 makeapass;50
+makeastatement;50
 makeatoast;50
 makeauey;40
 makeauie;40
@@ -20757,6 +20806,7 @@ makesakilling;60
 makesalist;40
 makesanoffer;50
 makesapass;50
+makesastatement;50
 makesatoast;50
 makesauey;40
 makesauie;40
@@ -20802,6 +20852,7 @@ makingakilling;60
 makingalist;40
 makinganoffer;50
 makingapass;50
+makingastatement;50
 makingatoast;50
 makingauey;40
 makingauie;40
@@ -20981,6 +21032,12 @@ marcs;30;Plural name
 marcy;50;Marcy Playground, Al Bundy's neighbor
 marcyplayground;50
 mardi;40;Mardi Gras
+mardigrascolors;50
+mardigrasflag;50
+mardigraskrewe;50
+mardigraskrewes;50
+mardigrasparade;50
+mardigrasparades;50
 margaretqualley;50;Actress
 margarines;40
 margaritanosalt;30
@@ -21850,14 +21907,17 @@ missamericanpie;60
 missdaisy;50
 missedacue;40
 missedexam;20
+missedthetarget;50
 missellie;40;"Dallas" character
 missend;40
 missent;40
 missesacue;40
+missesthetarget;50
 missfirecracker;50
 missilesilo;60
 missilesilos;60
 missingacue;40
+missingthetarget;50
 missionaryridge;50
 missioncreep;50
 missm;30
@@ -21867,11 +21927,13 @@ missoulamontana;30
 missoulamt;30
 missrona;20
 missthang;60
+missthetarget;50
 missthing;60
 misstorso;40;"Rear Window" character
 misterchristian;30
 mistered;50
 misterfantastic;60
+misterpresident;50
 mistertoad;50;"The Wind in the Willows" character
 mit;40
 miter;40;Bishop's hat
@@ -22154,6 +22216,8 @@ moots;30
 moper;40
 mopers;40
 moptop;60
+moralimperative;50
+moralimperatives;50
 moralities;30
 moran;40
 morassy;20
@@ -25786,6 +25850,8 @@ passing;50
 passingas;40
 passingfor;40
 passingfortwins;50
+passinginterest;50
+passinginterests;50
 passingmuster;50
 passingoffas;40
 passline;50
@@ -26228,6 +26294,8 @@ personalopinion;50
 personalstereo;40
 personalstereos;40
 personaltouches;50
+personaltrainer;50
+personaltrainers;50
 personalty;40;Personal, movable property (law)
 personator;30
 personators;30
@@ -26719,6 +26787,8 @@ planers;30
 planetaria;50
 planetarium;50
 planetariums;50
+planetaryorbit;50
+planetaryorbits;50
 planeteer;50;Captain Planet sidekick
 planeteers;50
 planetesimal;60
@@ -26986,6 +27056,8 @@ polevaulter;50
 polevaulters;50
 polevaulting;50
 polevaults;50
+policeacademies;50
+policeacademy;50
 policechief;60
 policeraid;40
 policeraids;40
@@ -27220,9 +27292,13 @@ postwarera;50
 pot;50
 potage;30;Thick soup
 potation;40;Drink or drinking
+potatobatteries;50
+potatobattery;50
 potatobud;50
 potatobuds;50
 potatoe;20;Dan Quayle's misspelling
+potdispensaries;50
+potdispensary;50
 potedible;50
 potedibles;50
 poteen;30;Irish moonshine
@@ -27517,6 +27593,8 @@ prismoid;30
 prismoids;30
 prisonbreak;50
 prisonbreaks;50
+prisonsentence;50
+prisonsentences;50
 prisonwing;60
 prisonwings;60
 priss;40
@@ -31393,6 +31471,8 @@ seceders;30
 seckel;20;Small pear
 seckels;20
 seconal;20;Sleep drug [used once in 1970]
+secondarycolor;50
+secondarycolors;50
 secondbanana;60
 secondbananas;50
 secondcoming;60
@@ -31558,6 +31638,7 @@ selfabsorption;50
 selfabuse;40
 selfaware;60
 selfawareness;60
+selfdeprecating;50
 selfdoubt;50
 selfdriving;60
 selfesteem;50
@@ -33650,6 +33731,7 @@ spastics;5
 spathe;20;Plant part
 spathes;20
 spathic;20
+spatialdynamics;50
 spatlese;30;German wine
 spavin;20
 spavined;20
@@ -33809,12 +33891,19 @@ spitsat;40
 spittingat;40
 splendiferous;60
 splenetic;40;Easily angered
+splitdecision;50
+splitdecisions;50
+splitinfinitive;50
+splitinfinitives;50
 splitpersonalities;60
 splitpersonality;60
 splitrun;40
 splitruns;40
+splitsthecheck;50
 splitter;50
 splitters;50
+splitthecheck;50
+splittingthecheck;50
 spock;50
 spode;30
 spodees;30
@@ -36503,6 +36592,7 @@ theironcross;30
 theirs;30
 theiss;30;Actress Brooke Theiss, not super notable
 theivyleague;40
+thekeeblerelves;40
 thekeyofc;1
 thekeystonekops;20
 thekid;30
@@ -36586,6 +36676,7 @@ thenba;20
 thenea;20
 thenereids;20
 thenewnormal;60
+thenewtestament;40
 thenextroundisonme;60
 thenfl;20
 thenhl;20
@@ -37085,6 +37176,8 @@ timeflieswhenyourehavingfun;60
 timefuse;50
 timefuses;50
 timelag;60
+timelapsevideo;50
+timelapsevideos;50
 timeline;50
 timelines;50
 timelord;60;Doctor Who race
