@@ -484,6 +484,8 @@ addoil;20
 addon;50
 addonto;40
 addr;30
+addresscode;50
+addresscodes;50
 addsin;40
 addson;40
 addsonto;40
@@ -1436,6 +1438,7 @@ amurtiger;50
 amurtigers;50
 amuser;30
 amusers;30
+amust;40
 amvets;20
 amyalcott;50;LPGA hall-of-famer
 amylases;30
@@ -29975,15 +29978,19 @@ riotshields;60
 ripeoldage;60
 ripieno;30;Body of instruments accompanying the concertino in baroque concerto music
 ripintwo;50
+ripone;20
 ripost;20;Var. spelling
 rippedintwo;50
+rippedone;20
 rippingintwo;50
+rippingone;20
 riproarin;50
 riproaring;60
 riproaringtime;60
 ripsaw;50
 ripsaws;50
 ripsintwo;50
+ripsone;20
 riri;30
 risefor;40
 risentofame;50
@@ -31440,8 +31447,11 @@ seaserpents;50
 seasider;50
 seasnail;50
 seasnails;50
+seasonedveteran;50
+seasonedveterans;50
 seasonopener;50
 seasonopeners;50
+seasonsgreetings;60
 seasteps;40;Boat ladder
 seatat;40
 seatoad;40
@@ -34342,15 +34352,15 @@ steal;50
 steala;20
 stealakiss;60
 stealalook;50
-stealapeek;40;"Not a thing", per Rex
+stealapeek;20;"Not a thing", per Rex
 stealing;50
 stealingakiss;60
-stealingapeek;40;"Not a thing", per Rex
+stealingapeek;20;"Not a thing", per Rex
 stealingon;20
 stealon;20
 steals;50
 stealsakiss;60
-stealsapeek;40;"Not a thing", per Rex
+stealsapeek;20;"Not a thing", per Rex
 stealson;20
 steamage;50
 steamclean;50
@@ -34614,7 +34624,7 @@ stolav;30
 stole;50
 stoleakiss;60
 stolealook;50
-stoleapeek;40;"Not a thing", per Rex
+stoleapeek;20;"Not a thing", per Rex
 stolemoney;20
 stolen;50
 stolenart;30;Green paint
