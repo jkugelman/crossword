@@ -1,8 +1,54 @@
+#alive;"Judge not convinced murder victim is ___" (Baltimore Sun)
+#chick;"___ accuses some of her colleagues of sexism" (L.A. Times)
+#coldwave;"___ linked to temperatures" (newspaper headline)
+#cows;"___ lose their jobs as milk prices drop" (Baltimore Sun)
+#crack;"Strip search finds ___ between buttocks" (WYFF4.com headline)
+#dead;"Man found ___ in graveyard" (Evening Standard)
+#eel;"Endangered seal with ___ up its nose remains a mystery" (BBC)
+#eels;"___ stuck in Hawaiian monk seals' noses baffle scientists" (Washington Post)
+#everyonemakesmistakes;"'___' says teen who karate-kicked 74-year-old man into River Mersey" (Manchester Evening News)
+#food;"___ is basic to student diet" (Bridgeport (Connecticut) Post)
+#gunshop;"Federal agents raid ___, find weapons" (The World)
+#hearing;"Shouting match ends teacher's ___" (newspaper headline)
+#homicide;"___ victims rarely talk to police" (Express Times)
+#illiteracy;"___ an obstable, study finds" (The Washington Post)
+#joint;"Marijuana issue sent to a ___ committee" (Toronto Star)
+#jointcommittee;"Marijuana issue sent to a ___" (Toronto Star)
+#karatekicked;"'Everyone makes mistakes' says teen who ___ 74-year-old man into River Mersey" (Manchester Evening News)
 #lace;Tie up loose ends? [used in Square to Begin]
 #laced;Tied up loose ends? [used in Square to Begin]
 #laces;Ties up loose ends? [used in Square to Begin]
 #lacing;Tying up loose ends? [used in Square to Begin]
+#larger;"___ kangaroos leap farther, researchers find" (L.A. Times)
+#literacy;"Missippi's ___ program shows improvement" (Associated Press)
+#marijuana;"___ issue sent to a joint committee" (Toronto Star)
+#miraclecure;"___ kills fifth patient" (Associated Press)
+#money;"World Bank says poor need more ___" (A.P.)
+#murder;"Judge not convinced ___ victim is alive" (Baltimore Sun)
+#onelegged;"___ escapee still on the run" (The Australian)
+#ontherun;"One-legged escapee still ___" (The Australian)
+#oxygen;"Breathing ___ linked to staying alive" (Mason County Press)
+#package;"Republicans turned off by size of Obama's ___" (viral 2009 headline)
+#passing;"___ wind strands BC Ferry passengers" (Vancouver Sun)
+#poor;"World Bank says ___ need more money" (Associated Press)
+#qualityoflife;"Terminal illness strains ___" (Arizona Republic)
+#screw;"Textron Inc. makes offer to ___ company stockholders" (Miami Herald)
+#sewer;"City unsure why the ___ smells" (South Haven Herald-Palladium)
+#shellshocked;"Tortoise theft leaves owner ___" (Whitechurch Herald)
+#shoutingmatch;"___ ends teacher's hearing" (newspaper headline)
+#smells;"City unsure why the sewer ___" (South Haven Herald-Palladium)
+#spicysausage;"French scientist owns up after star photo revealed to be ___" (ABC News)
+#stayingalive;"Breathing oxygen linked to ___" (Mason County Press)
+#stool;"Child's ___ great for use in garden" (Buffalo Courier-Express)
+#teenpregnancy;"Statistics show that ___ drops off significantly after age 25" (Denver Post)
+#tortoise;"___ theft leaves owner shell-shocked" (Whitechurch Herald)
 #tubas;They have big brass bells [used in Square to Begin]
+#violin;"Drunk gets three months in ___ case" (Headline)
+#violincase;"Drunk gets three months in ___" (Headline)
+#walkout;"Limb centre hit by ___" (Cumberland News)
+#weapons;"Federal agents raid gun shop, find ___" (The World)
+#weather;"Forecaster calls for ___ on Monday" (Pittsburg Post-Gazette)
+#wind;"Passing ___ strands BC Ferry passengers" (Vancouver Sun)
 aaa;Org. with many roadside towers?
 abettor;Stealing second?
 abroller;It could help in a crunch
@@ -30,7 +76,6 @@ ale;Heady stuff?
 ales;Heady stuff?
 alist;Star catalog?
 alist;Where Tom Cruise has lived for 40 years
-alive;"Judge not convinced murder victim is ___" (Baltimore Sun)
 allaboard;Cruise line?
 allrise;Court order?
 allrise;Order in the court?
@@ -255,7 +300,6 @@ chef;Chopper
 chefs;Choppers
 chess;Two can play at that game
 chevron;Gas giant?
-chick;"___ accuses some of her colleagues of sexism" (L.A. Times)
 childactor;Minor celebrity?
 childactors;Minor celebrities?
 childstar;Minor celebrity?
@@ -279,17 +323,14 @@ cocounsel;Hearing aide
 cocounsels;Hearing aides
 cogitoergosum;Line of reasoning?
 coinslots;Change channels?
-coldwave;"___ linked to temperatures" (newspaper headline)
 contraction;Labor movement
 couch;Remote place to be lost?
 couch;Throws home?
 courtreporter;Hearing aide
 courtreporters;Hearing aides
 cow;Flies home?
-cows;"___ lose their jobs as milk prices drop" (Baltimore Sun)
 crabmallet;Animal cracker?
 crabmallets;Animal crackers?
-crack;"Strip search finds ___ between buttocks" (WYFF4.com headline)
 crack;Street wear?
 cracks;Street wear?
 cradle;Mobile home?
@@ -311,7 +352,8 @@ csection;Express delivery?
 cut;Production line?
 daguerre;First person shooter?
 das;Battery chargers, for short?
-dead;"Man found ___ in graveyard" (Evening Standard)
+date;Chemistry test?
+dates;Chemistry tests?
 dead;At no charge?
 dead;Charge too little?
 dead;Free of charge?
@@ -410,8 +452,6 @@ edits;Has away with words?
 edits;Makes paper cuts
 edits;Puts in a good word?
 edits;Solves word problems?
-eel;"Endangered seal with ___ up its nose remains a mystery" (BBC)
-eels;"___ stuck in Hawaiian monk seals' noses baffle scientists" (Washington Post)
 eff;Faith leader?
 eff;Firestarter?
 eff;Rejection letter?
@@ -437,7 +477,6 @@ ess;Supreme leader?
 eureka;Inspired name for a California town
 eventplanner;Social worker?
 eventplanners;Social workers?
-everyonemakesmistakes;"'___' says teen who karate-kicked 74-year-old man into River Mersey" (Manchester Evening News)
 exchanges;Trading places
 exorcise;Dust devils?
 exxon;Gas giant?
@@ -498,6 +537,8 @@ fingerpuppet;Digital entertainment?
 fingerpuppets;Digital entertainment?
 firehose;Water pitcher?
 firehoses;Water pitchers?
+firstdate;Chemistry test?
+firstdates;Chemistry tests?
 flamewar;Cross words?
 flatabs;Hard core?
 flatstomach;Hard core?
@@ -512,7 +553,6 @@ flower;Wild thing
 flowers;Wild things
 flyswatter;Buzzer beater?
 flyswatters;Buzzer beaters?
-food;"___ is basic to student diet" (Bridgeport (Connecticut) Post)
 foolandhismoney;Chump change?
 foolserrand;Boob job?
 fortknox;Bar keep?
@@ -575,7 +615,6 @@ guess;Wild thing
 guesses;Wild things
 guilty;Legal profession?
 gulliver;Swift traveller?
-gunshop;"Federal agents raid ___, find weapons" (The World)
 hacker;Champ at the bit?
 hackers;Champs at the bit?
 halfdollar;Second quarter?
@@ -591,7 +630,6 @@ hardc;Cult leader?
 hardc;Tragic ending?
 hatemail;Cross words?
 headphones;Hearing things?
-hearing;"Shouting match ends teacher's ___" (newspaper headline)
 heartbreaker;Petty individual?
 heartbreakers;Petty people?
 heavyweightchamp;Lord of the ring?
@@ -618,7 +656,6 @@ hollywoodagent;Star pitcher?
 hollywoodagents;Star pitchers?
 holster;Arm rest?
 holsters;Arm rests?
-homicide;"___ victims rarely talk to police" (Express Times)
 honeyimhome;Gets in line?
 honeyimhome;Getting in line?
 hoof;Stock part?
@@ -658,7 +695,6 @@ ididntdoit;Defensive line?
 ido;Swear words [used in One and the Same]
 ignition;Starter home?
 ignitions;Starter homes?
-illiteracy;"___ an obstable, study finds" (The Washington Post)
 imam;Profession of faith
 imams;Professions of faith
 imback;Return address?
@@ -724,14 +760,11 @@ japan;Go home?
 jerky;Animal preserves?
 jobs;Desktop icon?
 john;Something to go on?
-joint;"Marijuana issue sent to a ___ committee" (Toronto Star)
-jointcommittee;"Marijuana issue sent to a ___" (Toronto Star)
 judges;Hearing things?
 jumpstart;Get a charge out of?
 justdoingmyjob;Line of duty?
 kabob;Sticky Middle Eastern fare?
 kale;Leaves for a meal?
-karatekicked;"'Everyone makes mistakes' says teen who ___ 74-year-old man into River Mersey" (Manchester Evening News)
 karatetest;Board exam, maybe?
 karatetests;Board exams, maybe?
 keto;It really goes against the grain
@@ -758,7 +791,6 @@ languagebarrier;Term limit?
 languagebarriers;Alphabet blocks?
 languagebarriers;Term limits?
 lap;Blanket coverage?
-larger;"___ kangaroos leap farther, researchers find" (L.A. Times)
 larynx;Pipe organ?
 larynxes;Pipe organs?
 lase;Have some light work done?
@@ -778,7 +810,6 @@ liftwithyourlegs;Exercise caution?
 lincoln;A figure of speech?
 lipstick;A thing of beauty
 liquid;Like oil and water
-literacy;"Missippi's ___ program shows improvement" (Associated Press)
 litter;Refuse to pick up?
 livingroom;Hang in there
 longe;Meets in the middle?
@@ -813,7 +844,6 @@ makeupbrush;A thing of beauty
 makeupcase;A thing of beauty
 mallets;Bonkers
 manure;Flies home?
-marijuana;"___ issue sent to a joint committee" (Toronto Star)
 marijuana;Leaves for a smoke?
 marquee;Star board?
 mascara;A thing of beauty
@@ -831,11 +861,9 @@ midwives;Delivery people
 minister;Profession of faith
 ministers;Professions of faith
 mint;Penny press?
-miraclecure;"___ kills fifth patient" (Associated Press)
 misattribution;Bad credit?
 mobil;Gas giant?
 mom;Awkward thing to call your teacher
-money;"World Bank says poor need more ___" (A.P.)
 morgue;Stiff joint?
 morgues;Stiff joints?
 motherearth;Dirty girl?
@@ -856,7 +884,6 @@ mummified;Kept under wraps?
 mummifies;Keeps under wraps?
 mummify;Keep under wraps?
 mummy;Remains under wraps?
-murder;"Judge not convinced ___ victim is alive" (Baltimore Sun)
 musical;Acting in concert?
 musicals;Acting in concert?
 myeyesareuphere;Checkout counter?
@@ -924,11 +951,9 @@ oid;What makes a human like a human?
 okcupid;Where to play with matches?
 olive;Garden variety?
 one;Number line? [ignored in Doing Front Flips]
-onelegged;"___ escapee still on the run" (The Australian)
 ones;Number lines? [ignored in Doing Front Flips]
 onsafari;Where to watch the big game?
 onset;Where to see shooting stars?
-ontherun;"One-legged escapee still ___" (The Australian)
 oohaahpoint;Grand Canyon overlook and what to do there
 openit;Present day demand?
 oral;Mouthy?
@@ -946,13 +971,11 @@ outfielders;Ballpark figures?
 outofgas;No laughing matter?
 outsidethebox;Think so?
 overtimes;Draw conclusions?
-oxygen;"Breathing ___ linked to staying alive" (Mason County Press)
 oyez;Court order?
 oyez;Order in the court?
 oyez;Supreme Court term
 pablopicasso;On the moon landing: "It means nothing to me. I have no opinion about it, and I don't care."
 paceyourself;Exercise caution?
-package;"Republicans turned off by size of Obama's ___" (viral 2009 headline)
 packyourstuff;Firing line?
 packyourthings;Firing line?
 paleo;Diet that goes against the grain?
@@ -967,7 +990,6 @@ parole;Incomplete sentence?
 paroles;Incomplete sentences?
 partiers;Punch line, say?
 partygoers;Punch line, say?
-passing;"___ wind strands BC Ferry passengers" (Vancouver Sun)
 pencap;Writer's block?
 petname;Love handle?
 petnames;Love handles?
@@ -1015,7 +1037,6 @@ pocketveto;Presidential term?
 policechief;Copper head?
 pondscum;Dirty film
 pontiffs;See stars?
-poor;"World Bank says ___ need more money" (Associated Press)
 popes;See stars?
 porkbarrel;Congressional term?
 porkrind;Skinny food?
@@ -1055,7 +1076,6 @@ pyre;Where one might carry a torch for a lost love?
 qbs;Ones who make snap decisions, briefly?
 quads;Four of a kind, in poker lingo
 quaking;Past tense?
-qualityoflife;"Terminal illness strains ___" (Arizona Republic)
 quarterback;One who makes snap decisions?
 quarterbacks;Ones who makes snap decisions?
 quasimodo;Dead ringer?
@@ -1137,7 +1157,6 @@ schedules;Times tables?
 schwa;End of an era?
 scram;Order to go
 scratch;Mark on one's record?
-screw;"Textron Inc. makes offer to ___ company stockholders" (Miami Herald)
 scum;Dirty film?
 seance;Attempt to raise people's spirits?
 seances;Attempts to raise people's spirits?
@@ -1158,7 +1177,6 @@ services;Cross promotion
 services;Cross talk
 sew;Line one's pockets, perhaps?
 sewed;Lined one's pockets, perhaps?
-sewer;"City unsure why the ___ smells" (South Haven Herald-Palladium)
 sewing;Lining one's pockets, perhaps?
 sews;Lines one's pockets, perhaps?
 sexmarathon;Screw over big time?
@@ -1178,7 +1196,6 @@ shaved;Distressed?
 shaven;Distressed?
 shaving;Distressing?
 shell;Gas giant?
-shellshocked;"Tortoise theft leaves owner ___" (Whitechurch Herald)
 shelovesme;Picky verdict?
 shelovesmenot;Picky verdict?
 shiv;Pen knife? [ignoreed in Doing Front Flips]
@@ -1199,7 +1216,6 @@ shortstops;Ballpark figures?
 shortu;Stuck in the middle?
 shot;Take in a movie?
 shots;Takes in a movie?
-shoutingmatch;"___ ends teacher's hearing" (newspaper headline)
 shower;Get into hot water
 shower;What nuns do out of habit?
 showered;Got into hot water
@@ -1233,7 +1249,6 @@ sleepschedule;Retirement plan?
 slide;It's a slippery slope
 slinkytoss;Spring fling?
 slinkytosses;Spring flings?
-smells;"City unsure why the sewer ___" (South Haven Herald-Palladium)
 smut;Blue prints?
 snatching;Taking form?
 snip;Short cut
@@ -1262,7 +1277,6 @@ soupspoon;Stock holder?
 soupspoons;Stock holders?
 spacex;Starship enterprise
 spanish;It rolls off the tongue
-spicysausage;"French scientist owns up after star photo revealed to be ___" (ABC News)
 spies;They may bug you
 splitpersonalities;Likeminded individuals?
 splitpersonality;Likeminded individual?
@@ -1286,7 +1300,6 @@ standingovation;Theater props?
 starboard;Berth right?
 stash;Drug store?
 stashes;Drug stores?
-stayingalive;"Breathing oxygen linked to ___" (Mason County Press)
 steal;Mistake?
 steal;Take things, literally
 stealing;Mistaking?
@@ -1316,7 +1329,6 @@ stole;Mistook?
 stole;Took things, literally
 stolen;Mistaken?
 stoned;High definition
-stool;"Child's ___ great for use in garden" (Buffalo Courier-Express)
 stork;Delivery vehicle
 street;Kind of a drag
 streetmagician;Wander around town?
@@ -1390,7 +1402,6 @@ teenidol;Minor celebrity?
 teenidol;Minor in music?
 teenidols;Minor celebrities?
 teenidols;Minors in music?
-teenpregnancy;"Statistics show that ___ drops off significantly after age 25" (Denver Post)
 teeoff;Take a drive?
 teeoff;Take a long drive?
 teesoff;Takes a drive?
@@ -1443,7 +1454,6 @@ toolshed;Hammer home?
 top;Overdrive?
 toptheball;Drive over?
 toptheball;Overdrive?
-tortoise;"___ theft leaves owner shell-shocked" (Whitechurch Herald)
 totalitarian;Protest banner?
 totalitarians;Protest banners?
 tourbus;Band wagon?
@@ -1479,8 +1489,6 @@ vamoose;Order to go
 vanity;A thing of beauty
 vegetable;Garden variety?
 venus;Where one day is longer than one year
-violin;"Drunk gets three months in ___ case" (Headline)
-violincase;"Drunk gets three months in ___" (Headline)
 vocalcord;Pipe organ?
 vocalcords;Pipe organs?
 voltage;Potential difference
@@ -1490,7 +1498,6 @@ waiters;Table manners?
 waitresses;Table manners?
 waitrons;Table manners?
 waityourturn;Line rule
-walkout;"Limb centre hit by ___" (Cumberland News)
 wallcalendar;51;Its days are numbered
 wallcalendars;51;Their days are numbered
 wasitgoodforyou;Finish line?
@@ -1499,8 +1506,6 @@ watches;They're strapped for time
 watchyourform;Exercise caution?
 waterslide;It's a slippery slope
 waterslides;They're slippery slopes
-weapons;"Federal agents raid gun shop, find ___" (The World)
-weather;"Forecaster calls for ___ on Monday" (Pittsburg Post-Gazette)
 wedidit;Line of credit?
 wellbequiet;Zip line?
 wewillrockyou;Queen's decree?
@@ -1508,7 +1513,6 @@ wheel;Big cheese
 whiskered;Like cats and dogs
 whosnext;Line of succession?
 willyoubequiet;Zip line?
-wind;"Passing ___ strands BC Ferry passengers" (Vancouver Sun)
 wind;Air force?
 windstorm;Rough draft?
 windstorms;Rough drafts?
