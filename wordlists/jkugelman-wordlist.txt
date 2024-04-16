@@ -1003,6 +1003,7 @@ alarum;20
 alarums;20
 alastair;30;<Nobody super notable>
 alasuisse;30
+alaughaminute;60
 alb;20;Priestly robe
 albanberg;50;Twelve-tone composer of the Second Viennese School
 albans;20;Ancient Italians
@@ -3176,6 +3177,7 @@ balloonartists;50
 ballroomdancer;50
 ballroomdancers;50
 ballroomdancing;50
+ballsinyourcourt;60
 ballyhoo;60
 balt;30;Latvian, e.g.
 baltimorerave;1
@@ -6399,6 +6401,7 @@ chigoes;20
 chihuahuamexico;50
 childactor;50
 childactors;50
+childlikewonder;60
 childrensmuseum;50
 childstar;50
 childstars;50
@@ -7534,6 +7537,7 @@ costumeparty;50
 costumeshop;50
 costumeshops;50
 cotan;40
+cotcaughtmerger;50
 cote;40
 cotes;40;Pigeon coops
 cotija;40;Mexican cheese
@@ -14915,6 +14919,7 @@ greprepbook;50
 gretna;30;___ Green, Scottish wedding destination
 grewdim;30
 grewinto;40
+grewoldtogether;60
 grewon;40
 grewrich;20
 greyeagle;50;???
@@ -14985,12 +14990,14 @@ grouptext;50
 growdim;30;Green paint
 growingdim;30
 growinginto;40
+growingoldtogether;60
 growingon;40
 growinto;40
 growlat;40
 growledat;40
 growlingat;40
 growlsat;40
+growoldtogether;60
 growon;40
 growsdim;30
 growsinto;40
@@ -15448,6 +15455,8 @@ hardsell;50
 hardsells;50
 hardsix;50
 hardten;50
+hardtobeat;60
+hardtocomeby;60
 hardtotake;50
 hardway;50
 hardyboys;50
@@ -15579,6 +15588,7 @@ haveatit;60
 haveayenfor;40
 havedibson;50
 haveeyesfor;40
+havefunwiththat;60
 haveheart;50
 haveitbad;50
 haveitbothways;50
@@ -16922,6 +16932,7 @@ iding;40
 idiotlight;50
 idiotlights;50
 idk;40
+idknow;60
 idleaway;30
 idledaway;30
 idlehands;60
@@ -17219,6 +17230,8 @@ imdb;40
 imdeadmeat;60
 imdone;50
 imdying;60
+imdyinghere;60
+imdyinhere;60
 imeanit;60
 imeanto;50
 imeantwhatisaid;60
@@ -17849,6 +17862,7 @@ invitrofertilizations;40
 involucral;30
 involucrate;30
 involucre;30;Plant part
+inwalkingdistance;50
 inweave;30
 inweaves;30
 inweaving;30
@@ -18280,6 +18294,7 @@ itsnewstome;60
 itsnotatoy;60
 itsnotmuchtolookat;60
 itsnotmydepartment;60
+itsnotmyfinestwork;60;Legit?
 itsnotright;60
 itsnouse;60
 itsodd;60
@@ -19691,6 +19706,7 @@ lauders;30
 laudes;20
 lauer;5
 lauers;5
+laughaminute;60
 laughat;40
 laughedat;40
 laughingat;40
@@ -20419,6 +20435,8 @@ lipsynced;60
 lipsyncing;60
 lipsyncs;60
 liquescent;40
+liquidcooled;50
+liquidcooling;50
 liquorbottle;50
 liquorbottles;50
 lira;50
@@ -21817,6 +21835,7 @@ maxplayers;20
 maxvonsydow;50
 maxx;30
 mayanruins;50
+maybedont;60
 maybeso;50
 mayella;30;"To Kill a Mockingbird" central character
 mayflies;30
@@ -24402,6 +24421,7 @@ notlongforthisworld;60
 notlookingsohot;60
 notmuchtolookat;60
 notmydepartment;60
+notmyfinestwork;60
 notmyproblem;60
 notnear;1
 notneed;1
@@ -25287,6 +25307,8 @@ onefin;20
 onefingersalute;60
 onefishtwofishredfishbluefish;60;Dr. Seuss book
 onefold;20
+oneforthebooks;60
+onefortheroad;60
 onefranc;30
 oneg;40
 onegallon;30
@@ -25994,6 +26016,7 @@ ousted;50
 ouster;50
 ousting;50
 ousts;50
+outandproud;60
 outate;40
 outboard;50
 outboardmotor;50
@@ -30499,6 +30522,8 @@ retrenchment;30
 retrenchments;30
 retrievals;50
 retrocool;60
+retrofuturism;60
+retrofuturist;60
 retrofuturistic;60
 retrorse;20
 retsina;30;Greek wine
@@ -33096,6 +33121,7 @@ shoaling;40;???
 shockcollar;50
 shockjock;60
 shockjocks;60
+shockrock;60
 shoegaze;60
 shoehorn;50
 shoehorned;50
@@ -34517,6 +34543,8 @@ sospad;40
 sospads;40
 sosweet;50
 sot;5
+sotellme;60
+sothathappened;60
 sothatsit;50
 sothatsitthen;60
 sothere;60;"Take that!"
@@ -37362,6 +37390,7 @@ thanx;20
 tharp;30;Choreographer Twyla
 that;50
 thataintso;50
+thatdoesntcount;60
 thatdogdonthunt;60
 thatdogwonthunt;60
 thatgood;60
@@ -37979,6 +38008,7 @@ thisllbetheendofme;60
 thisroundisonme;60
 thissentme;60
 thisthingofours;60
+thneedville;60
 tho;40
 thom;50
 thomasedison;60
@@ -40802,9 +40832,21 @@ wavywall;60
 wawa;30
 wawapedal;30
 wawapedals;30
+waxedphilosophical;60
+waxedpoetic;60
+waxedromantic;60
+waxesphilosophical;60
+waxespoetic;60
+waxesromantic;60
 waxfigure;50
 waxfigures;50
+waxingphilosophical;60
+waxingpoetic;60
+waxingromantic;60
 waxjob;60
+waxphilosophical;60
+waxpoetic;60
+waxromantic;60
 waycool;60
 wayfarer;50
 wayfarers;50
@@ -40992,6 +41034,7 @@ wellexcusemeprincess;60
 wellexcuuuuseme;60
 wellfixitinpost;60
 wellfudge;60
+wellidknow;60
 wellimsold;60
 wellimwaiting;60
 wellitsnotmuchtolookat;60
@@ -41446,6 +41489,7 @@ winevat;50
 winevats;50
 winevault;50
 winevaults;50
+winewhinemerger;50
 wing;50
 wingcollar;30
 wingedhorse;50
@@ -42078,6 +42122,7 @@ yougottabejoking;60
 yougottabekiddingme;60
 youguysgiveuporareyouthirstyformore;60
 youhadonejob;60
+youhavefunwiththat;60
 youheardme;60
 youhearme;60
 youidiot;60
@@ -42098,6 +42143,7 @@ younglions;50;???
 youoweme;60
 youpick;50;"I can't decide..."
 yourargumentisinvalid;60
+yourball;60
 youreadmymind;60
 youreameanonemrgrinch;60
 youreaskingforit;60
@@ -42124,6 +42170,7 @@ youreonmute;60
 youreoutofline;60
 youreoutoforder;60
 youreoutofyourgourd;60
+yourestillhere;60
 youretellingmethisnow;60
 youreup;60
 yourgrace;50
