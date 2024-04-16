@@ -389,7 +389,7 @@ actaeon;30;Greek hero
 actas;40
 actbig;40
 actcasual;60
-acte;30
+acte;40
 actedas;40
 actedfor;40
 actedin;40
@@ -2414,7 +2414,7 @@ asonia;20;Tone-deafness, controversial 3/19/23 entry
 asosan;20
 asp;50
 asparagine;30;Nonessential amino acid
-asper;30
+asper;40;As per
 aspera;40
 asperities;30
 asperse;40
@@ -4599,6 +4599,10 @@ boracic;40
 borah;20;Idaho mountain
 borate;30;Flame retardant
 borates;30;Flame retardants
+borderedon;40
+borderingon;40
+borderon;40
+borderson;40
 bordertown;50
 bordertowns;50
 borderwar;50
@@ -7655,7 +7659,7 @@ cozening;30
 cozens;30
 cpa;40
 cpas;40
-cpl;20
+cpl;40
 cplus;40
 cpr;40
 cprtrainer;50
@@ -11069,8 +11073,8 @@ enarboring;30
 enarbors;30
 enarriere;20
 enatural;40
-enbanc;30
-enbloc;30
+enbanc;40
+enbloc;40
 enbrel;20
 enbrosse;30;???
 encanto;50
@@ -11393,9 +11397,10 @@ epodes;30;Poetic forms
 epomy;1
 epopee;20;Epic poem
 epopees;20;Epic poems
-epping;30;Epping Forest
+epping;40;Epping Forest
 eprint;30
 eps;40
+epsons;40
 eqs;40
 equatedto;40
 equatesto;40
@@ -13033,6 +13038,7 @@ forallintentsandpurposes;50
 foraloss;40
 foramen;20;Body opening
 foramina;20;Body openings
+forborne;40
 forcequit;50
 forcequits;50
 fordbronco;50
@@ -14615,6 +14621,14 @@ gorgingon;40
 gorillaz;60
 goriot;30;Balzac novel Le Père Goriot
 gorki;40
+gormand;20;Gourmand: Var.
+gormandize;40;More popular than gourmandize, per ngram
+gormandized;40
+gormandizer;40
+gormandizers;40
+gormandizes;40
+gormandizing;40
+gormands;20
 gorme;40;Singer Eydie Gormé
 gorogue;50
 gosee;30
@@ -14704,6 +14718,8 @@ gotupthecourage;50
 gotusedtoit;50
 gotwiththetimes;60
 gounod;30;Film composer
+gourami;40;Aquarium fish
+gouramis;40
 gov;40
 govan;50;Guthrie Govan
 governingboards;50
@@ -19177,6 +19193,7 @@ koa;40
 koalabear;50
 koalabears;50
 kobebeef;60
+kobra;40;???
 kod;40
 koed;40
 kofiannan;50
@@ -19234,6 +19251,7 @@ koshermeals;50
 koss;30;Headphones company
 koto;30;Japanese national instrument
 kotos;30;Japanese national instruments
+kotto;40;Yaphet Kotto
 koy;20
 koyaanisqatsi;60
 kpgevent;40;Extinction event that killed the dinosaurs
@@ -20343,6 +20361,7 @@ lineonespockets;60
 linesonespockets;60
 linethree;40
 linetwo;40
+ling;40
 lingeredon;40
 lingeringon;40
 lingeron;40
@@ -20580,10 +20599,10 @@ lofi;50
 lofter;30
 logcabin;50
 logcabins;50
-loge;30;Theater box
-loges;30;Tgeater boxes
-logeseat;30
-logeseats;30
+loge;40;Theater box
+loges;40;Tgeater boxes
+logeseat;40
+logeseats;40
 loggedinto;40
 loggedonto;40
 loggedout;50
@@ -22462,6 +22481,7 @@ miraclemax;50
 mireddown;40
 mirier;30
 miriest;30
+mirin;40
 mirrorofthemind;60
 mirroruniverses;60
 miry;30
@@ -22690,6 +22710,7 @@ molepups;50
 moleskin;50;Cotton fabric not actually made from moles
 molester;5
 molesters;5
+molieres;40
 molinari;20;90s house rep
 molitor;30;Baseball hall of famer Paul Molitor
 mollies;20
@@ -22762,6 +22783,7 @@ monstrance;20;Catholic bread vessel
 montag;40;Guy ___, main character of Fahrenheit 451
 montand;30;Actor Yves Montand, "one of France's greatest 20th-century artists" per Wikipedia
 montane;30;Growing in elevated regions
+monteros;40
 montes;20
 montez;20;1800s dancer Lola
 montezuma;50
@@ -24428,12 +24450,14 @@ novate;30;Replace with a new contract
 novato;20;California city
 novemberrain;60
 novena;40;Christian devotional
+novgorod;40
 novisad;20;Serbian city
 novo;40
 novocain;20
 novocaine;50
 novs;20
 noway;60
+nowheres;40
 nowifeelsilly;60
 nowise;30
 nowkiss;60
@@ -25786,6 +25810,7 @@ orless;40
 orlo;20
 orlon;30;Acrylic fiber
 orlons;20
+orman;40
 ormandy;40
 ormolu;30;Fake gold coating
 ormolus;30
@@ -26321,6 +26346,7 @@ pandaporn;60
 pandareserve;50
 pandareserves;50
 pandarus;20;Trojan War figure
+pandemia;20;Book about the COVID-19 pandemic
 pandemic;50
 panderedto;40
 panderingto;40
@@ -27425,6 +27451,7 @@ pisgah;30;Pisgah National Forest in North Carolina
 pismire;20;Ant, archaic
 pismires;20;Ants, archaic
 pismo;20
+piss;5
 piste;30;Ski trail
 pistillate;30
 pitapat;50
@@ -28414,7 +28441,7 @@ professor;50
 professors;50
 proforma;50
 proformas;30
-prog;40;Prog rock
+prog;50;Prog rock
 progamer;60
 progamers;60
 progolfer;50
@@ -29104,8 +29131,9 @@ rallyes;30
 ralphnader;50
 ralphs;30
 ralston;30;Some brand ???
+rama;40;Hindu god
 ramadans;40
-ramalamadingdong;50
+ramalamadingdong;60
 ramdass;30;Yoga guru
 rameau;40;Baroque composer Jean-Philippe Rameau
 ramekin;40;Souffle dish
@@ -29295,6 +29323,7 @@ rasslers;20
 rassles;40
 rasslin;40
 rassling;40
+rastaman;40
 rata;40;Pro ___
 ratafia;30;Liqueur
 ratbert;30
@@ -31069,6 +31098,7 @@ rooftoppools;50
 rooiboos;30;Type of tea
 rookiemistake;60
 rookiemistakes;60
+rookienumbers;60
 roomer;30
 roomers;30
 roomescape;50
@@ -31165,7 +31195,7 @@ rottinginjail;50
 rouble;30;Russian ruble
 roubles;30
 roue;40;Rake (man of pleasure)
-rouen;40;French city, capital of Normandy
+rouen;30;French city, capital of Normandy
 roues;40
 roughcut;50
 roughcuts;50
@@ -31424,8 +31454,8 @@ rustred;20
 rutalee;30
 rutles;30;Beatles parody band
 rv;40
-rver;50
-rvers;50
+rver;40
+rvers;40
 rvs;40
 ryans;30
 ryeflour;40
@@ -31472,6 +31502,7 @@ sacristies;30
 sacristy;40;Church room
 sacrosanct;50
 sacrum;30;Lower back bone
+sadats;30
 sadbeige;60
 sadbeigebaby;60
 sadd;40
@@ -31703,6 +31734,7 @@ sanddollar;50
 sanddollars;50
 sande;20;1930s jockey
 sandiegans;30
+sandimas;30;California city, doesn't seem notable?
 sandl;30
 sando;30;???
 sandos;30;???
@@ -33283,8 +33315,8 @@ signory;20;Territory or domain
 signsapact;50
 signsapetition;50
 signsonto;40
-silage;30
-silages;30
+silage;50
+silages;40
 silane;30;???
 silenta;30
 silentas;20
@@ -34235,6 +34267,7 @@ soextra;60
 sofa;50
 sofafort;60
 sofaforts;60
+sofree;20
 softa;30
 softball;50
 softboil;50
@@ -34369,6 +34402,7 @@ solvation;30
 solveacrossword;20
 soma;30
 somad;20
+somata;20
 somean;60
 somebodyfinallysaidit;60
 somethingofacharacter;60
@@ -35030,6 +35064,8 @@ stakesout;50
 stakingout;50
 stalebeer;50
 stalins;30
+stalker;40
+stalkers;40
 stalkier;40
 stalkiest;40
 stalledcar;50
@@ -35820,6 +35856,8 @@ stumpfiddle;50;Musical instrument
 stungun;50
 stunguns;50
 stunkat;40
+stunsail;40
+stunsails;40
 stuntbike;50
 stuntbikes;50
 stuntcar;50
@@ -36397,7 +36435,7 @@ tabour;20
 tabouret;20
 tabourets;20
 tac;40
-tach;30
+tach;40
 tacitus;20;Roman historian
 tacket;20
 tackets;20
@@ -37943,6 +37981,7 @@ thissentme;60
 thisthingofours;60
 tho;40
 thom;50
+thomasedison;60
 thora;40
 thoraces;30;Valid plural of thorax, but thoraxes is more common and looks better
 thoracic;40;Relating to the thorax
@@ -39519,6 +39558,8 @@ ubolts;40
 uburoi;40;Obscene "Macbeth" parody from 1896
 ucberkeley;50
 ucla;50
+uclan;20
+uclans;20
 ucmerced;50
 ucriverside;50
 ucsf;30
@@ -41996,6 +42037,7 @@ yogsothoth;60;From Lovecraft
 yoho;40;Start of a pirate's cry
 yoicks;30;Cry of encouragement to foxhounds
 yokozuna;60
+yokuts;30;California tribe
 yomama;60
 yomamma;50
 yonkersny;30
