@@ -8385,11 +8385,16 @@ dataminer;50
 dataminers;50
 datamines;50
 datamining;50
+datapacket;50
+datapackets;50
 datapoint;50
 datapoints;50
 dataries;20;Church offices
 datary;20;Church office
 datascientist;50
+datascraper;50
+datascrapers;50
+datascraping;50
 datebread;50
 datedesignation;1
 datedup;50
@@ -40907,6 +40912,9 @@ weblink;30
 weblog;30
 weblogs;30
 webring;30
+webscraper;50
+webscrapers;50
+webscraping;50
 webserver;50
 webservers;50
 webtroll;50
