@@ -16976,10 +16976,12 @@ idontfeelsogood;60
 idontgetit;60
 idontgiveadamn;60
 idontgiveaflip;60
+idonthaveallday;60
 idonthaveto;60
 idontknow;50
 idontknowcanyou;60
 idontliketobrag;60
+idontliketobragbut;60
 idontlikeyourtone;60
 idontmind;50
 idontmindabit;60
@@ -17058,6 +17060,8 @@ ihatewar;50;FDR speech
 ihavealove;50;???
 ihavejustthething;60
 ihavenoidea;60
+ihaventgotallday;60
+ihaventthefoggiest;60
 ihaveplacestobe;60
 ihaveto;60
 ihavetotakethat;60
@@ -30347,6 +30351,8 @@ resorcinol;30
 resortedto;40
 resorter;20
 resorters;20
+resortfee;50
+resortfees;50
 resortingto;40
 resortsto;40
 resortto;40
@@ -34668,6 +34674,8 @@ spareme;60
 sparemeyourlies;60
 sparer;30
 sparers;30
+sparesort;50
+sparesorts;50
 sparestherod;60
 sparetherod;60
 sparetime;50
