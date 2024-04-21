@@ -689,7 +689,7 @@ afceast;40
 afcwest;40
 afeared;30
 afewwords;50
-affine;50
+affine;40
 affirmer;30
 affirmers;30
 affluents;30
@@ -7339,6 +7339,7 @@ conjobs;60
 conjoint;30
 conjointly;30
 conn;40
+connate;30;Innate (philosophy), united (biology)
 connectedthedots;60
 connecter;20
 connecters;20
@@ -7552,6 +7553,7 @@ cosset;30;Pet lamb, or to pamper
 cosseted;40;Pampered
 cosseting;30;Pampering
 cossets;30
+costate;20;Possessing ribs
 costive;30
 costumeball;50
 costumeballs;50
@@ -13131,6 +13133,7 @@ formerlife;50
 formerlives;50
 formerpresident;50
 formers;30
+formic;40
 fornicate;50
 fornicated;50
 fornicates;50
@@ -19609,6 +19612,7 @@ lapidated;30
 lapidates;30
 lapidating;30
 lapis;40
+laporte;40;???
 lappedat;40
 lappingat;40
 lapsat;40
@@ -27228,6 +27232,7 @@ pewters;20;Can it be plural???
 pfchang;50
 pfeiffer;50
 pfennig;30;Old German penny
+pga;40
 pgachampionship;50
 pgachampionships;50
 pgatour;50
@@ -31440,9 +31445,9 @@ ruggeder;30
 ruggedest;30
 rugrats;60
 ruh;20
-ruinate;30
-ruinated;30
-ruinates;30
+ruinate;40
+ruinated;40
+ruinates;40
 ruleoflaw;50
 rulership;40
 ruleth;40
@@ -34812,6 +34817,8 @@ sparkier;40
 sparkiest;40
 sparkingjoy;60
 sparkjoy;60
+sparkplug;50
+sparkplugs;50
 sparksfly;60
 sparksjoy;60
 sparksnv;20
@@ -37420,6 +37427,7 @@ terminalservers;50
 terminator;60
 termly;20;Periodically, archaic
 tern;40;Seabird
+ternate;30;Arranged in threes, like clover leaves
 terne;20
 ternes;20
 terns;40;Seabirds
