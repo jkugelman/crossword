@@ -3107,6 +3107,7 @@ bagjob;60
 bagjobs;60
 baglunch;50
 bagnold;30;Playwright
+bahiagrass;40
 bahian;20
 bahn;40;German road
 bahs;30
@@ -7953,6 +7954,7 @@ crower;30
 crowers;30
 crowley;50;Aleister Crowley
 crowne;40;Crowne Plaza hotels
+crowngrass;40
 crownroyal;50
 crownvic;50
 crownvics;50
@@ -12840,6 +12842,7 @@ fleshpots;40
 fleur;40
 flewakite;50
 flewat;40
+flewfirstclass;50
 flewin;40
 flewopen;50
 flewthecoop;60
@@ -12858,6 +12861,7 @@ flics;20
 flied;40;Baseball meaning
 fliesakite;50
 fliesat;40
+fliesfirstclass;50
 fliesin;40
 fliesopen;50
 fliesthecoop;60
@@ -12969,6 +12973,7 @@ fluviruses;50
 fluxus;30;Neo-Dada art movement
 flyakite;50
 flyat;40
+flyfirstclass;50
 flyfish;50
 flyfisherman;50
 flyfishermen;50
@@ -12978,6 +12983,7 @@ flygirls;50
 flyin;40
 flyingakite;50
 flyingat;40
+flyingfirstclass;50
 flyingin;40
 flyingopen;50
 flyings;30
@@ -18309,6 +18315,7 @@ its;50
 itsabet;40
 itsabigif;60
 itsabird;60
+itsabitofastretch;60
 itsablur;60
 itsabovemypaygrade;60
 itsacademic;60
@@ -18331,6 +18338,7 @@ itsanhonor;60
 itsanogo;60
 itsanonstarter;60
 itsanyonesguess;60
+itsarealstretch;60
 itsashame;60
 itsasign;60
 itsastart;60
@@ -18382,12 +18390,14 @@ itsoundslikeayouproblem;60
 itsover;60
 itspecialist;50
 itspecialists;50
+itsquiteastretch;60
 itsselfexplanatory;60
 itssoeasyachildcandoit;60
 itssoeasyachildcoulddoit;60
 itssoeasyevenachildcandoit;60
 itssoeasyevenachildcoulddoit;60
 itssotrue;60
+itsstretchingit;60
 itsthelaw;60
 itstime;60
 itstimetomoveon;60
@@ -31709,6 +31719,7 @@ saidido;50
 saidmass;50
 saidno;40
 saidok;40
+saidpresto;20
 saidshh;20
 saidso;50
 saidto;40
@@ -32102,6 +32113,7 @@ sayinghi;50
 sayinghito;40
 sayingido;30
 sayingmass;50
+sayingpresto;20
 sayingto;40
 sayingyesto;40
 sayless;60;Slangy "I got it"
@@ -32110,9 +32122,11 @@ saynay;40
 saynotodrugs;60
 sayonara;50
 sayplease;60
+saypresto;20
 saysamen;40
 saysido;50
 saysmass;50
+sayspresto;20
 saysso;40
 saysto;40
 sayswho;60
@@ -33116,6 +33130,8 @@ shaolintemples;50
 shaolinwushu;50
 shapelier;50
 shapeliest;50
+shardofglass;50
+shardsofglass;50
 shareacab;50
 sharecrop;50
 sharedacab;50
@@ -33195,6 +33211,8 @@ sherifs;20
 sherlock;50
 sherlockjr;50
 sherlocks;50
+sherryglass;50
+sherryglasses;50
 sheshed;40;Mancave counterpart
 shesheds;40
 shesinrareform;60
@@ -33372,6 +33390,7 @@ showme;60
 showmewhatyougot;60
 showroom;50
 showrooms;50
+showsomeclass;60
 shreveportla;30
 shri;20;Sri variant
 shrimpcocktails;50
@@ -35926,6 +35945,7 @@ stressmark;50
 stressmarks;50
 stretchgoal;60
 stretchgoals;60
+stretchingit;60
 stretchmark;50
 stretchmarks;50
 strette;20
@@ -37549,14 +37569,17 @@ thatisalie;50
 thatissonotokay;60
 thatistosay;60
 thatsabigif;60
+thatsabitofastretch;60
 thatsabovemypaygrade;60
 thatsadickmove;60
 thatsafinehowdoyoudo;60
 thatsagiven;60
 thatsaid;60
 thatsanonstarter;60
+thatsarealstretch;60
 thatsaspicymeataball;60
 thatsaspicymeataballa;60
+thatsastretch;60
 thatsawholenotherstory;60
 thatsawholeotherstory;60
 thatsclassified;60
@@ -37578,7 +37601,9 @@ thatsocool;1
 thatsodd;60
 thatsonme;60
 thatsoundslikeayouproblem;60
+thatsquiteastretch;60
 thatssonotokay;60
+thatsstretchingit;60
 thatssurprising;50
 thatsthat;60
 thatsthething;60
