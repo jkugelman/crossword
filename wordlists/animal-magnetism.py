@@ -18,21 +18,23 @@ pairs = [
     # (1, (("ram", "FINSTAGRAM"), ("gar", "HUMBLE BRAG"))),
     # (2, (("ant", "ACCOUNTANT"), ("bat", "RUNNING TAB"))),
     # (2, (("ant", "RESTAURANT"), ("bat", "RUNNING TAB"))),
-    (2, (("ass", "MUSCLE MASS"), ("elk", "NOSE TACKLE"))),
     # (2, (("ass", "NIGHT CLASS"), ("ram", "BAD GRAMMAR"))),
+    (2, (("ape", "FIRE ESCAPE"), ("gnu", "LADDER RUNG"))),
     (2, (("ass", "GREEN GRASS"), ("elk", "PERIWINKLE"))),
-    (3, (("ape", "FIRE ESCAPE"), ("gnu", "LADDER RUNG"))),
-    # (3, (("ass", "MUSCLE MASS"), ("rat", "ACTION STAR"))),
-    # (3, (("ass", "NO LOOK PASS"), ("rat", "NBA ALL STAR"))),
-    (3, (("ass", "NO LOOK PASS"), ("rat", "SOCCER STAR"))),
-    (3, (("ass", "SPIRAL PASS"), ("gnu", "STEVE YOUNG"))),
-    (3, (("eel", "ABS OF STEEL"), ("rat", "ACTION STAR"))),
-    # (3, (("eel", "MAN OF STEEL"), ("rat", "ACTION STAR"))),
-    (3, (("owl", "NOODLE BOWL"), ("gnu", "EGG FOO YUNG"))),
-    (4, (("ant", "CONGREGANT"), ("dog", "HOUSE OF GOD"))),
-    (4, (("ant", "KOBE BRYANT"), ("rat", "NBA ALL STAR"))),
-    # (4, (("ass", "BIBLE CLASS"), ("dog", "HOUSE OF GOD"))),
-    (4, (("ass", "SUNDAY MASS"), ("dog", "HOUSE OF GOD"))),
+    (3, (("ass", "MUSCLE MASS"), ("elk", "NOSE TACKLE"))),
+    (3, (("eel", "COLOR WHEEL"), ("elk", "PERIWINKLE"))),
+    (3, (("eel", "SIZZLE REEL"), ("rat", "RISING STAR"))),
+    # (4, (("ass", "MUSCLE MASS"), ("rat", "ACTION STAR"))),
+    # (4, (("ass", "NO LOOK PASS"), ("rat", "NBA ALL STAR"))),
+    (4, (("ass", "NO LOOK PASS"), ("rat", "SOCCER STAR"))),
+    (4, (("ass", "SPIRAL PASS"), ("gnu", "STEVE YOUNG"))),
+    # (4, (("eel", "ABS OF STEEL"), ("rat", "ACTION STAR"))),
+    (4, (("eel", "MAN OF STEEL"), ("rat", "ACTION STAR"))),
+    (4, (("owl", "NOODLE BOWL"), ("gnu", "EGG FOO YUNG"))),
+    (5, (("ant", "CONGREGANT"), ("dog", "HOUSE OF GOD"))),
+    (5, (("ant", "KOBE BRYANT"), ("rat", "NBA ALL STAR"))),
+    # (5, (("ass", "BIBLE CLASS"), ("dog", "HOUSE OF GOD"))),
+    (5, (("ass", "SUNDAY MASS"), ("dog", "HOUSE OF GOD"))),
 ]
 
 # Function to find all valid sets of four pairs with eight unique animal names
@@ -57,7 +59,7 @@ def find_valid_sets(pairs):
         # Check if the combination has 8 unique animal names
         if len(animal_names) == 8:
             # Calculate the total score for the set
-            total_score = sum([x[0]**2 for x in combo])
+            total_score = (min(x[0] for x in combo), sum(x[0]**2 for x in combo))
             valid_sets.append((total_score, combo))
 
     # Sort valid sets by their total score in descending order
