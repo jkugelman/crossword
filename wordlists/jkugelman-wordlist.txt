@@ -232,8 +232,8 @@ abutsupon;30
 abuttal;30
 abuttals;30
 abuttedon;30
-abutter;30
-abutters;30
+abutter;20
+abutters;20
 abuttingon;30
 abworkout;50
 abworkouts;50
@@ -1122,6 +1122,7 @@ alister;50
 alisters;50
 alit;40
 alita;30
+alitalia;40;Defunct Italian airline
 aliteralwhoswho;60
 alittle;40
 alittlehelp;60
@@ -1191,6 +1192,10 @@ allthatandabagofchips;60
 alltooeasy;60
 alltooreal;60
 alltoowell;60
+alludedto;40
+alludesto;40
+alludeto;40
+alludingto;40
 allurement;40
 allyou;60
 almaata;20
@@ -1276,6 +1281,7 @@ althorns;20;Horns
 alti;30;Altos
 altimas;40;Some Nissans
 altkey;30
+altoaria;40
 altoclefs;40
 altoflute;50
 altoflutes;50
@@ -1600,8 +1606,10 @@ angoragoat;50
 angryfruitsalad;60;UI with too many colors
 angrygod;60
 angryinch;50;"Hedwig and the Angry Inch"
-angryletter;60
-angryletters;60
+angryletter;50
+angryletters;50
+angrymob;50
+angrymobs;50
 angst;50
 angstier;50
 angstiest;50
@@ -1878,15 +1886,22 @@ apotropaic;30;Protective magic
 appa;20;Dad: Kor.
 appal;20;Variant spelling
 appanage;20;Gift of land, archaic
+appealedto;40
 appealedtoonesbaserinstincts;60
+appealingto;40
 appealingtoonesbaserinstincts;60
+appealsto;40
 appealstoonesbaserinstincts;60
+appealto;40
 appealtoonesbaserinstincts;60
 appearedin;40
+appearedon;40
 appearin;40
 appearingin;40
-appearon;30
+appearingon;40
+appearon;40
 appearsin;40
+appearson;40
 appii;20
 applauder;30
 applauders;30
@@ -2267,6 +2282,7 @@ artcurator;50
 artcurators;50
 artdeco;50
 arte;40
+artemisia;20;Plant genus
 artemus;20;1800s humorist
 arteriole;30;Capillary
 arterioles;30;Capillaries
@@ -2559,6 +2575,7 @@ aswe;20
 asyla;30
 asyndeton;40;Literary device
 asyoudo;50
+asyousaid;60
 at;50
 atacama;40;Chilean desert
 atacost;40
@@ -2627,11 +2644,12 @@ athomes;20
 athread;20;Twitter convention for indicating a thread
 athwart;40;Contrary to, or across
 atidein;1;???
-atilt;30
+atilt;40
 atimetodie;50;Movie
 atimetoremember;50
 atiptoe;20
 atis;20
+atishoo;20;British "achoo!"
 atisket;40
 atit;50
 atitagain;50
@@ -3787,6 +3805,10 @@ beggedfor;40
 beggingfor;40
 beginandsadat;1
 begladto;50
+begrime;40
+begrimed;40
+begrimes;40
+begriming;40
 begsfor;40
 beguine;30;Rhumba-like dance
 beguines;30
@@ -6449,6 +6471,7 @@ chinfest;60
 chinfests;60
 chinkapin;40;Type of oak tree
 chinless;50
+chinmusic;60
 chinquapin;40;Type of oak tree
 chios;30;???
 chippier;50
@@ -6466,6 +6489,7 @@ chis;40
 chisinau;30
 chiton;20;Ancient Greek tunic
 chiwere;30;Siouxan language
+chlorosis;40;Lack of chlorophyll
 chmelar;50
 chocaholic;20
 chocaholics;20
@@ -8942,6 +8966,7 @@ descistere;20
 describer;30
 describers;30
 deseret;20;Mormon state proposed in 1849
+desertsun;50
 desiarnazjr;50
 desica;30;Director of "The Bicycle Thief"
 designatedproxy;50
@@ -10888,6 +10913,7 @@ elderthing;60;From Lovecraft
 elderthings;60;From Lovecraft
 elderwand;50;Harry Potter object
 eldestson;50
+eldiario;40
 eldorado;50
 eldrich;20;Archaic form of eldritch
 elea;40
@@ -11753,8 +11779,8 @@ ethoses;40
 etic;20
 etienne;30
 etihad;30;UAE airline
-etile;30;Scrabble 1-pointer
-etiles;30
+etile;20;Scrabble 1-pointer
+etiles;20
 etiolate;30;Deprive of light, as a plant
 etiolated;30;Deprived of light, as a plant
 etiolates;30;Deprive of light, as a plant
@@ -12822,6 +12848,8 @@ flattire;50
 flattires;50
 flaunty;30
 flav;30;Flavor Flav, how to clue it??
+flayer;40
+flayers;40
 fleabaghotel;60
 fleabaghotels;60
 fleabagmotel;60
@@ -13094,6 +13122,8 @@ footpedals;50
 footscrub;50
 footscrubs;50
 footsie;60
+footslogger;40
+footsloggers;40
 for;50
 forallintentsandpurposes;50
 foraloss;40
@@ -14213,6 +14243,8 @@ glancesat;40
 glancingat;40
 glareat;40
 glaredat;40
+glarer;40
+glarers;40
 glaresat;40
 glaringat;40
 glasschin;60
@@ -14791,6 +14823,8 @@ gotwiththetimes;60
 gounod;30;Film composer
 gourami;40;Aquarium fish
 gouramis;40
+gourmetdinner;30;Green paint?
+gourmetdinners;30;Green paint?
 gov;40
 govan;50;Guthrie Govan
 governingboards;50
@@ -17340,6 +17374,7 @@ imjustsayingwhatwereallthinking;60
 imjustsayingwhatweveallbeenthinking;60
 imlost;60
 imma;30
+immanence;40
 imme;1
 immean;50;Bluto's song
 immersedin;40
@@ -17820,6 +17855,8 @@ instantsoup;50
 instanttan;50
 instanttans;50
 instar;20
+instil;20;Instill: Br.
+instir;40;In prison
 instrumentpanel;50
 insult;50
 insultcomic;60
@@ -17888,6 +17925,7 @@ inthehouse;50
 inthehunt;60
 inthelurch;60
 inthepenaltybox;50
+inthetank;60
 inthewash;50
 inthing;60
 intifada;30;Palestinian resistance movement
@@ -18530,6 +18568,7 @@ jalen;40;Various athletes
 jama;30;Journal of the A.M.A.
 jamesbrown;50
 jamescameron;50
+jamesdoohan;50
 jamesensor;50
 jameshetfield;60
 jamesi;30
@@ -24433,6 +24472,7 @@ nosebleedseats;60
 nosebleedsection;60
 nosebleedsections;60
 nosebone;20
+nosecandy;60
 nosedabout;50
 noseeum;30;Gnat
 noseeums;30
@@ -24474,7 +24514,7 @@ notahappycamper;60
 notakers;60
 notalie;30
 notallheroeswearcapes;60
-notamused;50
+notamused;60
 notany;30
 notapeep;60
 notaprob;60
@@ -25190,6 +25230,8 @@ oldfogy;30
 oldform;20
 oldgeezer;50
 oldgeezers;50
+oldhabit;50
+oldhabits;50
 oldhat;60;Last year
 oldheaveho;60
 oldkingcole;60
@@ -27554,6 +27596,7 @@ pinnumber;50
 pinoak;40
 pinochle;50
 pinole;20;Ground corn
+pinones;40;Puerto Rican coastal area
 pinotnoir;50
 pinsamedalon;50
 pion;40;Subatomic particle
@@ -27683,6 +27726,7 @@ plaining;20;Complaining, archaic
 plainold;50
 plaintosee;60
 plainviewnebraska;30;???
+planaria;20
 planarian;20;Flatworm
 planck;50
 planckconstant;60
@@ -31752,7 +31796,7 @@ sakeset;40
 sakesets;40
 saki;30;H. H. Munro's pen name
 salability;30
-salable;30
+salable;40;Sellable
 salacia;30;Roman female divinity of the sea
 salacity;30;???
 salada;30
@@ -32157,6 +32201,8 @@ scaredof;40
 scaredstiff;60
 scaredstraight;60
 scaredup;60
+scarer;50
+scarers;50
 scaresup;60
 scareup;60
 scarey;20;Variant spelling
@@ -33550,6 +33596,7 @@ silicas;30
 silicic;30;Rich in silica
 siliconwafer;50
 siliconwafers;50
+silicosis;40;Miners' affliction from breathing in silica
 silkascot;50
 silkascots;50
 silkboxers;50
@@ -33854,6 +33901,8 @@ skirtchasers;30
 skirter;30
 skirters;30
 skirts;50
+skiseason;50
+skiseasons;50
 skislope;50
 skislopes;50
 skitow;50;Rope-drawn ski lift
@@ -36462,6 +36511,7 @@ sweatsbullets;60
 sweeneytodd;50
 sweetandsourmix;50
 sweetanise;50
+sweetchinmusic;60
 sweetgig;50
 sweetiepie;60
 sweetnlow;50
@@ -39706,9 +39756,11 @@ twotimers;60
 twotiming;60
 twoxtwo;20
 twoyear;40
+twoyears;40
 twp;20;Township
 twps;20;Townships
 txt;40
+txtspk;20
 txttalk;20
 tyco;30
 tyd;20
@@ -39835,12 +39887,12 @@ ultraist;40
 ultraists;40
 ultrarich;60
 ulu;20
-ululate;40
-ululated;40
-ululates;40
-ululating;40
-ululation;40
-ululations;40
+ululate;50
+ululated;50
+ululates;50
+ululating;50
+ululation;50
+ululations;50
 umbel;20;Flower cluster
 umbels;20;Flower clusters
 umbilici;40
@@ -40050,6 +40102,7 @@ unroots;40
 unrra;20
 unrulier;30
 unsafer;30
+unsalable;40;Unsellable
 unsay;30
 unsays;30
 unsched;30;???
@@ -40298,16 +40351,16 @@ ussenate;40
 ussenator;40
 ussenators;40
 ussenterprise;50
-ussgeraldrford;30
-ussharrystruman;30
-ussindianapolis;30
-ussiowa;30
-ussmadison;30
-ussmaine;30
-ussmissouri;30
-ussnautilus;30
-ussnevada;30
-ussnimitz;30
+ussgeraldrford;40
+ussharrystruman;40
+ussindianapolis;40
+ussiowa;40
+ussmadison;40
+ussmaine;40
+ussmissouri;40
+ussnautilus;40
+ussnevada;40
+ussnimitz;40
 ussoldiers;30
 usspacecamp;30
 usspacecorps;30
@@ -40477,6 +40530,7 @@ veganbacon;50
 vegancheese;50
 vegandiet;50
 vegandiets;50
+veganmayo;50
 vegasstrip;50
 vegetable;50
 vegetableskewer;50
@@ -41471,6 +41525,7 @@ whitezinfandels;50
 whitezins;50
 who;50
 whoami;60
+whocansay;60
 whodiedandmadeyouking;60
 whodoeshethinkheis;60
 whodoesshethinksheis;60
@@ -42490,6 +42545,7 @@ zincite;30;Mineral
 zincoxide;50
 zinn;30;Historian/activist Howard Zinn
 zinnia;30;???
+zipadeedoodah;40
 zipcar;50
 zipcars;50
 zipcode;50
