@@ -1857,6 +1857,7 @@ aplatin;30
 aplit;30
 aplus;40
 apmacro;30
+apmusictheory;40
 apneal;40
 apneas;30
 apneic;40
@@ -4358,6 +4359,8 @@ blockbuster;60
 blockbusters;60
 blockdiagram;50
 blockdiagrams;50
+blockedshot;50
+blockedshots;50
 blogroll;50
 blogrolls;50
 blogswarm;50
@@ -4542,13 +4545,23 @@ bonaire;30;Island off Venezuela
 bondbroker;50
 bondbrokers;50
 bondo;30;Putty brand
+bonebreaking;50
 bonedensity;50
 bonedup;50
 bonegrubber;50
 bonegrubbers;50
+bonehead;60
+boneheaded;60
+boneheads;60
 bonelesschicken;50
+bonemarrowdonation;50
+bonemarrowdonations;50
+bonemarrowdonor;50
+bonemarrowdonors;50
+boneofcontention;60
 bonepicker;50
 bonepickers;50
+boneshaking;50
 bonesman;50;Member of the Skull and Bones society (many presidents)
 bonesmen;50;Members of the Skull and Bones society (many presidents)
 bonesup;50
@@ -4740,10 +4753,18 @@ bouncycastle;60
 bouncycastles;60
 bounden;20
 boundto;40
+boundvolumes;50
 bourree;40
 bourrees;40
 boutonniere;50
 bova;30;Sci-fi author Ben
+bowandarrow;50
+bowdlerization;60
+bowdlerizations;60
+bowdlerize;60
+bowdlerized;60
+bowdlerizes;60
+bowdlerizing;60
 bowdrill;30
 bowdrills;30
 bowedto;40
@@ -6690,6 +6711,8 @@ circuitdiagram;60
 circuitdiagrams;60
 circumlocution;60
 circumlocutions;60
+circusshot;50
+circusshots;50
 circusy;30
 ciroc;40;Vodka brand (popular and high quality)
 cirrhosis;30
@@ -6842,6 +6865,8 @@ closetalker;60
 closetalkers;60
 closetheloop;50
 closetorganizer;50
+closeupshot;50
+closeupshots;50
 closingceremonies;50
 closingceremony;50
 closingnumber;50
@@ -9137,6 +9162,7 @@ dicotyledon;20
 dicotyledonous;20
 dicotyledons;20
 dict;30
+didabackflip;50
 didadance;50
 didadryrun;50
 didaduet;20
@@ -9542,6 +9568,7 @@ dnieper;30;Ukrainian river
 dnipro;30;Ukrainian river
 do;50
 doa;40
+doabackflip;50
 doadance;50
 doadryrun;50
 doaduet;20
@@ -9586,6 +9613,7 @@ doeeyes;50
 doer;40
 doerr;40;Anthony Doerr, "Cloud Cuckoo Land" author
 doers;40
+doesabackflip;50
 doesadance;50
 doesadryrun;50
 doesaduet;20
@@ -9701,6 +9729,7 @@ dohs;30
 doidare;60
 doido;30;Stevie Wonder song
 doigotta;60
+doingabackflip;50
 doingadance;50
 doingadryrun;50
 doingaduet;20
@@ -9898,7 +9927,7 @@ dorrits;20
 dorsa;20
 dorseys;30
 dorsi;40;Latissimus dorsi
-dos;40
+dos;40;Number, or hairdos, or opposite of don'ts
 dosa;40;South Indian pancake
 dosas;40;South Indian pancakes
 dosay;20
@@ -12945,6 +12974,14 @@ flewopen;50
 flewthecoop;60
 flewto;40
 flex;50
+flexcuff;50
+flexcuffed;50
+flexcuffing;50
+flexcuffs;50
+flexicuff;50
+flexicuffed;50
+flexicuffing;50
+flexicuffs;50
 flexile;30;Flexible
 flextime;50
 flibbertigibbet;60
@@ -17210,6 +17247,7 @@ ifimight;60
 ifimust;60
 ifiranthecircus;60;Dr. Seuss book
 ifiranthezoo;60;Dr. Seuss book
+ifitaintbrokedontfixit;60
 ifneedbe;60
 iforone;50
 ifrun;20
@@ -18727,6 +18765,7 @@ jayjg;1
 jaylen;40;Jaylen Brown of the Celtics
 jayson;40;Jayson Blair in a plagiarism scandal, or the NBA's Jayson Tatum
 jazzpiano;60
+jazztheory;50
 jdate;50;Jewish dating site
 jddegree;30
 jddegrees;30
@@ -22068,6 +22107,8 @@ maus;30
 mauser;30;German firearm
 mausolea;30
 mav;40
+maxcontract;50
+maxcontracts;50
 maxell;30;Japanese consumer electronics co.
 maxene;30
 maxfactor;50;Cosmetics line
@@ -22479,6 +22520,7 @@ metabolites;40
 metacomet;30
 metaldetector;50
 metaldetectors;50
+metalhandcuffs;50
 metallica;60
 metallicelement;40
 metallicelements;40
@@ -23469,6 +23511,7 @@ musicboxes;50
 musiccity;50
 musiccollection;50
 musicrow;50
+musictheory;50
 musictoonesears;60
 musicwith;1
 musk;50
@@ -24025,6 +24068,7 @@ neutrinos;50
 nev;40;Nevada
 nevadas;30
 neverbeenkissed;60
+neverchange;60
 nevergiveaninch;60
 nevermindthat;60
 nevermindwhatisaid;60
@@ -24363,6 +24407,8 @@ noarms;30
 nob;40;Head
 nobama;40
 nobet;40
+nobidcontract;50
+nobidcontracts;50
 nobite;30;Insect repellant???
 noblefir;50
 noblefirs;50
@@ -24615,6 +24661,7 @@ noseyparker;60
 noseyparkers;60
 nosher;40
 noshers;40
+noshot;50
 noside;30;End of a rugby match
 nosingabout;50
 nosir;50
@@ -27914,8 +27961,15 @@ plashes;20;Splashes, poetically
 plashy;20;Splashy, poetically
 plasm;30
 plasms;30
+plastichandcuffs;50
 plasticsurgeon;50
 plasticsurgeons;50
+plasticuff;50
+plasticuffed;50
+plasticuffing;50
+plasticuffs;50
+plasticutensil;50
+plasticutensils;50
 plateau;50
 platen;20;Glass surface of a copier/scanner
 platens;20
@@ -29201,6 +29255,7 @@ quailingat;40
 quailsat;40
 qualityoflife;50
 qualley;50;Actress Margaret Qualley
+quantumtheory;50
 quarte;40;Fencing position
 quarterback;60
 quarterbacks;60
@@ -31121,6 +31176,9 @@ ringabell;60
 ringbearer;50
 ringbearers;50
 ringding;50
+ringdings;50
+ringedseal;50
+ringedseals;50
 ringfor;40
 ringin;40
 ringingabell;60
@@ -31401,6 +31459,8 @@ romaine;50
 romanarmy;50
 romanbath;50
 romanbaths;50
+romancatapult;50
+romancatapults;50
 romancer;40
 romancers;40
 romancult;50
@@ -33558,14 +33618,23 @@ shortus;20
 shot;50
 shotat;40
 shotblanks;50
+shotblocker;50
+shotblockers;50
+shotclock;50
+shotclocks;50
 shotcraps;50
 shotglass;50
 shotglasses;50
 shothoops;50
+shotofespresso;50
+shotoftequila;50
+shotofwhiskey;50
 shotpool;50
 shots;50
 shotskeet;50
-shotsofespresso;30
+shotsofespresso;50
+shotsoftequila;50
+shotsofwhiskey;50
 shoulderbrace;50
 shoulderbraces;50
 shoutat;40
@@ -37900,6 +37969,7 @@ thebiglie;50;From Hitler
 thebigmo;50;Big Momentum
 thebigsleep;60
 thebillofrights;50
+thebingbangtheory;1
 thebit;40
 theblob;50
 thebluegrassstate;40
@@ -38256,6 +38326,7 @@ theshahofiran;30;???
 theshapeofmeandotherstuff;50;Dr. Seuss book
 theshining;60
 theshire;30
+theshootist;50
 theshowmustgoon;60
 thesiciliandefence;30;???
 thesiciliandefense;50
@@ -38269,6 +38340,7 @@ theslots;30
 thesmokies;50
 thesneetches;50;Dr. Seuss characters
 thesneetchesandotherstories;50;Dr. Seuss book
+thesocialcontract;40
 thesonics;30
 thesox;20
 thespanishsteps;20
@@ -38360,6 +38432,7 @@ thewestbank;40
 thewestwind;40
 thewhale;60
 thewhiskeyrebellion;40
+thewholeshootingmatch;60
 thewickerman;50
 thewisemen;30
 thexgames;40
@@ -40136,6 +40209,12 @@ unbanned;50
 unbanning;50
 unbans;50
 unbid;30
+unbox;50
+unboxed;50
+unboxes;50
+unboxing;50
+unboxingvideo;60
+unboxingvideos;60
 unc;40
 unchartedwaters;60
 uncial;20;4th-8th century script
@@ -41685,6 +41764,8 @@ whipin;40
 whippedin;40
 whippingin;40
 whipsin;40
+whirlwindromance;60
+whirlwindromances;60
 whiskeyrebellion;50
 whiskeystone;50
 whiskeystones;50
@@ -41730,6 +41811,7 @@ whoisthat;60
 whoisthis;60
 whoknew;60
 whoknowshowlong;60;Ages
+wholeshootingmatch;60
 wholestory;50
 wholovesya;60
 whoopdedo;60
@@ -42125,6 +42207,8 @@ workhusband;60
 workhusbands;60
 workingaroom;50
 workinglate;50
+workingtheories;50
+workingtheory;50
 workit;60
 worklate;50
 worksaroom;50
@@ -42638,6 +42722,7 @@ youthinkitsagame;60
 youthinkthisisagame;60
 youtotallyreadmymind;60
 youtry;50
+youvechanged;60
 youvegotitmade;60
 youvegottabejoking;60
 youvegottabekiddingme;60
@@ -42751,6 +42836,10 @@ zipcar;50
 zipcars;50
 zipcode;50
 zipcodes;50
+zipcuff;50
+zipcuffed;50
+zipcuffing;50
+zipcuffs;50
 zipfile;50
 zipfiles;50
 zipit;60
