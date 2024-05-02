@@ -339,7 +339,7 @@ acmebatmansoutfit;60;Acme invention
 acmebombballoonbasket;60;Acme invention
 acmecactuscostume;60;Acme invention
 acmechristmaspackagemachine;60;Acme invention
-acmecorporation;60
+acmecorporation;50
 acmedehydratedboulder;60;Acme invention
 acmedehydratedboulders;60;Acme invention
 acmedoityourselftornadokit;60;Acme invention
@@ -2195,6 +2195,8 @@ armyant;50
 armyants;50
 armybase;50
 armybases;50
+armyblanket;50
+armyblankets;50
 armybootcamp;50
 armycaptain;50
 armycaptains;50
@@ -5846,6 +5848,12 @@ cartrunk;50
 cartrunks;50
 cartsoff;50
 cartwheel;50
+carvedpumpkin;50
+carvedpumpkins;50
+carvingknife;50
+carvingknives;50
+carvingstation;50
+carvingstations;50
 caryatid;30;Greek female sculpture serving as a column
 caryatids;30;Greek female sculptures serving as columns
 casa;40
@@ -6781,8 +6789,8 @@ clawfootbathtubs;50
 claytablet;50
 claytablets;50
 cle;30
-cleancar;30
-cleancars;30
+cleancar;20
+cleancars;20
 cleanclothes;50
 cleanedhouse;60
 cleanhouse;60
@@ -11114,6 +11122,8 @@ emacs;20;Old Macintoshes
 emagazine;30
 emagazines;30
 emailattachment;50
+emailer;40
+emailers;40
 emailme;50
 emailsignatures;50
 emajor;40
@@ -13414,16 +13424,27 @@ freewaytoll;50
 freewaytolls;50
 freez;30;Tastee-Freez restaurant, practically defunct
 freindstotheend;1
+frenchbulldog;50
+frenchbulldogs;50
+frenchclub;50
+frenchclubs;50
 frenchcuisine;50
+frenchlick;50
+frenchlit;50
 frenchmaid;50
 frenchmaids;50
 frenchopen;50
 frenchopens;50
+frenchpoodle;50
+frenchpoodles;50
 frenchquarter;50
 frenchrevolution;50
 frenchriviera;50
 frenchroast;50
 frenchsilk;50
+frenchsudan;50
+frenchtwist;50
+frenchtwists;50
 frere;40
 freres;40
 freshbreeze;50;5 on the Beaufort wind force scale
@@ -14707,18 +14728,34 @@ goman;20
 gompers;30;Labor pioneer Samuel Gompers
 gondorff;40;Paul Newman's "The Sting" character Henry Gondorff
 gondwanan;50
-goneastray;50
+goneahead;40
+gonealong;40
+goneape;40
+goneastray;40
 goneat;30
-gonedark;50
+goneawol;40
+goneballistic;40
+gonedark;40
 gonefishin;50
 gonefishing;50
+gonefission;1
+goneflat;40
+gonein;40
 goneinaninstant;60
 goneinto;40
+goneloco;40
 goneoffkilter;50
 goneon;40
+goneout;40
+goneover;40
+goneovertheline;40
+gonepast;40
+gonepro;40
 gonerilandregan;1
 gonerogue;50
+gonesenile;50
 gonesoft;50
+gonewrong;40
 gongongongongon;1
 gonococci;5;Gonorrhea bacteria
 gonococcus;5
@@ -21409,6 +21446,10 @@ machere;40
 macherie;50;My dear, for a woman
 machineage;50
 machinelearning;60
+machinewash;50
+machinewashed;50
+machinewashes;50
+machinewashing;50
 machos;30;Bad plural
 machree;20
 machtwo;40
@@ -21532,7 +21573,19 @@ maglie;30;Sal Maglie, 1950s pitcher
 magmas;40;Bad plural???
 magnacarta;50
 magnesias;20
-magneticgun;60;Acme invention
+magneticdipole;50
+magneticdipoles;50
+magneticflux;50
+magneticgun;50;Acme invention
+magneticnorth;50
+magneticpole;50
+magneticpoles;50
+magneticstrip;50
+magneticstripe;50
+magneticstripes;50
+magneticstrips;50
+magnetictape;50
+magnetictapes;50
 magnumpi;60
 magnus;50
 magnuscarlsen;50
@@ -25140,7 +25193,7 @@ octopussy;60
 octroi;20
 ocularpatdown;60
 oculars;30
-oculi;30
+oculi;40
 oculist;40;Eye doctor
 oculists;40
 odalisque;30
@@ -25541,6 +25594,7 @@ onagers;20;Wild asses
 onahill;20
 onahop;30
 onajag;40
+onajuicecleanse;30
 onajury;30
 onakick;50
 onalark;50
@@ -29074,6 +29128,7 @@ pumpfakes;60
 pumpfaking;50
 pumpingiron;50
 pumpiron;50
+pumpkincarving;50
 pumpkinpatch;50
 pumpkinpatches;50
 pumpkinspice;50
@@ -30108,6 +30163,8 @@ recu;20;Received: Fr.
 recurringdreams;60
 recurvebow;50
 recurvebows;50
+recyclingcenter;50
+recyclingcenters;50
 redadair;40;Firefighter
 redale;40;Legit thing (amber ale)
 redales;40;Legit thing (amber ales)
