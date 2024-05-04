@@ -759,6 +759,8 @@ agegrade;50
 ageing;30;British spelling
 agelikefinewine;60
 agelikemilk;60
+agemate;40
+agemates;40
 agent;50
 agentry;30
 agents;50
@@ -1828,6 +1830,7 @@ apercu;40;Clever summation
 apercus;40;Clever summations
 aperient;30;Laxative
 aperies;30;Bad plural???
+aperol;40;Italian bitter apéritif
 apers;30
 aperson;30;Each
 apery;40
@@ -6589,6 +6592,9 @@ choo;40
 choochoo;60
 choochootrain;60
 chooseme;30
+choosesup;30
+chooseup;30
+choosingup;30
 chopchop;60
 chopdown;50
 chophouse;50
@@ -6614,6 +6620,7 @@ chortles;60
 chortling;60
 chorusline;50
 choruslines;50
+choseup;30
 chou;30;Chou En-lai
 chouenlai;50
 choy;40;Bok choy, La Choy soy sauce
@@ -6983,6 +6990,7 @@ coalscuttle;50
 coalscuttles;50
 coalyard;50
 coalyards;50
+coaming;30;Raised border on a boat to keep out water
 coatee;30;???
 coatees;30;???
 coati;40;South American raccoon
@@ -7875,6 +7883,7 @@ creditscore;50
 creditscores;50
 creditsto;40
 creditto;40
+creditwherecreditsdue;60
 cree;40
 creel;30;Wicker basket or cage
 creels;30;Wicker baskets or cages
@@ -9225,6 +9234,7 @@ diecasts;50
 dieharder;50
 diein;20
 dielorelei;50
+diesnon;30;Day when courts are off
 dieth;20
 dietorangesodas;20
 dietrc;40
@@ -11112,7 +11122,7 @@ elven;50
 elver;30;Baby eel
 elvers;30;Baby eels
 elvin;40;NBA great Elvin Hayes
-ely;40;Ron Ely who played Tarzan
+ely;30;Ron Ely who played Tarzan
 elya;20
 elytron;20;Beetle part
 elytrons;20;Beetle parts
@@ -11318,6 +11328,10 @@ enframe;30;???
 eng;40
 engadin;30;Swiss Alps region
 engadine;30;Swiss Alps region
+engagedin;40
+engagein;40
+engagesin;40
+engagingin;40
 engild;40
 engilding;40
 engilds;40
@@ -12459,6 +12473,7 @@ favela;30;Brazilian slum
 favelas;30;Brazilian slums
 fawn;50
 fawns;50
+fay;40;Elfin, or Fay Wray
 fbi;40
 fbiagent;60
 fbiagents;60
@@ -13737,7 +13752,7 @@ gannets;20;Seabirds
 ganon;40
 gantlet;20
 gantlets;20
-gao;40
+gao;30
 gaol;40
 gaols;40
 gapeat;40
@@ -13809,12 +13824,15 @@ gasolinepumps;50
 gasper;30
 gaspers;30
 gasrates;50
+gasser;40
+gassers;40
 gasspring;30
 gassprings;30
 gasstop;1
 gastap;30
 gastaps;30
 gastly;50;Pokeyman
+gastro;40
 gaswar;20
 gaswars;20
 gat;40
@@ -13900,6 +13918,7 @@ geartooth;50
 geartrain;50
 geartrains;50
 ged;40
+geddes;30;Various last name
 geds;40
 geechee;30;Georgia islander
 geegaw;20;Variant of gewgaw
@@ -13941,6 +13960,8 @@ genderbender;5;Some consider it offensive
 genderbenders;5
 genderbending;5
 genderbias;50
+genderdysphoria;50
+gendereuphoria;50
 genderrole;50
 genderroles;50
 genemap;50
@@ -14401,6 +14422,7 @@ gleaner;30
 gleaners;30
 gleek;20
 gleesome;30;Gleeful: Archaic
+glenne;40;Actress Glenne Headly
 glennhowerton;60
 gless;20;Actress Sharon, Cagney of "Cagney & Lacey"
 glia;40
@@ -15192,7 +15214,7 @@ greynomads;50
 greypoupon;50
 gridlock;50
 gridlocked;50
-griese;50;Dolphins quarterback during their undefeated season
+griese;40;Dolphins quarterback Bob Griese during their undefeated season
 griffith;50
 grillage;50
 grillages;40
@@ -15200,6 +15222,7 @@ grimalkin;20;Archaic term for cat
 grimoire;60
 grimoires;60
 grinat;40
+griner;40;WNBA All-Star Brittney Griner
 grinnedat;40
 grinner;40
 grinners;40
@@ -17851,6 +17874,7 @@ ineedaride;50
 ineedavolunteer;60
 ineedtogo;60
 inertgas;50
+inerts;20
 ines;30
 inesse;30;Actually existing
 ineurope;30
@@ -18171,6 +18195,8 @@ iodination;30
 iola;20
 iolani;40;Hawaiian palace or school
 iommi;50
+iomoth;40;Io moth
+iomoths;40
 ion;50
 ione;30;1980s actress Ione Skye
 ionia;30
@@ -19085,6 +19111,7 @@ k;1
 kaaba;30;Most sacred site in Islam
 kabala;20;Variant spelling of Kabbalah, Jewish mystical discipline
 kael;40;Pauline Kael
+kaelin;40;Kato Kaelin
 kafir;5
 kafirs;5
 kahuna;50
@@ -19172,6 +19199,7 @@ kebabskewer;50
 kebabskewers;50
 kedrova;30;"Zorba the Greek" Best Supporting Actress
 keelage;40;Ship toll
+keelson;30;Centerline of a ship
 keene;30;Nancy Drew author Carolyn
 keeners;20
 keeneyed;50
@@ -20383,6 +20411,7 @@ ler;20
 lerners;20
 leroidys;30;???
 leroisoleil;50
+leroys;30;Plural name
 les;50;Name or article
 lesage;30;Alain-René Lesage, French novelist in 1700s
 leshan;30;???
@@ -20855,6 +20884,7 @@ llano;40
 llanos;40
 llc;40
 llcs;40
+lleyton;40;???
 lmao;40
 lmfao;40
 lmn;20
@@ -21603,6 +21633,7 @@ maharanees;20
 mahatmas;40;Wise ones in India
 mahayanist;30;Type of Buddhist
 mahi;40
+mahres;20
 mai;40;___ tai
 maidenaunt;50
 maidenaunts;50
@@ -23336,6 +23367,7 @@ mou;20
 moucado;20;16th century fabric
 moue;20;Pouting expression
 moues;20
+moujik;20
 moulin;40
 mounded;30
 mounjaro;50;Weight loss drug
@@ -23751,6 +23783,8 @@ narked;20;British slang
 narking;20;British slang
 narrations;40
 nars;20;Cosmetics company
+narthex;30;Church antechamber
+narthexes;30
 narwal;20;Narwhal: Var.
 narwhal;60
 narwhalcalf;50
@@ -23875,6 +23909,8 @@ nbafans;40
 nbafinals;50
 nbahalloffamers;50
 nbalottery;50
+nbamvp;50
+nbamvps;50
 nbaref;50
 nbarefs;50
 nbaring;50
@@ -24384,6 +24420,7 @@ nintendogameboys;50
 nintendogames;50
 nintendowii;50
 nintendowiis;50
+ninthly;40
 niobe;30;Weeper of Greek myth
 niodeon;20
 nip;5
@@ -24612,6 +24649,9 @@ nonstopaction;50
 nonstopflight;50
 nonstopflights;50
 nonsuch;20;Variant of nonesuch
+nonuple;40
+nonuplet;40
+nonuplets;40
 noodge;30;Pest
 noodges;30
 noodlebar;60
@@ -24731,6 +24771,7 @@ nostain;20
 nostalgiagoggles;60
 noster;30
 nostomania;30;Homesickness
+nostra;40;Cosa nostra
 nostradamus;60
 nosweat;60
 nosyparker;60
@@ -25558,6 +25599,7 @@ omahas;30
 omakase;40;Japanese phrase, used when ordering food in restaurants, that means "I'll leave it up to you"
 oman;50;Where you'll find the Land of Frankincense
 omars;30
+omarsy;40;"Lupin" actor Omar Sy
 omasum;30;Third stomach of a ruminant
 omd;20
 omened;30;Only useful as a partial like ill-omened??? Not used post-Shortz
@@ -25773,6 +25815,7 @@ onepound;30
 onepunch;20
 oner;40;Long, uninterrupted take
 onera;20
+onerate;20
 onereel;40;Like short old movies
 onereeler;50
 onereelers;50
@@ -26697,6 +26740,7 @@ pajitnov;40;Alexey Pajitnov, creator of Tetris
 pak;40
 pala;20
 palade;20;1974 Nobelist
+palais;40
 palak;40;Indian dish
 palaround;50
 palaroundwith;50
@@ -26814,6 +26858,7 @@ panzertank;50
 panzertanks;50
 paoloveronese;20
 papabear;50
+papain;30;Papaya enzyme
 papajohn;50
 papalbull;50
 papalbulls;50
@@ -27015,6 +27060,7 @@ pastiche;50
 pastiches;50
 pastingin;40
 pastingon;40
+pastis;40;Anise-flavored spirit
 pastlife;50
 pastlives;50
 pastonesbedtime;60
@@ -27806,6 +27852,7 @@ pinera;30;Chilean president Sebastián Pinera
 pinero;40;Playwright Miguel Piñero
 piners;30
 pinesfor;40
+pineta;20
 piney;40
 pinier;30
 piniest;30
@@ -28493,6 +28540,7 @@ poshspice;60
 posing;50
 posingas;40
 posingfor;40
+posole;30;Mexican stew
 possecut;50;Rap format featuring verses from 4+ rappers
 possecuts;50
 possessory;30
@@ -28609,6 +28657,7 @@ powerwalkers;50
 powerwalking;50
 powerwalks;50
 pows;40
+pozole;30;Mexican stew
 ppe;40
 ppg;30;NBA stat [rare]
 ppp;20
@@ -28897,6 +28946,8 @@ progrock;60
 prohockey;50
 projecthailmary;50
 projectx;60;Fictional weapon in "Atlas Shrugged"
+projet;30;Draft of a proposed measure or treaty
+projets;30
 prolapsing;30;???
 prolate;30;Geometry word, or opioid
 prolifer;50
@@ -29316,6 +29367,8 @@ quantumtheory;50
 quarte;40;Fencing position
 quarterback;60
 quarterbacks;60
+quarto;40
+quartos;40
 quasimodo;50
 quasistate;50
 quasistates;50
@@ -30231,6 +30284,7 @@ redosed;20
 redoses;20
 redosier;30;Type of dogwood tree
 redosing;20
+redox;40;Oxidation-reduction reaction
 redpanda;50
 redpandacub;50
 redpandacubs;50
@@ -30494,6 +30548,10 @@ rem;50;REM sleep, or the band
 remagen;30;???
 remail;20
 remails;20
+remainat;40
+remainedat;40
+remainingat;40
+remainsat;40
 remash;20
 remashed;20
 remashes;20
@@ -31775,6 +31833,7 @@ ruers;20
 ruffianly;30
 ruggeder;30
 ruggedest;30
+rugose;30;Wrinkled, in biology
 rugrats;60
 ruh;20
 ruinate;40
@@ -32084,6 +32143,7 @@ salads;50
 saladspinner;50
 saladspinners;50
 salah;30;Muslim prayer
+salanio;40;"The Merchant of Venice" character
 salarycap;50
 salarycaps;50
 salat;30;Muslim prayer
@@ -32623,7 +32683,11 @@ scrabbletourneys;50
 scrag;30
 scrags;30
 scrambledeggssuper;60;Dr. Seuss book
+scrapedup;40
+scrapesup;40
+scrapeup;40
 scrapie;30;Sheep/goat prion disease
+scrapingup;40
 scrapiron;50
 scrat;40;"Ice Age" squirrel
 scratch;50
@@ -32766,6 +32830,7 @@ seamile;40;Nautical mile
 seamiles;40
 seamine;40
 seamines;40
+seaming;40
 seamonkey;50
 seamonkeys;50
 seamonster;50
@@ -33321,6 +33386,7 @@ severingties;50
 seversties;50
 severties;50
 sew;50
+sewanee;40;"University of the South"
 sewed;50
 sewedon;40
 sewellel;30;???
@@ -33462,8 +33528,8 @@ sharecrop;50
 sharedacab;50
 sharedin;40
 sharein;40
-sharer;30
-sharers;30
+sharer;40
+sharers;40
 sharesacab;50
 sharesin;40
 shari;40;Lamb Chop puppeteer Shari Lewis
@@ -33489,6 +33555,7 @@ shavetails;40
 shavian;30;Admirer of George Bernard Shaw
 shavians;30
 shawm;20;Oboe ancestor
+shawnee;40;Tribe
 shea;50
 sheave;40
 sheaved;30
@@ -33580,6 +33647,7 @@ shipp;30;Actress Alexandra Shipp of X-Men???
 shippingcontainer;50
 shippingcontainers;50
 shipsprow;50
+shirer;40;William Shirer, author of "The Rise and Fall of the Third Reich"
 shirsey;30;Shirt jersey
 shirseys;30;Shirt jersey
 shishabar;30
@@ -34501,9 +34569,9 @@ smearer;40;Reputation assassin
 smearers;40
 smearier;30
 smeariest;30
-smearingon;50
-smearon;50
-smearson;50
+smearingon;40
+smearon;40
+smearson;40
 smeary;30
 smee;40
 smelledarat;60
@@ -35162,10 +35230,11 @@ sparekey;50
 sparekeys;50
 spareme;60
 sparemeyourlies;60
-sparer;30
+sparer;50;More spare
 sparers;30
 sparesort;50
 sparesorts;50
+sparest;50
 sparestherod;60
 sparetherod;60
 sparetime;50
@@ -35205,11 +35274,14 @@ spawner;30
 speakillof;50
 speakingillof;50
 speakingof;60
+speakingon;40
 speakingto;40
 speaknoevil;60
 speakof;40
+speakon;40
 speaksillof;50
 speaksof;40
+speakson;40
 speaksto;40
 speakto;40
 spearcarrier;60
@@ -35383,6 +35455,7 @@ spoilertag;60
 spoilertags;60
 spokeillof;50
 spokeof;40
+spokeon;40
 spoketo;40
 spoliation;30;Spoilment, destruction
 spoliator;30
@@ -36188,6 +36261,9 @@ storein;40
 storer;40
 storers;40
 storesin;40
+storey;30
+storeyed;20
+storeys;30
 storingin;40
 stork;50
 stormalert;50
@@ -36952,7 +37028,7 @@ syrette;30;Single-dose injection unit, commonly for morphine
 syrettes;30
 syriac;30
 syringe;50
-sys;40
+sys;30
 sysco;40
 syst;40
 syzygies;60
@@ -37837,6 +37913,7 @@ tertian;30
 terzarima;40;Poetic form used in the Divine Comedy
 terzetto;30;???
 tes;20
+tesh;40
 teslacars;20
 tesori;30;Jean Tesori, most honored female theatrical composer in history
 tesoro;30
@@ -38248,6 +38325,7 @@ themotherofalldemos;60
 themotherofdragons;60
 themountrushmorestate;40
 themrsandi;50
+themself;40
 themstherules;60
 themud;20
 themultiverse;40
@@ -38700,6 +38778,8 @@ tiedying;20
 tieinto;40
 tieless;30
 tiemeup;1
+tienda;40
+tiendas;40
 tientsin;20
 tieon;40
 tieoneon;50
@@ -39440,6 +39520,7 @@ trainmen;40
 trainset;50
 trainsets;50
 trainsfor;40
+trajan;40;Roman emperor
 trala;20
 tralala;40
 tralalala;40
@@ -39630,6 +39711,8 @@ trig;50
 trigon;30;Triangle, Greek instrument
 trigram;40
 trigrams;40
+trijet;30;Plane with three jet engines
+trijets;30
 trillin;30;Humorist Calvin Trillin
 trillo;30;???
 trilobed;30
@@ -41069,6 +41152,7 @@ vitalorgan;50
 vitalorgans;50
 vitamini;40;Ibuprofen
 vitamink;50
+viterbo;30;Wisconsin college
 vitro;40;In vitro
 vitus;30;Patron saint of dancers
 vivaria;30;Aquaria or terraria
@@ -42186,6 +42270,8 @@ wkrp;40
 wks;40
 wmd;5
 wmds;5
+wnbamvp;50
+wnbamvps;50
 wnbaring;50
 wnw;20
 wnyc;30
