@@ -1333,6 +1333,12 @@ amarillotx;30
 amas;30
 amasser;40
 amassers;40
+amateurboxer;50
+amateurboxers;50
+amateurboxing;50
+amateurgolfer;50
+amateurgolfers;50
+amateursports;50
 amateurstanding;50
 amati;40;Violin
 amatis;40;Violins
@@ -5318,6 +5324,8 @@ cabalist;40
 cabalists;40
 cabdriver;50
 cabdrivers;50
+cabinetdepartment;50
+cabinetdepartments;50
 cabinetofficial;50
 cabit;30;Take a cab
 cablehookup;50
@@ -5903,7 +5911,7 @@ cassatts;30;Mary Cassatt paintings
 cassia;40;Chinese cinnamon
 cassie;40
 cassinidivision;60
-cassio;40;Othello character
+cassio;40;Victim of Iago in "Othello"
 cassoulet;40;French stew
 cassoulets;40
 castashadowover;60
@@ -7021,6 +7029,9 @@ cochairmen;50
 cochampion;50
 cochampions;50
 coche;30
+cockandbull;60
+cockandbullstories;60
+cockandbullstory;60
 cockedhat;50
 cockers;30
 cockeye;50
@@ -8999,7 +9010,12 @@ denyto;30
 deodar;20;Himalayan cedar
 deodars;20
 deodato;30;Brazilian pianist Eumir
+departedfrom;40
+departfrom;40
+departingfrom;40
+departmenthead;50
 departmentheads;50
+departsfrom;40
 depilating;30
 deplatform;60
 deplatformed;60
@@ -10318,6 +10334,7 @@ drunks;5
 drunktalk;60
 dryarea;1
 dryasabone;60
+drybones;50;Mario enemies
 drybrush;50
 drycell;50
 drycells;50
@@ -10330,6 +10347,10 @@ dryersheets;50
 drygas;30
 drygoodsstore;50
 drygoodsstores;50
+dryingpistol;50
+dryingpistols;50
+dryingrack;50
+dryingracks;50
 drylake;50
 drylakes;50
 drymartini;50
@@ -13734,8 +13755,12 @@ gamified;50
 gamifies;50
 gamify;50
 gamifying;60
+gamingheadset;50
+gamingheadsets;50
 gaminglaw;50
 gaminglaws;50
+gamingsystem;50
+gamingsystems;50
 gammaray;50
 gammarays;50
 gammon;20;British pork, or insult
@@ -17720,7 +17745,7 @@ inajiffy;60
 inaknot;40
 inalarm;50
 inalather;50
-inalie;40
+inalie;20
 inallfairness;60
 inalllikelihood;60
 inanition;40;Exhaustion
@@ -20151,10 +20176,13 @@ leadvocalist;50
 leadvocalists;50
 leadvocals;50
 leaf;50
-leafage;30
+leafage;40
 leafer;30
 leafinsect;50
 leafinsects;50
+leafpeeping;50
+leafspring;50
+leafsprings;50
 leafygreen;50
 leafygreens;50
 leakedto;40
@@ -21291,8 +21319,8 @@ lsd;40
 lseven;20
 lsf;20
 lshaped;40
-lsit;30;Ab exercise
-lsits;30
+lsit;40;Ab exercise
+lsits;40
 lst;20;WWII carrier, "Landing Ship, Tank"
 lsu;40
 lt;50
@@ -22095,8 +22123,8 @@ mashie;30;Five-iron
 mashies;30
 mashin;40
 mashingin;40
-mashup;60
-mashups;60
+mashup;50
+mashups;50
 maslin;40;NYT's film and book critic Janet Maslin
 masoned;30
 masonite;30;Pressure-molded wood
@@ -25083,8 +25111,8 @@ oakier;40
 oakies;20;Variant spelling
 oakiest;40
 oaklawn;30;Chicago suburb
-oakleaf;30
-oakleaves;30
+oakleaf;50
+oakleaves;50
 oap;20
 oarage;30
 oarer;30
@@ -29245,8 +29273,8 @@ putahexon;50
 putalidonit;60
 putapininit;60
 putbuttsinseats;60
-putdowninwords;60
-putdowninwriting;60
+putdowninwords;50
+putdowninwriting;50
 putdownonpaper;50
 putdownroots;60
 putdowntoage;60
@@ -29275,6 +29303,8 @@ putsacurseon;50
 putsahexon;50
 putsalidonit;50
 putsbuttsinseats;60
+putsdowninwords;50
+putsdowninwriting;50
 putsdownonpaper;50
 putsinagoodwordfor;50
 putsoneoveron;50
@@ -29290,6 +29320,8 @@ putthepiecestogether;60
 puttingacurseon;50
 puttingahexon;50
 puttingbuttsinseats;60
+puttingdowninwords;50
+puttingdowninwriting;50
 puttingdownonpaper;50
 puttinginagoodwordfor;50
 puttingitmildly;60
@@ -34298,6 +34330,8 @@ skylanterns;50
 skymall;50
 skymarshal;50
 skymarshals;50
+skymiles;50
+skynet;60
 skyrocket;60
 skyrocketed;60
 skyrocketing;60
@@ -34307,6 +34341,7 @@ skyscapes;50
 skyscraper;50
 skyscrapers;50
 skytel;20;Telecom company
+skyyvodka;50
 slackage;40
 slackermentality;60
 slagheap;50
@@ -41037,6 +41072,8 @@ viand;20;Food, archaic
 viands;20;Food, archaic
 vibgyor;1
 vibing;60
+vibrato;50
+vibratos;40
 vicarial;30
 vicariate;40;Office of a vicar
 vicechair;50
