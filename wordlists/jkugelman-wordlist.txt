@@ -833,6 +833,7 @@ ahme;20
 ahnold;60
 ahs;40
 ahso;5
+ahushfelloverthecrowd;60
 ahwell;60
 ai;40
 aiart;60
@@ -1168,6 +1169,10 @@ alligator;50
 alligators;50
 alliluyeva;20;Stalin's wife
 allina;20
+allinclusiveresort;50
+allinclusiveresorts;50
+allinclusivevacation;50
+allinclusivevacations;50
 allineed;50
 allinfavor;60
 allinto;50
@@ -1582,6 +1587,7 @@ andthelike;60
 andtheyreoff;60
 andtototoo;1
 andwhatdoesthatmean;60
+andwhathaveyou;60
 andyet;60
 andygibb;50
 andyouare;60
@@ -2411,6 +2417,7 @@ asimovian;50
 asirecall;50
 asisay;50
 asiseeit;60
+asisuspected;60
 asivesaid;60
 askedfor;40
 askedin;40
@@ -2594,7 +2601,9 @@ aswe;20
 asyla;30
 asyndeton;40;Literary device
 asyoudo;50
+asyoumayhavesuspected;60
 asyousaid;60
+asyoususpected;60
 at;50
 atacama;40;Chilean desert
 atacost;40
@@ -7356,6 +7365,7 @@ comparesnotes;50
 comparesnoteson;50
 comparingnotes;50
 comparingnoteson;50
+comparisonisthethiefofjoy;60
 compassrose;50
 compassroses;50
 compasssaw;30
@@ -7462,12 +7472,15 @@ connectthedots;60
 conoidal;30;Nearly conical
 conormcgregor;60
 consarnit;50
+conservativeestimate;50
+conservativeestimates;50
 consideritagift;60
 consistorial;40
 consistories;40
 consistory;40;Council of cardinals
 consonantly;40
 conspirito;50
+constructivecriticism;50
 cont;40
 contac;40;Medicine brand
 containeroftuna;1
@@ -9067,6 +9080,7 @@ desertsun;50
 desiarnazjr;50
 desica;30;Director of "The Bicycle Thief"
 designatedproxy;50
+designbycommittee;60
 desilu;40;Desi and Lucille's production company
 desmoinesia;30
 desmoinesiowa;30
@@ -9129,6 +9143,7 @@ devitalize;30;???
 devitalized;30;???
 devitalizes;30;???
 devitalizing;30;???
+devoidofcontext;50
 devoutcoward;50
 devs;40
 dewar;40;Dewar flask, or whiskey brand
@@ -13296,6 +13311,8 @@ fordsedan;40
 fordsedans;40
 fordsuv;20;Green paint
 foreignlegion;50
+foreignserviceofficer;50
+foreignserviceofficers;50
 forenoon;30;Morning
 forenoons;30;Mornings
 foreplay;60
@@ -13710,6 +13727,8 @@ gaiter;50;Neck or boot cover
 gaiters;50
 galaball;50
 galaballs;50
+galacticcivilization;50
+galacticcivilizations;50
 galah;20;Cockatoo
 galatia;30;Ancient Turkish region
 galatian;30;Celtic person of old
@@ -17129,6 +17148,7 @@ icantstandit;60
 icantstop;60
 icanttakeit;60
 icantwait;60
+icantwinwithyou;60
 icanwait;60
 icarly;50
 icbm;40
@@ -18069,6 +18089,7 @@ instals;20
 instantcoffee;50
 instantcoffees;50
 instanticiclemaker;60;Acme invention
+instantkarma;60
 instantramen;50
 instantreplay;50
 instantreplays;50
@@ -18127,8 +18148,11 @@ internalorgans;50
 internee;40
 internees;40
 interneteconomy;50
+internetmoviedatabase;50
 internetsite;50
 internetsites;50
+internetsleuth;60
+internetsleuths;60
 interpol;50
 interpolator;30
 interpolators;30
@@ -18639,6 +18663,7 @@ itsnewstome;60
 itsnotatoy;60
 itsnotmuchtolookat;60
 itsnotmydepartment;60
+itsnotmyfinestwork;60
 itsnotmyfinestwork;60;Legit?
 itsnotright;60
 itsnouse;60
@@ -18686,6 +18711,7 @@ itwasjustadream;60
 itwasjustathought;60
 itwasmeanttobe;60
 itwasntme;60
+itwasntnotmyfinesthour;60
 ity;30;Suffix [rare]
 iud;40
 iuds;40
@@ -19114,6 +19140,7 @@ jurypool;50
 jurypools;50
 jus;40
 justadrop;50
+justaheadsup;60
 justalongfortheride;60
 justdoingmyjob;60
 justdont;60
@@ -23204,6 +23231,7 @@ monocotyledonous;20
 monocotyledons;20
 monodrama;40;One-person play
 monody;30;Ode sung by one voice
+monogamish;60
 monoglot;50
 monoglots;50
 monolog;20
@@ -24820,6 +24848,7 @@ notarial;30;???
 notatoy;50
 notax;40
 notbeen;1
+notbigon;60
 notcare;30
 notcheap;50
 notchesononesbelt;60
@@ -24835,6 +24864,7 @@ noteof;20
 noter;30
 noters;30
 noteven;50
+notevenathankyou;60
 notevenonce;60
 notfair;50
 notforamoment;60
@@ -24864,6 +24894,7 @@ notlongforthisworld;60
 notlookingsohot;60
 notmuchtolookat;60
 notmydepartment;60
+notmyfinesthour;60
 notmyfinestwork;60
 notmyproblem;60
 notnear;1
@@ -27601,6 +27632,7 @@ pewee;30;Bird
 pewees;30
 pewit;30;Bird
 pewits;30
+pewpew;50
 pewterer;40
 pewterers;40
 pewters;20;Can it be plural???
@@ -29117,6 +29149,8 @@ pst;30
 psy;40;"Gangnam Style" singer
 psychiatrist;50
 psychiatrists;50
+psychoactivesubstance;50
+psychoactivesubstances;50
 psyduck;50;Pokeyman
 psyop;50
 psyops;50
@@ -31397,6 +31431,7 @@ rit;40
 ritagam;30;Old actress
 ritenuto;40;Music term
 riven;50
+riverboatpilot;50
 riverboatpilots;50
 rivercard;50
 rivercards;50
@@ -35610,6 +35645,18 @@ squaresoffagainst;50
 squarethecircle;60
 squaringoff;50
 squaringoffagainst;50
+squashabeef;60
+squashbeefs;60
+squashedabeef;60
+squashedbeefs;60
+squashedthebeef;60
+squashesabeef;60
+squashesbeefs;60
+squashesthebeef;60
+squashingabeef;60
+squashingbeefs;60
+squashingthebeef;60
+squashthebeef;60
 squeezy;30;Cramped
 squib;50
 squibs;50
@@ -35825,6 +35872,8 @@ starlord;60
 starofstageandscreen;60
 starpupil;50
 starpupils;50
+starquarterback;50
+starquarterbacks;50
 starrs;30;Ringo, Bart, Brenda, ugh
 starryeyed;60
 starrynight;60
@@ -37871,6 +37920,7 @@ tenrec;20;Madagascar animal
 tenrecs;20;Madagascar animals
 tenseconds;30
 tenski;20
+tensofpeople;60
 tensor;40
 tensors;40
 tensplace;50
@@ -38207,6 +38257,7 @@ thedeeps;50
 thedetails;40;2011 Tobey Maguire movie, no theatrical release
 thedew;1
 thedie;20
+thedisrespect;60
 thedj;20
 thedocks;20
 thedon;20
@@ -38545,6 +38596,7 @@ thetetons;30
 thetexans;50
 thethe;30;Punk band
 thetheater;50
+thethiefofjoy;60;Comparison, it's said
 thethirddegree;40
 thethirdrail;40
 thethreebears;40
@@ -38553,6 +38605,7 @@ thetide;1
 thetime;1
 thetimeisnow;60
 thetimemachine;50
+thetimetravelerswife;50
 thetinman;30
 thetis;20;Mother of Achilles
 thetokyodome;20
@@ -38622,6 +38675,7 @@ thezoomies;60
 thezooplane;40;???
 thidwick;40;Dr. Seuss moose
 thidwickthebigheartedmoose;60;Dr. Seuss book
+thiefofjoy;60;Comparison, it's said
 thighslappers;60
 thighslapping;60
 thimphu;20;Capital of Bhutan
@@ -38923,6 +38977,7 @@ timessymbol;50
 timetable;50
 timetables;50
 timetokill;20
+timetravelerswife;50
 timewarner;50
 timewarp;60
 timing;50
@@ -40441,6 +40496,7 @@ unfetters;30
 unfilial;30
 unfocussed;20
 unfrozencavemanlawyer;50
+unfrozencavemanlawyer;60
 ungava;40;Canadian disrict, gin
 ungird;40;Release or take off, like armor
 ungirded;40
@@ -40915,6 +40971,7 @@ valueat;40
 valuedat;50
 valuemeal;50
 valuemeals;50
+valueneutral;50
 valuesat;40
 valuingat;40
 valuta;20
@@ -41169,6 +41226,8 @@ virginiareels;30
 virtu;20;Love of fine art
 virtualcart;60
 virtualcarts;60
+virtualprivatenetwork;50
+virtualprivatenetworks;50
 virusscan;50
 virusscanner;50
 virusscanners;50
@@ -41899,15 +41958,19 @@ whatdoesthatmean;60
 whatdoyouthinkyouredoing;60
 whatexactlyisthepoint;60
 whatfor;60
+whathappensnext;60
 whatinblazes;60
 whatisdeadmayneverdie;60
 whatjusthappened;60
+whatnotevenathankyou;60
 whatseemstobetheissue;50
 whatsshakinbacon;60
 whatsthat;60
 whatsthegoodword;60
 whatsthemagicword;60
 whatsthepoint;60
+whatstheretoget;60
+whatstheretolose;60
 whatstheuse;60
 whatsthewordonthestreet;60
 whatstheworstthatcouldhappen;60
@@ -42014,6 +42077,10 @@ whosstoppingyou;60
 whosthis;60
 whoswho;60
 whowasit;60
+whowouldathought;60
+whowouldathoughtit;60
+whowouldvethought;60
+whowouldvethoughtit;60
 whoyagonnacall;60
 whoyagonnacallghostbusters;60
 why;50
@@ -42456,6 +42523,8 @@ wrestlingmeet;60
 wrestlingmeets;60
 wristpad;50
 wristpads;50
+writersretreat;50
+writersretreats;50
 writesto;40
 writeto;40
 writinggroup;50
@@ -42813,6 +42882,7 @@ yorkmini;50
 yorkminis;50
 yos;40
 yoteamo;30
+youandme;50
 youareexcused;60
 youawake;60
 youbet;60
