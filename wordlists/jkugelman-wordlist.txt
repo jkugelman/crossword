@@ -5581,6 +5581,7 @@ canisfamiliaris;50
 canistealyouforasecond;60
 canit;50;"Shut up"
 canitalk;60
+canitbetrue;60
 canithinkaboutit;60
 cannae;20;Punic War battle site
 canneryrow;50
@@ -6918,6 +6919,8 @@ clothesdesigner;30
 clothings;30
 clotho;30;One of the Three Fates in Greek myth
 cloture;50
+cloudkitchen;60;Virtual restaurant
+cloudkitchens;60
 cloudscape;50;Painting of the sky
 cloudscapes;50
 clouseau;50
@@ -7728,6 +7731,7 @@ couch;50
 couchfort;60
 couchforts;60
 couldhebetheone;60
+coulditbetrue;60
 couldntstickaround;50
 couldshebetheone;60
 couldyoufillmein;60
@@ -8486,6 +8490,8 @@ darkbread;50
 darkbreads;50
 darkchocolate;50
 darkish;30
+darkkitchen;60;Virtual restaurant
+darkkitchens;60
 darkknight;60
 darkknightrises;60
 darkle;30
@@ -12541,8 +12547,8 @@ fawn;50
 fawns;50
 fay;40;Elfin, or Fay Wray
 fbi;40
-fbiagent;60
-fbiagents;60
+fbiagent;50
+fbiagents;50
 fbireport;50
 fbireports;50
 fbispies;20
@@ -14319,6 +14325,8 @@ ghostgunkit;60
 ghostgunkits;60
 ghostguns;60
 ghosting;60
+ghostkitchen;60;Virtual restaurant
+ghostkitchens;60
 ghostmoth;50
 ghostmoths;50
 ghosts;50
@@ -18726,6 +18734,7 @@ itssoeasyevenachildcandoit;60
 itssoeasyevenachildcoulddoit;60
 itssotrue;60
 itsstretchingit;60
+itstakingforever;60
 itsthelaw;60
 itstime;60
 itstimetomoveon;60
@@ -20533,6 +20542,7 @@ letat;40
 letch;5
 letches;5
 letem;30
+letemhaveit;60
 leterrip;50
 letgoofme;50
 lethe;30;River in Hades whose waters cause drinkers to forget their past
@@ -20542,6 +20552,7 @@ letitdrop;50
 letitrip;60
 letlive;50
 letmego;60
+letmehaveit;60
 letmein;60
 letmeseethat;60
 letnaturerunitscourse;60
@@ -20555,6 +20566,7 @@ letsfree;1
 letsgetcracking;60
 letsgetitstarted;60
 letsgetonwithit;60
+letshaveit;60
 letsjustmoveon;60
 letsjustmovepastit;60
 letsjustsay;60
@@ -20577,6 +20589,7 @@ letteroftransit;50
 lettersin;40
 lettersoftransit;50
 letterw;1
+letthemhaveit;60
 letthingsplayout;60
 lettingthingsplayout;60
 letts;20
@@ -20935,6 +20948,8 @@ littlemissthang;60
 littlemissthing;60
 littlemsthang;60
 littlemsthing;60
+littletoe;50
+littletoes;50
 litupon;50
 liukin;40;Gymnast Nastia Liukin, 2008 Olympic all-around champion
 liuwen;40;China's first supermodel
@@ -21808,6 +21823,7 @@ makeafist;50
 makeahashof;50;Bungle
 makeakilling;60
 makealist;40;Green paint?
+makeamericagreatagain;60
 makeanentrances;1
 makeanoffer;50
 makeapass;50
@@ -21954,6 +21970,7 @@ malle;30;Louis Malle, director of "My Dinner With Andre"
 mallets;50
 mallrat;50
 mallrats;50
+malmsteen;50
 malocchio;40;Italian superstition, "evil eye"
 malorys;20
 malposition;30
@@ -23732,11 +23749,13 @@ mxli;20
 mxlv;20
 my;50
 mya;30;"Lady Marmalade" singer
+myalgia;40
 myb;40
 mybad;60
 mybookaboutme;50;Dr. Seuss book
 myear;40;"Like hell"
 myeloid;30;Bone marrow related, lots of leukemia-related Google results
+myeloma;40
 myeye;50;"Like hell"
 myeyesareuphere;60
 mygod;60
@@ -28042,7 +28061,7 @@ pirandello;40;Playwright Luigi Pirandello, 1934 Nobel Prize in Literature
 piratehat;60
 piratehats;60
 piratic;30
-pis;20
+pis;40
 pisaitaly;20
 pisano;30
 pisanos;30
@@ -32843,6 +32862,8 @@ screendooronasubmarine;60
 screenedfor;40
 screenfor;40
 screeningfor;40
+screenprotector;50
+screenprotectors;50
 screensfor;40
 screenshot;50
 screentest;50
@@ -33371,7 +33392,7 @@ sepoy;20;Indian soldier
 sepoys;20;Indian soldiers
 sepsis;40
 sept;40
-septa;30;Nasal partitions
+septa;40;Nasal partitions
 septate;30;Partitioned by a septum
 sequester;50
 sequestered;50
@@ -33460,7 +33481,7 @@ setacoursefor;50
 setae;20
 setat;40
 setatop;40
-seteyeson;60
+seteyeson;50
 setfireto;40
 seti;40
 setinstone;50
@@ -33475,6 +33496,7 @@ setsacourse;50
 setsacoursefor;50
 setsapr;1
 setsat;40
+setseyeson;50
 setsfireto;40
 setshot;50
 setshots;50
@@ -33488,6 +33510,7 @@ settheclockback;50
 setthetone;50
 settingacourse;50
 settingacoursefor;50
+settingeyeson;50
 settingfireto;40
 settingthetone;50
 settingupshop;50
@@ -35950,6 +35973,7 @@ starrynight;60
 starship;50
 starships;50
 starsofstageandscreen;60
+starspangledbanner;50
 starsystem;50
 starsystems;50
 startallover;50
@@ -38589,6 +38613,7 @@ theresawocketinmypocket;60;Dr. Seuss book
 theresmorewherethatcamefrom;60
 theresnoexcuse;60
 theresnoexcuseforyou;60
+theresnotimetoexplain;60
 theressimplynoexcuse;60
 therest;30
 theresthatthen;60
@@ -38652,6 +38677,7 @@ thesplits;30
 thestairs;20
 thestand;50
 thestanleycup;20
+thestarspangledbanner;50
 thesteroidera;20;Why "the"?
 thesticks;60
 thestilt;50;Wilt Chamberlain's nickname
@@ -38797,6 +38823,7 @@ thisismylifenow;60
 thisisnotrecess;30;???
 thisisnpr;50
 thisissendingme;60
+thisistakingforever;60
 thisiswhereicomein;60
 thisiswhereyoucomein;60
 thisllbetheendofme;60
@@ -41305,10 +41332,14 @@ vireos;20
 virginears;60
 virginiareels;30
 virtu;20;Love of fine art
+virtualbrand;60;Virtual restaurant
+virtualbrands;60
 virtualcart;60
 virtualcarts;60
 virtualprivatenetwork;50
 virtualprivatenetworks;50
+virtualrestaurant;60
+virtualrestaurants;60
 virusscan;50
 virusscanner;50
 virusscanners;50
@@ -42926,6 +42957,8 @@ yikes;60
 yipes;60
 yippy;50
 ymir;20;Giant slain by Odin, from his flesh was fashioned the Earth, from his blood the oceans
+yngwie;50
+yngwiemalmsteen;50
 ynot;20;Ringo Starr song
 yoba;20
 yodaspeak;60
