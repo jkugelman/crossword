@@ -3674,7 +3674,7 @@ beastmode;60
 beatadeadhorse;60
 beatat;40
 beatback;50
-beatease;40
+beatease;20
 beatenat;40
 beatendown;50
 beatingadeadhorse;60
@@ -5569,6 +5569,7 @@ candyshop;50
 candyshops;50
 candystore;50
 candystores;50
+caniaskyousomething;60
 canid;40
 canids;40
 canifinish;60
@@ -17470,6 +17471,7 @@ ijssel;20;Branch of the Rhine
 ijustate;60
 ikette;30
 ikillme;60
+iknewyoudlikeit;60
 iknewyoudsaythat;60
 iknewyouwhen;50;Song
 iknow;60;Han's reply
@@ -18623,6 +18625,7 @@ itishightime;60
 itisnot;50
 itisntover;60
 itisntright;60
+itjustsohappens;60
 itlays;20
 itll;50
 itllbefasterifwesplitup;60
@@ -18698,6 +18701,7 @@ itsfasterifwesplitup;60
 itsfinallyhappened;60
 itsfinallyhappening;60
 itsfine;50
+itsfire;60
 itshightime;60
 itsin;30;Usually a partial
 itsit;20;Ice cream brand
@@ -20551,6 +20555,8 @@ letitdie;50
 letitdrop;50
 letitrip;60
 letlive;50
+letmeaskyousomething;60
+letmeaskyouthis;60
 letmego;60
 letmehaveit;60
 letmein;60
@@ -21623,6 +21629,7 @@ madd;40
 maddashes;50
 madeabeelinefor;60
 madeacameo;50
+madeaconcertedeffort;50
 madeafist;50
 madeahashof;50;Bungled
 madeakilling;60
@@ -21818,6 +21825,7 @@ majorwalterreed;50
 makable;20;Variant of makeable
 makeabeelinefor;60
 makeacameo;50
+makeaconcertedeffort;50
 makeacrack;50
 makeafist;50
 makeahashof;50;Bungle
@@ -21860,6 +21868,7 @@ makeproud;50
 makeroom;50
 makersmark;50
 makesacameo;50
+makesaconcertedeffort;50
 makesacrack;50
 makesafist;50
 makesahashof;50;Bungles
@@ -21907,6 +21916,7 @@ makewar;30
 makewaves;60
 makin;40;"Makin' Whoopee"
 makingacameo;50
+makingaconcertedeffort;50
 makingafist;50
 makingahashof;50;Bungling
 makingakilling;60
@@ -28092,6 +28102,8 @@ pitchersofbeer;50
 pitches;50
 pitchesafit;50
 pitcheswoo;50
+pitchfork;50
+pitchforks;50
 pitchingafit;50
 pitchingwoo;50
 pitchwoo;50
