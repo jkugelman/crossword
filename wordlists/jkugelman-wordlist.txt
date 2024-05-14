@@ -652,6 +652,8 @@ aerialphoto;50
 aerialphotograph;50
 aerialphotographs;50
 aerialphotos;50
+aerialshot;50
+aerialshots;50
 aerialtour;50
 aerialtours;50
 aerialyoga;50
@@ -5434,6 +5436,7 @@ caliente;40
 calla;30;Type of lily
 calledfor;40
 calledfoulon;50
+calleditintheair;50
 calledto;40
 callerid;50
 callfor;40
@@ -5442,17 +5445,20 @@ callie;30;???
 calligram;50
 callingfor;40
 callingfoulon;50
+callingitintheair;50
 callingstation;60
 callingstations;60
 callingto;40
 calliope;50
 calliopes;50
+callitintheair;60
 calllog;50
 calllogs;50
 callme;50
 callsfor;40
 callsfoulon;50
 callsignals;20
+callsitintheair;50
 callsto;40
 callstoarms;50
 callto;40
@@ -7544,6 +7550,7 @@ coolingrack;50
 coolingracks;50
 coolingto;40
 coolit;60
+coolitwouldyou;60
 coolkids;60
 coolmil;60
 coolmillion;60
@@ -7733,6 +7740,7 @@ couchfort;60
 couchforts;60
 couldhebetheone;60
 coulditbetrue;60
+coulditwouldya;60
 couldntstickaround;50
 couldshebetheone;60
 couldyoufillmein;60
@@ -10288,8 +10296,8 @@ dronebee;50
 dronebees;50
 dronedonandon;50
 droneonandon;50
-droneshot;50
-droneshots;50
+droneshot;60
+droneshots;60
 dronesonandon;50
 drongo;20;Black bird
 drongos;20;Black birds
@@ -12238,6 +12246,7 @@ eyalet;20;Ottoman Empire province
 eyalets;20;Ottoman Empire provinces
 eydie;40;Singer Eydie Gormé
 eyechart;50
+eyecharts;50
 eyefold;50
 eyefolds;50
 eyeful;50
@@ -14170,7 +14179,10 @@ getinonadeal;50
 getinto;40
 getintoarut;50
 getintoit;50
+getitthroughyourhead;60
 getitthroughyourskull;60
+getitthroughyourthickhead;60
+getitthroughyourthickskull;60
 getlost;50
 getmade;50
 getnear;40
@@ -16078,7 +16090,15 @@ headushers;50
 headways;30
 headwriter;50
 healheal;1
+healthconscious;50
+healthexam;50
+healthexams;50
 healthfood;50
+healthfoodnut;60
+healthfoodnuts;60
+healthfoods;50
+healthfoodstore;50
+healthfoodstores;50
 healthnut;60
 healthnuts;60
 healths;30
@@ -16544,6 +16564,15 @@ hissingat;40
 hissy;50
 hist;30
 histology;30;Study of microscopic tissue anatomy
+historicalmap;50
+historicalmaps;50
+historicalrecord;50
+historicday;50
+historicdays;50
+historybuff;50
+historybuffs;50
+historylesson;50
+historylessons;50
 hitanerve;50
 hitapaywall;30
 hitcher;30
@@ -17227,8 +17256,8 @@ icemen;40;Old job, or the Jacksonville Icemen, minor league hockey team
 iceonfire;60;DiCaprio environmental documentary
 icepack;50
 icepacks;50
-iceplanet;60
-iceplanets;60
+iceplanet;50
+iceplanets;50
 icesaw;40
 icesaws;40
 icescraper;50
@@ -18027,6 +18056,7 @@ initialreaction;50
 initialreactions;50
 injars;40
 injectionsite;50
+injeopardy;50
 injera;40;Ethiopian flatbread
 injoke;60
 injokes;60
@@ -18220,6 +18250,7 @@ inthehouse;50
 inthehunt;60
 inthelurch;60
 inthepenaltybox;50
+intherough;50
 inthetank;60
 inthewash;50
 inthing;60
@@ -19197,6 +19228,9 @@ jus;40
 justadrop;50
 justaheadsup;60
 justalongfortheride;60
+justcoolit;60
+justcoolitwouldya;60
+justcoolitwouldyou;60
 justdoingmyjob;60
 justdont;60
 justimagine;60
@@ -19326,6 +19360,7 @@ keepingonescool;50
 keepingpace;50
 keepingpacewith;50
 keepingtabs;50
+keepingtabson;50
 keepingto;40
 keepinline;50
 keepittoyourself;60
@@ -19347,8 +19382,10 @@ keepsonescool;50
 keepspace;50
 keepspacewith;50
 keepstabs;50
+keepstabson;50
 keepsto;40
 keeptabs;50
+keeptabson;50
 keepto;40
 keepunderwraps;60
 keepyourshirton;60
@@ -19390,6 +19427,7 @@ keptonescool;50
 keptpace;50
 keptpacewith;50
 kepttabs;50
+kepttabson;50
 keptto;40
 kerala;30;Indian state
 keratosis;30;Skin condition
@@ -19478,6 +19516,8 @@ kickstarter;60
 kickstarting;50
 kickstarts;50
 kidloco;50
+kidneydonor;50
+kidneydonors;50
 kidsister;50
 kidsisters;50
 kievan;40;Resident of Kyiv
@@ -24865,6 +24905,7 @@ norther;30
 northof;50;More than
 northpaw;60
 norths;30
+northstar;50
 norun;20
 noruns;20
 norush;60
@@ -29606,11 +29647,14 @@ raccoonfur;50
 raceagainsttime;60
 racebib;50
 racebibs;50
+raceby;40
+racedby;40
 racedto;40
 racefan;30
 racefans;30
 raceme;30;Type of flower
 racemes;30;Type of flower
+racesby;40
 racesto;40
 raceto;40
 racetothebottom;60
@@ -29621,6 +29665,7 @@ rachetesup;1
 rachitis;30;Rickets
 racine;40;Jean Racine, 17th century French dramatist, well-regarded
 racingbikes;50
+racingby;40
 racingto;40
 racist;30
 racists;30
@@ -30228,6 +30273,8 @@ reattempted;40
 reattempting;40
 reattempts;40
 reb;40
+rebab;20
+rebabs;20
 rebadge;40
 rebadged;40
 rebadges;40
@@ -31310,6 +31357,7 @@ rhinoplasties;50
 rhinoplasty;50
 rhmacy;30;Creator of Macy's
 rhnegative;50
+rhodesian;40
 rhodolite;30
 rhodonite;30
 rhomb;20
@@ -31694,11 +31742,13 @@ rolfing;30
 rolfs;30
 rollacigar;50
 rollatwo;20
+rollby;40
 rollcage;50
 rollcages;50
 rollcigars;50
 rolle;30
 rolledacigar;50
+rolledby;40
 rolledinto;40
 rolledoveranira;20
 rolledr;50
@@ -31718,6 +31768,7 @@ rollicking;30
 rollicks;30
 rollie;30;___ Fingers baseballer
 rollingacigar;50
+rollingby;40
 rollinginto;40
 rollingpin;50
 rollingpins;50
@@ -31725,6 +31776,7 @@ rollingupintoaball;30
 rollinto;40
 rollo;40;"Nancy" character
 rollsacigar;50
+rollsby;40
 rollsinto;40
 rollsroyce;50
 rollsroyces;50
@@ -31831,6 +31883,8 @@ ropetricks;50
 rorem;30;Composer Ned Rorem
 rosalia;40;Patron saint of Palermo, or mononymous singer
 rosalie;40;Who's notable?
+rosarybead;50
+rosarybeads;50
 roscoelee;30;1970s actor Roscoe Lee Browne
 roseanneroseannadanna;60
 roseate;40
@@ -37356,12 +37410,14 @@ takehimawayboys;60
 takeiteasy;60
 takeitslow;60
 takeitto;1
+takeittothegrave;60
 takeliberties;50
 takemeasiam;60
 takenadisliketo;50
 takenbystorm;60
 takenote;60
 takento;40
+takentothegrave;50
 takeorders;50
 takeoutjoint;60
 takeoutplace;50
@@ -37393,6 +37449,7 @@ takesfive;60
 takesflak;50
 takeshowers;50
 takesign;50
+takesittothegrave;50
 takesliberties;50
 takesorders;50
 takesthebait;60
@@ -37403,6 +37460,7 @@ takestheoath;50
 takesthescenicroute;50
 takestime;50
 takesto;40
+takestothegrave;50
 takestwototango;30
 takeswing;60
 takethebait;60
@@ -37412,6 +37470,7 @@ taketheoath;50
 takethescenicroute;50
 taketime;50
 taketo;40
+taketothegrave;50
 takewing;60
 taki;20
 takingabus;30
@@ -37436,6 +37495,7 @@ takingastab;50
 takingaswig;50
 takingfive;60
 takingflak;50
+takingittothegrave;50
 takingliberties;50
 takingorders;50
 takingthebait;60
@@ -37445,6 +37505,7 @@ takingtheoath;50
 takingthescenicroute;50
 takingtime;50
 takingto;40
+takingtothegrave;50
 takingwing;50
 takis;40;Tortilla chips
 talaria;30;Mercury's winged sandals
@@ -38495,6 +38556,7 @@ theluckotheirish;20
 theluxor;40
 thelynx;30;Minnesota WNBA team
 themagi;30
+themainact;40
 themajors;30
 themambo;30
 theman;50
@@ -38800,9 +38862,12 @@ thincrustpizzas;50
 thingofthepast;60
 thingsfallapart;60
 thingsjustgotreal;60
+thinkahead;50
+thinkingahead;50
 thinkingoutsidethebox;60
 thinkoutsidethebox;60
 thinkpiece;60
+thinksahead;50
 thinksoutsidethebox;60
 thinontop;50
 thiocyanate;40
@@ -38859,6 +38924,7 @@ thorpes;30
 thosearerookienumbers;60
 thosewerethedays;60
 thoth;30;Egyptian god
+thoughtahead;50
 thoughtoutsidethebox;60
 threadier;30
 threadiest;30
@@ -39434,6 +39500,7 @@ tookaswig;50
 tookfive;60
 tookflak;50
 tookiteasy;60
+tookittothegrave;50
 tookliberties;50
 tookorders;50
 tookthebait;60
@@ -39443,6 +39510,7 @@ tooktheoath;50
 tookthescenicroute;50
 tooktime;50
 tookto;40
+tooktothegrave;50
 tookwing;60
 toolate;60
 toolbar;50
@@ -40887,6 +40955,7 @@ ursid;20
 ursids;20
 ursine;30
 ursus;20;Bear genus
+urticaria;40;Hives
 us;50
 usaf;30
 usages;50
@@ -42001,7 +42070,7 @@ wentyard;50;Hit a home run
 weptfor;40
 wereallears;60
 wereallout;60
-wereallset;60
+wereallset;50
 werealmostthere;60
 werebad;60
 werenext;50
@@ -42804,11 +42873,16 @@ xxxiii;20
 xxxix;20
 xxxrating;60
 xxxratings;60
+xylaria;40
+xylarium;40
+xylariums;40
 xylem;30;Plant tissue
 xylene;30
-xylitol;60
-xylophone;60
-xylophones;60
+xylitol;50
+xylophone;50
+xylophonemallet;50
+xylophonemallets;50
+xylophones;50
 xylose;30
 xyz;50
 y;1
@@ -42832,6 +42906,8 @@ yakbutter;50
 yakcalf;50
 yakcalves;50
 yakcheese;50
+yaketysax;60
+yaketyyak;60
 yakima;30;Washington tribe
 yakimas;30;Washington tribe
 yalealum;40
