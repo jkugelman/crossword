@@ -476,6 +476,8 @@ adaware;40;Adblock software
 adayago;40
 adblocker;50
 adblockers;50
+adcampaign;50
+adcampaigns;50
 adcreep;50
 addacoatofpaint;30
 addams;50
@@ -1490,6 +1492,7 @@ amstations;50
 amstereo;40
 amt;40
 amts;40
+amuck;40;Less common variant of amok
 amurriver;40
 amurtiger;50
 amurtigers;50
@@ -2319,6 +2322,8 @@ artforger;50
 artforgeries;50
 artforgers;50
 artforgery;50
+artgalleries;50
+artgallery;50
 arties;30
 artieshaw;50
 artifact;50
@@ -5143,6 +5148,9 @@ bulbasaur;50;Pokeyman
 bulimia;5
 bulkedout;50
 bulkingout;50
+bulkmail;50
+bulkmailer;50
+bulkmailers;50
 bulkout;50;???
 bulksout;50
 bull;50
@@ -5319,6 +5327,8 @@ buysonmargin;50
 buzzy;50
 bvd;40;Underwear brand
 bvds;30
+bwahaha;60
+bwahahaha;60
 bwi;40
 by;50
 byallmeans;60
@@ -5979,10 +5989,13 @@ catchashow;50
 catcher;50
 catchers;50
 catchesashow;50
+catchesfire;50
 catchesoffguard;50
 catchesonfire;50
 catcheswaves;50
+catchfire;50
 catchingashow;50
+catchingfire;50
 catchingoffguard;50
 catchingonfire;50
 catchingwaves;50
@@ -6056,6 +6069,7 @@ caudate;30
 caudated;30
 caudices;30
 caughtashow;50
+caughtfire;50
 caughtoffguard;50
 caughtonfire;50
 caughtwaves;50
@@ -6893,6 +6907,12 @@ cloche;30;Bell-shaped glass cover, or hat
 cloches;30
 clockmaker;50
 clockmakers;50
+clogdance;50
+clogdanced;50
+clogdancer;50
+clogdancers;50
+clogdances;50
+clogdancing;50
 cloisonne;30;Metalwork decoration technique
 clonal;30
 cloner;30
@@ -8777,6 +8797,8 @@ deburred;30
 deburring;30
 deburrs;30
 debussy;60
+debutnovel;50
+debutnovels;50
 dec;40
 deca;40
 decagon;40
@@ -9118,6 +9140,8 @@ dessertwines;50
 destael;30;Madame ___ in the French Revolution, author of "Delphine"
 destination;50
 destro;20;G.I. Joe character
+desuetude;40;State of disuse
+desuetudes;40
 det;20
 detective;50
 detectivecomics;60
@@ -9451,8 +9475,9 @@ directsnaps;50
 direr;50
 direst;50
 direwarning;50
-dirigism;40;State control of economic and social matters
-dirigisme;40;State control of economic and social matters
+dirigism;40;System in which a government has a lot of control over a country's economy
+dirigisme;40
+dirigiste;40
 dirndl;20
 dirndls;20
 dirs;30
@@ -10745,6 +10770,8 @@ eaurn;20
 eaux;30
 eazy;30
 eban;20;Abba Eban, Israeli politician
+ebate;20
+ebates;20
 ebaysale;40;Green painty
 ebenezerscrooge;60
 eberle;20
@@ -13061,6 +13088,7 @@ flatterywillgetyounowhere;60
 flatthirteen;50
 flattire;50
 flattires;50
+flatts;50;Rascal Flatts
 flaunty;30
 flav;30;Flavor Flav, how to clue it??
 flayer;40
@@ -13376,6 +13404,7 @@ forestbath;50
 forestbathing;50
 forestbaths;50
 foretop;30
+forex;50;Foreign exchange market
 forgetisaidthat;60
 forgetit;60
 forgetmenot;60
@@ -15443,7 +15472,11 @@ guelphs;20
 guerilla;50
 guerillas;50
 guess;50
+guessat;40
+guessedat;40
 guesses;50
+guessesat;40
+guessingat;40
 guesstimate;60
 guesstimated;60
 guesstimates;60
@@ -17492,12 +17525,13 @@ ihavetotakethat;60
 iheardyouthefirsttime;60
 iheart;30
 ihearya;60
+ihop;50
 ihopenobodysawthat;60
 ihopenot;60
 ihopeso;60
 ihopetogod;60
 ihopeyourehappy;60
-ihops;30
+ihops;50
 ihre;20
 ihurt;20
 iii;30;Three, of a kind
@@ -19273,6 +19307,7 @@ kaitlinolson;60
 kakapo;40;Endangered New Zealand bird, long Wikipedia article
 kakapos;40
 kal;40
+kalaazar;30;Black fever
 kalamazoomi;30
 kalashnikov;50
 kale;50
@@ -19293,6 +19328,7 @@ kaon;30;Subatomic particle
 kaons;30;Subatomic particles
 kaos;30;"Get Smart" baddies
 kap;20
+kaputt;20
 kara;40;Not sure who's notable... Supergirl
 karaite;30;Non-Rabbinic Jew
 karaites;30
@@ -19445,6 +19481,7 @@ keratosis;30;Skin condition
 kerber;30;Tennis player Angelique
 kermitroosevelt;20
 kerplop;60
+keshena;20;Tiny Wisconsin town
 keto;50
 ketodiet;60
 ketodiets;60
@@ -22903,6 +22940,7 @@ miele;30;Appliance manufacturer
 mieles;20;Certain appliances
 mig;40
 mightaswell;60
+mightiadd;60
 mights;40;Bad plural
 mii;20
 miii;20
@@ -23040,6 +23078,7 @@ minorsixth;50
 minorthird;50
 minorthirds;50
 minoso;30;"Jackie Robinson" for Latin ballplayers
+minoxidil;50;Rogaine
 minster;30
 minstrelsy;40
 mint;50
@@ -23135,6 +23174,7 @@ mit;40
 miter;40;Bishop's hat
 miters;40
 miterwort;40;???
+mithraism;40
 mitotic;30
 mitral;30;Heart valve
 mitre;30
@@ -23359,6 +23399,9 @@ monogamish;60
 monoglot;50
 monoglots;50
 monolog;20
+monometer;40
+monomial;40
+monomials;40
 mononym;50
 mononyms;50
 monopoly;50
@@ -23814,6 +23857,7 @@ myalgia;40
 myb;40
 mybad;60
 mybookaboutme;50;Dr. Seuss book
+mycenaean;30
 myear;40;"Like hell"
 myeloid;30;Bone marrow related, lots of leukemia-related Google results
 myeloma;40
@@ -23854,6 +23898,7 @@ n;1
 nabbing;50
 naboo;50;Amidala's planet
 nabors;40;Jim Nabors who played Gomer Pyle
+nachtmusik;50
 nacl;40
 nacre;30;Mother-of-pearl
 nacred;30
@@ -25345,7 +25390,7 @@ obligee;30
 obliger;30
 obligers;30
 oblongs;30
-obo;30
+obo;20
 oboedamore;50
 oboepart;40
 oboeparts;40
@@ -26555,10 +26600,10 @@ osman;30;Founder of the Ottoman Empire
 osmatic;30
 osmic;20;Relating to osmium
 osmics;30;Science of smell
-osmose;30
-osmosed;30
-osmoses;30
-osmosing;30;???
+osmose;40
+osmosed;40
+osmoses;40
+osmosing;40
 osmosis;50
 osric;40;"Hamlet" character
 oss;40;WWII spy grp.
@@ -28391,6 +28436,7 @@ plowinginto;40
 plowinto;40
 plowsinto;40
 pls;40
+pltravers;50;Mary Poppins's creator P. L. Travers
 pluggednickel;50
 pluggednickels;50
 plugnickel;50;Worthless amount
@@ -30494,6 +30540,7 @@ redkettle;50;Salvation Army thing
 redkettles;50
 redlegs;30
 redlight;50
+redlights;50
 redman;20
 redmenace;50
 redneck;50
@@ -33138,11 +33185,15 @@ seceders;30
 seckel;20;Small pear
 seckels;20
 seconal;20;Sleep drug [used once in 1970]
+secondact;50
+secondacts;50
 secondarycolor;50
 secondarycolors;50
 secondbanana;60
 secondbananas;50
 secondcoming;60
+seconddate;50
+seconddates;50
 secondo;40;Lower part of a piano duet
 secondpunicwar;50
 secrecies;30
@@ -35289,6 +35340,7 @@ sonowyouknow;60
 sonoya;40;Actress Sonoya Mizuno of "House of the Dragon"
 sonsie;20;???
 sonsinlaw;50
+sonsofadam;50
 sont;20
 sonys;30
 soo;40;Phillipa Soo of "Hamilton"
@@ -35427,6 +35479,7 @@ southpole;50
 soutine;30;French expressionist painter
 sovereignstates;50
 sovetsk;20;Russian city
+sovietbloc;50
 sowemeetagain;60
 sower;30
 sowers;30
@@ -35551,6 +35604,10 @@ speechbubble;60
 speechbubbles;60
 speedbag;50
 speedbags;50
+speeddate;60
+speeddated;60
+speeddates;60
+speeddating;60
 speedee;30;Old McDonald's mascot
 speedingto;40
 speedracer;50
@@ -35675,6 +35732,7 @@ spitsat;40
 spittingat;40
 splendiferous;60
 splenetic;40;Easily angered
+splenitis;40
 splitdecision;50
 splitdecisions;50
 splitinfinitive;50
@@ -36604,8 +36662,11 @@ streamers;50
 street;50
 streetarab;30;???
 streetart;50
-streetdate;60
-streetdates;60
+streetclosure;50
+streetclosures;50
+streetcrime;50
+streetdate;50
+streetdates;50
 streeter;30;Edward Streeter, author of "Father of the Bride" (1949)
 streetfair;50
 streetmagician;60
@@ -37425,6 +37486,7 @@ takebaths;50
 takefive;60
 takeflak;50
 takehimawayboys;60
+takeinvain;50
 takeiteasy;60
 takeitslow;60
 takeitto;1
@@ -37433,6 +37495,7 @@ takeliberties;50
 takemeasiam;60
 takenadisliketo;50
 takenbystorm;60
+takeninvain;50
 takenote;60
 takento;40
 takentothegrave;50
@@ -37467,6 +37530,7 @@ takesfive;60
 takesflak;50
 takeshowers;50
 takesign;50
+takesinvain;50
 takesittothegrave;50
 takesliberties;50
 takesorders;50
@@ -37513,6 +37577,7 @@ takingastab;50
 takingaswig;50
 takingfive;60
 takingflak;50
+takinginvain;50
 takingittothegrave;50
 takingliberties;50
 takingorders;50
@@ -38221,6 +38286,8 @@ testpilot;50
 testpilots;50
 testsfor;40
 tetany;30;Spasms caused by low calcum
+teteatete;50
+teteatetes;50
 tethys;30;Moon of Saturn
 tetley;50;Tea brand
 tetleys;30
@@ -38779,6 +38846,7 @@ thesuezcanal;40
 thesuzukimethod;40
 thetab;20
 thetable;20
+thetaftera;30
 thetaj;40
 thetale;30;Movie
 thetalk;60
@@ -39517,6 +39585,7 @@ tookastab;50
 tookaswig;50
 tookfive;60
 tookflak;50
+tookinvain;50
 tookiteasy;60
 tookittothegrave;50
 tookliberties;50
@@ -41174,7 +41243,7 @@ validid;20
 validids;20
 valine;40;Amino acid
 vallate;40;???
-valse;30
+valse;40
 valueat;40
 valuedat;50
 valuemeal;50
@@ -42217,6 +42286,7 @@ wherries;30
 wherry;30;Small British boat
 whetstone;50
 whetstones;50
+whichisit;60
 whilom;20;Former, archaic
 whipin;40
 whippedin;40
@@ -42965,7 +43035,7 @@ yateeh;20
 yates;30
 yatsen;30;Chinese revolution Sun Yat-sen
 yawnfest;60
-yaya;30
+yaya;40;Various people, or "Divine Secrets of the Ya-Ya Sisterhood"
 yaz;40;Red Sox hall of famer
 ybor;20
 yclept;20;By the name of, archaic
