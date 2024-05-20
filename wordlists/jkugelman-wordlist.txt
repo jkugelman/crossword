@@ -10257,6 +10257,8 @@ drained;50
 dramamine;50
 dramaticrole;50
 dramaticroles;50
+drankfromafirehose;60
+drankfromthefirehose;60
 drankthekoolaid;60
 drankto;40
 dratit;30
@@ -10373,10 +10375,16 @@ drillteam;50
 drillteams;50
 drils;20
 drily;20;Dryly is the preferred American spelling
+drinkfromafirehose;60
+drinkfromthefirehose;60
+drinkingfromafirehose;60
+drinkingfromthefirehose;60
 drinkingthekoolaid;60
 drinkingto;40
 drinksareonme;60
 drinksareonthehouse;60
+drinksfromafirehose;60
+drinksfromthefirehose;60
 drinksthekoolaid;60
 drinksto;40
 drinkthekoolaid;60
@@ -10468,6 +10476,11 @@ drugrep;50
 drugreps;50
 drugrunner;50
 drugrunners;50
+drugsmuggler;50
+drugsmugglers;50
+drugsmuggling;50
+drugsniffingdog;50
+drugsniffingdogs;50
 drugtrial;50
 drugtrials;50
 druguse;30
@@ -10489,6 +10502,8 @@ drumsets;50
 drumsout;30
 drunkard;5
 drunkards;5
+drunkfromafirehose;60
+drunkfromthefirehose;60
 drunkhistory;60
 drunks;5
 drunktalk;60
@@ -18424,6 +18439,10 @@ inthewash;50
 inthing;60
 intifada;30;Palestinian resistance movement
 intima;20
+intimacychoreographer;60
+intimacychoreographers;60
+intimacycoordinator;60
+intimacycoordinators;60
 intimae;20
 intimal;20
 intl;40
@@ -20978,6 +20997,7 @@ likeandsubscribe;60
 likeasnot;60
 likeclockwork;60
 likecommentandsubscribe;60
+likedrinkingfromafirehose;60
 likedto;40
 likegangbusters;60
 likehotcakes;60
@@ -22155,6 +22175,7 @@ makingafist;50
 makingahashof;50;Bungling
 makingakilling;60
 makingalist;40
+makingamurderer;50
 makinganoffer;50
 makingapass;50
 makingastatement;50
@@ -28513,6 +28534,7 @@ platinumrecord;50
 platinumrecords;50
 platypi;50
 playagig;40
+playalongathome;60
 playbook;50
 playbooks;50
 playboy;60
