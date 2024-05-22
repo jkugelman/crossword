@@ -3155,6 +3155,7 @@ badlands;50
 badloan;20
 badminton;50
 badone;20
+badones;20
 badpatch;50
 badpr;50
 badpress;50
@@ -7828,6 +7829,7 @@ cosseting;30;Pampering
 cossets;30
 costate;20;Possessing ribs
 costive;30
+costless;30;Green paint
 costumeball;50
 costumeballs;50
 costumechange;50
@@ -13729,6 +13731,8 @@ frenchbulldogs;50
 frenchclub;50
 frenchclubs;50
 frenchcuisine;50
+frenchhorn;50
+frenchhorns;50
 frenchlick;50
 frenchlit;50
 frenchmaid;50
@@ -31878,6 +31882,8 @@ rina;20;Actress Rina Morelli
 rinderpest;40;Cattle plague, second disease to be declared officially eradicated
 ring;50
 ringabell;60
+ringannouncer;50
+ringannouncers;50
 ringbearer;50
 ringbearers;50
 ringding;50
@@ -33456,6 +33462,10 @@ searchbots;60
 searchengine;50
 searchengines;50
 searchin;50
+searchresult;50
+searchresults;50
+searchwarrant;50
+searchwarrants;50
 searedahituna;50
 searle;40;Philosopher John with the "Chinese room" argument
 seascallop;50
@@ -36896,10 +36906,12 @@ stonecold;60
 stonefish;50
 stonefishes;50
 stoneme;30
+stonemountain;50
 stoner;50
 stoners;50
 stonetool;50
 stonetools;50
+stonewalljackson;50
 stoney;40;Post Malone's debut album, variant spelling of stony
 stoneylonesome;60
 stoodat;20
@@ -36928,6 +36940,8 @@ stopples;30
 stoppling;30
 stopsat;20
 stopsit;1
+storagemedia;50
+storagemedium;50
 storch;20
 storead;20;???
 storedin;40
