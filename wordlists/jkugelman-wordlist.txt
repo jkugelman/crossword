@@ -4431,6 +4431,8 @@ blewinto;40
 blewonesownhorn;50
 blewsmoke;50
 blindblindstudy;1
+blindcarboncopies;50
+blindcarboncopy;50
 blindside;60
 blindsided;60
 blindsides;60
@@ -5329,6 +5331,8 @@ businesscenter;50
 businesscenters;50
 businesscontact;50
 businesscourses;50
+businessexpense;50
+businessexpenses;50
 businessisbooming;60
 businesspartner;50
 businesspartners;50
@@ -14882,6 +14886,7 @@ goesforarun;50
 goesgeneric;50
 goesgold;50
 goesgreen;50
+goesham;60
 goeshard;50
 goesinon;50
 goesinsane;50
@@ -14941,6 +14946,7 @@ gogobars;50
 gogold;50
 gogreen;50
 gogreenorgohome;60
+goham;60
 gohard;50
 gohome;50
 goingallin;50
@@ -14961,6 +14967,7 @@ goingforarun;50
 goinggeneric;50
 goinggold;40
 goinggreen;50
+goingham;60
 goinghard;50
 goinginon;50
 goinginpeace;50
@@ -15070,6 +15077,7 @@ gonefishin;50
 gonefishing;50
 gonefission;1
 goneflat;40
+goneham;60
 gonein;40
 goneinaninstant;60
 goneinto;40
@@ -23219,6 +23227,7 @@ miler;40;One that competes in mile races, or ___-miler
 milers;40
 milessmiles;50;Miles Davis album
 militaryuniform;50
+milkchocolate;50
 milker;30
 milkers;30
 milkpunch;50
@@ -36801,6 +36810,7 @@ stillof;1
 stillstanding;50
 stillworksthough;60
 stim;40
+stimming;50
 stimulatingconversation;50
 stimulatingconversations;50
 stinge;30;Act stingily
@@ -42510,6 +42520,7 @@ wentforarun;50
 wentgeneric;50
 wentgold;50
 wentgreen;50
+wentham;60
 wenthard;50
 wentinon;50
 wentinpeace;50
