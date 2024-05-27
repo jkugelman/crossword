@@ -63,7 +63,7 @@ abandonee;30
 abargain;40;Cheap
 abase;40
 abased;40
-abasement;30
+abasement;40
 abasements;30
 abaser;30
 abasers;30
@@ -1602,10 +1602,10 @@ analemma;30
 analemmas;30
 analeptic;30
 analogical;30
-analogize;30
-analogized;30
-analogizes;30
-analogizing;30
+analogize;50
+analogized;50
+analogizes;50
+analogizing;50
 analysand;30;Person undergoing psychoanalysis
 analysands;30
 analyse;20
@@ -13706,6 +13706,7 @@ fixitinpost;60
 fla;40
 flagman;40;Member of a train crew
 flagmen;40
+flagstaffaz;40
 flakjacket;50
 flakjackets;50
 flaksuit;50
@@ -14450,6 +14451,7 @@ futzaround;50
 futzedaround;50
 futzesaround;50
 futzingaround;50
+fuze;40;Iced tea brand
 fwd;50
 fwiw;40
 fyi;50
@@ -19833,7 +19835,7 @@ iwon;50
 iwontlie;60
 iwoodpinefiryew;1
 iwouldnever;60
-ize;20
+ize;30
 izod;40;Clothing company
 izzo;50;Jay-Z single, or Michigan State coach Tom
 j;1
@@ -22664,6 +22666,7 @@ lugeteams;50
 lugworm;30
 lugworms;30
 lui;20
+luiz;40
 lullay;30
 lum;20
 lumbago;50;Lower back pain
@@ -29185,6 +29188,7 @@ petercottontail;60
 petergunn;50
 peteri;30
 peterii;30
+petewentz;40
 petflap;50
 petflaps;50
 petfriendly;50
@@ -29291,6 +29295,7 @@ phnumbers;50
 pho;50
 phobos;60;Martian moon
 phobosanddeimos;20
+phoenixaz;40
 phoneno;30
 phonenos;30
 phono;40;Prefix
@@ -44093,6 +44098,7 @@ wentto;40
 wenttoseed;50
 wentwithit;50
 wentyard;50;Hit a home run
+wentz;40;Pete Wentz from Fall Out Boy
 weptfor;40
 wereallears;60
 wereallout;60
