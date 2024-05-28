@@ -53,7 +53,7 @@ aaverage;40
 aaverages;40
 aba;30;Bar assoc.
 abacab;40
-abaci;30
+abaci;40
 aback;50
 abaculus;30
 abadegg;20
@@ -3654,7 +3654,7 @@ batcave;60
 batcaves;50
 batchit;1
 batday;50
-bate;40
+bate;30;Awkward to not be "bated"
 bates;50;Norman Bates
 batgirl;50
 batgirls;50
@@ -4533,10 +4533,14 @@ bizschools;50
 bks;20
 blackactivist;50
 blackactivists;50
+blackbagoperation;50
+blackbagoperations;50
 blackbart;50
 blackbeauty;50
 blackbottom;50;Jazz Age dance
 blackbox;60
+blackbudget;60;Budget for black ops
+blackbudgets;60
 blackcow;30;???
 blackhole;60
 blackholes;60
@@ -10216,6 +10220,7 @@ doesitlooklikeimjoking;60
 doesitlooklikeimkidding;60
 doesitlooklikeimlaughing;60
 doesitmatter;60
+doesitsparkjoy;60;Marie Kondo-ism
 doeslaps;50
 doesntgiveaflip;60
 doesnthurt;60
@@ -10229,6 +10234,7 @@ doesthatmakesense;60
 doesthatsoundright;60
 doestheconga;60
 doesthesplits;50
+doesthissparkjoy;60;Marie Kondo-ism
 doestime;50
 doesto;40;Inflicts upon ("what my boss does to me...")
 doestoat;40
@@ -17648,11 +17654,14 @@ honestjohn;50
 honeybunny;60
 honeydewmelon;50
 honeydewmelons;50
+honeydijon;50
 honeydo;60
+honeyglazed;50
 honeyimhome;60
 honeylemon;50
 honeymoonsuite;60
 honeymoonsuites;60
+honeymustard;50
 honeysac;50
 honeysacs;50
 honiara;30;Capital of the Solomon Islands
