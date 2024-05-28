@@ -6,7 +6,7 @@ from merge import *
 
 def load_word_list():
     word_list = WordList()
-    word_list.load('merged.txt', [filter(min_score=50)])
+    word_list.load('wordlist.txt', [filter(min_score=50)])
     return word_list
 
 word_list = load_word_list()
