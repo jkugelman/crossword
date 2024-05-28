@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./phrases.py | sed 's/ //g' | uniq -d
