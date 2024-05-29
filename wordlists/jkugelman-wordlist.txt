@@ -2200,6 +2200,7 @@ arequipa;40;Peruvian city/region of 1 million
 areso;40
 arete;30
 arethas;20
+aretheybuyingit;60
 aretied;20
 aretino;20;Renaissance author
 aretoo;50
@@ -2209,6 +2210,7 @@ arewenot;20
 arewethereyet;60
 areyouasleep;50
 areyoublind;60
+areyoubuyingit;60
 areyoucrazy;60
 areyoudone;60
 areyouforreal;60
@@ -4748,6 +4750,10 @@ boatrace;50
 boatraces;50
 bob;50
 bobatea;50
+bobblehead;60
+bobbleheaddoll;60
+bobbleheaddolls;60
+bobbleheads;60
 bobross;60
 bobtailnag;50
 boca;40
@@ -5043,6 +5049,8 @@ boughtonmargin;50
 boulderco;30
 bouncehouse;60
 bouncehouses;60
+bouncingball;50
+bouncingballs;50
 bouncycastle;60
 bouncycastles;60
 bounden;20
@@ -17206,6 +17214,7 @@ hesjustsayingwhateveryonesthinking;60
 hesjustsayingwhatwereallthinking;60
 hesjustsayingwhatweveallbeenthinking;60
 hesnext;40
+hesnotbuyingit;60
 hessafe;50;Baseball shout???
 hesse;40
 het;20
@@ -18648,6 +18657,7 @@ imnext;50
 imnoangel;60
 imnotabadperson;60
 imnotarobot;60;CAPTCHA checkbox
+imnotbuyingit;60
 imnotdead;60
 imnotdone;60
 imnotgoingtoreadallthat;60
@@ -19481,6 +19491,7 @@ iselin;20
 iseult;20;Isolde
 ish;40
 ishares;30;ETF collection
+ishebuyingit;60
 ishi;20
 ishipit;20;???
 isi;20;Partial [occasional]
@@ -19553,6 +19564,7 @@ isred;20
 iss;30
 issa;50;___ Rae
 isset;20
+isshebuyingit;60
 isshot;20
 issick;20
 issilly;20
@@ -35550,6 +35562,7 @@ shesjustsayingwhateveryonesthinking;60
 shesjustsayingwhatwereallthinking;60
 shesjustsayingwhatweveallbeenthinking;60
 shesnext;40
+shesnotbuyingit;60
 shew;30
 shewed;30
 shewing;30
@@ -40719,6 +40732,7 @@ thexmen;40
 theyear;20
 theygotitmade;60
 theyrenext;40
+theyrenotbuyingit;60
 theyreoff;50
 theysee;1
 theyvegotitmade;60
@@ -40737,12 +40751,15 @@ thingofthepast;60
 thingsfallapart;60
 thingsjustgotreal;60
 thinkahead;50
+thinkhesbuyingit;60
 thinkingahead;50
 thinkingoutsidethebox;60
 thinkoutsidethebox;60
 thinkpiece;60
 thinksahead;50
+thinkshesbuyingit;60
 thinksoutsidethebox;60
+thinktheyrebuyingit;60
 thinontop;50
 thiocyanate;40
 thiouracil;40;???
@@ -44115,6 +44132,7 @@ wereallset;50
 werealmostthere;60
 werebad;60
 werenext;50
+werenotbuyingit;60
 wereon;40
 wereonthesamewavelength;60
 wererich;60
@@ -45269,6 +45287,7 @@ yourekiddingright;60
 yourenext;60
 yourenofun;60
 yourenohelp;60
+yourenotbuyingit;60
 youreokay;60
 youreon;60
 youreonlyoldonce;60;Dr. Seuss book
