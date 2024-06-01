@@ -51,6 +51,7 @@ aaugh;40;Charlie Brown cry
 aave;40;African-American Vernacular English
 aaverage;40
 aaverages;40
+ab;50
 aba;30;Bar assoc.
 abacab;40
 abaci;40
@@ -3456,6 +3457,7 @@ bankers;50
 bankersbox;50
 bankersboxes;50
 bankershours;50
+bankmanfried;50;Cryptobro Sam Bankman-Fried
 bankrobberies;50
 bankrobbery;50
 bankteller;50
@@ -34121,6 +34123,7 @@ sam;50
 samadams;50
 samaria;40;Region of Israel
 sambal;40
+sambankmanfried;50;Cryptobro
 sameagle;50;Muppet
 sameas;40
 samedis;20;French Saturdays
@@ -37145,6 +37148,9 @@ souks;20;Bazaars
 soulmate;60
 soulmates;60
 sounds;50
+soundsawful;60
+soundsdelicious;60
+soundsgreat;60
 soundslegit;60
 soundslikeayouproblem;60
 soundstage;50
@@ -40182,6 +40188,9 @@ thatso;60
 thatsocool;1
 thatsodd;60
 thatsonme;60
+thatsoundsawful;60
+thatsoundsdelicious;60
+thatsoundsgreat;60
 thatsoundslikeayouproblem;60
 thatsquiteastretch;60
 thatssonotokay;60
