@@ -1391,6 +1391,7 @@ alumna;40;Female grad
 alumnimagazines;50
 alundum;20;Fused alumina used as abrasive/refractory
 alva;40;Thomas Alva Edison
+alvinbragg;50;Trump prosecutor
 alvy;40;Woody in "Annie Hall"
 alwayswasalwayswillbe;50;Australian slogan for Aboriginal rights
 alwayswasalwayswillbeaboriginalland;50
@@ -3080,6 +3081,7 @@ awesomegamesdonequick;60
 awhell;60
 awholelot;50
 awinsawin;60
+awiseguyeh;60
 awk;20
 awl;50
 awman;60
@@ -3243,7 +3245,9 @@ backrent;50
 backrest;50
 backrests;50
 backsacandidate;50
-backspins;30
+backsaw;40
+backsaws;40
+backspins;40
 backtire;50
 backtires;50
 backtolife;50
@@ -5148,6 +5152,7 @@ brae;20;Scottish hillside
 braes;20;Scottish hillsides
 braff;50
 braga;30;Sonia Braga of "Kiss of the Spider Woman"
+bragg;40;Trump prosecutor Alvin Bragg
 braggart;60
 braincell;50
 braincells;50
@@ -7717,6 +7722,9 @@ comeinto;40
 comeondown;60
 comeonecomeall;60
 comeoneileen;60
+comeonimeating;60;"Gross!"
+comeonimeatinghere;60;"Gross!"
+comeonimtryingtoeat;60;"Gross"
 comeonletsbereal;60
 comeonto;40
 comeoutandplay;60
@@ -10620,6 +10628,9 @@ doxx;50
 doya;30;ELO song
 doyoudareme;60
 doyouknowwhatyouvedone;60
+doyoumindimeating;60;"Gross!"
+doyoumindimeatinghere;60;"Gross!"
+doyoumindimtryingtoeat;60;"Gross"
 doyourfairshare;50
 doyouthinkimplaying;60
 doyouthinkitsagame;60
@@ -18617,6 +18628,8 @@ imeanit;60
 imeanto;50
 imeantwhatisaid;60
 imeanwhatisaid;60
+imeating;60;"Gross!"
+imeatinghere;60;"Gross!"
 imed;40
 imetsomeone;50
 imf;40
@@ -18770,6 +18783,8 @@ imsure;60
 imtired;50
 imtoast;60
 imtoo;20
+imtryingmybest;60
+imtryingtoeat;60
 imupforit;60
 imupset;30
 imustbedreaming;60
@@ -29863,6 +29878,9 @@ pleadto;40
 pleasebepatient;60
 pleasedo;60
 pleasedont;60
+pleaseimeating;60;"Gross!"
+pleaseimeatinghere;60;"Gross!"
+pleaseimtryingtoeat;60;"Gross"
 pleaseno;60
 pleasenote;60
 pleaserise;50
@@ -31747,8 +31765,8 @@ readapt;40
 readapted;40
 readapting;40
 readapts;40
-readathon;50
-readathons;50
+readathon;40
+readathons;40
 readd;30
 readded;30
 readds;30
@@ -42334,6 +42352,7 @@ tvstation;50
 tvstations;50
 tvstudio;50
 tvtag;20
+tvtape;20
 tvtimeout;50
 tvtimeouts;50
 tvy;40
@@ -43896,10 +43915,13 @@ wearenotalone;60
 wearer;30
 wearers;30
 wearetoast;50
+wearin;40;More commonly "break in"
 wearingawire;60
+wearingin;40
 wearingon;40
 wearon;40
 wearsawire;60
+wearsin;40
 wearson;40
 wearthetrousers;60
 weaseledoutof;40
@@ -44728,6 +44750,7 @@ wordofadvi;1
 wordprocessor;50
 wordprocessors;50
 woreawire;60
+worein;40;More commonly "broke in"
 woreon;40
 worf;40
 workaroom;50
