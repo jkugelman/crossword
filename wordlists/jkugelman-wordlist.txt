@@ -2217,6 +2217,8 @@ areyoucrazy;60
 areyoudone;60
 areyouforreal;60
 areyougame;60
+areyougoingtoeatthat;60
+areyougonnaeatthat;60
 areyougood;60
 areyouhappy;60
 areyouinsane;60
@@ -3239,6 +3241,7 @@ backgroundextras;50
 backhandspring;50
 backhandsprings;50
 backingacandidate;50
+backinmyday;60
 backissues;50
 backpocket;50
 backrent;50
@@ -10013,6 +10016,7 @@ dismast;40;Break off a ship's masts
 dismasted;40
 dismasting;40
 dismasts;40
+disneyonice;50
 dispirito;40;TV chef Rocco DiSpirito
 disport;30
 disported;30
@@ -13399,6 +13403,8 @@ felloe;20;Part of a wheel rim
 felloes;20;Parts of a wheel rim
 fellshy;50
 fellto;40
+felonries;40
+felonry;40
 feltfor;50
 feltfunny;50
 feltheard;60
@@ -18462,6 +18468,7 @@ iknewyoudlikeit;60
 iknewyoudsaythat;60
 iknewyouwhen;50;Song
 iknow;60;Han's reply
+iknowhowyoufeel;60
 iknowiknow;60
 iknowimdatingmyself;60
 iknowimdatingmyselfbut;60
@@ -18511,6 +18518,9 @@ illini;30;Illinois Fighting Illini, U. of Illinois team
 illiteracy;50
 illiterati;60
 illleaveyoutoit;60
+illletitslide;60
+illletitslidethistime;60
+illletthisslide;60
 illlive;60
 illmannered;50
 illseemyselfout;60
@@ -19061,6 +19071,7 @@ inlust;60
 inma;1
 inmesh;20;Variant of enmesh
 inmybook;60
+inmyday;60
 inmyroom;50;Beach Boys song
 inn;50
 innateness;40
@@ -37167,10 +37178,14 @@ soulmate;60
 soulmates;60
 sounds;50
 soundsawful;60
+soundsdangerous;60
+soundsdangerousimin;60
 soundsdelicious;60
 soundsgreat;60
 soundslegit;60
 soundslikeayouproblem;60
+soundsrisky;60
+soundsriskyimin;60
 soundstage;50
 soundstages;50
 soundtest;50
@@ -44092,9 +44107,12 @@ wellidknow;60
 wellimsold;60
 wellimwaiting;60
 wellitsnotmuchtolookat;60
+wellletitslide;60
+wellletitslidethistime;60
 wellletmeseenow;60
 wellletsjustsay;60
 wellletsseenow;60
+wellletthisslide;60
 wellrested;50
 wellsorta;60
 wellthatsafinehowdoyoudo;60
@@ -45278,6 +45296,8 @@ youdontmeanthat;60
 youdontsay;60
 youdothetalking;60
 youdoyou;60
+yougoingtoeatthat;60
+yougonnaeatthat;60
 yougood;60
 yougotitmade;60
 yougotmoxiekid;60
@@ -45292,6 +45312,7 @@ youidiot;60
 youllfitrightin;60
 youllgofar;60
 youllnevertakemealive;60
+youllregretthis;60
 youlookpleasedwithyourself;60
 youlose;50
 youlove;1
