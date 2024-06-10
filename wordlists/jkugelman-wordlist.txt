@@ -817,6 +817,8 @@ agelikemilk;60
 agemate;40
 agemates;40
 agent;50
+agentj;40;Will Smith's "Men in Black" character
+agentk;40;Tommy Lee Jones's "Men in Black" character
 agentry;30
 agents;50
 ageone;30
@@ -1552,6 +1554,7 @@ amongus;60
 amonra;40
 amoo;20
 amor;40
+amore;40
 amorist;40
 amorists;40
 amorite;30
@@ -1623,6 +1626,7 @@ analyses;20
 analysing;20
 anamese;20
 anamorphic;50
+ananda;40
 anania;20;Biblical liar
 ananias;20;Biblical liar
 anapest;30;Poetry term
@@ -3050,6 +3054,8 @@ avenueb;20
 avenuec;20
 avenueq;60
 averagerainfall;50
+averageshotlength;50
+averageshotlengths;50
 avernal;30;Hellish
 avernus;20
 aves;40
@@ -3419,6 +3425,8 @@ baliindonesia;50
 balkanpeninsula;50
 balker;30;???
 balkers;30;???
+balkiness;40
+balky;40
 ballantrae;20;Scottish town
 ballclub;50
 ballclubs;50
@@ -5286,6 +5294,7 @@ bridgeovertroubledwater;60
 briecheese;50
 brien;30
 brighamyoung;50
+brightlycolored;50
 brimmer;20
 brimstone;50
 bringingonesagame;60
@@ -5696,6 +5705,8 @@ bvd;40;Underwear brand
 bvds;30
 bwahaha;60
 bwahahaha;60
+bwana;30;Swahili "sir"
+bwanas;20
 bwi;40
 bxq;20
 by;50
@@ -5869,6 +5880,7 @@ camarilla;40;Nefarious inner circle
 camay;30;Vintage soap brand
 cambria;50;Coheed and Cambria
 cameat;40
+cameatabadtime;50
 camebackemptyhanded;50
 cameclean;50
 camedowntoearth;60
@@ -6582,8 +6594,8 @@ cdroms;40
 cdrs;20
 cds;40
 cdsales;30
-cdslot;30
-cdslots;30
+cdslot;40
+cdslots;40
 cdstand;40
 cdstands;40
 cdt;30
@@ -6875,7 +6887,8 @@ chefskiss;60
 chefskisses;50
 cheguevarashirt;60
 chelate;30
-chelonia;30;???
+chelonia;20
+chelonian;30;Turtle, tortoise, etc.
 chelseafc;50
 chem;40
 chemisorb;40
@@ -7756,6 +7769,7 @@ combedcotton;50;???
 combomeal;50
 combomeals;50
 comeat;40;Attack, threaten
+comeatabadtime;50
 comebackemptyhanded;50
 comebet;50
 comeclean;50
@@ -7783,6 +7797,7 @@ comeouteven;50
 comeoutofonesshell;60
 comesafter;50
 comesat;40
+comesatabadtime;50
 comesbackemptyhanded;50
 comesclean;50
 comesdowntoearth;60
@@ -7811,6 +7826,7 @@ comicbookstore;50
 comicbookstores;50
 comida;40
 comingat;40
+comingatabadtime;50
 comingbackemptyhanded;50
 comingclean;50
 comingdowntoearth;60
@@ -8472,8 +8488,8 @@ creping;30
 cresse;20
 cresset;30;Metal cup on a pole containing oil, burned as a light/beacon
 cressets;30
-cretan;30
-cretans;30
+cretan;40;Someone from Crete
+cretans;40
 cretonne;30;???
 crewel;20
 crewels;20
@@ -9257,6 +9273,7 @@ deadseton;50
 deadsexy;60
 deadshot;60
 deadspot;60
+deadtired;60
 deadtree;60
 deafears;50
 deafto;40
@@ -9834,7 +9851,7 @@ didadryrun;50
 didaduet;20
 didaflip;50
 didajig;50
-didallthetalking;60
+didallthetalking;50
 didaset;50
 didashot;50
 didastretch;50
@@ -10263,7 +10280,7 @@ doaflip;50
 doajig;50
 doall;20
 doalls;20
-doallthetalking;60
+doallthetalking;50
 doaset;50
 doashot;50
 doasisay;60
@@ -10308,7 +10325,7 @@ doesadryrun;50
 doesaduet;20
 doesaflip;50
 doesajig;50
-doesallthetalking;60
+doesallthetalking;50
 doesaset;50
 doesashot;50
 doesastretch;50
@@ -10433,7 +10450,7 @@ doingadryrun;50
 doingaduet;20
 doingajig;50
 doingajobon;60
-doingallthetalking;60
+doingallthetalking;50
 doingaset;50
 doingashot;50
 doingasolid;60
@@ -11867,7 +11884,7 @@ ellesse;30;Italian sportswear brand
 ellies;30;Magazine awards
 elliotts;30
 ellisisland;50
-ello;40
+ello;40;Cockney greeting
 ells;40
 elly;30
 elm;50
@@ -13435,6 +13452,7 @@ feelingdown;50
 feelingfor;50
 feelingfunny;50
 feelingheard;50
+feelinginonesbones;60
 feelinglikeafool;50
 feelinglikeamillionbucks;60
 feelingoff;50
@@ -13444,6 +13462,7 @@ feelingsick;40
 feelingsmall;50
 feelingtenfeettall;60
 feelingtheburn;60
+feelinonesbones;60
 feelinsatisfied;50
 feellikeafool;50
 feellikeamillionbucks;60
@@ -13456,6 +13475,7 @@ feelsfor;50
 feelsfunny;50
 feelsheard;60
 feelsick;40
+feelsinonesbones;60
 feelslikeafool;50
 feelslikeamillionbucks;60
 feelsmall;50
@@ -13495,6 +13515,7 @@ feltcutemightdeletelater;60
 feltfor;50
 feltfunny;50
 feltheard;60
+feltinonesbones;60
 feltlikeafool;50
 feltlikeamillionbucks;60
 feltoff;50
@@ -15315,7 +15336,7 @@ giselebundchen;60
 gismo;20
 gismos;20
 git;40
-gita;30;???
+gita;20
 gitano;40;Jeans brand
 gitanojeans;30
 gitanos;30
@@ -15799,6 +15820,7 @@ gooberpyle;50
 goobsolete;50
 goodaguessasany;60
 goodaim;50
+goodas;20
 goodat;40
 goodby;30
 goodcause;50
@@ -18816,6 +18838,7 @@ imnotdead;60
 imnotdone;60
 imnotgoingtoreadallthat;60
 imnotgonnareadallthat;60
+imnothavingit;60
 imnotplayingaround;60
 imnotsorry;60
 imnotyourmother;60
@@ -19151,7 +19174,7 @@ infomania;50
 inforapenny;60
 inforitnow;60
 infra;40
-ing;30
+ing;40
 inga;30;Swenson of "Benson"
 inge;40;Playwright William Inge
 ingemar;30;Ingemar Johansson, world heavyweight champion boxer in the 1950s
@@ -19706,7 +19729,7 @@ isolative;40
 isolato;30;Outcast
 isolda;20;Not Tristan's love, it's rarely spelled that way
 isomeric;40
-isonto;30
+isonto;40
 isopod;40
 isopods;40
 isotone;20;Certain atom
@@ -20238,7 +20261,7 @@ jeu;20
 jew;50
 jezebel;60
 jfk;40
-jia;50
+jia;30
 jiaozi;30;Chinese dumplings
 jib;50
 jif;50
@@ -20716,7 +20739,7 @@ keytar;60
 keytars;60
 keywitness;50
 keywitnesses;50
-kfc;50
+kfc;40
 kfed;20;Kevin Federline, Britney Spears's ex-husband
 kgb;50
 kgbspies;50
@@ -20830,6 +20853,7 @@ kinkysex;60
 kinseyinstitute;50
 kinseyscale;60
 kiowa;30;Great Plains tribe
+kiowan;30
 kiowas;30
 kip;50
 kir;30;Cocktail
@@ -20997,6 +21021,7 @@ koreanspa;50
 koreanspas;50
 korra;40;Aang's successor on Avatar, lead character of The Legend of Korra
 koruna;30;Czech currency
+korunas;30
 kos;40
 kosherdeli;50
 kosherdelis;50
@@ -22206,6 +22231,7 @@ lincolnmemorial;50
 lincolnne;30
 lindalovelace;50
 lindane;30;Lice medication
+lindas;30;Plural name
 linden;30;Tree
 lindens;30;Trees
 lindentree;40
@@ -22586,6 +22612,7 @@ lookedafter;50
 lookedat;40
 lookeddownon;50
 lookedinto;40
+lookedto;40
 lookedupto;50
 lookee;40
 lookeron;40
@@ -22595,6 +22622,7 @@ lookingat;40
 lookingdownon;50
 lookingglass;60
 lookinginto;40
+lookingto;40
 lookingupto;50
 lookinto;40
 lookma;60
@@ -22608,9 +22636,12 @@ looksdownon;50
 looksee;50;Gander
 looksees;30
 looksinto;40
+looksto;40
 looksupto;50
+lookto;40
 lookupto;50
 lookwhatidrew;60
+lookwhostalking;60
 lookyhere;60
 loomedlarge;60
 loominglarge;60
@@ -23848,6 +23879,7 @@ mbe;20
 mbeki;40;Mandela's successor Thabo Mbeki
 mca;20
 mcadam;30;Scottish road builder John Loudon McAdam
+mcadoo;40;NBA All-Star Bob McAdoo
 mcardle;40;Columnist Megan McArdle
 mcat;40
 mcats;40
@@ -23858,6 +23890,7 @@ mccc;20
 mccci;20
 mcci;20
 mccl;20
+mccoo;40;Marilyn McCoo of the 5th Dimension
 mccoys;60
 mccv;20
 mcd;20
@@ -23902,6 +23935,7 @@ mcmli;20
 mcmliii;20
 mcmx;20
 mcmxiii;20
+mcnair;40;???
 mcq;20
 mcrae;50;Singer Tate McRae, chart-topper right now (March 2024)
 mcren;40;Rapper MC Ren of N.W.A.
@@ -24341,7 +24375,7 @@ middens;20;Domestic waste dumps
 middlefinger;60
 midear;30
 midfields;30
-midi;30
+midi;40
 midinette;30;Parisian shopgirl
 midiskirt;50
 midiskirts;50
@@ -25193,6 +25227,7 @@ mudguards;50
 mudmask;50
 mudmasks;50
 mudra;30;Hindu dance gesture
+mudras;20
 mudwrap;50
 mudwraps;50
 muffinman;50
@@ -25757,7 +25792,7 @@ nemea;30;Where Hercules fought a lion
 nemean;30
 nememiah;30
 nen;20
-nena;30;"99 Luftballons" singer
+nena;40;"99 Luftballons" singer
 nene;20
 neneh;20
 nenes;20
@@ -27386,8 +27421,8 @@ olivers;30
 olivetree;50
 olivetrees;50
 olivine;30;Mineral
-olla;30
-ollas;30
+olla;40
+ollas;40
 olmec;30
 olmecs;30;Early Mexicans
 olmert;30;Israeli P.M. Ehud Olmert 2006-2009, jailed for corruption
@@ -29191,6 +29226,8 @@ pedophilia;5
 pedrad;40;SNL cast member Nasim Pedrad 2009-2014
 peduncle;30;???
 peduncles;30;???
+pedway;40;Pedestrian walkway
+pedways;40
 pee;30;Pee-wee Herman
 peed;5
 peedee;30;Carolina river
@@ -33413,7 +33450,8 @@ ringwraith;60
 ringwraiths;60
 ringy;30
 rinky;40
-rino;50
+rino;40
+rinos;40
 rinser;40
 rinsers;40
 rinso;30;Soap brand
@@ -33834,7 +33872,7 @@ rosterspots;50
 rostra;40;Podiums
 rosyboa;30;Desert snake
 rot;50
-rotc;50
+rotc;40
 rotfl;40
 roths;40
 roti;40
@@ -35989,6 +36027,8 @@ shotcraps;50
 shotglass;50
 shotglasses;50
 shothoops;50
+shotlength;50
+shotlengths;50
 shotofespresso;50
 shotoftequila;50
 shotofwhiskey;50
@@ -36533,13 +36573,14 @@ skitrips;50
 skloot;30;Author Rebecca of "The Immortal Life of Henrietta Lacks"
 skool;30
 skopje;30;Capital of North Macedonia
-sku;30
+sku;40
 skullandcrossbones;60
 skullcandy;50;Headphones brand
 skullcap;60
 skullcaps;60
 skunkfur;50
 skunkriver;50
+skus;40
 sky;50
 skyboxseat;50
 skyboxseats;50
@@ -36608,7 +36649,7 @@ slapped;60
 slappedat;40
 slapper;50
 slappingat;40
-slaps;60
+slaps;50
 slapsat;40
 slapshard;60
 slasher;50
@@ -39225,6 +39266,7 @@ susurrus;40;Whisper or rustling sound
 susurruses;40
 sutler;40
 sutras;40
+sutter;40;Sutter's Mill from the gold rush
 sutural;30;Relating to sutures
 suv;40
 suvs;50
@@ -40390,11 +40432,11 @@ teteatetes;50
 tethys;30;Moon of Saturn
 tetley;50;Tea brand
 tetleys;30
-tetra;30
+tetra;40;Fish
 tetralogy;30
 tetrapod;40
 tetrapods;40
-tetras;30
+tetras;40
 tetris;50
 teva;30;Sandal brand
 tevere;20;Rome river
