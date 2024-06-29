@@ -2907,6 +2907,7 @@ atossa;20;Mother of Xerxes
 atoz;40
 atp;20
 atplay;50
+atra;20
 atremble;40
 atreus;30;Father of Agamemnon
 ats;30
@@ -11297,7 +11298,7 @@ dyeings;30
 dyejob;60
 dyejobs;60
 dyer;30
-dyke;40;Dick Van Dyke
+dyke;5;Dick Van Dyke
 dykes;5
 dynamicduo;60
 dynamicduos;50
@@ -18483,6 +18484,7 @@ icosagons;40
 icosahedra;40
 icosahedral;40
 icosahedron;40
+icoulduseadrink;60
 icried;30;Song title
 icry;30;Song title
 ics;20
@@ -19235,6 +19237,7 @@ indwelt;30
 indya;30
 ine;30;Suffix or key signature [extremely common]
 inecstasy;50
+ineedadrink;60
 ineedahint;60
 ineedalift;60
 ineedanap;60
@@ -37500,6 +37503,8 @@ solvation;30
 solveacrossword;20
 soma;30
 somad;20
+somalian;20;Wrong, Somali is preferred
+somalians;20
 somata;20
 sombre;20
 somean;60
