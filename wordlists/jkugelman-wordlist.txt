@@ -29,6 +29,8 @@ aand;20
 aande;30
 aandw;30
 aang;40;"Avatar: The Last Airbender" protagonist
+aaonline;40;Alcoholics Anonymous online
+aapi;20;Asian American and Pacific Islander
 aar;20
 aardman;30
 aardvarkcub;50
@@ -71,7 +73,7 @@ abasers;30
 abases;40
 abashment;30
 abashments;30
-abasing;30
+abasing;40
 abatement;50
 abater;20
 abaters;20
@@ -886,6 +888,7 @@ aguafrescas;40
 ague;40;Fever
 agues;40
 aguything;60
+ah;50
 aha;50
 ahas;40
 ahchoo;20;Sneeze sound: Var.
@@ -2544,12 +2547,14 @@ ashadow;1
 asharp;40
 asharpmajor;40
 asharpminor;40
-ashbin;30
-ashbins;30
-ashcake;30;Bedouin bread
-ashcakes;30;Bedouin bread
-ashcone;30
-ashcones;30
+ashbin;40
+ashbins;40
+ashcake;40;Bedouin bread
+ashcakes;40;Bedouin bread
+ashcan;40
+ashcans;40
+ashcone;40;Accumulation of volcanic ash around a vent
+ashcones;40
 asheboro;20;Unremarkable NC city
 ashed;40
 asher;30
@@ -3115,6 +3120,7 @@ avowers;30
 avs;20
 avulse;20
 avulses;20
+aw;50
 awakeatdawn;50
 awardee;30
 awardgala;50
@@ -4809,7 +4815,7 @@ bmx;50
 bnai;30
 bnatural;40
 bneg;20
-bo;50
+bo;40
 boa;50
 boardbook;50
 boardbooks;50
@@ -7678,10 +7684,10 @@ cognomina;20
 cogsinthemachine;60
 coheed;50;Coheed and Cambria
 coheedandcambria;50;Rock band
-coheir;50
-coheiress;40
-coheiresses;40
-coheirs;50
+coheir;30
+coheiress;30
+coheiresses;30
+coheirs;30
 cohiba;40;Cigar brand
 cohn;40;Various: SportsCenter anchor Linda Cohn, Joseph McCarthy's chief counsel Roy Cohn, singer Marc Cohn
 coho;20;Salmon
@@ -11794,6 +11800,7 @@ egyptiancobras;50
 egyptiangod;50
 egyptiangods;50
 egyptianratscrew;60;Card game
+eh;50
 eharmony;50
 eher;20
 ehow;30;Learning web site
@@ -11832,7 +11839,7 @@ ekesby;40
 ekg;40
 ekingby;40
 eku;20
-el;50
+el;40
 ela;20
 elaines;30
 elal;50
@@ -12731,6 +12738,7 @@ estrus;30;When animal is in heat
 esurance;30;Insurance company
 esurience;30;Greed
 esurient;30;Greedy
+et;40
 eta;50
 etagere;40;Display case
 etageres;40
@@ -12931,6 +12939,7 @@ evolutes;20;Geometry term
 evonne;40;70s/80s #1 tennis player Evonne Goolagong
 evoo;20;Extra virgin olive oil
 evs;40
+ew;50
 ewa;20
 ewaste;50
 ewe;50
@@ -12940,6 +12949,7 @@ ewers;40
 ewr;20;Airport
 ews;40
 eww;50
+ex;50
 exactdouble;50
 exactdoubles;50
 exactedrevengeon;50
@@ -16612,6 +16622,7 @@ gyrenes;20
 gyrfalcon;30
 gyrfalcons;30
 h;1
+ha;50
 haagen;40;Häagen-Dazs
 haakon;20;Crown Prince of Norway
 haar;20;Hair: Ger.
@@ -17602,6 +17613,7 @@ highteas;50
 hightest;50
 hightop;50
 hightops;50
+highwayhypnosis;60
 hiho;40
 hihos;20
 hihowareyou;50
@@ -17728,6 +17740,7 @@ hittite;30;Ancient Turkish empire
 hittites;30
 hitto;30
 hiv;40
+hm;50
 hmm;50;[How do I respond?]
 hmmisee;30
 hmmm;20
@@ -17736,6 +17749,7 @@ hmos;40
 hms;40
 hmu;20;Has not been used yet
 hnc;20
+ho;40
 hoag;40;Romance novelist Tami Hoag
 hob;20
 hobbema;20;Dutch painter
@@ -19571,6 +19585,7 @@ inwalkingdistance;50
 inweave;30
 inweaves;30
 inweaving;30
+io;40
 ioc;40
 iocaine;50
 iocainepowder;60
@@ -20940,6 +20955,7 @@ kimye;40;Kim/Kanye
 kin;50
 kinara;30;Kwanzaa candle holder
 kinase;30;ATP enzyme
+kindsofkindness;50
 kingarthur;50
 kingboo;60
 kingcrimson;60
@@ -22299,6 +22315,7 @@ lii;20
 liii;20
 likeabumponalog;60
 likeaglove;50
+likeakidinacandystore;60
 likeandsubscribe;60
 likeasnot;60
 likeclockwork;60
@@ -22313,6 +22330,7 @@ likento;40
 likeoras;1
 likeshareandsubscribe;60
 likesto;40
+liketakingcandyfromababy;60
 liketo;40
 likewaterforchocolate;50
 likeyouwouldntbelieve;60
@@ -22585,6 +22603,7 @@ lmno;20
 lmnop;20
 lng;20
 lns;20
+lo;40
 loa;20
 loadbearingwall;50
 loadbearingwalls;50
@@ -24462,6 +24481,7 @@ mgs;30
 mgt;20
 mho;20;Conductance unit
 mhz;40
+mi;40
 mia;50
 miamian;40
 miamifl;30
@@ -24821,6 +24841,7 @@ mlx;20
 mlxi;20
 mlxv;20
 mlxx;20
+mm;40
 mma;40
 mmafight;50
 mmafighter;50
@@ -25356,6 +25377,7 @@ mtvmovieawards;50
 mtvstar;20
 mtvstars;20
 mtwtf;40
+mu;50
 muammar;40;Muammar Gaddafi
 muaythai;60
 muchas;40
@@ -26871,6 +26893,7 @@ nth;50
 ntro;20
 nts;20
 ntsb;40
+nu;50
 nub;50
 nubber;30;Weakly hit baseball
 nubble;30;Small lump
@@ -27437,6 +27460,7 @@ ojo;40
 ojos;30
 ojs;40
 ojtrial;50
+ok;50
 oka;20
 okafor;40
 okapi;40;Forest giraffe
@@ -27598,6 +27622,7 @@ oly;20
 olympiawa;30
 olympiclogo;50
 olyphant;50
+om;40
 oma;20
 omagazine;50
 omahane;30
@@ -28359,6 +28384,7 @@ oru;20
 orv;20;<Wright Brother nickname? GTFO!>
 orval;20;1950s governor
 ory;20
+os;40
 osa;20
 osakan;40
 osakans;40
@@ -28655,6 +28681,7 @@ ovular;30
 ovule;30
 ovules;30
 ovum;40
+ow;50
 owasso;20
 owe;50
 oweditto;40
@@ -28701,6 +28728,7 @@ oxy;40;Acne skin care brand
 oxygen;50
 oxytone;30
 oxytones;30
+oy;50
 oye;40
 oyecomova;50
 oyez;50
@@ -30731,6 +30759,8 @@ postbac;30
 postbacs;30
 postbags;50
 postbond;50
+postcreditscene;50
+postcreditscenes;50
 postedbond;50
 postergirl;50
 postergirls;50
@@ -30786,6 +30816,7 @@ pouffe;40;Puffy foot rest
 pouffes;40
 poufs;30;Ottomans
 poult;30;Young fowl
+poulter;40;Actor Will Poulter
 poults;30
 pounddog;50
 pounddogs;50
@@ -31553,13 +31584,18 @@ pyx;20
 q;1
 qaeda;5
 qanda;40
+qandaperiod;50
+qandaperiods;50
 qandas;40
+qandasession;50
+qandasessions;50
 qandz;40
 qas;20
 qat;30
 qbcontroversies;30
 qbs;40
 qed;50
+qi;40
 qid;20
 qin;20
 qing;40;Qing dynasty
@@ -31657,6 +31693,7 @@ qvc;50
 qwave;30;Heart wave measured in an ECG
 qxquv;1
 r;1
+ra;40
 rab;20
 rabat;30;Clerical garment
 rabats;30;Clerical garments
@@ -32193,6 +32230,7 @@ rct;20
 rd;40
 rda;40
 rds;40
+re;40
 rea;40;Mens rea, or Stephen Rea
 reacheslegalage;50
 reactedto;40
@@ -35910,6 +35948,7 @@ sgls;20
 sgs;20
 sgt;40
 sgtjoe;40;???
+sh;50
 sha;20
 shabti;20;Egyptian figurine
 shabtis;20;Egyptian figurines
@@ -39889,6 +39928,7 @@ takingapic;50
 takingashineto;50
 takingastab;50
 takingaswig;50
+takingcandyfromababy;60
 takingfive;60
 takingflak;50
 takinginvain;50
@@ -43094,6 +43134,7 @@ ugrians;20;Ancient Hungarians
 ugric;20;Ancient Hungarian
 ugsome;30;Disgusting, archaic
 ugsomeness;20
+uh;50
 uhf;40
 uhh;50
 uhnak;1
@@ -43146,6 +43187,7 @@ ululating;50
 ululation;50
 ululations;50
 ulyanov;40;Lenin's real last name
+um;50
 uma;50
 umbel;20;Flower cluster
 umbels;20;Flower clusters
@@ -43173,6 +43215,7 @@ ums;40
 umtata;20;South Africa city now known as Mthatha where Nelson Mandela comes from
 umw;20
 umyeah;50
+un;40
 una;40
 unadon;30;Japanese eel dish
 unaimed;30
@@ -44258,6 +44301,8 @@ walksouton;40
 walkswithpurpose;60
 walkwithpurpose;60
 walla;30
+wallbracket;50
+wallbrackets;50
 wallendas;50
 walloftext;60
 wallrue;40;???
@@ -44836,6 +44881,8 @@ whatinblazes;60
 whatisdeadmayneverdie;60
 whatjusthappened;60
 whatnotevenathankyou;60
+whatscookinggoodlooking;60
+whatscookingoodlookin;60
 whatseemstobetheissue;50
 whatsshakinbacon;60
 whatsthat;60
@@ -44868,6 +44915,7 @@ whendoesitend;60
 whenisit;50
 whentheshoefits;60
 whentheshoefitswearit;60
+whenyougetachance;50
 where;50
 wheredoyoudrawtheline;60
 wherehaveyougonejoedimaggio;60
@@ -45039,6 +45087,7 @@ williamssonoma;50
 willothewisp;60
 willothewisps;60
 willowbarktea;50
+willpoulter;50;Actor
 willpower;50
 willyloman;50
 willyoubequiet;60
@@ -45466,7 +45515,7 @@ wyclef;50
 wyclefjean;50
 wye;20
 wyeth;30
-wyle;50;Actor Noah
+wyle;40;Actor Noah Wyle
 wyn;20
 wyo;40;Wyoming
 x;1
@@ -45516,6 +45565,7 @@ xfile;20
 xfiles;50
 xfl;40
 xgames;60
+xi;40
 xia;20
 xiadynasty;50
 xian;30;Christian, or city of 12 million in Western China
@@ -45606,6 +45656,7 @@ xylophones;50
 xylose;30
 xyz;50
 y;1
+ya;40
 yaateeh;40;Navajo "hello"
 yabook;20
 yabooks;20
@@ -45681,6 +45732,7 @@ yaz;40;Red Sox hall of famer
 ybor;20
 yclept;20;By the name of, archaic
 yds;40
+ye;50
 yea;50
 yeabig;60
 yeahbut;50
@@ -45794,6 +45846,7 @@ ymir;20;Giant slain by Odin, from his flesh was fashioned the Earth, from his bl
 yngwie;50
 yngwiemalmsteen;50
 ynot;20;Ringo Starr song
+yo;50
 yob;20
 yoba;20
 yod;20
@@ -45927,6 +45980,7 @@ yourgrace;50
 yourhonor;50
 yourloss;60
 yourock;60
+yourpointbeing;60
 youshouldseeyourface;60
 youshouldseeyourfaces;60
 yousnoozeyoulose;60
@@ -45977,6 +46031,7 @@ yuri;40;Yuri Gagarin, first man in space
 yvettes;30
 yvie;40;Drag queen Yvie Oddly
 z;1
+za;40
 zac;50
 zack;50
 zag;50
