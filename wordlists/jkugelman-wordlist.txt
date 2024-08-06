@@ -62,7 +62,11 @@ abaculus;30
 abadegg;40
 abaft;30
 aball;20
+abandonedship;50
 abandonee;30
+abandoningship;50
+abandonship;60
+abandonsship;50
 abargain;40;Cheap
 abase;40
 abased;40
@@ -2803,7 +2807,7 @@ ataxia;40
 ataxy;30
 atbar;30;In court
 atc;20
-atcamp;40
+atcamp;20
 ate;50
 atealittle;20
 atealone;40
@@ -3939,6 +3943,8 @@ beanbunny;50;Muppet
 beaneater;5
 beansprout;50
 beansprouts;50
+beanstalk;60
+beanstalks;50
 beantomeatratio;1
 bearbait;50
 bearcrawl;50
@@ -3984,6 +3990,8 @@ beautytip;50
 beautytips;50
 beauxesprits;50;People with gifted minds
 beav;40
+beaverdam;60
+beaverdams;60
 beaverkit;50
 beaverkits;50
 beaverlodge;50
@@ -4737,6 +4745,8 @@ blooddonor;50
 blooddonors;50
 blooddrive;50
 blooddrives;50
+bloodfeud;60
+bloodfeuds;60
 bloodplasma;50
 bloodtie;50
 bloodties;50
@@ -6338,6 +6348,10 @@ cartilages;40
 cartingoff;50
 cartoff;50
 cartoonish;50
+cartoonshort;50
+cartoonshorts;50
+cartoonstrip;50
+cartoonstrips;50
 cartoonviolence;60
 cartrunk;50
 cartrunks;50
@@ -7334,6 +7348,10 @@ clarkgable;50
 claro;40
 classclown;60
 classclowns;60
+classicmovie;50
+classicmovies;50
+classicnovel;50
+classicnovels;50
 classico;40;???
 classpresident;50
 classpresidents;50
@@ -9040,6 +9058,7 @@ dal;20
 dalailama;60
 dalailamas;50
 dalasi;30;Gambian currency
+dalecarnegie;50
 dalene;20;Couer d'Alene, Idaho
 daleth;20;Hebrew letter
 daleths;20
@@ -17564,7 +17583,9 @@ hiddenmic;50
 hiddenmics;50
 hideftv;40
 hideftvs;40
+hidehi;30;Cab Calloway phrase
 hidein;40
+hideki;40;???
 hideme;20
 hideo;40;Hideo Kojima of Metal Gear Solid, baseball's Hideo Nomo
 hider;30
@@ -21164,6 +21185,7 @@ kookier;50
 koolaid;50
 koolaiddrinker;60
 koolaiddrinkers;60
+koolaidman;60
 koolmoedee;50
 koopa;40
 koostark;40
@@ -22321,6 +22343,7 @@ ligative;30
 ligeia;20
 liger;40
 ligers;40
+ligeti;40;20th century composer György Ligeti
 lightair;50;1 on the Beaufort wind force scale
 lightbreeze;50;2 on the Beaufort wind force scale
 lightecho;50
@@ -22559,6 +22582,7 @@ litre;40
 litres;40
 litter;50
 littheway;50
+littledorrit;50;Dickens novel
 littlegiantsnowcloudseeder;60;Acme invention
 littlejoe;50
 littleman;60
@@ -24536,6 +24560,7 @@ micas;30
 miceandmen;1
 mich;40;Michigan
 michaelcaine;60
+michaelpalin;50
 mickey;50
 mickeymouse;50
 micks;30
@@ -27656,6 +27681,10 @@ oluo;30;Author Ijeoma Oluo
 oly;20
 olympiawa;30
 olympiclogo;50
+olympicpodia;50
+olympicpodium;50
+olympicpool;50
+olympicpools;50
 olyphant;50
 om;40
 oma;20
@@ -28263,8 +28292,8 @@ orc;50
 orcapod;50
 orcapods;50
 orcawhale;40
-orchestrapit;60
-orchestrapits;60
+orchestrapit;50
+orchestrapits;50
 orchil;20;Violet dye
 orchis;20;Orchid genus
 orcinus;20;Dolphin genus
@@ -29081,6 +29110,9 @@ paren;40
 parens;40
 parentals;60
 parentalunits;60
+parenthetically;50
+parentingtip;50
+parentingtips;50
 parer;40
 parers;40
 paresis;40;Muscular weakness
@@ -29777,6 +29809,8 @@ pgachampionship;50
 pgachampionships;50
 pgatour;50
 pgh;20
+pgratedmovie;50
+pgratedmovies;50
 pgs;20
 ph;40
 phaedrus;50
@@ -33768,6 +33802,7 @@ rivercard;50
 rivercards;50
 riverstyx;60
 riving;20;Splitting apart
+rivoli;40;Napoleon battle site
 riz;20
 rizz;60;Charisma, slangily
 rizzotherat;50;Muppet
@@ -38460,6 +38495,7 @@ startedat;40
 startedatab;50
 startedon;40
 starterbras;50
+starterfluid;50
 starterkit;50
 starterkits;50
 startingallover;50
@@ -41721,6 +41757,7 @@ timothee;50
 timothyolyphant;50
 timreid;30;Actor
 tims;30
+timwalz;50;Kamala Harris's VP candidate
 tin;50
 tinafey;50
 tinamarie;40;???
@@ -41791,6 +41828,7 @@ tisane;20;Herbal tea
 tisanes;20;Herbal teas
 tisapity;50
 tisch;40;NYU Tisch School of the Arts
+tishri;30;Hebrew month
 tisiphone;40;One of the three Furies
 tisnt;40
 tissuesample;50
@@ -41829,6 +41867,7 @@ tits;5
 tittoo;20
 titularly;30
 tiu;20
+tivoli;40
 tix;40
 tjhooker;50;Shatner police drama
 tko;40
@@ -41974,7 +42013,7 @@ tolease;50
 toledooh;20
 toledoohio;30
 toledos;40;Old swords
-tolet;30
+tolet;40
 tolle;30;Self-help author Eckhart Tolle
 toller;30;Real word???
 tollers;30
@@ -44360,6 +44399,7 @@ wallstreet;50
 walruscalf;50
 walruscalves;50
 waltdisney;60
+walz;50;VP candidate Tim Walz
 wampum;40
 wan;50
 wanderaroundtown;50
