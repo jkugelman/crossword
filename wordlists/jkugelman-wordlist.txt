@@ -818,6 +818,7 @@ agegap;50
 agegaps;50
 agegrade;50
 ageing;30;British spelling
+ageings;20
 agelikefinewine;60
 agelikemilk;60
 agemate;40
@@ -984,6 +985,7 @@ airedonesdirtylaundry;60
 airedoutonesdirtylaundry;60
 airer;40
 airers;40
+aires;40
 airfilter;50
 airfilters;50
 airforce;50
@@ -1926,6 +1928,7 @@ anyluck;60
 anymomentnow;60
 anyportinastorm;60
 anysecondnow;60
+anytomdickorharry;60
 anyworse;50
 anzac;30;Aussie/NZ holiday
 aoc;40
@@ -2825,6 +2828,7 @@ atehealthy;50
 atehighoffthehog;60
 atehighonthehog;60
 ateinto;40
+ateitup;50
 atekosher;50
 atelate;1
 ateless;40
@@ -4486,6 +4490,8 @@ billingto;40
 billmoyers;50
 billofgoods;60
 billofrights;50
+billpaxton;50
+billpullman;50
 billsto;40
 billto;40
 billyjoe;40;???
@@ -6953,6 +6959,8 @@ chefskiss;60
 chefskisses;50
 cheguevarashirt;60
 chelate;30
+chelated;40
+chelates;30
 chelonia;20
 chelonian;30;Turtle, tortoise, etc.
 chelseafc;50
@@ -7382,6 +7390,7 @@ clearsoup;50
 clefairy;50;Pokeyman
 clegg;20;???
 clem;40;Nickname, various
+clematis;20;Flower genus
 clementmoore;50
 clemenza;40;Peter Clemenza, "The Godfather" character
 cleon;30;Pericles rival, or baseballer
@@ -8780,6 +8789,7 @@ csu;20
 cta;20
 cteam;40
 cteams;40
+cthulhu;60
 ctn;20
 cto;40
 ctr;30;Center, contractor
@@ -9589,6 +9599,7 @@ deionize;50
 deionized;50
 deixis;20;Linguistic term
 deja;40
+dejager;30
 dejavu;60
 dejure;50
 dekalb;30;???
@@ -10587,8 +10598,12 @@ dollardollarbillsyall;60
 dollarsign;50
 dollarsigns;50
 dollarstodonuts;60
+dolledup;50
 dollface;50
+dollingup;50
 dolls;50
+dollsup;50
+dollup;50
 dolma;40
 dolmas;40
 doloop;20
@@ -11493,6 +11508,7 @@ eatingfrom;40
 eatinghealthy;50
 eatinghighoffthehog;60
 eatinghighonthehog;60
+eatingitup;50
 eatingkosher;50
 eatinglikeananimal;60
 eatinglunch;30
@@ -11502,6 +11518,7 @@ eatingthem;1
 eatingup;50
 eatinto;40
 eatit;50
+eatitup;50
 eatkosher;50
 eatless;40
 eatlikeananimal;60
@@ -11522,6 +11539,7 @@ eatshealthy;50
 eatshighoffthehog;60
 eatshighonthehog;60
 eatsinto;40
+eatsitup;50
 eatskosher;50
 eatslate;30
 eatslikeananimal;60
@@ -12249,6 +12267,7 @@ enfeoffing;30
 enfeoffment;30;Medieval law term
 enfield;30
 enframe;30;???
+enfuego;50
 eng;40
 engadin;30;Swiss Alps region
 engadine;30;Swiss Alps region
@@ -12947,6 +12966,7 @@ evertor;30
 everyonemakesmistakes;60
 everysingletime;60
 everythingeverywhereallatonce;60
+everytomdickandharry;60
 evictor;30
 evie;40
 evildead;60
@@ -13842,6 +13862,7 @@ firecrews;50
 firedashot;50
 firedat;40
 firedonallcylinders;60
+firedupon;40
 fireemoji;60
 fireengine;50
 fireenginered;50
@@ -13871,10 +13892,13 @@ firesashot;50
 firesat;40
 fireseason;50
 firesonallcylinders;60
+firesupon;40
+fireupon;40
 firingashot;50
 firingat;40
 firingonallcylinders;60
 firings;30
+firingupon;40
 firmbelief;50
 firmbeliefs;50
 firmoffer;50
@@ -15905,6 +15929,7 @@ gomad;50
 gomadfor;40
 goman;20
 gompers;30;Labor pioneer Samuel Gompers
+gomulka;20;Polish leader Władysław Gomułka post-WWII
 gon;20
 gondorff;40;Paul Newman's "The Sting" character Henry Gondorff
 gondwanan;50
@@ -17599,6 +17624,7 @@ hied;40
 hierarch;40;Chief priest, archbishop, or other leader
 hierarchal;20;Bad variant
 hierarchs;40
+hieratic;30;Ancient Egyptian writing system
 hieroglyph;50
 hieroglyphs;50
 hieronymus;50
@@ -18332,6 +18358,7 @@ hungjuries;50
 hungjury;50
 hungtough;50
 hunter;50
+hunterbiden;50
 hup;40
 hur;30
 hurly;40;Hurly-burly
@@ -20176,7 +20203,7 @@ ivdrugs;50
 ive;50
 ivebeenhad;60
 ivedoneit;60
-iveeaten;60
+iveeaten;50
 ivefallen;1
 ivegot;1
 ivegotitmade;60
@@ -20242,10 +20269,14 @@ jackass;60
 jackasses;60
 jacketcopy;50
 jackhammer;60
+jackjohnson;50
+jackkennedy;50
+jacknicholson;50
 jackolantern;60
 jackrussell;50
 jackrussells;50
 jacksonms;40
+jackwebb;50
 jacobeanera;50
 jacobs;30
 jaderabbit;50
@@ -21973,6 +22004,9 @@ legalids;50
 legallimit;50
 legate;30;Papal ambassador
 legatee;20;Person who receives a legacy
+legator;30
+legators;30
+legatos;40
 legchain;50
 legchains;50
 legcramp;50
@@ -22211,6 +22245,8 @@ leucoma;40;Eye condition
 leucotomy;30;Lobotomy
 leukoma;40;Eye condition
 lev;20
+levator;30;Muscle that raises a body part
+levators;30
 levela;20
 levier;30
 leviers;30
@@ -22388,6 +22424,7 @@ liketakingcandyfromababy;60
 liketo;40
 likewaterforchocolate;50
 likeyouwouldntbelieve;60
+likud;30;Israeli right-wing political party
 lil;50
 liletee;20;1992 Kentucky Derby winner
 lille;30;French city
@@ -23366,6 +23403,7 @@ madeshortworkof;60
 madethebigbucks;60
 madetime;50
 madetimefor;50
+madeupof;40
 madewar;30
 madewaves;60
 madhouse;60
@@ -24972,7 +25010,16 @@ mobcap;30;18th century bonnet
 mobcaps;30
 mobil;50
 mobilead;50
+mobileads;50
 mobileal;20
+mobileapp;50
+mobileapps;50
+mobiledevice;50
+mobiledevices;50
+mobilehome;50
+mobilehomes;50
+mobilepayment;50
+mobilepayments;50
 moblaw;50
 mobracket;50
 mobrackets;50
@@ -26016,12 +26063,14 @@ neisse;20;German/Poland border river
 neko;30;Neko Case, member of the indie band New Pornographers
 nekton;20
 nel;20
+nell;40
 nella;20
 nelle;30
 nelligan;20
 nellis;30;Las Vegas Air Force base
 nellybly;50
-nematodes;20
+nematode;40;Roundworm
+nematodes;40
 nemcon;20
 nemea;30;Where Hercules fought a lion
 nemean;30
@@ -27965,6 +28014,7 @@ onewatt;40
 onewoman;30
 onewood;40
 onfeed;40
+onfirst;50
 ongod;50
 onhard;1
 onhire;40;In service, British slang
@@ -29997,8 +30047,8 @@ piddling;50
 piddly;50;Piddling
 pie;50
 piealamode;50
-piecaken;50
-piecakens;30
+piecaken;60;"The Turducken of Cakes"
+piecakens;50
 piecer;30
 piedough;50
 piedpiper;60
@@ -30284,6 +30334,7 @@ plaining;20;Complaining, archaic
 plainold;50
 plaintosee;60
 plainviewnebraska;30;???
+plame;40;Valerie Plame
 planaria;20
 planarian;20;Flatworm
 planck;50
@@ -30349,8 +30400,10 @@ platies;30;???
 platinumrecord;50
 platinumrecords;50
 platypi;50
+playa;40
 playagig;40
 playalongathome;60
+playas;40
 playbook;50
 playbooks;50
 playboy;60
@@ -30963,6 +31016,7 @@ practicaleffect;50
 practicaleffects;50
 prada;50
 pradas;40
+prado;40;Spanish museum
 praenomen;20;Ancient Roman's first name
 praetor;30;Roman magistrate
 praetorian;50
@@ -31175,6 +31229,8 @@ prismoid;30
 prismoids;30
 prisonbreak;50
 prisonbreaks;50
+prisoncell;50
+prisoncells;50
 prisonriot;50
 prisonriots;50
 prisonsentence;50
@@ -32186,6 +32242,7 @@ rasam;20
 rasher;30
 rashers;30
 rashest;30
+rashidatlaib;50
 raskin;40;"The Westing Game" author Ellen Raskin
 raspberried;60
 raspberries;50
@@ -36608,6 +36665,9 @@ singin;40
 singingof;40
 singingto;40
 singit;40
+singlecelledlife;50
+singlecelledorganism;50
+singlecelledorganisms;50
 singlemaltscotch;50
 singlemom;50
 singlemoms;50
@@ -36792,8 +36852,10 @@ skibobbing;30
 skibobs;30
 skichalet;50
 skichalets;50
+skiddy;40
 skidlid;50
 skidlids;50
+skidoo;40
 skidrowbum;30
 skiings;20
 skijacket;50
@@ -41135,6 +41197,7 @@ themap;20
 themarines;40
 themarsvolta;50
 themasters;50
+themayor;40;Shortlived TV show
 themedalofhonor;20
 themedia;40
 themeg;50;Shark movie
@@ -41883,7 +41946,7 @@ tkos;40
 tks;20
 tkt;20
 tla;20
-tlaib;50;Congresswoman Rashida Tlaib of "The Squad"
+tlaib;40;Congresswoman Rashida Tlaib of "The Squad"
 tlaloc;20;Aztec rain god
 tlaxcala;20;Mexican state
 tlc;40
@@ -41971,11 +42034,13 @@ tofusalad;50
 tog;30;Dress (up)
 togae;30
 togaed;40
+togatoga;20
 togged;30
 toggery;40
 togging;30
 togs;30
 togsout;30
+togup;30
 toheart;40
 tohellandback;60
 toi;20
@@ -43681,6 +43746,7 @@ uru;20
 us;50
 usa;50
 usaf;40
+usafb;40
 usages;50
 usaid;40
 usainbolt;60
@@ -44164,6 +44230,9 @@ viptour;50
 viptours;50
 viptreatment;50
 vir;20
+virago;30;Domineering woman, shrew
+viragoes;30
+viragos;30
 vireo;20;Songbird
 vireos;20
 virginears;60
@@ -45537,6 +45606,8 @@ wowza;60
 wowzers;60
 woz;50
 wpa;20
+wpamural;40
+wpamurals;40
 wpm;40
 wrangle;50
 wrangled;50
@@ -45781,6 +45852,7 @@ yalemen;30
 yalie;30
 yalies;30
 yam;50
+yamamoto;40;WWII admiral Isoroku Yamamoto
 yamen;20
 yamens;20
 yan;20
