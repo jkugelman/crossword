@@ -830,6 +830,7 @@ agentry;30
 agents;50
 ageone;30
 ager;30
+ageratum;20;Flower genus
 agers;30
 ageslikefinewine;60
 ageslikemilk;60
@@ -1079,6 +1080,8 @@ alaia;20;80s fashion designer
 alain;30
 alaina;30;Singer Lauren Alaina... notable???
 alakazam;60;Magic word, or Pokémon
+alamein;40;WWII battle site El Alamein
+alament;40;Shelley poem
 alamodes;20;Fabrics
 alamosa;20;Colorado city
 alandershowitz;50
@@ -1859,6 +1862,8 @@ answersto;40
 answerto;40
 ant;50
 antae;20
+antcow;40;An aphid from which ants obtain honeydew
+antcows;40
 anteaterpup;50
 anteaterpups;50
 antecede;30
@@ -2749,6 +2754,7 @@ astern;50
 astew;20
 asti;30;Wine region
 astight;1
+astilbe;20;Flower genus
 asto;40
 astolat;30
 astoldto;30
@@ -4089,6 +4095,7 @@ beepedat;40
 beepingat;40
 beepsat;40
 beer;50
+beeramid;60
 beerbatter;50
 beerbattered;50
 beerbatters;50
@@ -4318,6 +4325,7 @@ betatests;50
 betatestversion;50
 betatron;50;Particle accelerator
 betatrons;50;Particle accelerators
+betel;40;Climbing plant
 betenoire;50
 bethatasitmay;60
 bethe;20;Partial
@@ -4559,6 +4567,7 @@ biotype;40
 biotypes;40
 bip;20
 bipoc;40;Acronym for black, indigenous, and other people of color
+birdapp;20
 birdinhand;20
 birdland;50;???
 birdman;50
@@ -5894,6 +5903,10 @@ caliente;40
 californiaroll;50
 californiarolls;50
 calla;30;Type of lily
+callbullshit;60
+callbullshiton;60
+calledbullshit;60
+calledbullshiton;60
 calledfor;40
 calledfoulon;50
 calleditintheair;50
@@ -5903,6 +5916,8 @@ callfor;40
 callfoulon;50
 callie;30;???
 calligram;50
+callingbullshit;60
+callingbullshiton;60
 callingfor;40
 callingfoulon;50
 callingitintheair;50
@@ -5915,6 +5930,8 @@ callitintheair;60
 calllog;50
 calllogs;50
 callme;50
+callsbullshit;60
+callsbullshiton;60
 callsfor;40
 callsfoulon;50
 callsignals;20
@@ -6476,6 +6493,7 @@ catchoffguard;50
 catchonfire;50
 catchow;50
 catchwaves;50
+catdom;40
 catdoor;50
 catdoors;50
 catena;20
@@ -10062,6 +10080,7 @@ diking;40
 diktat;30;Unpopular decree
 diktats;30;Unpopular decrees
 dil;20
+dilatory;40
 dili;30;Capital of East Timor
 dilla;40;Hip hop producer J Dilla, NYT debut
 dillspear;50
@@ -10277,13 +10296,16 @@ divagation;40
 divagations;40
 diveinto;40
 diver;50
+diverightin;50
 divers;50
 divesinto;40
+divesrightin;50
 dividendcheck;50
 dividendchecks;50
 divinginto;40
 divingmask;50
 divingmasks;50
+divingrightin;50
 divvied;50
 divvies;50
 divvy;50
@@ -10482,6 +10504,7 @@ dogcatcher;50
 dogcatchers;50
 dogchow;50
 dogdays;60
+dogdom;40
 dogdoor;50
 dogdoors;50
 doge;30
@@ -10823,7 +10846,10 @@ dourest;50
 doux;30
 doveinto;40
 dovekie;20;Little auk bird
-doverde;20
+doverde;30
+doverightin;50
+dovetailjoint;50
+dovetailjoints;50
 dovey;40;Lovey-dovey
 dow;40
 dowdy;50
@@ -11227,6 +11253,8 @@ duckinto;40
 duckpond;50
 duckponds;50
 ducksinto;40
+ducktail;50
+ducktails;50
 ducttape;50
 dud;50
 duddy;40;Fuddy duddy
@@ -12262,6 +12290,7 @@ eneros;20
 enesco;40;Romanian composer George Enescu / Georges Enesco
 enescu;40;Romanian composer George Enescu / Georges Enesco
 enfamille;50
+enfants;40
 enfeoffed;30
 enfeoffing;30
 enfeoffment;30;Medieval law term
@@ -16586,6 +16615,7 @@ guider;40
 guiderail;50
 guiderails;50
 guiders;40
+guillermos;30;Plural name
 guilttrip;50
 guilttrips;50
 guilty;50
@@ -16955,6 +16985,7 @@ happyjuice;60
 happylittletrees;60
 haps;30
 har;40
+haralds;20
 haram;30;Boko Haram
 harare;40;Capital of Zimbabwe
 hardagree;60
@@ -17380,7 +17411,7 @@ heliacal;20;Near the sun
 helicoid;30;???
 heliostat;40;Solar power device
 heliostats;40
-hell;60
+hell;50
 hella;50
 hellacool;60
 hellbent;60
@@ -18099,6 +18130,7 @@ horrorshow;60
 hors;40
 horse;50
 horsebackriding;50
+horsedom;40
 horsefeathers;60
 horsehockey;60
 horsepill;50
@@ -18117,6 +18149,7 @@ horsier;30
 horsies;50
 horsiest;30
 horst;30;Geology word, or first name
+horsy;40;Like a horse
 hortative;20
 hortatory;20
 hortonhatchestheegg;60;Dr. Seuss book
@@ -19342,6 +19375,7 @@ inexistent;40
 inf;20
 infanta;30
 infantas;30
+infearof;40
 inferioritycomplex;60
 infester;30
 infesters;30
@@ -19624,6 +19658,7 @@ intrusted;40
 intrusting;40
 intrusts;40
 inu;30;Shiba inu [only once in 2022]
+inuits;30;Bad plural, it's just "Inuit"
 inuk;30;Single Inuit
 inunct;20;Rub with ointment
 inunction;30;Rub with ointment
@@ -25071,6 +25106,7 @@ moirepatterns;50
 moises;20;Biblical name
 moisttowelette;50
 moisttowelettes;50
+moisturewicking;50
 mojo;60
 mol;20
 molepup;50
@@ -25282,6 +25318,7 @@ morty;50
 mos;40
 moscone;30;San Francisco mayor George
 mosconi;30;Pool player Willie
+moselle;40
 moshe;30;Various Israelis
 moshita;30
 mosses;30
@@ -25817,6 +25854,7 @@ nascarraces;50
 nashequilibrium;50
 nasim;30;S.N.L. alum Nasim Pedrad
 nassaubahamas;50
+nasser;40
 nast;40
 nastase;30;Tennis champ Ilie Nastase
 nastia;30;Gymnast Nastia Liukin
@@ -25874,6 +25912,7 @@ navalcadet;50
 navalcadets;50
 navalfleet;50
 navalfleets;50
+navalny;40
 navalship;50
 navalships;50
 navarre;20
@@ -27358,6 +27397,7 @@ oddish;40;Somewhat odd
 oddjob;60
 oddjobs;60
 oddmenout;50
+oddment;40
 oddsare;50
 oddsfor;20
 oddsmaker;50
@@ -28444,7 +28484,7 @@ origami;50
 origanum;30;???
 orinda;20;California town
 orisit;60
-orisitme;50;Follow-up to "Has the world gone crazy..."
+orisitme;20;Follow-up to "Has the world gone crazy..."
 ork;40
 orkan;30;From Ork
 orl;20
@@ -28480,6 +28520,7 @@ orosco;30;Jesse Orosco, major league record for career pitching appearances
 orotund;20;Deep, sonorous
 orpah;20;Biblical name
 orphanbot;60;"Futurama"'s Tinny Tim
+orphic;30;Concerning Orpheus or Orphism
 orpine;20;Plant
 orpines;20
 orr;40
@@ -28646,6 +28687,7 @@ ouidas;1
 ouis;40
 oulon;20;Tiny French port
 our;50
+ouray;30;"Little Switzerland of Colorado"
 ourlittlesecret;60
 ouroboros;60
 ours;50
@@ -29783,6 +29825,7 @@ pervert;5
 perverts;5
 pervs;5
 pes;20
+pesach;40;AKA Passover
 pesade;30;Horse dressage maneuver
 pesante;30
 pescetaranism;1
@@ -29922,6 +29965,8 @@ pho;50
 phobos;60;Martian moon
 phobosanddeimos;20
 phoenixaz;40
+phoneinterview;50
+phoneinterviews;50
 phoneno;30
 phonenos;30
 phono;40;Prefix
@@ -31080,6 +31125,7 @@ prejean;40;Sister Helen Prejean, author of "Dead Man Walking"
 prelacies;30
 prelacy;30
 prelate;30;High-ranking Christian
+prelates;30
 prell;30;Green shampoo brand
 premeal;30
 premeds;30
@@ -31859,12 +31905,15 @@ racebib;50
 racebibs;50
 raceby;40
 racedby;40
+racedinto;40
 racedto;40
 racefan;30
 racefans;30
+raceinto;40
 raceme;30;Type of flower
 racemes;30;Type of flower
 racesby;40
+racesinto;40
 racesto;40
 raceto;40
 racetothebottom;60
@@ -31876,6 +31925,7 @@ rachitis;30;Rickets
 racine;40;Jean Racine, 17th century French dramatist, well-regarded
 racingbikes;50
 racingby;40
+racinginto;40
 racingto;40
 racist;30
 racists;30
@@ -33647,6 +33697,7 @@ rias;20;Narrow inlets
 riata;40;Lasso
 riatas;40;Lassos
 rib;50
+ribalds;40
 riband;30;???
 ribbier;30
 ribbiest;30
@@ -34001,6 +34052,7 @@ rodethepine;50
 rodeto;40
 rodino;30;Nixon impeachment chairman Peter Rodino
 rodless;30;Type of cylinder
+rodolfo;40
 rodsandcones;50
 rodserling;50
 roe;50
@@ -34196,8 +34248,11 @@ roseate;40
 rosecolored;50
 rosecoloredglasses;60
 rosecut;50
+rosekennedy;50
+roselle;40
 rosemadder;60
 rosemaries;30
+rosemaryclooney;50
 rosencrantz;60
 roseperiod;50
 rosepetal;50
@@ -34227,6 +34282,7 @@ rosterspots;50
 rostra;40;Podiums
 rosyboa;30;Desert snake
 rot;50
+rotatory;40
 rotc;40
 rotfl;40
 roths;40
@@ -34876,6 +34932,7 @@ santasworkshop;60
 santee;20
 santolina;20;Chamomile genus
 santos;30;Disgraced Congressman George Santos
+sanyo;40
 sanyos;40;Some TVs
 sanz;50
 sao;40
@@ -35014,6 +35071,7 @@ sautepans;50
 sauvignonblanc;50
 sauvignonblancs;50
 sav;20
+saveall;50
 savedface;60
 savedgas;50
 savedon;40
@@ -35756,6 +35814,7 @@ sendacard;50
 sendafax;50
 sendai;20;Japanese city
 sendby;40
+sendee;40
 sendflowers;50
 sendin;40
 sendingacard;50
@@ -38490,7 +38549,9 @@ stapleguns;50
 staranise;50
 starbaker;60
 starbakers;60
+starbies;50;Starbucks
 starboard;50
+starbs;50;Starbucks
 starburst;60
 starbursts;60;Explosive patterns
 starbury;50;Stephon Marbury of the NBA
@@ -40166,6 +40227,7 @@ tamora;30;Queen in Titus Andronicus, or fantasy author Tamora Pierce
 tampafl;20
 tampan;20
 tampere;30;???
+tampico;40;Mexican port
 tams;50
 tan;50
 tanach;30;Hebrew Bible
@@ -40376,6 +40438,7 @@ taxid;30
 taxidancer;50
 taxidancers;50
 taxlaw;50
+taxlaws;50
 taxol;30;Chemotherapy drug
 taxon;40;Kingdom, phylum, etc.
 tay;40;Taylor Swift nickname
@@ -43553,6 +43616,7 @@ unpiles;30
 unpoco;40
 unpot;30
 unraised;50
+unreason;40
 unrep;30;U.N. rep.
 unreps;30
 unrests;30
@@ -44567,6 +44631,7 @@ washoe;40;Nevada county with Reno and Lake Tahoe
 washtubbass;50
 washtubbasses;50
 washy;40
+wasilla;30;Alaskan city (pop. 9054)
 wasin;40
 wasinfor;20
 wasitgoodforyou;60
