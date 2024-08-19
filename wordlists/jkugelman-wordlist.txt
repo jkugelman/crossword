@@ -3730,6 +3730,8 @@ bassline;50
 basslines;50
 basso;40
 basspaleale;50
+bassplayer;50
+bassplayers;50
 basssolo;60
 basssolos;60
 bast;30
@@ -4665,6 +4667,8 @@ blackholes;60
 blackhumor;60
 blackjackdealer;50
 blackjackdealers;50
+blackjackplayer;50
+blackjackplayers;50
 blacklist;50
 blacklisted;50
 blacklisting;50
@@ -5601,10 +5605,14 @@ bulkmailers;50
 bulkout;50;???
 bulksout;50
 bull;50
+bulldogedition;50
+bulldogeditions;50
 bullgun;50
 bullguns;50
 bullhockey;60
 bullpen;50
+bullpencoach;50
+bullpencoaches;50
 bullpens;50
 bulls;50
 bullyforher;60
@@ -6071,6 +6079,7 @@ candh;20
 candidate;50
 candle;50
 candlewax;50
+candyass;60
 candyassed;60
 candycoat;50
 candycoated;50
@@ -8573,16 +8582,20 @@ crapsgames;50
 crapstable;50
 crapstables;50
 crashedinto;40
+crashedon;40
 crashesinto;40
+crasheson;40
 crashhelmet;50
 crashhelmets;50
 crashinginto;40
+crashingon;40
 crashinto;40
 crashland;50
 crashlanded;50
 crashlanding;50
 crashlandings;50
 crashlands;50
+crashon;40
 crashtest;50
 cratedig;50
 cratedigger;50
@@ -8819,7 +8832,11 @@ crum;20
 crus;20;French vineyards
 crusado;20;Old Portuguese coin
 crusados;20
+crushedon;40
 crushedtomatoes;50
+crusheson;40
+crushingon;40
+crushon;40
 crx;20
 cry;50
 cryingoutto;40
@@ -14811,6 +14828,8 @@ fullbirdcolonels;50
 fullforce;50
 fullgainer;50
 fullhouse;60
+fullmarathon;50
+fullmarathons;50
 fullspread;50
 fullspreads;50
 fulness;20
@@ -16824,6 +16843,8 @@ habanero;50
 habiliment;30;Clothing, usually plural
 hacek;30;Czech diacritic (ˇ)
 hackat;40
+hackathon;60
+hackathons;60
 hackbut;30;Early firearm
 hackbuts;30;Early firearms
 hackedat;40
@@ -17784,6 +17805,9 @@ highcouncil;50
 highcouncils;50
 highearthorbit;50
 highearthorbits;50
+highestranking;50
+highestrankingmember;50
+highestrankingmembers;50
 highhorse;60
 highjump;50
 highjumper;50
@@ -23010,24 +23034,29 @@ lonnol;30;Cambodian dictator Lon Nol
 loo;50
 looey;30
 looie;30
+lookafool;50
 lookafter;50
 lookat;40
 lookatthat;60
 lookdownon;50
+lookedafool;50
 lookedafter;50
 lookedat;40
 lookeddownon;50
 lookedinto;40
+lookedthefool;50
 lookedto;40
 lookedupto;50
 lookee;40
 lookeron;40
 lookerson;40
+lookingafool;50
 lookingafter;50
 lookingat;40
 lookingdownon;50
 lookingglass;60
 lookinginto;40
+lookingthefool;50
 lookingto;40
 lookingupto;50
 lookinto;40
@@ -23036,14 +23065,17 @@ lookmeintheeye;60
 lookmeintheeyeandsaythat;60
 lookonesbest;50
 lookoutman;60
+looksafool;50
 looksafter;50
 looksat;40
 looksdownon;50
 looksee;50;Gander
 looksees;30
 looksinto;40
+looksthefool;50
 looksto;40
 looksupto;50
+lookthefool;50
 lookto;40
 lookupto;50
 lookwhatidrew;60
@@ -25422,8 +25454,8 @@ mortalman;60
 mortalremains;60
 mortalsin;60
 mortalsins;60
-mortarboard;60
-mortarboards;60
+mortarboard;50
+mortarboards;50
 mortarfire;50
 mortem;40;Post-___
 mortgagepayment;50
@@ -25531,6 +25563,8 @@ movieagent;50
 movieagents;50
 moviedeal;50
 moviedeals;50
+moviemarathon;60
+moviemarathons;60
 moviemogul;50
 moviemoguls;50
 moviemontage;60
@@ -32248,8 +32282,17 @@ ramekin;40;Souffle dish
 ramekins;40
 ramenbar;50
 ramenbars;50
+ramenbowl;50
+ramenbowls;50
+ramenbroth;50
+ramenbroths;50
+ramencup;50
+ramencups;50
 ramenshop;50
 ramenshops;50
+ramensoup;50
+ramenspoon;50
+ramenspoons;50
 ramessesi;40
 ramessesii;40
 ramfis;20
@@ -32824,6 +32867,8 @@ recooling;30
 recools;30
 recorddeal;50
 recorddeals;50
+recordplayer;50
+recordplayers;50
 recordsleeve;50
 recordsleeves;50
 recrank;20
@@ -34157,8 +34202,8 @@ rocketpoweredrollerskates;60;Acme invention
 rocketsurgery;60
 rockfall;50
 rockfalls;50
-rockfan;30
-rockfans;30
+rockfan;40
+rockfans;40
 rockhound;50
 rockhounds;50
 rockingchair;50
@@ -34173,6 +34218,8 @@ rockptarmigans;40
 rockquarries;50
 rockquarry;50
 rocksout;60
+rockwall;50
+rockwalls;50
 rockystart;50
 rockystarts;50
 rococos;30
@@ -34772,6 +34819,7 @@ sackers;50
 saclike;30
 sacra;30;Lower back bones
 sacramentoca;30
+sacramentoking;50
 sacramentokings;50
 sacredfig;50
 sacredfigs;50
@@ -34975,6 +35023,7 @@ sambankmanfried;50;Cryptobro
 sameagle;50;Muppet
 sameas;40
 samedis;20;French Saturdays
+sametoyoupal;60
 sameyness;50
 samin;40;Samin Nosrat, "Salt Fat Acid Heat" author
 samira;40;Samira Wiley of "Orange is the New Black"
@@ -38085,6 +38134,7 @@ sousing;5
 sousvide;60
 soutane;20;Priest's cassock
 souther;30
+southerncooking;50
 southerner;50
 southerners;50
 southpole;50
@@ -39692,6 +39742,7 @@ suntanoils;50
 suntea;40
 sunteas;40
 sup;50
+supbro;60
 supdude;60
 supe;50;Building super
 superbad;60
@@ -46041,6 +46092,10 @@ xyz;50
 y;1
 ya;40
 yaateeh;40;Navajo "hello"
+yabber;30;Australian "yammer"
+yabbered;30
+yabbering;30
+yabbers;30
 yabook;20
 yabooks;20
 yack;20;Yak: Var.
@@ -46543,6 +46598,8 @@ zohan;40;Adam Sandler character
 zombie;60
 zombieland;60
 zombies;60
+zoningboard;50
+zoningboards;50
 zonkedout;60
 zonkey;30
 zonkeys;30
