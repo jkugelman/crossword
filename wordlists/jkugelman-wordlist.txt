@@ -41,7 +41,7 @@ aaronites;30
 aarons;30
 aaronsrod;40;Biblical stick carried by Moses's brother, D. H. Lawrence novel
 aarp;50
-aarpcard;30
+aarpcard;30;Green paint
 aarpcards;30
 aas;40;Batteries
 aasponsor;50
@@ -297,6 +297,7 @@ acela;40
 acentric;30
 acerb;40;Bitter or sharp, as in taste or speaking tone
 acerous;30;Having no horns
+acesatest;20;Green paint
 aceshigh;50
 acesinthehole;60
 acesover;20
@@ -2452,6 +2453,7 @@ arse;50
 arsed;50
 arsenalfc;50
 arsene;30;Detective Lupin
+arsenical;40
 arsenio;50
 arsenious;30;Containing arsenic
 arsonist;50
@@ -5074,6 +5076,7 @@ boomlet;40;???
 boommic;50
 boommics;50
 boomroasted;60
+boomtackle;50
 boosat;40
 boosler;40;70s/80s comedian Elayne Boosler
 bootdisk;50
@@ -8278,6 +8281,8 @@ copyrighttraps;60
 coq;50
 cor;20
 cora;40
+coracle;30;Welsh paddleboat
+coracles;30
 coralreef;50
 coralreefs;50
 corazon;40
@@ -8852,6 +8857,9 @@ cryptomare;40;Lunar volcanic deposit obscured by basin impact ejecta
 cryptomares;40
 cryptomaria;40
 cryptomeria;40
+cryptozoologist;60
+cryptozoologists;60
+cryptozoology;60
 crystalset;50
 crystalsets;50
 csa;5
@@ -9064,6 +9072,7 @@ cxvi;20
 cxx;20
 cya;40
 cyanate;40
+cyanobacteria;50
 cyanosed;30
 cyanosis;30;Skin discoloration
 cyans;40
@@ -13132,6 +13141,8 @@ exactingrevengeupon;50
 exactlikeness;50
 exactlikenesses;50
 exactlywhatitsaysonthetin;60;Trope
+exactoknife;50
+exactoknives;50
 exactor;30
 exactrevengeon;50
 exactrevengeupon;50
@@ -13223,6 +13234,8 @@ exoskeletons;50
 exoteric;30;Intended for the general public
 exotic;50
 exotica;60
+exotoxin;50
+exotoxins;50
 exp;20
 exparrot;60
 expatiate;40
@@ -13963,6 +13976,7 @@ finial;30;Gable ornament
 finials;30
 finian;30
 finians;30;"Finian's Rainbow", 1947 musical
+finical;40;Finicky
 finis;40
 finites;20
 finkedon;40
@@ -14707,6 +14721,8 @@ fretters;40
 fri;40
 friarsclub;50
 frick;50
+frieda;40
+friedan;30;Feminist writer Betty Friedan, first president of NOW
 friedchicken;50
 frightwig;60
 frightwigs;60
@@ -15259,6 +15275,7 @@ generalusgrant;50
 generativeai;60
 generis;40;Sui generis
 genesee;30;New York river
+genetical;40
 geniein;20
 genii;30;Genies or geniuses
 genipap;20;Tropical tree
@@ -16221,7 +16238,7 @@ gooutlikealight;60
 gooutonatim;1
 gooutwith;50
 gop;40
-gopfft;40
+gopfft;20;???
 gopublic;50
 gor;20
 goran;40;Tennis star Ivanisevic Goran
@@ -17773,6 +17790,7 @@ hidein;40
 hideki;40;???
 hideme;20
 hideo;40;Hideo Kojima of Metal Gear Solid, baseball's Hideo Nomo
+hideokojima;50;Video game designer
 hider;30
 hiders;30
 hidesin;40
@@ -21379,6 +21397,7 @@ koh;20
 koi;50
 koipond;50
 koiponds;50
+kojima;40;Video game designer Hideo Kojima
 koko;40
 kol;20
 kola;40
@@ -28765,7 +28784,8 @@ osset;20;Inhabitant of Ossetia
 ossetia;20;Iranian region
 ossets;20;Inhabitants of Ossetia
 ossian;30
-ossicles;30;Ear bones
+ossicle;30;Middle ear bone
+ossicles;30
 ossie;40
 ossies;20
 ossipee;20
@@ -30083,6 +30103,7 @@ phantomlimb;60
 phantomlimbs;60
 phantomsettlement;60;Copyright trap
 phantomsettlements;60
+pharisaical;40
 phat;40
 phd;50
 phdtrack;50
@@ -31670,6 +31691,7 @@ psu;20
 psy;40;"Gangnam Style" singer
 psychiatrist;50
 psychiatrists;50
+psychical;40
 psychoactivesubstance;50
 psychoactivesubstances;50
 psyduck;50;Pokeyman
@@ -39104,6 +39126,7 @@ stickingto;40
 stickingwith;40
 stickinsect;60
 stickinsects;60
+stickle;40
 stickofgum;50
 stickon;40
 stickonesnosein;60
@@ -40091,6 +40114,7 @@ syn;40
 synchronal;40
 synchronicityii;60
 syndic;20
+syndical;30
 syndicalism;30
 syndics;20
 syne;40
@@ -44429,6 +44453,10 @@ vida;40
 vide;40;Sous vide cooking technique
 videodisc;40
 videodiscs;40
+videoessay;50
+videoessayist;50
+videoessayists;50
+videoessays;50
 videofeed;50
 vidi;30
 vids;30
@@ -44610,6 +44638,7 @@ von;40
 voo;20
 voodoos;30
 voom;30
+vortical;40
 vos;20
 votedon;40
 voteon;40
