@@ -114,8 +114,6 @@ andmakeitsnappy;Rush order?
 andtheyreoff;Starting line?
 angryletter;Cross words?
 angryletters;Cross word?
-animal;Wild thing
-animals;Wild things
 anvils;Hearing things?
 anxious;Past tense?
 applause;Stage props?
@@ -285,12 +283,10 @@ cape;Marvel movie trailer?
 capes;Marvel movie trailer?
 carad;Promotion that includes a company vehicle
 carads;Promotions that include a company vehicle
-card;Wild thing
 carddealer;Ace pitcher?
 carddealers;Ace pitchers?
 cardinal;Profession of faith
 cardinals;Professions of faith
-cards;Wild things
 caricature;Draw stares?
 caricatured;Drew stares?
 caricatures;Draws stares?
@@ -466,6 +462,11 @@ earbuds;Hearing things?
 ears;Hearing things?
 earthmother;Dirty girl?
 earthshattering;Groundbreaking?
+echo;Bouncer at a concert hall?
+echo;Hear what you're saying
+echo;Snappy comeback?
+echoes;Bouncer at a concert hall?
+echoes;Snappy comebacks?
 edit;Get the word out?
 edit;Have away with words?
 edit;Make paper cuts
@@ -582,8 +583,6 @@ fleethescene;Bolt from the blue?
 floors;Trading places
 flop;Star destroyer?
 flops;Star destroyers?
-flower;Wild thing
-flowers;Wild things
 flyswatter;Buzzer beater?
 flyswatters;Buzzer beaters?
 foolandhismoney;Chump change?
@@ -644,8 +643,6 @@ graveyards;Stiff joints?
 gravity;Force of law?
 groundbreaking;Earth shattering?
 gscale;One sharp one
-guess;Wild thing
-guesses;Wild things
 guilty;Legal profession?
 gulliver;Swift traveller?
 hacker;Champ at the bit?
@@ -678,8 +675,8 @@ herded;Took stock in?
 herding;Taking stock in?
 herdmentality;Bullheadedness?
 herds;Takes stock in?
-hiredgun;All cash offer?
-hiredguns;All cash offers?
+hiredgun;All-cash offer?
+hiredguns;All-cash offers?
 hitchhiker;Bummer
 hitchhikers;Bummers
 hitter;Ballpark figure?
@@ -721,7 +718,6 @@ icanseeagain;Line of sight?
 icanseeagain;Vision statement
 icepack;Natural number?
 icepacks;Natural numbers?
-idea;Wild thing
 identified;Got a handle on?
 identifies;Gets a handle on?
 identify;Get a handle on?
@@ -797,6 +793,8 @@ jerky;Animal preserves?
 jobs;Desktop icon?
 john;Something to go on?
 johnny;Cash up front?
+joker;Wild thing
+jokers;Wild things
 judges;Hearing things?
 jumpstart;Get a charge out of?
 justdoingmyjob;Line of duty?
@@ -907,6 +905,7 @@ mobil;Gas giant?
 mom;Awkward thing to call your teacher
 morgue;Stiff joint?
 morgues;Stiff joints?
+mosh;Pit for metal scraps?
 motherearth;Dirty girl?
 mothier;Holier, maybe?
 mothiest;Holiest, maybe?
@@ -987,7 +986,6 @@ nun;Profession of faith
 nun;Someone who bathes out of habit?
 nuns;Ones who bathe out of habit?
 nuns;Professions of faith
-oats;Wild things
 officer;Booking agent?
 officers;Booking agents?
 oid;What makes a fact trivial?
@@ -1064,10 +1062,8 @@ pinatas;Stuffed animals?
 pinkytoe;Little dipper?
 pitboss;Supervisor keen to know what you bring to the table
 pitbosses;Supervisors keen to know what you bring to the table
-pitch;Wild thing
 pitcher;Ballpark figure?
 pitchers;Ballpark figures?
-pitches;Wild things
 plateau;Level one
 playboy;Blue book
 playboy;Cheesecake purveyor
@@ -1606,6 +1602,8 @@ watches;They're strapped for time
 watchyourform;Exercise caution?
 waterslide;It's a slippery slope
 waterslides;They're slippery slopes
+wave;Handmade sign?
+waves;Handmade signs?
 wedidit;Line of credit?
 wellbequiet;Zip line?
 wewillrockyou;Queen's decree?
