@@ -5189,6 +5189,8 @@ boracic;40
 borah;20;Idaho mountain
 borate;30;Flame retardant
 borates;30;Flame retardants
+bordercrossing;50
+bordercrossings;50
 borderedon;40
 borderingon;40
 borderon;40
@@ -6670,6 +6672,7 @@ cattalo;30;Hybrid cattle/buffalo (see beefalo)
 catties;20
 cattlecar;50
 cattlecars;50
+cattlecrossing;50
 cattledealer;50
 cattledealers;50
 cattledrive;50
@@ -7382,6 +7385,7 @@ christianrock;50
 christmaspackagemachine;60;Acme invention
 christmasseason;50
 christmasspirit;60
+christophercross;50
 chromed;40
 chromedome;60
 chromedomes;50
@@ -8854,6 +8858,7 @@ crinoids;30;Marine animals
 crips;40
 crispr;50
 crisscross;60
+crisscrossapplesauce;60
 crisscrossed;60
 crisscrosses;60
 crisscrossing;60
@@ -8886,7 +8891,17 @@ crosier;40;Bishop's staff
 crosiers;40
 crossat;40
 crossatthegreen;1
+crosscountryflight;50
+crosscountryflights;50
+crosscountrymeet;50
+crosscountrymeets;50
 crosscountryski;50
+crosscountryskier;50
+crosscountryskiers;50
+crosscountryskiing;50
+crosscountryskis;50
+crosscountryteam;50
+crosscountryteams;50
 crosse;30;La crosse stick
 crossedoffthelist;60
 crossedpartylines;60
@@ -8964,6 +8979,7 @@ crudities;30
 crudity;30
 crue;40
 crueltwistoffate;60
+crueltwistsoffate;60
 cruisecontrol;50
 cruisedinto;40
 cruiseinto;40
@@ -10273,6 +10289,7 @@ diggingdeep;50
 diggingdowndeep;50
 digginginonesheels;60
 digginginto;40
+diggingupdirton;50
 diginonesheels;60
 diginto;40
 digitalart;60
@@ -10289,6 +10306,8 @@ digsdeep;50
 digsdowndeep;50
 digsinonesheels;60
 digsinto;40
+digsupdirton;50
+digupdirton;50
 dihedral;30
 dihydrogenmonoxide;50;Water, cheekily
 dii;20
@@ -11519,6 +11538,7 @@ duginonesheels;60
 duginto;40
 dugongcalf;50
 dugongcalves;50
+dugupdirton;50
 duh;50
 dui;5
 duis;5
@@ -15565,6 +15585,7 @@ getchummywith;50
 getcomfy;50
 getcozy;50
 getcute;60
+getdirton;50
 getem;30
 geterdone;50
 getfat;5
@@ -15622,6 +15643,7 @@ getschummy;50
 getschummywith;50
 getscozy;50
 getscute;60
+getsdirton;50
 getsfat;5
 getsideas;50
 getsinabind;50
@@ -15682,6 +15704,7 @@ gettingchummy;50
 gettingchummywith;50
 gettingcozy;50
 gettingcute;60
+gettingdirton;50
 gettingfat;5
 gettingforasong;60
 gettingideas;50
@@ -16496,6 +16519,7 @@ gotchummywith;50
 gotcomfy;50
 gotcozy;50
 gotcute;60
+gotdirton;50
 goteamgo;60
 gotfat;5
 gotgame;50
@@ -19938,6 +19962,7 @@ instantcoffee;50
 instantcoffees;50
 instanticiclemaker;60;Acme invention
 instantkarma;60
+instantoatmeal;50
 instantramen;50
 instantreplay;50
 instantreplays;50
@@ -21120,6 +21145,8 @@ jurylist;50
 jurylists;50
 jurypool;50
 jurypools;50
+juryroom;50
+juryrooms;50
 jus;40
 justadrop;50
 justaheadsup;60
@@ -22204,6 +22231,8 @@ laughinggas;60
 laughsat;40
 launchpad;50
 launchpads;50
+launchparties;60
+launchparty;60
 laundress;40
 laundresses;40
 lauras;30
@@ -22556,6 +22585,8 @@ lemonglaze;50
 lemonl;1
 lemonmeringue;50
 lemonslices;50
+lemontwist;50
+lemontwists;50
 lemonzest;50
 lempira;30;Honduran currency
 lempiras;30
@@ -22644,6 +22675,7 @@ letitrip;60
 letlive;50
 letmeaskyousomething;60
 letmeaskyouthis;60
+letmefinish;60
 letmego;60
 letmehaveit;60
 letmehelp;60
@@ -23701,6 +23733,8 @@ lunchbreak;50
 lunchbreaks;50
 luncher;40
 lunchers;40
+lunchparties;50
+lunchparty;50
 lund;40;Ilsa Lund from "Casablanca"
 lunesta;40;Sleeping pill
 lungpower;50
@@ -24047,6 +24081,8 @@ majorleaguegame;30
 majoroperations;50
 majorplayer;50
 majorplayers;50
+majorplottwist;60
+majorplottwists;60
 majorprophet;50
 majorprophets;50
 majorsecond;50
@@ -24506,6 +24542,8 @@ massexit;50
 massicot;30;???
 massif;40;Group of mountains
 massifs;40
+masterbedroom;50
+masterbedrooms;50
 masterbrewer;50
 masterbrewers;50
 masterfile;50
@@ -25142,6 +25180,7 @@ mid;50
 midapril;30
 midden;20;Domestic waste dump
 middens;20;Domestic waste dumps
+middleearth;60
 middlefinger;60
 midear;30
 midfields;30
@@ -25392,6 +25431,7 @@ misstorso;40;"Rear Window" character
 misterchristian;30
 mistered;50
 misterfantastic;60
+misterknowitall;60
 misterpresident;50
 mistertoad;50;"The Wind in the Willows" character
 mit;40
@@ -25933,6 +25973,7 @@ mriscanners;50
 mriscans;50
 mristudies;50
 mristudy;50
+mrknowitall;60
 mrlee;30;From Bobbettes song "I Shot Mr. Lee"
 mrmime;50;Pokeyman
 mrmoto;50
@@ -26096,6 +26137,9 @@ muscatgrapes;50
 mushmouth;50
 mushmouths;50
 mushpot;40;???
+mushroomcloud;60
+mushroomclouds;60
+mushroomgravy;50
 musical;50
 musicalcomedies;50
 musicale;20
@@ -27729,6 +27773,12 @@ oathofthehoratii;50
 oatier;40
 oatiest;40
 oatiness;30
+oatmealbath;50
+oatmealbaths;50
+oatmealcookie;50
+oatmealcookies;50
+oatmealraisincookie;50
+oatmealraisincookies;50
 oats;50
 oatseed;30
 oatsnhoney;50
@@ -31054,6 +31104,7 @@ pleasedont;60
 pleaseimeating;60;"Gross!"
 pleaseimeatinghere;60;"Gross!"
 pleaseimtryingtoeat;60;"Gross"
+pleaseletmefinish;60
 pleaseno;60
 pleasenote;60
 pleaserise;50
@@ -32028,6 +32079,8 @@ prteam;40
 prteams;40
 pru;20
 prue;30;Celebrity chef Prue Leith
+prunedanish;50
+prunedanishes;50
 pruneface;60
 pruner;40
 pruners;50
@@ -32380,6 +32433,7 @@ quailhunt;50
 quailhunts;50
 quailingat;40
 quailsat;40
+quakeroatmeal;50
 qualityoflife;50
 qualley;50;Actress Margaret Qualley
 quantumtheory;50
@@ -34318,7 +34372,10 @@ ricecookers;50
 riced;40
 ricefarmer;50
 ricefarmers;50
+ricepaddies;50
+ricepaddy;50
 rices;40
+riceuniversity;50
 ricflair;60
 richardroe;50
 riche;40
@@ -36148,6 +36205,8 @@ seasteps;40;Boat ladder
 seatat;40
 seatbacktray;50
 seatbacktrays;50
+seatedtwist;50
+seatedtwists;50
 seatoad;40
 seatoads;40
 seatrade;30
@@ -39306,8 +39365,12 @@ startingatab;50
 startinglineup;50
 startinglineups;50
 startingon;40
+startingpistol;50
+startingpistols;50
 startingqb;50
 startingqbs;50
+startingquarterback;50
+startingquarterbacks;50
 startler;40
 startlers;40
 startmeup;50;Rolling Stones song
@@ -40750,6 +40813,7 @@ takeashower;50
 takeastab;50
 takeaswig;50
 takebaths;50
+takecreditfor;40
 takefive;60
 takeflak;50
 takehimawayboys;60
@@ -40793,6 +40857,7 @@ takesashineto;60
 takesashower;50
 takesastab;50
 takesaswig;50
+takescreditfor;40
 takesfive;60
 takesflak;50
 takeshowers;50
@@ -40843,6 +40908,7 @@ takingashineto;50
 takingastab;50
 takingaswig;50
 takingcandyfromababy;60
+takingcreditfor;40
 takingfive;60
 takingflak;50
 takinginvain;50
@@ -42047,6 +42113,7 @@ thenow;30
 thenra;20
 thensa;20
 thenudemaja;40
+theoatmeal;50
 theodicy;30
 theodora;40;???
 theok;20;???
@@ -42881,6 +42948,7 @@ tokened;30
 tokilla;20
 tokori;20;Movie "The Bridges at ___"
 tokyodome;50
+tokyopop;50
 tokyostory;50
 tol;20
 tolast;40
@@ -42936,6 +43004,9 @@ tonguedepressor;50
 tonguedepressors;50
 tonguetied;60
 tongueties;60
+tonguetwister;60
+tonguetwisters;60
+tonguetwisting;60
 tonio;30
 tonne;40
 tonneau;30
@@ -42991,6 +43062,7 @@ tookashineto;60
 tookashower;50
 tookastab;50
 tookaswig;50
+tookcreditfor;40
 tookfive;60
 tookflak;50
 tookinvain;50
@@ -43110,6 +43182,7 @@ torii;20;Japanese gate
 tormes;20
 tornacl;50
 tornacls;50
+tornadogenesis;60
 tornadoseeds;60;Acme invention
 torninto;40
 tornmcl;20
@@ -43954,6 +44027,8 @@ twinturbo;50
 twinturbos;50
 twistending;60
 twistendings;60
+twistoffate;60
+twistsoffate;60
 twitterfeed;50
 twitterfeeds;50
 twitterfollower;50
