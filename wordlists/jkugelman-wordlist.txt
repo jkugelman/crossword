@@ -978,8 +978,8 @@ aintthatacryingshame;60
 aintthatashame;60
 aintthatthetruth;60
 air;50
-airace;50;Legit synonym of flying ace
-airaces;50
+airace;30;Legit synonym of flying ace
+airaces;30
 airarm;40;Military branch
 airball;60
 airballed;60
@@ -4325,10 +4325,13 @@ benedictxvi;30;???
 benefitspackage;50
 benelux;40;E.U. precursor: Belgium + Netherlands + Luxembourg
 benes;40;Elaine Benes on "Seinfeld"
+bengaltiger;50
+bengaltigers;50
 benice;60
 benight;30;Shroud in darkness
 benison;40;Blessing
 benisons;40
+benjaminbutton;60
 bennets;40;"Pride and Prejudice" family
 bennifer;50
 benstein;50
@@ -5146,6 +5149,8 @@ bookburning;50
 bookclub;50
 bookclubs;50
 bookdeal;50
+bookdealer;50
+bookdealers;50
 bookdeals;50
 bookdrop;50
 bookdrops;50
@@ -5277,6 +5282,7 @@ botree;30;Tree under which Budda found enlightenment
 botrees;20
 bottega;30;Major artist's studio
 bottegas;30
+bottledwater;50
 bottleflies;50
 bottlefly;50
 bottlenosewhale;60
@@ -9232,6 +9238,7 @@ curiatii;30;???
 curiosa;20;Movie
 curioshop;50
 curioshops;50
+curiouscaseofbenjaminbutton;60
 curlbar;50
 curlbars;50
 curledlip;50
@@ -17966,6 +17973,7 @@ hellboy;60
 hellcat;60
 hellcats;60
 hellcomearound;60
+helleatyouforbreakfast;60
 hellen;30
 hellenes;20;Greeks
 hellenic;30;Greek
@@ -18110,6 +18118,9 @@ herve;30;Hervé Jean-Pierre Villechaize, "The plane! The plane!" shouter on "Fan
 hes;50
 hesakeeper;60
 hesas;20
+hesgoingtoeatyouforbreakfast;60
+hesgonnaeatyouforbreakfast;60
+hesgoodenoughtoeat;60
 heshe;5
 hesinrareform;60
 hesiod;40;Ancient Greek poet
@@ -18129,6 +18140,7 @@ hetfield;50
 hew;50
 hewable;30
 hewedto;40
+hewilleatyouforbreakfast;60
 hewingto;40
 hewsto;40
 hewto;40
@@ -19174,7 +19186,13 @@ icosahedral;40
 icosahedron;40
 icouldeatyourightup;60
 icouldeatyouup;60
+icouldgobbleherup;60
+icouldgobblehimup;60
+icouldgobbleyouup;60
 icouldjusteatyouup;60
+icouldjustgobbleherup;60
+icouldjustgobblehimup;60
+icouldjustgobbleyouup;60
 icoulduseadrink;60
 icried;30;Song title
 icry;30;Song title
@@ -19456,6 +19474,7 @@ illbehere;60
 illbet;60;"Of course"
 illbethere;60
 illbite;60
+illeatyouforbreakfast;60
 illegals;5
 illegalslidetackle;50
 illgetby;60
@@ -19604,7 +19623,9 @@ imforit;60
 img;20
 imgladididthis;60
 imgladwedidthis;60
+imgoingtoeatyouforbreakfast;60
 imgonnabounce;60
+imgonnaeatyouforbreakfast;60
 imhere;50
 imhit;60
 imho;40
@@ -20890,6 +20911,7 @@ iwantinonthat;60
 iwantout;60
 iwanttosee;60;"Move out of the way!"
 iwasframed;60
+iwilleatyouforbreakfast;60
 iwillnot;50
 iwin;50
 iwishicouldsaythesame;60
@@ -24030,8 +24052,8 @@ lycopod;30;Mossy plant 425 million years ago
 lycopodium;30
 lycopods;30
 lye;50
-lyesoap;50
-lyesoaps;50
+lyesoap;40
+lyesoaps;40
 lyingahead;50
 lyingawake;50
 lyingdormant;50
@@ -37282,6 +37304,7 @@ shell;50
 shellacked;50
 shellacking;50
 shellcomearound;60
+shelleatyouforbreakfast;60
 shellshock;60
 shellshocked;60
 shelovesme;50
@@ -37302,6 +37325,9 @@ sherlocks;50
 sherryglass;50
 sherryglasses;50
 shesakeeper;60
+shesgoingtoeatyouforbreakfast;60
+shesgonnaeatyouforbreakfast;60
+shesgoodenoughtoeat;60
 sheshed;40;Mancave counterpart
 shesheds;40
 shesinrareform;60
@@ -37312,6 +37338,7 @@ shesnext;40
 shesnotbuyingit;60
 shew;30
 shewed;30
+shewilleatyouforbreakfast;60
 shewing;30
 shews;30
 shh;50
@@ -42259,6 +42286,7 @@ thecrab;40;???
 thecrimea;30
 thecsuite;20
 thecubs;30
+thecuriouscaseofbenjaminbutton;60
 thecurse;50
 thecut;40
 thecw;40
@@ -42707,11 +42735,26 @@ theyanks;40;???
 theyear;20
 theygotitmade;60
 theyllcomearound;60
+theylleatyouforbreakfast;60
+theyregoingtoeatemalive;60
+theyregoingtoeatheralive;60
+theyregoingtoeathimalive;60
+theyregoingtoeatusalive;60
+theyregoingtoeatyoualive;60
+theyregoingtoeatyouforbreakfast;60
+theyregonnaeatemalive;60
+theyregonnaeatheralive;60
+theyregonnaeathimalive;60
+theyregonnaeatusalive;60
+theyregonnaeatyoualive;60
+theyregonnaeatyouforbreakfast;60
+theyregoodenoughtoeat;60
 theyrenext;40
 theyrenotbuyingit;60
 theyreoff;50
 theysee;1
 theyvegotitmade;60
+theywilleatyouforbreakfast;60
 thezapruderfilm;20
 thezoomies;60
 thezooplane;40;???
@@ -46165,6 +46208,7 @@ wellactually;60
 wellbequiet;60
 wellbred;50
 welldang;60
+welleatyouforbreakfast;60
 wellexcusemeprincess;60
 wellexcuuuuseme;60
 wellfixitinpost;60
@@ -46257,6 +46301,18 @@ wereallout;60
 wereallset;50
 werealmostthere;60
 werebad;60
+weregoingtoeatemalive;60
+weregoingtoeatheralive;60
+weregoingtoeathimalive;60
+weregoingtoeatusalive;60
+weregoingtoeatyoualive;60
+weregoingtoeatyouforbreakfast;60
+weregonnaeatemalive;60
+weregonnaeatheralive;60
+weregonnaeathimalive;60
+weregonnaeatusalive;60
+weregonnaeatyoualive;60
+weregonnaeatyouforbreakfast;60
 werenext;50
 werenotbuyingit;60
 wereon;40
@@ -46293,6 +46349,7 @@ wetnurses;50
 wetpaint;50
 wettig;30;Patricia Wettig from "City Slickers" or TV's "Thirtysomething"
 wevegotitmade;60
+wewilleatyouforbreakfast;60
 wewillrockyou;60
 wfh;40
 wfl;20
@@ -47279,11 +47336,14 @@ yellto;40
 yemenite;30
 yemenites;30
 yen;50
-yenfor;20
+yenfor;40
 yenisei;20;Mongolian river
-yennedfor;20
-yenningfor;20
-yensfor;20
+yenned;40
+yennedfor;40
+yenning;40
+yenningfor;40
+yens;40
+yensfor;40
 yensid;1
 yenta;40
 yentas;40
@@ -47443,6 +47503,7 @@ youredarnedifyoudoanddarnedifyoudont;60
 youredarnedifyoudoandyouredarnedifyoudont;60
 youregettingsleepy;60
 youregood;60
+youregoodenoughtoeat;60
 youreinrareform;60
 yourejokingright;60
 yourejustsayingwhateveryonesthinking;60
