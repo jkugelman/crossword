@@ -4738,6 +4738,8 @@ bittern;40;Marsh bird
 bitterns;40
 bitthedust;60
 bitting;30
+bittorrent;50
+bittorrents;40
 bitumen;30;Asphalt
 bitumens;30;Asphalt ingredients
 biv;20
@@ -7623,10 +7625,13 @@ classicmovies;50
 classicnovel;50
 classicnovels;50
 classico;40;???
+classmatescom;20
 classpresident;50
 classpresidents;50
 classrep;50
 classreps;50
+classsecretaries;50
+classsecretary;50
 clastic;30;Rocks composed of broken pieces of older rocks
 claudedebussy;60
 clawfootbathtub;50
@@ -8709,9 +8714,13 @@ coverartists;50
 coverband;50
 coverbands;50
 coveredabeat;50
+coveredfor;40
+coverfor;40
 coveringabeat;50
+coveringfor;40
 coverme;60
 coversabeat;50
+coversfor;40
 coverslip;50
 coverslips;50
 coversong;50
@@ -9043,6 +9052,11 @@ crossoverepisodes;60
 crossovermovie;50
 crossovermovies;50
 crosspartylines;60
+crosspollinate;50
+crosspollinated;50
+crosspollinates;50
+crosspollinating;50
+crosspollination;50
 crosssection;50
 crosssectioned;50
 crosssectioning;50
@@ -9052,6 +9066,7 @@ crossword;60
 crosswordconstructor;50
 crosswordconstructors;50
 crosswords;60
+crosswordtok;20;???
 crouse;30;Actress Lindsay
 crowdedout;50
 crowdingout;50
@@ -14377,6 +14392,7 @@ firstclasscabin;50
 firstclasscabins;50
 firstclassmail;50
 firstclasspostage;50
+firstclassseat;50
 firstclassseats;50
 firstclassstamp;50
 firstclassstamps;50
@@ -16435,11 +16451,15 @@ goldenlab;50
 goldenlabs;50
 goldenoreo;50
 goldenoreos;50
+goldfishbowl;50
+goldfishbowls;50
 goldingot;50
 goldingots;50
 goldlame;50;???
 goldleaf;50
 goldmanspartner;1
+goldmedalist;50
+goldmedalists;50
 goldprices;50
 goldrecord;50
 goldrecords;50
@@ -20901,6 +20921,8 @@ ivorypalm;50
 ivorypalms;50
 ivs;40
 ivy;50
+ivycoveredwall;50
+ivycoveredwalls;50
 ivyleague;50
 ivyleagueschool;50
 ivyleagueschools;50
@@ -23030,6 +23052,8 @@ libbers;40
 libera;20
 liberace;50
 liberalarts;50
+liberalartsdegree;50
+liberalartsdegrees;50
 libero;40;Volleyball position
 librate;20
 librated;20
@@ -24320,6 +24344,8 @@ maitres;30
 maj;20
 maja;30;Goya's "The Naked ___"
 majeste;30
+majordiscoveries;50
+majordiscovery;50
 majoredin;40
 majorin;40
 majoringin;40
@@ -27701,6 +27727,7 @@ notax;40
 notbeen;1
 notbigon;60
 notcare;30
+notcarefor;40
 notcheap;50
 notchesononesbelt;60
 notchononesbelt;60
@@ -27743,6 +27770,7 @@ notlike;1
 notlive;1
 notlongforthisworld;60
 notlookingsohot;60
+notmakethegrade;50
 notmuchtolookat;60
 notmydepartment;60
 notmyfinesthour;60
@@ -29581,6 +29609,8 @@ outlawing;50
 outlaws;50
 outleap;40
 outleapt;40
+outletcover;50
+outletcovers;50
 outletpass;50
 outletpasses;50
 outlive;50
@@ -29732,6 +29762,8 @@ oxters;20;Armpits: Scottish
 oxx;20
 oxy;40;Acne skin care brand
 oxygen;50
+oxygentent;50
+oxygentents;50
 oxytone;30
 oxytones;30
 oy;50
@@ -32132,6 +32164,8 @@ priesthood;50
 priests;50
 prii;40
 primacies;30
+primarycolor;50
+primarycolors;50
 primas;40
 primefactor;50
 primefactors;50
@@ -41943,6 +41977,8 @@ tensor;40
 tensors;40
 tensplace;50
 tenstone;20
+tentage;30;Collection of tents
+tentages;30
 tentcities;50
 tentcity;50
 tenter;30
@@ -42367,7 +42403,7 @@ thehavenots;60
 thehaves;60
 thehavesandthehavenots;60
 thehawks;40;???
-theheat;50
+theheat;40
 theheiress;40;1949 movie
 theheisman;30
 theherd;30
@@ -42383,8 +42419,8 @@ theides;30
 their;50
 theira;20
 theironage;40
-theironcross;30
-theironhorse;50
+theironcross;40
+theironhorse;40
 theirs;30
 theiss;30;Actress Brooke Theiss, not super notable
 theivyleague;40
@@ -43152,6 +43188,8 @@ tio;40
 tios;40
 tip;50
 tipcat;40;Yard game
+tipline;50
+tiplines;50
 tipofoneshat;60
 tipofonestongue;60
 tiponeill;50
@@ -43160,6 +43198,7 @@ tippets;30
 tiproast;50
 tipster;50
 tipsters;50
+tiptoethroughthetulips;50
 tir;20
 tirana;40;Albania's capital
 tiredest;30
@@ -44991,6 +45030,8 @@ upsweep;30
 upsweeps;30
 upswept;30
 upsy;30
+uptake;50
+uptakes;40;Awkward plural
 uptop;60
 uptospeed;50
 upvote;50
@@ -46322,6 +46363,7 @@ weresoold;60
 weresupposedtobeateam;60
 weretoast;60
 wereyoulookingforthis;60
+wereyouraisedinabarn;60
 wernicke;30;Wernicke-Korsakoff syndrome, brain disorder
 wes;50
 wessex;30
@@ -47028,16 +47070,22 @@ wuthering;60
 wutheringheights;60
 wuxia;40;Genre of Chinese fiction concerning the adventures of martial artists in ancient China
 wva;40
-wvu;20
+wvu;40
 wwe;40
 wwf;40
 wwi;50
 wwiera;40
-wwiiepic;30
-wwiiepics;30
-wwiiera;50
+wwiiace;30
+wwiiaces;30
+wwiiepic;40
+wwiiepics;40
+wwiiera;40
 wwiipilot;50
+wwiipilots;50
 wwiiship;20
+wwiiships;20
+wwiivet;50
+wwiivets;50
 wwivet;50
 wwivets;50
 wwjd;60
