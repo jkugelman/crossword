@@ -49,7 +49,10 @@
 #laced;Tied up loose ends? [used in Square to Begin]
 #laces;Ties up loose ends? [used in Square to Begin]
 #lacing;Tying up loose ends? [used in Square to Begin]
-#scum;Dirty film?
+#ots;Draw conclusions, briefly? [used in Teacher's Marks]
+#overtimes;Draw conclusions? [used in Teacher's Marks]
+#scum;Dirty film? [used in Is There an Echo in Here?]
+#tiebreakers;Draw conclusions? [used in Teacher's Marks]
 #tubas;They have big brass bells [used in Square to Begin]
 aaa;Org. with many roadside towers?
 abettor;Stealing second?
@@ -345,8 +348,8 @@ cobblestones;Rocky road ingredients?
 cocounsel;Hearing aide
 cocounsels;Hearing aides
 cogitoergosum;Line of reasoning?
-coin;Tender part?
-coins;Tender parts?
+coin;What's small, round, and tender?
+coins;What are small, round, and tender?
 coinslots;Change channels?
 comparison;The thief of joy, it's said
 contraction;Labor movement
@@ -1022,7 +1025,6 @@ oral;Mouthy?
 orator;Figure of speech?
 orators;Figures of speech?
 oscars;Movie props?
-ots;Draw conclusions, briefly?
 oust;Dismember?
 ousted;Dismembered?
 ouster;Dismemberment
@@ -1033,7 +1035,6 @@ outfielder;Ballpark figure?
 outfielders;Ballpark figures?
 outofgas;No laughing matter?
 outsidethebox;Think so?
-overtimes;Draw conclusions?
 oyez;Court order?
 oyez;Order in the court?
 oyez;Supreme Court term
@@ -1558,7 +1559,6 @@ theroadtohell;Way down below?
 theyreoff;Starting line?
 thisroundisonme;Free spirits...
 threaded;Like buttons
-tiebreakers;Draw conclusions?
 timessymbol;Product lines?
 tinder;Where to play with matches?
 tip;That's the point!

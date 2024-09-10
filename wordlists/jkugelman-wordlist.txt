@@ -2234,6 +2234,10 @@ arcaro;30;All-time grat jockey Eddie Arcaro
 arccos;40
 archaeologicaldig;50
 archaeologicaldigs;50
+archdaemon;50
+archdaemons;50
+archdemon;60
+archdemons;60
 archduke;50
 archean;30
 archeological;20
@@ -2241,6 +2245,8 @@ archeologies;20
 archeologist;20
 archeologists;20
 archeology;20
+archeryclub;50
+archeryclubs;50
 archon;20;Athenian magistrate
 archons;20;Athenian magistrates
 arco;40
@@ -4424,6 +4430,7 @@ betel;40;Climbing plant
 betenoire;50
 bethatasitmay;60
 bethe;20;Partial
+bethebiggerman;60
 bethnal;30;???
 betiaraed;30
 betide;30
@@ -5035,6 +5042,7 @@ bogarted;60
 bogarting;60
 bogarts;60
 bogoak;40
+bogstandard;60
 bohratom;50
 bohrmodel;50
 boi;30
@@ -8239,6 +8247,8 @@ commoncold;50
 commoncolds;40
 commonfolk;50
 commongood;50
+communicationchannel;50
+communicationchannels;50
 communionwafer;50
 communionwafers;50
 como;40
@@ -10367,6 +10377,9 @@ didlaps;50
 didlunch;50
 didnot;50
 didnthave;20
+didnthaveaprayer;50
+didnthavetime;50
+didntholdwater;60
 didonesfairshare;50
 didpoorly;50
 didshots;50
@@ -10848,6 +10861,9 @@ doesitmatter;60
 doesitsparkjoy;60;Marie Kondo-ism
 doeslaps;50
 doesntgiveaflip;60
+doesnthaveaprayer;50
+doesnthavetime;50
+doesntholdwater;60
 doesnthurt;60
 doesonesfairshare;50
 doespoorly;50
@@ -11069,6 +11085,8 @@ dontfretnow;60
 dontgetanybrightideas;60
 dontgetanyideas;60
 donthate;50
+donthaveaprayer;50
+donthavetime;50
 dontinterrupt;60
 dontlaugh;60
 dontleave;50
@@ -14654,6 +14672,8 @@ floralarrangement;50
 floralarrangements;50
 floralia;30;Ancient Roman festival
 floralprint;50
+floralspray;50
+floralsprays;50
 florenz;40
 florescence;40
 florescent;40;Flourishing
@@ -15084,6 +15104,8 @@ frenchsilk;50
 frenchsudan;50
 frenchtwist;50
 frenchtwists;50
+frequencyband;50
+frequencybands;50
 frere;40
 freres;40
 freshbreeze;50;5 on the Beaufort wind force scale
@@ -15742,7 +15764,7 @@ getana;40
 getanedge;50
 getanf;40
 getapass;50
-getarun;30
+getarun;30;Eat a sandwich
 getasay;50
 getat;40
 getatip;50
@@ -16725,6 +16747,7 @@ gotmade;50
 gotmilk;60
 gotnaked;50
 gotnear;40
+gotnoshot;50
 goto;50
 gotoetotoe;60
 gotoguy;60
@@ -17336,6 +17359,7 @@ hadnolife;50
 hadnooomph;60
 hadnoplan;50
 hadnoshot;50
+hadnotime;50
 hadon;40
 hadones;20
 hadonesdruthers;60
@@ -17662,6 +17686,8 @@ hasnolife;50
 hasnooomph;60
 hasnoplan;50
 hasnoshot;50
+hasnotime;50
+hasntgottime;50
 hason;40
 hasonetoomany;60
 hasta;40
@@ -17750,6 +17776,8 @@ havenofear;60
 havenolife;50
 havenoplan;50
 havenoshot;50
+havenotime;50
+haventgottime;50
 haveonetoomany;60
 havingababy;50
 havingabite;50
@@ -18959,6 +18987,7 @@ hum;50
 humanbean;60
 humanbeing;50
 humanbeings;50
+humanflag;60
 humbug;60
 humeral;40;Relating to the humerus
 humeri;30
@@ -19715,6 +19744,7 @@ imopen;60
 imout;50
 imoutie;60
 imoutofhere;60
+imoutofideas;60
 imouttahere;60
 imoverit;60
 imp;50
@@ -25699,6 +25729,8 @@ missilelaunchers;50
 missilesilo;50
 missilesilos;50
 missingacue;40
+missingpiece;50
+missingpieces;50
 missingthetarget;50
 missionaryridge;50
 missioncreep;50
@@ -27094,6 +27126,7 @@ newportri;30
 newrelease;50
 newreleases;50
 newseum;50
+newsflashbuddy;60
 newshelicopter;50
 newshelicopters;50
 newshound;60
@@ -29621,9 +29654,24 @@ outlyingarea;50
 outlyingareas;50
 outof;40;Without
 outofajob;50
+outofband;50
+outofbandactivity;50
+outofbandauthentication;50
+outofbandcommunication;50
+outofbanddata;50
+outofbandmanagement;50
+outofbandsignaling;50
 outofcentralcasting;60
+outofconcern;50
+outofconcernfor;40
 outofgas;50
+outofideas;50
+outoflove;50
+outofmind;50
+outofschool;50
 outofseas;1
+outofthecold;50
+outofthehouse;50
 outonbail;50
 outpoint;40;Defeat on points, in boxing
 outpointed;40
@@ -31490,9 +31538,13 @@ plundered;50
 plundering;50
 plunders;50
 plungedin;40
+plungedintochaos;60
 plungein;40
+plungeintochaos;60
 plungesin;40
+plungesintochaos;60
 plungingin;40
+plungingintochaos;60
 pluot;40;Plum/apricot hybrid aka aprium
 pluots;40
 plus;50
@@ -35965,6 +36017,7 @@ sanmateoca;30
 sanrio;40;Harō Kiti company
 sansei;20;Grandchild of a Japanese immigrant
 sanseis;20;Grandchildren of a Japanese immigrant
+sansinstitute;50
 sansom;30;Historical crime novelist C. J. Sansom
 sansserif;50
 sanssouci;40;Palace in Potsdam, Germany
@@ -41892,12 +41945,15 @@ televisioncrews;50
 telfy;20;???
 tellafib;40
 tellies;50
+tellingtalesofschool;60
 tellmemore;60
 tellmewithouttellingme;60
 tellnoone;60
 tellof;40
 tellsafib;40
 tellsof;40
+tellstalesofschool;60
+telltalesofschool;60
 tellyounolies;60
 telnet;30
 telomere;30;Genetic word
@@ -43397,6 +43453,7 @@ tolast;40
 toldafib;40
 toldno;50
 toldof;40
+toldtalesofschool;60
 toldyou;60
 toldyouso;60
 tolease;50
@@ -46865,6 +46922,7 @@ withes;20
 withindrivingdistance;50
 withinwalkingdistance;50
 withlegs;30;Having staying power
+withoutanet;50
 withoutwarning;50
 witter;30;Investor Dean
 wiz;50
@@ -47569,6 +47627,7 @@ youreonmute;60
 youreoutofline;60
 youreoutoforder;60
 youreoutofyourgourd;60
+youresocute;60
 yourestillhere;60
 youretellingmethisnow;60
 yourethebest;60
