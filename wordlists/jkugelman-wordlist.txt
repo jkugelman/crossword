@@ -13795,12 +13795,14 @@ fallcolors;50
 fallingalloveroneself;50
 fallingalloveroneselfapologizing;50
 fallingon;40
+fallingoutoflove;50
 fallingshy;50
 fallingto;40
 falloffthebone;60
 fallofthehouseofusher;60
 fallon;50
 fallononesface;60
+falloutoflove;50
 falloutshelter;60
 falloutshelters;60
 fallsale;50
@@ -13810,6 +13812,7 @@ fallsoffthebone;60
 fallson;40
 fallsononesface;60
 fallsononesfeet;1
+fallsoutoflove;50
 fallsshy;50
 fallsto;40
 fallstreak;50;
@@ -14143,6 +14146,7 @@ fellies;20;Parts of a wheel rim
 felloe;20;Part of a wheel rim
 felloes;20;Parts of a wheel rim
 fellon;40
+felloutoflove;50
 fellshy;50
 fellto;40
 felonries;40
@@ -20517,6 +20521,7 @@ ironcarrot;60;Acme invention
 ironclads;50
 ironcross;50
 ironcrosses;50
+irondeficient;50
 ironedon;40
 ironegg;50;Taiwanese soy egg
 ironeggs;50;Taiwanese soy eggs
@@ -23936,6 +23941,7 @@ lowiqs;40
 lowish;40
 lowneck;50
 lowon;40
+lowonthetotempole;60
 lowprofile;50
 lowprofiles;50
 lox;50
@@ -29654,6 +29660,7 @@ outlyingarea;50
 outlyingareas;50
 outof;40;Without
 outofajob;50
+outofammo;50
 outofband;50
 outofbandactivity;50
 outofbandauthentication;50
@@ -29668,10 +29675,13 @@ outofgas;50
 outofideas;50
 outoflove;50
 outofmind;50
+outofnothing;50
+outofobligation;50
 outofschool;50
 outofseas;1
 outofthecold;50
 outofthehouse;50
+outofthinair;50
 outonbail;50
 outpoint;40;Defeat on points, in boxing
 outpointed;40
@@ -37559,9 +37569,11 @@ shorthairedcats;50
 shorthanded;50
 shorti;40
 shortis;20
+shortking;60
 shortlist;60
 shorto;40
 shortof;40
+shortontime;50
 shortos;20
 shortround;50
 shortstop;50
@@ -40895,6 +40907,8 @@ surmiser;30
 surnamed;30
 surplice;30;Liturgical vestment
 surplices;30;Liturgical vestments
+surprisepackage;50
+surprisepackages;50
 surprisewitness;60
 surrejoinder;30;???
 surrejoinders;30;???
