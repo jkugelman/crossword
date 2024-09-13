@@ -833,7 +833,13 @@ age;50
 agedlikefinewine;60
 agedlikemilk;60
 agee;40;Pulitzer-winning writer James Agee
-agefive;20
+ageeight;40
+ageeighteen;40
+ageeleven;40
+agefifteen;40
+agefive;40
+agefour;40
+agefourteen;40
 agegap;50
 agegaps;50
 agegrade;50
@@ -843,19 +849,28 @@ agelikefinewine;60
 agelikemilk;60
 agemate;40
 agemates;40
+agenine;40
 agent;50
 agentj;40;Will Smith's "Men in Black" character
 agentk;40;Tommy Lee Jones's "Men in Black" character
 agentry;30
 agents;50
-ageone;30
+ageone;40
 ager;40;OK as a partial
 ageratum;20;Flower genus
 agers;40
+ageseven;40
+ageseventeen;40
+agesix;40
+agesixteen;40
 ageslikefinewine;60
 ageslikemilk;60
 agesold;40;Ancient
-ageten;20
+ageten;40
+agethirteen;40
+agethree;40
+agetwelve;40
+agetwo;40
 ageusia;20;Loss of sense of taste
 aggro;30
 agha;40;Turkish honorific
@@ -1000,6 +1015,8 @@ aircrewman;50
 aircrewmen;50
 aircurtain;50
 aircurtains;50
+airdeparture;40
+airdepartures;40
 airdock;50
 airdocks;50
 airedaleterrier;50
@@ -4044,6 +4061,7 @@ beamoflight;50
 beamsoflight;50
 beanballs;50
 beanbunny;50;Muppet
+beane;40;"Moneyball"'s Billy Beane
 beaneater;5
 beansprout;50
 beansprouts;50
@@ -13271,7 +13289,7 @@ estradiol;40;Hormone
 estring;30
 estrins;30
 estrous;30;Being in heat
-estrus;30;When animal is in heat
+estrus;30;When an animal is in heat
 ests;40;Estimates
 esurance;30;Insurance company
 esurience;30;Greed
@@ -14726,6 +14744,8 @@ flubadub;50;Howdy Doody character
 flubug;50
 flubugs;50
 fluidal;30
+fluidmotion;50
+fluidmotions;50
 flumeride;50
 flumerides;50
 flunkedout;50
@@ -20182,6 +20202,7 @@ inoculum;30
 inodorous;30
 inoil;40
 inone;30
+inonefluidmotion;50
 inonepiece;60
 inositol;30
 inositols;30
@@ -23412,6 +23433,11 @@ liquescent;40
 liquidcooled;50
 liquidcooling;50
 liquiddeath;60
+liquidgelcap;50
+liquidgelcaps;50
+liquidmercury;50
+liquidnitrogen;50
+liquidoxygen;50
 liquorbottle;50
 liquorbottles;50
 lira;50
@@ -27783,6 +27809,7 @@ nosyparkers;60
 not;50
 nota;40
 notabene;50
+notadryeyeinthehouse;60
 notagain;60
 notahappycamper;60
 notakers;60
@@ -27823,6 +27850,7 @@ noth;40;Chris Noth
 nothavingit;60
 nothere;50;"Let's discuss this later"
 nothingbeatsnewhellmannsdijonnaise;50
+nothingbutnet;60
 nothingincommon;50
 nothingissacred;60
 nothingnew;50
@@ -28869,6 +28897,7 @@ onefalsemove;60
 onefin;20
 onefingersalute;60
 onefishtwofishredfishbluefish;60;Dr. Seuss book
+onefluidmotion;50
 onefold;20
 oneforthebooks;60
 onefortheroad;60
@@ -28979,8 +29008,8 @@ onetogo;30
 oneton;30
 onetoten;30
 onetotwo;20
-onetwo;30
-onetwothreefour;30
+onetwo;40
+onetwothreefour;40
 oneunit;40
 onevolt;40
 onewatt;40
@@ -29721,6 +29750,7 @@ outofconcernfor;40
 outofcontention;50
 outofgas;50
 outofideas;50
+outofjuice;50
 outoflove;50
 outofmind;50
 outofnothing;50
@@ -29728,6 +29758,7 @@ outofobligation;50
 outofschool;50
 outofseas;1
 outofthecold;50
+outofthefryingpan;50
 outofthehouse;50
 outofthinair;50
 outonbail;50
@@ -34393,10 +34424,10 @@ reseam;30
 reseamed;30
 reseaming;30
 reseams;30
-reseat;30
-reseated;30
-reseating;30
-reseats;30
+reseat;40
+reseated;40
+reseating;40
+reseats;40
 resect;40;Cut out, as tissue or an organ
 resected;40
 resection;40
@@ -35886,6 +35917,7 @@ sailingin;40
 sailinginto;40
 sailingto;40
 sailinto;40
+sailormoon;60
 sailsin;40
 sailsinto;40
 sailsto;40
@@ -42763,6 +42795,8 @@ theresultsarein;60
 theresyourproblem;60
 thereturn;20;Russian movie
 thereviewsarein;60
+therewasnotadryeyeinthehouse;60
+therewasntadryeyeinthehouse;60
 thereyougo;60
 therio;30
 theriver;50
@@ -44951,6 +44985,8 @@ unfairpractices;50
 unfetter;30
 unfetters;30
 unfilial;30
+unfits;40;Disables, disqualifies
+unfitted;40
 unfocussed;20
 unfrozencavemanlawyer;60
 ungava;40;Canadian disrict, gin
@@ -47062,6 +47098,7 @@ wonderbra;50
 wonderbras;50
 wonderer;30
 wonderers;30
+wonit;40
 wonone;1
 wonsilver;50
 wonted;30;Habitual: Literary
