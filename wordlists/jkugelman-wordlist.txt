@@ -6353,6 +6353,7 @@ cantcatchabreak;60
 cantcook;30;???
 canteen;50
 canteens;50
+canthelpyouthere;60
 canticleforleibowitz;50
 cantmakeanyguarantees;60
 cantonment;30
@@ -7540,7 +7541,7 @@ ciceronian;40
 cid;40
 cie;20
 ciel;40
-ciento;30
+ciento;40;One hundred: Sp.
 ciera;30;Old Oldsmobile
 cig;40
 cigarband;50
@@ -12094,6 +12095,12 @@ ecocar;20
 ecocars;20
 ecofreak;40
 ecofreaks;40
+ecohorror;50
+ecohorrorfilm;50
+ecohorrorfilms;50
+ecohorrormovie;50
+ecohorrormovies;50
+ecohorrors;40;Plural??
 ecohotel;30;It's a real thing
 ecohotels;30
 ecol;40
@@ -15834,6 +15841,7 @@ getem;30
 geterdone;50
 getfat;5
 gethard;20
+gethitched;50
 gethsemane;50
 getideas;50
 getinabind;50
@@ -15890,6 +15898,7 @@ getscozy;50
 getscute;60
 getsdirton;50
 getsfat;5
+getshitched;50
 getsideas;50
 getsinabind;50
 getsinonadeal;50
@@ -15952,6 +15961,7 @@ gettingcute;60
 gettingdirton;50
 gettingfat;5
 gettingforasong;60
+gettinghitched;50
 gettingideas;50
 gettinginabind;50
 gettinginonadeal;50
@@ -16781,6 +16791,7 @@ gothard;20
 gothband;50
 gothbands;50
 gothicart;50
+gothitched;50
 gotideas;50
 gotinabind;50
 gotinonadeal;50
@@ -17586,6 +17597,7 @@ hanggliding;60
 hanging;50
 hangingauie;30
 hangingtough;50
+hangonaminute;60
 hangry;60
 hangsauie;30
 hangstough;50
@@ -17652,7 +17664,7 @@ hardluckstories;60
 hardluckstory;60
 hardpass;60
 hardpilltoswallow;60
-hardr;60
+hardr;40;Movie rating, or phonetic
 hardroe;40
 hards;20;Flex or hemp refuse
 hardsell;50
@@ -18605,6 +18617,7 @@ hololens;50
 holster;50
 holsters;50
 holtz;30
+holusbolus;40;All at once
 holybasil;50
 holyland;60
 holylands;60
@@ -20892,6 +20905,8 @@ itsfine;50
 itsfire;60
 itshightime;60
 itsin;30;Usually a partial
+itsingodshands;60
+itsingodshandsnow;60
 itsinthebag;60
 itsit;20;Ice cream brand
 itsjustathought;60
@@ -20916,6 +20931,8 @@ itsokaybyme;50
 itsokbyme;50
 itsokwithme;50
 itsoundslikeayouproblem;60
+itsoutofmyhands;60
+itsoutofourhands;60
 itsover;60
 itspecialist;50
 itspecialists;50
@@ -27329,7 +27346,7 @@ niecy;40;Actress Niecy Nash, semi-notable
 niekro;40;Phil "Knucksie" Niekro, greatest knuckleball pitcher of all time
 niello;20;Ornamental metalwork
 nieman;40;Harvard's Nieman Foundation for Journalism
-niente;30;Nothing: It.
+niente;40;Nothing: It.
 nieto;30;Mexican president, or "grandson"
 nietzsche;60
 nigerandnigeria;1
@@ -29696,6 +29713,7 @@ outfielder;50
 outfielders;50
 outfit;50
 outfits;50
+outfitters;50
 outflank;50
 outflanked;50
 outflanking;50
@@ -29755,6 +29773,8 @@ outoflove;50
 outofmind;50
 outofnothing;50
 outofobligation;50
+outofoneshands;50
+outofourhands;20
 outofschool;50
 outofseas;1
 outofthecold;50
@@ -30806,7 +30826,9 @@ periodicpayment;20
 periodicupdates;50
 periodide;20;Chemistry word
 perishable;50
+peristylar;30;Architectural word
 peristyle;30;Row of columns surrounding an inner courtyard
+peristyles;30
 peritonitis;40;Symptom of a burst appendix
 periwig;50;Powdered wig
 periwigs;50
@@ -44361,7 +44383,7 @@ tsabin;20;???
 tsai;20;Taiwanese name
 tsaofficer;50
 tsaofficers;50
-tsapre;30
+tsapre;50
 tsar;50
 tsaralexanderii;40
 tsarina;50
@@ -45978,6 +46000,10 @@ waitedabit;50
 waiters;50
 waithe;40;Actress/producer Lena Waithe
 waitingabit;50
+waitjustaminute;60
+waitjustamoment;60
+waitjustasec;60
+waitjustasecond;60
 waitlist;50
 waitlisted;50
 waitlisting;50
@@ -47058,6 +47084,7 @@ withinwalkingdistance;50
 withlegs;30;Having staying power
 withoutanet;50
 withoutwarning;50
+withreagan;40;Book
 witter;30;Investor Dean
 wiz;50
 wizard;60
