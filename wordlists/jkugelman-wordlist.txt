@@ -675,10 +675,14 @@ adultadhd;50
 adultfilm;50
 adultfilms;50
 adulting;60
+adultmale;50
+adultmales;50
 adultmovie;50
 adultmovies;50
-adultsite;50
-adultsites;50
+adultsite;60
+adultsites;60
+adultsupervision;60
+adultswim;60
 adunit;40
 adunits;40
 adv;30
@@ -1290,6 +1294,8 @@ allforfree;50
 allgood;60
 allhandsmeeting;50
 allhandsmeetings;50
+alliedwith;40
+allieswith;40
 alligator;50
 alligators;50
 alliluyeva;20;Stalin's wife
@@ -1332,7 +1338,9 @@ alludesto;40
 alludeto;40
 alludingto;40
 allurement;40
+allyingwith;40
 allyou;60
+allywith;40
 almaata;20
 almaden;30
 almamaters;30
@@ -3245,6 +3253,7 @@ axers;20
 axethrowing;50
 axhead;50
 axheads;50
+axisboldaslove;60
 axl;50
 axman;50
 axmen;50
@@ -4207,6 +4216,8 @@ beercocktails;50
 beerfridge;50
 beerfridges;50
 beerfueled;50
+beergarita;60
+beergaritas;60
 beergut;50
 beerguts;50
 beerier;30
@@ -5389,6 +5400,7 @@ boyscoutmeritbadges;50
 boyscouts;50
 boyscouttroop;50
 boyscouttroops;50
+boysinblue;60
 boytoy;60
 boytoys;60
 boz;40;Rocker Boz Scaggs
@@ -10154,6 +10166,8 @@ depthcharts;50
 deputed;30
 der;40
 deralte;30;German chancellor
+derbyday;50;???
+derbydays;50
 derbyhat;50
 derbyhats;50
 derien;40
@@ -10961,7 +10975,7 @@ doha;50;Capital of Qatar
 dohonor;30
 dohonorto;40
 dohs;30
-doi;20
+doi;40
 doidare;60
 doido;30;Stevie Wonder song
 doiever;60
@@ -11257,6 +11271,7 @@ downside;50
 downsides;50
 downstair;50
 downto;40
+downtobrasstacks;60
 downvote;50
 downvotes;50
 dowonders;60
@@ -11620,6 +11635,8 @@ dsharp;40
 dsl;40
 dslmodem;40
 dslmodems;40
+dslr;40
+dslrs;40
 dsm;20
 dso;20
 dsouza;30;Dinesh D'Souza, right-wing conspiracy theorist
@@ -12201,7 +12218,7 @@ eer;40
 eeriecalm;50
 eery;20;Eerie: Var.
 ees;20
-eevee;50;Pokeyman
+eevee;40;Pokeyman
 eew;20
 eewfactor;30
 eff;20
@@ -12436,6 +12453,7 @@ elgin;40;NBA great Elgin Baylor
 eli;50
 elia;40;Elia Kazan
 elicitor;30
+elie;40;Elie Wiesel
 elieli;20;Hebrew song
 elihu;20;Critic of Job
 elim;40
@@ -12443,7 +12461,7 @@ elimanning;50
 elimidate;40;Forgotten early 2000's reality show
 elion;20
 eliotness;50
-elis;30
+elis;40;Yale students
 elitisms;20
 eliud;40;Eliud Kipchoge, all-time-great long-distance runner
 eljames;50
@@ -12492,6 +12510,7 @@ elsevier;40;Dutch academic publishing company
 elsinore;40;"Hamlet" castle
 elston;40;Yankees great Elston Howard
 eltoro;40
+eltricolor;50;Mexico national football team nickname El Tricolor
 eluant;20;Chemistry word
 eluants;20;Chemistry word
 eluder;30
@@ -13055,6 +13074,7 @@ erivo;30;Actress Cynthia
 erl;20
 erle;30
 erm;40
+erma;40
 ermine;40;Weasel
 ermined;30;Clothed in ermine
 ermines;40
@@ -13115,6 +13135,7 @@ eructs;5
 ervin;40;Senator Sam Ervin who led the Watergate investigation
 erwin;40;Erwin Schrödinger, Erwin Rommel
 ery;20
+erysipelas;30;Skin infection aka St. Anthony's fire
 erythema;30;Skin redness
 esa;40
 esai;40
@@ -14093,6 +14114,7 @@ feelingheard;50
 feelinginonesbones;60
 feelinglikeafool;50
 feelinglikeamillionbucks;60
+feelinglow;50
 feelingoff;50
 feelingsad;40
 feelingseen;50
@@ -16305,6 +16327,7 @@ godsacres;50
 godsend;60
 godsends;60
 godsgift;60
+godwinslaw;60
 godzillaxkong;60
 godzillaxkongthenewempire;50
 goesallin;50
@@ -17287,7 +17310,7 @@ gypping;5
 gyps;5
 gyr;20
 gyrator;30
-gyre;30
+gyre;40;From Jabberwocky
 gyred;30
 gyrene;20;Marine, slangily
 gyrenes;20
@@ -17435,6 +17458,7 @@ haler;50
 halest;50
 halfacre;20
 halfasian;50
+halfasians;50
 halfdollar;50
 halfempty;50
 halffull;50
@@ -20028,6 +20052,7 @@ indya;30
 ine;30;Suffix or key signature [extremely common]
 inecstasy;50
 ineedadrink;60
+ineedahand;60
 ineedahint;60
 ineedalift;60
 ineedanap;60
@@ -20038,6 +20063,7 @@ ineedtowarnyou;60
 inertgas;50
 inerts;20
 ines;30
+inessastre;40;Spanish actress Inés Sastre
 inesse;30;Actually existing
 ineurope;30
 inever;60
@@ -21148,14 +21174,14 @@ jejunum;30;Part of the small intestine
 jellomold;50
 jellomolds;50
 jellopudding;50
-jelloshot;50
-jelloshots;50
-jellybean;50
-jellybeans;50
-jellydonut;50
-jellydonuts;50
-jellydoughnut;50
-jellydoughnuts;50
+jelloshot;60
+jelloshots;60
+jellybean;60
+jellybeans;60
+jellydonut;60
+jellydonuts;60
+jellydoughnut;60
+jellydoughnuts;60
 jellyfishbloom;50
 jem;40
 jemima;5
@@ -21959,6 +21985,8 @@ koko;40
 kol;20
 kola;40
 kolas;40;Caffeinated nuts
+kolinskies;40
+kolinsky;40;???
 kolkata;50;New name of Calcutta
 koln;30
 kolnidre;40;Yom Kippur prayer
@@ -22884,6 +22912,7 @@ lennonmccartney;60
 lenoir;20;North Carolina town
 lensman;40;Photographer
 lensmen;40
+lenticular;40
 lentos;30;Slow passages
 lentto;40
 lenvoi;20
@@ -22974,6 +23003,7 @@ letsbehonest;60
 letsee;20
 letsfree;1
 letsgetcracking;60
+letsgetdowntobrasstacks;60
 letsgetintoit;60
 letsgetitstarted;60
 letsgetonwithit;60
@@ -23436,6 +23466,8 @@ litter;50
 littheway;50
 littledorrit;50;Dickens novel
 littlegiantsnowcloudseeder;60;Acme invention
+littlegirl;50
+littlegirls;50
 littlejoe;50
 littleman;60
 littlemissthang;60
@@ -25955,6 +25987,7 @@ moline;40;Moline, IL, headquarters of John Deere
 molitor;30;Baseball hall of famer Paul Molitor
 mollies;20
 molls;50
+mollysgame;60
 moltenlava;50
 moltenlavacake;50
 moltenlavacakes;50
@@ -27031,7 +27064,7 @@ nervegases;40
 nervewracking;60
 nervoustic;60
 nervoustics;60
-nes;20
+nes;30
 nesbit;40;1800s writer Edith Nesbit
 nescience;40
 nescient;40
@@ -28239,7 +28272,7 @@ ochers;40
 ocho;40
 ochoa;30;Golfer Loren
 ochophobia;50;Fear of vehicles
-ochre;50
+ochre;40
 ochres;40
 ochs;40;Songwriter Phil Ochs
 ock;20
@@ -28372,6 +28405,11 @@ officinal;30
 offings;30
 offleashdogpark;50
 offleashdogparks;50
+offshoredriller;50
+offshoredrillers;50
+offshoredrilling;50
+offshoreoilrig;50
+offshoreoilrigs;50
 offsides;50
 offstream;50
 offtone;40;Off-key, dissonant
@@ -28461,6 +28499,8 @@ ohyousweetsummerchild;60
 oid;30;Suffix [occasional]
 oie;20
 oil;50
+oilandgasworker;50
+oilandgasworkers;50
 oilbaron;50
 oilbarons;50
 oilcar;40
@@ -28476,8 +28516,14 @@ oilfree;50
 oilleak;50
 oilleaks;50
 oiloncanvas;50
+oilpipeline;50
+oilpipelines;50
+oilplatform;50
+oilplatforms;50
 oilrig;50
 oilrigs;50
+oilrigworker;50
+oilrigworkers;50
 oiltanker;50
 oiltankers;50
 oiltube;40
@@ -28735,6 +28781,7 @@ onaraft;20
 onarail;40;How to run someone out of town
 onaroll;60
 onarope;40
+onarun;40
 onaslant;30
 onastar;20
 onastick;40
@@ -28757,7 +28804,7 @@ onboard;50
 onboarding;50
 onboardwith;40
 onbrand;60
-oncd;20
+oncd;40
 oncds;20
 oncee;20
 onceler;50
@@ -28771,7 +28818,7 @@ ondine;40;2009 Colin Farrell movie
 ondope;5
 ondra;50;Adam Ondra
 ondrugs;5
-ondvd;20
+ondvd;40
 one;50
 oneacat;20;Old ball game
 oneacre;30
@@ -29671,6 +29718,7 @@ outofbandsignaling;50
 outofcentralcasting;60
 outofconcern;50
 outofconcernfor;40
+outofcontention;50
 outofgas;50
 outofideas;50
 outoflove;50
@@ -29768,12 +29816,12 @@ oviposits;30
 ovisac;30;Where egg cells are produced
 ovisacs;30
 ovo;40
-ovoid;30
+ovoid;40
 ovoidal;30
 ovoids;30
-ovular;30
-ovule;30
-ovules;30
+ovular;40
+ovule;40
+ovules;40
 ovum;40
 ow;50
 owasso;20
@@ -29940,8 +29988,8 @@ pak;40
 pal;50
 pala;20
 palade;20;1974 Nobelist
-palaestra;40;Ancient Greek wrestling school
-palaestrae;40
+palaestra;30;Ancient Greek wrestling school
+palaestrae;30
 palais;40
 palak;40;Indian dish
 palaround;50
@@ -30192,6 +30240,8 @@ parti;40
 participationmedal;60
 participationmedals;60
 participationtrophies;60
+particolor;40;Having different colors
+particolored;40;Having different colors
 particularizing;30
 partiers;50
 partii;40
@@ -30967,7 +31017,13 @@ phrenic;30
 phs;20
 phu;20
 phx;50
+physicaltherapist;50
+physicaltherapists;50
 physics;50
+physicslab;50
+physicslabs;50
+physicsmajor;50
+physicsmajors;50
 physique;60
 pi;50
 pia;40
@@ -31467,12 +31523,12 @@ playsforlaughs;50
 playsgames;60
 playsgolf;50
 playsto;40
-playtest;60
-playtested;60
-playtester;60
-playtesters;60
-playtesting;60
-playtests;60
+playtest;50
+playtested;50
+playtester;50
+playtesters;50
+playtesting;50
+playtests;50
 playto;40
 plazasuite;50
 pleach;30;Entwine branches to form a hedge
@@ -34684,7 +34740,7 @@ rewroteshistory;60
 rex;50
 rexall;30
 rexes;40
-rexha;30;Singer Bebe Rexha
+rexha;40;Pop singer Bebe Rexha
 rexparade;50;Mardi Gras parade
 rexparades;50
 rey;40
@@ -34944,18 +35000,22 @@ riotshields;50
 riotsquad;50
 riotsquads;50
 rip;50
+ripat;40
 ripeoldage;60
 ripieno;30;Body of instruments accompanying the concertino in baroque concerto music
 ripintwo;50
 ripone;20
 ripost;20;Var. spelling
+rippedat;40
 rippedintwo;50
 rippedone;20
+rippingat;40
 rippingintwo;50
 rippingone;20
 riproarin;50
 riproaring;60
 riproaringtime;60
+ripsat;40
 ripsaw;50
 ripsaws;50
 ripsintwo;50
@@ -35268,6 +35328,7 @@ ronmix;30;???
 ronrico;30
 rons;30
 ronsanto;40;Cubs hall-of-famer 1960-1973
+ronziegler;40;Nixon's Press Secretary
 roo;40
 rood;20
 roods;20
@@ -35930,6 +35991,7 @@ saltpits;50
 saltsaway;30
 saltspray;50
 saltsprays;50
+saltysweet;60
 saluds;30
 saluki;40;Dog breed, royal dog of Egypt [occasional]
 salukis;40;Dog breed, royal dog of Egypt
@@ -37071,6 +37133,8 @@ serines;30
 serins;20
 seriousmood;40;???
 seripak;50;Three-time LPGA champ (Se-ri Pak)
+serj;40;Serj Tankian of System of a Down
+serjtankian;50;System of a Down singer
 sermon;50
 sermons;50
 serosa;20;Internal tissue
@@ -37156,6 +37220,10 @@ settingeyeson;50
 settingfireto;40
 settingthetone;50
 settingupshop;50
+settledinto;40
+settleinto;40
+settlesinto;40
+settlinginto;40
 setto;40
 settop;50
 setupshop;50
@@ -37259,6 +37327,7 @@ sextuple;50
 sextupled;50
 sextuples;50
 sexup;60
+sexwax;50
 sexy;60
 sexyprime;50
 sexyprimes;50
@@ -37275,6 +37344,7 @@ sgls;20
 sgs;20
 sgt;40
 sgtjoe;40;???
+sgtpreston;40
 sh;50
 sha;20
 shabti;20;Egyptian figurine
@@ -38910,7 +38980,7 @@ soli;30
 solider;30
 solidfood;50
 solidfoods;50
-solidsnake;50
+solidsnake;60
 solisten;60
 soliton;20;In physics, a solitary wave
 solitons;20;In physics, solitary waves
@@ -40876,6 +40946,8 @@ supremecourts;50
 supremeintelligence;60
 supremer;30
 sur;40
+surcingle;30;Horse strap
+surcingles;30
 surecure;60
 surecures;50
 suredid;60
@@ -40982,6 +41054,8 @@ swaybar;50;Car's anti-roll bar
 swaybars;50
 swayer;40;Ruler
 swayers;40
+swazi;40;People of Eswatini (formerly Swaziland)
+swazis;40
 swc;20
 swe;40
 swearat;40
@@ -41158,6 +41232,7 @@ syringe;50
 sys;30
 sysco;40
 syst;40
+systemofadown;60
 syzygies;60
 syzygy;60
 sza;20
@@ -41293,7 +41368,7 @@ takeflak;50
 takehimawayboys;60
 takeinvain;50
 takeiteasy;60
-takeitslow;60
+takeitslow;50
 takeitto;1
 takeittothegrave;60
 takeliberties;50
@@ -41492,6 +41567,7 @@ tania;40
 tanika;20;Entertainment reporter Tanika Ray, not notable enough
 tanith;20;First name
 tanka;30;Japanese poem
+tankian;40;Serj Tankian of System of a Down
 tanmandm;50
 tanmandms;50
 tannate;20;Chemical salt used in ink
@@ -41698,6 +41774,7 @@ taxidancer;50
 taxidancers;50
 taxlaw;50
 taxlaws;50
+taxman;50
 taxol;30;Chemotherapy drug
 taxon;40;Kingdom, phylum, etc.
 tay;40;Taylor Swift nickname
@@ -42328,6 +42405,7 @@ thebatpole;20
 thebbc;20
 thebeard;60
 thebearerofbadnews;20
+thebeatles;60
 thebeeb;50
 thebeesknees;60
 thebends;50
@@ -43197,6 +43275,7 @@ timesinks;60
 timessymbol;50
 timetable;50
 timetables;50
+timetested;60
 timetokill;20
 timetravelerswife;50
 timewarner;50
@@ -43474,6 +43553,8 @@ tolease;50
 toledooh;20
 toledoohio;30
 toledos;40;Old swords
+tolerator;40
+tolerators;40
 tolet;40
 tolle;30;Self-help author Eckhart Tolle
 toller;30;Real word???
@@ -43878,6 +43959,8 @@ traducers;30
 traduces;30
 traducing;30
 tragical;30
+tragicflaw;60
+tragicflaws;60
 trailedoff;50
 trailingoff;50
 trailmix;50
@@ -44356,6 +44439,7 @@ tulipgardens;50
 tull;40
 tulle;30;Veil material
 tully;40
+tulsasound;50;Blues rock musical style
 tulsi;20;Holy Basil
 tum;20
 tumbleweep;1
@@ -45231,7 +45315,7 @@ usingfor;40
 usingon;40
 usingonesnoodle;60
 usm;20
-usma;30;West Point
+usma;40;West Point
 usmagazine;50
 usmap;30
 usmaps;30
