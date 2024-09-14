@@ -1555,6 +1555,7 @@ ameen;20;Amen variant (?)
 amelcorn;30;Wheat variety
 ameliorant;30
 amencorners;50
+amendatory;40;???
 amender;40
 amenders;40
 amendmenti;20
@@ -3056,6 +3057,7 @@ attestors;30
 atteststo;40
 attestto;40
 atthebat;30;Awkward
+attheendof;40
 atthehalf;50
 atthenet;30
 atthisrate;50
@@ -3605,6 +3607,7 @@ ballroomdancer;50
 ballroomdancers;50
 ballroomdancing;50
 ballsinyourcourt;60
+ballsy;60
 ballyhoo;60
 balmoral;40;Scottish castle for the British royal family
 balt;30;Latvian, e.g.
@@ -5331,6 +5334,8 @@ bottledwater;50
 bottleflies;50
 bottlefly;50
 bottlenosewhale;60
+bottleshop;50
+bottleshops;50
 bottletop;50
 bottletops;50
 bottomline;60
@@ -8697,6 +8702,8 @@ cottonsto;40
 cottonto;40
 cottonwoodtrees;50
 coty;40;Major beauty conglomerate (owns Adidas, Gucci, Tiffany, and many more)
+cotyledon;30;Botany word
+cotyledons;30
 couch;50
 couchfort;60
 couchforts;60
@@ -12039,6 +12046,7 @@ eatsoneshat;60
 eatsoneswords;60
 eatsup;40
 eatthem;1
+eattherich;60
 eatto;20
 eatup;50
 eatyourheartout;60
@@ -12594,6 +12602,12 @@ emc;20
 eme;20
 emeet;30
 emeka;30;Baskball player ___ Okafor
+emendate;40
+emendated;40
+emendates;40
+emendating;40
+emendation;40
+emendations;40
 emender;30
 emenders;30
 emer;30
@@ -15585,6 +15599,9 @@ gaswar;20
 gaswars;20
 gat;40
 gatech;40
+gatekeeper;60
+gatekeepers;60
+gatekeeping;60
 gateleg;40;Type of dropleaf table
 gatelegtable;40
 gatelegtables;40
@@ -16821,6 +16838,7 @@ gotnear;40
 gotnoshot;50
 goto;50
 gotoetotoe;60
+gotogether;50
 gotoguy;60
 gotohell;60
 gotohellandback;60
@@ -17026,6 +17044,7 @@ greatshot;50
 greatstuff;60
 grebe;20
 grebes;20
+grecianurn;50
 greedisgood;60
 greedly;50;Hoggish Greedly, Captain planet baddie
 greekcross;50
@@ -17211,6 +17230,7 @@ guarantied;20;Guaranteed: Var.
 guaranties;40
 guaranty;40
 guarantying;20;Guaranteeing: Var.
+guardant;40;Biotech company, notable??
 guardduty;50
 guardllama;60
 guardllamas;60
@@ -17470,6 +17490,7 @@ hailfrom;50
 hailingfrom;50
 hailofbullets;60
 hailsfrom;50
+hailto;20
 haim;40;Corey Haim
 hairfollicle;50
 hairfollicles;50
@@ -17648,6 +17669,7 @@ har;40
 haralds;20
 haram;30;Boko Haram
 harare;40;Capital of Zimbabwe
+harari;40
 hardagree;60
 hardass;60
 hardasses;60
@@ -17716,7 +17738,7 @@ harshlightofday;60
 harte;30;19th century writer Bret Harte
 hartebeest;40;Antelope
 hartfordct;30
-haruki;60
+haruki;40
 harukimurakami;60
 harvardlaw;50
 harvests;50
@@ -18038,6 +18060,7 @@ hebraists;30
 hebridean;20;Scottish sheep
 hebron;30;Palestinian city
 hec;20
+hecate;40
 hecht;30
 heckno;60
 hectoliter;30
@@ -18073,6 +18096,7 @@ heiressapparent;30
 heistfilm;60
 heistfilms;60
 hejira;20;Joni Mitchell album
+hekate;40
 hel;20
 heldback;50
 heldscoreless;50
@@ -18757,7 +18781,7 @@ hooksup;60
 hookup;50
 hookups;50
 hooliganism;60
-hoople;50;Mott the Hoople
+hoople;40;Mott the Hoople
 hoopoe;20;Colorful bird
 hoopoes;20;Colorful birds
 hoorah;30
@@ -21748,6 +21772,8 @@ keto;50
 ketodiet;60
 ketodiets;60
 kettlecorn;50
+kettledrum;50
+kettledrums;50
 kettleoffish;60
 kev;40
 kevinhart;50
@@ -23061,6 +23087,7 @@ letsgetintoit;60
 letsgetitstarted;60
 letsgetonwithit;60
 letshaveit;60
+letshearit;60
 letsjustmoveon;60
 letsjustmovepastit;60
 letsjustsay;60
@@ -23532,6 +23559,8 @@ littlemissthang;60
 littlemissthing;60
 littlemsthang;60
 littlemsthing;60
+littlenemo;50
+littlepigs;60
 littletoe;50
 littletoes;50
 litupon;50
@@ -24226,6 +24255,7 @@ lynchings;5
 lynda;40
 lynley;30;The Inspector Lynley Mysteries, British detective series
 lynne;40;Jeff Lynne of ELO, or second lady Lynne Cheney
+lyra;40
 lyrate;20;Lyre-shaped
 lyrid;30;April meteor shower
 lyrids;30;April meteor shower
@@ -25517,6 +25547,7 @@ metrolines;50
 metrology;30
 metronome;50
 metronomes;50
+metsjersey;20;Green paint
 mettle;50
 mettled;30
 mettles;30
@@ -26983,6 +27014,8 @@ neato;50
 neb;40
 nebr;40
 nebuchadnezzars;30
+nebule;30;Small cloud
+nebules;30
 nec;20
 neck;50
 necklet;40
@@ -28149,7 +28182,7 @@ nwodim;40;SNL cast member Ego Nwodim
 nwsl;40;National Women's Soccer League
 nwt;20
 nyad;30;Swimmer Diana
-nyah;30
+nyah;50;"So there!"
 nyala;30;African antelope
 nyalas;30;African antelope
 nyarlathotep;60;Lovecraftian god
@@ -28209,7 +28242,7 @@ oasts;40
 oat;50
 oatbased;30
 oatbread;30
-oaten;40
+oaten;50
 oater;30
 oaters;30
 oathofthehoratii;50
@@ -28345,6 +28378,9 @@ oct;40
 octad;40
 octads;40
 octahedra;50
+octahedral;50
+octahedron;50
+octahedrons;50
 octanes;40
 octaval;30;Relating to an octave
 octavo;40;Book size
@@ -28736,6 +28772,7 @@ oleta;40;Soul singer Oleta Adams
 olheaveho;60
 olid;20
 oligocene;30;Epoch
+olin;40;Actress Lena Olin
 olinda;30;Brazilian city, UNESCO World Heritage site
 oline;40
 olines;30
@@ -29168,6 +29205,7 @@ oohimsoscared;60
 oohing;40
 oohs;40
 oohshiny;60
+oolala;40
 oolite;20
 oolites;20
 oology;30
@@ -30994,6 +31032,7 @@ phaedrus;50
 phag;20;Eating: prefix
 phalarope;30;Shorebird
 phalaropes;30
+phanatic;60
 phantasm;60
 phantasmagoria;60
 phantasmagoric;60
@@ -31022,6 +31061,7 @@ phenoms;50
 phfactor;50
 phfactors;50
 phi;50
+philliephanatic;60
 phillipsheadscrewdriver;50
 phillipsheadscrewdrivers;50
 philol;20
@@ -31608,6 +31648,8 @@ pleaching;30;Entwining branches to form a hedge
 pleadingto;40
 pleadsto;40
 pleadto;40
+pleasanter;40
+pleasantest;40
 pleasebepatient;60
 pleasedo;60
 pleasedont;60
@@ -31753,6 +31795,7 @@ poilu;20;French soldier
 poincare;60
 pointafingerat;50
 pointat;40
+pointe;40
 pointedafingerat;50
 pointedat;40
 pointedto;40
@@ -32100,6 +32143,7 @@ potsmokers;50
 potsoftea;50
 pottedmeat;50
 pottermore;50
+pottle;20
 pottyhumor;60
 pottytrained;50
 potus;40
@@ -33325,6 +33369,7 @@ ranfast;30
 ranfor;40
 ranforit;40
 rangabell;60
+rangameon;50
 range;50
 rangel;30;Charles Rangel, founding member of the Congressional Black Caucus
 rangertab;50
@@ -33517,6 +33562,8 @@ rattingon;40
 rattlesnakebite;60
 rattlesnakemeat;60
 rattlesonescage;60
+rattletrap;60
+rattletraps;60
 rature;20
 rau;20
 ravemusic;50
@@ -35703,6 +35750,7 @@ runed;50
 runfast;20
 runfor;40
 runforit;60
+rungameon;50
 runitby;40
 runlet;40;Small stream
 runlets;40
@@ -35720,6 +35768,7 @@ runningbehind;50
 runningfast;30
 runningfor;40
 runningforit;50
+runninggameon;50
 runningitby;40
 runningloose;50
 runningon;40
@@ -35753,6 +35802,7 @@ runsby;40
 runsfast;20
 runsfor;40
 runsforit;50
+runsgameon;50
 runshort;50
 runshorton;40
 runsin;40
@@ -35814,6 +35864,7 @@ rusticbread;50
 rustred;20
 rut;50
 rutalee;30
+ruthreichl;40
 rutile;40
 rutles;30;Beatles parody band
 ruy;20
@@ -42253,7 +42304,9 @@ ternate;30;Arranged in threes, like clover leaves
 terne;20
 ternes;20
 terns;40;Seabirds
+terp;40
 terpin;20
+terps;40
 terra;40
 terracing;30
 terracottatiles;50
@@ -42994,6 +43047,7 @@ thewhiskeyrebellion;40
 thewholeshootingmatch;60
 thewickerman;50
 thewisemen;30
+thewtatour;30
 thexgames;40
 thexmen;40
 theyanks;40;???
@@ -43984,6 +44038,7 @@ tped;40
 tping;40
 tpk;40
 tpke;40
+tpose;40
 tps;40
 tra;20
 trabecula;20;Anatomical partition
@@ -44306,12 +44361,12 @@ troi;40
 troika;40
 trois;40;French three
 trojanwar;50
-troll;60
+troll;50
 trolldoll;60
 trolldolls;60
 trolled;60
 trolling;60
-trolls;60
+trolls;50
 trombone;50
 trompe;40
 trompes;40
@@ -46137,6 +46192,8 @@ warbow;50
 warbows;50
 warchest;50
 warchests;50
+warcries;60
+warcry;60
 wardance;50
 wardances;50
 warder;40
@@ -46165,6 +46222,7 @@ warmuplap;50
 warmuplaps;50
 warnedof;40
 warningof;40
+warnme;20
 warnof;40
 warnsof;40
 warpath;60
@@ -47572,6 +47630,7 @@ yawningchasm;50
 yawningchasms;50
 yay;50
 yaya;40;Various people, or "Divine Secrets of the Ya-Ya Sisterhood"
+yays;40
 yaz;40;Red Sox hall of famer
 ybor;20
 yclept;20;By the name of, archaic
