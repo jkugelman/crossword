@@ -77,15 +77,28 @@ def load_word_list(min_score=0):
     word_list.load('spreadthewordlist.txt', [filter(min_score=50)])
     word_list.words = {word: score for (word, score) in word_list.words.items() if score >= min_score}
 
-    with open(rel_path('jkugelman-clues.txt')) as clues:
-        clued_words = {line.strip().split(';')[0] for line in clues}
-        for clued_word in clued_words:
-            try:
-                word_list.words[clued_word] += 1
-            except KeyError:
-                pass
+    bonuses = load_bonuses('jkugelman-clues.txt')
+    for word, bonus in bonuses.items():
+        try:
+            word_list.words[word] += bonus
+        except KeyError:
+            pass
 
     return word_list
+
+def load_bonuses(path):
+    bonuses = {}
+
+    with open(rel_path(path)) as file:
+        for line in file:
+            word_with_stars = line.strip().split(';')[0]
+            word = word_with_stars.lstrip('*')
+            star_count = len(word_with_stars) - len(word)
+            score = 1 + star_count
+            if score > bonuses.get(word, 0):
+                bonuses[word] = score
+
+    return bonuses
 
 def save_word_list(word_list):
     word_list.save('wordlist.txt', scores=True)

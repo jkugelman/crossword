@@ -44,16 +44,84 @@
 ##weapons;"Federal agents raid gun shop, find ___" (The World)
 ##weather;"Forecaster calls for ___ on Monday" (Pittsburg Post-Gazette)
 ##wind;"Passing ___ strands BC Ferry passengers" (Vancouver Sun)
-#art;People movers?
+#alist;Where Tom Cruise has lived for 40 years [used and edited out]
 #lace;Tie up loose ends? [used in Square to Begin]
 #laced;Tied up loose ends? [used in Square to Begin]
 #laces;Ties up loose ends? [used in Square to Begin]
 #lacing;Tying up loose ends? [used in Square to Begin]
+#one;Number line? [ignored in Doing Front Flips]
+#ones;Number lines? [ignored in Doing Front Flips]
 #ots;Draw conclusions, briefly? [used in Teacher's Marks]
 #overtimes;Draw conclusions? [used in Teacher's Marks]
+#pondscum;Dirty film [used in Is There an Echo in Here?]
 #scum;Dirty film? [used in Is There an Echo in Here?]
 #tiebreakers;Draw conclusions? [used in Teacher's Marks]
 #tubas;They have big brass bells [used in Square to Begin]
+*adlibber;Make-up artist?
+*adlibbers;Make-up artists?
+*bathe;What nuns do out of habit?
+*beer;Heady stuff?
+*bigbang;Creative spark?
+*bookburning;Lit on fire?
+*boutonniere;Stick it to the man
+*calendar;Its days are numbered
+*calendars;Their days are numbered
+*catcher;One who can't stand working at home
+*catchers;They can't stand working at home
+*deskcalendar;51;Its days are numbered
+*deskcalendars;51;Their days are numbered
+*drunktalk;Loaded questions?
+*filets;Word that's an anagram of itself
+*foolserrand;Boob job?
+*frightened;Past tense?
+*goat;Grass-fed butter?
+*grandfatherclock;Old timer?
+*hiredgun;All-cash offer?
+*hiredguns;All-cash offers?
+*hotdog;Fan fare?
+*hotdogs;Fan fare?
+*love;Net zero?
+*loveall;Pointless
+*luckypennies;Change of fortune?
+*luckypenny;Change of fortune?
+*merger;Kind of a big deal
+*morgue;Stiff joint?
+*morgues;Stiff joints?
+*mummies;Remains under wraps?
+*mummy;Remains under wraps?
+*musical;Acting in concert?
+*musicals;Acting in concert?
+*niceass;Bottom line?
+*nicebutt;Bottom line?
+*nodder;Silent letter?
+*nodders;Silent letters?
+*northpaw;Right-hand man
+*nun;Someone who bathes out of habit?
+*nuns;Ones who bathe out of habit?
+*onsafari;Where to watch the big game?
+*onset;Where to see shooting stars?
+*petname;Love handle?
+*petnames;Love handles?
+*popcorn;Fan fare?
+*pretzel;Fan fare?
+*pretzels;Fan fare?
+*rag;What gets dirt on people ... or off them
+*saynotodrugs;Stay off the grass?
+*selfiestick;First-person shooter?
+*selfiesticks;First-person shooters?
+*sextoy;Congressional aid?
+*sextoys;Congressional aids?
+*shot;Take in a movie?
+*shots;Takes in a movie?
+*shower;What nuns do out of habit?
+*stifle;Word that's an anagram of itself
+*stoned;High definition
+*terrified;Past tense?
+*thebigbang;Creative spark?
+*vowofsilence;Zip code?
+*wallcalendar;51;Its days are numbered
+*wallcalendars;51;Their days are numbered
+*xyz;Alphabetical order?
 aaa;Org. with many roadside towers?
 abettor;Stealing second?
 abider;The Big Lebowski, notably
@@ -78,8 +146,6 @@ accomplice;Stealing second?
 acquisition;Kind of a big deal
 acrazylittlethingcalledlove;Queen's subject?
 action;Production line?
-adlibber;Make-up artist?
-adlibbers;Make-up artists?
 adverb;Now or never, e.g.?
 afoolandhismoney;Chump change?
 afraid;Past tense?
@@ -98,7 +164,6 @@ albumsleeves;They help cover one's tracks?
 ale;Heady stuff?
 ales;Heady stuff?
 alist;Star catalog?
-alist;Where Tom Cruise has lived for 40 years
 allaboard;Cruise line?
 allrise;Court order?
 allrise;Order in the court?
@@ -111,8 +176,6 @@ alteregos;Inside voices?
 alteregos;Likeminded individuals?
 alteregos;Self-made men?
 alteregos;Split seconds?
-amazon;Jungle flower?
-amazonriver;Jungle flower?
 aminor;It's all-natural
 and;Word that has never appeared in a Best Picture winner
 andmakeitsnappy;Rush order?
@@ -130,7 +193,6 @@ arsonist;Housewarming party?
 artgallery;Hang in there
 artifact;A thing of the past
 artmuseum;Hang in there
-arts;People movers?
 artstudio;Drawing pad?
 artstudio;Sketch pad?
 artstudios;Drawing pads?
@@ -174,7 +236,6 @@ bassinet;Mobile home?
 bassinets;Mobile homes?
 basspaleale;Drink like a fish?
 bathe;Get into hot water
-bathe;What nuns do out of habit?
 bathed;Got into hot water
 bathes;Gets into hot water
 bathes;What a nun does out of habit?
@@ -195,7 +256,6 @@ beefheart;Stock ticker?
 beefhearts;Stock tickers?
 beehive;Colonial dwelling?
 beer;Garden variety?
-beer;Heady stuff?
 beers;Heady stuff?
 beetree;Colonial dwelling?
 bequiet;Zip line?
@@ -206,7 +266,6 @@ bestsellers;Lit on fire?
 bewareofdogs;Pound sign?
 bewareofthedogs;Pound sign?
 beyonce;Pop icon with a conspicuous accent
-bigbang;Creative spark?
 billboard;Hits home?
 billboardchart;Hits home?
 bishop;Profession of faith
@@ -226,15 +285,13 @@ blush;A thing of beauty
 boardingpass;Fly paper?
 bodyguard;Grave robber's deterrent?
 boo;Sound judgment?
-bookburning;Lit on fire?
 bookit;Bolt out of the blue?
 bootedout;Dismembered?
 bootingout;Dismembering?
 bootout;Dismember?
 bootsout;Dismembers?
-boring;Dull name for an Oregeon town
+boring;Dull name for an Oregon town
 botanical;Garden variety
-boutonniere;Stick it to the man
 bowlingalley;Strikes home?
 boxer;Bell ringer?
 boxers;Bell ringers?
@@ -272,10 +329,8 @@ cadaver;Body of evidence?
 cadavers;Bodies of evidence?
 calculator;Product development tool?
 calculators;Product development tools?
-calendar;Its days are numbered
 calendar;Times square?
 calendars;April showers, in April?
-calendars;Their days are numbered
 callbullshit;Utter tripe?
 camels;Saudi Arabia imports them from Australia
 campfire;Bush telly, to an Aussie
@@ -304,7 +359,6 @@ carkey;It goes in, fits and starts
 cartwheel;Get over yourself
 catcher;Ballpark figure?
 catchers;Ballpark figures?
-catchers;They can't stand working at home
 caterer;Social worker?
 caterers;Social workers?
 cattlepen;Stock holder?
@@ -412,13 +466,10 @@ dermatologist;One who makes rash decisions?
 dermatologist;Skinny doctor?
 dermatologists;Ones who makes rash decisions?
 dermatologists;Skinny doctors?
-deskcalendar;51;Its days are numbered
-deskcalendars;51;Their days are numbered
 destination;Get to it!
 det;Grill master, for short?
 detective;Grill master?
 detectives;Grill masters?
-dets
 developer;One who buys a lot?
 developers;Ones who buys a lot?
 dialogue;Plot lines
@@ -462,7 +513,6 @@ drained;Free of charge?
 drfrankenstein;Body builder?
 drinksareonme;Free spirits
 drinksareonthehouse;Free spirits
-drunktalk;Loaded questions?
 duck;Down home?
 dull;Boring name for a Scotland town
 dull;Pointless?
@@ -572,7 +622,6 @@ fiancee;Engagement party
 fielder;Ballpark figure?
 fielders;Ballpark figures?
 fiery;Like hell!
-filets;Word that's an anagram of itself
 filibuster;Lengthy Congressional term?
 filmcritic;One who gets the picture?
 filmcritics;They get the picture?
@@ -601,7 +650,6 @@ flops;Star destroyers?
 flyswatter;Buzzer beater?
 flyswatters;Buzzer beaters?
 foolandhismoney;Chump change?
-foolserrand;Boob job?
 fortknox;Bar keep?
 fossil;A thing of the past
 fossils;Remains underground?
@@ -610,7 +658,6 @@ franc;French quarter
 frankenstein;Body builder?
 freeradical;Roaming charge?
 freeradicals;Roaming charges?
-frightened;Past tense?
 frontpocket;Phone home, maybe?
 frumpy;Not looking so hot?
 ftknox;Bar keep?
@@ -633,7 +680,6 @@ getlost;Take the wrong way?
 getout;Order to go
 getslost;Takes the wrong way?
 giveitarest;Layoff demand?
-goat;Grass-fed butter?
 golfclub;Drive shaft?
 goonthelam;Bolt from the blue?
 goontherun;Bolt from the blue?
@@ -650,7 +696,6 @@ grade;Leave one's mark on?
 graded;Left one's mark on?
 grades;Leaves one's mark on?
 grading;Leaving one's mark on?
-grandfatherclock;Old timer?
 gravel;Chip on the shoulder?
 gravel;Rocky road ingredient?
 graveyard;Stiff joint?
@@ -693,8 +738,6 @@ herded;Took stock in?
 herding;Taking stock in?
 herdmentality;Bullheadedness?
 herds;Takes stock in?
-hiredgun;All-cash offer?
-hiredguns;All-cash offers?
 hitchhiker;Bummer
 hitchhikers;Bummers
 hitter;Ballpark figure?
@@ -717,8 +760,6 @@ hostess;Social worker?
 hostesses;Social workers?
 hosts;Social workers?
 hot;Like hell!
-hotdog;Fan fare?
-hotdogs;Fan fare?
 hotfootit;Bolt out of the blue?
 hotsauce;Throat singer?
 housebeer;First round draft pick, maybe?
@@ -886,11 +927,7 @@ looting;Taking things, literally
 loots;Takes things, literally
 losangeles;Rams home?
 louisdaguerre;First person shooter?
-love;Net zero?
-loveall;Pointless
 lowcarbdiet;It goes against the grain?
-luckypennies;Change of fortune?
-luckypenny;Change of fortune?
 luggage;There's a lot to unpack
 magicword;Casting call?
 magstripe;Line of credit?
@@ -912,7 +949,6 @@ mascots;Ballpark figures?
 mayihavethisdance;Cutting in line?
 mechanical;Like clockwork
 medusa;Her looks are to die for
-merger;Kind of a big deal
 mickey;Animated icon?
 mickeymouse;Animated icon?
 midwife;Delivery person
@@ -925,8 +961,6 @@ mitt;Fly catcher?
 mitts;Fly catchers?
 mobil;Gas giant?
 mom;Awkward thing to call your teacher
-morgue;Stiff joint?
-morgues;Stiff joints?
 mosh;Pit for metal scraps?
 motherearth;Dirty girl?
 mothier;Holier, maybe?
@@ -941,13 +975,9 @@ mulch;Lay the groundwork?
 mulched;Laid the groundwork?
 mulches;Lays the groundwork?
 mulching;Laying the groundwork?
-mummies;Remains under wraps?
 mummified;Kept under wraps?
 mummifies;Keeps under wraps?
 mummify;Keep under wraps?
-mummy;Remains under wraps?
-musical;Acting in concert?
-musicals;Acting in concert?
 mybad;Fault line?
 myeyesareuphere;Checkout counter?
 nabbing;Taking form?
@@ -980,19 +1010,12 @@ negative;Nonplussed?
 ness;Abrupt finish?
 ness;Tight end?
 nest;Flying home?
-net;Fault line?
 net;Tennis center?
 nextroundisonme;Free spirit
-niceass;Bottom line?
-nicebutt;Bottom line?
 nigh;Dated around?
-nile;Desert flower?
-nileriver;Desert flower?
 nocarbdiet;It goes against the grain?
 nocarbdiets;They go against the grain?
 nocutting;Line rule
-nodder;Silent letter?
-nodders;Silent letters?
 nohogging;Blanket policy?
 noises;Heard things?
 nonalcoholic;Like a virgin?
@@ -1000,14 +1023,11 @@ noodles;Pool sticks?
 noprob;Line of latitude?
 noproblem;Line of latitude?
 noproblemo;Line of latitude?
-northpaw;Right-hand man
 notguilty;Legal profession?
 notimeflat;Two shakes of a lamb's tail
 novocaine;Number for takeout?
 nucleus;Heart of the matter?
 nun;Profession of faith
-nun;Someone who bathes out of habit?
-nuns;Ones who bathe out of habit?
 nuns;Professions of faith
 officer;Booking agent?
 officers;Booking agents?
@@ -1015,10 +1035,6 @@ oid;What makes a fact trivial?
 oid;What makes a human like a human?
 okcupid;Where to play with matches?
 olive;Garden variety?
-one;Number line? [ignored in Doing Front Flips]
-ones;Number lines? [ignored in Doing Front Flips]
-onsafari;Where to watch the big game?
-onset;Where to see shooting stars?
 oohaahpoint;Grand Canyon overlook and what to do there
 oopsmybad;Fault line?
 openit;Present day demand?
@@ -1056,8 +1072,6 @@ paroles;Incomplete sentences?
 partiers;Punch line, say?
 partygoers;Punch line, say?
 pencap;Writer's block?
-petname;Love handle?
-petnames;Love handles?
 petrified;Past tense?
 photog;One who might call all the shots?
 photog;Snapper
@@ -1100,9 +1114,7 @@ pluses;Summer signs?
 pocket;Phone home, maybe?
 pocketveto;Presidential term?
 policechief;Copper head?
-pondscum;Dirty film
 pontiffs;See stars?
-popcorn;Fan fare?
 popes;See stars?
 porkbarrel;Congressional term?
 porkrind;Skinny food?
@@ -1116,8 +1128,6 @@ pothole;Street wear?
 potholes;Street wear?
 potsmoker;Joint owner?
 potsmokers;Joint owners?
-pretzel;Fan fare?
-pretzels;Fan fare?
 priest;Profession of faith
 priesthood;Profession of faith?
 priests;Professions of faith
@@ -1150,7 +1160,6 @@ quasimodo;Dead ringer?
 rabbi;Profession of faith
 rabbis;Professions of faith
 radioshack;Hammer home?
-rag;What gets dirt on people ... or off them
 raiseaglass;Lift one's spirits?
 raisedaglass;Lifted one's spirits?
 raisesaglass;Lifts one's spirits?
@@ -1199,8 +1208,6 @@ redealing;Changing hands
 redeals;Changes hands
 redealt;Changed hands
 redeye;Fly-by-night operation?
-redeyeflight;Fly-by-night operation?
-redeyeflights;Fly-by-night operations?
 reggae;Offbeat music?
 regrab;Take over?
 regrabbed;Took over?
@@ -1256,7 +1263,6 @@ sarcophagus;Stiff joint?
 satire;Swift vehicle?
 saudiarabia;Country that imports sand and camels from Australia
 saute;Child's instruction?
-saynotodrugs;Stay off the grass?
 scared;Past tense?
 scarer;"Monsters, Inc." employee
 scarers;"Monsters, Inc." employees
@@ -1271,11 +1277,8 @@ scratch;Mark on one's record?
 seance;Attempt to raise people's spirits?
 seances;Attempts to raise people's spirits?
 seethelight;Look on the bright side?
-selfiestick;First-person shooter?
-selfiesticks;First-person shooters?
 serif;A bit of a character?
 serif;Something of a character?
-serif;Somewhat of a character?
 sermon;Cross promotion
 sermon;Cross talk
 sermons;Cross promotion
@@ -1295,8 +1298,6 @@ sexpot;One who makes appeals to congress?
 sexpots;Ones who make appeals to congress?
 sext;Blue note?
 sexting;Blue notes?
-sextoy;Congressional aid?
-sextoys;Congressional aids?
 shakespeareanactor;Globe trotter?
 shakespeareanactors;Globe trotters?
 shakespearianactor;Globe trotter?
@@ -1325,10 +1326,7 @@ shorto;Leader of the opposition?
 shortstop;Ballpark figure?
 shortstops;Ballpark figures?
 shortu;Stuck in the middle?
-shot;Take in a movie?
-shots;Takes in a movie?
 shower;Get into hot water
-shower;What nuns do out of habit?
 showered;Got into hot water
 showers;Gets into hot water
 showers;What a nun does out of habit?
@@ -1442,7 +1440,6 @@ stewpot;Stock holder?
 stewpots;Stock holders?
 stickup;Get-rich-quick scheme?
 stickups;Get-rich-quick schemes?
-stifle;Word that's an anagram of itself
 stilettos;High kicks?
 stir;Child's instruction?
 stoke;Rekindle an old flame
@@ -1452,11 +1449,8 @@ stoking;Rekindling an old flame
 stole;Mistook?
 stole;Took things, literally
 stolen;Mistaken?
-stoned;High definition
 stork;Delivery vehicle
 street;Kind of a drag
-streetmagician;Wander around town?
-streetmagicians;Wanders around town?
 streetname;Handle like a gangster?
 streetname;Handle out in the open?
 streetname;Handle outside?
@@ -1484,8 +1478,6 @@ swat;Take a flyer on?
 swats;Takes a flyer on?
 swatted;Took a flyer on?
 swatting;Taking a flyer on?
-swearjar;Fine china?
-swearjars;Fine china?
 sweettooth;Candy crush?
 sweettooth;Reason someone's always in a jam?
 sweettooth;Why hubby takes the cake?
@@ -1542,10 +1534,8 @@ telly;The tube, in London
 tentpolemovie;Shoot for the stars?
 tentpolemovies;Shoots for the stars?
 term;Added value
-terrified;Past tense?
 thatsenough;Finish line?
 thatsit;Finish line?
-thebigbang;Creative spark?
 theft;Get-rich-quick scheme?
 thefts;Get-rich-quick schemes?
 thenextroundisonme;Free spirits
@@ -1616,25 +1606,21 @@ trypanophobe;One with sticker shock?
 trypanophobia;Sticker shock?
 twothumbsup;Movie props?
 uberrich;Overloaded?
-ugli;Unsightly-sounding fruit
 umpire;Ballpark figure?
 umpires;Ballpark figures?
 understudy;Star pupil
 vamoose;Order to go
 vanity;A thing of beauty
 vegetable;Garden variety?
-venus;Where one day is longer than one year
+venus;Where a day is longer than a year
 vocalcord;Pipe organ?
 vocalcords;Pipe organs?
 voltage;Potential difference
 volume;Remote possibility?
-vowofsilence;Zip code?
 waiters;Table manners?
 waitresses;Table manners?
 waitrons;Table manners?
 waityourturn;Line rule
-wallcalendar;51;Its days are numbered
-wallcalendars;51;Their days are numbered
 wasitgoodforyou;Finish line?
 watch;It's strapped for time
 watches;They're strapped for time
@@ -1655,8 +1641,6 @@ windstorm;Rough draft?
 windstorms;Rough drafts?
 wing;Bit of a lark?
 wood;Drive shaft?
-workofart;People mover?
-worksofart;People movers?
 worried;Past tense?
 wrangle;Take stock in?
 wrangled;Took stock in?
@@ -1667,7 +1651,6 @@ xed;Made the first move, in a way
 xes;Makes the first move, in a way
 xes;Product lines?
 xoxo;Love letters
-xyz;Alphabetical order?
 yenta;One who plays with matches?
 yokozuna;Heavyweight champion
 youdidit;Line of credit?
