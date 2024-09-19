@@ -3570,6 +3570,10 @@ baldeagle;60
 baldeagles;60
 balded;50
 baldies;30
+baldric;40;Sword shoulder belt
+baldrick;40
+baldricks;40
+baldrics;40
 balds;50
 baleen;50;Type of whale
 baler;50;Farm machine
@@ -9896,8 +9900,8 @@ deca;40
 decagon;40
 decagonal;40
 decagons;40
-decaliter;30
-decaliters;30
+decaliter;40
+decaliters;40
 decanal;20
 decapod;40;Crabs, lobsters, shrimp, etc. (they have 10 legs)
 decapods;40
@@ -10092,6 +10096,7 @@ delpotro;20;Retired unremarkable tennis player
 dels;30
 delsarto;40;Renaissance painter Andrea del Sarto
 delt;40
+deltaic;40;???
 deltapi;20
 deltawing;50
 deluxemodel;50
@@ -13259,6 +13264,9 @@ esparto;20;Textile fiber
 esperanto;50
 espial;30;Sighting
 espials;30;Sightings
+espiocracy;40
+espiocrat;40;Professional spy
+espiocrats;40
 espn;50
 espnradio;50
 espnthemagazine;50
@@ -13862,6 +13870,7 @@ fallbackplan;50
 fallbackplans;50
 fallbackposition;50
 fallbackpositions;50
+fallbreak;50
 fallclassic;50
 fallclassics;50
 fallcolor;50
@@ -24694,6 +24703,7 @@ malcolmgladwell;60
 maldemer;40;Mal de mer, seasickness
 malechorus;50
 maledict;30
+malefic;40;???
 maleic;30;Type of acid
 malemodel;50
 malemodels;50
@@ -26580,6 +26590,7 @@ munition;40
 munitioned;40
 munitioning;40
 munitions;50
+munro;40
 muon;40;Subatomic particle
 muonneutrino;50
 muonneutrinos;50
@@ -27378,6 +27389,7 @@ nicaea;20;Ancient Greek city
 niccage;40
 niceass;60
 nicebutt;60
+nicecatch;60
 nicedoggie;60
 niceguys;60
 niceish;40
@@ -30770,6 +30782,7 @@ pejorative;50
 pekan;20;Fisher (mammal)
 pekans;20;Fishers (mammals)
 pelage;30;Fur
+pelagic;30;???
 pele;50
 peleg;30;"Moby Dick" character
 pelias;30;King Pelias, Jason's uncle
@@ -32961,6 +32974,7 @@ pyedog;30;Stray dog in Asia
 pyedogs;30
 pygmyslowloris;50;Cute nocturnal mammal
 pygmyslowlorises;50
+pyloric;40;???
 pym;20
 pyotr;40
 pyramus;30
@@ -37071,6 +37085,7 @@ selenate;30;Ion
 selenates;30
 selenator;50;Fan of Selena Gomez
 selenators;50;Fans of Selena Gomez
+selenic;40;???
 selenite;30;Gypsum mineral
 selenites;20;Gypsum minerals
 selfabsorbed;50
@@ -38267,6 +38282,8 @@ skaterats;50
 skatesonthinice;60
 skatingonthinice;60
 skatings;20
+skean;20
+skeans;20
 skee;40
 skeelo;50;"I Wish" rapper
 skeg;20
@@ -39623,6 +39640,7 @@ spitsat;40
 spittingat;40
 splendiferous;60
 splenetic;40;Easily angered
+splenic;40;???
 splenitis;40
 splitdecision;50
 splitdecisions;50
