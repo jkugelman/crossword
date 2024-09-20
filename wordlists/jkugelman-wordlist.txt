@@ -435,8 +435,8 @@ actfastsuppliesarerunningout;60
 actfor;40
 acti;40
 actifed;40;Allergy medication
-actii;30
-actiii;30
+actii;40
+actiii;40
 actin;40
 actinconcert;60
 actingas;40
@@ -468,7 +468,7 @@ actionmovie;60
 actionmovies;60
 actionpacked;60
 actium;20;Greek battle site
-activ;30
+activ;40
 activeroster;50
 actnatural;60
 actnormal;60
@@ -483,7 +483,7 @@ actssad;1
 actssore;1
 acttwo;40
 actuarialtables;50
-actv;30
+actv;40
 acu;20
 acunit;40
 acunits;40
@@ -7418,6 +7418,7 @@ chis;40
 chisinau;30
 chiton;20;Ancient Greek tunic
 chiwere;30;Siouxan language
+chloric;40
 chlorosis;40;Lack of chlorophyll
 chmelar;40;Fanny Chmelar
 cho;50
@@ -8725,6 +8726,7 @@ couldyounot;60
 couldyoupleasenot;60
 coulee;30
 coulees;30
+coulis;30;Pureed fruit sauce
 countcalories;50
 countcards;50
 countchocula;60
@@ -13264,9 +13266,9 @@ esparto;20;Textile fiber
 esperanto;50
 espial;30;Sighting
 espials;30;Sightings
-espiocracy;40
-espiocrat;40;Professional spy
-espiocrats;40
+espiocracy;30
+espiocrat;30;Professional spy
+espiocrats;30
 espn;50
 espnradio;50
 espnthemagazine;50
@@ -17258,8 +17260,12 @@ guatemalabelize;1
 guavaseed;50
 guavaseeds;50
 guelphs;20
-guerilla;50
-guerillas;50
+guerilla;20;Variant spelling
+guerillas;20
+guerillawarfare;20
+guerrilla;50
+guerrillas;50
+guerrillawarfare;60
 guess;50
 guessat;40
 guessedat;40
@@ -18320,7 +18326,7 @@ hexapod;50
 hexapods;50
 hexbolt;30
 hexed;50
-hexedby;50
+hexedby;40
 hexes;50
 hexing;50
 hexkey;30
@@ -19235,9 +19241,10 @@ ibexkids;40
 ibf;20
 ibi;20
 ibid;40
-ibis;30;Bird
+ibis;40;Bird
 ibischick;50
 ibischicks;50
+ibises;40
 ibm;50
 ibn;40
 ibo;30;Nigerian tribe [occasional]
@@ -19475,8 +19482,8 @@ idotter;50
 idotters;50
 idoubtit;60
 ids;40
-idtag;30
-idtags;30
+idtag;40
+idtags;40
 idub;20
 idunit;20;An autobiographical or confessional account usually of a sensational character
 idunits;20
@@ -20516,9 +20523,10 @@ iomoth;40;Io moth
 iomoths;40
 ion;50
 ione;40;1980s actress Ione Skye
-ionia;30
-ionian;30
-ionians;30
+ionesco;40
+ionia;40
+ionian;40
+ionians;40
 ionicorder;40
 ionics;30
 ioniq;40;Hyundai electric SUV
@@ -21914,6 +21922,8 @@ kin;50
 kinara;30;Kwanzaa candle holder
 kinase;30;ATP enzyme
 kindsofkindness;50
+kineses;30
+kinesis;40;Movement
 kingarthur;50
 kingboo;60
 kingcrimson;60
@@ -26071,7 +26081,7 @@ modrich;30;2015 Nobel Prize in Chemistry
 moe;50
 moes;50;Moe's Tavern, or Moe's Southwest Grill
 moeszyslak;50;Springfield bartender
-moet;30;Champagne
+moet;40;Champagne
 mofongo;30;Puerto Rican plantain dish
 mog;20
 mohairsuit;50
@@ -28403,6 +28413,7 @@ ochre;40
 ochres;40
 ochs;40;Songwriter Phil Ochs
 ock;20
+ockham;40;William of Ockham or Occam, as in Occam's razor
 oconee;20;Georgia river
 ocr;30;[only used once in NYT]
 ocs;20
@@ -28983,6 +28994,7 @@ onecase;20
 onecent;50;What's printed on the penny
 onechip;30
 oneclass;1
+onecolor;40
 onedance;1
 onedaypass;50
 onedaypasses;50
@@ -29109,7 +29121,7 @@ oneten;20
 onetime;50
 onetogo;30
 oneton;30
-onetoten;30
+onetoten;50
 onetotwo;20
 onetwo;40
 onetwothreefour;40
@@ -30008,7 +30020,7 @@ oxy;40;Acne skin care brand
 oxygen;50
 oxygentent;50
 oxygentents;50
-oxytone;30
+oxytone;30;Word with the stress on the last syllable, such as correct or reward
 oxytones;30
 oy;50
 oye;40
@@ -30283,6 +30295,7 @@ papist;5;Roman Catholic, offensive
 papistry;5
 papists;5
 pappas;30;???
+papular;40
 par;50
 para;40;Prefix
 parachutesilk;50
@@ -35280,6 +35293,7 @@ robby;50
 robertedwardlee;30;???
 robertfripp;50
 robertfrost;50
+robinhood;60
 robinia;20;Plant genus
 robinsnest;50
 robinsnests;50
@@ -37197,6 +37211,11 @@ sendsto;40
 sendto;40
 senecan;40;Of the Roman Seneca
 senecio;20;Plant genus
+senesce;40
+senesced;40
+senescence;50
+senescent;50
+senesces;40
 seneschal;40;Medieval governor
 seneschals;40
 senhor;30
@@ -38117,7 +38136,7 @@ sinecure;50;Position requiring little or no work but giving the holder status or
 sinecures;50
 sinecurve;50
 sinecurves;50
-sinedie;40;Legalese for "indefinitely", literally "without day"
+sinedie;30;Legalese for "indefinitely", literally "without day"
 sineratio;50
 sinewave;50
 sinewaves;50
@@ -38716,6 +38735,8 @@ smartmove;60
 smarttag;50
 smartthinking;60
 smashburger;60
+smashcut;60;Abrupt film transition
+smashcuts;60
 smaze;30;Smoke/haze mix
 smearedon;50
 smearer;40;Reputation assassin
@@ -41250,6 +41271,8 @@ sweatingbullets;60
 sweatsbullets;60
 sweatshirt;50
 sweatshirts;50
+sweatsuit;50
+sweatsuits;50
 sweeneytodd;50
 sweetandsourmix;50
 sweetanise;50
@@ -46415,8 +46438,8 @@ wba;30;World Boxing Association
 wbc;20
 wbo;30;World Boxing Organization
 wchandy;50;Father of the Blues
-wcs;20
-wds;30
+wcs;40
+wds;40
 we;50
 wea;20
 weakboson;50
@@ -47877,6 +47900,7 @@ yougottabejoking;60
 yougottabekiddingme;60
 youguysgiveuporareyouthirstyformore;60
 youhadonejob;60
+youhave;20
 youhavefunwiththat;60
 youheardme;60
 youhearme;60
