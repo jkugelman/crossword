@@ -2567,6 +2567,8 @@ artforgers;50
 artforgery;50
 artgalleries;50
 artgallery;50
+arthorror;60
+arthousehorror;60
 arties;30
 artieshaw;50
 artifact;50
@@ -4486,6 +4488,7 @@ beton;40
 betonit;60
 betsey;40;Fashion designer Betsey Johnson
 betson;40
+betsyross;50
 betterat;40
 betternot;60
 betteryet;60
@@ -12488,6 +12491,7 @@ elephantssnacks;1
 elerian;30
 eless;20
 elev;40
+elevatedhorror;60
 eleve;20;Student: Fr.
 elevenam;30
 elevenfiftynine;1
@@ -14410,6 +14414,7 @@ findersfees;50
 fineart;50
 fineartist;50
 finedining;50
+finemesh;50
 finemess;50
 fineseasalt;50
 finetoo;1
@@ -15390,6 +15395,10 @@ fuscous;20;Brownish-gray
 fusebox;50
 fuseboxes;50
 fusedglass;50
+fusedwith;40
+fuseswith;40
+fusewith;40
+fusingwith;40
 fusion;50
 fusionbomb;50
 fusionbombs;50
@@ -27856,7 +27865,7 @@ noreen;30;Anyone notable???
 norefunds;60
 noregrets;60
 noremorse;60
-norespect;60
+norespect;50
 norest;40
 norfolkva;30
 norhymeorreason;60
@@ -31097,11 +31106,11 @@ phag;20;Eating: prefix
 phalarope;30;Shorebird
 phalaropes;30
 phanatic;60
-phantasm;60
+phantasm;50
 phantasmagoria;60
 phantasmagoric;60
 phantasmagorical;60
-phantasms;60
+phantasms;50
 phantomlimb;60
 phantomlimbs;60
 phantomsettlement;60;Copyright trap
@@ -38233,7 +38242,7 @@ siroccos;40
 sirthisisawendys;60
 sirup;20
 sirups;20
-siryessir;60
+siryessir;50
 sis;50
 sisal;20
 sisals;20
@@ -42242,6 +42251,13 @@ telenovelas;50
 teleost;20;Bony fish
 teleostei;20;Fish class
 teleosts;20;Bony fish
+telepath;50
+telepathic;60
+telepathically;60
+telepathist;40
+telepathists;40
+telepaths;50
+telepathy;60
 telephonesurvey;50
 teleport;50
 teleportation;50
@@ -44114,6 +44130,8 @@ towtrucks;50
 tox;40
 toy;50
 toyama;30;Random Japanese city
+toychest;50
+toychests;50
 toydrive;60
 toydrives;60
 toyer;30
