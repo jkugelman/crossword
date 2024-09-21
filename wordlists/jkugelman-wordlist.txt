@@ -918,7 +918,7 @@ agreesto;40
 agreeswith;40
 agreeto;40
 agreewith;40
-agri;30
+agri;40
 agribiz;40
 agricola;40;Popular board game
 agriculture;50
@@ -2667,6 +2667,7 @@ ashland;30
 ashlar;20;Masonry
 ashlars;20;Masonry
 ashlee;40;Simpson sister
+ashmolean;40;British museum
 ashpit;40;???
 ashur;20
 asi;20
@@ -18000,6 +18001,8 @@ headushers;50
 headways;30
 headwriter;50
 healheal;1
+healthbar;60
+healthbars;60
 healthconscious;50
 healthexam;50
 healthexams;50
@@ -18606,6 +18609,7 @@ hoecakes;50
 hoedown;50
 hoedowns;50
 hof;40
+hofstra;40;Long Island university
 hog;50
 hogcall;50
 hogcaller;50
@@ -20725,7 +20729,7 @@ ishi;20
 ishipit;20;???
 ishuddertothink;60
 isi;20;Partial [occasional]
-isidor;30
+isidor;30;Nobel physicist Isidor Rabi, never used in Shortz era
 isidora;40;George Sand novel/title character
 isidore;30
 isidro;30
@@ -21258,6 +21262,7 @@ jeanskirts;50
 jeb;50
 jec;20
 jed;50
+jedis;20;Iffy plural
 jeepsafari;50
 jeepsafaris;50
 jeerat;40
@@ -22481,6 +22486,8 @@ larkchicks;50
 larked;40
 larkin;40
 larking;40
+larkspur;40;Flower
+larkspurs;40
 larosa;20
 larosas;20
 larr;1
@@ -23297,6 +23304,8 @@ liesunder;30
 lieto;40
 lieuts;20
 liewith;40
+lifebar;60
+lifebars;60
 lifecycle;50
 lifecycles;50
 lifeevent;50
@@ -24722,6 +24731,7 @@ malenurses;50
 malesex;50
 malices;30
 malik;30;Zayn Malik, formerly of One Direction
+malison;20
 mallarme;40;Poet and critic Stéphane Mallarmé
 malle;30;Louis Malle, director of "My Dinner With Andre"
 mallets;50
@@ -25868,6 +25878,7 @@ misfiring;50
 misgauge;50
 misgauged;50
 misgauges;50
+mishima;40;Japanese author and poet Yukio Mishima
 misleader;40
 misleaders;40
 mismatchedsocks;50
@@ -26753,7 +26764,7 @@ nadja;30;???
 nadu;20;Tamil Nadu, India
 nadya;30;???
 nae;40
-naes;30
+naes;40
 nafta;40
 nag;50
 nagasaki;50
@@ -27297,6 +27308,8 @@ newperspectives;50
 newportri;30
 newrelease;50
 newreleases;50
+newsalert;50
+newsalerts;50
 newseum;50
 newsflashbuddy;60
 newshelicopter;50
@@ -28038,6 +28051,7 @@ novisad;20;Serbian city
 novo;40
 novocain;20
 novocaine;50
+novotna;40
 novs;20
 now;50
 noway;60
@@ -28495,6 +28509,7 @@ odor;50;Air offensive?
 odorama;60
 odorant;40
 odorants;40
+odored;40
 odorization;40
 odorize;40
 odorized;40
@@ -30158,6 +30173,7 @@ palestra;30;Greek gymnasium
 palinode;20;Type of poem
 palinodes;20;Types of poem
 palish;40
+pallas;40
 palledaround;50
 palledaroundwith;50
 pallette;20
@@ -30872,6 +30888,7 @@ pentene;40
 penthousesuites;50
 penuche;20;Fudge-like candy
 penzias;30;Physicist Arno Penzias who discovered the cosmic microwave background radiation
+peones;20
 peoplefood;60
 pep;50
 pepband;50
@@ -31461,6 +31478,7 @@ piss;5
 piste;40;Ski trail
 pistes;40
 pistillate;30
+pistola;40;Spanish gun
 pit;50
 pitapat;50
 pitboss;50
@@ -34247,13 +34265,17 @@ reinas;30
 reindeercalf;50
 reindeercalves;50
 reindoctrinated;50
+reinedin;40
 reiners;30
 reines;30
+reinin;40
+reiningin;40
 reinsert;40
 reinserted;40
 reinserting;40
 reinsertion;40
 reinserts;40
+reinsin;40
 reinsurance;40
 reinsure;40
 reinsured;40
@@ -36203,6 +36225,7 @@ sampleplatters;50
 samshepard;50
 samshepherd;20;???
 samshu;40;Chinese liquor
+samsons;20;Strongmen
 samuelbarber;50
 samurai;50
 samuraijack;50
@@ -36328,7 +36351,7 @@ sari;40
 saris;40
 sark;40;Cutty sark
 sarnia;20;Canadian city
-sars;30
+sars;40
 sarsaparilla;60
 sarsar;20
 sarsars;20
@@ -36505,7 +36528,7 @@ sblood;20;Archaic oath
 scabiosa;20;Honeysuckle genus
 scabrous;40
 scad;30;Type of fish, bad singular of scads
-scala;30;La Scala or Teatro alla Scala opera house in Milan
+scala;40;La Scala or Teatro alla Scala opera house in Milan
 scalage;30;Weight compensation for allowable loss
 scamartist;50
 scamartists;50
@@ -36760,7 +36783,7 @@ scum;50
 scurfier;30
 scurfiest;30
 scurfy;30
-scuse;30
+scuse;50
 scutum;30;???
 scytale;30;Ancient ciphering tool
 scytales;30
@@ -37304,6 +37327,7 @@ sergeidiaghilev;20;Russian art critic
 serges;20;Fabrics
 sergesuit;30
 sergesuits;30
+sergios;30;Plural name
 serialno;40
 seriate;40
 seriatim;30;Legal word for "consecutively"
