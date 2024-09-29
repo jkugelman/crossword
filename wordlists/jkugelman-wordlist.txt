@@ -816,6 +816,7 @@ afrowig;50
 afrowigs;50
 afs;20
 aft;50
+afta;30;Shaving brand
 afterafterparties;50
 afterafterparty;60
 afterasort;50
@@ -2227,8 +2228,11 @@ aqualung;60
 aquanaut;40
 aquanauts;40
 aquapura;40
+aquaregia;50;???
 aquarian;40
 aquas;40
+aquateen;50
+aquateens;50
 aquatint;30;Printmaking technique
 aquavit;40;Scandinavian drink
 aquavitae;40
@@ -2771,6 +2775,7 @@ aspotoftea;50
 asr;20
 asregards;40
 ass;50
+assad;40;Dictator
 assads;40;Syrian ruling family
 assagai;20;Afro-rock band
 assagais;20;African spears
@@ -10982,6 +10987,7 @@ doctorblight;50;Captain Planet baddie
 doctordoctor;50
 doctoredfigures;60
 doctorfrankenstein;60
+doctorquinn;50
 dod;40
 dodd;40;Dodd-Frank Act
 dodeca;40
@@ -11711,6 +11717,7 @@ droveat;40
 droz;50
 drozshow;50
 drphil;50
+drquinnmedicinewoman;50
 drs;40
 drseuss;50
 drspock;50
@@ -13000,7 +13007,7 @@ enrooting;40
 enroots;40
 enrouteto;40
 enry;20
-ens;20
+ens;30;Ensign
 ensalada;30
 enseal;30;Impress, in a way
 ensealed;30
@@ -16118,6 +16125,7 @@ getsspooked;50
 getstan;40
 getstheax;60
 getstheaxe;60
+getsthecreativejuicesflowing;60
 getsthenod;50
 getsthesack;50
 getsto;40
@@ -16129,6 +16137,7 @@ getter;40;Go-getter
 getters;40
 gettheax;60
 gettheaxe;60
+getthecreativejuicesflowing;60
 getthenod;50
 getthesack;50
 gettingabumrap;60
@@ -16175,6 +16184,7 @@ gettingspooked;50
 gettingtan;40
 gettingtheax;60
 gettingtheaxe;60
+gettingthecreativejuicesflowing;60
 gettingthenod;50
 gettingthesack;50
 gettingto;40
@@ -16757,6 +16767,8 @@ goldreserves;50
 goldseal;50
 goldsmith;50
 goldsmiths;50
+goldstandard;50
+goldstandards;40
 goldstar;50
 goldstars;50
 goldteeth;50
@@ -17045,6 +17057,7 @@ gottan;30;Japanese plucked instrument
 gottenin;40
 gottheax;60
 gottheaxe;60
+gotthecreativejuicesflowing;60
 gotthenod;50
 gotthesack;50
 gotto;40
@@ -17265,6 +17278,7 @@ greenish;30
 greenliving;50
 greenpepper;50
 greenpeppers;50
+greensboronc;30
 greenspace;50
 greenspaces;50
 greetingsearthlings;60
@@ -23342,6 +23356,7 @@ letsgetdowntobrasstacks;60
 letsgetintoit;60
 letsgetitstarted;60
 letsgetonwithit;60
+letsgiveitawhirl;60
 letshaveit;60
 letshearit;60
 letsjustmoveon;60
@@ -23354,6 +23369,7 @@ letsparty;50
 letssee;50
 letsseeit;60
 letsseenow;60
+letsseewhathappens;60
 letssplitupitllbefaster;60
 letssplitupitsfaster;60
 letsthingsplayout;60
@@ -23834,6 +23850,7 @@ littlemsthang;60
 littlemsthing;60
 littlenemo;50
 littlepigs;60
+littleredridinghood;60
 littletoe;50
 littletoes;50
 litupon;50
@@ -28106,6 +28123,7 @@ noranda;20;Rouyn-Noranda, Quebec
 norbert;40;Unknown cluing angle, only used once in NYT
 norbit;40;Eddit Murphy movie
 nord;30;North: Fr. (not Nordic)
+nordisk;40;Novo Nordisk, maker of Ozempic
 noreally;60
 noreason;60
 noreen;30;Anyone notable???
@@ -28307,6 +28325,7 @@ novisad;20;Serbian city
 novo;40
 novocain;20
 novocaine;50
+novonordisk;50;Maker of Ozempic
 novotna;40
 novs;20
 now;50
@@ -29516,7 +29535,7 @@ ooeygooeycakes;50
 ooeygooeycookie;50
 ooeygooeycookies;50
 oof;50
-oofs;30
+oofs;40
 ooh;50
 oohaahpoint;60
 oohed;40
@@ -29730,6 +29749,8 @@ orangegroves;50
 orangelo;50
 orangelos;50
 orangemarmalade;50
+orangepip;50
+orangepips;50
 orangs;40
 orangy;40
 orant;20;Christian art figure
@@ -35367,6 +35388,7 @@ rickdees;50
 rickrack;30;Zigzag ribbon
 ricksteves;50
 rickwakeman;50
+rickyjay;50;Magician
 ricoh;20;Copier company
 ricohs;20
 ricottas;30
@@ -46027,7 +46049,7 @@ ussupremecourt;40
 usswasp;30
 usted;40
 usten;30
-usterr;30
+usterr;20
 ustour;40;What musicians embark on
 ustours;40
 ustreasury;40
@@ -46304,6 +46326,7 @@ vhuts;30;Primitive dwellings with letter-shaped roofs
 via;50
 viand;20;Food, archaic
 viands;20;Food, archaic
+vibeshift;60
 vibgyor;1
 vibing;60
 vibrato;50
@@ -48078,7 +48101,7 @@ xxxix;20
 xxxrating;60
 xxxratings;60
 xylaria;40
-xylarium;40
+xylarium;40;Collection of wood specimens
 xylariums;40
 xylem;30;Plant tissue
 xylene;30
@@ -48088,6 +48111,10 @@ xylophonemallet;50
 xylophonemallets;50
 xylophones;50
 xylose;30
+xylothek;40
+xylotheks;40
+xylotheque;40;Collection of wood specimens, aka xylarium
+xylotheques;40
 xyz;50
 y;1
 ya;40
@@ -48476,6 +48503,7 @@ ytu;30
 yucca;30;Shrub (not yuca, the food)
 yuk;50
 yukio;30
+yukongold;50
 yul;50
 yum;50
 yumaaz;30
