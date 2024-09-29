@@ -796,6 +796,8 @@ afore;30
 afr;20
 afraidnot;60
 afraidof;40
+aframehouse;50
+aframehouses;50
 afreet;20
 afreets;20
 africanantelope;50
@@ -1194,8 +1196,8 @@ alegup;40
 aleister;50
 aleistercrowley;60
 alek;40
-alekeg;40
-alekegs;40
+alekeg;30
+alekegs;30
 aleksei;30
 alekwek;40;Sudanese model
 aleman;20;Mexican president
@@ -5003,6 +5005,7 @@ bluebeard;50
 bluebells;50
 blueberries;50
 blueberry;50
+blueblazes;50
 bluecap;20
 bluegoose;50
 bluegrassregion;50
@@ -5012,7 +5015,9 @@ bluehole;60
 blueholes;60
 blueing;30
 blueings;20
+blueintheface;60
 bluelips;50
+bluemountain;50
 blueness;30
 bluenun;30
 blueorigin;50
@@ -5024,11 +5029,21 @@ bluesky;50
 bluestate;50
 bluestates;50
 bluesteel;50
-bluetang;30;Fish
+bluetang;50;Fish
 bluetango;50;Orchestra piece
-bluetangs;30;Fish
+bluetangs;50
 bluetee;50
 bluetees;50
+bluetoothadapter;50
+bluetoothadapters;50
+bluetoothconnection;50
+bluetoothconnections;50
+bluetoothdevice;50
+bluetoothdevices;50
+bluetoothheadset;50
+bluetoothheadsets;50
+bluetoothreceiver;50
+bluetoothreceivers;50
 bluntwords;60
 blurrier;50
 blursday;50
@@ -5632,6 +5647,11 @@ broads;30
 broadside;50
 broadsided;50
 broadsides;50
+broadspectrum;50
+broadspectrumantibiotic;50
+broadspectrumantibiotics;50
+broadspectrumsunscreen;50
+broadspectrumsunscreens;50
 broast;30;Broil + roast
 broasted;30;Broil + roast
 broaster;30;Broil + roast
@@ -5699,6 +5719,13 @@ browncow;50
 browncows;50
 browndwarf;50
 browndwarfs;50
+browngravy;50
+browniemix;50
+browniemixes;50
+browniepan;50
+browniepans;50
+browniepoint;60
+browniepoints;60
 brownnoise;50
 brownnose;60
 brownnosed;60
@@ -5706,6 +5733,10 @@ brownnoser;60
 brownnosers;60
 brownnoses;60
 brownnosing;60
+brownrecluse;50
+brownrecluses;50
+brownreclusespider;50
+brownreclusespiders;50
 brownshirt;20
 brownshirts;20
 brr;50
@@ -6473,6 +6504,7 @@ capitalx;40
 capitaly;40
 capitalz;40
 capitate;40
+capitolbuilding;50
 capitulant;30
 capitular;40
 capn;40
@@ -6573,6 +6605,9 @@ carew;30;Rod Carew, 1970s MLB hall of famer
 cargonet;50
 cargonets;50
 carib;40
+caribbeancruise;50
+caribbeancruises;50
+caribbeangreen;50
 caribbeanisland;50
 caribbeanislands;50
 caribe;20;Piranha
@@ -7568,9 +7603,13 @@ chromo;40
 chronicallyonline;60
 chrono;40
 chu;40
+chuckedinthediscardpile;50
+chuckinginthediscardpile;50
+chuckinthediscardpile;50
 chuckitall;50;Quit
 chuckitallin;50
 chuckitin;50
+chucksinthediscardpile;50
 churchified;50
 churchifies;50
 churchify;50
@@ -8231,7 +8270,12 @@ colonialwar;50
 colonialwarfare;50
 colonialwars;50
 colonna;20
+coloredpencil;50
+coloredpencils;50
 coloreds;5
+colorpencil;50
+colorpencils;50
+colorpurple;50
 colter;30;Plow cutting tool
 colters;30;Plow cutting tools
 coltranechanges;50
@@ -12688,6 +12732,7 @@ emendations;40
 emender;30
 emenders;30
 emer;30
+emeraldgreen;50
 emergenc;40
 emergences;40
 emergencysignal;50
@@ -15439,6 +15484,7 @@ fullgainer;50
 fullhouse;60
 fullmarathon;50
 fullmarathons;50
+fullspectrum;50
 fullspread;50
 fullspreads;50
 fulness;20
@@ -15752,6 +15798,7 @@ gaveground;50
 gaveitago;50
 gaveittheoldcollegetry;60
 gaveitto;40
+gavethegreenlight;60
 gavethesilenttreatment;60
 gaveway;50
 gavewayto;40
@@ -16282,6 +16329,7 @@ giveittheoldcollegetry;60
 giveitto;40
 givemeonereason;60
 givemesomespace;60
+giventhegreenlight;60
 givesahand;50
 givesairto;40
 givesalift;50
@@ -16291,9 +16339,11 @@ givesground;50
 givesitago;50
 givesittheoldcollegetry;60
 givesitto;40
+givesthegreenlight;60
 givesthesilenttreatment;60
 givesway;50
 giveswayto;40
+givethegreenlight;60
 givethesilenttreatment;60
 giveuporareyouthirstyformore;60
 giveway;50
@@ -16308,6 +16358,7 @@ givingground;50
 givingitago;50
 givingittheoldcollegetry;60
 givingitto;40
+givingthegreenlight;60
 givingthesilenttreatment;60
 givingway;50
 givingwayto;40
@@ -16486,6 +16537,7 @@ goblank;50
 gobletoffire;30
 goblinmode;60
 goblue;50
+goblueintheface;60
 gobonkers;60
 gobust;60
 goby;40
@@ -16518,6 +16570,7 @@ goesaway;50
 goesbackto;40
 goesbig;50
 goesblank;50
+goesblueintheface;60
 goesby;40
 goescondo;50
 goesdeaf;50
@@ -16609,6 +16662,7 @@ goingastray;50
 goingbackto;40
 goingbig;50
 goingblank;50
+goingblueintheface;60
 goingby;40
 goingcondo;50
 goingdeaf;50
@@ -16671,6 +16725,7 @@ golddoubloons;50
 goldducat;50
 goldducats;50
 golddust;50
+goldenappleofdiscord;60
 goldenboy;60
 goldenboys;60
 goldencalf;50
@@ -17193,7 +17248,10 @@ greekmyths;50
 greekolive;50
 greekolives;50
 greenash;30;Tree
+greenbaywi;30
 greenbusinesses;50
+greencabbage;50
+greencabbages;50
 greencar;20
 greencars;20
 greenday;50
@@ -17207,6 +17265,8 @@ greenish;30
 greenliving;50
 greenpepper;50
 greenpeppers;50
+greenspace;50
+greenspaces;50
 greetingsearthlings;60
 gregorclegane;50;The Mountain in "Game of Thrones"
 gregorianchant;50
@@ -17898,6 +17958,8 @@ hasayenfor;40
 hasdibson;50
 haseyesfor;40
 hasfun;40
+hashbrown;50
+hashbrowns;50
 hasheart;50
 hasin;40
 hasit;40
@@ -20316,6 +20378,7 @@ inforapenny;60
 inforce;50
 inforitnow;60
 infra;40
+infraredspectrum;50
 ing;40
 inga;30;Swenson of "Benson"
 inge;40;Playwright William Inge
@@ -23758,6 +23821,7 @@ litre;40
 litres;40
 litter;50
 littheway;50
+littlebrownjug;60;College football trophy
 littledorrit;50;Dickens novel
 littlegiantsnowcloudseeder;60;Acme invention
 littlegirl;50
@@ -29424,6 +29488,7 @@ onthepill;50
 onthered;1
 ontheropes;60
 ontherun;50
+onthespectrum;60
 onthestrugglebus;60
 onthetown;50
 onthewarpath;60
@@ -31606,11 +31671,14 @@ pinit;20;???
 pinkerton;50
 pinkertons;50
 pinkett;50
+pinkflamingo;50
+pinkflamingos;50
 pinkgin;50
 pinkiepromise;60
 pinkieswear;60
 pinknoise;50
 pinkoes;20;Variant spelling
+pinkpanthershow;50
 pinktax;60
 pinktutu;50
 pinktutus;50
@@ -33923,6 +33991,8 @@ rea;40;Mens rea, or Stephen Rea
 reacheslegalage;50
 reactedto;40
 reactingto;40
+reactiongif;60
+reactiongifs;60
 reactiontime;50
 reactiontimes;50
 reactontime;1
@@ -38411,9 +38481,15 @@ siltingup;30
 siltsup;30
 siltup;30
 silverboot;50
+silverbullet;60
+silverbullets;60
+silverdollar;50
+silverdollars;50
 silverstar;50
 silverstars;50
 silverstate;50
+silverteaset;50
+silverteasets;50
 silvertray;50
 silvertrays;50
 sim;40
@@ -39095,6 +39171,7 @@ smokering;50
 smokerings;50
 smokesacigar;50
 smokescreenbomb;60;Acme invention
+smokeshow;60
 smokestack;50
 smokestacks;50
 smokingacigar;50
@@ -43070,6 +43147,7 @@ thefat;40
 thefates;50
 thefatoftheland;60
 thefbi;20
+thefbibuilding;30
 thefda;20
 thefed;50
 thefineprint;50
@@ -43083,6 +43161,7 @@ thegameisafoot;60
 thegamesafoot;50
 theganges;30
 thegap;50
+thegebuilding;30
 thegemcity;40
 thegiver;50;???
 thegoat;60
@@ -43295,6 +43374,7 @@ thered;20
 theredcross;30
 theredphone;40;???
 theredsea;20
+thereisnosilverbullet;60
 thereitis;60
 theremustbeamistake;60
 theremustbesomemistake;60
@@ -43306,6 +43386,7 @@ theresawocketinmypocket;60;Dr. Seuss book
 theresmorewherethatcamefrom;60
 theresnoexcuse;60
 theresnoexcuseforyou;60
+theresnosilverbullet;60
 theresnotimetoexplain;60
 theressimplynoexcuse;60
 therest;30
@@ -43564,6 +43645,7 @@ tholes;20
 tholing;20
 thom;50
 thomasedison;60
+thomashadenchurch;50
 thora;40
 thoraces;30;Valid plural of thorax, but thoraxes is more common and looks better
 thoracic;40;Relating to the thorax
@@ -43605,6 +43687,7 @@ threnody;40;Hymn for the dead
 threwdarts;50
 threwforaloop;60
 threwgames;20;???
+threwinthediscardpile;50
 threwto;40
 threwunderthebus;60
 thriller;50
@@ -43619,14 +43702,19 @@ throwgames;20;???
 throwingdarts;50
 throwingforaloop;60
 throwinggames;20;???
+throwinginthediscardpile;50
 throwingto;40
 throwingunderthebus;60
+throwinthediscardpile;50
+throwitinthediscardpile;50
 thrownforaloop;60
+throwninthediscardpile;50
 thrownunderthebus;60
 throwsdarts;50
 throwsdownadunk;50
 throwsforaloop;60
 throwsgames;20;???
+throwsinthediscardpile;50
 throwspots;50
 throwsto;40
 throwsunderthebus;60
@@ -44366,12 +44454,17 @@ toserveman;60
 tospare;40;Extra
 tossat;40
 tossedin;40
+tossedinthediscardpile;50
 tossedto;40
 tossesin;40
+tossesinthediscardpile;50
 tossesto;40
 tossin;40
 tossingin;40
+tossinginthediscardpile;50
 tossingto;40
+tossinthediscardpile;50
+tossitinthediscardpile;50
 tossto;40
 tot;50
 totalhorrowshow;60
@@ -47035,6 +47128,7 @@ wentastray;50
 wentbackto;40
 wentbig;50
 wentblank;50
+wentblueintheface;60
 wentby;40
 wentcondo;50
 wentdeaf;50
@@ -47531,7 +47625,7 @@ winniethepooh;60
 winninganoscar;50
 winningaprize;50
 winningat;40
-winningsilver;30
+winningsilver;50
 wino;5
 winonaryder;60
 winos;5
@@ -47550,6 +47644,7 @@ winteraconite;30;???
 winterale;50
 winterales;50
 winteregg;50;Fabergé egg
+wintergreengum;50
 winterolympics;50
 winterpear;50
 winterpears;50
