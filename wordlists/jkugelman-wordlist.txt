@@ -3793,7 +3793,9 @@ barofgold;50
 barograph;40;Graphical barometer
 barolo;30
 barolos;30
+baronharkonnen;60
 baronial;30
+baronvladimirharkonnen;60
 barostat;40;Device that maintains constant pressure
 barostats;40
 barouche;30;???
@@ -5564,14 +5566,17 @@ brb;40
 brea;40
 breakbread;60
 breakbreadwith;50
+breakcharacter;50
 breakfastbuffet;50
 breakingbread;60
 breakingbreadwith;50
+breakingcharacter;50
 breakingloose;50
 breakingserve;50
 breakloose;50
 breaksbread;60
 breaksbreadwith;50
+breakscharacter;50
 breakserve;50
 breaksloose;50
 breakupsex;60
@@ -5669,6 +5674,7 @@ brodate;50
 brodates;50
 brokebread;60
 brokebreadwith;50
+brokecharacter;50
 brokeloose;50
 brokenbat;50
 brokenbats;50
@@ -14489,6 +14495,8 @@ fightorflight;60
 fightorflightresponse;60
 fightsfor;40
 figural;30
+figureeight;50
+figureeights;50
 fil;20
 fila;40
 filene;30;Department store / bank
@@ -17924,6 +17932,7 @@ harems;5
 haribo;40;Gummy bear brand
 harijan;20;Indian "untouchable"
 harinef;50;Transgender actress, Dr. Barbie in "Barbie"
+harkonnen;50
 harlemite;30
 harlemites;30
 harlow;50
@@ -19186,6 +19195,7 @@ hou;40
 houdini;60
 hourlyrate;50
 hourlyrates;50
+houseatreides;60
 housebeer;50
 housebeers;50
 houseboat;50
@@ -19193,6 +19203,7 @@ houseboats;50
 housedress;50
 housedresses;50
 housedressing;50
+househarkonnen;60
 housepet;50
 housepets;50
 housered;50
@@ -23790,6 +23801,7 @@ lira;50
 lire;50
 lis;40
 lisalisa;40;80s singer
+lisanalgaib;50;"Dune" prophecy
 lise;30;Bart's sister, familiarly
 lisle;30;Cotton thread
 lisles;30
@@ -26811,6 +26823,7 @@ mtvstar;20
 mtvstars;20
 mtwtf;40
 mu;50
+muaddib;50
 muammar;40;Muammar Gaddafi
 muaythai;60
 muchas;40
@@ -30835,6 +30848,7 @@ pattingontheback;60
 pattis;30;???
 patton;50
 pau;20
+paulatreides;50
 paulettegoddard;30
 pauliii;20
 pauliv;20
@@ -46498,6 +46512,7 @@ vizier;50
 viziers;50
 vjs;40
 vladiii;30;???
+vladimirharkonnen;60
 vlasicdill;50
 vlogging;50
 vltava;40;Prague river, the "Czech national river"
