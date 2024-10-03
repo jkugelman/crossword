@@ -329,6 +329,7 @@ ach;40
 achaean;30;???
 achance;20
 achates;30;Companion of Aeneas
+achebe;40;Chinua Achebe
 achedfor;40
 achefor;40
 achene;20;Fruit
@@ -835,7 +836,7 @@ agana;20;Capital of Guam, archaic
 agar;40
 agaric;20
 agars;30;Legit plural?
-agasp;30
+agasp;40
 agathas;30
 agaze;30
 age;50
@@ -1851,6 +1852,7 @@ animalprint;50
 animals;50
 animaltrainer;50
 animaltrainers;50
+animalwithin;50
 animatedgif;60
 animatedgifs;60
 animi;20;Resins
@@ -2656,7 +2658,7 @@ ascribeto;40
 ascribingto;40
 asdidi;40
 ase;20
-asea;50
+asea;40
 asean;20;Association of Southeast Asian Nations
 asec;25
 asecondlook;50
@@ -3547,6 +3549,7 @@ bagelshop;50
 bagelshops;50
 baggagecarousel;50
 baggagecarousels;50
+baggyeyes;50
 bagjob;60
 bagjobs;60
 baglunch;50
@@ -4142,6 +4145,7 @@ beasley;20;Athlete Michael or Cole or Malik...?
 beassured;50
 beastar;40
 beastmode;60
+beastwithin;50
 beatadeadhorse;60
 beatat;40
 beatback;50
@@ -5857,7 +5861,10 @@ bugsprayers;50
 bugsprays;50
 buildafire;50
 buildingafire;50
+buildingblock;50
+buildingblocks;50
 buildingon;40
+buildingsupport;50
 buildon;40
 buildsafire;50
 buildson;40
@@ -7454,6 +7461,7 @@ chiefriskofficer;50
 chiefriskofficers;50
 chieftechnologyofficer;50
 chieftechnologyofficers;50
+chieng;40;Actor Ronny Chieng of "Crazy Rich Asians" and "The Daily Show"
 chigoe;20
 chigoes;20
 chihuahuamexico;50
@@ -7492,6 +7500,7 @@ chinkapin;40;Type of oak tree
 chinless;50
 chinmusic;60
 chinquapin;40;Type of oak tree
+chinua;40;Chinua Achebe
 chios;30;???
 chippier;50
 chippiest;50
@@ -10425,6 +10434,12 @@ devilsfood;50
 devilsfoodcake;50
 devilsfoodcakes;50
 devilsviolin;60;Musical instrument
+devilworship;50
+devilworshiper;50
+devilworshipers;50
+devilworshipper;50
+devilworshippers;50
+devilworshipping;50
 devisal;30
 devisals;30
 devisee;20
@@ -12087,6 +12102,7 @@ easingupto;40
 eastasia;50
 easterbunny;60
 easternseaboard;50
+easters;40
 eastorange;40;New Jersey city
 easya;50
 easyas;50
@@ -23324,8 +23340,8 @@ lesseps;30;Ferdinand de Lesseps, Suez Canal engineer
 lessinteresting;50
 lesson;50
 lessons;50
-lessor;30
-lessors;30
+lessor;40
+lessors;40
 lessthanstellar;60
 lestroyens;50
 let;50
@@ -25328,6 +25344,7 @@ masterplan;60
 masterplans;50
 mastic;30;Plant resin
 mastitis;30;Breast swelling
+mastoidal;40
 mat;50
 mata;30;Mata Hari, spy
 matabele;30;People of Zimbabwe
@@ -25880,6 +25897,7 @@ mewtwo;50;Pokeyman
 mex;40
 mexicanmeal;20
 mfa;40
+mfdoom;60
 mfg;20
 mfr;20
 mgb;20
@@ -26189,6 +26207,7 @@ missionaryridge;50
 missioncreep;50
 missioner;40;Missionary
 missioners;40
+missis;40
 missm;30
 missme;60
 missmississippi;60
@@ -27182,6 +27201,8 @@ nasser;40
 nast;40
 nastase;30;Tennis champ Ilie Nastase
 nastia;30;Gymnast Nastia Liukin
+nastygram;60
+nastygrams;60
 nat;50
 natale;30;Christmas: It.
 natalies;30
@@ -28680,7 +28701,7 @@ obverting;30
 obverts;30
 obvi;40
 obvs;40
-oca;20
+oca;30;South American tuber
 ocala;40
 ocasey;40;Playwright Seán O'Casey
 ocasio;50
@@ -34324,10 +34345,10 @@ recrudescent;40
 recrudesces;40
 recrudescing;40
 rectal;5
-recto;20
+recto;40;Right-hand page, opposite of verso
 rectorate;40
 rectorates;40
-rectos;20
+rectos;30
 recu;20;Received: Fr.
 recurringdreams;60
 recurvebow;50
@@ -39871,6 +39892,8 @@ spamfilter;50
 spamfilters;50
 spamfolder;50
 spamfolders;50
+spamtrap;60
+spamtraps;60
 spandau;30;Berlin borough
 spang;30;Smack dab
 spanishaccent;50
@@ -43042,6 +43065,7 @@ theamazingrandi;60
 theamish;20
 theangryinch;50;"Hedwig and the Angry Inch"
 theanimals;50
+theanimalwithin;50
 theape;40;1940 Boris Karloff movie
 theapeman;20
 thearea;20
@@ -43068,6 +43092,7 @@ thebatpole;20
 thebbc;20
 thebeard;60
 thebearerofbadnews;20
+thebeastwithin;50
 thebeatles;60
 thebeeb;50
 thebeesknees;60
@@ -45449,7 +45474,7 @@ ucriverside;50
 ucsb;30;U.C. Santa Barbara
 ucsf;30
 ude;20
-udo;20
+udo;30;Japanese vegetable
 uey;40
 ueys;40
 ufc;40
@@ -46309,6 +46334,8 @@ verruca;20;Wart
 verrucae;20;Warts
 versicle;30
 versicles;30
+verso;40;Left-hand page, opposite of recto
+versos;30
 vert;40;Vertical
 vertebralcolumn;50
 vervet;30;Monkey
