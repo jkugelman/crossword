@@ -358,7 +358,8 @@ acidulates;30
 acidulating;30
 acidulous;30
 ack;40
-ackackgun;60
+ackackgun;40
+ackackguns;40
 ackee;30;Savory fruit
 ackees;30;Savory fruit
 ackroyd;20;Some author
@@ -434,6 +435,7 @@ actedas;40
 actedfor;40
 actedin;40
 actedinconcert;60
+actedon;40
 actfastsuppliesarelimited;60
 actfastsuppliesarerunningout;60
 actfor;40
@@ -451,6 +453,7 @@ actingexercises;50
 actingfor;40
 actingin;40
 actinginconcert;60
+actingon;40
 actingpresident;50
 actinolite;30;Mineral
 actio;20
@@ -478,11 +481,13 @@ actnatural;60
 actnormal;60
 actofparliament;50
 actofwar;50
+acton;40
 actprep;50
 actsas;40
 actsfor;40
 actsin;40
 actsofwar;50
+actson;40
 actssad;1
 actssore;1
 acttwo;40
@@ -1575,6 +1580,7 @@ amendmentix;20
 amendmentxix;20
 amenhotep;50
 amenra;40
+amental;20
 aments;20
 ameproblem;60
 amerce;30;Punish by fine, archaic
@@ -12617,6 +12623,7 @@ elem;40
 elenas;30
 elenchi;20
 elenchus;20;Logical refutation, from the Socratic method
+elenore;40;Song by The Turtles
 eleonora;40
 elephantmario;60
 elephantssnacks;1
@@ -15287,6 +15294,8 @@ freds;30
 fredsanford;50
 fredward;50
 freebee;20
+freeclinic;50
+freeclinics;50
 freecycle;50
 freecycled;50
 freecycles;50
@@ -16433,6 +16442,8 @@ glasscity;30;Toledo, OH?
 glassjaw;60
 glassjaws;60
 glassonion;60
+glasstumbler;50
+glasstumblers;50
 glassyeyed;50
 glau;40;Actress Summer Glau
 glaucous;40;Dull grayish-green color
@@ -17231,6 +17242,8 @@ grayarea;60
 grayareas;60
 grayfox;50
 grayfoxes;50
+graysquirrel;50
+graysquirrels;50
 gre;40
 greasedonespalms;50;Not sure if plural is right???
 greasedsomeonespalm;50
@@ -18063,6 +18076,7 @@ hauser;20;???
 hautbois;30;Oboe ancestor
 hautboy;30
 hautboys;30
+havanacuba;50
 havasu;20;Arizona lake
 haveababy;50
 haveabadhairday;60
@@ -18159,7 +18173,7 @@ hch;20
 hciwdnasbulc;1
 hcl;20
 hdl;40
-hdmi;30
+hdmi;40
 hdvideo;40
 hdvideos;40
 he;50
@@ -21620,6 +21634,7 @@ jobsecurity;50
 jockjam;60
 jockstrap;50
 jockstraps;50
+jodeci;40;'90s R&B duo
 joe;50
 joecamel;50
 joedepre;20;Unnotable basketball player
@@ -25650,11 +25665,14 @@ meerschaums;40
 meetat;40
 meeter;20;One meeting
 meeters;20
+meetheadon;50
 meetingat;40
+meetingheadon;50
 meetingpayroll;50
 meetly;20;Fittingly
 meetme;20
 meetpayroll;50
+meetsheadon;50
 meetspayroll;50
 meg;50
 megacolon;40;Colon dilation
@@ -25862,6 +25880,8 @@ metgala;50
 meth;40
 methamphetamine;50
 methamphetamines;50
+metheadon;50
+metheglin;40;Spiced mead
 methene;30
 methree;60
 metier;40
@@ -29691,6 +29711,8 @@ opensource;50
 opensourcesoftware;50
 openspandorasbox;60
 opensupto;40
+opentab;50
+opentabs;50
 opento;40
 opentoes;30
 openupto;40
@@ -36390,6 +36412,7 @@ sacristy;40;Church room
 sacrosanct;50
 sacrum;30;Lower back bone
 sad;50
+sadaharuoh;30;Japanese baseball player (all-time great, but in Japan, never played in the MLB)
 sadats;30
 sadbeige;60
 sadbeigebaby;60
@@ -39490,6 +39513,7 @@ socrates;50
 sod;50
 sodabread;50
 sodabreads;50
+sodarncute;60
 sodded;50
 sodding;50
 sodiumna;1
@@ -40566,6 +40590,8 @@ statedebt;50
 statedepartment;50
 stateflag;50
 stateflags;50
+statequarter;50
+statequarters;50
 stater;40
 staterep;50
 statereps;50
@@ -43130,6 +43156,7 @@ thebutterbattlebook;60;Dr. Seuss book
 thecab;20
 thecandyman;50
 thecapeman;40;Paul Simon musical flop
+thecapitol;40
 thecar;20
 thecarbonaroeffect;50
 thecase;20
