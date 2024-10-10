@@ -474,6 +474,8 @@ actionitems;50
 actionmovie;60
 actionmovies;60
 actionpacked;60
+actionstar;50
+actionstars;50
 actium;20;Greek battle site
 activ;40
 activeroster;50
@@ -1815,6 +1817,7 @@ angeluses;30
 angerer;30
 angevin;20;Anjou empire
 anginous;30
+angio;40
 angiology;30
 angkor;50;Angkor Wat, Cambodian temple
 anglaise;40
@@ -4384,6 +4387,7 @@ bellagio;60
 bellaswan;50
 belli;20;Celebrity lawyer Melvin
 belljar;60;Sylvia Plath's only novel, with "The"
+bello;40;Actress Maria Bello
 bellsareringing;60
 bellthecat;50;Idiom, attempt an impossibly difficult task
 bellybump;60
@@ -4587,8 +4591,12 @@ bicpens;30
 bid;50
 bidadieu;50
 biddingadieu;50
+biddingcontest;50
+biddingcontests;50
 biddingfor;40
 biddingon;40
+biddingwar;50
+biddingwars;50
 bidfor;40
 bidon;40
 bidsadieu;50
@@ -6566,6 +6574,7 @@ caracol;20
 caracoles;20
 carads;50
 caravaned;30
+carbo;40;Carbo-loading
 carbomb;5
 carbombs;5
 carbonaroeffect;50
@@ -10314,7 +10323,7 @@ denvermint;50
 denyingto;30
 denyit;40;P.R. rep's advice
 denyto;30
-deo;20
+deo;40;In excelsis deo, and other expressions
 deodar;20;Himalayan cedar
 deodars;20
 deodato;30;Brazilian pianist Eumir
@@ -14447,6 +14456,7 @@ ferretkits;50
 ferretout;50
 ferretsout;50
 ferrigno;50
+ferro;40;Iron-
 fes;20
 fetalposition;50
 feticide;5
@@ -16017,6 +16027,7 @@ gerbilpup;50
 gerbilpups;50
 gerfalcon;30
 gerfalcons;30
+germanbeer;50
 germanlit;50
 germaphobe;50
 germaphobes;50
@@ -16780,6 +16791,7 @@ goldencanepalms;50
 goldenco;30
 goldeneye;50
 goldengirl;50
+goldenhair;50
 goldenhind;50;Sir Francis Drake's ship, first to circumnavigate the world
 goldenlab;50
 goldenlabs;50
@@ -17764,6 +17776,7 @@ halep;30;Simona Halep, world no. 1 tennis player for 64 weeks
 haler;50
 halest;50
 halfacre;20
+halfanhour;50
 halfasian;50
 halfasians;50
 halfdollar;50
@@ -18423,6 +18436,7 @@ hemis;20
 hemlock;50
 hemmer;30
 hemmers;30
+hemo;40;Blood prefix
 hemorrhoid;30
 hemorrhoidectomy;30
 hemorrhoids;30
@@ -19971,6 +19985,7 @@ imam;50
 imamac;50
 imamate;40;???
 imamess;50
+imamonster;60
 imamoron;60;Forehead-slapping exclamation
 imams;50
 iman;40;Somalian model married to David Bowie
@@ -25199,6 +25214,7 @@ margaretqualley;50;Actress
 margarines;40
 margaritanosalt;30
 margechampion;30
+margo;40;Various, no one super notable
 marianao;20;Havana borough
 marias;30;Plural name
 marieantoinette;50
@@ -25779,6 +25795,7 @@ mengele;5
 menialtask;50
 menialtasks;50
 meninges;30
+meno;30;Prefix for pause
 menolikey;5
 menorrhea;20;Menstrual flow
 mensal;40;???
@@ -26808,6 +26825,7 @@ mrs;50
 mrsandman;60
 mrsaturdaynight;50
 mrsmartypants;60
+mrsminiver;50
 mrsmith;50
 mrsnuffleupagus;50
 mrsoleary;50
@@ -26921,6 +26939,7 @@ multiversal;60
 multiverse;60
 mum;50
 mumblerap;60
+mumbo;40;Mumbo jumbo
 mummies;50
 mummified;50
 mummifies;50
@@ -31405,6 +31424,7 @@ petrels;30;Seabirds
 petridish;50
 petridishes;50
 petrine;20
+petro;40;Prefix
 petrucci;50
 petsematary;50
 petsmart;50
@@ -36724,6 +36744,7 @@ santasuit;50
 santasuits;50
 santasworkshop;60
 santee;20
+santo;40;Santo Domingo and others
 santolina;20;Chamomile genus
 santos;30;Disgraced Congressman George Santos
 sanyo;40
@@ -42713,6 +42734,7 @@ tek;20
 tektite;30;Meteorite pebble
 tektites;30;Meteorite pebbles
 tel;40
+telco;40;Telecommunications company
 tele;40
 telefono;40
 telegraph;50
@@ -48079,6 +48101,7 @@ xenon;50
 xenongas;50
 xenons;30
 xer;20
+xero;30;Prefix
 xeroderma;40;Dry skin
 xerosis;20;Dry skin
 xerox;50
