@@ -159,6 +159,7 @@ ablate;30
 ablated;30
 ablates;30
 ablating;30
+abled;50
 abler;40
 ablest;50
 abm;20
@@ -2333,6 +2334,8 @@ arcw;1
 ard;20
 ardlylion;1
 ardmore;20;Philly suburb
+arduino;50
+arduinos;50
 are;50
 area;50
 areacodemap;40
@@ -3389,8 +3392,14 @@ babies;50;"State population to double by 2040
 baboos;20
 babu;40;Hindu title
 babur;20
-babybackrib;30
+babyalbum;60
+babyalbums;60
+babybackrib;50
 babybackribs;60
+babybell;50
+babybells;50
+babybib;50
+babybibs;50
 babybook;50
 babybooks;50
 babybootee;40
@@ -5670,6 +5679,7 @@ breezesrightpast;50
 breezingrightpast;50
 breitbart;5
 breitbartnews;5
+brene;30;Author Brené Brown
 breslau;20;Polish city
 breteastonellis;60
 breve;40
@@ -14438,6 +14448,7 @@ federalelection;50
 federalholidays;50
 federallaw;50
 federallaws;50
+fedin;40
 fedinto;40
 fedon;40
 fedthekitty;50
@@ -14446,6 +14457,8 @@ fedupon;50
 fee;50
 feedacold;50
 feedacoldstarveafever;60
+feedin;40
+feedingin;40
 feedinginto;40
 feedingon;40
 feedingthekitty;50
@@ -14453,6 +14466,7 @@ feedingto;40
 feedingupon;50
 feedinto;40
 feedon;40
+feedsin;40
 feedsinto;40
 feedson;40
 feedsthefire;60
@@ -14719,6 +14733,7 @@ findersfee;50
 findersfees;50
 fineart;50
 fineartist;50
+finebelikethat;60
 finedining;50
 finemesh;50
 finemess;50
@@ -15619,6 +15634,7 @@ frozendaiquiri;50
 frozendaiquiris;50
 frozendinner;50
 frozendinners;50
+frozenfour;60;NCAA men's hockey championship
 frozenii;40
 frozeup;50
 frs;20
@@ -22087,6 +22103,7 @@ karsts;40
 kart;40
 karts;40
 kas;20
+kasha;30;Buckwheat cereal
 kashas;20
 kat;40
 katespade;50
@@ -23561,6 +23578,7 @@ letch;5
 letches;5
 letem;30
 letemhaveit;60
+letemin;40;1976 Wings song
 leterrip;50
 letgoofme;50
 lethe;30;River in Hades whose waters cause drinkers to forget their past
@@ -24209,6 +24227,9 @@ lobstertraps;50
 lobworm;30
 lobworms;30
 loc;20
+localanesthesia;50
+localanesthetic;50
+localanesthetics;50
 localcolor;50
 localdive;50
 localdives;50
@@ -24324,6 +24345,7 @@ longtimelistener;60
 longtimelistenerfirsttimecaller;60
 longu;40
 longus;20
+loni;40;Loni Anderson
 lonnol;30;Cambodian dictator Lon Nol
 loo;50
 looey;30
@@ -25588,6 +25610,7 @@ matabele;30;People of Zimbabwe
 matdown;50
 mateinone;50
 matelot;20
+mateo;40
 mater;40
 maternityward;50
 maters;30;Alma maters
@@ -27195,7 +27218,9 @@ mus;20
 muscatgrape;50
 muscatgrapes;50
 musedon;40
+museo;40
 museon;40
+museos;40
 museson;40
 mushmouth;50
 mushmouths;50
@@ -28523,7 +28548,7 @@ notchesononesbelt;60
 notchononesbelt;60
 notcool;60
 notcricket;40;British idiom: unfair, unsportsmanlike
-notdo;40
+notdo;30
 noteasy;40
 notedly;30
 notelet;30
@@ -28638,6 +28663,7 @@ nownow;60
 nowthen;50
 nox;40;Night goddess
 noyes;40;Poet Alfred Noyes
+noyouhangup;60
 noyourotherright;60
 npc;40
 npg;20
@@ -31515,6 +31541,7 @@ perchlorate;40;Chemical used in fireworks, explosives, and rocket fuel
 perdu;20;Hidden
 pere;40
 peres;40;Israeli PM Shimon Peres
+perez;40
 perfecta;40;Race track bet
 perfectalibi;50
 perfectangel;50
@@ -33358,7 +33385,7 @@ proxyvotes;50
 proxyvoting;50
 prozac;50
 prreps;30
-prs;20
+prs;40
 prspeak;50
 prstrategies;50
 prstrategy;50
@@ -33554,6 +33581,8 @@ purims;40;Plural Jewish holiday
 purlie;20;Musical
 purpledye;20;Green paint, right???
 purpledyes;20
+purplegallinule;50;Bird that Matthew Stock likes
+purplegallinules;50
 purplerain;60
 purrer;40
 purrers;40
@@ -36417,6 +36446,7 @@ rowell;20
 rowels;20
 rowena;30;Ivanhoe's love
 rowlf;40;Muppet Rowlf the Dog
+rowr;30;Should be rawr
 roy;50
 royalball;50
 royalballs;50
@@ -37109,6 +37139,7 @@ saruman;50
 sas;20
 sase;30
 sasebo;20;Japanese port
+sasha;40
 sashay;50
 sashayed;50
 sashaying;50
@@ -39532,6 +39563,10 @@ smallcar;30
 smallcars;30
 smalley;30
 smallintestines;50
+smallmolecule;50;???
+smallmolecules;50;???
+smallpizza;50
+smallpizzas;50
 smallprint;50
 smallslam;50;Bridge play
 smallstage;50
@@ -42096,6 +42131,9 @@ swarmedinto;40
 swarminginto;40
 swarminto;40
 swarmsinto;40
+swashbuckler;60
+swashbucklers;60
+swashbuckling;60
 swastika;5
 swastikas;5
 swat;50
@@ -43413,6 +43451,7 @@ thatscool;60
 thatseasyforyoutosay;60
 thatsenough;50
 thatsfinal;60
+thatsgenius;60
 thatsgreat;60
 thatshuge;60
 thatsit;50
@@ -44045,6 +44084,7 @@ theysee;1
 theyvegotitmade;60
 theywilleatyouforbreakfast;60
 thezapruderfilm;20
+thezombies;50;English rock band in the Rock and Roll Hall of Fame
 thezoomies;60
 thezooplane;40;???
 thi;20
@@ -48263,6 +48303,7 @@ wonderbra;50
 wonderbras;50
 wonderer;30
 wonderers;30
+wong;40
 wonit;20
 wonone;1
 wonsilver;50
@@ -48887,6 +48928,7 @@ yougottabejoking;60
 yougottabekiddingme;60
 youguysgiveuporareyouthirstyformore;60
 youhadonejob;60
+youhangup;60
 youhave;20
 youhavefunwiththat;60
 youheardme;60
@@ -48915,6 +48957,7 @@ youpick;50;"I can't decide..."
 yourargumentisinvalid;60
 yourball;60
 youreadmymind;60
+youreagenius;60
 youreameanonemrgrinch;60
 youreaskingforit;60
 yourebad;60
