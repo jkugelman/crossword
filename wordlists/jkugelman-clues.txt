@@ -44,20 +44,6 @@
 ##weapons;"Federal agents raid gun shop, find ___" (The World)
 ##weather;"Forecaster calls for ___ on Monday" (Pittsburg Post-Gazette)
 ##wind;"Passing ___ strands BC Ferry passengers" (Vancouver Sun)
-#alist;Where Tom Cruise has lived for 40 years [used and edited out]
-#hyde;Split second? [used in Tease Up]
-#lace;Tie up loose ends? [used in Square to Begin]
-#laced;Tied up loose ends? [used in Square to Begin]
-#laces;Ties up loose ends? [used in Square to Begin]
-#lacing;Tying up loose ends? [used in Square to Begin]
-#one;Number line? [ignored in Doing Front Flips]
-#ones;Number lines? [ignored in Doing Front Flips]
-#ots;Draw conclusions, briefly? [used in Teacher's Marks]
-#overtimes;Draw conclusions? [used in Teacher's Marks]
-#pondscum;Dirty film [used in Is There an Echo in Here?]
-#scum;Dirty film? [used in Is There an Echo in Here?]
-#tiebreakers;Draw conclusions? [used in Teacher's Marks]
-#tubas;They have big brass bells [used in Square to Begin]
 *adlibber;Make-up artist?
 *adlibbers;Make-up artists?
 *bathe;What nuns do out of habit?
@@ -80,8 +66,6 @@
 *grandfatherclock;Old timer?
 *hiredgun;All-cash offer?
 *hiredguns;All-cash offers?
-*hotdog;Fan fare?
-*hotdogs;Fan fare?
 *love;Net zero?
 *loveall;Pointless
 *luckypennies;Change of fortune?
@@ -104,9 +88,6 @@
 *onset;Where to see shooting stars?
 *petname;Love handle?
 *petnames;Love handles?
-*popcorn;Fan fare?
-*pretzel;Fan fare?
-*pretzels;Fan fare?
 *rag;What gets dirt on people ... or off them
 *saynotodrugs;Stay off the grass?
 *selfiestick;First-person shooter?
@@ -781,6 +762,8 @@ hostess;Social worker?
 hostesses;Social workers?
 hosts;Social workers?
 hot;Like hell!
+hotdog;Fan fare?
+hotdogs;Fan fare?
 hotfootit;Bolt out of the blue?
 hotsauce;Throat singer?
 housebeer;First round draft pick, maybe?
@@ -1139,6 +1122,7 @@ pocket;Phone home, maybe?
 pocketveto;Presidential term?
 policechief;Copper head?
 pontiffs;See stars?
+popcorn;Fan fare?
 popes;See stars?
 porkbarrel;Congressional term?
 porkrind;Skinny food?
@@ -1152,6 +1136,8 @@ pothole;Street wear?
 potholes;Street wear?
 potsmoker;Joint owner?
 potsmokers;Joint owners?
+pretzel;Fan fare?
+pretzels;Fan fare?
 priest;Profession of faith
 priesthood;Profession of faith?
 priests;Professions of faith
