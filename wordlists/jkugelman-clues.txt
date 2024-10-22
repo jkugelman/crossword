@@ -70,11 +70,6 @@
 *loveall;Pointless
 *luckypennies;Change of fortune?
 *luckypenny;Change of fortune?
-*merger;Kind of a big deal
-*morgue;Stiff joint?
-*morgues;Stiff joints?
-*mummies;Remains under wraps?
-*mummy;Remains under wraps?
 *musical;Acting in concert?
 *musicals;Acting in concert?
 *niceass;Bottom line?
@@ -462,8 +457,11 @@ dermatologist;Skinny doctor?
 dermatologists;Ones who makes rash decisions?
 dermatologists;Skinny doctors?
 destination;Get to it!
+det;Case worker, for short?
 det;Grill master, for short?
+detective;Case worker?
 detective;Grill master?
+detectives;Case workers?
 detectives;Grill masters?
 developer;One who buys a lot?
 developers;Ones who buys a lot?
@@ -954,6 +952,7 @@ mascots;Ballpark figures?
 mayihavethisdance;Cutting in line?
 mechanical;Like clockwork
 medusa;Her looks are to die for
+merger;Kind of a big deal
 mickey;Animated icon?
 mickeymouse;Animated icon?
 midwife;Delivery person
@@ -966,6 +965,8 @@ mitt;Fly catcher?
 mitts;Fly catchers?
 mobil;Gas giant?
 mom;Awkward thing to call your teacher
+morgue;Stiff joint?
+morgues;Stiff joints?
 mosh;Pit for metal scraps?
 motherearth;Dirty girl?
 mothier;Holier, maybe?
@@ -980,9 +981,11 @@ mulch;Lay the groundwork?
 mulched;Laid the groundwork?
 mulches;Lays the groundwork?
 mulching;Laying the groundwork?
+mummies;Remains under wraps?
 mummified;Kept under wraps?
 mummifies;Keeps under wraps?
 mummify;Keep under wraps?
+mummy;Remains under wraps?
 mybad;Fault line?
 myeyesareuphere;Checkout counter?
 nabbing;Taking form?
