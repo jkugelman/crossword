@@ -97,6 +97,7 @@ abbr;40
 abbrev;40
 abbrs;40
 abc;50
+abcanchor;20
 abcd;20
 abcdaytimehosts;20
 abcde;20
@@ -946,6 +947,7 @@ agreeson;40
 agreesto;40
 agreeswith;40
 agreeto;40
+agreetodisagree;60
 agreewith;40
 agri;40
 agribiz;40
@@ -1549,6 +1551,7 @@ amatis;40;Violins
 amative;20
 amativeness;20
 amato;30;Al D'___
+amatory;40;Amorous
 amazeballs;60
 amazedat;40
 amazingrandi;60
@@ -2079,6 +2082,7 @@ apanage;20;Gift of land, archaic
 aparade;20
 aparicio;40;Yalitza Aparicio, Best Actress nominee from "Roma" in 2018
 aparthistory;30
+apartotel;20;Apartment hotel
 apathies;30
 apatite;30;Mineral
 apatites;30;Minerals
@@ -2192,6 +2196,7 @@ applauder;30
 applauders;30
 applause;50
 applebetty;20
+applecida;20
 applelogo;50
 applelogos;40
 appleof;1
@@ -2557,6 +2562,8 @@ aro;40
 aroace;60
 aroar;40
 aroint;20;Shakespearean "Begone!"
+arointed;20
+arointing;20
 aroints;20;Drives away, archaic
 aromatize;40
 aron;40;Elvis Aron Presley
@@ -3033,6 +3040,7 @@ athelings;30
 atheneum;20;Book room
 athensga;30
 atheroma;30;Artery deterioration
+atherton;40;???
 athing;40
 athomes;20
 athread;20;Twitter convention for indicating a thread
@@ -4692,6 +4700,7 @@ bigblind;50
 bigd;40;Nickname for Dallas
 bigdance;50;March Madness tourney
 bigdata;50
+bigdig;60
 bigdipper;50
 bigego;50
 bigegos;50
@@ -7664,6 +7673,8 @@ chileconcarne;50
 chiliconcarne;50
 chilidip;50
 chilidips;50
+chilidog;60
+chilidogs;60
 chilipepper;50
 chilipeppers;50
 chilipowder;50
@@ -7765,6 +7776,7 @@ chophouses;50
 chopine;30
 choppeddown;50
 choppingdown;50
+chopra;40;Deepak Chopra, new age author
 chopsdown;50
 chordata;20;Animal phylum
 chordate;40;Phylum of animal
@@ -7999,6 +8011,7 @@ cle;30
 cleancar;20
 cleancars;20
 cleanclothes;50
+cleancoal;60
 cleanedhouse;60
 cleanhouse;60
 cleaninghouse;60
@@ -8710,6 +8723,7 @@ conductorsbaton;50
 conductorsbatons;50
 condyle;30;End of some bones
 condyles;30
+coneofshame;60
 conestogawagon;50
 conestogawagons;50
 coneys;40;Chili dogs
@@ -10725,6 +10739,8 @@ dfw;40;Dallas-Fort Worth
 dha;20
 dhabi;30
 dhaka;30
+dhampir;40;Vampire/human in Balklan folklore
+dhampirs;40
 dhl;40
 dhole;20;Wild asian dog
 dhoti;40;Indian man's loose pants
@@ -11796,20 +11812,26 @@ drakeu;40;???
 dramamine;50
 dramaticrole;50
 dramaticroles;50
+dramedies;60
+dramedy;60
 drankfromafirehose;60
 drankfromthefirehose;60
 drankthekoolaid;60
 drankto;40
+drasticaction;50
+drasticactions;50
 dratit;30
 drawablank;60
 drawabye;40
 drawagunon;40
 drawahead;50
+drawattentionto;40
 drawfrom;40
 drawingablank;60
 drawingabye;40
 drawingagunon;40
 drawingahead;50
+drawingattentionto;40
 drawingfrom;40
 drawinginto;30
 drawingon;40
@@ -11823,6 +11845,7 @@ drawsablank;60
 drawsabye;40
 drawsagunon;40
 drawsahead;50
+drawsattentionto;40
 drawsfrom;40
 drawsinto;30
 drawson;40
@@ -11895,6 +11918,7 @@ drewablank;60
 drewabye;40
 drewagunon;40
 drewahead;50
+drewattentionto;40
 drewfrom;40
 drewinto;30
 drewon;40
@@ -13463,7 +13487,8 @@ eph;20
 ephedra;20
 ephedras;20
 ephemerae;40
-ephesians;30;New Testament book
+ephesian;30
+ephesians;40;New Testament book
 ephesus;30;Ancient Greek city
 ephus;30;Difficult baseball pitch
 epi;40
@@ -14267,9 +14292,13 @@ factsheet;50
 factsheets;50
 fad;50
 fadedin;40
+fadedinto;40
 fadein;50
+fadeinto;40
 fadesin;40
+fadesinto;40
 fadingin;40
+fadinginto;40
 fadings;30
 fae;20
 faeroe;20
@@ -14961,8 +14990,11 @@ firehose;50
 firehoses;50
 fireiron;40;Fireplace poker
 fireirons;40;Fireplace pokers
+fireman;50
 firemansred;1
+firemario;60
 firemarshal;50
+firemen;50
 fireonallcylinders;60
 fireplug;50
 firesalamander;50
@@ -14984,6 +15016,8 @@ firmbelief;50
 firmbeliefs;50
 firmoffer;50
 firmoffers;50
+firstaidstation;50
+firstaidstations;50
 firstalert;50
 firstbase;50
 firstclasscabin;50
@@ -14999,9 +15033,13 @@ firstdance;60
 firstdate;50
 firstdates;50
 firstfreeascent;60
+firstinfirstout;60
+firstkiss;60
+firstkisses;60
 firstladies;50
 firstlady;50
 firstlaw;50
+firstlittlepig;60
 firstoffense;50
 firstorderlogic;50
 firstpunicwar;50
@@ -15975,15 +16013,19 @@ gainanhour;50
 gainedaday;50
 gainedanhour;50
 gainedmomentum;50
+gainedon;40
 gainedsteam;50
 gainingaday;50
 gaininganhour;50
 gainingmomentum;50
+gainingon;40
 gainingsteam;50
 gainmomentum;50
+gainon;40
 gainsaday;50
 gainsanhour;50
 gainsmomentum;50
+gainson;40
 gainssteam;50
 gainst;30
 gainsteam;50
@@ -16851,6 +16893,7 @@ glycol;40
 glycols;40
 glycolysis;40
 glycoside;40
+glynis;40;Golden Age actress Glynis Johns
 gma;40
 gmajor;40
 gman;30
@@ -16968,6 +17011,7 @@ goesallout;50
 goesas;40
 goesastray;50
 goesaway;50
+goesawry;50
 goesbackto;40
 goesbig;50
 goesblank;50
@@ -17062,6 +17106,7 @@ goingallin;50
 goingallout;50
 goingas;40
 goingastray;50
+goingawry;50
 goingbackto;40
 goingbig;50
 goingblank;50
@@ -17201,6 +17246,7 @@ goneape;40
 goneastray;40
 goneat;30
 goneawol;40
+goneawry;50
 goneballistic;40
 gonedark;40
 gonefishin;50
@@ -18044,6 +18090,7 @@ hadatit;40
 hadayenfor;40
 haddibs;50
 haddibson;50
+hadean;40;Geologic eon
 hadenoughorareyouthirstyformore;60
 hadeyesfor;40
 hadfun;50
@@ -18236,6 +18283,7 @@ handvacs;50
 haneke;30;French director Michael Haneke, Oscar-nominated in 2013 for "Amour", not super notable
 hangauie;30
 hangedauie;30
+hangedman;60;Tarot card
 hangglide;60
 hangglided;60
 hangglider;60
@@ -21573,6 +21621,7 @@ itsagift;60
 itsagirl;60
 itsagoodaguessasany;60
 itsagoodstart;60
+itsajoke;60
 itsakeeper;60
 itsallalie;60
 itsallgood;60
@@ -21742,6 +21791,7 @@ iwantinonthat;60
 iwantout;60
 iwanttosee;60;"Move out of the way!"
 iwasframed;60
+iwaslike;60
 iwilleatyouforbreakfast;60
 iwillnot;50
 iwin;50
@@ -21778,6 +21828,10 @@ jackhammer;60
 jackjohnson;50
 jackkennedy;50
 jacknicholson;50
+jackofcoins;60;Tarot card
+jackofcups;60;Tarot card
+jackofswords;60;Tarot card
+jackofwands;60;Tarot card
 jackolantern;60
 jackrussell;50
 jackrussells;50
@@ -22612,7 +22666,11 @@ kingdavid;50
 kinginthecastle;60
 kingme;60
 kingofclay;60;Rafael Nadal
+kingofcoins;60;Tarot card
+kingofcups;60;Tarot card
 kingofhearts;50
+kingofswords;60;Tarot card
+kingofwands;60;Tarot card
 kingrat;30;Unnoteworthy old movie
 kingset;40;Bedroom set
 kingsized;50
@@ -22735,6 +22793,10 @@ knifeedges;50
 knifepleat;50
 knifepleats;50
 knightley;50
+knightofcoins;60;Tarot card
+knightofcups;60;Tarot card
+knightofswords;60;Tarot card
+knightofwands;60;Tarot card
 knives;50
 knockedforaloop;60
 knockedin;40
@@ -23276,6 +23338,7 @@ laster;20
 lastforever;50
 lastgasp;60
 lastiheard;60
+lastinfirstout;60
 lastleg;60
 lastlegs;60
 lastmeal;50
@@ -23858,6 +23921,7 @@ letnaturerunitscourse;60
 letnot;20
 letoff;40
 letsadmitit;60
+letsagreetodisagree;60
 letsat;40
 letsbe;50
 letsbehonest;60
@@ -25355,6 +25419,7 @@ maj;20
 maja;30;Goya's "The Naked ___"
 majel;20
 majeste;30
+majorarcana;60
 majordiscoveries;50
 majordiscovery;50
 majoredin;40
@@ -25860,16 +25925,23 @@ massexits;50
 massicot;30;???
 massif;40;Group of mountains
 massifs;40
+mastaba;30
+mastabah;30
+mastabas;30
 masterbedroom;50
 masterbedrooms;50
 masterbrewer;50
 masterbrewers;50
+masterclass;60
+masterclasses;60
 masterfile;50
 masterfiles;50
 masterkey;50
 masterkeys;50
 masterlock;50
 masterlocks;50
+mastermason;50
+mastermasons;50
 mastermind;60
 masterminded;60
 masterminding;60
@@ -26668,6 +26740,7 @@ minkstole;50
 minkstoles;50
 minn;40
 minneapolismn;20
+minorarcana;60
 minoredin;40
 minorin;40
 minoringin;40
@@ -26704,6 +26777,7 @@ mir;40
 miraclecure;60
 miraclecures;60
 miraclemax;50
+mirainagasu;40;Figure skater
 mireddown;40
 mirier;30
 miriest;30
@@ -27666,6 +27740,7 @@ nail;50
 nailart;50
 nailed;50
 nailedin;40
+nailedit;60
 nailedon;40
 nailer;30
 nailers;30
@@ -30254,6 +30329,7 @@ openbooks;50
 opendata;40;???
 opendebate;50
 opendebates;50
+openedanira;20
 openedfire;50
 openedinon;40
 openedon;40
@@ -30263,6 +30339,7 @@ openend;40;Like a fund or loan that can be added to
 openest;30
 openfire;50
 openfireon;40
+opengrill;50
 openingfire;50
 openinginon;40
 openingnumber;50
@@ -31046,6 +31123,10 @@ paeons;20
 paese;40
 pagebreak;50
 pagebreaks;50
+pageofcoins;60;Tarot card
+pageofcups;60;Tarot card
+pageofswords;60;Tarot card
+pageofwands;60;Tarot card
 pageview;50
 pageviews;50
 paginal;40
@@ -34155,8 +34236,12 @@ quatre;40;Four: Fr.
 quayage;30;Wharf fee
 que;40
 queene;20
+queenofcoins;60;Tarot card
+queenofcups;60;Tarot card
 queenofhearts;60
 queenofjazz;60
+queenofswords;60;Tarot card
+queenofwands;60;Tarot card
 queenset;40;Bedroom set
 queerprom;60
 queers;5
@@ -34681,6 +34766,13 @@ ratholes;50
 ratholing;50
 ratine;20;Fabric
 ratings;50
+ratiocinate;40;To reason
+ratiocinated;40
+ratiocinates;40
+ratiocinating;40
+ratiocination;40
+ratiocinative;40
+ratiocinator;40
 ratite;30;Flightless bird
 ratites;30;Flightless birds
 ratlike;30
@@ -36205,6 +36297,7 @@ rideem;1
 ridein;40
 rideinto;40
 rideon;40
+rideordie;60
 ridesabroomstick;50
 ridesawave;50
 ridesin;40
@@ -38159,6 +38252,7 @@ secondbananas;50
 secondcoming;60
 seconddate;50
 seconddates;50
+secondlittlepig;60
 secondo;40;Lower part of a piano duet
 secondpunicwar;50
 secrecies;30
@@ -39593,6 +39687,8 @@ skee;40
 skeelo;50;"I Wish" rapper
 skeg;20
 skeletomuscular;50
+skeletoninthecloset;60
+skeletonsinthecloset;60
 skelter;50
 sketchedout;50
 sketcher;50
@@ -42336,6 +42432,9 @@ suh;20
 suharto;40
 suhweet;60
 sui;40;Fashion designer Anna
+suicidal;40
+suicide;40
+suicides;40
 suigeneris;60
 suingfor;40
 suingover;40
@@ -43723,6 +43822,7 @@ tenorsax;50
 tenorsaxes;50
 tenorsaxsolo;50
 tenorsaxsolos;50
+tenoutoften;60
 tenpast;20
 tenpounder;30;???
 tenrec;20;Madagascar animal
@@ -43755,6 +43855,12 @@ tenuta;30
 tenyards;30
 teo;20
 tep;20
+tequilaslammer;60
+tequilaslammers;60
+tequilasunrise;60
+tequilasunrises;60
+tequilasunset;60
+tequilasunsets;60
 ter;20
 tera;40
 terato;20;Prefix: monster
@@ -43936,6 +44042,7 @@ thatsclassified;60
 thatscool;60
 thatseasyforyoutosay;60
 thatsenough;50
+thatsfair;60
 thatsfinal;60
 thatsgenius;60
 thatsgreat;60
@@ -44031,6 +44138,7 @@ thebestofbothworlds;60
 thebestpartofwakingup;60
 thebible;30
 thebigbang;40
+thebigdig;60
 thebigdipper;40
 thebiglie;50;From Hitler
 thebigmo;50;Big Momentum
@@ -44071,6 +44179,7 @@ thecatinthehat;60;Dr. Seuss book
 thecatinthehatcomesback;60;Dr. Seuss book
 thecensusbureau;30
 thechair;40;2021 Netflix series about university
+thechariot;60;Tarot card
 thecharlesriver;20
 thechase;40;1966 Brando-Redform film
 thecia;20
@@ -44109,6 +44218,7 @@ thede;40;Robin Thede, creator of "A Black Lady Sketch Show" on HBO
 thedeadsea;40
 thedeeps;50
 thedetails;40;2011 Tobey Maguire movie, no theatrical release
+thedevil;50;Tarot card
 thedew;1
 thedie;20
 thedisrespect;60
@@ -44127,6 +44237,7 @@ theeagles;50
 theeast;30
 theeconomist;50
 theemmys;40
+theemperor;60;Tarot card
 theepa;20
 theeu;20
 theeuro;20
@@ -44149,6 +44260,7 @@ thefineprint;50
 thefirstletters;1
 thefivews;50
 theflu;20
+thefool;60;Tarot card
 thefootbook;60;Dr. Seuss book
 theforeignlegion;30
 thefuries;50
@@ -44171,6 +44283,7 @@ thegreatoldones;60;Cthulhu, etc.
 thegreenarrow;40
 thegrownupsaretalking;60
 thehague;50
+thehangedman;60;Tarot card
 thehat;20
 thehavenots;60
 thehaves;60
@@ -44180,6 +44293,9 @@ theheat;40
 theheiress;40;1949 movie
 theheisman;30
 theherd;30
+thehermit;60;Tarot card
+thehierophant;60;Tarot card
+thehighpriestess;60;Tarot card
 thehobbit;50
 thehopi;30
 thehotcorner;50;???
@@ -44238,12 +44354,14 @@ thelordoftherings;50
 thelostbattalion;40
 thelouisianapurchase;20
 thelouvre;20
+thelovers;60;Tarot card
 theluckofthedraw;50
 theluckoftheirish;50
 theluckotheirish;20
 theluxor;40
 thelynx;30;Minnesota WNBA team
 themagi;30
+themagician;60;Tarot card
 themainact;40
 themajors;30
 themambo;30
@@ -44275,6 +44393,7 @@ themole;50;TV show
 themonalisa;40
 themongols;20
 themonitor;40;???
+themoon;50;Tarot card
 themoors;50
 themoptops;40;???
 themotherofalldemos;60
@@ -44456,6 +44575,7 @@ thesplits;30
 thestairs;20
 thestand;50
 thestanleycup;20
+thestar;50;Tarot card
 thestarspangledbanner;50
 thesteroidera;20;Why "the"?
 thesticks;60
@@ -44463,6 +44583,7 @@ thestilt;50;Wilt Chamberlain's nickname
 thestoneage;40
 thestones;50
 thesuezcanal;40
+thesun;50;Tarot card
 thesuzukimethod;40
 thetab;20
 thetable;20
@@ -44503,6 +44624,7 @@ thetoreadorsong;20
 thetorontostar;20
 thetourdefrance;20
 thetowel;50
+thetower;60;Tarot card
 thetowerbridge;20
 thetowerofbabel;20
 thetowerofhanoi;20
@@ -44610,6 +44732,7 @@ thiouracil;40;???
 thirdbase;50
 thirdeye;60
 thirdlaw;50
+thirdlittlepig;60
 thirdpunicwar;50
 thirdrail;50
 thirdrails;50
@@ -44711,6 +44834,10 @@ thrillride;60
 thrillrides;60
 thrillseeking;60
 thrillseekingbehavior;60
+thrivedon;40
+thriveon;40
+thriveson;40
+thrivingon;40
 throe;40;Usually plural
 throwdarts;50
 throwforaloop;60
@@ -44901,11 +45028,15 @@ tiler;40
 tilers;40
 tilery;30
 tilsit;30;Swiss cheese
+tiltat;40
+tiltedat;40
 tilter;40
 tilters;40
 tilth;20
 tilths;20
+tiltingat;40
 tilton;20
+tiltsat;40
 tim;50
 timbernerslee;50
 time;50
@@ -48226,6 +48357,7 @@ wentallin;50
 wentallout;50
 wentas;40
 wentastray;50
+wentawry;50
 wentbackto;40
 wentbig;50
 wentblank;50
