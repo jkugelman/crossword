@@ -503,9 +503,9 @@ acunits;40
 acup;40
 acupbra;20
 acups;40
-acuter;40
+acuter;40;More acute is significantly more common
 acutes;30
-acutest;40
+acutest;40;Most acute is significantly more common
 acv;20
 acyrologia;20;Malapropism
 ad;50
@@ -5013,6 +5013,7 @@ blazonry;40
 bldg;30
 bleachblonde;60
 bleachblondes;50
+bleah;40
 blear;40
 bleared;40
 blearier;50
@@ -5861,6 +5862,7 @@ broodmare;50
 broodmares;50
 brooklet;40;Small brook
 brooklets;40
+broseph;60
 brotherinlaw;50
 brotherrat;50
 brothersinlaw;50
@@ -9211,6 +9213,7 @@ cramin;40
 crammedin;40
 crammingin;40
 cramsin;40
+cran;40
 cranedonesneck;50
 craneonesneck;50
 craner;30
@@ -11857,6 +11860,7 @@ dreamtheater;60
 dreamtof;40
 drebin;50
 dreck;50
+dred;40
 dreday;50;Dr. Dre song
 dressas;40
 dressedas;40
@@ -11937,15 +11941,18 @@ drippots;50
 driveat;40
 drivebelt;50
 drivebelts;50
+drivein;40
 drivered;30
 driversed;50
 drivesat;40
 driveshaft;50
 driveshafts;50
+drivesin;40
 drivetrain;50
 drivetrains;50
 drivingat;40
 drivingdistance;50
+drivingin;40
 drivinginstructor;50
 drivinginstructors;50
 drivingwhileblack;60
@@ -12007,6 +12014,7 @@ droptrou;50
 drosera;20;Sundew genus
 drosophila;30;Fruit fly genus (sounds familiar???)
 droveat;40
+drovein;40
 droz;50
 drozshow;50
 drphil;50
@@ -12615,6 +12623,7 @@ edm;20
 edmeese;30;A.G. under Reagan, not very notable
 edmontonalberta;30;???
 edmundi;30
+ednamillay;50;???
 edo;40;Tokyo, formerly
 edocastle;50
 edomite;30
@@ -12819,6 +12828,8 @@ ekedby;40
 ekesby;40
 ekg;40
 ekingby;40
+ekistic;30
+ekistics;30;Science of human settlements
 eku;20
 el;40
 ela;20
@@ -13515,6 +13526,7 @@ eradiates;30;Radiates
 eradiating;30;Radiating
 erasable;40
 erasmian;30;Follower of Erasmus
+erasmus;40;Dutch theologian
 erasures;40
 erat;40
 erato;40
@@ -13966,7 +13978,10 @@ everytomdickandharry;60
 evictor;30
 evie;40
 evildead;60
+eviler;40;It's more evil
+evilest;40
 evileyes;30
+eviller;30;It's more evil
 evillest;30
 evilomen;60
 evilomens;60
@@ -15924,7 +15939,7 @@ futzingaround;50
 fuze;40;Iced tea brand
 fwd;50
 fwiw;40
-fyi;50
+fyi;40
 fzero;30
 g;1
 gab;50
@@ -20016,6 +20031,7 @@ ideated;40
 ideates;40
 ideating;40
 ideation;50
+ideational;40
 ideative;40
 ided;40
 idee;40
@@ -22130,6 +22146,8 @@ judastree;50
 judeo;40
 judeochristian;50
 judgejuryandexecutioner;60
+judgement;40;UK spelling
+judgements;40
 judges;50
 judgmentcall;50
 judgmentcalls;50
@@ -24188,6 +24206,8 @@ lineament;40;Distinctive facial feature
 lineaments;40
 linebacker;50
 linebackers;50
+linecut;40;Black and white engraving
+linecuts;40
 linedance;50
 linedanced;50
 linedancer;50
@@ -29404,6 +29424,8 @@ odorizes;40
 odorizing;40
 odorous;40
 odoul;40;Baseball's Lefty O'Doul
+odour;40
+odours;40
 odowd;40;Comedian Chris O'Dowd
 ods;5
 odson;5
@@ -30417,6 +30439,7 @@ orecar;30
 orecars;30
 orecart;30
 orecarts;30
+oreck;40;Vacuum brand
 oree;20;First black player in the NHL
 oreganos;30
 oreida;40
@@ -30666,6 +30689,7 @@ otologists;40
 otology;40;Ear medicine
 otomi;20;Mexican people
 otomis;20;Mexican people
+otooles;30;Plural name
 otra;40
 otranto;20
 otravez;30
@@ -31291,6 +31315,7 @@ parma;40;Cheese city
 parole;50
 paroles;50
 parotid;20;Gland
+parr;40
 parrakeet;20
 parrakeets;20
 parris;50;Parris Island, Marine Corps training site
@@ -33566,6 +33591,8 @@ probables;40
 proball;50
 probationer;30
 probationers;30
+prober;40
+probers;40
 probie;30
 probono;50
 probonoattorney;50
@@ -37345,6 +37372,8 @@ salumerias;30;Italian delis
 salutatorian;50
 salutatorians;50
 saluto;40;Italian greeting
+salver;40;Silver tray
+salvers;40
 sam;50
 samadams;50
 samaria;40;Region of Israel
@@ -40572,6 +40601,7 @@ sorespots;50
 sorethroat;50
 soright;60
 soror;30;Sorority sister
+sororal;40
 sororitypin;50
 sororitypins;50
 sorosis;20
@@ -42053,6 +42083,7 @@ stroker;30
 strokers;30
 strollby;50
 strollsby;50
+strom;40
 stroma;30;Botany word
 stromata;20
 strongarm;60
