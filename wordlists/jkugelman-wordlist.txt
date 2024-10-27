@@ -932,6 +932,8 @@ agonist;40
 agonists;40
 agonyof;1
 agoodbook;50;???
+agoodcause;50
+agoodscare;50
 agoodtime;40
 agora;40;Ancient Greek market
 agoras;40
@@ -6520,6 +6522,7 @@ cameclean;50
 camedowntoearth;60
 camefor;40
 camefrom;40
+camefullcircle;60
 cameinfirst;50
 cameinlast;50
 cameinto;40
@@ -7832,6 +7835,8 @@ choppeddown;50
 choppingdown;50
 chopra;40;Deepak Chopra, new age author
 chopsdown;50
+chopshop;60
+chopshops;60
 chordata;20;Animal phylum
 chordate;40;Phylum of animal
 chordates;40
@@ -8605,6 +8610,7 @@ comedyroast;50
 comedyroasts;50
 comefor;40
 comefrom;40
+comefullcircle;60
 comeinfirst;50
 comeinlast;50
 comeinto;40
@@ -8628,6 +8634,7 @@ comesclean;50
 comesdowntoearth;60
 comesfor;40
 comesfrom;40
+comesfullcircle;60
 comesinfirst;50
 comesinlast;50
 comesinto;40
@@ -8658,6 +8665,7 @@ comingclean;50
 comingdowntoearth;60
 comingfor;40
 comingfrom;40
+comingfullcircle;60
 cominginfirst;50
 cominginlast;50
 cominginto;40
@@ -11814,6 +11822,7 @@ doverightin;50
 dovetailjoint;50
 dovetailjoints;50
 dovey;40;Lovey-dovey
+dovish;40;Opposite of hawkish
 dow;40
 dowdy;50
 doweling;30
@@ -12969,6 +12978,7 @@ elba;40
 elbarto;30
 elbert;40;Mount Elbert, highest peak in the Rockies
 elberta;20
+elbrus;30;Mount Elbrus, highest mountain Russia/Europe
 elcamino;60
 elcapitan;50
 elcentro;30;???
@@ -17132,6 +17142,7 @@ goesforadip;50
 goesforajob;50
 goesforajog;50
 goesforarun;50
+goesfullcircle;40
 goesfulldiva;60
 goesgeneric;50
 goesgold;50
@@ -17185,6 +17196,7 @@ gofor;40
 goforadip;50
 goforajog;50
 goforarun;50
+gofullcircle;40
 gofulldiva;60
 gog;20
 gogeneric;50
@@ -17225,6 +17237,7 @@ goingfor;40
 goingforadip;50
 goingforajog;50
 goingforarun;50
+goingfullcircle;40
 goingfulldiva;60
 goinggeneric;50
 goinggold;40
@@ -20350,6 +20363,7 @@ igotnothing;60
 igotorio;40;Song
 igotoverit;60
 igottarun;60
+igotthat;60
 igotyou;60
 igs;20
 iguanodon;50
@@ -23335,6 +23349,7 @@ landline;50
 landlines;50
 landlockedwater;1
 landon;50
+landru;20
 landsharks;50
 landson;40
 landsup;40
@@ -23596,6 +23611,7 @@ lavage;30;Washing out of a body cavity, medical
 lavalier;30;Chained pendant
 lavaliere;30;Chained pendant
 lavalieres;30;Chained pendant
+lavash;40;Flatbread
 lave;30
 laver;30
 lavers;30
@@ -42256,6 +42272,7 @@ stopples;30
 stoppling;30
 stopsat;20
 stopsit;1
+stopthat;60
 storagemedia;50
 storagemedium;50
 storch;20
@@ -42734,8 +42751,13 @@ sumos;20;Bad plural
 sun;50
 sunak;40;UK Prime Minister Rishi Sunak 2022-24
 sunaloiroc;1
-sunbath;50
+sunbath;40
+sunbathe;60
+sunbathed;60
+sunbathes;60
+sunbathing;60
 sundance;50
+sundancefilmfestival;50
 sunderance;40
 sundown;50
 sunevfohtribeht;1
@@ -42744,6 +42766,7 @@ sunglasslens;50
 sungto;40
 suni;40;Gymnast Suni Lee
 sunimrosulp;1
+sunin;40;Sun In hair lightener
 sunlounge;40
 sunlounges;40
 sunnyskies;50
@@ -48311,7 +48334,9 @@ warroom;60;From Dr. Strangelove
 warrooms;50
 warship;50
 warships;50
+warsong;40
 warsong;50
+warsongs;40
 warsongs;50
 warstories;50
 warstory;50
@@ -48686,6 +48711,7 @@ wentfor;40
 wentforadip;50
 wentforajog;50
 wentforarun;50
+wentfullcircle;40
 wentfulldiva;60
 wentgeneric;50
 wentgold;50
@@ -48959,6 +48985,7 @@ whosis;20
 whosnext;50
 whossorrynow;60
 whosstoppingyou;60
+whosthis;50
 whosthis;60
 whoswho;60
 whowasit;60
@@ -49986,6 +50013,7 @@ yourejustsayingwhateveryonesthinking;60
 yourejustsayingwhatwereallthinking;60
 yourejustsayingwhatweveallbeenthinking;60
 yourekiddingright;60
+youremmmmmmgood;20;???
 yourenext;60
 yourenofun;60
 yourenohelp;60
