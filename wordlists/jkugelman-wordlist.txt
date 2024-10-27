@@ -18206,6 +18206,7 @@ hadit;40
 haditbad;50
 haditgood;50
 haditinfor;50
+haditmade;60
 hadlegs;50
 hadmore;40
 hadnolife;50
@@ -18548,6 +18549,7 @@ hasit;40
 hasitbad;50
 hasitgood;50
 hasitinfor;50
+hasitmade;60
 haslegs;50
 hasmore;40
 hasnard;30;Transcripts of British parliamentary debates
@@ -18639,7 +18641,7 @@ haveitbad;50
 haveitbothways;50
 haveitgood;50
 haveitinfor;50
-haveitmade;50
+haveitmade;60
 havelegs;50
 havemore;40
 havener;1
@@ -18669,6 +18671,7 @@ havingeyesfor;40
 havingfun;50
 havingheart;40
 havingitinfor;50
+havingitmade;60
 havingnolife;50
 havingnoshot;50
 havingonetoomany;60
