@@ -811,7 +811,7 @@ afilists;40
 afinehowdoyoudo;60
 afl;20
 aflacduck;50
-aflat;50
+aflat;40
 aflatscale;40
 afoolandhismoney;60
 afore;30
@@ -3616,6 +3616,7 @@ badland;50
 badlands;50
 badloan;20
 badminton;50
+badmoonrising;60
 badone;20
 badones;20
 badpatch;50
@@ -4665,7 +4666,7 @@ beyonce;60
 bfa;40
 bff;40
 bffs;40
-bflat;50
+bflat;40
 bflatscale;40
 bfs;20
 bgirl;40
@@ -5317,7 +5318,11 @@ bogart;60
 bogarted;60
 bogarting;60
 bogarts;60
+bogdown;50
+boggeddown;50
+boggingdown;50
 bogoak;40
+bogsdown;50
 bogstandard;60
 bohratom;50
 bohrmodel;50
@@ -7008,6 +7013,7 @@ casinocomp;50
 casinocomps;50
 casinogame;50
 casinogames;50
+casinoroyale;60
 casita;40
 casitas;40
 casque;30;Helmet
@@ -7655,6 +7661,7 @@ chestthumps;50
 chestxray;50
 chestxrays;50
 cheviot;20;Breed of sheep
+chevre;40;Chèvre, goat cheese
 chevron;50
 chewbacca;60
 chewedon;40
@@ -7892,6 +7899,7 @@ chuckitall;50;Quit
 chuckitallin;50
 chuckitin;50
 chucksinthediscardpile;50
+chumbawamba;60
 churchified;50
 churchifies;50
 churchify;50
@@ -8062,7 +8070,12 @@ classsecretaries;50
 classsecretary;50
 clastic;30;Rocks composed of broken pieces of older rocks
 claudedebussy;60
+clave;40;Rhythmic pattern
+claves;40;Percussion sticks
+clavin;40;Cliff Clavin from "Cheers"
 clawat;40
+clawcrane;60
+clawcranes;60
 clawedat;40
 clawfootbathtub;50
 clawfootbathtubs;50
@@ -8108,16 +8121,22 @@ clevel;50;C-suite
 clevelandoh;30
 cli;20
 clickedon;40
+clicketyclack;60
+clickfarm;60
+clickfarming;60
+clickfarms;60
 clickhere;60
 clickingon;40
 clickon;40
 clickson;40
 clickthebell;60
-clickthroughrate;50
-clickthroughrates;50
+clickthroughrate;60
+clickthroughrates;60
 clientlist;50
 clientlists;50
 cliffburton;60
+cliffhuxtable;40
+cliffsofinsanity;60
 clii;20
 cliii;20
 climatarian;50
@@ -8654,6 +8673,7 @@ cometotherescue;50
 comeunderattack;50
 comewhatmay;60
 comicalanderson;1
+comicbookart;60
 comicbookstore;50
 comicbookstores;50
 comida;40
@@ -9507,13 +9527,13 @@ crosse;30;La crosse stick
 crossedoffthelist;60
 crossedpartylines;60
 crossedt;50
-crossedthepicketline;50
+crossedthepicketline;60
 crossedts;50
 crosser;40
 crossers;40
 crossespartylines;60
 crossest;30
-crossesthepicketline;50
+crossesthepicketline;60
 crossfade;50
 crossfaded;50
 crossfader;50
@@ -9538,7 +9558,7 @@ crosshatched;50
 crosshatches;50
 crosshatching;50
 crossingpartylines;60
-crossingthepicketline;50
+crossingthepicketline;60
 crosslet;40;Small cross in heraldry
 crosslets;40
 crossmyhearthopetodie;60
@@ -9559,10 +9579,10 @@ crosssection;50
 crosssectioned;50
 crosssectioning;50
 crosssections;50
-crossthepicketline;50
+crossthepicketline;60
 crossword;60
 crosswordconstructor;50
-crosswordconstructors;50
+crosswordconstructors;60
 crosswords;60
 crosswordtok;20;???
 crouse;30;Actress Lindsay
@@ -9639,7 +9659,7 @@ cscales;30
 csection;50
 csforester;50
 cshaped;40
-csharp;50
+csharp;40
 csharps;40
 csharpscale;40
 csi;40
@@ -9799,6 +9819,7 @@ cutbothways;60
 cutclass;50
 cutco;30;Kitchen brand
 cutcorners;50
+cutdown;50
 cutdowntosize;60
 cutey;30
 cuteys;30
@@ -9814,12 +9835,15 @@ cutsarug;50
 cutsbothways;60
 cutscene;50
 cutscenes;50
+cutschool;50
 cutsclass;50
 cutscorners;50
+cutsdown;50
 cutsdowntosize;60
 cutsinon;40
 cutsnoice;40
 cutsonesteethon;60
+cutsschool;50
 cutstothebone;60
 cutstothequick;60
 cutthechitchat;60
@@ -9829,10 +9853,12 @@ cuttingarug;50
 cuttingbothways;60
 cuttingclass;50
 cuttingcorners;50
+cuttingdown;50
 cuttingdowntosize;60
 cuttinginon;40
 cuttingnoice;30
 cuttingonesteethon;60
+cuttingschool;50
 cuttingtothebone;60
 cuttingtothequick;60
 cuttothebone;60
@@ -10823,7 +10849,7 @@ dextrorotary;40
 dextrorotatory;40
 dey;40;Susan of "L.A. Law"
 dfc;20
-dflat;50
+dflat;40
 dfw;40;Dallas-Fort Worth
 dha;20
 dhabi;30
@@ -11735,6 +11761,7 @@ dories;30;Fishing boats
 dorislee;50
 dormer;40;Roof window
 dormers;40
+dornan;40;Jamie Dornan who played Christian Grey in "Fifty Shades of Grey"
 dorothea;30
 dorowat;30;Ethiopian chicken stew
 dorp;20;Village
@@ -12835,7 +12862,7 @@ efgh;20
 efghi;20
 efiler;50
 efilers;50
-eflat;50
+eflat;40
 eflatscale;40
 efs;20
 eft;30;Young newt
@@ -13489,6 +13516,7 @@ ensteeling;30
 ensteels;30
 ent;40
 enteral;30
+enteredin;40
 enteredinto;40
 enteredon;40
 enteredthepicture;60
@@ -13496,7 +13524,8 @@ enteredupon;40
 enterer;30
 enterers;30
 enteric;30;Relating to the intestines
-enterin;30
+enterin;40
+enteringin;40
 enteringinto;40
 enteringon;40
 enteringthepicture;60
@@ -13505,6 +13534,7 @@ enterinto;40
 enteron;40
 enterprisezone;50
 enterprisezones;50
+entersin;40
 entersinto;40
 enterson;40
 entersthepicture;60
@@ -13745,12 +13775,12 @@ erotomania;60
 err;50
 errantia;20;Worm subclass
 erratics;30
-erredonthesideofcaution;50
-erringonthesideofcaution;50
-erronthesideofcaution;50
+erredonthesideofcaution;60
+erringonthesideofcaution;60
+erronthesideofcaution;60
 errorpage;50
 errorpages;50
-errsonthesideofcaution;50
+errsonthesideofcaution;60
 ers;40
 ersatzes;40;Can be a noun, but...?
 erskine;30
@@ -14369,6 +14399,7 @@ fac;20
 facebookbuttons;50
 facedit;30
 facedtherap;20
+facedupto;40
 faceid;50
 faceit;60
 facemelting;60
@@ -14378,6 +14409,7 @@ facepaint;60
 facepainting;60
 facesit;30
 facestherap;20
+facesupto;40
 faceswap;60
 faceswapped;60
 faceswapping;60
@@ -14391,9 +14423,11 @@ facetime;50
 facetimed;50
 facetimes;50
 facetiming;50
+faceupto;40
 facingit;30
 facings;30
 facingtherap;20
+facingupto;40
 factis;60
 facto;40
 factsheet;50
@@ -14434,7 +14468,7 @@ failingat;40
 failsafe;50
 failsafes;50
 failsat;40
-failuretolaunch;50
+failuretolaunch;60
 fain;20
 fainer;20
 fainest;20
@@ -14470,8 +14504,8 @@ fallalloveroneself;50
 fallalloveroneselfapologizing;50
 fallbackplan;50
 fallbackplans;50
-fallbackposition;50
-fallbackpositions;50
+fallbackposition;60
+fallbackpositions;60
 fallbreak;50
 fallclassic;50
 fallclassics;50
@@ -14507,8 +14541,8 @@ fallstreak;50;
 fallstreakhole;50;Cloud phenomenon
 fallstreakholes;50
 fallto;40
-falseconfession;50
-falseconfessions;50
+falseconfession;60
+falseconfessions;60
 falseequivalence;50
 falseequivalency;50
 falseflag;60
@@ -15305,7 +15339,9 @@ flewakite;50
 flewat;40
 flewfirstclass;50
 flewin;40
+flewinto;40
 flewopen;50
+flewover;40
 flewthecoop;60
 flewto;40
 flex;50
@@ -15332,7 +15368,9 @@ fliesakite;50
 fliesat;40
 fliesfirstclass;50
 fliesin;40
+fliesinto;40
 fliesopen;50
+fliesover;40
 fliesthecoop;60
 fliesto;40
 flightrecorder;50
@@ -15480,14 +15518,18 @@ flyingakite;50
 flyingat;40
 flyingfirstclass;50
 flyingin;40
+flyinginto;40
 flyingopen;50
+flyingover;40
 flyings;30
 flyingto;40
 flyingv;60
 flyinthe;1
 flyintheface;20
+flyinto;40
 flymetothemoon;60
 flyopen;50
+flyover;50
 flyswatter;50
 flyswatters;50
 flythecoop;60
@@ -15631,7 +15673,7 @@ footsloggers;40
 fop;50
 for;50
 fora;40
-forallintentsandpurposes;50
+forallintentsandpurposes;60
 foraloss;40
 foramen;20;Body opening
 foramina;20;Body openings
@@ -15971,7 +16013,7 @@ fry;50
 frye;40;Comedian David Frye, or boot brand
 fscale;40
 fsh;20
-fsharp;50
+fsharp;40
 fsharpscale;40
 fstar;20
 fstars;20
@@ -16741,7 +16783,7 @@ getz;40
 gewgaw;40;Showy trinket
 gewgaws;40
 geysir;30;Iceland geyser
-gflat;50
+gflat;40
 gflatscale;40
 gforce;50
 gforces;50
@@ -17271,7 +17313,7 @@ goingsoft;50
 goingsolo;50
 goingsour;50
 goingstag;50
-goingthroughsomestuff;50
+goingthroughsomestuff;60
 goingto;40
 goingtoseed;50
 goinon;50
@@ -17708,7 +17750,7 @@ grandprix;50
 grandprize;50
 grandprizes;50
 grandrapidsmi;40
-grandreopening;50
+grandreopening;60
 grandreopenings;50
 grandtier;50
 grandtiers;50
@@ -17810,10 +17852,10 @@ greedisgood;60
 greedly;50;Hoggish Greedly, Captain planet baddie
 greekcross;50
 greekcrosses;50
-greekgod;50
-greekgoddess;50
-greekgoddesses;50
-greekgods;50
+greekgod;60
+greekgoddess;60
+greekgoddesses;60
+greekgods;60
 greekhero;50
 greekheroes;50
 greekisles;50
@@ -17922,8 +17964,8 @@ groper;5
 gropers;5
 gropesfor;40
 gropingfor;40
-grossmisdemeanor;50
-grossmisdemeanors;50
+grossmisdemeanor;60
+grossmisdemeanors;60
 grosso;40
 grosz;30;George Grosz, Dadaist
 grotesque;60
@@ -17964,7 +18006,7 @@ gryffindors;60
 gsa;20
 gscale;40
 gshaped;30
-gsharp;50
+gsharp;40
 gsharpscale;40
 gsn;40
 gso;20
@@ -18029,9 +18071,9 @@ guesstimating;60
 guestappearance;60
 guestappearances;60
 guestblog;50
-guestblogged;50
-guestblogger;50
-guestbloggers;50
+guestblogged;60
+guestblogger;60
+guestbloggers;60
 guestblogging;50
 guestblogs;50
 guestimate;20
@@ -18525,7 +18567,7 @@ hartfordct;30
 haruki;40
 harukimurakami;60
 harvardlaw;50
-harvardsquare;50
+harvardsquare;60
 harvestmoon;60
 harvestmoons;60
 harvests;50
@@ -19474,8 +19516,8 @@ holymackerel;60
 holyofholies;60
 holyroller;60
 holyrollers;60
-holyromanemperor;50
-holyromanemperors;50
+holyromanemperor;60
+holyromanemperors;60
 holyromanempire;60
 holyrood;40
 holysmoke;60
@@ -19510,10 +19552,10 @@ homepermanent;50
 homepermanents;50
 homeperms;50
 homeplate;50
-homeplateump;50
-homeplateumpire;50
-homeplateumpires;50
-homeplateumps;50
+homeplateump;60
+homeplateumpire;60
+homeplateumpires;60
+homeplateumps;60
 homerdome;50
 homeroom;50
 homerooms;50
@@ -19677,8 +19719,8 @@ horseplay;60
 horsepower;50
 horserace;50
 horseraces;50
-horseshoemagnet;50
-horseshoemagnets;50
+horseshoemagnet;60
+horseshoemagnets;60
 horsethief;60
 horsey;50
 horseys;50
@@ -20212,8 +20254,8 @@ ided;40
 idee;40
 idem;40;Ditto, in footnotes
 idemandarematch;60
-identicaltwin;50
-identicaltwins;50
+identicaltwin;60
+identicaltwins;60
 identified;50
 identifiedas;40
 identifies;50
@@ -20457,6 +20499,7 @@ illatease;50
 illbeamonkeysuncle;60
 illbebrief;60
 illbehere;60
+illbeintouch;60
 illbet;60;"Of course"
 illbethere;60
 illbite;60
@@ -20532,8 +20575,8 @@ imadam;20
 imafraid;50
 imagemaker;50
 imagemakers;50
-imaginarynumber;50
-imaginarynumbers;50
+imaginarynumber;60
+imaginarynumbers;60
 imagism;30;Poetry movement
 imagist;30
 imagists;30
@@ -20830,7 +20873,7 @@ inarmor;40
 inarug;40;Snug as a bug...
 inarush;50
 inashoe;20
-inasimilarvein;50
+inasimilarvein;60
 inasling;30
 inaslump;50
 inasnap;50
@@ -20867,6 +20910,7 @@ incaution;30
 incenses;30
 incent;30
 incept;30
+inception;60
 inceptive;30
 incest;5
 incestuous;30
@@ -21169,14 +21213,14 @@ instal;20
 instalment;20
 instalments;20
 instals;20
-instantcoffee;50
+instantcoffee;60
 instantcoffees;50
 instanticiclemaker;60;Acme invention
 instantkarma;60
 instantoatmeal;50
 instantramen;50
-instantreplay;50
-instantreplays;50
+instantreplay;60
+instantreplays;60
 instantroad;60;Acme invention
 instantsoup;50
 instanttan;50
@@ -21234,7 +21278,7 @@ internationalclownhalloffame;60
 internee;40
 internees;40
 interneteconomy;50
-internetmoviedatabase;50
+internetmoviedatabase;60
 internetsite;50
 internetsites;50
 internetsleuth;60
@@ -21307,7 +21351,7 @@ invacuo;30;In a vacuum
 invalidid;40;Green paint???
 invalidusername;50
 invalue;30
-invasivespecies;50
+invasivespecies;60
 inveigler;30
 inveiglers;30
 inventhim;60
@@ -21555,7 +21599,7 @@ isi;20;Partial [occasional]
 isidor;30;Nobel physicist Isidor Rabi, never used in Shortz era
 isidora;40;George Sand novel/title character
 isidore;30
-isidro;30
+isidro;40;San Isidro, Buenos Aires
 isin;25
 isinfor;20
 isinglikeifeel;60;Ella Fitzgerald quote
@@ -21931,7 +21975,7 @@ iwilleatyouforbreakfast;60
 iwillnot;50
 iwin;50
 iwishicouldsaythesame;60
-iwishyouthebest;50
+iwishyouthebest;60
 iwo;40
 iwojima;50
 iwokeuplikethis;60
@@ -21979,7 +22023,7 @@ jae;20
 jaffa;30;Israeli port mentioned in the Bible
 jag;50
 jager;50
-jaggedlittlepill;50
+jaggedlittlepill;60
 jaguarcub;50
 jaguarcubs;50
 jah;40;Rastafarian god
@@ -22145,7 +22189,8 @@ jellydonut;60
 jellydonuts;60
 jellydoughnut;60
 jellydoughnuts;60
-jellyfishbloom;50
+jellyfishbloom;60
+jellyfishblooms;60
 jem;40
 jemima;5
 jen;50
@@ -22225,7 +22270,7 @@ jimdandy;50
 jimirsay;40;Owner of the Indianpolis Colts
 jimmi;50
 jimthorpe;50
-jinglebellrock;50
+jinglebellrock;60
 jinglier;30
 jingliest;30
 jinglingjohnny;60;Percussion instrument
@@ -22847,7 +22892,7 @@ kinkshamed;60
 kinkshames;60
 kinkshaming;60
 kinkysex;60
-kinseyinstitute;50
+kinseyinstitute;60
 kinseyscale;60
 kiowa;30;Great Plains tribe
 kiowan;30
@@ -23125,6 +23170,7 @@ kuiperbelt;50
 kuiperbeltobject;50
 kuiperbeltobjects;50
 kum;20
+kumail;40;"Silicon Valley" actor Kumail Ali Nanjiani
 kumbaya;60
 kummels;30;Kummel's disease
 kung;40;Kung fu, kung pao
@@ -23364,7 +23410,7 @@ lankan;40
 lanker;40
 lansingmi;40
 lansingmichigan;30;???
-lanternfestival;50
+lanternfestival;60
 lanternjaw;50
 lanternjawed;50
 lanternjaws;50
@@ -23848,7 +23894,7 @@ leddisplays;50
 lederer;30
 ledin;40
 ledinto;40
-ledisi;40;One-named R&B/jazz singer
+ledisi;40;One-named R&B/jazz singer (2020 Grammy, acted in "Selma")
 leds;40
 ledto;40
 lee;50
@@ -25780,6 +25826,8 @@ malik;30;Zayn Malik, formerly of One Direction
 malison;20
 mallarme;40;Poet and critic Stéphane Mallarmé
 malle;30;Louis Malle, director of "My Dinner With Andre"
+malleoli;40
+malleolus;40;Ankle bump
 mallets;50
 mallrat;50
 mallrats;50
@@ -26820,7 +26868,7 @@ millay;40;Roaring Twenties poet Edna St. Vincent Millay
 mille;40
 millenniumprize;50
 millenniumprizeproblem;50
-millenniumprizeproblems;50
+millenniumprizeproblems;60
 milli;40
 millionthsplace;30
 milometer;30;???
@@ -28520,6 +28568,7 @@ nfluniform;30
 nfluniforms;30
 nft;40
 ngaio;40;Mystery writer Ngaio Marsh, one of the "Queens of Crime" along with Agatha Christie [common]
+ngerulmud;30;Capital of Palau
 ngl;30;Not used in NYT
 ngo;40
 ngos;40
@@ -29622,6 +29671,7 @@ odd;50
 oddball;50
 oddballs;50
 oddish;40;Somewhat odd
+oddisntit;60
 oddjob;60
 oddjobs;60
 oddmenout;50
@@ -29925,6 +29975,7 @@ oldcars;20
 olddebt;50
 olddebts;50
 olddogs;60
+oldeli;40;Nickname for Yale
 oldenburg;30;German city
 oldfart;60
 oldfogey;50
@@ -32611,6 +32662,7 @@ pilotstudy;50
 pils;40;Pilsner, for short [NYT debut in 2023]
 pilsner;50
 pilsners;50
+piltdown;50
 pim;20
 pimms;40;English liqueur brand
 pin;50
@@ -42332,6 +42384,7 @@ straitening;30
 straitens;30
 strake;20;Boat planking
 strakes;20
+strangeisntit;60
 strangeordeal;60
 strangequark;60
 strangequarks;60
@@ -43490,6 +43543,7 @@ talksat;40
 talksback;50
 talksbackto;40
 talksinto;50
+talksoon;60
 talksto;40
 talksupastorm;60
 talkto;40
@@ -45145,7 +45199,7 @@ throwinginthediscardpile;50
 throwingto;40
 throwingunderthebus;60
 throwinthediscardpile;50
-throwitinthediscardpile;50
+throwitinthediscardpile;60
 thrownforaloop;60
 throwninthediscardpile;50
 thrownunderthebus;60
@@ -46555,6 +46609,7 @@ tubetop;50
 tubetops;50
 tubful;30
 tuborg;30;Danish beer
+tubthumping;60
 tucket;20
 tuckets;20
 tucsonaz;30
@@ -48235,6 +48290,8 @@ walksouton;40
 walkswithpurpose;60
 walkwithpurpose;60
 walla;40
+wallah;30;Person who is associated with a particular work or who performs a specific duty or service
+wallahs;30
 wallbracket;50
 wallbrackets;50
 wallendas;50
@@ -48335,9 +48392,7 @@ warrooms;50
 warship;50
 warships;50
 warsong;40
-warsong;50
 warsongs;40
-warsongs;50
 warstories;50
 warstory;50
 warweary;50
@@ -48656,6 +48711,7 @@ weldingtorches;50
 weliveinasociety;60
 wellackshually;60
 wellactually;60
+wellbeintouch;60
 wellbequiet;60
 wellbred;50
 welldang;60
@@ -48985,7 +49041,6 @@ whosis;20
 whosnext;50
 whossorrynow;60
 whosstoppingyou;60
-whosthis;50
 whosthis;60
 whoswho;60
 whowasit;60
@@ -50087,6 +50142,8 @@ yuppies;50
 yuri;40;Yuri Gagarin, first man in space
 yurt;40
 yurts;40
+yusef;40
+yusuf;40
 yvettes;30
 yvie;40;Drag queen Yvie Oddly
 z;1
