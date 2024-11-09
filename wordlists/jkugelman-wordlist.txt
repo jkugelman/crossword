@@ -2853,6 +2853,7 @@ asl;40
 aslan;40;C.S. Lewis lion
 aslant;30
 aslarge;20
+asleepatthewheel;60
 asleepinthedeep;60
 asmara;20;Capital of Eritrea
 asmaran;20;From Asmara, Eritrea's capital
@@ -2909,6 +2910,8 @@ assaulter;40
 assaulters;40
 assayas;30;French director Olivier Assayas, seems respected, no movies I've heard of
 assbackwards;60
+asscrack;5
+asscrackofdawn;60
 assegai;20;Bantu spear
 assegais;20;Bantu spears
 assentedto;40
@@ -2950,6 +2953,10 @@ assistsin;40
 assistson;40
 assize;30;Sitting of a court of justice
 assizes;30
+asskicker;60
+asskickers;60
+asskicking;60
+asskickings;60
 asskisser;60
 asskissers;60
 asskissing;60
@@ -2975,6 +2982,7 @@ assumedownership;50
 assumeownership;50
 assumingownership;50
 assweet;30
+asswipe;5
 ast;20
 asta;30
 astana;20;Capital of Kazakhstan
@@ -3205,6 +3213,7 @@ attestor;30
 attestors;30
 atteststo;40
 attestto;40
+attheasscrackofdawn;60
 atthebat;30;Awkward
 attheendof;40
 atthehalf;50
@@ -3635,10 +3644,11 @@ badboy;60
 badboys;60
 badcold;50
 badcolds;50
+badcompany;50
 badcredit;50
 baddate;50
 baddates;50
-baddog;60
+baddog;50
 badegg;60
 badegree;40
 badegrees;40
@@ -3648,15 +3658,22 @@ badgercub;50
 badgercubs;50
 badhand;40
 badhands;40
+badimpression;50
+badimpressions;50
 badkisser;50
 badkissers;50
 badland;50
 badlands;50
-badloan;20
+badloan;30
+badloans;30
 badminton;50
 badmoonrising;60
+badmovie;40
+badmovies;40
 badone;20
 badones;20
+badonkadonk;60
+badonkadonks;60
 badpatch;50
 badpr;50
 badpress;50
@@ -5548,6 +5565,8 @@ bootee;40;Variant of bootie
 bootees;40
 bootingoff;50
 bootingout;50
+bootlegcopies;50
+bootlegcopy;50
 bootlick;60
 bootlicker;60
 bootlickers;60
@@ -11670,6 +11689,8 @@ dogponds;50
 dogrocket;60
 dogrun;50;Fenced-off area for a dog to run around
 dogruns;50
+dogshow;50
+dogshows;50
 dogsit;50
 dogsits;50
 dogsitter;50
@@ -11843,6 +11864,7 @@ donttestme;60
 dontwaitup;60
 dontwaitupforus;50
 dontworryaboutit;60
+dontworryicantakeit;60
 dontyoubelieveit;60
 dontyouremember;60
 dontyousee;60
@@ -15721,6 +15743,8 @@ flyswatter;50
 flyswatters;50
 flythecoop;60
 flyto;40
+flywheel;50
+flywheels;50
 fmajor;40
 fmdial;40
 fminor;40
@@ -15868,6 +15892,7 @@ footsloggers;40
 fop;50
 for;50
 fora;40
+forall;40
 forallintentsandpurposes;60
 foraloss;40
 foramen;20;Body opening
@@ -15895,6 +15920,8 @@ forestbath;50
 forestbathing;50
 forestbaths;50
 foretop;30
+foreverhome;60
+foreverhomes;60
 forex;50;Foreign exchange market
 forfunsies;60
 forgetisaidthat;60
@@ -15919,6 +15946,7 @@ formerlives;50
 formerpresident;50
 formers;30
 formic;40
+fornaught;50
 fornicate;50
 fornicated;50
 fornicates;50
@@ -15928,17 +15956,26 @@ foronething;60
 forreal;60
 forreals;60
 forrealsies;60
+forreasons;60
 forrestgump;50
 forrests;20
 fors;20
 forsalead;50
 forsaleads;50
+forsalesign;50
+forsalesigns;50
 forthefirsttime;50
 fortieth;40
 fortknox;50
+fortmchenry;50
 fortord;30;Closed US Army post
 fortsumter;50
+fortunehunter;60
+fortunehunters;60
 fortunemagazine;50
+fortuneteller;60
+fortunetellers;60
+fortunetelling;60
 fortworthtx;30
 fortylove;30
 fortyniner;50
@@ -16106,6 +16143,8 @@ frenchsilk;50
 frenchsudan;50
 frenchtwist;50
 frenchtwists;50
+frenchvanilla;50
+frenchvanillaicecream;50
 frequencyband;50
 frequencybands;50
 frere;40
@@ -17324,6 +17363,7 @@ goadon;20
 goadson;20
 goadstoaction;50
 goadtoaction;50
+goaheadicantakeit;60
 goalie;50
 goalies;50
 goallin;50
@@ -17683,6 +17723,8 @@ goodgracious;60
 goodgrief;60
 goodguess;60
 goodheavens;60
+goodimpression;50
+goodimpressions;50
 goodmorningtext;60
 goodnightmoon;60
 goodoh;20
@@ -18666,6 +18708,7 @@ handingto;40
 handitto;30
 handlebarmustache;50
 handlebarmustaches;50
+handm;30
 handmirror;50
 handmirrors;50
 handmodel;50
@@ -20019,7 +20062,11 @@ hotblooded;50
 hotbloodedness;50
 hotcakes;60
 hotcar;20;Green painty
+hotchili;50
+hotchilis;50
 hotcocoas;40
+hotcoffee;50
+hotcoffees;50
 hotdate;60
 hotdates;60
 hotdesk;60
@@ -20054,8 +20101,10 @@ hotlead;60;Bullets
 hotleads;50
 hoton;40
 hotontheheelsof;60
+hotpastrami;50
 hotpocket;50
 hotpockets;50
+hotpursuit;60
 hotsake;50
 hotsauce;50
 hotsauces;50
@@ -20071,7 +20120,7 @@ hotsyrup;50
 hottea;50
 hotteas;50
 hottemper;50
-hottempered;60
+hottempered;50
 hottempers;50
 hottoddies;50
 hottoddy;50
@@ -20374,6 +20423,7 @@ icanrelate;60
 icansee;50
 icanseeagain;50
 icanseebothsides;60
+icantakeit;60
 icantbebothered;60
 icantbelieveit;60
 icantbelieveitsactuallyhappening;60
@@ -20599,6 +20649,7 @@ idothat;60
 idotter;50
 idotters;50
 idoubtit;60
+idowhatican;60
 ids;40
 idtag;40
 idtags;40
@@ -25404,6 +25455,8 @@ lotsof;40
 lott;40
 lotte;40
 lotteryclaimant;1
+lotterywheel;50
+lotterywheels;50
 lottoball;50
 lottoballs;50
 lottowheel;50
@@ -31796,6 +31849,8 @@ padauk;20;African hardwood
 padawan;50
 paddedbra;50
 paddedbras;50
+paddlewheel;50
+paddlewheels;50
 padova;30;Italian city
 padre;40
 padthai;50
@@ -32506,6 +32561,10 @@ peekinginto;40
 peekinto;40
 peeksat;40
 peeksinto;40
+peeledrubber;60
+peelingrubber;60
+peelrubber;60
+peelsrubber;60
 peepat;40
 peepedat;40
 peepingat;40
@@ -33921,8 +33980,8 @@ popgun;50
 popguns;50
 pophit;50
 pophits;50
-popidol;60
-popidols;60
+popidol;50
+popidols;50
 popinamovie;50
 popinto;40
 poplartree;50
@@ -34005,6 +34064,8 @@ posteriority;30
 postingbond;50
 postitnote;50
 postitnotes;50
+postmastergeneral;50
+postmastersgeneral;50
 postoffice;50
 postsbond;50
 postwarera;50
@@ -34046,6 +34107,8 @@ potsmokers;50
 potsoftea;50
 pottedmeat;50
 pottermore;50
+potterywheel;50
+potterywheels;50
 pottle;20
 pottyhumor;60
 pottytrained;50
@@ -42158,6 +42221,10 @@ squashingabeef;60
 squashingbeefs;60
 squashingthebeef;60
 squashthebeef;60
+squealedlikeapig;60
+squealinglikeapig;60
+squeallikeapig;60
+squealslikeapig;60
 squeezy;30;Cramped
 squib;50
 squibs;50
@@ -43990,6 +44057,7 @@ takenadisliketo;50
 takenbystorm;60
 takeninvain;50
 takenote;60
+takenthewheel;50
 takento;40
 takentoitslogicalconclusion;60
 takentothegrave;50
@@ -44037,6 +44105,7 @@ takesthefall;60
 takesthel;60
 takestheoath;50
 takesthescenicroute;50
+takesthewheel;50
 takestime;50
 takesto;40
 takestothegrave;50
@@ -44047,6 +44116,7 @@ takethefall;60
 takethel;60
 taketheoath;50
 takethescenicroute;50
+takethewheel;50
 taketime;50
 taketo;40
 taketothegrave;50
@@ -44087,6 +44157,7 @@ takingthefall;60
 takingthel;60
 takingtheoath;50
 takingthescenicroute;50
+takingthewheel;50
 takingtime;50
 takingto;40
 takingtothegrave;50
@@ -46478,6 +46549,7 @@ tookthefall;60
 tookthel;60
 tooktheoath;50
 tookthescenicroute;50
+tookthewheel;50
 tooktime;50
 tookto;40
 tooktothegrave;50
@@ -49647,6 +49719,17 @@ wheaten;30;Containing wheat
 wheaties;50
 wheaton;50
 wheel;50
+wheelbearing;50
+wheelbearings;50
+wheeledin;40
+wheelin;40
+wheelingin;40
+wheelofcheese;50
+wheeloffortune;60
+wheelsin;40
+wheelsofcheese;50
+wheelwell;50
+wheelwells;50
 whelan;30
 whelm;30
 whelmed;30
