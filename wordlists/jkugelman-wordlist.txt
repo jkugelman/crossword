@@ -7432,6 +7432,7 @@ cellocase;50
 cellocases;50
 cellosolo;50
 cellosolos;50
+cellreception;50
 cellule;30
 celticharp;50
 celticharps;50
@@ -25353,6 +25354,7 @@ looseend;50
 looseends;50
 loosetea;50
 looseteas;50
+loosetile;20
 loosetongue;50
 loosetongued;50
 loosetongues;50
@@ -30793,6 +30795,7 @@ onemanoperations;50
 onemeg;20
 onemile;40
 onemoment;50;Words said with a finger raised
+onemonth;40
 onename;30
 onenight;30
 onenil;30
@@ -30827,7 +30830,7 @@ oneround;30
 oners;50
 onerun;30
 ones;50
-onescoop;30
+onescoop;40
 onese;20
 onesecond;50
 oneseed;50
@@ -30850,7 +30853,7 @@ onetaste;30
 oneten;20
 onetime;50
 onetogo;30
-oneton;30
+oneton;40
 onetoten;50
 onetotwo;20
 onetwo;40
@@ -30861,7 +30864,7 @@ onewatt;40
 onewoman;30
 onewood;40
 onfeed;40
-onfirst;50
+onfirst;40
 ongod;50
 onhard;1
 onhire;40;In service, British slang
@@ -43817,11 +43820,11 @@ swissbank;50
 swissbanks;50
 swissmadewatch;50
 swissmadewatches;50
-swissmiss;50
-swissroll;50
-swissrolls;50
-swisswatch;50
-swisswatches;50
+swissmiss;60
+swissroll;60
+swissrolls;60
+swisswatch;60
+swisswatches;60
 swit;30;Loretta Swit of "M.A.S.H."
 switchedto;40
 switchesto;40
@@ -47622,6 +47625,7 @@ twopartysystems;50
 twopence;30
 twopenny;40;In the dictionary
 tworow;20;Green paint
+twoscoops;40
 twoshakesofalambstail;60
 twosidesofthesamecoin;60
 twostep;50
@@ -50706,6 +50710,7 @@ yertletheturtleandotherstories;50;Dr. Seuss book
 yes;50
 yesand;60
 yesandno;60
+yesbabe;20
 yeschef;60
 yeslets;50
 yesm;40
