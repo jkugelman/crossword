@@ -1500,6 +1500,7 @@ alt;50
 alta;40
 altadena;20;L.A. neighborhood
 altai;30;Asian mountains
+altair;40
 altairiv;40;"Forbidden Planet" planet
 altais;30;Asian mountains
 alte;20
@@ -1569,6 +1570,9 @@ amanaplanacanal;60
 amanas;40
 amapola;20;1920 song, poppy in Spanish
 amarelle;30;Sour cherry
+amaretti;40;Cookies made with amaretto
+amaretto;50;Liqueur
+amarettos;40
 amarillotexas;50
 amarillotx;30
 amas;30
@@ -1721,6 +1725,8 @@ amonra;40
 amoo;20
 amor;40
 amore;40
+amoretto;30;Representation of Cupid in art, not to be confused with amaretto
+amorettos;30
 amorist;40
 amorists;40
 amorite;30
@@ -6874,6 +6880,8 @@ capslockon;50
 capstan;40;Multi-person rotating wheel on a ship used to haul ropes
 capstans;40
 capstone;50
+capstoneproject;50
+capstoneprojects;50
 capt;40
 captainbuzzkill;60
 captaineo;20
@@ -9666,7 +9674,7 @@ crossedts;50
 crosser;40
 crossers;40
 crossespartylines;60
-crossest;30
+crossest;40
 crossesthepicketline;60
 crossfade;50
 crossfaded;50
@@ -10376,6 +10384,7 @@ dback;40
 dbacks;40
 dbl;20
 dbs;20
+dcarea;30;Arbitrary
 dcc;20
 dccc;20
 dccci;20
@@ -13425,6 +13434,7 @@ emmynominee;50
 emmynominees;50
 emmys;50
 emo;50
+emohair;60
 emoji;60
 emojis;60
 emoney;30
@@ -21201,6 +21211,7 @@ inarightpickle;60
 inarmor;40
 inarug;40;Snug as a bug...
 inarush;50
+inashell;30
 inashoe;20
 inasimilarvein;60
 inasling;30
@@ -21209,17 +21220,25 @@ inasnap;50
 inasnare;30
 inasnarl;50
 inasnit;50
-inasweat;50
+inaspin;30
+inaspiral;40
+inastew;40
+inastir;40
+inasulk;30
+inasweat;40
+inaswoon;30
 inatin;20
 inatrap;30;Green paint [common]
 inatree;40
+inatrice;40
 inatrot;20
+inattentivepupils;20;Green paint???
 inatub;20
 inavacuum;50
 inayear;30
 inb;30;Key signature [occasional]
-inbasket;50
-inbaskets;50
+inbasket;40
+inbaskets;40
 inbed;50;Words to add to a fortune cookie fortune
 inbedwith;50
 inc;40
@@ -21786,6 +21805,7 @@ ipos;40
 ips;40
 ipso;40
 ipswich;40
+iq;50
 iqs;50
 iqscore;50
 iqscores;50
@@ -28627,7 +28647,7 @@ naw;50
 nawabs;30;???
 naxos;30;Greek island
 nay;50
-naya;30;Water brand
+naya;40;Naya Rivera from "Glee", or water brand
 nazca;30;Pre-Incan culture
 nazcalines;50;Peruvian desert phenomenon
 nazi;5
@@ -46625,6 +46645,7 @@ topicalsteroids;50
 topicsentence;50
 topicsentences;50
 toping;5;Drinking to excess
+topjob;40;Green paint?
 topkapi;30;1964 movie, or Istanbul palace
 topmarks;50
 topnotch;50
@@ -50543,6 +50564,11 @@ yabbering;30
 yabbers;30
 yabook;20
 yabooks;20
+yachtrock;60
+yachtrockband;60
+yachtrockbands;60
+yachtrocker;60
+yachtrockers;60
 yack;20;Yak: Var.
 yacked;20;Yakked: Var.
 yacking;20;Yakking: Var.
