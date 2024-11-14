@@ -3049,6 +3049,7 @@ atacost;40
 atad;40
 ataddry;20;Green paint
 atadesk;20
+atadoff;20
 atafeverpitch;60
 atahualpa;50
 atalanta;20
@@ -5843,6 +5844,7 @@ brasso;30;Metal polish
 brassring;50
 brassrings;50
 brasstacks;60
+bratsummer;60
 bravadoes;30
 braveman;40;Green paint???
 braveries;30
@@ -6601,6 +6603,7 @@ callstoarms;50
 callto;40
 calltoarms;50
 calmseas;50
+calomel;30;Old medicine
 calorniaraisins;1
 calque;50;Loan phrase
 calques;50;Loan phrases
@@ -8107,6 +8110,7 @@ ciroc;40;Vodka brand (popular and high quality)
 cirrhosis;30
 cirrhotic;30
 cirri;40
+cirro;30
 cirrose;30;Of or like cirrus clouds
 cis;50
 ciscoes;30
@@ -13434,6 +13438,7 @@ emmynominee;50
 emmynominees;50
 emmys;50
 emo;50
+emobangs;60
 emohair;60
 emoji;60
 emojis;60
@@ -15640,6 +15645,8 @@ floatriders;50
 floatsaway;50
 floatsonair;50
 floodstory;50
+floorer;40
+floorers;40
 floorleader;50
 floorleaders;50
 floormap;50
@@ -20507,6 +20514,7 @@ iceskatingrinks;50
 icetea;20
 ich;20
 ichat;30;Discontinued in 2012
+ichdien;30;Ich dien, "I serve", motto of the Prince of Wales
 icheated;50
 ichiro;40
 ichneumon;30;???
@@ -20605,6 +20613,8 @@ idiotlight;50
 idiotlights;50
 idk;40
 idknow;60
+idlabel;40
+idlabels;40
 idleaway;30
 idledaway;30
 idlegame;60
@@ -21175,6 +21185,7 @@ inacab;20
 inacast;40
 inadilemma;50
 inadillyofapickle;60
+inaflat;20
 inagalaxyfarfaraway;60
 inagoodway;50
 inahotminute;60
@@ -26282,7 +26293,7 @@ mame;40;Musical
 mamies;20;Plural name
 mammee;20;Tropical fruit tree
 mammies;20
-mammon;20;Biblical wealth
+mammon;30;Biblical wealth
 mammy;50;"Gone With the Wind" character
 mamo;20;Plant/bird
 mamselle;40;???
@@ -29424,6 +29435,7 @@ noises;50
 noisette;40;Lean cut of lamb
 noisettes;40
 noisome;50;Smelly (not noisy)
+nojeans;40
 nojustno;60
 nokia;50
 nokias;50
@@ -29965,6 +29977,7 @@ nymet;40
 nymets;40
 nyny;40
 nypd;40
+nyro;30;Songwriter Laura Nyro in the Rock and Roll Hall of Fame
 nys;20
 nyse;40
 nystate;40
@@ -37517,6 +37530,7 @@ rockptarmigans;40
 rockquarries;50
 rockquarry;50
 rocksout;60
+rockula;30;1990 B-movie
 rockwall;50
 rockwalls;50
 rockystart;50
@@ -37660,6 +37674,7 @@ romannumeral;50
 romannumeralone;20
 romannumerals;50
 romanruins;50
+romantasy;60
 romas;40
 romeitaly;50
 romeooromeo;50
@@ -37827,6 +37842,8 @@ roughoutlines;50
 roughshod;50
 roughsketch;50
 roughsketches;50
+rouleau;30;Packet of coins
+rouleaux;30
 roulettes;40;Tiny slits in a row of stamps, or Australian flying team
 roundel;30;Circular symbol in heraldry
 roundels;30
