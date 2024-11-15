@@ -798,6 +798,8 @@ affine;40
 affirmer;30
 affirmers;30
 affluents;30
+affordance;50
+affordances;50
 afforest;40
 afforestation;50
 afforested;50
@@ -2079,6 +2081,8 @@ antinomians;40
 antinomic;40
 antinomies;40;Bad plural???
 antioch;40;Ancient biblical city
+antipattern;60
+antipatterns;60
 antipiracy;50
 antipodean;40;Australian or New Zealander
 antipodeans;40
@@ -3065,6 +3069,7 @@ atar;20
 ataraxia;30
 ataricorp;50
 ataslant;30
+atastop;30
 atat;40
 atatrot;40
 ataxia;40
@@ -5548,6 +5553,7 @@ bookshop;50
 bookshops;50
 booksofmatches;50
 booksoncd;40
+booktok;60
 bookworm;60
 bookworms;60
 boola;20;Part of a Yale cheer
@@ -9016,6 +9022,7 @@ contrails;60
 contrarieties;30
 contrariety;30
 conus;40
+conveniencesampling;60
 conversionratio;50
 convy;30;Game show host Bert Convy
 cony;20;Variant of coney, rabbit fur
@@ -9110,6 +9117,10 @@ copsaplea;50
 copshow;50
 copshows;50
 copsto;40
+coptic;30
+copticchurch;40;???
+copticperiod;40;???
+coptics;30
 copto;40
 copulative;40
 copypasta;60
@@ -10254,6 +10265,8 @@ darkle;30
 darkled;30
 darkles;30
 darkmoney;60
+darkpattern;60
+darkpatterns;60
 darkside;60
 darksideofthemoon;60
 darksouls;60
@@ -10717,6 +10730,7 @@ dejure;50
 dekalb;30;???
 dekaliter;20
 dekaliters;20
+deklerk;40
 del;40
 delacorte;40;Central Park theater that hosts Shakespeare in the Park
 delanoroosevelt;1
@@ -12260,6 +12274,7 @@ drinkto;40
 drinktoexcess;5
 drippot;50
 drippots;50
+drippricing;60
 driveat;40
 drivebelt;50
 drivebelts;50
@@ -12600,8 +12615,10 @@ dyer;30
 dyingto;40;"Heck yeah"
 dyke;5;Dick Van Dyke
 dykes;5
+dykstra;40
 dynamicduo;60
 dynamicduos;50
+dynamicpricing;60
 dynamicrange;50
 dys;20
 dyspnea;30;Shortness of breath
@@ -13292,6 +13309,7 @@ eljames;50
 elk;50
 elkcalf;50
 elkcalves;50
+elkhart;40;???
 elkormoose;1
 elkslodge;50
 ell;30;L [common]
@@ -14331,6 +14349,7 @@ evensplits;50
 eventplanner;50
 eventplanners;50
 everage;40;Dame Edna Everage
+everheardofit;60
 evermore;60
 everready;50
 evers;50
@@ -16567,11 +16586,24 @@ garza;30
 gas;50
 gasbag;60
 gasbags;60
+gasbubble;50
+gasbubbles;50
+gaschamber;50
+gaschambers;50
 gascon;20
 gasfield;50
 gasfields;50
+gasfire;50
+gasfires;50
+gasgauge;50
+gasgauges;50
 gasgiant;50
 gasgiants;50
+gasheat;50
+gasheated;50
+gasheater;50
+gasheaters;50
+gasheating;50
 gashog;60
 gashogs;60
 gasjet;50
@@ -16596,6 +16628,9 @@ gasolinepumps;50
 gasparddelanuit;60;Famously difficult Ravel piano suite
 gasper;30
 gaspers;30
+gasplanet;60
+gasplanets;60
+gasrate;50
 gasrates;50
 gasser;40
 gassers;40
@@ -18344,6 +18379,7 @@ guerillas;20
 guerillawarfare;20
 guerrilla;50
 guerrillas;50
+guerrillausability;60
 guerrillawarfare;60
 guess;50
 guessat;40
@@ -18669,6 +18705,7 @@ hallooed;40
 hallooing;40
 halloos;40
 hallowedground;60
+hallwaytesting;60
 halon;50;Fire suppressant
 halons;20
 hals;30
@@ -20495,8 +20532,8 @@ icemen;40;Old job, or the Jacksonville Icemen, minor league hockey team
 iceonfire;60;DiCaprio environmental documentary
 icepack;50
 icepacks;50
-iceplanet;50
-iceplanets;50
+iceplanet;60
+iceplanets;60
 icesaw;40
 icesaws;40
 icescraper;50
@@ -20738,6 +20775,7 @@ igorot;20;Filipino headhunter
 igorots;20;Filipino headhunters
 igotac;1
 igotcha;60
+igotchu;60
 igotchufam;60
 igotitmade;60
 igotnothing;60
@@ -21050,6 +21088,7 @@ imnotarobot;60;CAPTCHA checkbox
 imnotbuyingit;60
 imnotdead;60
 imnotdone;60
+imnotevenhere;60
 imnotgoingtoreadallthat;60
 imnotgonnareadallthat;60
 imnothavingit;60
@@ -32253,22 +32292,26 @@ passado;30;Fencing move
 passas;40
 passedas;40
 passedfor;40
+passedgas;40
 passedmuster;50
 passedoffas;40
 passedthebaton;50
 passedto;40
 passesas;40
 passesfor;40
+passesgas;40
 passesmuster;50
 passesoffas;40
 passesthebaton;50
 passesto;40
 passeul;30
 passfor;40
+passgas;40
 passing;50
 passingas;40
 passingfor;40
 passingfortwins;50
+passinggas;40
 passinginterest;50
 passinginterests;50
 passingmuster;50
@@ -34387,6 +34430,8 @@ prestirring;30
 prestirs;30
 pretaporter;50;Prêt-à-porter, ready-to-wear
 pretell;30;Foretell
+pretendimnothere;60
+pretendwerenothere;60
 preterit;20
 preterite;30
 pretest;30
@@ -39842,6 +39887,10 @@ sha;20
 shabti;20;Egyptian figurine
 shabtis;20;Egyptian figurines
 shadesof;20
+shadowban;60
+shadowbanned;60
+shadowbanning;60
+shadowbans;60
 shadowbox;50
 shadowboxed;50
 shadowboxer;50
@@ -41199,6 +41248,7 @@ snackedon;40
 snackingon;40
 snackmix;50
 snackmixes;50
+snackon;40
 snacksize;50
 snackson;40
 snaffle;30
@@ -48278,6 +48328,12 @@ urticaria;40;Hives
 uru;20
 us;50
 usa;50
+usabilityaudit;60
+usabilityauditing;60
+usabilityaudits;60
+usabilitytest;60
+usabilitytesting;60
+usabilitytests;60
 usableness;40
 usaf;40
 usafb;40
@@ -48325,6 +48381,10 @@ useindoorvoices;50
 uselessasascreendooronasubmarine;60
 useme;40
 useon;40
+userexperience;60
+userexperiencedesign;50
+userexperiencedesigner;50
+userexperiencedesigners;50
 userfriendly;60
 usesasbait;50
 usescaution;50
@@ -48466,6 +48526,9 @@ uvular;40
 uvulas;40
 uvw;20
 uwe;20
+uxdesign;50
+uxdesigner;50
+uxdesigners;50
 uxorial;20;Relating to a wife
 uxorious;30
 uzi;40
@@ -49643,6 +49706,7 @@ weregonnaeatyoualive;60
 weregonnaeatyouforbreakfast;60
 werenext;50
 werenotbuyingit;60
+werenotevenhere;60
 wereon;40
 wereonthesamewavelength;60
 wererich;60
@@ -50920,6 +50984,11 @@ yourenext;60
 yourenofun;60
 yourenohelp;60
 yourenotbuyingit;60
+yourenotkidding;60
+yourenotmytype;60
+yourenotserious;60
+yourenotsotough;60
+yourenotwrong;60
 youreokay;60
 youreon;60
 youreonlyoldonce;60;Dr. Seuss book
