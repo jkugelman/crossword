@@ -308,6 +308,10 @@ aceinthehole;60
 aceit;40
 acela;40
 acentric;30
+aceofclubs;50
+aceofdiamonds;50
+aceofhearts;50
+aceofspades;50
 acerb;40;Bitter or sharp, as in taste or speaking tone
 acerous;30;Having no horns
 acesatest;20;Green paint
@@ -2339,7 +2343,7 @@ aptto;40
 apu;50
 apusgov;30
 aqaba;40;Jordanian port
-aqi;50
+aqi;40
 aquacade;30
 aquacades;30
 aquacar;30
@@ -3466,6 +3470,7 @@ axmen;50
 axthrowing;50
 aya;20
 ayatollah;50
+ayatollahkhomeini;50
 aye;50
 ayearago;30
 ayeayesir;50
@@ -3890,6 +3895,7 @@ banzai;50
 banzais;40
 bao;40
 bap;20
+baphomet;50;Goat-headed occult deity
 baptistminister;50
 bar;50
 barak;40;Israeli PM Ehud Barak 1999-2001
@@ -4097,12 +4103,20 @@ batguano;60
 bathe;50
 bathed;50
 bathes;50
+bathometer;50;Device that measures water depth
+bathometers;50
 bathroomfixture;50
 bathroomslipper;50
 bathroomslippers;50
 bathset;50
 bathsets;50
 bathtoy;50
+bathymeter;50;Device that measures water depth
+bathymeters;50
+bathymetric;50
+bathymetricmap;50
+bathymetricmaps;50
+bathymetry;50;Measurement of water depth
 batik;30;Indonesian dyeing technique
 batiks;20;Indonesian cloths
 batin;40;As in baseball
@@ -5410,6 +5424,7 @@ bogarts;60
 bogdown;50
 boggeddown;50
 boggingdown;50
+bogo;40
 bogoak;40
 bogsdown;50
 bogstandard;60
@@ -5449,7 +5464,7 @@ bombsniffingdog;50
 bombsniffingdogs;50
 bombsquad;50
 bombsquads;50
-bomer;30;Matt Bomer of "Magic Mike"
+bomer;40;Matt Bomer of "Magic Mike"
 bon;40
 bonaire;40;Island off Venezuela, the B of ABC islands
 bonami;40;Cleaning brand
@@ -5881,6 +5896,8 @@ breakscharacter;50
 breakserve;50
 breaksloose;50
 breakupsex;60
+breanna;40;Breanna Stewart of the WNBA
+breannastewart;50;WNBA star
 breastofchicken;20
 breathingroom;50
 breathmint;50
@@ -6611,6 +6628,7 @@ callsto;40
 callstoarms;50
 callto;40
 calltoarms;50
+calmbeforethestorm;60
 calmseas;50
 calomel;30;Old medicine
 calorniaraisins;1
@@ -8472,6 +8490,7 @@ cobaltblue;50
 cobaltic;40
 cobblestone;50
 cobblestones;50
+cobolcomputerlanguage;20
 cobrapose;50
 cobweb;60
 cobwebs;60
@@ -12884,6 +12903,10 @@ echolocate;50
 echolocated;50
 echolocates;50
 echolocation;60
+echometer;40
+echometers;40
+echometric;40
+echometry;40;Measurement of echoes
 echopedal;50
 echopedals;50
 echos;40;Amazon speakers
@@ -13679,6 +13702,7 @@ enos;40;Grandson of Adam and Eve
 enote;20
 enotes;20
 enough;50
+enoughisenough;60
 enpassant;50
 enplane;50;Get on board
 enplaned;50
@@ -14260,6 +14284,7 @@ etoncollar;40
 etoncollars;40
 etonian;30;One from Eton College
 etosha;20;Park in Namibia
+etphonehome;60
 etrade;40
 etradebaby;30
 etrades;20
@@ -16176,6 +16201,10 @@ frenchlick;50
 frenchlit;50
 frenchmaid;50
 frenchmaids;50
+frenchomelet;50
+frenchomelets;50
+frenchomelette;50
+frenchomelettes;50
 frenchopen;50
 frenchopens;50
 frenchpoodle;50
@@ -18080,6 +18109,10 @@ grandprizes;50
 grandrapidsmi;40
 grandreopening;60
 grandreopenings;50
+grandslamhomer;50
+grandslamhomers;50
+grandslamhomerun;60
+grandslamhomeruns;60
 grandtier;50
 grandtiers;50
 grandtour;50
@@ -18384,6 +18417,10 @@ guardtowers;50
 guatemalabelize;1
 guavaseed;50
 guavaseeds;50
+gubernatorialelection;50
+gubernatorialelections;50
+gubernatorialrace;50
+gubernatorialraces;50
 guelphs;20
 guerilla;20;Variant spelling
 guerillas;20
@@ -19429,6 +19466,7 @@ herestomanymore;60
 hereto;30
 heretostay;60
 hereweare;60
+herewego;60
 herexcellency;50
 heritor;30
 heritors;30
@@ -19909,6 +19947,20 @@ homemadecookies;50
 homemovie;50
 homemovies;50
 homeo;40
+homeomorphic;50
+homeomorphism;50
+homeomorphous;50
+homeopath;50
+homeopathic;50
+homeopathically;50
+homeopathies;50
+homeopathist;50
+homeopathists;50
+homeopaths;50
+homeopathy;50
+homeostasis;50
+homeostatic;50
+homeostatically;50
 homeperm;50
 homepermanent;50
 homepermanents;50
@@ -22441,8 +22493,12 @@ jackhammer;60
 jackjohnson;50
 jackkennedy;50
 jacknicholson;50
+jackofclubs;50
 jackofcoins;60;Tarot card
 jackofcups;60;Tarot card
+jackofdiamonds;50
+jackofhearts;50
+jackofspades;50
 jackofswords;60;Tarot card
 jackofwands;60;Tarot card
 jackolantern;60
@@ -22635,6 +22691,7 @@ jenner;50
 jenners;50
 jennet;20;Small Spanish horse
 jennets;20;Small Spanish horses
+jennyslate;50;Actress/comedian
 jer;20
 jerboa;30;???
 jeri;40;Actress Jeri Ryan
@@ -23246,6 +23303,7 @@ khedive;20
 khesanh;30;Vietnamese battle
 khmer;40
 khmerempire;50
+khomeini;40
 khrushchev;50
 khufu;50;Pharaoh who commissioned the Great Pyramid of Giza
 khz;20
@@ -23328,9 +23386,12 @@ kingdavid;50
 kinginthecastle;60
 kingme;60
 kingofclay;60;Rafael Nadal
+kingofclubs;50
 kingofcoins;60;Tarot card
 kingofcups;60;Tarot card
+kingofdiamonds;50
 kingofhearts;50
+kingofspades;50
 kingofswords;60;Tarot card
 kingofwands;60;Tarot card
 kingrat;30;Unnoteworthy old movie
@@ -24344,9 +24405,10 @@ lebon;40;Simon of Duran Duran
 lecar;30
 lecars;30
 lech;5
+leche;40
 lecher;30
 lechers;30
-leches;30
+leches;40
 lechs;5
 leclerc;30
 leconte;30;French poet Leconte de Lisle
@@ -24950,6 +25012,7 @@ linden;30;Tree
 lindens;30;Trees
 lindentree;40
 lindentrees;40
+lindhome;40;Riki Lindhome
 lindros;30;Star hockey player Eric Lindros
 lindyhop;50
 lindyhopped;50
@@ -26088,6 +26151,7 @@ maharis;30;Old actor George Maharis
 mahatmas;40;Wise ones in India
 mahayanist;30;Type of Buddhist
 mahi;40
+mahomet;30;Play by Voltaire?
 mahres;20
 mai;40;___ tai
 maidenaunt;50
@@ -28280,6 +28344,8 @@ mughal;40;Ancient empire
 mugoftea;50
 mugsforthecamera;60
 mugsoftea;50
+mukluk;40;Eskimo boot
+mukluks;40
 mulatto;5
 mulattoes;5
 mulattos;5
@@ -34813,6 +34879,12 @@ psychiatrists;50
 psychical;40
 psychoactivesubstance;50
 psychoactivesubstances;50
+psychometric;50
+psychometrically;50
+psychometrician;50
+psychometricians;50
+psychometrics;50
+psychometry;50
 psychs;50
 psyduck;50;Pokeyman
 psyop;50
@@ -35170,10 +35242,13 @@ quatre;40;Four: Fr.
 quayage;30;Wharf fee
 que;40
 queene;20
+queenofclubs;50
 queenofcoins;60;Tarot card
 queenofcups;60;Tarot card
+queenofdiamonds;50
 queenofhearts;60
 queenofjazz;60
+queenofspades;50
 queenofswords;60;Tarot card
 queenofwands;60;Tarot card
 queenset;40;Bedroom set
@@ -37190,8 +37265,8 @@ rhodesian;40
 rhodolite;30
 rhodonite;30
 rhomb;20
-rhomeson;30
-rhomesons;30
+rhomeson;40
+rhomesons;40
 rhones;30;Some French wines
 rhos;40
 rhpositive;50
@@ -41591,6 +41666,7 @@ soitgoes;60
 soitseems;60
 soiwaslike;60
 soju;30;Korean liquor
+sokhumi;30;Georgian city (the country)
 sol;40
 sola;40
 solaced;30
@@ -43558,6 +43634,7 @@ suittoat;40
 suittoatee;40
 suitup;60
 sukarno;30;First president of Indonesia (one name)
+sukhumi;30;Georgian city (the country)
 sukiyakis;30;???
 sukkoth;30;Jewish holiday
 sul;20
@@ -44061,6 +44138,7 @@ tabouret;20
 tabourets;20
 tac;40
 tach;40
+tachometry;40
 tacitus;20;Roman historian
 tacket;20
 tackets;20
@@ -44954,6 +45032,10 @@ tennies;30;Tennis shoes???
 tennish;20
 tennispro;50
 tennispros;50
+tenofclubs;50
+tenofdiamonds;50
+tenofhearts;50
+tenofspades;50
 tenon;40;Mortise insert
 tenone;20;CB lingo
 tenoned;20
@@ -45158,6 +45240,7 @@ thalli;30;Plural of thallus
 thallus;30;Vegetative tissue
 thane;40
 thankgod;60
+thanku;40
 thanom;20;Thai P.M.
 thanto;1
 thanx;20
@@ -45245,6 +45328,10 @@ thd;20
 the;50
 thea;30
 theabsoluteunit;60
+theaceofclubs;40
+theaceofdiamonds;40
+theaceofhearts;40
+theaceofspades;40
 theaclu;20
 theact;40
 theadbiz;30
@@ -45283,6 +45370,7 @@ thebar;40
 thebarberofseville;50
 thebardofavon;40
 thebatpole;20
+thebattleofbunkerhill;50
 thebbc;20
 thebeard;60
 thebearerofbadnews;20
@@ -45324,6 +45412,7 @@ thebuddha;50
 thebulls;40
 thebutterbattlebook;60;Dr. Seuss book
 thecab;20
+thecalmbeforethestorm;60
 thecandyman;50
 thecapeman;40;Paul Simon musical flop
 thecapitol;40
@@ -45482,13 +45571,20 @@ theirs;30
 theisles;40;Nickname for the New York Islanders?
 theiss;30;Actress Brooke Theiss, not super notable
 theivyleague;40
+thejackofclubs;40
+thejackofdiamonds;40
+thejackofhearts;40
+thejackofspades;40
 thejob;40
 thejuice;40;O.J. Simpson
 thekeeblerelves;40
 thekeyofc;1
 thekeystonekops;20
 thekid;30
-thekingofhearts;20
+thekingofclubs;40
+thekingofdiamonds;40
+thekingofhearts;40
+thekingofspades;40
 thekingsstilts;60;Dr. Seuss book
 thekiss;50;Rodin sculpture
 thelakers;50
@@ -45640,6 +45736,10 @@ theprom;40;2020 movie with Meryl Streep, Nicole Kidman, and others
 thepru;40;Prudential Tower in Boston
 thepunicwars;40
 thepx;20
+thequeenofclubs;40
+thequeenofdiamonds;40
+thequeenofhearts;40
+thequeenofspades;40
 thequickerpickerupper;60
 therajah;30
 therake;20
@@ -47511,6 +47611,8 @@ tugson;40
 tui;20
 tuile;40;French pastry
 tuiles;40
+tuktuk;30;Indian taxi
+tuktuks;30
 tularemia;30;Rabbit fever
 tulipbed;50
 tulipbeds;50
@@ -49365,6 +49467,8 @@ waterbugs;50
 waterer;40
 waterers;40
 waterfiltration;50
+waterfronthome;50
+waterfronthomes;50
 watergate;50
 waterjetcutters;50
 waterloo;60
@@ -49841,7 +49945,9 @@ whatjusthappened;60
 whatnotevenathankyou;60
 whatscookinggoodlooking;60
 whatscookingoodlookin;60
-whatseemstobetheissue;50
+whatseemstobetheissue;60
+whatseemstobetheproblem;60
+whatsinitforme;60
 whatsshakinbacon;60
 whatsthat;60
 whatsthegoodword;60
@@ -49881,6 +49987,7 @@ whelming;30
 whelms;30
 when;50
 whendoesitend;60
+whenisenoughenough;60
 whenisit;50
 whentheshoefits;60
 whentheshoefitswearit;60
@@ -49911,12 +50018,16 @@ whiskystone;50
 whiskystones;50
 whisperjet;50
 whisperjets;50
+whiteasaghost;60
+whiteasasheet;50
 whitebelt;60
 whitebelts;60
 whitecow;30;???
 whitefang;50
 whitegold;50
 whitehouse;50
+whitehousebid;50
+whitehousebids;50
 whitehousestaff;50
 whitehousetours;50
 whitekey;50
@@ -49964,6 +50075,7 @@ whoopsie;60
 whoopsmybad;60
 whoopsmymistake;60
 whoredoms;5
+whosagoodboy;60
 whosasking;60
 whosgonnamakeme;60
 whosis;20
