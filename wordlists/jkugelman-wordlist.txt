@@ -4783,6 +4783,7 @@ bewrayed;20
 bewraying;20
 bewrays;20
 bey;20
+beyhive;60;Beyoncé fans
 beyonce;60
 bfa;40
 bff;40
@@ -6627,6 +6628,7 @@ calledfoulon;50
 calledin;40
 calledit;60
 calleditintheair;50
+calledon;40
 calledto;40
 callerid;50
 callfor;40
@@ -6641,6 +6643,7 @@ callingfor;40
 callingfoulon;50
 callingin;40
 callingitintheair;50
+callingon;40
 callingstation;60
 callingstations;60
 callingto;40
@@ -6650,6 +6653,7 @@ callitintheair;60
 calllog;50
 calllogs;50
 callme;50
+callon;40
 callsbackto;40
 callsbullshit;60
 callsbullshiton;60
@@ -6658,6 +6662,7 @@ callsfoulon;50
 callsignals;20
 callsin;40
 callsitintheair;50
+callson;40
 callsto;40
 callstoarms;50
 callto;40
@@ -9211,6 +9216,8 @@ cordcutter;60
 cordcutters;60
 cordcutting;60
 cordero;30;???
+corespondent;40;Person cited in a divorce case as having committed adultery with the respondent
+corespondents;40
 corevalue;50
 corevalues;50
 coreypavin;50;PGA golfer
@@ -13534,8 +13541,8 @@ emerse;20
 emersed;20
 emersion;20
 emersions;20
-emetic;30;Medicine which induces vomiting
-emetics;30;Medicines which induce vomiting
+emetic;40;Medicine which induces vomiting, e.g. ipecac
+emetics;30
 emeu;20
 emezi;40;LGBT novelist Akwaeke Emezi
 emf;20
@@ -14436,6 +14443,8 @@ evanesces;40
 evanescing;40
 evangel;30
 evangels;30
+evaporite;40;Mineral left after evaporation
+evaporites;40
 evariste;30;Mathematician Évariste Galois
 eve;50
 evel;50
@@ -14844,8 +14853,10 @@ fallclassic;50
 fallclassics;50
 fallcolor;50
 fallcolors;50
+fallin;50
 fallingalloveroneself;50
 fallingalloveroneselfapologizing;50
+fallingin;40
 fallinginto;40
 fallingon;40
 fallingoutoflove;50
@@ -14862,6 +14873,7 @@ falloutshelters;60
 fallsale;50
 fallsales;50
 fallshy;50
+fallsin;40
 fallsinto;40
 fallsoffthebone;60
 fallson;40
@@ -15212,6 +15224,7 @@ fellations;5
 fellatios;5
 fellie;20;Part of a wheel rim
 fellies;20;Parts of a wheel rim
+fellin;40
 fellinto;40
 felloe;20;Part of a wheel rim
 felloes;20;Parts of a wheel rim
@@ -15907,6 +15920,12 @@ foamfingers;60
 foamhand;60
 foamhands;60
 foamparties;60
+foamroll;60
+foamrolled;60
+foamroller;60
+foamrollers;60
+foamrolling;60
+foamrolls;60
 fob;50
 focusedinon;40
 focusedon;40
@@ -16181,6 +16200,8 @@ fracases;30
 fractal;50
 fractals;50
 frails;20
+fraise;30;Strawberry: Fr.
+fraises;30
 frak;30
 frakes;40;Jonathan Frakes from ST:TNG
 framegrab;50
@@ -17392,6 +17413,8 @@ gizmo;60
 gizmos;60
 glace;30;Candied
 glaces;30;French desserts
+gladiasked;60
+gladichecked;60
 gladiola;20
 gladiolus;20;Plant genus
 glads;40;Flowers
@@ -17408,10 +17431,10 @@ glamper;50
 glamping;60
 glamps;50
 glamrock;60
-glamrockband;50
-glamrockbands;50
-glamrocker;50
-glamrockers;50
+glamrockband;60
+glamrockbands;60
+glamrocker;60
+glamrockers;60
 glanceat;40
 glancedat;40
 glancesat;40
@@ -21645,6 +21668,7 @@ inglese;40;English, in Italian
 ingodwetrust;60
 ingoing;40
 ingres;30;Neoclassical painter Jean-Auguste-Dominique Ingres
+inhaul;40;Rope used to pull in a ship's sail
 inhd;40
 inheels;50
 inhere;40
@@ -23808,6 +23832,7 @@ kuiper;50;Kuiper belt
 kuiperbelt;50
 kuiperbeltobject;50
 kuiperbeltobjects;50
+kulik;30;Figure skater Ilia Kulik
 kum;20
 kumail;40;"Silicon Valley" actor Kumail Ali Nanjiani
 kumar;40
@@ -26773,6 +26798,7 @@ marten;40;Weasel-like animal
 martenfur;40
 martens;50
 marthe;20
+marti;40;Cuban revolutionary José Martí
 martialart;50
 martialarts;50
 martinaarroyo;30
@@ -31703,7 +31729,7 @@ osa;20
 osakan;40
 osakans;40
 osama;5
-oscale;40;Model railway scale 1:48
+oscale;30;Model railway scale 1:48
 oscar;50
 oscararias;40;President of Costa Rica, Nobel Peace Prize laureate
 oscarhost;50
@@ -32266,6 +32292,8 @@ palmhearts;50
 palmingoff;50
 palmistry;50
 palmoff;50
+palmreader;60
+palmreaders;60
 palmsoff;50
 palmyra;30;Ancient Syrian city
 palo;40
@@ -37811,6 +37839,7 @@ robbing;50
 robbingpetertopaypaul;60
 robby;50
 robertedwardlee;30;???
+robertelee;5
 robertfripp;50
 robertfrost;50
 roberti;30
@@ -39130,6 +39159,7 @@ scarify;40;Scar-ify, or frighten
 scarifying;50
 scarifyingly;50
 scarlatina;30;Scarlet fever
+scarleta;40;Scarlet A
 scarpa;20;Shoe, in Italian
 scarpia;30;Villain of the Puccini opera "Tosca"
 scarygood;60
@@ -40459,6 +40489,7 @@ shookon;40
 shoosin;20
 shootat;40
 shootblanks;50
+shootby;40
 shootcraps;50
 shootee;30
 shootees;30
@@ -40468,6 +40499,7 @@ shootfromthehip;60
 shoothoops;50
 shootingat;40
 shootingblanks;50
+shootingby;40
 shootingcraps;50
 shootinggallery;60
 shootinghoops;50
@@ -40480,6 +40512,7 @@ shootingstars;50
 shootpool;50
 shootsat;40
 shootsblanks;50
+shootsby;40
 shootscraps;50
 shootshoops;50
 shootskeet;50
@@ -40520,6 +40553,7 @@ shotat;40
 shotblanks;50
 shotblocker;50
 shotblockers;50
+shotby;40
 shotclock;50
 shotclocks;50
 shotcraps;50
@@ -46338,6 +46372,7 @@ threetime;30
 threnodes;40
 threnodies;40
 threnody;40;Hymn for the dead
+threonine;30;Essential amino acid
 threwdarts;50
 threwforaloop;60
 threwgames;20;???
@@ -46837,6 +46872,7 @@ togs;30
 togsout;30
 togup;30
 toheart;40
+toheel;40
 tohellandback;60
 toi;20
 toilat;40
@@ -47579,6 +47615,7 @@ trijet;30;Plane with three jet engines
 trijets;30
 trillin;30;Humorist Calvin Trillin
 trillo;30;???
+trilobate;30
 trilobe;40;???
 trilobed;30
 trimaran;30;Type of yacht
