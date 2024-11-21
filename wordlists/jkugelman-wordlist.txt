@@ -1854,6 +1854,9 @@ anchopepper;50
 anchopeppers;50
 anchopowder;50
 anchorageak;40
+anchorite;30;Religious hermit
+anchorites;30
+anchoritic;30
 anchorleg;50
 anchorlegs;50
 anchorman;50
@@ -2358,6 +2361,7 @@ aptitudetests;50
 apts;40
 aptto;40
 apu;50
+apulian;20
 apusgov;30
 aqaba;40;Jordanian port
 aqi;40
@@ -2439,6 +2443,7 @@ archeryclub;50
 archeryclubs;50
 archon;20;Athenian magistrate
 archons;20;Athenian magistrates
+archonship;30
 arco;40
 arconia;30;???
 arcsin;40
@@ -2572,6 +2577,7 @@ arkansan;40
 arkansans;40
 arkite;20;Biblical inhabitant
 arkites;20;Biblical inhabitants
+arlberg;30;Austrian mountain massif
 arledge;40;Roone Arledge, president of ABC Sports and ABC News in the 60s-90s
 arleen;50;Arleen Sorkin, voice of Harley Quinn
 arlenes;30
@@ -4128,6 +4134,8 @@ batguano;60
 bathe;50
 bathed;50
 bathes;50
+batholith;40;???
+batholiths;40
 bathometer;50;Device that measures water depth
 bathometers;50
 bathroomfixture;50
@@ -9372,6 +9380,7 @@ cotyledons;30
 couch;50
 couchfort;60
 couchforts;60
+couldbefun;60
 couldhebetheone;60
 coulditbetrue;60
 couldntstickaround;50
@@ -11121,8 +11130,8 @@ dhl;40
 dhole;20;Wild asian dog
 dhoti;40;Indian man's loose pants
 dhotis;40
-dhs;20
-dia;20
+dhs;40
+dia;40
 diabolique;60
 diadelosmuertos;60
 diadem;30;Crown
@@ -14061,6 +14070,7 @@ eritreans;40
 erivo;30;Actress Cynthia
 erl;20
 erle;30
+erlking;40
 erm;40
 erma;40
 ermine;40;Weasel
@@ -14404,6 +14414,8 @@ eunoyms;30
 eupassports;30
 euphemist;30
 euphemists;30
+euphonium;40;Tuba relative
+euphoniums;40
 euphorbia;20;Plant genus
 euphrates;50
 euphuism;30
@@ -18138,6 +18150,7 @@ gotugly;60
 gotupthecourage;50
 gotusedtoit;50
 gotwiththetimes;60
+gotye;40;"Somebody That I Used to Know" singer
 gounod;30;Film composer
 gourami;40;Aquarium fish
 gouramis;40
@@ -19517,6 +19530,8 @@ hematin;40;Iron pigment from blood
 hematinic;30;???
 heme;30;Blood pigment
 hemi;40
+hemiola;40;3:2 musical rhythm
+hemiolas;40
 hemis;20
 hemlock;50
 hemmer;30
@@ -19817,14 +19832,18 @@ hipflasks;50
 hipflexor;50
 hipflexors;50
 hiphop;60
-hiphopartist;50
-hiphopartists;50
+hiphopartist;60
+hiphopartists;60
+hiphopclub;60
+hiphopclubs;60
 hiphopculture;60
-hiphopduo;50
-hiphopduos;50
+hiphopduo;60
+hiphopduos;60
 hiphopgroup;60
 hiphopgroups;60
 hiphopmusic;60
+hiphoptrio;50
+hiphoptrios;50
 hippocket;50
 hippockets;50
 hippocrates;50
@@ -21506,6 +21525,7 @@ incestuous;30
 incestuously;30
 incharge;50
 inchnails;1
+inchoative;40;Type of verb
 incise;30
 incised;30
 incises;30
@@ -22338,6 +22358,7 @@ itbeatsthealternative;60
 itcantbethatbad;60
 itcanwait;60
 itcomesandgoes;50
+itcouldbefun;60
 itcracksmeup;60
 itd;50
 ite;20
@@ -23403,6 +23424,8 @@ keydets;30;VMI athletes
 keyedon;30
 keyfigure;60
 keyfigures;60
+keyholesaw;50
+keyholesaws;50
 keylargo;50
 keyless;50
 keylimepie;50
@@ -25315,6 +25338,7 @@ lither;50
 lithest;50
 lithic;30;Made of stone
 litho;30
+lithophyte;40;Plant that grows on bare rock
 litinto;50
 litmuspaper;60
 liton;30;Discovered by chance
@@ -28469,6 +28493,7 @@ muaddib;50
 muammar;40;Muammar Gaddafi
 muaythai;60
 muchas;40
+muchogusto;60
 muchos;40
 muchtomychagrin;60
 mud;50
@@ -28693,6 +28718,7 @@ nab;50
 nabbing;50
 naboo;40;Amidala's planet
 nabors;40;Jim Nabors who played Gomer Pyle
+nacholibre;60
 nachtmusik;50
 nacl;40
 nacre;40;Mother-of-pearl
@@ -30080,7 +30106,7 @@ noyes;40;Poet Alfred Noyes
 noyoudidnt;60
 noyouhangup;60
 noyourotherright;60
-npc;40
+npc;30;NYT debut
 npg;20
 npr;40
 nprnews;50
@@ -31006,6 +31032,7 @@ onatrip;40
 onavisa;40
 onavisit;30
 onawire;30
+onball;40
 onbeing;30
 onbeyondzebra;60;Dr. Seuss book
 onboard;50
@@ -31341,6 +31368,8 @@ oompahpahband;40
 oompahpahbands;40
 oompahpahs;40
 oompahs;40
+oomph;50
+oomphs;20
 oon;20
 oona;40
 oons;20
@@ -31717,7 +31746,9 @@ orsohelpme;60
 orsons;30
 ort;20
 ortho;40
+orthoclase;30;Type of rock
 orthoepist;30;???
+orthoptics;40
 ortolan;20;Bird
 ortolans;20
 oru;20
@@ -32500,6 +32531,7 @@ parseltongue;60
 parsi;30;Zoroastrian
 parsiism;40;Indian religion
 parsis;30;Zoroastrians
+parta;40
 partb;20;Medicare option
 partc;20;Medicare option
 partd;20;Medicare option
@@ -37072,6 +37104,10 @@ reshare;40
 reshared;40
 reshares;40
 resharing;40
+reshoulder;40
+reshouldered;40
+reshouldering;40
+reshoulders;40
 reshower;20
 reshowered;20
 reshowering;20
@@ -38472,6 +38508,8 @@ rushesat;40
 rushesto;40
 rushingat;40
 rushingto;40
+rushorder;60
+rushorders;60
 rushto;40
 rusk;30
 russel;20
@@ -41965,6 +42003,7 @@ solera;30;???
 solers;20
 soletssee;60
 soleus;30;Calf muscle
+solfa;40;Sol-fa, solfège
 soli;30
 solider;30
 solidfood;50
@@ -42551,6 +42590,7 @@ sportvu;30;Basketball camera tracking system
 sportyspice;60
 spotad;50
 spotads;50
+spotify;60
 spotmarket;50
 spotmarkets;50
 spotme;60
@@ -43894,7 +43934,7 @@ sullage;30
 sullener;30
 sulpha;20;Antibacterial
 sulusea;40
-sulwe;50;Children's book by Lupita Nyong'o about a girl who wishes for her dark skin to be lighter
+sulwe;40;Children's book by Lupita Nyong'o about a girl who wishes for her dark skin to be lighter
 sum;50
 summerbreeze;50
 summerbreezes;50
@@ -44389,6 +44429,8 @@ tabouret;20
 tabourets;20
 tac;40
 tach;40
+tachograph;40;Device that records driving time, speed, and distance
+tachographs;40
 tachometry;40
 tacitus;20;Roman historian
 tacket;20
@@ -44927,6 +44969,7 @@ taxdeed;50
 taxdeeds;50
 taxevader;30
 taxevaders;30
+taxholiday;60
 taxid;30
 taxidancer;50
 taxidancers;50
@@ -46630,6 +46673,7 @@ timetokill;20
 timetravelerswife;50
 timewarner;50
 timewarp;60
+timhortons;60
 timing;50
 timothee;50
 timothyolyphant;50
