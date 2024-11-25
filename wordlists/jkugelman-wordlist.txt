@@ -3041,7 +3041,7 @@ astense;1
 asterism;30
 astern;50
 astew;20
-asti;30;Wine region
+asti;40;Wine region
 astight;1
 astilbe;20;Flower genus
 asto;40
@@ -4394,6 +4394,8 @@ beatendown;50
 beatingadeadhorse;60
 beatingat;40
 beatingback;50
+beatlessong;20
+beatlessongs;20
 beatnik;60
 beatniks;60
 beatsadeadhorse;60
@@ -4404,6 +4406,7 @@ beatstheheckoutofme;60
 beatsthehelloutofme;60
 beatstime;1
 beatthat;60
+beattheheat;60
 beaugeste;50
 beaugestes;50
 beautytip;50
@@ -7829,6 +7832,7 @@ cheroot;40;Low cost cigar with both ends open
 cheroots;40
 cherrysoda;50
 cherrysodas;50
+cherrywood;50
 chess;50
 chesschamp;50
 chesschampion;50
@@ -9159,6 +9163,8 @@ coolmil;60
 coolmillion;60
 coolonesheels;60
 coolonesjets;60
+coolranch;60
+coolranchdoritos;60
 coolreception;50
 coolsto;40
 coolstorybro;60
@@ -9679,6 +9685,7 @@ crewel;20
 crewels;20
 crewelwork;30
 cri;20
+cria;20;Baby alpaca
 crib;50
 cribs;50
 criedoutto;40
@@ -10146,6 +10153,7 @@ cxvi;20
 cxx;20
 cya;40
 cyanate;40
+cyanides;40;Plural is weird but legit
 cyanobacteria;50
 cyanosed;30
 cyanosis;30;Skin discoloration
@@ -10444,6 +10452,8 @@ dater;30
 daters;30
 datesup;50
 dateup;50
+datingsite;60
+datingsites;60
 datingup;50
 datums;20
 dau;20
@@ -11464,6 +11474,8 @@ dirtylaundry;60
 dirtylinen;50
 dirtylinens;50
 dirtymind;60
+dirtypicture;50
+dirtypictures;50
 dirtyrice;50
 dis;40
 disambig;1
@@ -16188,7 +16200,8 @@ fosterage;40
 fostercare;50
 fosterdad;50
 fosterdads;50
-foto;30
+foto;40
+fotos;30
 fou;20
 foughtfor;40
 foulard;30;Lightweight fabric, or kerchief made from it
@@ -17080,6 +17093,7 @@ getawayvehicle;60
 getawordinedgewise;60
 getback;50
 getbeyond;30
+getbiblical;50
 getbig;40;Personal addition
 getbored;50
 getcanned;50
@@ -17087,6 +17101,7 @@ getchummy;50
 getchummywith;50
 getcomfy;50
 getcozy;50
+getcredit;50
 getcute;60
 getdark;30
 getdirton;50
@@ -17098,12 +17113,14 @@ gethitched;50
 gethsemane;50
 getideas;50
 getinabind;50
+getinapickle;50
 getinhere;60;"My office, now!"
 getinline;60
 getinonadeal;50
 getinto;40
 getintoarut;50
 getintoit;50
+getintrouble;50
 getitthroughyourhead;60
 getitthroughyourskull;60
 getitthroughyourthickhead;60
@@ -17122,6 +17139,7 @@ getonesgoat;60
 getonto;40
 getreal;60
 getrest;30
+getrevenge;50
 getrichordietrying;60
 getrichquick;60
 getrichquickscheme;60
@@ -17144,12 +17162,14 @@ getsat;40
 getsatip;50
 getsatoehold;60
 getsbeyond;30
+getsbiblical;50
 getsbig;40
 getsbored;50
 getscanned;50
 getschummy;50
 getschummywith;50
 getscozy;50
+getscredit;50
 getscute;60
 getsdark;30
 getsdirton;50
@@ -17157,10 +17177,12 @@ getsfat;5
 getshitched;50
 getsideas;50
 getsinabind;50
+getsinapickle;50
 getsinonadeal;50
 getsinto;40
 getsintoarut;50
 getsintoit;50
+getsintrouble;50
 getsloshed;50
 getslost;50
 getsmade;60
@@ -17177,6 +17199,7 @@ getspooked;50
 getsquiet;50
 getsready;50
 getsrest;30
+getsrevenge;50
 getsropedin;50
 getsropedinto;40
 getssloshed;50
@@ -17211,11 +17234,13 @@ gettingasay;50
 gettingat;40
 gettingatoehold;60
 gettingbeyond;30
+gettingbiblical;50
 gettingbig;40
 gettingbored;50
 gettingchummy;50
 gettingchummywith;50
 gettingcozy;50
+gettingcredit;50
 gettingcute;60
 gettingdark;30
 gettingdirton;50
@@ -17224,10 +17249,12 @@ gettingforasong;60
 gettinghitched;50
 gettingideas;50
 gettinginabind;50
+gettinginapickle;50
 gettinginonadeal;50
 gettinginto;40
 gettingintoarut;50
 gettingintoit;50
+gettingintrouble;50
 gettingmade;60
 gettingnaked;50
 gettingnear;40
@@ -17239,6 +17266,7 @@ gettingonto;40
 gettingquiet;50
 gettingready;50
 gettingrest;30
+gettingrevenge;50
 gettingropedin;50
 gettingropedinto;40
 gettingsloshed;50
@@ -17655,6 +17683,8 @@ godsend;60
 godsends;60
 godsgift;60
 godslaw;50
+godtier;60
+godunov;40
 godwinslaw;60
 godzillaxkong;60
 godzillaxkongthenewempire;50
@@ -18104,6 +18134,7 @@ gotat;40
 gotatip;50
 gotatoehold;60
 gotbeyond;30
+gotbiblical;50
 gotbig;40
 gotbored;50
 gotcanned;50
@@ -18113,6 +18144,7 @@ gotchummy;50
 gotchummywith;50
 gotcomfy;50
 gotcozy;50
+gotcredit;50
 gotcute;60
 gotdark;30
 gotdirton;50
@@ -18126,10 +18158,12 @@ gothicart;50
 gothitched;50
 gotideas;50
 gotinabind;50
+gotinapickle;50
 gotinonadeal;50
 gotinto;40
 gotintoarut;50
 gotintoit;50
+gotintrouble;50
 gotitmade;50
 gotlost;50
 gotmad;40
@@ -18157,6 +18191,7 @@ gotquiet;50
 gotready;50
 gotreal;60
 gotrest;40
+gotrevenge;50
 gotropedin;50
 gotropedinto;40
 gotsloshed;50
@@ -20373,6 +20408,8 @@ hotelbar;50
 hotelbars;50
 hotelsafe;50
 hotelsafes;50
+hotelvisitor;50
+hotelvisitors;50
 hotfooted;50
 hotfootedit;60
 hotfooting;50
@@ -20383,6 +20420,7 @@ hotfootsit;60
 hotfuzz;60
 hotgarbage;60
 hotgoss;60;Hot gossip
+hoth;40
 hothead;60
 hotheaded;60
 hotheadedly;50
@@ -20393,7 +20431,9 @@ hotlanta;60
 hotlava;50
 hotlead;60;Bullets
 hotleads;50
+hotlinemiami;60
 hoton;40
+hotontheheels;50
 hotontheheelsof;60
 hotpastrami;50
 hotpocket;60
@@ -23539,6 +23579,7 @@ kidnaper;20
 kidnapers;20
 kidneydonor;50
 kidneydonors;50
+kidseatfree;60
 kidsister;50
 kidsisters;50
 kievan;40;Resident of Kyiv
@@ -26669,6 +26710,7 @@ mangochutney;50
 mangojam;50
 manias;40;Bad plural
 manicpixiedreamgirl;60;Trope
+manillas;40;???
 manioc;20;Cassava
 maniple;20
 mank;50;David Fincher movie
@@ -27719,6 +27761,8 @@ minifridges;50
 minigolf;50
 minigolfcourse;50
 minigolfcourses;50
+minilot;40;???
+minilots;40;???
 minim;40;Something tiny, or half note: Br.
 minimalist;50
 minimalistart;50
@@ -33526,6 +33570,7 @@ piconets;40
 pict;30
 pictionary;50
 pictish;20;Extinct Brittonic language
+pictureit;60
 picturemagazine;20
 pictureofhealth;60
 picturepostcard;60
@@ -35322,6 +35367,7 @@ purpledye;20;Green paint, right???
 purpledyes;20
 purplegallinule;50;Bird that Matthew Stock likes
 purplegallinules;50
+purplenurple;60;Cocktail, or nipple twist
 purplerain;60
 purples;40
 purrer;40
@@ -45625,6 +45671,7 @@ thatsagiven;60
 thatsaid;60
 thatsakeeper;60
 thatsalie;60
+thatsamore;60
 thatsanonstarter;60
 thatsarealstretch;60
 thatsarightpickle;60
@@ -48232,6 +48279,7 @@ twoem;20
 twoiron;40
 twoirons;40
 twolf;20;Minnesota basketball player?
+twolllama;40
 twolves;20;Minnesota basketball player?
 twoness;20
 twoon;30
@@ -48244,6 +48292,8 @@ tworow;20;Green paint
 twoscoops;40
 twoshakesofalambstail;60
 twosidesofthesamecoin;60
+twostatesolution;50
+twostatesolutions;50
 twostep;50
 twosteps;50
 twosugars;40
@@ -51631,6 +51681,7 @@ zac;50
 zack;50
 zag;50
 zagatrated;50
+zahn;40
 zak;40;Ringo's son
 zakk;40;Zakk Wylde?
 zale;40;Zale Corporation aka Zales
@@ -51640,6 +51691,8 @@ zamfir;50
 zanuck;30;Old Hollywood producer
 zap;50
 zapateo;40;Flamenco dance
+zapf;30;Zapf Dingbats font
+zapfdingbats;40
 zaphod;40;Zaphod Beeblebrox
 zaphodbeeblebrox;60
 zappas;40
