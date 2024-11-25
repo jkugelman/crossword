@@ -861,6 +861,7 @@ aftermath;50
 aftermaths;50
 afternoonnap;50
 afternoonnaps;50
+afteronesownheart;60
 afterparties;50
 afterparty;50
 afters;30
@@ -1366,6 +1367,7 @@ allaboard;60
 allages;50
 allalongthewatchtower;60
 allamericanmeal;30
+allandsundry;60
 allargando;40
 allatingle;50
 allayer;30
@@ -1374,6 +1376,7 @@ allbangersnoskips;60
 allbark;60
 allbarkandnobite;60
 allbarknobite;60
+allbetsareoff;60
 allbetter;60
 allears;50
 allegement;40
@@ -1389,6 +1392,7 @@ alley;50
 alleycat;50
 alleycats;50
 alleyes;50
+alleyesandears;60
 allez;30
 allflashnocash;60
 allforfree;50
@@ -1428,6 +1432,7 @@ alls;40
 allsalesarefinal;60
 allsalesfinal;60
 allsewnup;50
+allsizzleandnosteak;60
 allsizzlenosteak;60
 allsoulscollege;50
 allstar;60
@@ -1438,6 +1443,8 @@ alltel;40;Defunct telecom company
 allthat;60
 allthatandabagofchips;60
 alltherage;60
+allthetrimmings;60
+allthingstoallpeople;60
 alltogethernow;50
 alltooeasy;60
 alltooreal;60
@@ -1873,6 +1880,7 @@ andaman;30;Indian islands
 andanotherthing;60
 andantes;30
 andco;40
+andcounting;60
 andforthatreasonimout;60
 andgo;20
 andherestoyoumrsrobinson;60
@@ -1910,6 +1918,7 @@ anemias;30
 anenigma;1
 aneroid;40;Type of barometer
 anewleaf;50
+aneyeforaneyeatoothforatooth;60
 ang;40
 angaria;20;Maritime law word
 angelfood;50
@@ -2063,15 +2072,19 @@ anselmo;40;Various, including Phil Anselmo of Pantera
 ansonia;30;Luxurious, or Connecticut city
 anspach;40;Actress Susan Anspach of "Five Easy Pieces"
 ansu;20
+answeredthecallofnature;60
 answeredthedoor;50
 answeredto;40
 answerer;40
 answerers;40
+answeringthecallofnature;60
 answeringto;40
 answerkey;50
 answerkeys;50
 answerme;60
+answersthecallofnature;60
 answersto;40
+answerthecallofnature;60
 answerto;40
 ant;50
 antae;20
@@ -3222,6 +3235,7 @@ atonesdoor;1
 atonies;20
 atonof;40
 atony;20
+atoothforatooth;60
 atossa;20;Mother of Xerxes
 atoz;40
 atp;20
@@ -5852,6 +5866,7 @@ boyscouts;50
 boyscouttroop;50
 boyscouttroops;50
 boysinblue;60
+boyswillbeboys;60
 boytoy;60
 boytoys;60
 boz;40;Rocker Boz Scaggs
@@ -7705,6 +7720,10 @@ charlieday;50
 charlixcx;60;"Brat" singer
 charlottehornet;50
 charmander;50;Pokeyman
+charmedthebirdsfromthetrees;60
+charmingthebirdsfromthetrees;60
+charmsthebirdsfromthetrees;60
+charmthebirdsfromthetrees;60
 charo;40;The actress
 charsiu;40;Cantonese-style barbecued pork
 chartae;20
@@ -9889,6 +9908,7 @@ crushit;60
 crushon;40
 crx;20
 cry;50
+cryharder;60
 cryingoutto;40
 cryingoverspilledmilk;60
 cryingshame;60
@@ -14735,6 +14755,7 @@ eyechart;50
 eyecharts;50
 eyefold;50
 eyefolds;50
+eyeforaneyetoothforatooth;60
 eyeful;50
 eyefuls;50
 eyegel;30
@@ -16546,6 +16567,7 @@ funicular;50;Cable railway system on a mountainside
 funiculars;50
 funnyface;60
 funnyfaces;60
+funnythat;60
 funrun;60
 funruns;60
 funs;20
@@ -16947,6 +16969,8 @@ geer;30;Will Geer of "The Waltons"
 geewhiz;60
 geezer;50
 geezers;50
+geezerteaser;60;Action film with aging male stars
+geezerteasers;60
 geigers;40;Geiger counters, or particles detected by them
 geishaaccessory;1
 gel;50
@@ -17318,6 +17342,8 @@ ghostkitchen;60;Virtual restaurant
 ghostkitchens;60
 ghostmoth;50
 ghostmoths;50
+ghostnote;50
+ghostnotes;50
 ghosts;50
 ghostship;50
 ghostships;50
@@ -19260,6 +19286,7 @@ havealook;50
 havealookat;40
 haveanedge;50
 haveaneyeon;40
+haveanicelife;60
 haveanin;50
 haveanip;50
 haveapoint;50
@@ -19761,6 +19788,7 @@ heybro;50
 heyday;60
 heydude;60
 heygoogle;60
+heyijustworkhere;60
 heysiri;60
 hgt;20
 hgtv;40
@@ -19990,15 +20018,18 @@ hitshow;50
 hitsnooze;50
 hitsout;30
 hitssnooze;50
+hitsthepavement;60
 hitsthetop;20
 hitter;50
 hitters;50
+hitthepavement;60
 hitthetop;20
 hittinganerve;50
 hittingapaywall;20
 hittingat;40
 hittingawall;60
 hittingsnooze;50
+hittingthepavement;60
 hittingthetop;20
 hittite;30;Ancient Turkish empire
 hittites;30
@@ -20384,6 +20415,7 @@ hostesswiththemostest;60
 hostler;20;Stableman
 hostlers;20;Stablemen
 hosts;50
+hostwiththemost;60
 hot;50
 hotbed;50
 hotbeds;50
@@ -20536,6 +20568,7 @@ howsitshakinbacon;60
 howsitshaking;60
 howsoonweforget;60
 howsthat;60
+howsthatagain;60
 howwasit;50
 hoy;40
 hoyt;30;Archery company, folk singer Hoyt Axton (Joy to the World)
@@ -20902,6 +20935,7 @@ ideating;40
 ideation;50
 ideational;40
 ideative;40
+ideatyoualive;60
 ided;40
 idee;40
 idem;40;Ditto, in footnotes
@@ -20979,6 +21013,7 @@ idonthaveallday;60
 idonthaveto;60
 idontknow;50
 idontknowcanyou;60
+idontknowijustworkhere;60
 idontliketobrag;60
 idontliketobragbut;60
 idontlikeyourtone;60
@@ -20997,6 +21032,7 @@ idtags;40
 idub;20
 idunit;20;An autobiographical or confessional account usually of a sensational character
 idunits;20
+idunnoijustworkhere;60
 idy;20
 idyl;30;Variant of idyll
 idylist;20
@@ -21081,6 +21117,7 @@ ihatethis;50
 ihatetoburstyourbubble;60
 ihatewar;50;FDR speech
 ihavealove;50;???
+ihaveaquestion;60
 ihaveeyes;60
 ihavejustthething;60
 ihavemixedfeelings;60
@@ -21118,6 +21155,7 @@ ijest;50
 ijk;20
 ijssel;20;Branch of the Rhine
 ijustate;60
+ijustworkhere;60
 ike;50
 ikette;30
 ikillme;60
@@ -21167,6 +21205,7 @@ illbeokay;60
 illbet;60;"Of course"
 illbethere;60
 illbite;60
+illeatyoualive;60
 illeatyouforbreakfast;60
 illegals;5
 illegalslidetackle;50
@@ -22571,6 +22610,7 @@ itsmyturn;50
 itsnewstome;60
 itsnotatoy;60
 itsnothing;60
+itsnotjustyou;60
 itsnotmuchtolookat;60
 itsnotmydepartment;60
 itsnotmyfinestwork;60
@@ -22605,12 +22645,14 @@ itstoobad;60
 itstooearlytotell;60
 itsupport;30
 itsus;50
+itsusagainsttheworld;60
 itswhatever;60
 itswhateveryonesthinking;60
 itswhatwereallthinking;60
 itswhatweveallbeenthinking;60
 itswhennotif;60
 itsyou;60
+itsyouandmeagainsttheworld;60
 itsyourfuneral;60
 itsyourluckyday;60
 itt;40;Coustin Itt
@@ -22653,6 +22695,7 @@ ivedoneit;60
 iveeaten;50
 ivefallen;1
 ivegot;1
+ivegotaquestion;60
 ivegotitmade;60
 ivegotmixedfeelings;60
 ivegottahandittoyou;60
@@ -22691,6 +22734,7 @@ iwantout;60
 iwanttosee;60;"Move out of the way!"
 iwasframed;60
 iwaslike;60
+iwilleatyoualive;60
 iwilleatyouforbreakfast;60
 iwillnot;50
 iwin;50
@@ -22702,6 +22746,7 @@ iwokeuplikethis;60
 iwon;50
 iwontlie;60
 iwoodpinefiryew;1
+iwouldeatyoualive;60
 iwouldnever;60
 ize;30
 izod;40;Clothing company
@@ -23582,6 +23627,7 @@ kidneydonors;50
 kidseatfree;60
 kidsister;50
 kidsisters;50
+kidswillbekids;60
 kievan;40;Resident of Kyiv
 kievans;40
 kiffin;30;College football coach
@@ -23690,6 +23736,7 @@ kitchenremodels;50
 kiter;40
 kiters;40
 kithara;20;Greek lyre
+kitt;40
 kittenish;50
 kittiwake;40;Seabird
 kittiwakes;40;Seabirds
@@ -23868,6 +23915,7 @@ kosherfood;50
 koshermeal;50
 koshermeals;50
 koss;30;Headphones company
+kotb;40;Hoda Kotb
 koto;40;Japanese national instrument
 kotos;40;Japanese national instruments
 kotto;40;Yaphet Kotto
@@ -25388,6 +25436,7 @@ listenedfor;40
 listenedinon;40
 listenedto;40
 listenfor;40
+listenijustworkhere;60
 listeningdevice;50
 listeningfor;40
 listeninginon;40
@@ -30448,7 +30497,7 @@ oatmealraisincookies;50
 oats;50
 oatseed;30
 oatsnhoney;50
-oaty;30;Oaten is better
+oaty;40;Oaten is better
 obamacon;40;Conservative who supported Obama
 obamacons;40
 obamaera;50
@@ -31403,6 +31452,7 @@ onthemend;50
 onthemenu;50
 onthephone;50
 onthepill;50
+ontheplusside;60
 onthered;1
 ontheropes;60
 ontherun;50
@@ -33224,6 +33274,7 @@ periodicpayment;20
 periodicupdates;50
 periodide;20;Chemistry word
 perishable;50
+perishthethought;60
 peristylar;30;Architectural word
 peristyle;30;Row of columns surrounding an inner courtyard
 peristyles;30
@@ -36319,6 +36370,7 @@ realigning;50
 realigns;50
 realise;20
 realisticallyspeaking;60
+realityofthesituation;60
 reallooker;60
 reallookers;60
 reallot;30
@@ -39116,6 +39168,8 @@ satidle;50
 satidlyby;60
 satinet;30
 satinfor;40
+satinjudgement;50
+satinjudgment;50
 satins;40;Bad plural
 satintraffic;50
 satire;50
@@ -39939,19 +39993,31 @@ sellabillofgoods;60
 sellathon;50
 sellathons;50
 sellfor;40
+sellfreezerstoeskimos;60
+sellicetoeskimos;60
 sellingabillofgoods;60
 sellingfor;40
+sellingfreezerstoeskimos;60
+sellingicetoeskimos;60
 sellinglikehotcakes;60
 sellingonessoul;60
+sellingsalttoaslug;60
+sellingsnowtoeskimos;60
 sellingto;40
 selllikehotcakes;60
 sellonessoul;60
 sellsabillofgoods;60
+sellsalttoaslug;60
 sellsfor;40
+sellsfreezerstoeskimos;60
+sellsicetoeskimos;60
 sellsignal;50
 sellsignals;50
 sellslikehotcakes;60
+sellsnowtoeskimos;60
 sellsonessoul;60
+sellssalttoaslug;60
+sellssnowtoeskimos;60
 sellsto;40
 sellto;40
 selmas;30
@@ -40799,6 +40865,7 @@ siccingthedogson;50
 sicem;50
 sickburn;60
 sickish;30
+sicklysweet;60
 sicko;60
 sickomode;60
 sickos;60
@@ -41132,6 +41199,8 @@ siterect;20;Green paint
 sitidle;50
 sitidlyby;60
 sitinfor;40
+sitinjudgement;50
+sitinjudgment;50
 sitintraffic;50
 sitit;20
 sitkaak;30
@@ -41142,6 +41211,8 @@ sitsat;40
 sitsidle;50
 sitsidlyby;60
 sitsinfor;40
+sitsinjudgement;50
+sitsinjudgment;50
 sitsintraffic;50
 sitski;50
 sitskied;50
@@ -41154,6 +41225,8 @@ sittingat;40
 sittingidle;50
 sittingidlyby;60
 sittinginfor;40
+sittinginjudgement;50
+sittinginjudgment;50
 sittingintraffic;50
 sittingnear;40
 sittingpoolside;50
@@ -41987,6 +42060,8 @@ soextra;60
 sofa;50
 sofafort;60
 sofaforts;60
+sofarsobad;60
+sofarsogood;60
 sofree;20
 softa;30
 softball;50
@@ -42086,9 +42161,13 @@ soldabillofgoods;60
 soldas;40
 soldat;30;French soldier
 soldfor;40
+soldfreezerstoeskimos;60
+soldicetoeskimos;60
 soldiery;30
 soldlikehotcakes;60
 soldonessoul;60
+soldsalttoaslug;60
+soldsnowtoeskimos;60
 soldto;40
 solemner;40
 solemnest;40
@@ -45868,6 +45947,7 @@ thecut;40
 thecw;40
 theda;30
 thedailyshow;60
+thedamageisdone;60
 thedancer;30;Obscure 2016 movie
 thedanube;30
 thedarkknight;60
@@ -46183,6 +46263,7 @@ therent;20
 theresalottounpack;60
 theresalottounpackthere;60
 theresalwayssomething;60
+theresathought;60
 theresawocketinmypocket;60;Dr. Seuss book
 theresmorewherethatcamefrom;60
 theresnoexcuse;60
@@ -46201,6 +46282,7 @@ thereviewsarein;60
 therewasnotadryeyeinthehouse;60
 therewasntadryeyeinthehouse;60
 thereyougo;60
+thereyouhaveit;60
 thericebelt;40
 therio;30
 theritz;40
@@ -46366,9 +46448,11 @@ thewtatour;30
 thexgames;40
 thexmen;40
 theyanks;40;???
+theydeatyoualive;60
 theyear;20
 theygotitmade;60
 theyllcomearound;60
+theylleatyoualive;60
 theylleatyouforbreakfast;60
 theyregoingtoeatemalive;60
 theyregoingtoeatheralive;60
@@ -46388,7 +46472,9 @@ theyrenotbuyingit;60
 theyreoff;50
 theysee;1
 theyvegotitmade;60
+theywilleatyoualive;60
 theywilleatyouforbreakfast;60
+theywouldeatyoualive;60
 thezapruderfilm;20
 thezombies;50;English rock band in the Rock and Roll Hall of Fame
 thezoomies;60
@@ -46990,6 +47076,8 @@ tod;20
 todayonly;50
 todeath;50
 toe;50
+toeachhisown;60
+toeachtheirown;60
 toebean;50
 toebeans;60
 toedin;30
@@ -47214,6 +47302,7 @@ tootedyourownhorn;40
 tooter;30
 tooters;30
 toothfish;50;AKA Chilean sea bass
+toothforatooth;60
 toothisownhorn;50
 tootie;30;"The Facts of Life" character
 tootingonesownhorn;50
@@ -48919,6 +49008,7 @@ usabilitytests;60
 usableness;40
 usaf;40
 usafb;40
+usagainsttheworld;60
 usages;50
 usaid;40
 usainbolt;60
@@ -50403,6 +50493,7 @@ whatscookingoodlookin;60
 whatseemstobetheissue;60
 whatseemstobetheproblem;60
 whatsinitforme;60
+whatsonyourmind;60
 whatsshakinbacon;60
 whatsthat;60
 whatsthegoodword;60
@@ -50448,6 +50539,7 @@ whentheshoefits;60
 whentheshoefitswearit;60
 whenyougetachance;50
 where;50
+wheredoisignup;60
 wheredoyoudrawtheline;60
 wherehaveyougonejoedimaggio;60
 wheretheresawilltheresaway;60
@@ -50837,6 +50929,7 @@ witchtrial;60
 witchtrials;60
 witchywoman;60
 with;50
+withallthetrimmings;60
 withamoomoohere;30;???
 witheraway;50
 witheredaway;50
@@ -50849,6 +50942,7 @@ withlegs;30;Having staying power
 withoutanet;50
 withoutwarning;50
 withreagan;40;Book
+witt;40
 witter;30;Investor Dean
 wiz;50
 wizard;60
@@ -50882,6 +50976,7 @@ wolfpups;50
 wolframite;40
 wolfsbane;50
 wolverine;60
+wombocombo;60
 womenomics;50
 won;50
 wonanoscar;50
@@ -51509,6 +51604,7 @@ yotam;30;Food writer Yotam Ottolenghi
 yoteamo;30
 you;50
 youandme;50
+youandmeagainsttheworld;60
 youareexcused;60
 youawake;60
 youbet;60
@@ -51643,6 +51739,7 @@ youwin;60
 youwish;60
 youwouldberight;60
 youwouldsaythat;60
+youwouldthink;60
 yow;50
 yowee;40
 yowza;60
