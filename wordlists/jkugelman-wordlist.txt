@@ -275,7 +275,7 @@ acaricide;30;Pesticide
 acaricides;30;Pesticide
 acastan;30;Geologic period
 acaudal;20;Tailless
-acc;20
+acc;40
 acceder;20
 acceders;20
 accentlight;50
@@ -2636,6 +2636,8 @@ armsdeal;50
 armsdeals;50
 armsdepot;50
 armsdepots;50
+armsleeve;60
+armsleeves;60
 armsrace;50
 armssale;40
 armssales;40
@@ -3669,6 +3671,10 @@ backsacandidate;50
 backsaw;40
 backsaws;40
 backspins;40
+backtat;60
+backtats;60
+backtattoo;60
+backtattoos;60
 backthetruckup;60
 backtire;50
 backtires;50
@@ -5288,6 +5294,8 @@ blockader;30
 blockaders;30
 blockbuster;60
 blockbusters;60
+blockcapital;50
+blockcapitals;50
 blockdiagram;50
 blockdiagrams;50
 blockedshot;50
@@ -6637,6 +6645,10 @@ calenders;20
 calends;30;First day of every month in the Roman calendar
 calendula;20;Marigold genus
 calendulas;20
+calftat;60
+calftats;60
+calftattoo;60
+calftattoos;60
 calhern;30;Old actor Louis Calhern
 cali;50
 calicokitten;50
@@ -7879,6 +7891,10 @@ chestbeater;50
 chestbeaters;50
 chesteraarthur;50
 chesterarthur;40
+chesttat;60
+chesttats;60
+chesttattoo;60
+chesttattoos;60
 chestthump;50
 chestthumped;50
 chestthumper;50
@@ -13440,6 +13456,8 @@ electees;40
 electingto;40
 electionseason;50
 electionseasons;50
+electoralterm;50
+electoralterms;50
 electret;30;???
 electricalshock;50
 electricalshocks;50
@@ -15540,6 +15558,10 @@ fingerprintkits;50
 fingerprints;50
 fingerpuppet;60
 fingerpuppets;60
+fingertat;60
+fingertats;60
+fingertattoo;60
+fingertattoos;60
 fingerwave;50
 fingerwaves;50
 finial;30;Gable ornament
@@ -19075,6 +19097,10 @@ handsomest;30
 handsomesum;60
 handsteam;50
 handsto;40
+handtat;60
+handtats;60
+handtattoo;60
+handtattoos;60
 handto;40
 handtowel;50
 handtowels;50
@@ -19451,6 +19477,10 @@ headsofstate;50
 headsto;40
 headstrong;50
 headswillroll;60
+headtat;60
+headtats;60
+headtattoo;60
+headtattoos;60
 headto;40
 headtotoe;50
 headturner;60
@@ -23882,6 +23912,10 @@ knowof;40
 knowsof;40
 knowwhatimean;60
 knt;20
+knuckletat;60
+knuckletats;60
+knuckletattoo;60
+knuckletattoos;60
 knute;40
 koa;40
 koalabear;50
@@ -24848,7 +24882,13 @@ legpress;50
 legpresses;50
 legree;30;Simon Legree of "Uncle Tom's Cabin"
 legroom;60
+legsleeve;60
+legsleeves;60
 legsofmutton;50
+legtat;60
+legtats;60
+legtattoo;60
+legtattoos;60
 leguin;40;Ursula Le Guin
 leguins;20;Plural name
 lehar;30;"The Merry Widow" composer Franz Lehár [common]
@@ -29276,6 +29316,8 @@ neckpillow;50
 neckpillows;50
 neckrub;50
 neckrubs;50
+necktat;60
+necktats;60
 necktattoo;60
 necktattoos;60
 necro;40
@@ -32726,6 +32768,8 @@ parishpump;50
 parisology;50;Use of ambiguous words (no relation to the city)
 parkerposey;50
 parle;40
+parliamentaryterm;50
+parliamentaryterms;50
 parma;40;Cheese city
 parole;50
 paroles;50
@@ -41647,6 +41691,10 @@ sleepsonit;50
 sleepstart;50;Hypnic jerk
 sleepstarts;50
 sleepys;20
+sleevetat;60
+sleevetats;60
+sleevetattoo;60
+sleevetattoos;60
 sleighbell;60
 sleighbells;60
 sleptaround;50
@@ -45111,6 +45159,8 @@ tared;40
 tares;40
 targetheartrate;50
 targetheartrates;50
+targetofopportunity;50
+targetsofopportunity;50
 tariqaziz;40
 tarkovsky;50;Major director Andrei Tarkovsky
 tarnation;50
@@ -45676,9 +45726,13 @@ termers;30
 termes;20
 terminalservers;50
 terminator;60
+terminoffice;50
 termly;20;Periodically, archaic
+termofoffice;50
 termpapermill;50
 termpapermills;50
+termsinoffice;50
+termsofoffice;50
 tern;40;Seabird
 ternate;30;Arranged in threes, like clover leaves
 terne;20
@@ -45940,6 +45994,8 @@ theaterdirector;50
 theaterdirectors;50
 theatergeek;60
 theatergeeks;60
+theaterofoperations;60
+theatersofoperations;60
 theavengers;60
 theawfultruth;60
 theazores;40
@@ -47759,8 +47815,10 @@ transects;40
 transexual;5;Transgender is preferred
 transexuals;5
 transferee;30
+transferofownership;50
 transferor;30;Legal term
 transferors;30;Legal term
+transfersofownership;50
 transgender;60
 transgendered;60
 transgenderrights;60
@@ -47931,7 +47989,11 @@ trices;30
 trichina;30;Parasitic worm
 tricing;30
 trickbone;60;Acme invention
+trickedoutof;40
 tricker;30
+trickingoutof;40
+trickoutof;40
+tricksoutof;40
 triclinic;30
 tricorn;50
 tricorne;50
@@ -47942,6 +48004,7 @@ tricotee;20;???
 tricots;40
 triduum;30;Christian "Three Days" before Easter
 triedon;40
+triedouton;40
 triedto;40
 triennial;40
 triennially;40
@@ -47949,6 +48012,7 @@ triennials;40
 trier;30
 triers;30
 trieson;40
+triesouton;40
 triesto;40
 trifid;20;Split into three lobes
 trig;50
@@ -48116,11 +48180,13 @@ trw;20
 try;50
 tryagain;60
 tryingon;40
+tryingouton;40
 tryingto;40
 tryme;60
 trymelater;60
 tryna;40
 tryon;40
+tryouton;40
 trypanophobe;50
 trypanophobia;50
 tryptophan;50
