@@ -3486,6 +3486,7 @@ aweless;30
 awesomegamesdonequick;60
 awfultruth;60
 awhell;60
+awhellnaw;60
 awholelot;50
 awinsawin;60
 awiseguyeh;60
@@ -3767,6 +3768,10 @@ badtaste;50
 badtemper;50
 badthing;20
 badthings;20
+badtip;50
+badtipper;60
+badtippers;60
+badtips;50
 badtoupee;5
 badtoupees;5
 badtrip;60
@@ -7220,12 +7225,14 @@ casedthejoint;60
 caseinsensitive;50
 caseofbeer;50
 caseofthemondays;60
+caseofwine;50
 caseout;40;Check out???
 casereport;50
 casereports;50
 caserta;30
 casesensitive;50
 casesofbeer;50
+casesofwine;50
 casesout;40
 casesthejoint;60
 casethejoint;60
@@ -18102,6 +18109,10 @@ goodsportsmanship;50
 goodstart;60
 goodtaste;50
 goodthinking;60
+goodtip;50
+goodtipper;60
+goodtippers;60
+goodtips;50
 goofaround;50
 goofball;60
 goofballs;60
@@ -26587,6 +26598,8 @@ majorarcana;60
 majordiscoveries;50
 majordiscovery;50
 majoredin;40
+majorfixerupper;60
+majorfixeruppers;60
 majorin;40
 majoringin;40
 majorityleaders;50
@@ -30933,6 +30946,7 @@ ohgod;60
 ohgoodgrief;60
 ohgreat;60
 ohh;50
+ohhellno;60
 ohhithere;60
 ohi;20
 ohjeez;60
@@ -31673,6 +31687,7 @@ opels;30
 openai;60
 openairstadiums;50
 openandshutcase;60
+openandshutcases;60
 openbar;50
 openbars;50
 openbook;50
@@ -35784,6 +35799,7 @@ quipu;20;Andean recording device
 quipus;20
 quire;30;Four sheets of paper, a twentieth of a ream
 quires;30
+quitapologizing;60
 quiteoften;50
 quiteso;60
 quitesure;50
@@ -43770,6 +43786,7 @@ stoopers;40
 stoopingto;40
 stoopsto;40
 stoopto;40
+stopapologizing;60
 stopat;20
 stoploss;50
 stopmakingsense;60
@@ -47081,6 +47098,7 @@ tio;40
 tios;40
 tip;50
 tipcat;40;Yard game
+tipgoals;20;???
 tipline;50
 tiplines;50
 tipofoneshat;60
