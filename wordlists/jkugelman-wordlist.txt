@@ -448,6 +448,7 @@ actedfor;40
 actedin;40
 actedinconcert;60
 actedon;40
+actedupon;40
 actfast;60
 actfastsuppliesarelimited;60
 actfastsuppliesarerunningout;60
@@ -468,6 +469,8 @@ actingin;40
 actinginconcert;60
 actingon;40
 actingpresident;50
+actingupon;40
+actinic;30
 actinolite;30;Mineral
 actio;20
 action;50
@@ -507,8 +510,10 @@ actsofwar;50
 actson;40
 actssad;1
 actssore;1
+actsupon;40
 acttwo;40
 actuarialtables;50
+actupon;40
 actv;40
 acu;20
 acunit;40
@@ -1196,6 +1201,7 @@ alanmoore;60
 alans;30;Plural name
 alanseeger;20;Poet uncle of folk singer Pete
 alansmithee;50;Directorial pseudonym
+alansues;40;Comedian on Rowan & Martin's Laugh-In
 alapa;20
 alarigeur;20;To the fullest extent: Fr.
 alarmer;30
@@ -2024,6 +2030,7 @@ annalist;40;Historian who writes annals
 annalists;40
 annan;40
 annao;20
+annasten;40;1930s actress Anna Sten
 annatto;30;Food coloring
 anneboleyn;50
 anneheche;50
@@ -3058,6 +3065,7 @@ astense;1
 asterism;30
 astern;50
 astew;20
+asthenia;30;Medical condition, lack of energy
 asthickasthieves;60
 asti;40;Wine region
 astight;1
@@ -5462,6 +5470,8 @@ bocceballs;50
 bochco;40;Steven Bochco, creator of Hill Street Blues, NYPD Blue, Doogie Howser, and other shows
 bod;50
 bodedwellfor;40
+bodegacat;60
+bodegacats;60
 bodeswellfor;40
 bodewellfor;40
 bodhi;30;Buddha tree
@@ -7682,17 +7692,20 @@ chalkmark;50
 chalkmarks;50
 chalktalk;50
 chalktalks;50
+challis;30;Soft fabric
 chamberlain;60
 chamorro;30;Indigenous people of the Mariana Islands
 champagnebottle;50
 champagnetoasts;30
 chana;40;Chana masala (chickpea curry)
+chancesare;60
 chancre;5;Genital ulcer
 chancres;5
 chancroid;5;STD
 chancroids;5
 chandlerarizona;30
 changeofperspective;50
+changesare;1
 changesofperspective;50
 chanson;30;French song style
 chansons;30
@@ -7925,6 +7938,7 @@ chewygranolabar;20
 cheyennewy;30
 chg;20
 chi;50
+chiapas;40;Mexican state
 chiasma;30;Genetics term
 chica;40
 chicagoan;50
@@ -10422,6 +10436,7 @@ darkpattern;60
 darkpatterns;60
 darkside;60
 darksideofthemoon;60
+darksome;40;Gloomy
 darksouls;60
 darkstar;50
 darktimes;50
@@ -10617,6 +10632,7 @@ deadlast;60
 deadlock;60
 deadlysin;60
 deadlysins;60
+deadmeat;60
 deadname;60
 deadnamed;60
 deadnames;60
@@ -11254,6 +11270,7 @@ diarist;50
 diarists;50
 diarrhea;5
 dias;40
+diastema;30;Tooth gap
 diatomite;30;Diatomaceous earth
 diavolo;20
 dib;20
@@ -11911,6 +11928,8 @@ dogtreat;50
 dogtreats;50
 dogtv;60
 dogwood;50
+dogyear;60
+dogyears;60
 doh;50
 doha;40;Capital of Qatar
 dohonor;30
@@ -12859,6 +12878,7 @@ eaglescout;50
 eaglescouts;50
 eagleswings;50
 eaglet;30
+eagleton;30
 eaglets;30
 eagye;20
 eal;20
@@ -16340,6 +16360,8 @@ franchisetag;50
 franchisetags;50
 franchitti;30;British motor racing driver
 franciscanorder;50
+frangipane;40;French custard
+frangipani;30;Flower
 frankenstein;60
 frankenweenie;60
 frankgehry;50
@@ -16649,6 +16671,8 @@ furniturepolish;50
 furores;40;Plural furor
 furpeak;40;Chinese tea
 furpeaktea;50
+fursona;60
+fursonas;60
 furstole;50
 furstoles;50
 furtrader;50
@@ -18799,6 +18823,7 @@ gunshop;50
 gunshops;50
 gunsnroses;60
 guntotin;50
+gupta;40;Sanjay Gupta
 gurira;40;Actress Danai Gurira from "Black Panther" and "The Walking Dead"
 gurunanak;40;Founder of Sikhism
 gus;50
@@ -19784,7 +19809,9 @@ herexcellency;50
 heritor;30
 heritors;30
 hermana;40
+hermanas;40
 hermano;40
+hermanos;40
 hermitagemuseum;50
 hermosa;30
 hernancortes;50
@@ -20225,6 +20252,7 @@ hollersat;40
 hollywoodagent;60
 hollywoodagents;60
 hollywoodsquares;50
+holm;40;Actor Ian Holm, or Celeste Holm from "All About Eve"
 holocaust;40
 hologram;50
 holograms;50
@@ -20441,7 +20469,11 @@ horehound;40;Herb, or herbal candy
 horehounds;40
 horndog;50
 horndogs;50
+hornedinon;40
 horners;20;Eye syndrome
+horninginon;40
+horninon;40
+hornsinon;40
 hornswoggle;60
 hornswoggled;60
 hornswoggles;60
@@ -20477,6 +20509,7 @@ horst;30;Geology word, or first name
 horsy;40;Like a horse
 hortative;20
 hortatory;20
+hortense;30
 hortonhatchestheegg;60;Dr. Seuss book
 hortonhearsawho;60
 hortons;50
@@ -20728,6 +20761,7 @@ hummocks;30;Rounded hills
 hummocky;20;Hilly?
 humoral;30;Relating to the four humors
 humstrum;50;Musical instrument
+humus;40;Soil organic matter
 humuses;20
 hun;50
 hunchesinbunches;60;Dr. Seuss book
@@ -21536,6 +21570,7 @@ impearled;20
 impearling;20
 impearls;20
 impediments;50
+impei;40
 impend;30
 impended;30
 impends;30
@@ -21739,6 +21774,7 @@ inclosed;20
 incloses;20
 inclosing;20
 inclosure;20
+incogmeato;60;Meat substitute
 incognito;60
 incoins;40
 incomestatement;50
@@ -21798,6 +21834,7 @@ inditers;20
 indites;20
 inditing;20
 indo;40
+indogyears;60
 indoorcat;50
 indoorcats;50
 indoorpool;50
@@ -22716,6 +22753,7 @@ itspecialist;50
 itspecialists;50
 itsquiteastretch;60
 itsselfexplanatory;60
+itssimplereally;60
 itssoeasyachildcandoit;60
 itssoeasyachildcoulddoit;60
 itssoeasyevenachildcandoit;60
@@ -23034,6 +23072,7 @@ jeffersonoregon;30;Barely notable
 jeffersonstarship;50
 jeffs;30
 jejuna;30
+jejunal;30;Relating to the jejunum
 jejunum;30;Part of the small intestine
 jellomold;50
 jellomolds;50
@@ -23450,6 +23489,7 @@ katespade;50
 katharsis;30
 katmai;20;Alaska park
 katsu;40;Pork katsu
+katsudon;40;Japanese dish
 katzenjammer;50
 katzenjammerkids;50
 katzenjammers;50
@@ -23676,6 +23716,7 @@ khufu;50;Pharaoh who commissioned the Great Pyramid of Giza
 khz;20
 kia;50
 kibbitz;60
+kickapoo;40;Great Lakes tribe
 kickass;60
 kickball;60
 kickbox;50
@@ -23719,7 +23760,7 @@ kiffin;30;College football coach
 kiki;30;???
 kil;20
 kiley;30;Richard Kiley from "Man of La Mancha"
-killedtime;60
+killedtime;50
 killerbee;50
 killerbees;50
 killerwave;50
@@ -23728,11 +23769,11 @@ killerwhale;50
 killerwhales;50
 killfee;50
 killfees;50
-killingtime;60
+killingtime;50
 killsit;60
-killstime;60
+killstime;50
 killswitchengage;60
-killtime;60
+killtime;50
 killyourdarlings;60
 kilohertz;50
 kiltie;30;Kilt-wearer
@@ -26768,6 +26809,7 @@ malacca;30;Malaysian state
 malade;30;Sick: Fr.
 maladroitness;30
 malafide;50
+malagasy;40;People/language of Madagascar
 malaika;40;???
 malala;40;Malala Yousafzai, 2014 Nobel Peace Prize laureate (at 17 years old!)
 malaprop;60
@@ -28095,6 +28137,8 @@ misterknowitall;60
 misterpresident;50
 mistertoad;50;"The Wind in the Willows" character
 mistico;40;???
+mistral;30;Cold wind of France
+mistrals;30
 mit;40
 miter;40;Bishop's hat
 miters;40
@@ -28256,6 +28300,7 @@ moderns;30
 modernslang;50
 moderntimes;50
 modesties;30
+modigliani;40;Italian artist Amedeo Modigliani (1884-1920)
 modrich;30;2015 Nobel Prize in Chemistry
 moe;50
 moes;50;Moe's Tavern, or Moe's Southwest Grill
@@ -30958,6 +31003,7 @@ ohm;50
 ohmama;60
 ohman;60
 ohme;20
+ohmslaw;50
 ohmylord;60
 ohmystars;60
 ohneat;60
@@ -32597,6 +32643,9 @@ palmsoff;50
 palmyra;30;Ancient Syrian city
 palo;40
 paloaltoca;30
+paloma;40;???
+palomar;40;???
+palomas;40;???
 palpus;20
 palsaround;50
 palsaroundwith;50
@@ -33575,6 +33624,7 @@ phantomlimbs;60
 phantomsettlement;60;Copyright trap
 phantomsettlements;60
 pharisaical;40
+pharlap;30;Phar Lap, Great Depression-era champion racehorse
 pharos;40;Pharos of Alexandria, lighthouse wonder of the ancient world
 phasic;40
 phat;40
@@ -34255,6 +34305,8 @@ pleaserise;50
 pleasestop;60
 plecoptera;20;Order of insects
 pledfor;40
+pledgee;40
+pledgees;40
 pledto;40
 pleinair;20;Painting outdoors
 plena;20;Puerto Rican music
@@ -39368,6 +39420,8 @@ sautepans;50
 sauvignonblanc;50
 sauvignonblancs;50
 sav;20
+savalas;40;Telly Savalas
+savarin;40;French cake
 saveall;50
 savedface;60
 savedgas;50
@@ -39540,6 +39594,7 @@ schedulers;30
 schedules;50
 schell;40;Maximillian Schell, Best Actor in 1961 for "Judgment at Nuremberg"
 schifrin;30;Pianist Lalo
+schiller;40;German playwright Friedrich Schiller
 schist;50;Metamorphic rock
 schists;50
 schlemiel;60
@@ -39568,6 +39623,7 @@ schrempf;40;NBA player Detlef Schrempf, three-time All-Star
 schtick;60
 schticky;60
 schumann;50
+schuyler;40
 schwabs;20;Plural name???
 sci;40
 scialfa;40;Patti Scialfa, E Street Band member and Springsteen's wife
@@ -40472,6 +40528,9 @@ severingties;50
 seversties;50
 severties;50
 sew;50
+sewagefarm;50
+sewagefarming;50
+sewagefarms;50
 sewanee;40;"University of the South"
 sewed;50
 sewedon;40
@@ -40705,6 +40764,8 @@ shellacked;50
 shellacking;50
 shellcomearound;60
 shelleatyouforbreakfast;60
+sheller;40
+shellers;40
 shellshock;60
 shellshocked;60
 shelovesme;50
@@ -43510,6 +43571,7 @@ stellate;40;Arranged in a radiating pattern like a star
 stemturn;40;Skiing maneuver
 stemturns;40
 stendahl;40;19th century French writer
+stengel;40;1950s Yankees manager Casey Stengel
 stengun;40;WWII submachine gun
 stenguns;40
 stennis;30;Former Mississippi senator John C. Stennis
@@ -43579,6 +43641,7 @@ stetho;40
 stets;40
 stetted;40
 stetting;40
+steuben;40
 steveguttenberg;50
 stevehowe;60
 stevemillerband;50
@@ -43714,6 +43777,7 @@ stocksplit;50
 stocksplits;50
 stockswap;50
 stockswaps;50
+stodged;40
 stoical;40
 stoke;50
 stoked;50
@@ -43951,7 +44015,7 @@ stridulating;30
 stridulation;30
 stridulations;30
 strifes;30
-strigil;40;???
+strigil;20;Ancient body cleaning tool
 strikeone;50
 striketwo;50
 strikezone;50
@@ -44000,6 +44064,7 @@ strumae;20
 strutting;50
 sts;40
 sttc;20
+sttitus;40
 sttng;20
 stu;50
 stuckitto;40
@@ -44249,6 +44314,7 @@ suitsup;60
 suittoat;40
 suittoatee;40
 suitup;60
+sukajan;30;WWII souvenir jacket
 sukarno;30;First president of Indonesia (one name)
 sukhumi;30;Georgian city (the country)
 sukiyakis;30;???
@@ -44410,6 +44476,7 @@ supportingrole;50
 supportingroles;50
 supportsystem;50
 supportsystems;50
+supra;40;Toyota Supra
 supremebeing;60
 supremebeings;60
 supremecourt;50
@@ -45992,6 +46059,7 @@ theage;20
 theageofsteam;40
 theair;20
 theaisle;40
+thealps;40
 theam;30
 theamazingrandi;60
 theamish;20
@@ -46168,6 +46236,7 @@ thefed;50
 thefineprint;50
 thefirstletters;1
 thefivews;50
+theflea;40;John Donne poem
 theflu;20
 thefool;60;Tarot card
 thefootbook;60;Dr. Seuss book
@@ -46361,6 +46430,7 @@ theodora;40;???
 theok;20;???
 theoldheaveho;60
 theoldmasters;40
+theolds;60
 theoldvic;40
 theolheaveho;60
 theopen;1
@@ -46659,6 +46729,7 @@ thighslappers;60
 thighslapping;60
 thimphu;20;Capital of Bhutan
 thincrustpizzas;50
+thingis;60
 thingofthepast;60
 thingsfallapart;60
 thingsjustgotreal;60
@@ -46666,12 +46737,15 @@ thinkahead;50
 thinkheboughtit;60
 thinkhesbuyingit;60
 thinkingahead;50
+thinkingon;40
 thinkingoutsidethebox;60
+thinkon;40
 thinkoutsidethebox;60
 thinkpiece;60
 thinksahead;50
 thinksheboughtit;60
 thinkshesbuyingit;60
+thinkson;40
 thinksoutsidethebox;60
 thinktheyboughtit;60
 thinktheyrebuyingit;60
@@ -46748,6 +46822,7 @@ thosearerookienumbers;60
 thosewerethedays;60
 thoth;30;Egyptian god
 thoughtahead;50
+thoughton;40
 thoughtoutsidethebox;60
 thr;20
 threadier;30
@@ -47386,6 +47461,7 @@ tonguetwister;60
 tonguetwisters;60
 tonguetwisting;60
 tonio;30;"Pagliacci" role
+tonite;40
 tonk;40;Honky-tonk
 tonne;40
 tonneau;30
@@ -47590,6 +47666,7 @@ torontoraptors;50
 torpedos;20
 torpors;40;Bad plural???
 torr;20;Unit of pressure
+torrance;40;Jack Torrance from "The Shining"
 torre;40;Yankee manager Joe Torre
 torrey;40;Torrey Pines
 torridity;30
@@ -47681,15 +47758,19 @@ tov;20
 tovah;30
 tove;30;Singer ___ Lo
 tow;50
+towedin;40
 towercrane;50
 towercranes;50
 towery;40;Tall, or having towers: archaic
 towhee;30;Sparrow-like bird
 towhees;30
+towin;40
+towingin;40
 towncrier;50
 towncriers;50
 towndrunk;40
 towndrunks;40
+towsin;40
 towtruck;50
 towtrucks;50
 tox;40
@@ -48372,6 +48453,7 @@ turbot;30;Fish
 turbots;30
 ture;20
 turfed;30;Laid turf, or kicked out (British)
+turgenev;40;Russian novelist Ivan Turgenev
 turgor;30;State of turgidity, in botany
 turinsriver;1
 turkeybaster;50
@@ -49451,6 +49533,7 @@ vampirefinches;50
 van;50
 vanadate;30;Vanadium compound
 vanark;20
+vandy;40;Vanderbilt University, familiarly
 vanern;40;Swedish lake, largest in the E.U.
 vanessas;30
 vangelis;60
@@ -50806,6 +50889,7 @@ whodiedandmadeyouking;60
 whodoeshethinkheis;60
 whodoesshethinksheis;60
 whodotheythinktheyare;60
+whoelse;60
 whogivesaflip;60
 whoisthat;60
 whoisthis;60
@@ -50843,6 +50927,7 @@ why;50
 whydoesitmatter;60
 whydoesthisalwayshappentome;60
 whydontyoumakelikeatreeandgetoutofhere;60
+whyelse;60
 whyme;60
 wichitaks;30
 wickedcool;60
@@ -51761,6 +51846,7 @@ yin;50
 yip;50
 yipes;50
 yippy;50
+ylangylang;40;Tropical tree
 yma;20
 ymir;20;Giant slain by Odin, from his flesh was fashioned the Earth, from his blood the oceans
 yngwie;50
