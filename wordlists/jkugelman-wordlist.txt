@@ -53,8 +53,8 @@ aateams;40
 aau;20
 aaugh;40;Charlie Brown cry
 aave;40;African-American Vernacular English
-aaverage;40
-aaverages;40
+aaverage;50
+aaverages;50
 ab;50
 aba;40;Bar assoc.
 abacab;40
@@ -933,8 +933,8 @@ aggro;30
 agha;40;Turkish honorific
 aghas;40
 agi;20;Will Shortz won't accept it
-aginglikefinewine;50
-aginglikemilk;50
+aginglikefinewine;60
+aginglikemilk;60
 agita;50
 agleam;40
 aglet;50
@@ -5784,8 +5784,10 @@ bottledwater;50
 bottleflies;50
 bottlefly;50
 bottlenosewhale;60
+bottleofwine;50
 bottleshop;50
 bottleshops;50
+bottlesofwine;50
 bottletop;50
 bottletops;50
 bottomline;60
@@ -6107,6 +6109,8 @@ brokenin;50
 brokennose;50
 brokennoses;50
 brokeradeal;50
+brokerageaccount;50
+brokerageaccounts;50
 brokeragehouses;50
 brokeredadeal;50
 brokeringadeal;50
@@ -6366,6 +6370,8 @@ buono;40
 bupkis;60
 bur;20
 burdenofproof;50
+burgundywine;50
+burgundywines;50
 burl;30;Knot in a tree or cloth
 burlesque;60
 burls;30;Knots in a tree or cloth
@@ -6425,6 +6431,7 @@ businesssection;50
 businessspeak;50
 businessweek;50
 busit;20;???
+buss;40
 bussin;60
 bustagut;60
 bustard;20;Bird
@@ -7192,6 +7199,8 @@ carriagepainter;1
 carrions;30
 carrottop;50
 carroty;40
+carryonitem;50
+carryonitems;50
 carsale;50
 carsales;50
 carservice;50
@@ -9197,6 +9206,8 @@ cookedupascheme;60
 cookedupastorm;60
 cookingupascheme;60
 cookingupastorm;60
+cookingwine;50
+cookingwines;50
 cooksupascheme;60
 cooksupastorm;60
 cookupascheme;60
@@ -10138,6 +10149,8 @@ cussedat;40
 cussesat;40
 cussingat;40
 cussler;40;Clive Cussler
+custodialaccount;50
+custodialaccounts;50
 customerreview;50
 customerservice;50
 customfont;50
@@ -10539,6 +10552,7 @@ daughtersinlaw;50
 davebautista;50
 daverage;40
 daverages;40
+davidgeffen;50
 davidgilmour;60
 davidhedison;30;???
 davids;30
@@ -10831,6 +10845,8 @@ deepsleeper;50
 deepsleepers;50
 deepstate;60
 deepweb;60
+deercrossingsign;50
+deercrossingsigns;50
 deeres;40
 deerskin;50
 deerskins;50
@@ -10966,6 +10982,7 @@ delver;30
 delvers;30
 delvesinto;40
 delvinginto;40
+delyouraccount;20
 dem;40
 demagog;20
 demagogs;20
@@ -15580,6 +15597,7 @@ finemesh;50
 finemess;50
 fineseasalt;50
 finetoo;1
+finewithme;60
 fingerbowl;50
 fingerbowls;50
 fingerguns;60
@@ -15625,6 +15643,8 @@ firecrew;50
 firecrews;50
 firedashot;50
 firedat;40
+firedepartment;50
+firedepartments;50
 firedonallcylinders;60
 firedupon;40
 fireemoji;60
@@ -17632,8 +17652,10 @@ glaringat;40
 glasschin;60
 glasschins;60
 glasscity;30;Toledo, OH?
+glassesofwine;50
 glassjaw;60
 glassjaws;60
+glassofwine;50
 glassonion;60
 glasstumbler;50
 glasstumblers;50
@@ -19684,7 +19706,7 @@ helio;40
 heliostat;40;Solar power device
 heliostats;40
 hell;50
-hella;50
+hella;60
 hellacool;60
 hellbent;60
 hellbenton;60
@@ -29498,9 +29520,9 @@ nemean;30
 nememiah;30
 nen;20
 nena;40;"99 Luftballons" singer
-nene;20
+nene;30
 neneh;20
-nenes;20
+nenes;30
 neo;50
 neobop;40;1980s jazz style pioneered by Wynton Marsalis
 neocene;20;Variant spelling of neogene
@@ -30122,6 +30144,7 @@ noms;30
 nomsg;30
 non;40
 nona;30;Nona Hendryx, "Lady Marmalade" singer, or nona- shape prefix
+nonagaye;40;Singer/model/actress Nona Gaye in the Matrix sequels
 nonage;20
 nonages;20
 nonagon;40
@@ -30536,6 +30559,8 @@ num;20
 numan;30;Musician Gary Numan
 numans;20
 numbat;20
+numberedaccount;50
+numberedaccounts;50
 numbereight;30;???
 numberofletters;50
 numberofthebeast;60
@@ -33556,6 +33581,7 @@ perv;5
 pervert;5
 perverts;5
 pervs;5
+pervy;40
 pes;20
 pesach;40;AKA Passover
 pesade;30;Horse dressage maneuver
@@ -44171,18 +44197,24 @@ stunguns;50
 stunkat;40
 stunsail;40
 stunsails;40
-stuntbike;50
-stuntbikes;50
-stuntcar;50
-stuntcars;50
+stuntbike;60
+stuntbikes;60
+stuntcar;60
+stuntcars;60
 stuntkite;50
 stuntkites;50
-stuntman;50
-stuntmen;50
-stuntpilot;50
-stuntpilots;50
-stuntplane;50
-stuntplanes;50
+stuntman;60
+stuntmen;60
+stuntpeople;60
+stuntperformer;60
+stuntperformers;60
+stuntperson;60
+stuntpilot;60
+stuntpilots;60
+stuntplane;60
+stuntplanes;60
+stuntreel;60
+stuntreels;60
 sturges;40;Playwright Preston Sturges, or director John Sturges of "The Magnificent Seven" and "The Great Escape"
 stutterer;50
 stutterstep;60
@@ -48935,7 +48967,7 @@ umhi;20;NYT doesn't like it: "UM HI ... felt too 'made up' as a phrase, and a li
 umi;20;???
 umiak;30
 umiami;40;University of Miami
-umm;40
+umm;50
 umno;50
 ump;50
 umpirage;40
@@ -52040,6 +52072,7 @@ youredamnedifyoudoanddamnedifyoudont;60
 youredamnedifyoudoandyouredamnedifyoudont;60
 youredarnedifyoudoanddarnedifyoudont;60
 youredarnedifyoudoandyouredarnedifyoudont;60
+yourefired;60
 youregettingsleepy;60
 youregood;60
 youregoodenoughtoeat;60
