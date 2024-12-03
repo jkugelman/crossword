@@ -44,9 +44,21 @@
 ##weapons;"Federal agents raid gun shop, find ___" (The World)
 ##weather;"Forecaster calls for ___ on Monday" (Pittsburg Post-Gazette)
 ##wind;"Passing ___ strands BC Ferry passengers" (Vancouver Sun)
+#*bathe;What nuns do out of habit? [used in Crossover Films]
+#*nun;Someone who bathes out of habit? [used in Crossover Films]
+#*nuns;Ones who bathe out of habit? [used in Crossover Films]
+#*shower;What nuns do out of habit? [used in Crossover Films]
+#bathes;What a nun does out of habit? [used in Crossover Films]
+#bbs;Cheap shot? [used in Crossover Films]
+#showers;What a nun does out of habit? [used in Crossover Films]
+#takeabath;What nuns do out of habit? [used in Crossover Films]
+#takeashower;What nuns do out of habit? [used in Crossover Films]
+#takebaths;What nuns do out of habit? [used in Crossover Films]
+#takesabath;What a nun does out of habit? [used in Crossover Films]
+#takesashower;What a nun does out of habit? [used in Crossover Films]
+#takeshowers;What nuns do out of habit? [used in Crossover Films]
 *adlibber;Make-up artist?
 *adlibbers;Make-up artists?
-*bathe;What nuns do out of habit?
 *beer;Heady stuff?
 *bigbang;Creative spark?
 *bookburning;Lit on fire?
@@ -77,8 +89,6 @@
 *nodder;Silent letter?
 *nodders;Silent letters?
 *northpaw;Right-hand man
-*nun;Someone who bathes out of habit?
-*nuns;Ones who bathe out of habit?
 *onsafari;Where to watch the big game?
 *onset;Where to see shooting stars?
 *petname;Love handle?
@@ -91,7 +101,6 @@
 *sextoys;Congressional aids?
 *shot;Take in a movie?
 *shots;Takes in a movie?
-*shower;What nuns do out of habit?
 *stifle;Word that's an anagram of itself
 *stoned;High definition
 *tearjerkers;Read 'em and weep
@@ -221,7 +230,6 @@ basspaleale;Drink like a fish?
 bathe;Get into hot water
 bathed;Got into hot water
 bathes;Gets into hot water
-bathes;What a nun does out of habit?
 batter;Ballpark figure?
 batter;It hits close to home?
 batter;Pancake makeup?
@@ -230,7 +238,6 @@ batters;They hit close to home?
 battery;A take charge individual?
 battery;One that takes charge?
 baudrate;Terminal velocity?
-bbs;Cheap shot?
 bea;Arthurian legend?
 beak;Bit of a lark?
 beatit;Order to go
@@ -1371,7 +1378,6 @@ shortu;Stuck in the middle?
 shower;Get into hot water
 showered;Got into hot water
 showers;Gets into hot water
-showers;What a nun does out of habit?
 shrink;Baggage handler?
 shrinks;Unloading zone?
 shush;Zip line?
@@ -1526,16 +1532,10 @@ tacobar;Shell station?
 tacobars;Shell stations?
 tag;Burger day?
 takeabath;Get into hot water
-takeabath;What nuns do out of habit?
 takeahike;Order to go
 takeashower;Get into hot water
-takeashower;What nuns do out of habit?
-takebaths;What nuns do out of habit?
 takesabath;Gets into hot water
-takesabath;What a nun does out of habit?
 takesashower;Gets into hot water
-takesashower;What a nun does out of habit?
-takeshowers;What nuns do out of habit?
 tattooartist;Permanent marker?
 tattooartists;Permanent markers?
 tattooer;Permanent marker?
