@@ -6524,6 +6524,7 @@ buysoncredit;50
 buysonimpulse;50
 buysonmargin;50
 buz;20
+buzzfeed;60
 buzzy;50
 bvd;30;Underwear brand
 bvds;30
@@ -10403,6 +10404,7 @@ dangitall;60
 dangitalltoheck;60
 dangittoheck;60
 dangme;20
+dani;40
 danmarino;50
 dannykaye;50
 dano;50
@@ -16674,6 +16676,7 @@ fundraiser;50
 fundraisers;50
 fundraising;50
 fundraisingdrive;50
+funfetti;60
 fungaria;50
 fungarium;50;Fungus collection
 fungariums;50
@@ -21568,6 +21571,7 @@ imnotabadperson;60
 imnotarobot;60;CAPTCHA checkbox
 imnotbuyingit;60
 imnotdead;60
+imnotdoinganything;60
 imnotdone;60
 imnotevenhere;60
 imnotgoingtoreadallthat;60
@@ -22676,6 +22680,7 @@ itllbeourlittlesecret;60
 itllbetheendofme;60
 itllcostya;60
 itllcostyou;60
+itllcostyounothing;60
 itllgrowonyou;60
 itllpayforitself;60
 itllpayforitselfinnotime;60
@@ -22836,6 +22841,9 @@ itwasjustathought;60
 itwasmeanttobe;60
 itwasntme;60
 itwasntnotmyfinesthour;60
+itwillcostyounothing;60
+itwontcostyouadime;60
+itwontcostyouanything;60
 ity;30;Suffix [rare]
 itza;40
 iud;40
@@ -28137,9 +28145,10 @@ misdid;30
 misdo;30
 misdoer;30
 misdoes;30
-misfed;30
-misfeed;30
-misfeeds;30
+misfed;40
+misfeed;40
+misfeeding;40
+misfeeds;40
 misfire;50
 misfired;50
 misfires;50
@@ -33928,6 +33937,7 @@ piffled;50
 piffles;50
 piffling;50
 pig;50
+pigbutchering;60;Scamming term
 pigear;50
 pigears;50
 pigeoncoop;50
@@ -35485,7 +35495,9 @@ psa;40
 psaki;40;Former White House Press Secretary Jen Psaki
 psalmist;30
 psalmody;30
+psalter;30;Book of hymns
 psalteries;30;???
+psalters;30
 psaltery;30
 psas;40
 psat;40
@@ -41545,6 +41557,8 @@ sizer;30
 sizers;30
 sizetwo;30
 ska;50
+skag;30;Surfboard fin
+skags;30
 skanky;40
 skatedonthinice;60
 skateguard;50
@@ -41563,7 +41577,10 @@ skean;20
 skeans;20
 skee;40
 skeelo;50;"I Wish" rapper
-skeg;20
+skeg;30;Surfboard fin
+skegg;30;Surfboard fin
+skeggs;30
+skegs;30
 skeletomuscular;50
 skeletoninthecloset;60
 skeletonsinthecloset;60
@@ -49880,6 +49897,7 @@ videoessayist;50
 videoessayists;50
 videoessays;50
 videofeed;50
+videofeeds;50
 vidi;30
 vids;40
 vie;50
