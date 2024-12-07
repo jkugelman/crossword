@@ -441,6 +441,8 @@ act;50
 actaeon;30;Greek hero
 actas;40
 actbig;40
+actbreak;60
+actbreaks;60
 actcasual;60
 acte;40
 actedas;40
@@ -7734,6 +7736,9 @@ chanty;20;(Sea) shanty
 chao;40
 chaoschaos;50;???
 chaotian;20;Proposed geologic era
+chaoticevil;60;D&D alignment
+chaoticgood;60;D&D alignment
+chaoticneutral;60;D&D alignment
 chapala;40;Mexican town/lake
 chapati;40;Indian flatbread
 chapatis;40
@@ -12123,6 +12128,7 @@ dontwaitupforus;50
 dontworryaboutit;60
 dontworryicantakeit;60
 dontyoubelieveit;60
+dontyoulikeit;60
 dontyouremember;60
 dontyousee;60
 donuthole;60
@@ -12738,6 +12744,7 @@ duddy;40;Fuddy duddy
 dudebro;60
 duded;40
 dudedup;50
+dudenotfunny;60
 dudeyouregettingadell;50
 due;50
 duebill;30
@@ -12784,6 +12791,8 @@ dumbass;60
 dumbasses;60
 dumbdora;5
 dumbdown;60
+dumbjock;60
+dumbjocks;60
 dumbquestion;60
 dummybag;50
 dummybags;50
@@ -14911,6 +14920,8 @@ fabricatedstory;50
 fabricsofteners;50
 fac;20
 facebookbuttons;50
+facecam;60
+facecams;60
 facedit;30
 facedtherap;20
 facedupto;40
@@ -17661,6 +17672,8 @@ glarer;40
 glarers;40
 glaresat;40
 glaringat;40
+glasscannon;60
+glasscannons;60
 glasschin;60
 glasschins;60
 glasscity;30;Toledo, OH?
@@ -18316,6 +18329,7 @@ gothard;20
 gothband;50
 gothbands;50
 gothicart;50
+gothichorror;60
 gothitched;50
 gotideas;50
 gotinabind;50
@@ -19045,6 +19059,8 @@ hailofbullets;60
 hailsfrom;50
 hailto;20
 haim;40;Corey Haim
+hairflip;60
+hairflips;60
 hairfollicle;50
 hairfollicles;50
 hairplug;50
@@ -19248,6 +19264,8 @@ hardcaps;50
 hardcider;50
 hardciders;50
 hardcontactlens;50
+hardcut;60
+hardcuts;60
 harddisagree;60
 hardearnedmoney;60
 hardeight;50
@@ -19947,6 +19965,7 @@ heydude;60
 heygoogle;60
 heyijustworkhere;60
 heysiri;60
+heywait;60
 hgt;20
 hgtv;40
 hgwells;50
@@ -21230,6 +21249,7 @@ ifiranthecircus;60;Dr. Seuss book
 ifiranthezoo;60;Dr. Seuss book
 ifitaintbrokedontfixit;60
 ifneedbe;60
+ifonlyyouknew;60
 iforone;50
 ifrun;20
 ifs;50
@@ -21957,6 +21977,10 @@ infodemic;40
 infodemics;40
 infodesk;50
 infodesks;50
+infodrop;60
+infodrops;60
+infodump;60
+infodumps;60
 infoil;30
 infold;30;???
 infolded;20
@@ -22912,6 +22936,7 @@ iwannasee;60;"Move out of the way!"
 iwantinonthat;60
 iwantout;60
 iwanttosee;60;"Move out of the way!"
+iwasbornready;60
 iwasframed;60
 iwaslike;60
 iwilleatyoualive;60
@@ -24165,6 +24190,7 @@ ktevent;40;Extinction event that killed the dinosaurs
 ktextinction;40;It killed the dinosaurs
 ktextinctionevent;40
 kts;20
+kubrickstare;60
 kudo;20
 kue;20
 kuiper;50;Kuiper belt
@@ -24560,6 +24586,8 @@ lassoo;1
 lastactionhero;60
 lastcall;50
 lastcalls;50
+lastditchmove;60
+lastditchmoves;60
 laster;20
 lastex;30;Type of yarn
 lastforever;50
@@ -24689,6 +24717,9 @@ lawanda;40;LaWanda Page of "Sandford and Son"
 lawclerk;50
 lawclerks;50
 lawfirm;50
+lawfulevil;60;D&D alignment
+lawfulgood;60;D&D alignment
+lawfulneutral;60;D&D alignment
 lawofattraction;50
 lawrencewelk;50
 lawschool;50
@@ -25384,9 +25415,11 @@ lifeexperience;50
 lifeforces;40;Questionable plural
 lifeform;50
 lifeforms;50
+lifeisntfair;60
 lifepartner;50
 lifeskill;50
 lifeskills;50
+lifesnotfair;60
 lifestage;50
 lifestages;50
 lifestory;50
@@ -25941,6 +25974,8 @@ longo;40
 longos;20
 longoverdue;50
 longsfor;40
+longtake;60
+longtakes;60
 longtimelistener;60
 longtimelistenerfirsttimecaller;60
 longu;40
@@ -29662,6 +29697,8 @@ neutralcolor;50
 neutralcolors;50
 neutralcorner;50
 neutralcorners;50
+neutralevil;60;D&D alignment
+neutralgood;60;D&D alignment
 neutralground;50
 neutrino;50
 neutrinos;50
@@ -30406,6 +30443,7 @@ noticer;40
 noticers;40
 notill;40;Plowing method
 notimeflat;60
+notimetoexplain;60
 notin;40
 notinmybackyard;60
 notinoneswheelhouse;50
@@ -31098,6 +31136,7 @@ ohmylord;60
 ohmystars;60
 ohneat;60
 ohno;50
+ohnonotagain;60
 ohnoreason;60
 ohnoyoudidnt;60
 oho;40
@@ -45690,6 +45729,7 @@ technocrat;50
 technocrats;50
 technofunk;50
 technopop;50
+techtree;60
 tecs;20
 ted;50
 tedder;20;Haymaking machine
@@ -47254,6 +47294,8 @@ timeserved;50
 timeses;30;Multiplies
 timesink;60
 timesinks;60
+timeskip;60
+timeskips;60
 timessymbol;50
 timetable;50
 timetables;50
@@ -47643,6 +47685,7 @@ tooearlytotell;60
 tooeasy;60
 toofar;60
 tooforeboding;20
+toohotfortv;60
 toohottohandle;60
 tookabath;50
 tookabus;30
@@ -48399,6 +48442,7 @@ trueblue;60
 truebut;30
 trued;40
 trueness;30
+trueneutral;60;D&D alignment
 trues;40
 truethat;60
 trull;20
@@ -49100,6 +49144,8 @@ understatementofthedecade;60
 understatementoftheyear;60
 understudy;50
 underthewire;60
+underwaterbase;60
+underwaterbases;60
 undimmed;30
 undine;30;Water nymph
 undoings;40
@@ -49189,6 +49235,8 @@ unladed;30
 unlades;30
 unleavenedbread;50
 unlet;30
+unlikelyhero;60
+unlikelyheroes;60
 unlimber;30
 unloosen;30
 unlooses;30
@@ -50411,6 +50459,7 @@ wasin;40
 wasinfor;20
 wasitgoodforyou;60
 wasmet;20
+wasntthatfun;60
 wason;40
 wasonadate;30;Green paint???
 waspy;50
@@ -50920,6 +50969,7 @@ whatdoyouthinkyouredoing;60
 whatexactlyisthepoint;60
 whatfor;60
 whathappensnext;60
+whathaveibecome;60
 whatinblazes;60
 whatisdeadmayneverdie;60
 whatjusthappened;60
@@ -52067,6 +52117,7 @@ youcanthaveitbothways;60
 youcantlose;60
 youcantmakeme;60
 youcantmeanthat;60
+youcantmissit;60
 youcantteachheight;60;N.B.A. draft saying
 youcantwin;60
 youcouldsaythat;60
@@ -52096,6 +52147,7 @@ youhavesomenerve;60
 youheardme;60
 youhearme;60
 youidiot;60
+youknowtheone;60
 youllcomearound;60
 youllfitrightin;60
 youllgofar;60
