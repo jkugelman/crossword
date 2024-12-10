@@ -1161,6 +1161,7 @@ ais;30;AIs
 aisled;30;Awkward
 aisleseat;50
 aisleseats;50
+aislop;60
 ait;20
 aix;20
 aja;20;Steely Dan album
@@ -2043,6 +2044,7 @@ annerice;50
 annetyler;50
 anni;30
 annies;40;Health food brand
+annika;40
 annlee;40
 anno;40
 annoyer;30
@@ -3107,7 +3109,6 @@ aswe;20
 asyla;30
 asyndeton;40;Literary device
 asyoudo;40;Kinda awkward
-asyoudo;50
 asyoumayhavesuspected;60
 asyousaid;60
 asyoususpect;60
@@ -4929,6 +4930,7 @@ bigbashes;50
 bigberthas;50
 bigbird;50
 bigblind;50
+bigboypants;60
 bigd;40;Nickname for Dallas
 bigdance;50;March Madness tourney
 bigdata;50
@@ -7076,6 +7078,8 @@ carcinomas;30
 carcinomata;30
 carcinomatous;30
 carcoat;30;Old-fashioned attire for a motorist
+carcommercial;50
+carcommercials;50
 card;50
 cardboardcutout;50
 cardboardcutouts;50
@@ -7229,6 +7233,8 @@ cartoonshorts;50
 cartoonstrip;50
 cartoonstrips;50
 cartoonviolence;60
+cartrailer;50
+cartrailers;50
 cartrunk;50
 cartrunks;50
 cartsoff;50
@@ -10413,7 +10419,7 @@ dangme;20
 dani;40
 danmarino;50
 dannykaye;50
-dano;50
+dano;40
 danpatch;50;Champion horse in the early 1900s
 dans;30
 dansavage;50
@@ -10797,6 +10803,8 @@ declaimer;30
 declaimers;30
 declaiming;50
 declaims;50
+declarationofwar;50
+declarationsofwar;50
 declaredwar;50
 declarer;40
 declarers;40
@@ -21002,6 +21010,9 @@ ice;50
 icearena;40
 icearenas;40
 icebelt;30
+icebreakergame;60
+icebreakergames;60
+icebreaking;50
 icecapped;50
 icecold;50
 icecoldbeerhere;60
@@ -24484,6 +24495,7 @@ lapidating;30
 lapin;20;Rabbit fur
 lapins;20
 lapis;40
+lapislazuli;50
 laporte;40;???
 lappedat;40
 lappingat;40
@@ -24777,6 +24789,7 @@ laysto;20
 layto;20;Dock
 laytorest;60
 laz;20
+lazuli;40
 lazyriver;60
 lazyrivers;60
 lazyslob;50
@@ -25621,6 +25634,8 @@ lionsgate;50
 liontamer;50
 liontamers;50
 liontaming;50
+liontrainer;50
+liontrainers;50
 lip;50
 lipa;40
 lipari;20;Italian islands
@@ -26165,6 +26180,7 @@ loudened;50
 loudening;50
 loudens;50
 loudish;30
+loudnesswar;60
 loudout;1
 loudreport;50
 loudreports;50
@@ -26299,7 +26315,7 @@ lsit;40;Ab exercise
 lsits;40
 lst;20;WWII carrier, "Landing Ship, Tank"
 lsu;40
-lt;50
+lt;40
 lta;20
 ltcol;40
 ltcols;40
@@ -26590,7 +26606,6 @@ madeof;40
 madeoff;30
 madeofhonor;1
 madeoneselfmiserable;50
-madeonoffer;50
 madeplans;50
 madeproud;50
 maderoom;50
@@ -28220,12 +28235,14 @@ missdaisy;50
 missedacue;40
 missedexam;20
 missedme;60
+missedthebus;50
 missedthetarget;50
 missegypt;50
 missellie;40;"Dallas" character
 missend;40
 missent;40
 missesacue;40
+missesthebus;50
 missesthetarget;50
 missfirecracker;50
 missilelauncher;50
@@ -28235,6 +28252,7 @@ missilesilos;50
 missingacue;40
 missingpiece;50
 missingpieces;50
+missingthebus;50
 missingthetarget;50
 missionaryridge;50
 missioncreep;50
@@ -28248,6 +28266,7 @@ missoulamontana;30
 missoulamt;30
 missrona;20
 missthang;60
+missthebus;50
 missthetarget;50
 missthing;60
 misstorso;40;"Rear Window" character
@@ -32681,6 +32700,8 @@ padua;30;Italian art city
 paduan;20;Inhabitant of Padua, Italy
 paduans;20;Inhabitants of Padua, Italy
 paducah;20
+paean;40
+paeans;40
 paeon;20
 paeons;20
 paese;40
@@ -32938,6 +32959,7 @@ paratrooper;50
 paratroopers;50
 paratroops;40
 parcells;50
+pard;40
 pardoner;40
 pardoners;40
 paree;30
@@ -34322,6 +34344,7 @@ plantforemen;50
 plantingaseed;50
 planto;40
 plantsaseed;50
+plantsat;50
 plantsit;60
 plantsits;60
 plantsitter;60
@@ -35818,6 +35841,10 @@ putoneoveron;50
 putonesfeetup;50
 putonesfingeron;60
 putonto;40
+putonyourbigboypants;60
+putonyourbiggirlpanties;60
+putonyourbiggirlpants;60
+putonyoursundayclothes;50
 putouttopasture;60
 putput;20
 putsacurseon;50
@@ -35859,6 +35886,9 @@ putunder;50
 putupjob;60
 putupjobs;60
 putuporshutup;60
+putyourbigboypantson;60
+putyourbiggirlpantieson;60
+putyourbiggirlpantson;60
 puzzlebox;50
 puzzleboxes;50
 pvc;40
@@ -37322,7 +37352,7 @@ relos;40
 relose;20
 relyingon;40
 relyon;40
-rem;50;REM sleep, or the band
+rem;40;REM sleep, or the band
 remagen;30;???
 remail;20
 remails;20
@@ -38357,6 +38387,7 @@ roastbeast;50;Whoville meal
 roastingpan;50
 roastingpans;50
 rob;50
+robb;40
 robbed;50
 robbedpetertopaypaul;60
 robben;30;???
@@ -39042,7 +39073,7 @@ ryman;20
 ryn;20
 rys;20
 s;1
-sa;50
+sa;40
 saag;40
 saaremaa;30;Estonian island
 saatchi;30;Ad agency Saatchi & Saatchi
@@ -51677,7 +51708,7 @@ wwiivets;50
 wwivet;50
 wwivets;50
 wwjd;60
-www;50
+www;40
 wxy;20
 wxyz;20
 wyattearp;50
