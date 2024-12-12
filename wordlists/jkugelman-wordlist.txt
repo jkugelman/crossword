@@ -1209,6 +1209,8 @@ alapa;20
 alarigeur;20;To the fullest extent: Fr.
 alarmer;30
 alarmism;40
+alarmsystem;50
+alarmsystems;50
 alarum;20
 alarums;20
 alastair;30;<Nobody super notable>
@@ -7731,8 +7733,10 @@ chancroid;5;STD
 chancroids;5
 chandlerarizona;30
 changeofperspective;50
+changeofstate;50
 changesare;1
 changesofperspective;50
+changesofstate;50
 chanson;30;French song style
 chansons;30
 chanteuse;50
@@ -9183,6 +9187,7 @@ consistories;40
 consistory;40;Council of cardinals
 consonantly;40
 conspirito;50
+constitutionstate;50
 constructivecriticism;50
 cont;40
 contac;40;Medicine brand
@@ -10444,7 +10449,7 @@ dareme;60
 darer;40
 darers;40
 daresay;50
-daressalaam;30
+daressalaam;40;Largest city in Tanzania (but not the capital)
 daresto;40
 dareto;40
 daringto;40
@@ -16044,6 +16049,8 @@ floweringplants;50
 flowerings;30
 flowers;50
 flownthecoop;60
+flowstate;60
+flowstates;60
 flu;50
 flubadub;50;Howdy Doody character
 flubug;50
@@ -16101,6 +16108,8 @@ flyinto;40
 flymetothemoon;60
 flyopen;50
 flyover;50
+flyoverstate;60
+flyoverstates;60
 flyswatter;50
 flyswatters;50
 flythecoop;60
@@ -16850,6 +16859,8 @@ gamblingdebts;50
 gameact;20;1831 UK law
 gameapp;20
 gameapps;20
+gameengine;50
+gameengines;50
 gamegenie;60
 gamegenies;60
 gameplan;50
@@ -20717,6 +20728,8 @@ housepet;50
 housepets;50
 housered;50
 housereds;50
+houserule;60
+houserules;60
 housesitter;50
 housesitters;50
 housewarmingparties;50
@@ -21617,6 +21630,7 @@ imnotgoingtoreadallthat;60
 imnotgonnareadallthat;60
 imnothavingit;60
 imnotplayingaround;60
+imnotscared;60
 imnotsorry;60
 imnotyourmother;60
 imo;40
@@ -28773,6 +28787,8 @@ mounded;30
 mounjaro;50;Weight loss drug
 mountainousarea;40
 mountainpose;50
+mountainstate;50
+mountainstates;50
 mounterebus;50
 mounthoodoregon;50
 mountrushmore;50
@@ -29271,6 +29287,8 @@ nankeen;20
 nankeens;20
 nankipoo;30
 nannie;40;Civil Rights activist Nannie Helen Burroughs
+nannystate;60
+nannystates;60
 nannytax;50
 nannytaxes;50
 nannytea;40;Folk remedy
@@ -30357,6 +30375,7 @@ northof;50;More than
 northpaw;60
 norths;30
 northstar;50
+northstarstate;50
 norun;20
 noruns;20
 norush;60
@@ -32531,6 +32550,8 @@ overgeneralization;50
 overgenerosity;50
 overhastiness;50
 overheadprojectors;50
+overheadsquat;50
+overheadsquats;50
 overinflation;50
 overlie;40
 overlies;40
@@ -33312,6 +33333,7 @@ peabrain;60
 peaceable;40;Disposed to peace, non-violent
 peaceandpeppers;1
 peacecorps;50
+peacegardenstate;50
 peacemaker;50
 peacemakers;50
 peacemarch;50
@@ -38648,16 +38670,20 @@ rootcause;50
 rootcauses;50
 rootedaround;50
 rootedfor;40
+rootedfortheunderdog;60
 rootedon;50
 rootfor;40
+rootfortheunderdog;60
 rootingaround;50
 rootingfor;40
+rootingfortheunderdog;60
 rootingon;50
 rootlet;40
 rootlets;40
 rooton;50
 rootsaround;50
 rootsfor;40
+rootsfortheunderdog;60
 rootson;50
 rootstalk;50
 rootstalks;50
@@ -39621,6 +39647,7 @@ savesface;60
 savesgas;50
 saveson;40
 savesto;40
+savethewhales;60
 saveto;40
 savile;40;Savile Row, London street known for tailoring
 savingface;60
@@ -39716,9 +39743,14 @@ scaredof;40
 scaredstiff;60
 scaredstraight;60
 scaredup;60
+scaredycat;60
+scaredycats;60
+scarequotes;60
 scarer;50
 scarers;50
 scaresup;60
+scaretactic;60
+scaretactics;60
 scareup;60
 scarey;20;Variant spelling
 scarface;60
@@ -42834,6 +42866,7 @@ southkoreans;50
 southpole;50
 soutine;30;French expressionist painter
 sov;20
+sovereignstate;50
 sovereignstates;50
 sovetsk;20;Russian city
 sovietbloc;50
@@ -46385,6 +46418,7 @@ thecolonel;30;???
 thecolts;40
 theconga;30
 thecongo;30
+thecontinentalarmy;40
 thecopa;40
 thecops;40
 thecore;40;Sci-fi film
