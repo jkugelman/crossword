@@ -5401,6 +5401,8 @@ blowakiss;50
 blowhard;60
 blowhards;60
 blowhisownhorn;50
+blowhole;60
+blowholes;60
 blowingakiss;50
 blowinginto;40
 blowingoff;50
@@ -6292,6 +6294,7 @@ bubblegum;50
 bubblegumpink;60
 bubbles;50
 buc;40
+bucatini;40;Hollow spaghetti-like pasta
 buchedenoel;50;???
 buckaroo;60
 buckedforapromotion;50
@@ -10116,6 +10119,7 @@ csharp;40
 csharps;40
 csharpscale;40
 csi;40
+csimiami;60
 csis;40
 csmajor;50
 csmajors;50
@@ -10842,6 +10846,7 @@ deatheaters;60
 deathglare;60
 deathgrip;60
 deathgrips;30
+deathintheafternoon;60;Wine cocktail
 deathoftheauthor;60
 deathrowrecords;60
 deathstare;60
@@ -12846,6 +12851,7 @@ ducatis;50
 ducats;40
 duce;40
 duck;50
+duckamuck;60
 duckanddive;60;UK slang
 duckconfit;50
 duckedanddived;60
@@ -16108,6 +16114,8 @@ flipsthebird;60
 flipthebird;60
 fliptop;50
 flirtatiousmove;1
+flirtini;60;Cocktail
+flirtinis;60
 flitin;40
 flitsin;40
 flittedin;40
@@ -18769,6 +18777,7 @@ greeneggsandham;60;Dr. Seuss book
 greener;50
 greenes;30
 greenest;50
+greenfairy;60;Absinthe
 greenhorn;50
 greenhorns;50
 greenish;30
@@ -19302,6 +19311,7 @@ hamantash;40;Jewish pastry
 hamantashen;40
 hamartia;30;Hero's fatal flaw
 hamer;30;Civil rights activist Fannie Lou Hamer, or Frank Hamer who tracked down Bonnie and Clyde
+hamingwaychampagne;60;Cocktail
 hamite;20
 hamites;20
 hamlisch;50;Composer Marvin Hamlisch with an EGOT and Pulitzer
@@ -24515,6 +24525,7 @@ ladyish;30
 ladylike;50
 ladyluck;60
 lae;20
+lafeeverte;40;Absinthe, la fée verte "the green fairy"
 lafitte;40;1800s pirates Jean and Pierre Lafitte
 lafontaine;30;French poet
 lag;50
@@ -26265,6 +26276,7 @@ loomlarge;60
 loompa;40
 loomslarge;60
 loophole;60
+loopholes;60
 looseconnection;50
 looseconnections;50
 looseend;50
@@ -33839,6 +33851,7 @@ perceiver;40
 perceivers;40
 percha;20
 perchlorate;40;Chemical used in fireworks, explosives, and rocket fuel
+perciatelli;40;Hollow spaghetti-like pasta
 perdu;20;Hidden
 pere;40
 perec;40
@@ -34362,9 +34375,12 @@ pinkertons;50
 pinkett;50
 pinkflamingo;50
 pinkflamingos;50
+pinkflirtini;60
+pinkflirtinis;60
 pinkgin;50
 pinkiepromise;60
 pinkieswear;60
+pinkmartini;60
 pinknoise;50
 pinkoes;20;Variant spelling
 pinkpanthershow;50
@@ -42568,14 +42584,18 @@ snatching;50
 snead;40
 sneads;30
 sneakapeek;50
+sneakby;40
 sneakedapeek;50
+sneakedby;40
 sneakedinto;40
 sneakingapeek;50
+sneakingby;40
 sneakinginto;40
 sneakinto;40
 sneakpreview;50
 sneakpreviews;50
 sneaksapeek;50
+sneaksby;40
 sneaksinto;40
 sneerat;40
 sneeredat;40
@@ -42643,6 +42663,7 @@ snortedat;40
 snortingat;40
 snortsat;40
 snorty;40;Ill-tempered or annoyed, to a Brit
+snotnosed;60
 snowangel;60
 snowangels;60
 snowball;60
@@ -42683,6 +42704,7 @@ snowyowls;50
 snozzberry;60;Willy Wonka fruit that shows up in flavored wallpaper
 snr;20
 snuckapeek;50
+snuckby;40
 snuckinto;40
 snugli;40;Baby carrier brand
 so;50
@@ -45655,6 +45677,7 @@ tamara;40
 tamarac;20;Florida city
 tamari;30;Japanese soy sauce
 tamblyn;30
+tameless;40;Untamed or untamable
 tamers;40
 tami;40;Romance/thriller novelist Tami Hoag (22 million books sold)
 tamia;30;Canadian singer
@@ -46525,6 +46548,7 @@ thatsaid;60
 thatsakeeper;60
 thatsalie;60
 thatsamore;60
+thatsano;60
 thatsanonstarter;60
 thatsarealstretch;60
 thatsarightpickle;60
@@ -46678,6 +46702,7 @@ thebrocode;40
 thebrow;20
 thebuddha;50
 thebulls;40
+theburbs;50
 thebutterbattlebook;60;Dr. Seuss book
 thecab;20
 thecalmbeforethestorm;60
@@ -46763,6 +46788,7 @@ theeconomist;50
 theemmys;40
 theemperor;60;Tarot card
 theepa;20
+theespys;40
 theeu;20
 theeuro;20
 theexpertscurse;60
@@ -46808,6 +46834,7 @@ thegreatbrain;30;Children's book series
 thegreatest;60
 thegreatoldones;60;Cthulhu, etc.
 thegreenarrow;40
+thegreenfairy;60;Absinthe
 thegrownupsaretalking;60
 thehague;50
 thehangedman;60;Tarot card
@@ -49551,6 +49578,7 @@ unfitted;40
 unfocussed;20
 unfrozencavemanlawyer;60
 ungava;30;Canadian district, gin
+unger;40
 ungird;40;Release or take off, like armor
 ungirded;40
 ungirding;40
@@ -50027,6 +50055,7 @@ uteri;40
 utero;40
 utes;40
 uthant;20;U.N. Secretary-General 1961-1971
+uther;40
 uti;20
 util;40
 utile;40
@@ -51370,6 +51399,7 @@ whatseemstobetheissue;60
 whatseemstobetheproblem;60
 whatsinitforme;60
 whatsonyourmind;60
+whatsoperadoc;60
 whatsshakinbacon;60
 whatsthat;60
 whatsthegoodword;60
