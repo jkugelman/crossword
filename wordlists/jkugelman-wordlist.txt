@@ -4061,6 +4061,8 @@ barfed;5
 barfight;50
 barfights;50
 barfing;5
+barflies;60
+barfly;60
 barfs;5
 barfy;5
 bargainhunter;60
@@ -4224,6 +4226,9 @@ batchit;1
 batday;50
 bate;30;Awkward to not be "bated"
 bates;50;Norman Bates
+batflip;50;Baseball show off move
+batflipping;50
+batflips;50
 batgirl;50
 batgirls;50
 batguano;60
@@ -6919,6 +6924,8 @@ cana;30;Biblical miracle site
 canadaandtheusa;1
 canadianembassy;50
 canaille;30;The masses, derogatorily
+canaller;40;Canal worker or vessel
+canallers;40
 canasta;50
 canastas;40;Melds in canasta
 cancandance;50
@@ -20384,6 +20391,7 @@ hmmm;20
 hmo;40
 hmos;40
 hms;40
+hmsbounty;50;Mutiny on the Bounty ship
 hmu;30;Has not been used yet
 hnc;20
 ho;40
@@ -22182,7 +22190,7 @@ ingres;30;Neoclassical painter Jean-Auguste-Dominique Ingres
 inhaul;40;Rope used to pull in a ship's sail
 inhd;40
 inheels;50
-inhere;40
+inhere;50;"In here!"
 inhered;40
 inherence;30
 inheres;40
@@ -23163,6 +23171,7 @@ jacketcopy;50
 jackhammer;60
 jackjohnson;50
 jackkennedy;50
+jacklord;40;"Hawaii Five-O" star
 jacknicholson;50
 jackofclubs;50
 jackofcoins;60;Tarot card
@@ -24582,6 +24591,8 @@ lameduck;60
 lameduckpresident;60
 lameduckpresidents;60
 lameducks;60
+lamella;30;Thin layer of tissue
+lamellae;30
 lames;30
 lamesa;40;San Diego suburb
 lamina;40;Thin layer
@@ -24640,6 +24651,7 @@ laniards;20
 lanina;40
 lankan;40
 lanker;40
+lanolins;40;Plural?
 lansingmi;40
 lansingmichigan;30;???
 lanternfestival;60
@@ -25098,6 +25110,7 @@ leatherpumps;50
 leatherseat;50
 leatherseats;50
 leavego;20
+leavein;40
 leaveme;50
 leavemealone;60
 leavemeoutofit;60
@@ -25107,12 +25120,14 @@ leavenow;50
 leaveon;40
 leaver;40
 leavers;40
+leavesin;40
 leaveson;40
 leavesto;40
 leaveto;40
 leavetonguetied;50
 leavewhileyoustillcan;60
 leaveyouregoatthedoor;60
+leavingin;40
 leavingon;40
 leavingto;40
 leb;20
@@ -25170,6 +25185,7 @@ leetch;30;Who???
 leetspeak;50
 leftfor;40
 leftfordead;60
+leftin;40
 leftlanes;30
 lefton;40
 leftover;50
@@ -27179,6 +27195,8 @@ mamabear;60
 mamabears;60
 mamabird;50
 mamabirds;50
+mamalike;50;???
+mamalikes;60
 maman;20
 mamans;20
 mamaonaraft;50;???
@@ -33234,6 +33252,7 @@ parseltongue;60
 parsi;30;Zoroastrian
 parsiism;40;Indian religion
 parsis;30;Zoroastrians
+parsleys;40;Plural?
 parta;40
 partb;20;Medicare option
 partc;20;Medicare option
@@ -33371,8 +33390,12 @@ pastorate;40
 pastorates;40
 pat;50
 patagoniantoothfish;50;AKA Chilean sea bass
+patchedup;40
+patchesup;40
+patchingup;40
 patchtest;50
 patchtests;50
+patchup;40
 pate;50
 pated;40;Addle-pated?
 patel;40
@@ -40543,8 +40566,8 @@ seepsin;40
 seepsinto;40
 seepy;30
 seereason;50
-seeress;50;Cassandra, e.g.
-seeresses;50
+seeress;40;Cassandra, e.g.
+seeresses;40
 seesafter;30
 seesas;40
 seesfitto;40
@@ -42154,13 +42177,17 @@ slapat;40
 slapbass;60
 slapdash;50
 slapintheface;60
+slapon;40
 slapped;60
 slappedat;40
+slappedon;40
 slapper;50
 slappingat;40
+slappingon;40
 slaps;50
 slapsat;40
 slapshard;60
+slapson;40
 slasher;50
 slasherfilm;60
 slasherfilms;60
@@ -52736,6 +52763,7 @@ zestar;30;___! apple
 zestars;30;___! apples
 zetas;40
 zhao;40
+zhouenlai;50
 zhuzh;60
 zhuzhed;60
 zhuzhedup;60
