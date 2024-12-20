@@ -9307,6 +9307,10 @@ connectthedots;60
 conoidal;30;Nearly conical
 conormcgregor;60
 consarnit;50
+consentedto;40
+consentingto;40
+consentsto;40
+consentto;40
 conservativeestimate;50
 conservativeestimates;50
 consideritagift;60
@@ -12296,6 +12300,7 @@ doodad;60
 doodads;60
 doodlebug;60
 doodlebugs;60
+doofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 dooku;50
 doomedto;40
 doomer;60
@@ -12575,6 +12580,7 @@ drays;30
 drayyard;50
 drblight;50;Captain Planet baddie
 drdemento;50
+drdoofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 dre;50
 drea;40;Actress de Matteo
 dreamboat;60
@@ -12641,6 +12647,7 @@ drewon;40
 drewto;40
 drewtoaclose;60
 drfrankenstein;60
+drheinzdoofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 dri;20
 driblet;30
 driblets;30
@@ -15655,6 +15662,7 @@ fenn;40;Sherilyn Fenn
 fennec;40;Small fox
 fennecs;30
 fer;20
+ferbfletcher;50;From "Phineas and Ferb"
 ferdelance;30;Venomous snake
 fermiestimate;50
 fermiestimates;50
@@ -17044,8 +17052,12 @@ galuppi;30;18th century composer Baldassare Galuppi
 gam;40
 gamal;30;President Nasser of Egypt
 gamaliel;30
+gambledon;40
+gambleon;40
+gambleson;40
 gamblingdebt;50
 gamblingdebts;50
+gamblingon;40
 gameact;20;1831 UK law
 gameapp;20
 gameapps;20
@@ -19950,6 +19962,7 @@ hehhehs;30
 hehitme;60
 hehs;30
 heine;30;"Die Lorelei" poet Heinrich Heine
+heinzdoofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 heirdom;40
 heiressapparent;30
 heistfilm;60
@@ -20966,6 +20979,7 @@ hov;40
 how;50
 howaboutno;60
 howbadcoulditbe;60
+howbizarre;60
 howcool;60
 howcouldiforget;60
 howcouldyouforget;60
@@ -20976,7 +20990,7 @@ howditgo;60
 howdoesitfeel;60
 howdoesthatevenhappen;60
 howdoyoulikethemapples;60
-howe;50
+howe;40
 howelse;50
 howerton;50
 howilearnedtostopworryingandlovethebomb;60
@@ -20998,7 +21012,9 @@ howsitshaking;60
 howsoonweforget;60
 howsthat;60
 howsthatagain;60
+howstrange;60
 howwasit;50
+howweird;60
 hoy;40
 hoyt;30;Archery company, folk singer Hoyt Axton (Joy to the World)
 hps;20
@@ -23204,6 +23220,7 @@ iwannasee;60;"Move out of the way!"
 iwantinonthat;60
 iwantout;60
 iwanttosee;60;"Move out of the way!"
+iwas;40
 iwasbornready;60
 iwasframed;60
 iwaslike;60
@@ -23337,6 +23354,7 @@ jan;40
 jana;30
 jananovotna;50
 jandj;30
+janelle;40;Janelle Monae
 jangly;50
 janite;30;Fan of Jane Austen
 janitors;50
@@ -23357,6 +23375,8 @@ javanrhino;50
 javanrhinos;50
 javaprogrammer;50
 javaprogrammers;50
+javelina;30;Skunk pig
+javelinas;30
 jaw;50
 jawat;40
 jawedat;40
@@ -23604,6 +23624,7 @@ jokesaround;50
 jokesaroundwith;50
 jokester;60
 jokesters;60
+jokic;40;NBA superstar Nikola Jokić
 jokingaround;50
 jokingaroundwith;50
 jolietjake;50
@@ -26860,6 +26881,8 @@ macles;20;Twin crystals
 maconga;30;???
 macosx;30
 macrae;30;Gordon MacRae of "Oklahoma!" or Elizabeth MacRae of "The Conversation"
+macrolens;50
+macrolenses;50
 macten;30;Weapon
 macula;50;Center of the retina
 maculate;40
@@ -27549,6 +27572,8 @@ martinibar;50
 martinibars;50
 martiniglass;50
 martiniglasses;50
+martlet;30;Mythical bird without feet
+martlets;30
 martys;30
 marv;30
 marvelat;40
@@ -28827,6 +28852,7 @@ momtobe;50
 momzilla;60
 mon;40
 monacan;40
+monae;40;Janelle Monae
 monarda;20;Plant genus
 moncher;50;Mon cheri, shortened
 moncheri;50;My dear, for a man
@@ -30277,6 +30303,7 @@ niihau;40;Hawaiian island
 nik;30;Suffix
 nikead;20
 nikeads;20
+nikolajokic;50;NBA superstar
 nikolatesla;50
 nil;50
 nile;50
@@ -30718,6 +30745,7 @@ nosestud;50
 nosestuds;50
 noseyparker;60
 noseyparkers;60
+nosferatu;60
 nosher;40
 noshers;40
 noshot;50
@@ -30860,7 +30888,7 @@ nous;30
 nov;40
 novacain;20
 novacancies;60
-novae;30
+novae;40
 novartis;40;Pharmaceutical giant
 novate;30;Replace with a new contract
 novato;20;California city
@@ -34006,6 +34034,7 @@ peroration;40
 perorations;40
 perots;20
 perrot;30
+perrytheplatypus;60
 perseid;40
 persiancat;50
 persiancats;50
@@ -34181,6 +34210,7 @@ phimeson;50
 phimesons;50
 phindicator;50
 phindicators;50
+phineasflynn;50;From "Phineas and Ferb"
 phipps;30;Business partner of Andrew Carnegie
 phiz;20;Face, British slang
 phl;20
@@ -38471,6 +38501,7 @@ rican;40
 ricans;40
 ricardos;40;"I Love Lucy" family
 ricciolini;40;Type of pasta, or a Baroque painter
+ricearoni;60
 ricecooker;50
 ricecookers;50
 riced;40
@@ -39192,6 +39223,7 @@ rowanandmartin;50
 rowanatkinson;50
 rowans;20;Mountain trees
 rowdyroddypiper;60
+rowe;40
 rowel;20
 roweled;20
 rowell;20
@@ -40779,8 +40811,8 @@ selenites;20;Gypsum minerals
 selfabsorbed;50
 selfabsorption;50
 selfabuse;40
-selfaware;60
-selfawareness;60
+selfaware;50
+selfawareness;50
 selfdeprecating;50
 selfdoubt;50
 selfdriving;60
@@ -42065,6 +42097,7 @@ sittingpoolside;50
 situ;40
 siunit;40
 siunits;40
+siva;40;Hindu god of destruction
 sivaism;40
 siwa;40;YouTuber JoJo Siwa
 six;50
@@ -45388,6 +45421,8 @@ swit;30;Loretta Swit of "M.A.S.H."
 switchedto;40
 switchesto;40
 switchingto;40
+switchplate;50
+switchplates;50
 switchto;40
 swivet;40;Fluster or panic
 swivets;40
@@ -45631,6 +45666,7 @@ takeorders;50
 takeoutjoint;60
 takeoutplace;50
 takeovertargets;50
+takepains;50
 takesabath;50
 takesabus;30
 takesacab;30
@@ -45666,6 +45702,7 @@ takesinvain;50
 takesittothegrave;50
 takesliberties;50
 takesorders;50
+takespains;50
 takesthebait;60
 takesthecake;60
 takesthefall;60
@@ -45720,6 +45757,7 @@ takinginvain;50
 takingittothegrave;50
 takingliberties;50
 takingorders;50
+takingpains;50
 takingthebait;60
 takingthefall;60
 takingthel;60
@@ -46681,6 +46719,7 @@ thatsastretch;60
 thatsathought;60
 thatsawholenotherstory;60
 thatsawholeotherstory;60
+thatsbizarre;60
 thatsclassified;60
 thatscool;60
 thatseasyforyoutosay;60
@@ -46713,6 +46752,7 @@ thatsoundslikeayouproblem;60
 thatsquiteapickle;60
 thatsquiteastretch;60
 thatssonotokay;60
+thatsstrange;60
 thatsstretchingit;60
 thatssurprising;50
 thatsthat;60
@@ -46720,6 +46760,7 @@ thatsthething;60
 thatsthewayitgoes;60
 thatsthewayitis;60
 thatsthewaythecookiecrumbles;60
+thatsweird;60
 thatswhatiexpected;60
 thatswhatifigured;60
 thatswhatimafraidof;60
@@ -48263,6 +48304,7 @@ tookiteasy;60
 tookittothegrave;50
 tookliberties;50
 tookorders;50
+tookpains;50
 tookthebait;60
 tookthefall;60
 tookthel;60
@@ -49464,7 +49506,7 @@ tyres;40
 tyrones;30
 tyrosine;30;Amino acid
 tys;20
-tysm;30;[never used in NYT]
+tysm;40
 tyvek;40;Tyvek HomeWrap
 tyvm;30
 tywin;50
@@ -50645,6 +50687,7 @@ vistula;30;Longest river in Poland
 visualnovel;60
 visualnovels;60
 vita;40
+vitae;40
 vitalorgan;50
 vitalorgans;50
 vitaminh;50;Biotin or vitamin B7
@@ -52220,7 +52263,7 @@ wsj;40
 wsop;40
 wsu;20
 wsw;30
-wta;20
+wta;30;Women's Tennis Association
 wtf;40
 wto;20
 wts;20
