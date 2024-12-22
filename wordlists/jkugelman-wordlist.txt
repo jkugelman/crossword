@@ -532,6 +532,7 @@ acup;40
 acupbra;40
 acupbras;40
 acups;40
+acutabove;60
 acuter;40;More acute is significantly more common
 acutes;30
 acutest;40;Most acute is significantly more common
@@ -1798,6 +1799,7 @@ amorettos;30
 amorist;40
 amorists;40
 amorite;30
+amosmoses;40;Jerry Reed song (?)
 amosoz;40;Israeli writer Amos Oz
 amountedto;40
 amountingto;40
@@ -4587,6 +4589,8 @@ beeblebrox;60;Zaphod Beeblebrox
 beebox;50
 beeboxes;50
 beedance;50;Plant
+beeemoji;50
+beeemojis;50
 beefalo;60;Hybrid cattle/bison
 beefaloes;60
 beefalos;60
@@ -4896,7 +4900,7 @@ beton;40
 betonit;50
 betsey;40;Fashion designer Betsey Johnson
 betson;40
-betsyross;50
+betsyross;60
 betterat;40
 betternot;60
 betteryet;60
@@ -8030,8 +8034,8 @@ cheetle;40;Trademarked name for Cheeto dust
 chef;50
 cheffy;50;New slang
 chefs;50
-chefshat;50
-chefshats;50
+chefshat;60
+chefshats;60
 chefskiss;60
 chefskisses;50
 cheguevarashirt;60
@@ -8517,6 +8521,8 @@ classicnovel;50
 classicnovels;50
 classico;40;???
 classmatescom;20
+classpet;60
+classpets;60
 classpresident;50
 classpresidents;50
 classrep;50
@@ -8811,6 +8817,7 @@ cobaltblue;50
 cobaltic;40
 cobblestone;50
 cobblestones;50
+coboarena;40;Detroit convention center
 cobolcomputerlanguage;20
 cobrapose;50
 cobweb;60
@@ -8830,6 +8837,7 @@ cochairmen;50
 cochampion;50
 cochampions;50
 coche;30
+cockahoop;40;Boastful, exulting
 cockandbull;60
 cockandbullstories;60
 cockandbullstory;60
@@ -11200,6 +11208,7 @@ dementorwasp;50
 dementorwasps;50
 demigod;60
 demigods;60
+demimonde;40;Fringe women in 19th century France
 demised;30
 demising;30
 demit;30
@@ -13848,7 +13857,7 @@ ells;30
 elly;40;Baseball All-Star Elly De La Cruz
 ellydelacruz;50;Baseball All-Star Elly De La Cruz
 elm;50
-elmariachi;50
+elmariachi;60
 elmiest;20
 elmira;40;Mark Twain's hometown
 elmisti;30;Peruvian volcano
@@ -15079,6 +15088,9 @@ expedients;30
 expertscurse;60
 expletive;50
 expletives;50
+explodinghead;60;Emoji
+explodingheademoji;60
+explodingheademojis;60
 explosivetennisball;60;Acme invention
 explosivetennisballs;60;Acme invention
 expm;30
@@ -15151,6 +15163,8 @@ eyeroll;60
 eyerolling;60
 eyerolls;60
 eyers;30
+eyesemoji;60
+eyesemojis;60
 eyeshadow;50
 eyesore;60
 eyestrains;40
@@ -15930,6 +15944,7 @@ firedepartments;50
 firedonallcylinders;60
 firedupon;40
 fireemoji;60
+fireemojis;60
 fireengine;50
 fireenginered;50
 fireengines;50
@@ -17451,6 +17466,7 @@ genitor;30
 geniture;30;Parentage, archaic
 geniusbar;50
 geniusbars;50
+genmaicha;40;Japanese brown rice green tea
 gennaro;40;???
 gentian;30;???
 gentians;30;???
@@ -17762,6 +17778,8 @@ ghostbuster;60
 ghostbusters;60
 ghostdad;50
 ghosted;60
+ghostemoji;60
+ghostemojis;60
 ghostgun;60;Untraceable DIY firearm
 ghostgunkit;60
 ghostgunkits;60
@@ -19257,6 +19275,8 @@ habergeons;30
 habiliment;30;Clothing, usually plural
 habla;40
 hacek;30;Czech diacritic (ˇ)
+hackamore;40;Horseriding gear
+hackamores;40
 hackat;40
 hackathon;60
 hackathons;60
@@ -20596,6 +20616,8 @@ hogtie;60
 hogtied;60
 hogties;60
 hogtying;50
+hogwash;60
+hogwashes;40;Plural?
 hoh;20
 hohokus;20;New Jersey borough
 hohums;20
@@ -20757,6 +20779,13 @@ hon;50
 hondo;40
 honestas;30
 honestjohn;50
+honeybadger;60
+honeybadgers;60
+honeybaked;60
+honeybakedham;60
+honeybakedhams;60
+honeybear;60
+honeybears;60
 honeybunny;60
 honeydewmelon;50
 honeydewmelons;50
@@ -22951,6 +22980,8 @@ isogonic;30
 isolable;30
 isolative;40
 isolato;30;Outcast
+isolator;40
+isolators;40
 isolda;20;Not Tristan's love, it's rarely spelled that way
 isomeric;40
 isomorph;40
@@ -24105,6 +24136,7 @@ kerber;30;Tennis player Angelique
 kermitroosevelt;20
 kerosenes;40
 kerplop;60
+kerr;40
 kersee;40
 keshena;20;Tiny Wisconsin town
 ketch;30;Ship type
@@ -24284,6 +24316,8 @@ kingsnake;50
 kingsnakes;50
 kingsstilts;60;Dr. Seuss book, with "The"
 kingwenceslas;50
+kinkajou;40;Rainforest mammal "honey bear"
+kinkajous;40
 kinkshame;60
 kinkshamed;60
 kinkshames;60
@@ -24501,6 +24535,7 @@ koreanamericans;50
 koreanspa;50
 koreanspas;50
 korra;40;Aang's successor on Avatar, lead character of The Legend of Korra
+kors;40
 koruna;30;Czech currency
 korunas;30
 kos;40
@@ -24586,6 +24621,7 @@ kumail;40;"Silicon Valley" actor Kumail Ali Nanjiani
 kumar;40
 kumbaya;60
 kummels;30;Kummel's disease
+kundalini;40;Concept in Hinduism
 kung;40;Kung fu, kung pao
 kurta;30;Indian shirt
 kurtgodel;50
@@ -27420,6 +27456,7 @@ mandalore;40;???
 mandamus;30;Judicial writ of mandamus
 mandan;30;Great Plains tribe, or actor Robert Mandan
 mandancingemoji;60
+mandancingemojis;60
 mandatee;30
 mandatees;30
 mandm;30
@@ -27436,6 +27473,7 @@ manfromatlantis;50
 manfrommuskogee;30
 manfulness;30
 mangaka;40;???
+manganite;40
 mangel;20;Type of beet
 mangia;20;"Eat!" in Italian
 mangochutney;50
@@ -27560,11 +27598,21 @@ mardigrasparades;50
 mareclausum;40;Mare clausum, sea under the jurisdiction of a particular country
 margaretqualley;50;Actress
 margarines;40
-margaritanosalt;30
+margarita;60
+margaritaglass;60
+margaritaglasses;60
+margaritamix;60
+margaritanosalt;60
+margaritas;60
+margaritaville;60
 margate;40;???
 margechampion;30
 margent;40;???
 margo;40;Various, no one super notable
+mariachi;60
+mariachis;60
+mariama;40;Senegalese author Mariama Bâ
+mariamaba;40;Senegalese author Mariama Bâ
 marianao;20;Havana borough
 marias;30;Plural name
 marieantoinette;50
@@ -27580,6 +27628,7 @@ marinerscompass;50
 marinetwo;50
 mariobatali;5;Sexual assault
 mariobros;60
+mariokart;60
 mariolanza;50;Hollywood tenor
 marioncotillard;50
 marioparty;60
@@ -28166,6 +28215,7 @@ mels;30;Plural name
 melter;30
 meltingface;60;Emoji
 meltingfaceemoji;60
+meltingfaceemojis;60
 melton;30
 mem;20
 memaine;1
@@ -28291,6 +28341,7 @@ messuage;30;Dwelling
 messuages;30
 messybun;60
 messybuns;60
+messypony;60
 messyponytail;60
 messyponytails;60
 met;50
@@ -28905,6 +28956,8 @@ mojito;60
 mojitos;60
 mojo;60
 mol;20
+molcajete;40;Mexican mortar and pestle
+molcajetes;40
 molepup;50
 molepups;50
 moleskin;50;Cotton fabric not actually made from moles
@@ -28932,6 +28985,7 @@ momently;30
 momentofmass;50
 momentofmomentum;50
 momo;20
+momplease;60
 momstobe;50
 momtobe;50
 momzilla;60
@@ -29472,8 +29526,12 @@ mus;20
 muscadel;40;Muscatel grape
 muscadelle;40;White wine grape
 muscadet;40;French white wine
+muscadine;40;Wine grape
+muscadines;40
 muscatgrape;50
 muscatgrapes;50
+muscleemoji;60
+muscleemojis;60
 musedon;40
 museo;40
 museon;40
@@ -32366,11 +32424,18 @@ openingpandorasbox;60
 openingupto;40
 openinon;40
 openit;50
-openmic;50
-openmicnight;50
-openmicnights;50
-openmikenight;50
-openmikenights;50
+openlygay;60
+openlytrans;60
+openmarriage;60
+openmarriages;60
+openmic;60
+openmicnight;60
+openmicnights;60
+openmics;60
+openmike;60
+openmikenight;60
+openmikenights;60
+openmikes;60
 openmri;50
 openmris;50
 opennet;50
@@ -32670,6 +32735,7 @@ orthoepist;30;???
 orthoptics;40
 ortolan;20;Bird
 ortolans;20
+orton;40
 oru;20
 orv;20;<Wright Brother nickname? GTFO!>
 orval;20;1950s governor
@@ -33730,7 +33796,7 @@ paysonesfairshare;50
 paysretail;50
 paysthetab;50
 paythetab;50
-paz;50
+paz;40
 pba;30;Professional Bowlers Association
 pbj;40;Peanut butter and jelly
 pbr;40;Pabst Blue Ribbon
@@ -34632,6 +34698,7 @@ pinsamedalon;50
 pion;40;Subatomic particle
 pions;40;Subatomic particles
 pip;50
+pipage;40
 pipal;20;Bo tree
 pipals;20
 pipaltree;40
@@ -35084,6 +35151,11 @@ podesta;40
 podia;40
 podpeople;60
 podperson;60
+podrace;60
+podracer;60
+podracers;60
+podraces;60
+podracing;60
 podunk;50
 poe;50
 poeslaw;60
@@ -35385,6 +35457,7 @@ porcelaingod;60
 porchpirate;60
 porchpirates;60
 porer;30
+porkadobo;60;Phillippine's national dish
 porkbarrel;60
 porkfat;50
 porkrind;50
@@ -37024,6 +37097,10 @@ rasslers;20
 rassles;40
 rasslin;40
 rassling;40
+rastafari;60
+rastafarian;60
+rastafarianism;60
+rastafarians;60
 rastaman;40
 rat;50
 rata;40;Pro ___
@@ -37104,6 +37181,8 @@ raver;50
 ravers;50
 ravigote;40;French sauce
 ravined;40;Marked with ravines
+ravisher;40;Plunderer
+ravishers;40
 raw;50
 rawbatter;50
 rawdata;50
@@ -42228,8 +42307,8 @@ skatepark;50
 skateparks;50
 skatepunk;50
 skatepunks;50
-skaterat;50
-skaterats;50
+skaterat;60
+skaterats;60
 skatesonthinice;60
 skatingonthinice;60
 skatings;20
@@ -42980,6 +43059,8 @@ soapnut;40
 soapnuts;40
 soapopera;50
 soapoperas;50
+soapstar;60
+soapstars;60
 soaredto;40
 soarer;30
 soarers;30
@@ -43005,8 +43086,8 @@ soccerrefs;50
 sochi;50
 socialbubmarine;1
 socialcontracts;50
-socialcue;50
-socialcues;50
+socialcue;60
+socialcues;60
 socialmediainfluencer;60
 socialmediainfluencers;60
 socialnorm;50
@@ -43608,6 +43689,7 @@ spheral;20
 sphincter;40;Not usable in NYT
 spic;5
 spicas;20
+spicate;40;Having spikes, as a plant
 spicecake;50
 spicedale;50
 spicedales;50
@@ -45168,6 +45250,7 @@ sunderance;40
 sundown;50
 sunevfohtribeht;1
 sunglassesemoji;60
+sunglassesemojis;60
 sunglasslens;50
 sungto;40
 suni;40;Gymnast Suni Lee
@@ -45650,6 +45733,8 @@ tacket;20
 tackets;20
 tacklebox;50
 tackleboxes;50
+tacoemoji;50
+tacoemojis;50
 tacomas;40;Some Toyotas
 taconic;30;Appalachian sub-range
 taconite;20;Iron ore
@@ -46094,8 +46179,8 @@ tarses;20;ABC president Jamie ___
 tarsi;30;Ankle bones
 tarter;50
 tartest;50
-tartlet;40
-tartlets;40
+tartlet;50
+tartlets;50
 tartrate;30;Wine crystal
 tartrates;30
 tartt;40;Donna Tartt, author of "The Goldfinch"
@@ -46328,6 +46413,7 @@ tearoneshairout;60
 tearsat;40
 tearsinto;40
 tearsofjoyemoji;60
+tearsofjoyemojis;60
 tearstrip;50
 tearstrips;50
 teasel;20;Plant
@@ -46451,6 +46537,8 @@ tehees;30
 teicher;30;Piano duo Ferrante & Teicher
 teigen;40
 teixeira;40;MMA fighter Glover Teixeira
+tejolote;40;Mexican mortar and pestle
+tejolotes;40
 tek;20
 tektite;30;Meteorite pebble
 tektites;30;Meteorite pebbles
@@ -47773,10 +47861,13 @@ thumbonesnoseat;60
 thumbring;50
 thumbrings;50
 thumbsdownemoji;60
+thumbsdownemojis;60
 thumbsonesnoseat;60
 thumbsucker;50
 thumbsuckers;50
 thumbsucking;50
+thumbsupemoji;60
+thumbsupemojis;60
 thunderdome;60
 thunderroad;60
 thur;40
@@ -48005,7 +48096,7 @@ tims;30
 timwalz;50;Kamala Harris's VP candidate
 tin;50
 tinafey;50
-tinamarie;40;???
+tinamarie;40;Perry Como song? Not singer Teena Marie
 tinashe;20;Singer
 tinct;40;Coloring
 tincts;40
@@ -48138,6 +48229,7 @@ tits;5
 tittoo;20
 titularly;30
 titulary;40;Relating to a legal title
+titus;40
 tiu;20
 tivoli;40
 tix;40
@@ -48536,6 +48628,7 @@ toreros;40
 torest;30
 toric;30
 torii;20;Japanese gate
+torme;40
 tormes;20
 tornacl;50
 tornacls;50
@@ -48812,6 +48905,8 @@ transferofownership;50
 transferor;30;Legal term
 transferors;30;Legal term
 transfersofownership;50
+transflagemoji;60
+transflagemojis;60
 transgender;60
 transgendered;60
 transgenderrights;60
@@ -50068,6 +50163,7 @@ upccode;50
 upccodes;50
 upcs;40
 updog;60
+upfor;40
 upi;40
 upice;20;Czech town
 upinarms;60
@@ -50864,6 +50960,7 @@ vocalcords;50
 vocalminorities;50
 vocalminority;50
 voce;40;Sotto voce
+vodkaneat;60
 vogel;30
 vogt;30
 voiceacting;50
@@ -51676,6 +51773,7 @@ whalingon;40
 whang;40
 whassup;50
 what;50
+whatabore;60
 whataboutism;60
 whataboutit;60
 whatacard;50
@@ -51689,6 +51787,7 @@ whatahoot;60
 whatamess;60
 whatanightmare;60
 whatapal;60
+whatarewe;60
 whatareweeventalkingabout;60
 whatareyoudoing;50
 whatareyounuts;60
@@ -51709,6 +51808,7 @@ whatexactlyisthepoint;60
 whatfor;60
 whathappensnext;60
 whathaveibecome;60
+whathogwash;60
 whatinblazes;60
 whatisdeadmayneverdie;60
 whatjusthappened;60
@@ -52076,6 +52176,8 @@ wingwomen;50
 wininganddining;60
 winit;20
 winkwink;60
+winkyfaceemoji;60
+winkyfaceemojis;60
 winnebago;50
 winnebagos;50
 winniethepooh;60
@@ -53245,3 +53347,5 @@ zwei;40
 zymurgy;40;Chemistry of brewing
 zytglogge;20;Swiss tower
 zzz;50
+zzzemoji;60
+zzzemojis;60
