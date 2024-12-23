@@ -174,6 +174,10 @@ abner;40
 abo;5;NYT: "It's a racial slur for Aboriginal people, and have decided to retire it"
 abomb;30
 abombs;30
+abominate;40
+abominated;40
+abominates;40
+abominating;40
 aboner;20
 aboriginalland;50
 aborter;30
@@ -661,6 +665,8 @@ admen;40
 admitit;60
 admitsto;40
 admittedto;40
+admitter;40
+admitters;40
 admittingto;40
 admitto;40
 adnan;30;Syed of "Serial"
@@ -1195,6 +1201,7 @@ akc;30;American Kennel Club
 akeelah;40;"Akeelah and the Bee"
 akeem;30;"Coming to America" prince
 akela;30;Wolf in "The Jungle Book"
+akers;40;Michelle Akers, FIFA Female Player of the Century
 akinesia;30;Inability to perform a clinically perceivable movement
 akon;40;Grammy-nominated singer
 akronoh;20
@@ -2053,6 +2060,7 @@ anissa;20
 anissue;1
 anitaloos;40;Early Hollywood actress
 anitem;1
+anka;40
 anke;30;Tennis player Anke Huber
 anklebiter;60
 anklebiters;60
@@ -2067,6 +2075,8 @@ annan;40
 annao;20
 annasten;40;1930s actress Anna Sten
 annatto;30;Food coloring
+annealer;40
+annealers;40
 anneboleyn;50
 anneheche;50
 annelid;20;Worm phylum
@@ -3626,6 +3636,7 @@ bab;20
 babaloo;30;Screenwriter Babaloo Mandel
 babalu;30;Song, comedian???
 babaoriley;60
+babar;40;Babar the Elephant
 babas;30;Rum-soaked cakes
 babbitt;30;A materialistic, complacent, and conformist businessman
 babbitts;30
@@ -10233,6 +10244,7 @@ cuando;30
 cuarenta;30
 cuatro;40
 cub;50
+cubanpete;60;Desi Arnaz song sung in "The Mask"
 cubans;50
 cubbyhole;50
 cubbyholes;50
@@ -11057,6 +11069,9 @@ deeps;40
 deepsleeper;50
 deepsleepers;50
 deepstate;60
+deepthoughts;60
+deepthoughtsbyjackhandey;60
+deepthroat;60
 deepweb;60
 deercrossingsign;50
 deercrossingsigns;50
@@ -12898,6 +12913,8 @@ drunkfromthefirehose;60
 drunkhistory;60
 drunks;5
 drunktalk;60
+drupelet;40;Small bit of a drupe fruit
+drupelets;40
 drx;20
 dry;50
 dryarea;1
@@ -14340,7 +14357,7 @@ enviers;40
 environed;40;Enclosed (by)
 environing;40
 enwiki;20;???
-enzo;50
+enzo;40
 eocene;40
 eoe;20
 eohippus;20;Ancestor of the modern horse
@@ -14418,6 +14435,7 @@ epomy;1
 epopee;20;Epic poem
 epopees;20;Epic poems
 epping;40;Epping Forest
+epps;40
 eprint;30
 eps;40
 epsons;40
@@ -14908,7 +14926,7 @@ everage;40;Dame Edna Everage
 everheardofit;60
 evermore;60
 everready;50
-evers;50
+evers;40
 evert;40;Turn inside out, or tennis champ Chris Evert
 everted;40
 everting;40
@@ -20630,6 +20648,7 @@ hojo;40
 hojos;40
 hokums;20
 hol;20
+hola;40
 holbein;20;Renaissance painter
 holbrook;40
 holdback;50
@@ -20895,6 +20914,7 @@ horehound;40;Herb, or herbal candy
 horehounds;40
 horndog;50
 horndogs;50
+horne;40
 hornedinon;40
 horners;20;Eye syndrome
 horninginon;40
@@ -21405,6 +21425,7 @@ icepack;50
 icepacks;50
 iceplanet;60
 iceplanets;60
+iceroadtruckers;60
 icesaw;40
 icesaws;40
 icescraper;50
@@ -23371,6 +23392,7 @@ jackass;60
 jackasses;60
 jacketcopy;50
 jackhammer;60
+jackhandey;60
 jackjohnson;50
 jackkennedy;50
 jacklord;40;"Hawaii Five-O" star
@@ -23557,11 +23579,15 @@ jeffs;30
 jejuna;30
 jejunal;30;Relating to the jejunum
 jejunum;30;Part of the small intestine
+jell;40
+jelled;40
+jelling;40
 jellomold;50
 jellomolds;50
 jellopudding;50
 jelloshot;60
 jelloshots;60
+jells;40
 jellybean;60
 jellybeans;60
 jellydonut;60
@@ -24813,6 +24839,7 @@ lameduckpresidents;60
 lameducks;60
 lamella;30;Thin layer of tissue
 lamellae;30
+lamellar;40;Having the form of a thin plate
 lames;30
 lamesa;40;San Diego suburb
 lamina;40;Thin layer
@@ -24863,6 +24890,7 @@ landup;40
 lanefive;20
 lanehog;60
 lanehogs;60
+lang;40
 langleyva;20
 languagebarrier;50
 languagebarriers;50
@@ -25932,6 +25960,7 @@ likewaterforchocolate;50
 likeyouwouldntbelieve;60
 likud;30;Israeli right-wing political party
 lil;50
+lila;40
 lilalee;40;Silent film actress
 liletee;20;1992 Kentucky Derby winner
 lille;30;French city
@@ -26776,6 +26805,7 @@ lubbocktx;30
 lubezki;40;Cinematographer Emmanuel Lubezki
 lubricity;30
 luc;40
+luca;40
 lucania;30;Historical region of Italy
 lucasarts;50
 luce;30;Henry Luce, founder of Time
@@ -26813,6 +26843,7 @@ lumper;30;Cargo unloader
 lumpers;30
 lumpur;40;Kuala Lumpur
 lun;20
+luna;40
 lunarday;50
 lunardays;50
 lunardust;50
@@ -26835,6 +26866,7 @@ lunchers;40
 lunchparties;50
 lunchparty;50
 lund;40;Ilsa Lund from "Casablanca"
+lune;40
 lunesta;40;Sleeping pill
 lunette;40;Half-moon shaped architectural space
 lunettes;40
@@ -27524,7 +27556,8 @@ manspreading;60
 manspreads;60
 manteau;40
 mantee;20;Bogart role
-mantelet;30
+mantelet;30;Short women's cape, or portable wall for a soldier
+mantelets;30
 mantes;20;Mantises
 mantic;20;Prophetic
 mantid;20;Mantis
@@ -28238,6 +28271,8 @@ memoryholes;50
 memorylane;60
 memorypalace;60
 memorypalaces;60
+memphisgrizzlies;50
+memphisgrizzly;50
 memphistn;30
 men;50
 mena;40
@@ -30925,6 +30960,7 @@ notalie;30
 notallheroeswearcapes;60
 notamused;60
 notany;30
+notanymore;60
 notapeep;60
 notaprob;60
 notar;40;Cigarette claim
@@ -33171,6 +33207,7 @@ ozs;40
 p;1
 pa;50
 paak;40;Rapper Anderson .Paak
+paar;40
 paavo;30;Flying Finn
 pablopicasso;50
 pac;40
@@ -33852,6 +33889,8 @@ peabrain;60
 peaceable;40;Disposed to peace, non-violent
 peaceandpeppers;1
 peacecorps;50
+peacedeal;50
+peacedeals;50
 peacegardenstate;50
 peacemaker;50
 peacemakers;50
@@ -37316,6 +37355,7 @@ realerts;30
 reales;40
 realestateagent;50
 realgar;40;Ruby sulphur
+realhousewives;60
 realia;30;Everyday objects used as teaching aids
 realign;50
 realigned;50
@@ -42107,6 +42147,8 @@ simony;30
 simoom;30;???
 simp;5
 simped;5
+simperer;40
+simperers;40
 simping;5
 simps;5
 simu;30;Actor Liu of "Shang-Chi and the Legend of the Ten Rings"
@@ -47424,6 +47466,7 @@ therapysessions;50
 theratrace;20
 there;50
 thereal;1
+therealhousewives;60
 therear;30
 thereat;40
 therecord;20
@@ -48713,7 +48756,7 @@ tothemoon;60
 tothepenny;30
 tothesamedegree;50
 totheuntrainedeye;60
-totie;40
+totie;30;Comedian Totie Fields
 totingup;40
 tototoo;20
 totsy;40;Hotsy-totsy
@@ -50548,6 +50591,7 @@ vampirefinches;50
 van;50
 vanadate;30;Vanadium compound
 vanark;20
+vanderpumprules;60
 vandy;40;Vanderbilt University, familiarly
 vanern;40;Swedish lake, largest in the E.U.
 vanessas;30
@@ -51141,6 +51185,7 @@ walkingdistance;50
 walkingonthinice;60
 walkingouton;40
 walkingwithpurpose;60
+walkoffhr;40
 walkonthinice;60
 walkout;50
 walkouton;40
@@ -52022,7 +52067,7 @@ wiiu;40
 wikia;20;???
 wikipedia;60
 wiktionary;50
-wil;50
+wil;40
 wildboar;50
 wildboars;50
 wildcatted;50
