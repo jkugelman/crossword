@@ -2190,7 +2190,7 @@ antiretroviral;60
 antiretrovirals;60
 antis;40
 antisana;20;Volcano in Ecuador
-antisanta;60;Krampus, who visits misbehaving children
+antisanta;40;Krampus, who visits misbehaving children [NYT doesn't like this]
 antiseptics;50
 antiskid;50
 antispam;50
@@ -3408,7 +3408,7 @@ audre;30;Feminist author Audre Lorde
 audubonsociety;50
 aue;20
 auel;30;"The Clan of the Cave Bear" author Jean
-auer;20
+auer;30;Violinist Leopold Auer
 auerbach;40;Dan Auerbach of The Black Keys, or German scholar Erich Auerbach
 auf;20
 aug;40
@@ -5370,6 +5370,10 @@ blenched;30
 blenches;30
 blenching;30
 blende;20;Zinc sulfide
+blendedinto;40
+blendinginto;40
+blendinto;40
+blendsinto;40
 blenheim;40;English palace
 blest;40
 blewakiss;50
@@ -6134,6 +6138,12 @@ breslau;20;Polish city
 breteastonellis;60
 breve;40
 breves;40
+brevet;30;Military reward
+brevets;30
+brevetted;30
+brevetting;30
+breviaries;30
+breviary;30;Christian prayer book
 brew;50
 brews;50
 bribee;50
@@ -8163,7 +8173,7 @@ chico;50
 chicos;40
 chicostate;50;???
 chidden;20;Chided
-chidi;40;Chidi Anagonye, character on "The Good Place"
+chidi;30;Chidi Anagonye, character on "The Good Place"
 chiefer;30;Sounds weeeeird???
 chiefexecutiveofficer;50
 chiefexecutiveofficers;50
@@ -8346,9 +8356,31 @@ christiaan;40;???
 christianname;60
 christianpop;50
 christianrock;50
+christmascard;60
+christmascards;60
+christmascarol;60
+christmascarols;60
+christmascheer;60
+christmasgift;60
+christmasgifts;60
+christmaslight;60
+christmaslights;60
 christmaspackagemachine;60;Acme invention
+christmasparties;60
+christmasparty;60
+christmaspresent;60
+christmaspresents;60
 christmasseason;50
+christmasshopper;60
+christmasshoppers;60
+christmasshopping;60
 christmasspirit;60
+christmasstocking;60
+christmasstockings;60
+christmastree;60
+christmastreefarm;60
+christmastreefarms;60
+christmastrees;60
 christophercross;50
 chromed;40
 chromedome;60
@@ -9011,6 +9043,7 @@ coldcocking;60
 coldcocks;60
 coldfront;50
 coldfronts;50
+coldhardcash;60
 coldhearted;50
 coldmeal;50
 coldmeals;50
@@ -9027,6 +9060,8 @@ coldspell;50
 coldspells;50
 coldspot;50;Supposed paranormal sign
 coldspots;50;Supposed paranormal signs
+coldstreak;50
+coldstreaks;50
 coldvirus;50
 coldviruses;50
 coldwarpolicies;30
@@ -9273,6 +9308,8 @@ compostbin;50
 compostbins;50
 compostpile;50
 compostpiles;50
+compoundfracture;50
+compoundfractures;50
 compoundnumbers;50
 computerexperts;50
 computericon;50
@@ -12045,6 +12082,8 @@ dob;40
 dobusiness;40
 doc;50
 dockingstations;50
+dockominium;60
+dockominiums;60
 docock;50;Doctor Octopus
 docseverinsen;50
 docter;40;Pixar director Pete Docter
@@ -12329,6 +12368,7 @@ dontberude;60
 dontbethatguy;60
 dontblockthebox;60
 dontbother;60
+dontchathink;60
 dontdelay;60
 dontdelayactnow;60
 dontdespair;60
@@ -12372,6 +12412,7 @@ dontyoubelieveit;60
 dontyoulikeit;60
 dontyouremember;60
 dontyousee;60
+dontyouthink;60
 donuthole;60
 donutholes;60
 donutshop;60
@@ -15149,6 +15190,8 @@ extramustard;30
 extraolive;20
 extrarare;50
 extraspicy;50
+extremelongshot;60
+extremelongshots;60
 extremelyonline;60
 exurbias;30
 exuviae;40;Insect remains (cool word?)
@@ -18572,6 +18615,8 @@ goonthelam;60
 goontherun;60
 goontour;50
 goos;30
+goosander;30;Sea duck
+goosanders;30
 goosebump;60
 goosebumps;60
 goosechase;40
@@ -20670,6 +20715,7 @@ holdson;50
 holdsscoreless;50
 holdsto;40
 holdsvigil;50
+holdthatthought;60
 holdto;40
 holdup;60
 holdvigil;50
@@ -23357,6 +23403,7 @@ iwas;40
 iwasbornready;60
 iwasframed;60
 iwaslike;60
+iwasthinking;60
 iwilleatyoualive;60
 iwilleatyouforbreakfast;60
 iwillnot;50
@@ -25690,6 +25737,7 @@ letsmovepastit;60
 letsnotturnitintoawholething;60
 letsoff;40
 letsparty;50
+letsputourheadstogether;60
 letssee;50
 letsseeit;60
 letsseenow;60
@@ -26509,6 +26557,12 @@ looksdownon;50
 looksee;50;Gander
 looksees;30
 looksinto;40
+looksmax;60
+looksmaxing;60
+looksmaxx;60
+looksmaxxer;60
+looksmaxxers;60
+looksmaxxing;60
 looksthefool;50
 looksto;40
 looksupto;50
@@ -28211,6 +28265,7 @@ melanite;30;Mineral
 melanites;30;Minerals
 melanomata;30
 melanosis;40;Colon condition
+melanotic;40
 melba;40;Peach dessert
 melbas;20
 melbrooks;50
@@ -28332,7 +28387,13 @@ mercs;40
 mercuric;40;Containing mercury, like a thermometer
 mercury;60
 meredithwillson;30
+merganser;30;Sea duck
+mergansers;30
+mergedwith;40
 merger;50
+mergeswith;40
+mergewith;40
+mergingwith;40
 meridia;30;Discontinued weight loss drug
 meristem;30;Plant tissue
 meristematic;30
@@ -28820,7 +28881,11 @@ mixedreviews;50
 mixedupatbirth;50
 mixedvegetable;50;Mixed-vegetable
 mixedvegetables;50
+mixedwith;40
+mixeswith;40
+mixingwith;40
 mixtec;20;Indigeneous Mexican
+mixwith;40
 miz;20
 mkt;20
 mla;20
@@ -31385,6 +31450,7 @@ obeli;40;Daggers (†)
 obelia;20
 obelus;40;Dagger (†)
 ober;20
+oberammergau;30;German town
 obese;40
 obesely;40
 obesity;50
@@ -32094,6 +32160,7 @@ onebase;1
 onebasehit;20
 onebc;40
 onebell;30
+onebetter;1
 onebit;40
 onecall;30
 onecalorie;30
@@ -34676,6 +34743,8 @@ pinchhitters;50
 pinchhitting;50
 pinchme;60
 pinchofsalt;50
+pinchrunfor;40
+pinchrunsfor;40
 pinedfor;40
 pinefor;40
 pinelog;50
@@ -36499,6 +36568,7 @@ putuporshutup;60
 putyourbigboypantson;60
 putyourbiggirlpantieson;60
 putyourbiggirlpantson;60
+putyourheadstogether;60
 puzzlebox;50
 puzzleboxes;50
 pvc;40
@@ -39170,9 +39240,9 @@ rolledrs;50
 rolledupintoaball;30
 rolledupto;40
 rollerbearing;30
-rollercoaster;50
+rollercoaster;60
 rollercoasterdo;1
-rollercoasters;50
+rollercoasters;60
 rollerderbies;50
 rollerderby;50
 rollerrink;50
@@ -39555,6 +39625,7 @@ rumbleseats;60
 rumblestrip;50
 rumblestrips;50
 rumdiary;60;Hunter S. Thompson book
+rumergodden;40;Author Rumer Godden
 rumi;30;13th century Persian scholar
 rummager;30
 rummagers;30
@@ -41501,6 +41572,7 @@ sh;50
 sha;20
 shabti;20;Egyptian figurine
 shabtis;20;Egyptian figurines
+shabu;40
 shadesof;20
 shadowban;60
 shadowbanned;60
@@ -41544,6 +41616,7 @@ shammuramat;30;Neo-Assyrian queen
 shammy;30
 shamram;1
 shamrock;60
+shamu;40
 shangrila;60
 shanksmare;40;One's own legs, slangily
 shankspony;40;One's own legs, slangily
@@ -41567,16 +41640,20 @@ shareacab;50
 sharecrop;50
 sharedacab;50
 sharedin;40
+sharedwith;40
 sharein;40
 sharer;40
 sharers;40
 sharesacab;50
 sharesin;40
+shareswith;40
 sharett;40;Israel's second prime minister Moshe Sharett
+sharewith;40
 shari;40;Lamb Chop puppeteer Shari Lewis
 sharifs;20
 sharingacab;50
 sharingin;40
+sharingwith;40
 sharkfin;60
 sharkfins;60
 sharped;50
@@ -41862,6 +41939,8 @@ shotsoftequila;50
 shotsofwhiskey;50
 shoulderbrace;50
 shoulderbraces;50
+shouse;40;Hybrid workshop-house
+shouses;40
 shoutat;40
 shoutedat;40
 shoutedto;40
@@ -42920,7 +42999,7 @@ snackson;40
 snaffle;30
 snaffled;30
 snaffles;30
-snafu;50
+snafu;40
 snaggletoothed;60
 snailslime;60
 snakebite;60
@@ -42967,6 +43046,8 @@ sneakby;40
 sneakedapeek;50
 sneakedby;40
 sneakedinto;40
+sneakerhead;60
+sneakerheads;60
 sneakingapeek;50
 sneakingby;40
 sneakinginto;40
@@ -43075,6 +43156,7 @@ snowmobiles;50
 snownado;60
 snownadoes;60
 snownados;50
+snowpiercer;60
 snowsports;50
 snowstorm;50
 snowstorms;50
@@ -43237,6 +43319,7 @@ soir;30
 soitgoes;60
 soitseems;60
 soiwaslike;60
+soiwasthinking;60
 soju;30;Korean liquor
 sokhumi;30;Georgian city (the country)
 sol;40
@@ -47101,6 +47184,8 @@ thebolts;40;???
 thebomb;60
 theboot;40
 theboss;50
+thebottle;40;???
+thebottom;1
 thebottomline;50
 theboxerrebellion;40
 thebraves;40
@@ -48894,6 +48979,8 @@ traducer;30
 traducers;30
 traduces;30
 traducing;30
+tradwife;60
+tradwives;60
 tragical;30
 tragicflaw;60
 tragicflaws;60
@@ -51897,6 +51984,7 @@ wheelbearings;50
 wheeledin;40
 wheelin;40
 wheelingin;40
+wheelingwv;40
 wheelofcheese;50
 wheeloffortune;60
 wheelsin;40
@@ -52395,6 +52483,8 @@ woodendoll;50
 woodendolls;50
 woodenleg;50
 woodenlegs;50
+woodenrollercoaster;60
+woodenrollercoasters;60
 woodenspoon;50
 woodenspoons;50
 woodfiredpizzas;50
