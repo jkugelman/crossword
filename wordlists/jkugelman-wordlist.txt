@@ -2056,9 +2056,9 @@ animi;20;Resins
 animism;40
 animist;40
 animists;40
-anion;40
-anionic;40
-anions;40
+anion;50
+anionic;50
+anions;50
 aniseeds;30
 aniseoil;30
 anises;40
@@ -2215,6 +2215,8 @@ anttrees;40
 anu;20
 anumber;20
 anumberofoccasions;50
+anvilblock;50
+anvilblocks;50
 anvils;50
 anwar;40;Anwar Sadat, assassinated Egyptian president
 any;50
@@ -2540,6 +2542,7 @@ arctophile;30;One who collects teddy bears
 arcuate;40;Shaped like a bow, curved
 arcw;1
 ard;20
+ardern;40;New Zealand PM Jacinda Ardern 2017-23
 ardlylion;1
 ardmore;20;Philly suburb
 arduino;50
@@ -3000,6 +3003,7 @@ asoftenasnot;60
 asolo;20
 asonant;30
 asone;40
+asoneman;40;In unison
 asonia;20;Tone-deafness, controversial 3/19/23 entry
 asosan;20
 asp;50
@@ -3389,6 +3393,8 @@ atv;40
 atvs;40
 aubades;30
 aube;20
+auctionblock;50
+auctionblocks;50
 auctionhouses;50
 auctorial;30;Relating to an author
 aud;20
@@ -5426,13 +5432,23 @@ bloaters;30
 blockader;30
 blockaders;30
 blockbuster;60
+blockbustermovie;60
+blockbustermovies;60
 blockbusters;60
 blockcapital;50
 blockcapitals;50
 blockdiagram;50
 blockdiagrams;50
+blockedoff;50
+blockedout;50
 blockedshot;50
 blockedshots;50
+blockingoff;50
+blockingout;50
+blockoff;50
+blockout;50
+blocksoff;50
+blocksout;50
 blogroll;50
 blogrolls;50
 blogswarm;50
@@ -8032,6 +8048,7 @@ cheatdays;60
 cheatdeath;60
 cheateddeath;60
 cheatedon;40
+cheatin;40;Hank Williams "Your Cheatin' Heart", or 2013 movie
 cheatingdeath;60
 cheatingon;40
 cheatmeal;60
@@ -8632,6 +8649,7 @@ cleanslates;50
 cleanuponaislesix;60
 cleanupthispigsty;60
 cleanwater;50
+clearascrystal;60
 clearsoup;50
 clefairy;50;Pokeyman
 cleftchinned;50
@@ -10270,6 +10288,7 @@ cryptomeria;40
 cryptozoologist;60
 cryptozoologists;60
 cryptozoology;60
+crystalclear;60
 crystalset;50
 crystalsets;50
 csa;5
@@ -12540,10 +12559,13 @@ dotcombubble;60
 dotcombubbles;40
 dotdash;40
 dotedon;40
+dotedupon;40
 doteon;40
 doter;30
 doters;30
 doteson;40
+dotesupon;40
+doteupon;40
 dotheconga;50
 dotherightthing;60
 dothesplits;50
@@ -12551,6 +12573,7 @@ dotier;30
 dotiest;30
 dotime;50
 dotingon;40
+dotingupon;40
 dotnet;40
 doto;30;Inflict upon
 dotoat;40
@@ -14255,6 +14278,8 @@ engild;40
 engilding;40
 engilds;40
 engine;50
+engineblock;50
+engineblocks;50
 engines;50
 engird;40
 engirded;40
@@ -15985,8 +16010,8 @@ finalround;50
 financeminister;50
 financialbacker;50
 financialsector;50
-findersfee;50
-findersfees;50
+findersfee;60
+findersfees;60
 fineart;50
 fineartist;50
 finebelikethat;60
@@ -16305,7 +16330,7 @@ flickersofhope;60
 flickersoflight;60
 flickofaswitch;50
 flics;20
-flied;40;Baseball meaning
+flied;40;Baseball meaning, flied out
 fliesakite;50
 fliesat;40
 fliesfirstclass;50
@@ -16495,6 +16520,7 @@ fms;20
 fmstation;50
 fmstations;50
 fnatural;40
+foaled;40
 foamfinger;60
 foamfingers;60
 foamhand;60
@@ -17465,6 +17491,7 @@ gazingat;40
 gazinginto;40
 gazpachos;30
 gbs;20
+gbshaw;40
 gchat;30
 gchord;30
 gchords;30
@@ -19095,6 +19122,7 @@ gripesat;40
 gripewater;50
 gripingat;40
 gris;30
+grists;40;Plural? Verb?
 grizzlybearcub;50
 grizzlybearcubs;50
 gro;40
@@ -19965,6 +19993,7 @@ hawaiianislands;50
 hawkgirl;50
 hawse;30;Ship part
 hawser;30;Thick ship rope
+hax;40;Advice columnist Carolyn Hax
 hay;50
 hayao;40
 hayfield;50
@@ -20262,17 +20291,22 @@ hematin;40;Iron pigment from blood
 hematinic;30;???
 heme;30;Blood pigment
 hemi;40
+hemin;40
 hemingway;50
 hemiola;40;3:2 musical rhythm
 hemiolas;40
 hemis;20
 hemlock;50
+hemmedin;50
+hemmedinby;40
 hemmer;30
 hemmers;30
+hemmingin;40
 hemo;40;Blood prefix
 hemorrhoid;30
 hemorrhoidectomy;30
 hemorrhoids;30
+hemsin;40
 hen;50
 hendo;40;Bachelorette party, in the UK
 hendos;40
@@ -20952,6 +20986,8 @@ hoofedit;60
 hoofingit;60
 hoofit;60
 hoofsit;60
+hoohah;50;Kerfuffle
+hoohahs;50
 hooka;20;Variant of hookah
 hookedup;50
 hookingup;50
@@ -23402,6 +23438,7 @@ iud;40
 iuds;40
 ium;20
 iva;20
+ivanek;40;???
 ivani;30
 ivaniii;30
 ivaniv;40;Ivan the Terrible
@@ -23477,6 +23514,7 @@ iwoodpinefiryew;1
 iwouldeatyoualive;60
 iwouldnever;60
 ize;30
+izmir;40;Turkish city
 izod;40;Clothing company
 izzo;50;Jay-Z single, or Michigan State coach Tom
 j;1
@@ -23488,6 +23526,7 @@ jabiru;20;Large stork
 jabroni;60
 jabronies;60
 jabsat;40
+jacinda;40;New Zealand PM Jacinda Ardern 2017-23
 jacinto;40;San Jacinto, CA (research required)
 jackal;50
 jackalope;60
@@ -24619,6 +24658,7 @@ koed;40
 koestler;40;Arthur Koestler, author of "The Sleepwalkers"
 kofiannan;50
 koh;20
+kohler;40;Kitchen/bathroom brand
 koi;50
 koinonia;30;Christian fellowship
 koipond;50
@@ -24672,6 +24712,7 @@ koreanamerican;50
 koreanamericans;50
 koreanspa;50
 koreanspas;50
+korner;30;???
 korra;40;Aang's successor on Avatar, lead character of The Legend of Korra
 kors;40
 koruna;30;Czech currency
@@ -26429,6 +26470,7 @@ loathers;30
 loathings;40;Bad plural
 lob;50
 lobate;30;Having lobes, like leaves
+loblaw;50;Bob Loblaw
 lobo;40
 lobos;40
 lobscouse;40;Scandinavian stew
@@ -28036,6 +28078,7 @@ maumee;30;Toledo river
 maumet;20;Doll, puppet, effigy
 maumets;20
 mauna;40
+maundy;40
 maupin;30;Novelist
 maura;40;Maura Tierney of "E.R."
 maus;30
@@ -28501,6 +28544,8 @@ mes;40
 mesaaz;30
 mesabi;20;Minnesota iron mining range
 mesamis;40
+mescal;50;The drug peyote, or the agave drink mezcal
+mescals;50
 meshach;30;Shadrach, Meshach, and Abednego: biblical figures thrown into a fiery furnace
 meshuggah;60
 meshugge;60;Senseless, in Yiddish
@@ -28588,6 +28633,8 @@ mew;40;Pokeyman
 mewtwo;50;Pokeyman
 mex;40
 mexicanmeal;20
+mezcal;50
+mezcals;50
 mfa;40
 mfdoom;60
 mfg;20
@@ -28851,6 +28898,7 @@ miraclemile;60
 mirainagasu;40;Figure skater
 miranair;40;Filmmaker Mira Nair
 mireddown;40
+miredin;40
 mirier;30
 miriest;30
 mirin;40
@@ -29163,6 +29211,7 @@ mollie;40;???
 mollies;20
 molls;50
 mollysgame;60
+molnar;30;"Liliom" playwright Ferenc Molnar
 moltenlava;50
 moltenlavacake;50
 moltenlavacakes;50
@@ -29444,6 +29493,7 @@ moucado;20;16th century fabric
 moue;20;Pouting expression
 moues;20
 moujik;20
+mouldy;40
 moulin;40
 mounded;30
 mounjaro;50;Weight loss drug
@@ -31145,6 +31195,7 @@ noteasy;40
 notedly;30
 notelet;30
 notelets;30
+notell;40;No tell motel
 noteof;20
 noter;30
 noters;30
@@ -32052,7 +32103,7 @@ oldwhatshisname;50
 oldwivestale;60
 oldwivestales;60
 oldwoman;50
-ole;50
+ole;40
 olean;30;Phased out fat substitute
 oleanna;40;David Mamet play
 oleaster;30;Russian olive
@@ -32074,6 +32125,7 @@ oleooil;40
 oleoresin;40
 olerud;30;"Johnny O" of baseball, won two World Series
 oles;40
+oleson;40;"Little House on the Prairie" family name
 oleta;40;Soul singer Oleta Adams
 olheaveho;60
 olid;20
@@ -34363,6 +34415,7 @@ perine;30;???
 periodicpayment;20
 periodicupdates;50
 periodide;20;Chemistry word
+periodt;30;"End of discussion" on TikTok, peaked 10 years ago
 perishable;50
 perishthethought;60
 peristylar;30;Architectural word
@@ -35036,7 +35089,7 @@ pizzahut;50
 pizzapizza;50
 pizzazz;50
 pizzicato;50
-pjs;50
+pjs;40
 pkg;20
 pkgs;30
 pks;20
@@ -35239,6 +35292,7 @@ pleaseno;60
 pleasenote;60
 pleaserise;50
 pleasestop;60
+plebeian;50
 plecoptera;20;Order of insects
 pledfor;40
 pledgee;40
@@ -37039,6 +37093,7 @@ raindances;50
 raindancing;50
 rainedon;40
 rainer;30;Luise Rainer, 1930s Best Actress
+raines;40
 rainfalls;30
 rainforest;50
 rainforestcanopies;50
@@ -38482,6 +38537,7 @@ reslated;20
 reslates;20
 resnais;30;French director Alain
 resnap;20
+resnik;40
 resoak;20
 resoaked;20
 resoaking;20
@@ -39233,6 +39289,7 @@ robinhood;60
 robinia;20;Plant genus
 robinsnest;50
 robinsnests;50
+robles;30;Paso Robles, CA
 robmcelhenney;60
 robo;40
 robocop;60
@@ -39630,6 +39687,7 @@ roweled;20
 rowell;20
 rowels;20
 rowena;30;Ivanhoe's love
+rowley;40;???
 rowlf;40;Muppet Rowlf the Dog
 rowr;30;Should be rawr
 roy;50
@@ -41046,6 +41104,8 @@ sectile;20;Capable of being severed with a smooth cut, as a mineral
 sectility;20;Ability to be severed with a smooth cut, as a mineral
 secureline;50
 securelines;50
+securityclearance;60
+securityclearances;60
 securitydetail;50
 securitydetails;50
 securityflaw;50
@@ -46466,6 +46526,7 @@ taser;40
 tasered;40
 tasers;40
 tases;40
+tashkent;40;Capital of Uzbekistan
 taskathand;50
 taskbar;50
 taskbars;30
@@ -47952,6 +48013,7 @@ thighslappers;60
 thighslapping;60
 thimphu;20;Capital of Bhutan
 thincrustpizzas;50
+thinge;40;T-hinge
 thingis;60
 thingofthepast;60
 thingone;60
@@ -53448,7 +53510,7 @@ yoyoma;50
 ypres;30;WWI battle site in Belgium
 yreka;20;California town with a palindromic bakery
 yrs;40
-yshape;40
+yshape;30
 ysl;40
 yslbag;30
 ytd;40
