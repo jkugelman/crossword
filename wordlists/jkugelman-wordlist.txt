@@ -1163,6 +1163,8 @@ airportcode;50
 airportcodes;50
 airportwifi;60
 airproof;30;Make airtight
+airpurifier;50
+airpurifiers;50
 airquality;50
 airqualityindex;50
 airqualityindexes;50
@@ -1586,6 +1588,7 @@ alterego;60
 alteregos;60
 alterer;40
 alterers;40
+alternativecut;20;???
 alternativecuts;20
 althea;30;Althea Gibson, first African American to win a tennis Grand Slam title
 althing;20;Iceland's parliament
@@ -4140,8 +4143,13 @@ barkbeetles;50
 barkcollar;50
 barkcollars;50
 barkedat;40
+barkedupthewrongtree;60
+barkin;40;Actress Ellen Barkin
 barkingat;40
+barkingupthewrongtree;60
 barksat;40
+barksupthewrongtree;60
+barkupthewrongtree;60
 barleywater;50
 barmaid;50
 barmaids;50
@@ -5938,6 +5946,7 @@ botree;30;Tree under which Budda found enlightenment
 botrees;20
 bottega;30;Major artist's studio
 bottegas;30
+botting;50
 bottledwater;50
 bottleflies;50
 bottlefly;50
@@ -7368,6 +7377,8 @@ carnified;30
 carnifies;30
 carnify;30
 carnifying;30
+carnivalbarker;60
+carnivalbarkers;60
 carnivalseason;50
 carnivalseasons;50
 caro;30;Beloved: Italian
@@ -7432,6 +7443,8 @@ cartsoff;50
 cartwheel;50
 carvedpumpkin;50
 carvedpumpkins;50
+carvingfork;50
+carvingforks;50
 carvingknife;50
 carvingknives;50
 carvingstation;50
@@ -9086,6 +9099,8 @@ coldcock;60
 coldcocked;60
 coldcocking;60
 coldcocks;60
+coldcutplatter;50
+coldcutplatters;50
 coldfront;50
 coldfronts;50
 coldhardcash;60
@@ -11810,6 +11825,7 @@ dinesh;40
 dinesin;40
 dineson;40
 dinetteset;50
+dinettesets;50
 ding;50
 dingbat;60
 dingbats;60
@@ -12129,6 +12145,7 @@ doastretch;50
 doatakeon;20
 doavanishingact;60
 dob;40
+dobiegillis;40;1960s sitcom
 dobusiness;40
 doc;50
 dockingstations;50
@@ -12695,6 +12712,8 @@ dragraces;50
 dragracing;50
 dragsinto;40
 drained;50
+drainfilter;50
+drainfilters;50
 drakeu;40;???
 dramamine;50
 dramaticrole;50
@@ -15501,6 +15520,9 @@ familycrests;50
 familyline;50
 familylines;50
 familytradition;50
+familyunit;50
+familyunits;50
+familyvalues;60
 famke;40;Famke Janssen
 fams;20
 fan;50
@@ -19017,6 +19039,7 @@ greasingthepalm;50
 greasyneale;50
 greatape;50
 greatapes;50
+greatdanger;50
 greatdayforup;60;Dr. Seuss book
 greaten;30
 greatfallsmt;30
@@ -20176,6 +20199,8 @@ hectoliter;30
 hecuba;30;Greek queen of myth
 hed;50
 hedda;40;Ibsen play "Hedda Gabler" (highly esteemed), or '40s gossip columnist Hedda Hopper
+hedgetrimmer;50
+hedgetrimmers;50
 hedison;30;Actor David Hedison???
 hedwigandtheangryinch;60
 hee;40
@@ -25334,6 +25359,8 @@ lawfirm;50
 lawfulevil;60;D&D alignment
 lawfulgood;60;D&D alignment
 lawfulneutral;60;D&D alignment
+lawnedger;50
+lawnedgers;50
 lawofattraction;50
 lawrencewelk;50
 lawschool;50
@@ -28051,6 +28078,7 @@ mattdamon;50
 mattdrudge;50
 mattea;30;Country singer Kathy
 matteddown;50
+matteo;40
 matteredto;40
 matteringto;40
 mattersto;40
@@ -28259,6 +28287,7 @@ meandmybigmouth;60
 meandrunk;5
 meandrunks;5
 meaningto;40
+meaningwhat;60
 meanmug;60
 meanmugged;60
 meanmugging;60
@@ -28277,6 +28306,8 @@ meatbag;60
 meatbags;60
 meatballsub;50
 meatballsubs;50
+meatfork;50
+meatforks;50
 meathead;60
 meatheads;60
 meatrub;50
@@ -28834,7 +28865,11 @@ minipizzas;50
 miniquiche;30
 miniquiches;30
 minister;50
+ministeredto;40
+ministeringto;40
 ministers;50
+ministersto;40
+ministerto;40
 ministryofmagic;60
 minisub;30
 minisubs;30
@@ -31022,6 +31057,8 @@ nonsane;20
 nonsenses;40
 nonsmoker;50
 nonsmokers;50
+nonstarter;50
+nonstarters;50
 nonstickpan;50
 nonstickpans;50
 nonstopaction;50
@@ -32661,6 +32698,7 @@ opendebate;50
 opendebates;50
 openedanira;20
 openedfire;50
+openedfireon;40
 openedinon;40
 openedon;40
 openedpandorasbox;60
@@ -32671,6 +32709,7 @@ openfire;50
 openfireon;40
 opengrill;50
 openingfire;50
+openingfireon;40
 openinginon;40
 openingnumber;50
 openingnumbers;50
@@ -32703,6 +32742,7 @@ openpandorasbox;60
 opensecret;60
 opensecrets;60
 opensfire;50
+opensfireon;40
 opensinon;40
 openson;40
 opensource;50
@@ -33327,7 +33367,11 @@ overseers;50
 oversees;50
 oversight;50
 overthe;1
+overtimeloss;50
+overtimelosses;50
 overtimes;50
+overtimewin;50
+overtimewins;50
 overyonder;50
 ovi;20
 oviedo;30;Spanish city
@@ -35087,6 +35131,8 @@ pizzacutter;50
 pizzacutters;50
 pizzahut;50
 pizzapizza;50
+pizzaslicer;50
+pizzaslicers;50
 pizzazz;50
 pizzicato;50
 pjs;40
@@ -35386,6 +35432,7 @@ pneumas;30
 pneumata;30;Pneuma plural
 pneumo;30;Lung prefix
 pneumonic;40
+po;40;Italian river
 poa;20;Bluegrass genus
 poblanopepper;50
 poblanopeppers;50
@@ -36782,6 +36829,7 @@ qbcontroversies;30
 qbs;40
 qed;50
 qi;40
+qibla;40;Direction of Muslim prayer
 qid;20
 qin;20
 qing;40;Qing dynasty
@@ -39270,6 +39318,8 @@ roaringat;40
 roarings;30
 roarsat;40
 roastbeast;50;Whoville meal
+roastednut;50
+roastednuts;50
 roastingpan;50
 roastingpans;50
 rob;50
@@ -39536,6 +39586,9 @@ roomkeys;50
 roomnumber;50
 roomnumbers;50
 roos;40
+roostersauce;60
+roostertail;50
+roostertails;50
 rootaround;50
 rootcause;50
 rootcauses;50
@@ -42003,6 +42056,8 @@ shockcollar;50
 shockjock;60
 shockjocks;60
 shockrock;60
+shoeaddict;50
+shoeaddicts;50
 shoegaze;60
 shoehorn;50
 shoehorned;50
@@ -42635,6 +42690,7 @@ skegg;30;Surfboard fin
 skeggs;30
 skegs;30
 skeletomuscular;50
+skeletoncoast;60;Nickname for Namibia's coastline, which is foggy and littered with shipwrecks
 skeletoninthecloset;60
 skeletonsinthecloset;60
 skelter;50
@@ -42744,8 +42800,9 @@ skirret;30;Starchy root
 skirrets;30;Starchy roots
 skirring;20
 skirrs;20
-skirtchaser;30
-skirtchasers;30
+skirtchaser;60
+skirtchasers;60
+skirtchasing;60
 skirter;30
 skirters;30
 skirts;50
@@ -43699,6 +43756,7 @@ soren;40;Søren Kierkegaard
 sorespot;50
 sorespots;50
 sorethroat;50
+sorethroats;50
 soright;60
 soror;30;Sorority sister
 sororal;40
@@ -45226,6 +45284,8 @@ strikezone;50
 strine;40;Australian
 stringbass;50
 stringbasses;50
+stringtrimmer;50
+stringtrimmers;50
 stripmall;50
 stripmalls;50
 stripmine;50
@@ -45234,6 +45294,16 @@ stripminer;50
 stripminers;50
 stripmines;50
 stripmining;50
+stripsearch;60
+stripsearched;60
+stripsearches;60
+stripsearching;60
+striptease;60
+stripteaseartist;60
+stripteaseartists;60
+stripteaser;50
+stripteasers;50
+stripteases;60
 striptt;1
 striver;30
 strivers;30
@@ -45449,6 +45519,7 @@ suckouton;40
 suckouts;60
 sucksout;60
 sucksouton;40
+suckstobeyou;60
 sucre;40;Capital of Bolivia
 sucres;40;Ecuadorian currency until 2000
 suctioncup;50
@@ -47105,7 +47176,7 @@ terrygross;50
 tertian;30
 terzarima;40;Poetic form used in the Divine Comedy
 terzetto;30;???
-tes;20
+tes;30;French your, or tight ends
 tesh;40
 teslacars;20
 tesori;30;Jean Tesori, most honored female theatrical composer in history
@@ -47344,6 +47415,7 @@ theatergeek;60
 theatergeeks;60
 theaterofoperations;60
 theatersofoperations;60
+theaussieopen;40
 theavengers;60
 theawfultruth;60
 theazores;40
@@ -47407,6 +47479,7 @@ thecapitol;40
 thecar;20
 thecarbonaroeffect;50
 thecase;20
+thecaspiansea;40
 thecast;20
 thecastro;50;San Francisco gay district
 thecat;20
@@ -47458,6 +47531,7 @@ thedarkknight;60
 thedarkknightrises;60
 thedarksideofthemoon;60
 thedarktower;60
+thedcuniverse;40
 thede;40;Robin Thede, creator of "A Black Lady Sketch Show" on HBO
 thedead;50;Grateful Dead
 thedeadsea;40
@@ -47481,6 +47555,7 @@ thedubs;50;1950s doo wop group
 thee;50;For whom the bell tolls
 theeagles;50
 theeast;30
+theeastindies;40
 theeconomist;50
 theemmys;40
 theemperor;60;Tarot card
@@ -47671,7 +47746,7 @@ themrsandi;50
 themself;40
 themstherules;60
 themud;20
-themultiverse;40
+themultiverse;50
 themuses;50
 themushroomkingdom;50
 then;50
@@ -47821,6 +47896,7 @@ theroyalfamily;20
 theroyalmint;20
 theroyalnavy;20
 therumdiary;60;Hunter S. Thompson book
+therussianmob;40
 therussobrothers;60
 thesack;40
 thesaints;30
@@ -47847,6 +47923,7 @@ thesilkroad;30
 thesinai;20
 thesixers;50
 thesixties;50
+theskeletoncoast;60;Nickname for Namibia's coastline, which is foggy and littered with shipwrecks
 theskyisfalling;60
 theslammer;20
 theslots;30
@@ -47896,6 +47973,7 @@ thethreebears;40
 thethreefuries;50;???
 thetide;1
 thetime;1
+thetimeisnigh;60
 thetimeisnow;60
 thetimemachine;50
 thetimes;50
@@ -50004,6 +50082,8 @@ twitterfeed;50
 twitterfeeds;50
 twitterfollower;50
 twitterfollowers;50
+twitterrant;40
+twitterrants;40
 twittersphere;50
 twitterverse;50
 twizzler;50
@@ -51712,6 +51792,8 @@ waterfronthome;50
 waterfronthomes;50
 watergate;50
 waterjetcutters;50
+waterlilies;50
+waterlily;50
 waterloo;60
 waterpark;50
 waterparks;50
