@@ -255,6 +255,7 @@ abuela;40
 abuelas;40
 abuelo;40
 abuelos;40
+abuja;40;Capital of Nigeria
 abul;20
 aburglarstoleit;1
 abuser;5
@@ -9035,17 +9036,25 @@ cocoasyrup;50
 cocobolo;50
 cocochanel;50
 cococrisp;50
-coconutcream;50
-coconutcreampie;50
-coconutcreampies;50
+coconutcake;60
+coconutcakes;60
+coconutcream;60
+coconutcreampie;60
+coconutcreampies;60
 coconutcustard;50
 coconutcustardpie;50
 coconutcustardpies;50
-coconutgrove;50
-coconutmacaroon;50
-coconutmacaroons;50
-coconutshrimp;50
-coconutwater;50
+coconutgrove;60
+coconutgroves;60
+coconutmacaroon;60
+coconutmacaroons;60
+coconutmilk;60
+coconutpalm;50
+coconutpalms;50
+coconutpie;60
+coconutpies;60
+coconutshrimp;60
+coconutwater;60
 cocounsel;50
 cocounsels;50
 cod;50
@@ -10451,6 +10460,8 @@ cumbrous;40;Cumbersome, literary
 cuneate;20;Wedge-shaped, in botany/anatomy
 cuneiform;50
 cunk;40
+cunkonbritain;50
+cunkonearth;50
 cuoco;30
 cup;50
 cupbearer;50
@@ -11681,6 +11692,7 @@ diamondrings;60
 diamonds;50
 dian;40;Dian Fossey, gorilla expert
 dianas;30;Plural name
+dianemorgan;50;She plays Philomena Cunk
 dianes;30;Plural name
 diarchies;30;Governments by two independent authorities
 diarchy;30;Government by two independent authorities
@@ -12405,6 +12417,7 @@ doingtoat;40
 doingtoatee;40
 doingyourfairshare;50
 doink;30
+doitatonce;40;Green paint?
 doitnow;60
 doityourselftornadokit;60;Acme invention
 doj;40
@@ -20956,6 +20969,7 @@ holograms;50
 hololens;50
 holster;50
 holsters;50
+holt;40
 holtz;30
 holusbolus;40;All at once
 holyark;50
@@ -24075,6 +24089,7 @@ josh;50
 joshed;60
 joshes;60
 joshing;60
+joss;40;Joss Whedon (ew) or singer Joss Stone (better)
 jot;50
 jour;40
 journalized;30
@@ -29312,6 +29327,12 @@ mobutu;40;President of Zaire 1971-97
 moc;20
 mochalatte;50
 mochalattes;50
+mocktail;60
+mocktails;60
+mocktrial;60
+mocktrials;60
+mockumentaries;60
+mockumentary;60
 mod;50
 model;50;One who might say "Take your best shot!"
 modela;40;Old Ford model
@@ -29387,6 +29408,7 @@ moltenlava;50
 moltenlavacake;50
 moltenlavacakes;50
 molter;30
+molto;40
 moltobene;50
 moly;40;Holy moly
 mom;50
@@ -30873,6 +30895,7 @@ nileriver;50
 nilgai;20;Antelope
 nilla;40
 nilotic;30
+nilsson;40;Harry Nilsson, "Everybody's Talkin'" singer
 nim;20
 nimbi;40
 nimbies;40
@@ -34815,7 +34838,7 @@ philliephanatic;60
 phillipsheadscrewdriver;50
 phillipsheadscrewdrivers;50
 philol;20
-philomenacunk;50
+philomenacunk;60
 philter;30;Love potion
 philters;30;Love potions
 philtrum;30;Lip cleft
@@ -35911,21 +35934,29 @@ popinamovie;50
 popinto;40
 poplartree;50
 poplartrees;50
+popoff;60
 popolvuh;30;Mayan text
+popon;40
 poppa;20;Papa variant
 poppas;20;Papas variant
 poppedinamovie;50
 poppedinto;40
+poppedoff;60
+poppedon;40
 poppedpills;40
 poppills;40
 poppinginamovie;50
 poppinginto;40
+poppingoff;60
+poppingon;40
 poppingpills;40
 poppop;50
 poppunk;50
 popscene;50
 popsinamovie;50
 popsinto;40
+popsoff;60
+popson;40
 popspill;30
 popspills;30
 poptart;50
@@ -37434,6 +37465,8 @@ ranat;40
 ranatab;50
 ranawaywith;50
 ranbehind;50
+rancho;40
+ranchos;40
 randan;20
 randb;30
 randd;30
@@ -37736,10 +37769,14 @@ rds;40
 re;40
 rea;40;Mens rea, or Stephen Rea
 reachedfor;40
+reachedin;40
 reachesfor;40
+reachesin;40
 reacheslegalage;50
 reachfor;40
+reachin;40
 reachingfor;40
+reachingin;40
 reactedto;40
 reactingto;40
 reactiongif;60
