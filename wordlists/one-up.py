@@ -8,16 +8,27 @@ from pygtrie import CharTrie
 import sys
 
 def main():
-    if len(sys.argv) != 3:
-        print(f"Usage: {sys.argv[0]} <min_changes> [n=1]", file=sys.stderr)
+    if len(sys.argv) < 3 or len(sys.argv) > 4:
+        print(f"Usage: {sys.argv[0]} <min_length> <min_changes> [meta]", file=sys.stderr)
         sys.exit(1)
 
-    n = int(sys.argv[1])
+    min_length = int(sys.argv[1])
     min_changes = int(sys.argv[2])
-    word_list = load_word_list(min_score=40).words
+    meta = sys.argv[3] if len(sys.argv) >= 4 else None
 
-    for (old, new) in one_ups(word_list, n, min_changes, wrapping=False):
-        print(f"{highlight_diffs(old, new)} -> {highlight_diffs(new, old)}", flush=True)
+    word_list = load_word_list(min_score=40).words
+    word_list = {word for word in word_list if len(word) >= min_length}
+
+    entries = one_ups(word_list, n=1, min_changes=min_changes, wrapping=False)
+    if meta:
+        for (i, spellings) in enumerate(spell_meta(meta, entries)):
+            print(f"Solution #{i+1} - length {sum(len(old) for (old, new) in spellings)}")
+            for (old, new) in spellings:
+                print(f"{highlight_diffs(old, new)} -> {highlight_diffs(new, old)}")
+            print(flush=True)
+    else:
+        for (old, new) in entries:
+            print(f"{highlight_diffs(old, new)} -> {highlight_diffs(new, old)}", flush=True)
 
 def highlight_diffs(s1, s2):
     s = ''
@@ -26,26 +37,6 @@ def highlight_diffs(s1, s2):
     return s
 
 ################################################################################
-
-class TrieNode:
-    def __init__(self):
-        self.children = {}
-        self.is_word = False
-
-def build_trie(words):
-    """
-    Build a Trie from the given iterable of words.
-    Returns the root TrieNode.
-    """
-    root = TrieNode()
-    for w in words:
-        node = root
-        for c in w:
-            if c not in node.children:
-                node.children[c] = TrieNode()
-            node = node.children[c]
-        node.is_word = True
-    return root
 
 def one_ups(word_list, n=1, min_changes=1, wrapping=False):
     """
@@ -147,6 +138,107 @@ def one_ups(word_list, n=1, min_changes=1, wrapping=False):
                 all_pairs.append((p, w))
 
     return all_pairs
+
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.is_word = False
+
+def build_trie(words):
+    """
+    Build a Trie from the given iterable of words.
+    Returns the root TrieNode.
+    """
+    root = TrieNode()
+    for w in words:
+        node = root
+        for c in w:
+            if c not in node.children:
+                node.children[c] = TrieNode()
+            node = node.children[c]
+        node.is_word = True
+    return root
+
+################################################################################
+
+def spell_meta(meta, entries):
+    """
+    Exhaustively find all ways to build 'meta' from the *changed letters*
+    of a sequence of (before, after) pairs, with these conditions:
+      1) No pair is reused in a single solution.
+      2) The concatenation of changed-letter tokens exactly equals 'meta'.
+      3) The sequence of 'before'-lengths is palindromic.
+
+    :param meta: str, the target to build (e.g. "foobar").
+    :param entries: list of (before, after) pairs (each a distinct entry).
+    :return: A list of solutions, where each solution is a list of indices or
+             a list of dicts describing which entries were used.
+    """
+    # 1) Precompute the changed letters for each entry
+    diff_data = []
+    for idx, (bef, aft) in enumerate(entries):
+        if len(bef) != len(aft):
+            # Should never happen if one_ups pairs them, but just in case
+            continue
+
+        changed_positions = []
+        for i in range(len(bef)):
+            if bef[i] != aft[i]:
+                changed_positions.append(i)
+
+        diff_str = "".join(bef[i] for i in changed_positions)
+
+        # If you want to ignore pairs that have no changes, skip if diff_str == ""
+        # But maybe you want to include them (they contribute an empty string to meta).
+        # For now, we'll keep them, so they can match an empty prefix (which is rarely useful).
+        # It's your call to exclude them if needed.
+
+        diff_data.append({
+            "diff_str": diff_str,
+            "length": len(bef),
+            "before": bef,
+            "after": aft,
+            "index": idx  # original index in 'entries' for reference
+        })
+
+    n = len(meta)
+    solutions = []
+
+    # 2) Depth-first search / backtracking
+    def backtrack(index, used, chosen):
+        """
+        :param index: how many chars of meta are matched so far
+        :param used: set of indices (in diff_data) that we've already used
+        :param chosen: list of indices into diff_data of the chosen pairs (in order)
+        """
+        if index == n:
+            # We've matched all of meta. Check symmetry in the chosen lengths
+            lengths_seq = [diff_data[i]["length"] for i in chosen]
+            if lengths_seq == lengths_seq[::-1]:  # palindrome check
+                # Record a valid solution
+                solution_pairs = [(diff_data[i]['before'], diff_data[i]['after']) for i in chosen]
+                solutions.append(solution_pairs)
+            return
+
+        # If we're not at the end, try each diff_data entry that is not used
+        for i in range(len(diff_data)):
+            if i in used:
+                continue
+            token = diff_data[i]["diff_str"]
+            # If token matches meta[index:] as a prefix...
+            if meta.startswith(token, index):
+                used.add(i)
+                chosen.append(i)
+                new_index = index + len(token)
+
+                backtrack(new_index, used, chosen)
+
+                chosen.pop()
+                used.remove(i)
+
+    backtrack(0, set(), [])
+
+    return solutions
 
 
 if __name__ == '__main__':
