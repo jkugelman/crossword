@@ -17,8 +17,21 @@ def main():
     min_changes_per_word = args.min_changes_per_word
     meta = args.meta
 
+    banned = {
+        'lettera', 'letterb', 'letterc', 'letterd', 'lettere', 'letterf', 'letterg', 'letterh', 'letteri', 'letterj', 'letterk', 'letterl', 'letterm', 'lettern', 'lettero', 'letterp', 'letterq', 'letterr', 'lettert', 'letteru', 'letterv', 'letterw', 'letterx', 'lettery', 'letterz',
+        'capitala', 'capitalb', 'capitalc', 'capitald', 'capitale', 'capitalf', 'capitalg', 'capitalh', 'capitali', 'capitalj', 'capitalk', 'capitall', 'capitalm', 'capitaln', 'capitalo', 'capitalp', 'capitalq', 'capitalr', 'capitalt', 'capitalu', 'capitalv', 'capitalw', 'capitalx', 'capitaly', 'capitalz',
+        'lowercasea', 'lowercaseb', 'lowercasec', 'lowercased', 'lowercasee', 'lowercasef', 'lowercaseg', 'lowercaseh', 'lowercasei', 'lowercasej', 'lowercasek', 'lowercasel', 'lowercasem', 'lowercasen', 'lowercaseo', 'lowercasep', 'lowercaseq', 'lowercaser', 'lowercases', 'lowercaset', 'lowercaseu', 'lowercasev', 'lowercasew', 'lowercasex', 'lowercasey', 'lowercasez',
+        'silenta', 'silentb', 'silentc', 'silentd', 'silente', 'silentf', 'silentg', 'silenth', 'silenti', 'silentj', 'silentk', 'silentl', 'silentm', 'silentn', 'silento', 'silentp', 'silentq', 'silentr', 'silents', 'silentt', 'silentu', 'silentv', 'silentw', 'silentx', 'silenty', 'silentz',
+        'softa', 'softb', 'softc', 'softd', 'softe', 'softf', 'softg', 'softh', 'softi', 'softj', 'softk', 'softl', 'softm', 'softn', 'softo', 'softp', 'softq', 'softr', 'softs', 'softt', 'softu', 'softv', 'softw', 'softx', 'softz',
+        'harda', 'hardb', 'hardc', 'hardd', 'harde', 'hardf', 'hardg', 'hardh', 'hardi', 'hardj', 'hardk', 'hardl', 'hardm', 'hardn', 'hardo', 'hardp', 'hardq', 'hardr', 'hards', 'hardt', 'hardu', 'hardv', 'hardw', 'hardx', 'hardz',
+        'aminus', 'bminus', 'cminus', 'dminus',
+        'aplus', 'bplus', 'cplus', 'dplus',
+        'asharp', 'bsharp', 'csharp', 'dsharp', 'esharp', 'fsharp', 'gsharp',
+        'anatural', 'bnatural', 'cnatural', 'dnatural', 'enatural', 'fnatural', 'gnatural',
+        'aflat', 'bflat', 'cflat', 'dflat', 'eflat', 'fflat', 'gflat',
+    }
     word_list = load_word_list(min_score=40).words
-    word_list = {word for word in word_list if len(word) >= min_word_length}
+    word_list = {word for word in word_list if len(word) >= min_word_length} - banned
 
     entries = one_ups(word_list, n=1, min_changes=min_changes_per_word, wrapping=False)
     if meta:
@@ -234,7 +247,7 @@ def spell_meta(meta, entries, max_total_length=None):
 
     # 3) Memoized search over (index, current_length_sum).
     #    current_length_sum = sum of all 'length' used so far.
-    @lru_cache(None)
+    @lru_cache(1024)
     def backtrack(index, current_length_sum):
         """
         :param index: current position in 'meta' (0-based)
