@@ -5,9 +5,7 @@
 import argparse
 from collections import Counter, defaultdict
 from functools import lru_cache
-from itertools import product
-from pygtrie import CharTrie
-import sys
+from itertools import permutations, product
 
 from merge import *
 
@@ -24,10 +22,21 @@ def main():
 
     entries = one_ups(word_list, n=1, min_changes=min_changes_per_word, wrapping=False)
     if meta:
-        for (i, spellings) in enumerate(spell_meta(meta, entries, max_total_length)):
-            print(f"Solution #{i+1} - length {sum(len(old) for (old, new) in spellings)}")
-            for (old, new) in spellings:
-                print(f"{highlight_diffs(old, new)} -> {highlight_diffs(new, old)}")
+        for (i, spelling) in enumerate(spell_meta(meta, entries, max_total_length), 1):
+            # len(spelling) = how many words are in this spelling
+            # spelling[i] = list of word pairs for the ith position (all equal length)
+            # spelling[i][0] = an arbitrary word pair for the ith position
+            # spelling[i][0][0] = an arbitrary 'before' word for the ith position
+            # len(spelling[i][0][0]) = length of the words in the ith position
+            total_len = sum(len(pairs[0][0]) for pairs in spelling)
+
+            print(f"Solution #{i} - length {total_len}")
+
+            for (j, pairs) in enumerate(spelling, 1):
+                print(f"    {j}. ", end='')
+                for (old, new) in pairs:
+                    print(f"{highlight_diffs(old, new)} -> {highlight_diffs(new, old)}, ", end='')
+                print("\b\b \b")
             print(flush=True)
     else:
         for (old, new) in entries:
@@ -223,12 +232,10 @@ def spell_meta(meta, entries, max_total_length=None):
 
     n = len(meta)
 
-    # 3) Memoized search over (index, usage_counts, current_length_sum).
-    #    usage_counts[i] = how many times we've used collapsed_data[i].
+    # 3) Memoized search over (index, current_length_sum).
     #    current_length_sum = sum of all 'length' used so far.
-
     @lru_cache(None)
-    def backtrack(index, usage_counts, current_length_sum):
+    def backtrack(index, current_length_sum):
         """
         :param index: current position in 'meta' (0-based)
         :param usage_counts: tuple of integers for each index in collapsed_data
@@ -240,13 +247,8 @@ def spell_meta(meta, entries, max_total_length=None):
             return [[]]  # one valid "empty" extension
 
         solutions_here = []
-        usage_list = list(usage_counts)
 
         for i, entry in enumerate(collapsed_data):
-            # Check if we have capacity to use this group again
-            if usage_list[i] >= len(entry["pairs"]):
-                continue  # we've run out of real pairs in this group
-
             token = entry["token"]
             length_i = entry["length"]
 
@@ -257,21 +259,15 @@ def spell_meta(meta, entries, max_total_length=None):
 
             # Check if the token matches meta at 'index'
             if meta.startswith(token, index):
-                # Use it
-                usage_list[i] += 1
-                sub_solutions = backtrack(index + len(token),
-                                          tuple(usage_list),
-                                          new_length_sum)
+                sub_solutions = backtrack(index + len(token), new_length_sum)
                 # sub_solutions are lists of collapsed indices from the next position onward
                 for sol in sub_solutions:
                     solutions_here.append([i] + sol)
-                usage_list[i] -= 1
 
         return solutions_here
 
     # Collect all solutions ignoring the palindrome check
-    initial_usage = tuple([0]*len(collapsed_data))
-    raw_solutions = backtrack(0, initial_usage, 0)
+    raw_solutions = backtrack(0, 0)
 
     # 4) Filter those whose length sequence is palindromic
     palindromic_solutions_collapsed = []
@@ -281,55 +277,12 @@ def spell_meta(meta, entries, max_total_length=None):
             palindromic_solutions_collapsed.append(sol)
 
     # 5) Expand each collapsed solution into all possible real (before, after) combos.
-    from itertools import permutations, product
-    expanded_solutions = []
-    for sol in palindromic_solutions_collapsed:
-        # Count how many times each collapsed idx is used
-        from collections import Counter
-        usage_counter = Counter(sol)
+    expanded_solutions = [
+        [collapsed_data[i]['pairs'] for i in sol]
+         for sol in palindromic_solutions_collapsed
+    ]
 
-        # Build all expansions by picking distinct real pairs for each usage
-        index_to_combos = {}
-        valid_solution = True
-        for idx_used, times_used in usage_counter.items():
-            all_real_pairs = collapsed_data[idx_used]["pairs"]
-            # We must pick 'times_used' distinct pairs from this list
-            if len(all_real_pairs) < times_used:
-                valid_solution = False
-                break
-            # Permutations since order matters in the final sequence
-            index_to_combos[idx_used] = list(permutations(all_real_pairs, times_used))
-
-        if not valid_solution:
-            continue
-
-        # Cartesian product across each index's permutations
-        all_keys = list(usage_counter.keys())
-        combos_lists = [index_to_combos[k] for k in all_keys]
-        for combo_selection in product(*combos_lists):
-            # combo_selection is a tuple of permutations, one for each key in all_keys
-            assignment = {}
-            for k_i, chosen_perm in zip(all_keys, combo_selection):
-                assignment[k_i] = chosen_perm
-
-            # Reconstruct the final solution in the order given by 'sol'
-            usage_in_order = Counter()
-            real_solution = []
-            for collapsed_idx in sol:
-                used_so_far = usage_in_order[collapsed_idx]
-                real_pair = assignment[collapsed_idx][used_so_far]
-                real_solution.append(real_pair)
-                usage_in_order[collapsed_idx] += 1
-
-            expanded_solutions.append(real_solution)
-
-    # 6) De-duplicate final solutions
-    unique_solutions = set()
-    for sol in expanded_solutions:
-        unique_solutions.add(tuple(sol))  # convert list->tuple for hashing
-    deduped_solutions = [list(u) for u in unique_solutions]
-
-    return deduped_solutions
+    return expanded_solutions
 
 if __name__ == '__main__':
     main()
