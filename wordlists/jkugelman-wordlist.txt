@@ -31594,7 +31594,7 @@ npc;30;NYT debut
 npg;20
 npr;40
 nprnews;50
-nra;30
+nra;40
 nrachief;30
 nrc;20
 nrgpark;50
@@ -36069,8 +36069,8 @@ portress;20
 portresses;20
 portulaca;20;Flower genus
 pos;20
-posada;40
-posadas;40
+posada;30;Spanish "inn"
+posadas;30
 poseas;40
 posedas;40
 posedfor;40
