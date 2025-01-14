@@ -17900,6 +17900,7 @@ getoffyourhighhorse;60
 geton;40
 getonboard;50
 getonesgoat;60
+getoneshouseinorder;60
 getonto;40
 getreal;60
 getrest;30
@@ -17958,6 +17959,7 @@ getsoffontherightfoot;60
 getson;40
 getsonboard;50
 getsonesgoat;60
+getsoneshouseinorder;60
 getsonesmittson;60
 getsonto;40
 getsore;40
@@ -18030,6 +18032,7 @@ gettingoffontherightfoot;60
 gettingon;40
 gettingonboard;50
 gettingonesgoat;60
+gettingoneshouseinorder;60
 gettingonto;40
 gettingquiet;50
 gettingready;50
@@ -18055,6 +18058,7 @@ getusedtoit;60
 getwiththetimes;60
 getyourhandsoffme;60
 getyourheadexamined;60
+getyourhouseinorder;60
 getyourrearingear;60
 getz;40
 gewgaw;40;Showy trinket
@@ -37009,6 +37013,7 @@ putnam;40
 putoneoveron;50
 putonesfeetup;50
 putonesfingeron;60
+putoneshouseinorder;60
 putonto;40
 putonyourbigboypants;60
 putonyourbiggirlpanties;60
@@ -37029,6 +37034,7 @@ putslipstickonapig;60
 putsoneoveron;50
 putsonesfeetup;50
 putsonesfingeron;60
+putsoneshouseinorder;60
 putsthefingeron;60
 putsthepedaltothemetal;60
 putsthepiecestogether;60
@@ -37051,6 +37057,7 @@ puttingitmildly;60
 puttinglipstickonapig;60
 puttingoneoveron;50
 puttingonesfeetup;50
+puttingoneshouseinorder;60
 puttingthepedaltothemetal;60
 puttingthepiecestogether;60
 puttputt;60
@@ -37063,6 +37070,7 @@ putyourbigboypantson;60
 putyourbiggirlpantieson;60
 putyourbiggirlpantson;60
 putyourheadstogether;60
+putyourhouseinorder;60
 puzzlebox;50
 puzzleboxes;50
 pvc;40
@@ -41958,6 +41966,7 @@ setitup;1
 setoffs;40;Amounts set off against others in the settlement of accounts
 seton;40
 setones;20
+setoneshouseinorder;60
 setons;30;Family name
 setose;20;Bristly
 setpoint;50
@@ -41971,6 +41980,7 @@ setsfireto;40
 setshot;50
 setshots;50
 setson;40
+setsoneshouseinorder;60
 setsthetone;50
 setsto;40
 setsupshop;50
@@ -41982,6 +41992,7 @@ settingacourse;50
 settingacoursefor;50
 settingeyeson;50
 settingfireto;40
+settingoneshouseinorder;60
 settingthetone;50
 settingupshop;50
 settledinto;40
@@ -41991,6 +42002,7 @@ settlinginto;40
 setto;40
 settop;50
 setupshop;50
+setyourhouseinorder;60
 seurat;50;Pointillist Georges Seurat
 seuss;50
 seussian;60
