@@ -2884,8 +2884,8 @@ artrestorers;50
 artstudio;50
 artstudios;50
 artsyfartsy;60
-arttest;20
-arttests;20
+arttest;30;Green paint
+arttests;30
 artthief;50
 artthieves;50
 arturo;50
@@ -17400,7 +17400,6 @@ galatian;30;Celtic person of old
 galatians;30;Bible book
 galaxies;60
 galaxy;60
-galba;20;Roman emperor
 galba;30;Roman emperor
 galbi;40;Korean short ribs
 gale;50
