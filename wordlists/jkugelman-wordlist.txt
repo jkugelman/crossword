@@ -6314,6 +6314,7 @@ brocket;20;Type of deer
 brocode;50
 brodate;50
 brodates;50
+brodown;30
 brokebread;60
 brokebreadwith;50
 brokecharacter;50
@@ -9656,6 +9657,7 @@ coonskincaps;50
 coonskinhat;50
 coonskinhats;50
 coorsfield;50;Stadium of the Colorado Rockies
+cootie;40;Weird singular
 cooties;60
 cootieshot;60
 coowner;50
@@ -29909,7 +29911,7 @@ msn;40
 msnoodle;40;"Sesame Street" character
 msquad;30;Old TV show
 msrp;40
-mss;20
+mss;30
 mst;40
 mstar;20
 mstars;20
@@ -36817,7 +36819,7 @@ pter;20
 pterosaur;50
 pterosaurs;50
 ptl;20
-pto;20;Not used in NYT since 1995
+pto;40
 ptolemys;20
 ptrap;30;Plumbing fixture
 ptraps;30;Plumbing fixtures
@@ -50970,6 +50972,7 @@ unscripted;50
 unseams;30
 unseld;30
 unser;40
+unserious;50
 unsewed;30
 unsewn;40
 unship;30
