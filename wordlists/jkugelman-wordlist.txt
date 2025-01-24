@@ -7942,6 +7942,8 @@ cerealbar;50
 cerealbars;50
 cerement;30;Waxed cloth covering a corpse
 cerements;30;Waxed cloths covering a corpse
+ceremonialdressuniform;50
+ceremonialdressuniforms;50
 cerf;40;Vint Cerf, "father of the Internet"
 cerises;20;Reds
 cern;40
@@ -12953,6 +12955,8 @@ dressstyle;50
 dressstyles;50
 dressthepart;60
 dressto;20
+dressuniform;50
+dressuniforms;50
 dressupas;40
 drevil;50
 drewablank;60
@@ -14432,6 +14436,7 @@ engadin;30;Swiss Alps region
 engadine;30;Swiss Alps region
 engagedin;40
 engagein;40
+engagementbait;60
 engagesin;40
 engagingin;40
 engild;40
@@ -17268,6 +17273,8 @@ fullamnesty;50
 fullbirdcolonel;50
 fullbirdcolonels;50
 fulldiva;60
+fulldressuniform;50
+fulldressuniforms;50
 fullforce;50
 fullgainer;50
 fullhouse;60
@@ -21517,7 +21524,7 @@ hst;40
 hsu;40;Stephanie Hsu of "Everything Everywhere All At Once"
 hten;20
 html;40
-hts;20
+hts;30
 http;40
 https;40
 hua;20
@@ -29506,6 +29513,7 @@ momently;30
 momentofmass;50
 momentofmomentum;50
 momo;20
+momo;30;Dumpling
 momplease;60
 momstobe;50
 momtobe;50
@@ -34015,6 +34023,8 @@ papular;40
 par;50
 para;40;Prefix
 parachutesilk;50
+paradedressuniform;50
+paradedressuniforms;50
 paraderest;50
 paradingregally;1
 paradox;60
@@ -41954,6 +41964,8 @@ serverrooms;50
 servesas;40
 servetwomasters;60
 service;50
+servicedressuniform;50
+servicedressuniforms;50
 services;50
 servingas;40
 servitor;30;Attendant
@@ -45610,6 +45622,8 @@ streetmagician;60
 streetmagicians;60
 streetmeat;50
 streetmeats;50
+streetmusician;50
+streetmusicians;50
 streetname;50
 streetnames;50
 streetperformer;50
