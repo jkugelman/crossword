@@ -1409,6 +1409,7 @@ alita;30
 alitalia;40;Defunct Italian airline
 aliteralwhoswho;60
 alittle;40
+alittlebitofboth;50
 alittlehelp;60
 alittlehelphere;60
 alittlelearning;60
@@ -2567,6 +2568,7 @@ arctophile;30;One who collects teddy bears
 arcuate;40;Shaped like a bow, curved
 arcw;1
 ard;20
+ardency;30
 ardern;40;New Zealand PM Jacinda Ardern 2017-23
 ardlylion;1
 ardmore;20;Philly suburb
@@ -3616,6 +3618,7 @@ awfultruth;60
 awhell;60
 awhellnaw;60
 awholelot;50
+awholenewballgame;60
 awinsawin;60
 awiseguyeh;60
 awk;20
@@ -5449,6 +5452,7 @@ blendinto;40
 blendsinto;40
 blenheim;40;English palace
 blest;40
+bleus;20
 blewakiss;50
 blewinto;40
 blewoff;50
@@ -6502,6 +6506,7 @@ bugging;50
 buggingout;60
 buggywhip;50
 buggywhips;50
+buginarug;60
 buglecall;50
 buglecalls;50
 buglight;50
@@ -6711,6 +6716,7 @@ busybody;60
 but;50
 butadiene;30;Chemical
 bute;20
+butforrealthough;60
 butlikeactuallythough;60
 butnotreachable;1
 butreally;60
@@ -7586,6 +7592,8 @@ castaspellon;60
 castedashadowover;60
 castedaspellon;60
 castellaneta;60
+castesystem;50
+castesystems;50
 castingashadowover;60
 castingaspellon;60
 castironskillet;50
@@ -7857,6 +7865,7 @@ cecropia;30;???
 cedarbalsamaple;1
 cedarfalls;50
 cedarrapidsiowa;30;???
+cedarwood;40
 cededto;40
 cedesto;40
 cedeto;40
@@ -8286,6 +8295,8 @@ chicane;40;???
 chicanery;50
 chicas;40
 chick;50
+chickendumpling;50
+chickendumplings;50
 chickenedout;60
 chickeningout;60
 chickenout;60
@@ -9847,6 +9858,8 @@ cot;50
 cotan;40
 cotcaughtmerger;50
 cote;40
+cotenant;40
+cotenants;40
 cotes;40;Pigeon coops
 cotija;40;Mexican cheese
 cotonou;30;Largest city in Benin
@@ -13423,9 +13436,9 @@ eaglepose;50
 eaglescout;50
 eaglescouts;50
 eagleswings;50
-eaglet;30
+eaglet;50
 eagleton;30
-eaglets;30
+eaglets;50
 eagye;20
 eal;20
 eames;30;Chair brand
@@ -14418,6 +14431,8 @@ enemyalien;1
 enemyfire;50
 enemys;20
 ener;20;Will Shortz won't accept it
+energyvampire;60
+energyvampires;60
 enero;40
 eneros;20
 enesco;40;Romanian composer George Enescu / Georges Enesco
@@ -14683,6 +14698,8 @@ epigonism;30
 epigonous;30
 epilady;40;Hair removal brand for women
 epilate;30;Hair removal technique
+epilepsywarning;50
+epilepsywarnings;50
 epilog;30;More commonly epilogue
 episcopate;40
 episodei;40
@@ -15465,6 +15482,7 @@ eyetest;50
 eyetests;50
 eyewear;50
 eying;30
+eyjafjallajokull;50
 ezine;30
 ezines;30
 ezr;20
@@ -16085,6 +16103,7 @@ feverdream;60
 feverdreams;60
 feverpitch;60
 few;50
+fewandfarbetween;60
 fewgoodmen;20
 fewness;30
 fey;50
@@ -20491,6 +20510,8 @@ helpline;50
 helplines;50
 helpmenu;50
 helpmenus;30
+helpvampire;60
+helpvampires;60
 helvetia;30
 hem;50
 hemand;20
@@ -21757,6 +21778,8 @@ icebreaking;50
 icecapped;50
 icecold;50
 icecoldbeerhere;60
+icecreamsandwich;60
+icecreamsandwiches;60
 icecubetray;50
 icecubetrays;50
 icedance;50
@@ -22144,6 +22167,7 @@ illbeamonkeysuncle;60
 illbebrief;60
 illbefine;60
 illbehere;60
+illbehereallweek;60
 illbeintouch;60
 illbenice;60
 illbeokay;60
@@ -22521,6 +22545,7 @@ inalather;50
 inalie;20
 inallfairness;60
 inalllikelihood;60
+inallseriousness;60
 inanition;30;Exhaustion
 inanna;20;Sumerian goddess
 inanotherlife;50
@@ -23556,6 +23581,7 @@ itsathing;60
 itsatotalnightmare;60
 itsawaitinggame;60
 itsawash;60
+itsawholenewballgame;60
 itsawonderfullife;60
 itsawrap;60
 itsays;20
@@ -23580,6 +23606,8 @@ itsingodshands;60
 itsingodshandsnow;60
 itsinthebag;60
 itsit;20;Ice cream brand
+itsjustaprank;60
+itsjustaprankbro;60
 itsjustathought;60
 itsjustoneofthosedays;60
 itsjustthetipoftheiceberg;60
@@ -23612,6 +23640,7 @@ itsoveralready;60
 itspecialist;50
 itspecialists;50
 itsquiteastretch;60
+itsreallyinthere;60
 itsselfexplanatory;60
 itssimplereally;60
 itssoeasyachildcandoit;60
@@ -28364,10 +28393,14 @@ maxfactor;50;Cosmetics line
 maxilla;30;Upper jawbone
 maxillae;30;Upper jawbones
 maxime;30;First name, unsure if notable
+maximumwordcount;60
+maximumwordcounts;60
 maxixe;30;Brazilian tango
 maxplayer;20
 maxplayers;20
 maxvonsydow;50
+maxwordcount;60
+maxwordcounts;60
 maxx;30
 may;50
 mayanruins;50
@@ -29096,6 +29129,8 @@ minimarshmallows;50
 minime;50
 minimi;30;Little fingers or toes
 minims;40;Half notes: Br.
+minimumwordcount;50
+minimumwordcounts;50
 mining;50
 minion;50
 minions;50
@@ -29512,7 +29547,6 @@ momenta;50
 momently;30
 momentofmass;50
 momentofmomentum;50
-momo;20
 momo;30;Dumpling
 momplease;60
 momstobe;50
@@ -29640,6 +29674,8 @@ moovit;40;Transit app
 mop;50
 moper;40
 mopers;40
+mophandle;50
+mophandles;50
 moptop;60
 mor;20
 moralimperative;50
@@ -30229,6 +30265,7 @@ naggingat;40
 nagila;40
 nagsat;40
 nah;50
+nahbutforreal;60
 nahs;40
 nahuatlan;40
 nahum;20;Minor book of the Hebrew Bible
@@ -43779,6 +43816,7 @@ snr;20
 snuckapeek;50
 snuckby;40
 snuckinto;40
+snugasabuginarug;60
 snugli;40;Baby carrier brand
 so;50
 soa;20
@@ -43830,6 +43868,8 @@ socialbubmarine;1
 socialcontracts;50
 socialcue;60
 socialcues;60
+socialexperiment;60
+socialexperiments;60
 socialmediainfluencer;60
 socialmediainfluencers;60
 socialnorm;50
@@ -45464,6 +45504,8 @@ stoneme;30
 stonemountain;50
 stoner;50
 stoners;50
+stonetablet;50
+stonetablets;50
 stonetool;50
 stonetools;50
 stonewalljackson;50
@@ -46314,6 +46356,11 @@ sweatshirts;50
 sweatsuit;50
 sweatsuits;50
 sweeneytodd;50
+sweeppick;50
+sweeppicked;50
+sweeppicking;50
+sweeppicks;50
+sweeptheleg;60
 sweetandsourmix;50
 sweetanise;50
 sweetchinmusic;60
@@ -47757,6 +47804,8 @@ thatswhatiexpected;60
 thatswhatifigured;60
 thatswhatimafraidof;60
 thatswhatimeanttosay;60
+thatswhatimsayin;60
+thatswhatimsaying;60
 thatswhatisaid;60
 thatswhatisuspected;60
 thatswhatithoughtyoudsay;60
@@ -48894,6 +48943,7 @@ timeeternal;50
 timeflieswhenyourehavingfun;60
 timefuse;50
 timefuses;50
+timeisaconstruct;60
 timelag;50
 timelags;50
 timelapsevideo;50
@@ -51390,6 +51440,8 @@ vac;40
 vacuities;40
 vacuity;50;Empty space
 vacuo;30;In vacuo, in a vacuum
+vacuumhose;50
+vacuumhoses;50
 vacuumsealed;50
 vagueidea;50
 vagueideas;50
@@ -51954,6 +52006,7 @@ wadofcash;50
 wadsofbills;50
 wadsofcash;50
 waf;20
+wafflehouseindex;60
 waffleiron;50
 waffleirons;50
 waftedin;40
@@ -52614,6 +52667,7 @@ wererich;60
 weresoold;60
 weresupposedtobeateam;60
 weretoast;60
+werewellpastthat;60
 wereyoulookingforthis;60
 wereyouraisedinabarn;60
 wernicke;30;Wernicke-Korsakoff syndrome, brain disorder
@@ -52707,6 +52761,7 @@ whathaveibecome;60
 whathogwash;60
 whatinblazes;60
 whatisdeadmayneverdie;60
+whatisthatsupposedtomean;60
 whatjusthappened;60
 whatnotevenathankyou;60
 whatscookinggoodlooking;60
@@ -52718,6 +52773,7 @@ whatsonyourmind;60
 whatsoperadoc;60
 whatsshakinbacon;60
 whatsthat;60
+whatsthatsupposedtomean;60
 whatsthegoodword;60
 whatsthemagicword;60
 whatsthemove;60
@@ -52836,6 +52892,7 @@ whoisthat;60
 whoisthis;60
 whoknew;60
 whoknowshowlong;60;Ages
+wholenewballgame;60
 wholeshootingmatch;60
 wholestory;50
 wholovesya;60
@@ -52851,6 +52908,7 @@ whoredoms;5
 whosagoodboy;60
 whosasking;60
 whosgonnamakeme;60
+whoshuffledthese;60
 whosis;20
 whosnext;50
 whossorrynow;60
@@ -53641,6 +53699,7 @@ yaleman;30
 yalemen;30
 yalie;40
 yalies;40
+yallreadyforthis;60
 yam;50
 yamamoto;40;WWII admiral Isoroku Yamamoto
 yamen;20
@@ -53913,6 +53972,7 @@ youhavesomenerve;60
 youheardme;60
 youhearme;60
 youidiot;60
+youknowmetoowell;60
 youknowtheone;60
 youllcomearound;60
 youllfitrightin;60
