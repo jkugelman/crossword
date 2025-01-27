@@ -4635,6 +4635,7 @@ becomingobsolete;50
 beconcise;50
 bed;50
 bedaub;50
+bedbathandbeyond;60
 bedder;30;???
 bedders;30;???
 bede;30;Saint ___ the Venerable
@@ -4939,6 +4940,8 @@ bestbud;60
 bestbuddies;50
 bestbuddy;50
 bestbuds;60
+bestcasescenario;60
+bestcasescenarios;60
 bestdirector;50
 bestie;60
 besties;60
@@ -11152,6 +11155,8 @@ deathgrips;30
 deathintheafternoon;60;Wine cocktail
 deathoftheauthor;60
 deathrowrecords;60
+deathsavingthrow;60
+deathsavingthrows;60
 deathstare;60
 deathstares;60
 deathstrike;60
@@ -13976,6 +13981,7 @@ eidolons;30
 eieio;40
 eightad;20
 eightam;40
+eightcrazynights;50;Adam Sandler movie
 eighteens;30
 eightieth;30
 eightiron;30
@@ -16878,6 +16884,7 @@ foramina;20;Body openings
 forborne;40
 forcequit;50
 forcequits;50
+forcryingoutloud;60
 fordbronco;50
 fordbroncos;50
 fordead;30
@@ -16902,6 +16909,8 @@ foreverhome;60
 foreverhomes;60
 forex;50;Foreign exchange market
 forfunsies;60
+forgetiasked;60
+forgetievenasked;60
 forgetisaidthat;60
 forgetit;60
 forgetmenot;60
@@ -17164,6 +17173,8 @@ frieda;40
 friedan;30;Feminist writer Betty Friedan, first president of NOW
 friedchicken;50
 friendlily;30;Weird adverb
+friendlyreminder;60
+friendlyreminders;60
 frigg;40;Wife of Odin
 frightwig;60
 frightwigs;60
@@ -18191,6 +18202,7 @@ gijoe;60
 gijoes;60
 gil;40;Gil Scott-Heron
 gilamonster;50
+gilbertgottfried;50
 gildalive;50;Gilda Radner special
 gillnet;40
 gillnets;40
@@ -21230,6 +21242,7 @@ hoofsit;60
 hoohah;50;Kerfuffle
 hoohahs;50
 hooka;20;Variant of hookah
+hookedonafeeling;60
 hookedup;50
 hookingup;50
 hooksup;60
@@ -21740,6 +21753,7 @@ ican;50
 icanadd;50
 icandoit;60
 icanfeelit;60
+icanfeelitinmybones;60
 icanleave;60
 icann;30
 icanreadwithmyeyesshut;60;Dr. Seuss book
@@ -22013,6 +22027,7 @@ ifc;20
 ifear;40
 ifeelbad;60
 ifeelheard;60
+ifeelitinmybones;60
 ifeelpretty;60
 ifeelseen;60
 ifeelsilly;60
@@ -22026,6 +22041,7 @@ ifiguredyoudsaythat;60
 ifill;30;Journalist Gwen
 ifimight;60
 ifimust;60
+ifionlyhadabrain;60
 ifiranthecircus;60;Dr. Seuss book
 ifiranthezoo;60;Dr. Seuss book
 ifitaintbrokedontfixit;60
@@ -22897,6 +22913,7 @@ inrush;30
 ins;50
 insales;30
 insana;30;Ron Insana of CNBC
+insaneclownposse;60
 insanitation;40
 insatiate;30
 inscale;30;Awkward
@@ -29168,6 +29185,8 @@ minkstole;40
 minkstoles;40
 minn;40
 minneapolismn;20
+minnesotaviking;50
+minnesotavikings;50
 minorarcana;60
 minoredin;40
 minorin;40
@@ -29303,6 +29322,7 @@ mistertoad;50;"The Wind in the Willows" character
 mistico;40;???
 mistral;30;Cold wind of France
 mistrals;30
+misunderestimate;60
 mit;40
 miter;40;Bishop's hat
 miters;40
@@ -31336,6 +31356,7 @@ noneof;20
 nonesuches;40
 nonet;20
 nonets;20
+nonewsisgoodnews;60
 nonfee;40
 nonlicit;20
 nonmale;20
@@ -31810,6 +31831,7 @@ nutgraf;40;Paragraph in a news story that explains the story's context and tells
 nutgrafs;40
 nutgraph;50
 nutgraphs;50
+nuthinbutagthang;60
 nutjob;60
 nutjobs;60
 nutlet;40
@@ -32235,6 +32257,7 @@ ohenryaward;50
 ohenryawards;50
 ohenryesque;50
 ohfine;60
+ohforcryingoutloud;60
 ohfudge;60
 ohfun;60
 ohgeez;60
@@ -32404,6 +32427,7 @@ oldgeezer;50
 oldgeezers;50
 oldhabit;50
 oldhabits;50
+oldhabitsdiehard;60
 oldhat;60;Last year
 oldheaveho;60
 oldkingcole;60
@@ -34341,6 +34365,7 @@ pattontank;50
 pattontanks;50
 pau;20
 paulatreides;50
+paulblartmallcop;60
 paulettegoddard;30
 pauliii;20
 pauliv;20
@@ -39318,6 +39343,7 @@ rheumy;20
 rhfactor;50
 rhiannon;40;Fleetwood Mac single
 rhinal;30;Nose-related
+rhinestonecowboy;60
 rhinoceri;40;Nonstandard plural
 rhinoceros;50
 rhinoceroses;50
@@ -42219,6 +42245,7 @@ shagreen;30;Type of leather
 shahada;40;???
 shai;40;NBA All-Star Shai Gilgeous-Alexander
 shakeglasstooth;1
+shakennotstirred;60
 shakeon;40
 shakeson;40
 shakespeareanactor;60
@@ -42640,6 +42667,7 @@ shuriken;60
 shurikens;60
 shush;50
 shute;20;Author Nevil
+shutthefrontdoor;60;"No way!"
 shutupandkissme;60
 shy;50
 si;40
@@ -44102,6 +44130,7 @@ songz;50;Rapper Trey
 soni;20
 soniabraga;50
 sonics;50
+sonicthehedgehog;60
 sonicyouth;60
 soninlaw;50
 sonneteer;40
@@ -44184,6 +44213,7 @@ sorrynorefunds;60
 sorrysort;60
 sorrystate;60
 sorrytobotheryou;60
+sorrywrongnumber;60
 sorryyouremad;60
 sorter;40
 sorters;40
@@ -44208,6 +44238,7 @@ sothern;40;Actress Ann Sothern
 sotheysay;60
 sothis;1
 sothisisit;60
+sothisistheplace;60
 soto;40;De Soto, or partial (ugh)
 sotoo;30
 sotospeak;60
@@ -45354,6 +45385,7 @@ sticksonesnosein;60
 sticksto;40
 stickswith;40
 stickto;40
+sticktoitiveness;60
 stickum;40;Sports adhesive
 stickwith;40
 stickysubject;50
@@ -46680,6 +46712,7 @@ takeitto;1
 takeittothegrave;60
 takeliberties;50
 takemeasiam;60
+takemywifeplease;60
 takenadisliketo;50
 takenbystorm;60
 takeninvain;50
@@ -47811,6 +47844,7 @@ thatswhatisuspected;60
 thatswhatithoughtyoudsay;60
 thatswhatiwasafraidof;60
 thatswhatiwasthinking;60
+thatswhatshesaid;60
 thatswhatyousoundlike;60
 thatswild;60
 thatwasagoodone;50
@@ -48596,6 +48630,7 @@ thisisacompletenightmare;60
 thisisactuallyhappening;60
 thisisadillyofapickle;60
 thisisarightpickle;60
+thisisasafespace;60
 thisisatotalnightmare;60
 thisisbig;60
 thisiseasy;60
@@ -50746,6 +50781,7 @@ ultimacy;40
 ultimateextreme;60
 ultimatum;50
 ultimo;40
+ultracrepidarian;50;Expressing opinions on matters outside the scope of one's knowledge or expertise
 ultrahdtv;50
 ultrahdtvs;50
 ultrahigh;50
@@ -52700,6 +52736,8 @@ wetnurses;50
 wetpaint;50
 wettig;30;Patricia Wettig from "City Slickers" or TV's "Thirtysomething"
 wetware;60
+weveallbeenthere;60
+wevebeenoverthis;60
 wevegotitmade;60
 wewilleatyouforbreakfast;60
 wewillrockyou;60
@@ -52769,6 +52807,7 @@ whatscookingoodlookin;60
 whatseemstobetheissue;60
 whatseemstobetheproblem;60
 whatsinitforme;60
+whatsnewpussycat;60
 whatsonyourmind;60
 whatsoperadoc;60
 whatsshakinbacon;60
@@ -52788,6 +52827,7 @@ whatsthisthen;60
 whatswhat;60
 whatswiththat;60
 whatsyourexcuse;60
+whatsyourproblem;60
 whatthehey;60
 whatwasthatfor;60
 wheatchex;50
@@ -52865,6 +52905,7 @@ whiteknights;60
 whitelie;50
 whitelies;50
 whitemagic;60
+whitemencantjump;60
 whitenoise;50
 whiterat;30
 whiterhino;50
@@ -53402,6 +53443,8 @@ wormscrews;50
 wormy;30
 worntire;50
 worntires;50
+worstcasescenario;60
+worstcasescenarios;60
 worsted;30;Wool yarn
 wort;50
 worthashot;60
@@ -53935,6 +53978,7 @@ you;50
 youandme;50
 youandmeagainsttheworld;60
 youareexcused;60
+youarewhatyoueat;60
 youawake;60
 youbet;60
 youcandoit;60
