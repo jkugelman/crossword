@@ -275,6 +275,7 @@ abysm;20;Abyss, poetically
 abysms;20
 abyssia;20
 abyuja;40;Capital of Nigeria (not Lagos)
+ac;40
 aca;40
 acaipuree;20
 acaipurees;20
@@ -831,6 +832,7 @@ aesops;40
 aesthesia;40;Opposite of anaesthesia
 aestheticallypleasing;50
 aestivate;30
+af;40
 afaik;30
 afarcry;50
 afb;20
@@ -908,6 +910,7 @@ afterparty;50
 afters;30
 afterthem;50
 afts;40
+ag;40
 aga;20
 agalaxyfarfaraway;60
 agallop;30
@@ -1989,7 +1992,7 @@ andyet;60
 andygibb;50
 andyouare;60
 andyourlittledogtoo;60
-ane;20
+ane;30;Suffix
 aneedle;20
 anema;20
 anembarrassmentofriches;60
@@ -2272,6 +2275,7 @@ aortae;40
 aortas;40
 aotearoa;40;Maori for New Zealand
 aoudads;20
+ap;40
 apa;30
 apace;40
 apairof;30
@@ -2945,7 +2949,7 @@ asdidi;40
 ase;20
 asea;40
 asean;20;Association of Southeast Asian Nations
-asec;25
+asec;20
 asecondlook;50
 aseethe;30
 asflat;20
@@ -3386,6 +3390,7 @@ attaboy;60
 attackdog;60
 attackdogs;60
 attagirl;60
+attal;30;French PM Gabriel Attal January-September 2024
 attaq;50;Reebok Shaq Attaq shoes
 attar;30;Fragrant oil
 attaway;30;Used in NYT, I don't buy it
@@ -3651,6 +3656,7 @@ axl;50
 axman;50
 axmen;50
 axthrowing;50
+ay;40
 aya;20
 ayatollah;50
 ayatollahkhomeini;50
@@ -3667,6 +3673,7 @@ ayres;20;Actor Lew
 ays;40;Shakespearean cries
 ayton;40;Deandre Ayton in the NBA, 1st overall draft pick in 2018
 ayup;50
+az;40
 azathoth;60;Lovecraftian god
 azera;20;Discontinued Hyundai model
 azeri;30;Turk ethnic group in Azerbaijan
@@ -4453,6 +4460,7 @@ baystater;50
 baystaters;50
 baz;40
 bazooms;30
+bb;40
 bba;20
 bballer;50
 bbb;40
@@ -5011,6 +5019,7 @@ bey;20
 beyhive;60;Beyoncé fans
 beyonce;60
 beyondonesreach;50
+bf;40
 bfa;40
 bff;40
 bffs;40
@@ -5359,6 +5368,7 @@ biz;50
 bizkit;50
 bizschool;50
 bizschools;50
+bk;40
 bks;20
 bkstacker;50
 bkstackers;50
@@ -7763,6 +7773,7 @@ caw;50
 caxirola;40;Brazilian percussion instrument
 caxirolas;40
 cay;50
+cb;40
 cba;20
 cbc;20
 cbcnews;40
@@ -7778,6 +7789,7 @@ cbs;40
 cbslogo;50
 cbstv;20
 cbt;1
+cc;40
 ccc;20
 ccci;20
 ccciv;20
@@ -7988,6 +8000,7 @@ cfos;40
 cfs;20
 cgi;40
 cgs;20
+ch;40
 cha;20
 chaat;40;Indian food
 chachaed;40
@@ -8935,6 +8948,7 @@ clxv;20
 clxvi;20
 clxxv;20
 clym;20
+cm;40
 cma;40
 cmajor;40
 cmas;40
@@ -10410,6 +10424,7 @@ cryptozoology;60
 crystalclear;60
 crystalset;50
 crystalsets;50
+cs;40
 csa;30;Community-supported agriculture
 cscale;40
 cscales;30
@@ -10449,6 +10464,7 @@ ctrlx;40
 ctrlz;40
 cts;20
 ctu;20
+cu;40
 cuando;30
 cuarenta;30
 cuatro;40
@@ -11015,11 +11031,13 @@ daytrader;50
 daytraders;50
 daytrades;50
 daytrading;50
+db;40
 dba;20
 dback;40
 dbacks;40
 dbl;20
 dbs;20
+dc;40
 dcarea;30;Arbitrary
 dcc;20
 dccc;20
@@ -11609,7 +11627,7 @@ destination;50
 destro;20;G.I. Joe character
 desuetude;40;State of disuse
 desuetudes;40
-det;20
+det;30
 detachedgarage;50
 detachedgarages;50
 detective;50
@@ -12174,6 +12192,7 @@ diz;20
 dizzygillespie;50
 dizzyspell;50
 dizzyspells;50
+dj;50
 djamileh;30;Unpopular Bizet opera
 djent;60
 djia;30;Dow Jones Industrial Average, seems legit but never used except in Newsday?
@@ -12197,6 +12216,7 @@ dlr;20
 dlv;20
 dlvi;20
 dlx;20
+dm;40
 dmajor;40
 dmc;20
 dmed;40
@@ -12806,6 +12826,7 @@ doz;20
 dozer;50
 dozers;50
 dozy;30
+dp;40
 dpi;40
 dpl;20
 dplus;40
@@ -13818,6 +13839,7 @@ edwardvii;30
 edwardviii;30
 edwina;30
 edy;40
+ee;40
 eeaao;20;Everything Everywhere All At Once
 eec;20
 eee;20
@@ -13892,6 +13914,7 @@ eflatscale;40
 efs;20
 eft;30;Young newt
 efts;30
+eg;40
 egal;40
 egan;20;Actor, governor
 egbdf;40
@@ -14225,6 +14248,7 @@ embank;30
 embanked;30
 embanking;30
 embanks;30
+embarcadero;40
 embarrassmentofriches;60
 emboli;40
 embosser;40
@@ -14542,7 +14566,7 @@ enrooting;40
 enroots;40
 enrouteto;40
 enry;20
-ens;30;Ensign
+ens;30;Ensign, or letter Ns
 ensalada;30
 enseal;30;Impress, in a way
 ensealed;30
@@ -14991,6 +15015,7 @@ est;40
 esta;40
 estado;40
 estados;40
+estadosunidos;40
 estamin;20
 estaminet;30;Small cafe
 estampa;20
@@ -15860,6 +15885,7 @@ fda;40
 fdny;40
 fdr;40
 fdrjr;30
+fe;40
 fearandloathing;60
 fearedfor;40
 fearedto;40
@@ -16116,8 +16142,10 @@ fewness;30
 fey;50
 fez;50
 fezzes;60
+ff;40
 fff;20
 fflat;40
+fg;40
 fgh;20
 fghi;20
 fgs;40
@@ -16432,6 +16460,7 @@ fivetimechamp;20
 fivews;50
 fix;50
 fixitinpost;60
+fl;40
 fla;40
 flagbearer;50
 flagbearers;50
@@ -16719,6 +16748,7 @@ flythecoop;60
 flyto;40
 flywheel;50
 flywheels;50
+fm;40
 fmajor;40
 fmdial;40
 fminor;40
@@ -17265,6 +17295,7 @@ fsharpscale;40
 fstar;20
 fstars;20
 fsu;40
+ft;40
 ftc;40
 ftd;20
 ftdodge;30;Unremarkable Iowa town
@@ -17708,6 +17739,7 @@ gazesinto;40
 gazingat;40
 gazinginto;40
 gazpachos;30
+gb;40
 gbs;20
 gbshaw;40
 gchat;30
@@ -17720,6 +17752,7 @@ gdps;40
 gdr;20
 gds;20
 gdsearle;40;Pharmaceutical company G.D. Searle, developer of the birth control pill and NutraSweet
+ge;40
 geared;50
 gearedto;40
 gearingto;40
@@ -18116,6 +18149,7 @@ getz;40
 gewgaw;40;Showy trinket
 gewgaws;40
 geysir;30;Iceland geyser
+gf;40
 gflat;40
 gflatscale;40
 gforce;50
@@ -18165,7 +18199,7 @@ ghosttowns;60
 ghoti;40
 ghq;20
 gi;40
-gia;50
+gia;40
 giada;40;Chef Giada de Laurentiis
 giannis;40;Giannis Antetokounmpo of the NBA, the "Greek Freak"
 giannisantetokounmpo;50;NBA player, the "Greek Freak"
@@ -18417,6 +18451,7 @@ glycols;40
 glycolysis;40
 glycoside;40
 glynis;40;Golden Age actress Glynis Johns
+gm;40
 gma;40
 gmajor;40
 gman;30
@@ -19087,6 +19122,7 @@ govt;40
 gow;20
 gowerchampion;30
 goy;20
+gp;40
 gpa;40
 gpas;40
 gpo;20
@@ -20255,6 +20291,7 @@ hbs;20
 hch;20
 hciwdnasbulc;1
 hcl;20
+hd;40
 hdl;40
 hdmi;40
 hdvideo;40
@@ -20707,6 +20744,7 @@ heygoogle;60
 heyijustworkhere;60
 heysiri;60
 heywait;60
+hg;40
 hgt;20
 hgtv;40
 hgwells;50
@@ -21536,7 +21574,9 @@ howwasit;50
 howweird;60
 hoy;40
 hoyt;30;Archery company, folk singer Hoyt Axton (Joy to the World)
+hp;40
 hps;40
+hq;40
 hqs;40;Headquarters
 hqtrivia;30;Defunct trivia app
 hrc;20
@@ -21552,6 +21592,7 @@ hrrep;50
 hrreps;50
 hrs;40
 hrt;40
+hs;40
 hsbc;40;Bank
 hsi;20
 hsn;40
@@ -21659,6 +21700,7 @@ huttwo;40
 hutu;40
 hutus;40
 hvac;40
+hw;40
 hwang;30;"Squid Game" creator Hwang Dong-hyuk
 hword;30;Hell
 hwy;40
@@ -22017,6 +22059,7 @@ idyl;30;Variant of idyll
 idylist;20
 idylists;20
 idyls;30
+ie;40
 ied;5
 ieds;5
 ier;30;Occupational suffix [common]
@@ -22127,6 +22170,7 @@ ihops;50
 ihre;20
 ihs;20
 ihurt;20
+ii;40
 iii;30;Three, of a kind
 iiii;20;Four, of a kind
 iiiii;20
@@ -22156,6 +22200,7 @@ iknowthisone;60
 iknowyouarebutwhatami;60
 iko;20
 ikoiko;30;Mardis Gras song
+il;40
 ila;20
 ilana;30;Actress Ilana Glazer
 ildivo;40;Vocal quartet
@@ -22263,6 +22308,7 @@ ilsung;30;Kim Il Sung, father of Kim Jong Il
 iltabarro;40;Puccini opera
 ily;20
 ilya;30
+im;50
 ima;20
 imabigfan;60
 imacatch;60
@@ -23366,7 +23412,7 @@ isidor;30;Nobel physicist Isidor Rabi, never used in Shortz era
 isidora;40;George Sand novel/title character
 isidore;30
 isidro;40;San Isidro, Buenos Aires
-isin;25
+isin;20
 isinfor;20
 isinglikeifeel;60;Ella Fitzgerald quote
 isinto;30
@@ -23710,6 +23756,7 @@ itza;40
 iud;40
 iuds;40
 ium;20
+iv;40
 iva;20
 ivanek;40;???
 ivani;30
@@ -23786,12 +23833,14 @@ iwontlie;60
 iwoodpinefiryew;1
 iwouldeatyoualive;60
 iwouldnever;60
+ix;40
 ixion;30;Tartarus captive
 ize;30
 izmir;40;Turkish city
 izod;40;Clothing company
 izzo;50;Jay-Z single, or Michigan State coach Tom
 j;1
+ja;40
 jab;50
 jabat;40
 jabbedat;40
@@ -24123,6 +24172,7 @@ jkl;20
 jklmno;20
 jlo;40
 jnr;20
+jo;40
 joakim;20;Bibilical king of Judah
 joao;30
 job;50
@@ -24463,6 +24513,7 @@ kaz;20
 kazaa;30
 kazoo;50
 kazoos;50
+kb;40
 kbs;20
 kcal;40
 kcals;40
@@ -24653,6 +24704,7 @@ keywitness;50
 keywitnesses;50
 kfc;40
 kfed;20;Kevin Federline, Britney Spears's ex-husband
+kg;40
 kgb;50
 kgbspies;50
 kgbspy;50
@@ -25102,6 +25154,7 @@ kvell;40;Feel happy and proud, from the Yiddish
 kvelled;40
 kvelling;40
 kvells;40
+kw;40
 kwa;20
 kwacha;30;Zambian currency
 kwachas;30;Zambian currency
@@ -25694,6 +25747,7 @@ lazysunday;60
 lazysundays;60
 lazysusan;50
 lazysusans;50
+lb;40
 lbeam;30
 lbeams;30
 lbj;40
@@ -26219,6 +26273,7 @@ lexingtonky;30
 ley;20
 leyna;30;Unnotable name???
 lfo;20
+lg;40
 lga;20
 lgbtflag;60
 lge;20
@@ -27063,6 +27118,7 @@ losesastep;50
 losesface;50
 losesonesmarbles;60
 losesoutto;40
+losestadosunidos;40
 losestheplot;60
 losesto;40
 losetheplot;60
@@ -27254,6 +27310,7 @@ loyalfan;50
 loyalfans;50
 loyalto;40
 loyaltyprograms;50
+lp;40
 lpga;40
 lpgatour;50
 lpn;20
@@ -28448,6 +28505,7 @@ mazatlan;30;Mexican resort town
 mazier;30
 maziest;30
 mazy;30
+mb;40
 mba;40
 mbabane;20;Capital of Swaziland
 mbadegree;40
@@ -28532,6 +28590,7 @@ mcvii;20
 mcxc;20
 mcxi;20
 mcxl;20
+md;40
 mdc;20
 mdcc;20
 mdcci;20
@@ -28962,6 +29021,7 @@ mfa;40
 mfdoom;60
 mfg;20
 mfr;20
+mg;40
 mgb;20
 mgm;50
 mgmt;50
@@ -29358,6 +29418,7 @@ mixtec;20;Indigeneous Mexican
 mixwith;40
 miz;20
 mkt;20
+ml;40
 mla;20
 mlb;40
 mlbhalloffamers;50
@@ -29442,6 +29503,7 @@ mmx;20
 mmxc;20
 mmxl;20
 mmxvi;20
+mn;40
 mneme;20
 mno;20
 mnop;20
@@ -29903,6 +29965,7 @@ mow;50
 mowat;30;Author Farley Mowat
 moxie;60
 moyes;40;Premier League manager David Moyes
+mp;40
 mpaa;20;Now just MPA
 mpeg;40
 mpegfile;40
@@ -30250,6 +30313,7 @@ mystars;50
 mysterysciencetheater;60
 mythologicalgod;1
 n;1
+na;40
 naacp;40
 nab;50
 nabbing;50
@@ -30528,6 +30592,7 @@ nazifying;5
 naziparty;5
 nazis;5
 nazism;5
+nb;40
 nba;40
 nbadraftlottery;50
 nbaer;20
@@ -31192,6 +31257,7 @@ nivens;20
 niveous;40;Snowy, literarily
 nix;50
 nixie;30;Undeliverable mail
+nj;40
 nkotb;30;New Kids on the Block
 nle;20
 nleast;30
@@ -31679,6 +31745,7 @@ noyes;40;Poet Alfred Noyes
 noyoudidnt;60
 noyouhangup;60
 noyourotherright;60
+np;40
 npc;30;NYT debut
 npg;20
 npr;40
@@ -31851,10 +31918,12 @@ nutriments;40
 nutsy;40;Insane??
 nuuk;40;Capital of Greenland
 nuvola;20;???
+nw;40
 nwa;40
 nwodim;40;SNL cast member Ego Nwodim
 nwsl;40;National Women's Soccer League
 nwt;20
+ny;40
 nyad;30;Swimmer Diana
 nyah;50;"So there!"
 nyala;30;African antelope
@@ -31938,6 +32007,7 @@ oats;50
 oatseed;30
 oatsnhoney;50
 oaty;40;Oaten is better
+ob;40
 obamacon;40;Conservative who supported Obama
 obamacons;40
 obamaera;50
@@ -32091,6 +32161,7 @@ oculars;30
 oculi;40
 oculist;40;Eye doctor
 oculists;40
+od;5
 oda;20
 odalisque;30
 odamae;20;Whoopi in "Ghost"
@@ -32220,6 +32291,7 @@ oftener;20
 oftenest;20
 ofthepast;40
 ofyore;40
+og;40
 ogam;20
 ogauge;40;Model railway scale 1:48
 ogdens;30
@@ -33456,6 +33528,7 @@ ostracodes;20;Seed shrimp
 osu;40
 oswego;40
 osx;40
+ot;40
 ota;20
 otaku;40;Anime fan
 otalgia;20;Ear pain
@@ -34446,6 +34519,7 @@ pbj;40;Peanut butter and jelly
 pbr;40;Pabst Blue Ribbon
 pbs;40;Public Broadcasting Service
 pbskids;50
+pc;40
 pcb;20
 pcboard;30
 pccard;30
@@ -34475,6 +34549,7 @@ pcu;20
 pcuser;40
 pcusers;40
 pcworld;50
+pd;40
 pda;40
 pdas;40
 pdf;40
@@ -34486,6 +34561,7 @@ pdqbach;50
 pdr;20
 pds;20
 pdt;40
+pe;40
 pea;50
 peabean;30
 peabeans;30
@@ -34840,7 +34916,7 @@ perseid;40
 persiancat;50
 persiancats;50
 persiflage;30;Banter
-person;40;Kate Pierson of the B-52s
+person;50
 personae;40
 personalad;50
 personalads;50
@@ -35198,6 +35274,7 @@ piercednoses;50
 pieris;20;Flower genus
 pierres;30;Plural name
 pierresd;30
+pierson;40;Kate Pierson of the B-52s
 piesalamode;50
 piet;40;Painter Piet Mondrian
 pieter;30;Who???
@@ -35780,6 +35857,7 @@ pluton;30;Rock mass inside Earth
 plutonian;50
 plutonians;50
 ply;50
+pm;40
 pms;40;Prime ministers
 pnc;20
 pneuma;30;Vital spirit, soul, or creative force of a person
@@ -36322,6 +36400,7 @@ powerwalks;50
 pows;40
 pox;50
 pozole;40;Mexican stew
+pp;40
 ppd;20
 ppe;40
 ppg;40;NBA stat [rare]
@@ -36837,6 +36916,7 @@ prwatch;30
 pry;50
 pryinginto;40
 pryinto;40
+ps;40
 psa;40
 psaki;40;Former White House Press Secretary Jen Psaki
 psalmist;30
@@ -36883,6 +36963,7 @@ psyop;50
 psyops;50
 psywar;50
 psywars;50
+pt;40
 pta;40
 ptarmigan;40;Game bird
 ptarmigans;40
@@ -37224,12 +37305,14 @@ qis;20
 qix;20
 qom;20
 qomiran;40;Iranian city/province
+qr;40
 qratio;40;Economic thing
 qrcode;60
 qrcodes;60
 qrs;20
 qrst;20
 qrstu;20
+qt;40
 qtile;40
 qtiles;40
 qtr;40
@@ -37942,6 +38025,7 @@ rbiman;30
 rbimen;30
 rbis;40
 rbs;40;Running backs
+rc;40
 rca;40
 rcas;40
 rccar;40
@@ -41075,6 +41159,7 @@ sba;20
 sbaloan;30
 sbaloans;30
 sblood;20;Archaic oath
+sc;40
 scabiosa;20;Honeysuckle genus
 scabrous;40
 scacchi;40;Actress Greta Scacchi
@@ -41380,6 +41465,7 @@ scutum;30;???
 scytale;30;Ancient ciphering tool
 scytales;30
 scythia;30;Ancient region
+sd;40
 sdak;30
 sdakota;40
 sdcard;40
@@ -41388,6 +41474,7 @@ sdeath;20;Archaic oath
 sdi;20
 sds;30;Students for a Democratic Society
 sdsu;30
+se;40
 sea;50
 seabag;40
 seabags;40
@@ -42314,6 +42401,8 @@ sharingin;40
 sharingwith;40
 sharkfin;60
 sharkfins;60
+sharkpup;50
+sharkpups;50
 sharped;50
 sharpedge;50
 sharpedged;50
@@ -43156,6 +43245,11 @@ skibag;40
 skibags;40
 skibib;40
 skibibs;40
+skiboard;40
+skiboarder;40
+skiboarders;40
+skiboarding;40
+skiboards;40
 skibob;30
 skibobbing;30
 skibobs;30
@@ -44045,6 +44139,7 @@ soldat;30;French soldier
 soldfor;40
 soldfreezerstoeskimos;60
 soldicetoeskimos;60
+soldieroffortune;60
 soldiery;30
 soldlikehotcakes;60
 soldonessoul;60
@@ -44335,6 +44430,7 @@ soylatte;50
 soylattes;50
 soyousee;60
 soys;40
+sp;40
 spa;50
 spacealien;60
 spacecase;50
@@ -44757,6 +44853,7 @@ spyring;50
 spyrings;50
 spyswap;50
 spyswaps;50
+sq;40
 sqft;30
 sqr;20
 sqrt;40
@@ -46323,6 +46420,7 @@ suv;40
 suvs;40
 svedka;30;Swedish vodka brand
 svu;40
+sw;40
 swa;20
 swage;30
 swageblock;30
@@ -47211,6 +47309,7 @@ tcp;20
 tcrosser;50
 tcrossers;50
 tcu;30;Texas Christian University
+td;40
 tdk;20;Cassette maker
 tdpass;40
 tdpasses;40
@@ -47404,7 +47503,7 @@ teevee;20
 teevees;20
 teff;20;African staple crop
 teg;20;Young sheep
-tegan;30;Indie pop duo Tegan and Sara
+tegan;40;Indie pop duo Tegan and Sara
 tegner;20
 tegrin;20;Discontinued shampoo
 tegument;20;Medical thing
@@ -49168,6 +49267,7 @@ tlaxcala;20;Mexican state
 tlc;40
 tldr;50
 tlingit;20;Alaskan natives
+tm;40
 tman;30
 tmc;40
 tmen;30
@@ -49714,6 +49814,7 @@ toysruskid;60
 toystore;50
 toystores;50
 toz;20
+tp;40
 tped;40
 tping;40
 tpk;40
@@ -50624,6 +50725,7 @@ twoyears;40
 twp;20;Township
 twps;20;Townships
 twyla;40
+tx;40
 txt;40
 txtspk;20
 txttalk;20
@@ -50749,6 +50851,7 @@ uhnak;1
 uhohspaghettios;60
 uhs;40
 uhuru;20;Swahili for "freedom"
+ui;40
 uie;20
 uinta;30;Utah mountain range
 uintas;30
@@ -50880,8 +50983,11 @@ unclesam;50
 unconcern;30
 uncordial;30
 uncousinly;30
-unction;30
+unction;50
 unctions;30
+unctuous;50
+unctuously;50
+unctuousness;50
 uncus;20
 und;40
 undamaged;50
@@ -50921,6 +51027,7 @@ uneeda;30;Biscuit brand
 unended;40;Unfinished
 unerect;40
 unes;40
+unessential;40
 unetire;20
 unevie;20;Novel
 unfairpractices;50
@@ -50964,6 +51071,7 @@ unicycles;50
 unicyclist;50
 unicyclists;50
 unidle;30
+unidos;40
 unimodal;40
 unimodality;40
 unionohio;30
@@ -51030,6 +51138,7 @@ unodostres;40
 unoduetre;40
 unomomento;50
 unopen;30
+unorganic;40
 unos;40
 unpc;30
 unpeg;30
@@ -51037,8 +51146,10 @@ unpegged;30
 unpegs;30
 unpen;30
 unpens;30
+unpeople;30
 unpeopled;30
 unpeoples;30
+unpeopling;30
 unpick;30
 unpicking;30
 unpicks;30
@@ -51047,6 +51158,7 @@ unpiled;30
 unpiles;30
 unpoco;40
 unpot;30
+unpractical;40
 unraised;50
 unreason;40
 unrep;30;U.N. rep.
@@ -51068,6 +51180,7 @@ unrulier;30
 uns;20
 unsafer;30
 unsalable;40;Unsellable
+unsaleable;40
 unsay;30
 unsays;30
 unsched;30;???
@@ -51088,11 +51201,12 @@ unskippableads;50
 unsolder;40
 unsoldered;50
 unsolders;40
-unsolid;30
+unsolid;40
 unsore;40
 unspokenprayers;50
 unsportsmanlike;50
 unsportsmanlikeconduct;50
+unstagy;30
 unstow;40
 unstowed;40
 unstowing;40
@@ -51113,6 +51227,8 @@ unu;20;Burmese leader
 unum;40
 unwiser;30
 unwisest;30
+unwon;50
+unwontedly;30
 uofm;30;University of Michigan
 up;50
 upa;20
@@ -51196,6 +51312,7 @@ uptop;60
 uptospeed;50
 upvote;50
 upvotes;50
+ur;40
 ural;40;Ural River/Mountains
 uralic;30;Languages of the Urals
 uralriver;50
@@ -51465,6 +51582,7 @@ uvular;40
 uvulas;40
 uvw;20
 uwe;20
+ux;40
 uxdesign;50
 uxdesigner;50
 uxdesigners;50
@@ -51475,6 +51593,7 @@ uzielgal;50;Uziel Gal, inventor of the Uzi
 uzis;40
 uzo;40;Uzo Aduba, actress on "Orange is the New Black"
 v;1
+va;40
 vac;40
 vacuities;40
 vacuity;50;Empty space
@@ -51567,6 +51686,7 @@ vau;20
 vax;50
 vay;20
 vaya;30
+vc;40
 vchip;40
 vchips;40
 vcr;40
@@ -51703,6 +51823,7 @@ vhf;20
 vhs;40
 vhut;30;Primitive dwelling with a letter-shaped roof
 vhuts;30;Primitive dwellings with letter-shaped roofs
+vi;40
 via;50
 viand;20;Food, archaic
 viands;20;Food, archaic
@@ -51775,7 +51896,7 @@ viewdata;20
 vig;50
 vigny;20;Alfred de ___
 vii;30
-viii;25
+viii;30
 viktor;40
 vil;20
 vilenin;20
@@ -51783,6 +51904,7 @@ vim;50
 vin;40;Vin Diesel, French wine, car VIN
 vinblanc;50
 vinca;20;Periwinkle genus
+vincenzo;40
 vinci;40
 vined;40;Ivied?
 vino;40
@@ -52002,6 +52124,7 @@ vower;40
 vowers;40
 vowofsilence;60
 vox;50
+vp;40
 vps;40
 vrbo;40
 vrgame;60
@@ -52011,6 +52134,7 @@ vshape;40
 vshapes;40
 vso;20
 vsro;20
+vt;40
 vtech;30;Phone supplier
 vudu;30;Streaming service
 vue;20
@@ -52025,6 +52149,7 @@ vwx;20
 vye;20
 vyingfor;40
 w;1
+wa;40
 wac;20
 wack;30
 wackadoodle;60
@@ -52375,6 +52500,7 @@ wayfarers;50
 wba;30;World Boxing Association
 wbc;20
 wbo;30;World Boxing Organization
+wc;40
 wchandy;50;Father of the Blues
 wcs;40
 wds;40
@@ -53310,7 +53436,9 @@ wojo;20
 wok;50
 wolfcub;50
 wolfcubs;50
+wolfe;40;???
 wolfes;20
+wolff;30;???
 wolfpack;50
 wolfpacks;50
 wolfpup;50
@@ -53611,7 +53739,7 @@ xiadynasty;50
 xian;30;Christian, or city of 12 million in Western China
 xiang;30
 xii;30
-xiii;25
+xiii;30
 xin;30
 xinag;20
 xing;40
@@ -53698,7 +53826,7 @@ xylothek;40
 xylotheks;40
 xylotheque;40;Collection of wood specimens, aka xylarium
 xylotheques;40
-xyz;50
+xyz;40
 y;1
 ya;40
 yaateeh;40;Navajo "hello"
@@ -54297,6 +54425,7 @@ ziptying;50
 zit;50
 zitcream;50
 zito;40;All-Star pitcher Barry Zito
+zn;40
 zoa;20
 zod;40
 zodiacal;40
@@ -54368,6 +54497,7 @@ zuzu;30
 zwei;40
 zymurgy;40;Chemistry of brewing
 zytglogge;20;Swiss tower
+zyzzyva;30
 zzz;50
 zzzemoji;60
 zzzemojis;60
