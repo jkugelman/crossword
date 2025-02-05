@@ -1038,6 +1038,8 @@ ahas;40
 ahatonahat;60;Comedy mistake (something unnecessary)
 ahchoo;20;Sneeze sound: Var.
 aheadof;40
+ahellofalot;60
+ahellofalotof;60
 aherne;30;1930s actor Brian Aherne
 ahh;50
 ahhs;50
@@ -1223,6 +1225,7 @@ akeem;30;"Coming to America" prince
 akela;30;Wolf in "The Jungle Book"
 akers;40;Michelle Akers, FIFA Female Player of the Century
 akinesia;30;Inability to perform a clinically perceivable movement
+akio;30;Sony founder Akio Morita
 akon;40;Grammy-nominated singer
 akronoh;30
 aku;20
@@ -2584,8 +2587,8 @@ area;50
 areacodemap;40
 areacodemaps;40
 areaman;60;Frequent The Onion interviewee
-areamap;40
-areamaps;40
+areamap;30
+areamaps;30
 areason;20
 areblue;20
 arecapalm;40
@@ -3974,6 +3977,7 @@ bairns;30
 baiter;50;Troll, "He had become famous as a baiter of left-wing politicians"
 baiters;50
 baiul;40
+bajablast;60
 bakedbrie;50
 bakedin;50
 bakedziti;50
@@ -6140,6 +6144,7 @@ bozo;50
 bozos;50
 bpa;30
 bplus;40
+bpm;40
 bps;20
 bqe;20
 bra;50
@@ -20543,6 +20548,8 @@ hellsyes;60
 helltopay;60
 helltotheno;60
 helluva;60
+helluvalot;60
+helluvalotof;60
 hellweek;60
 hellyeah;60
 hellzapoppin;50;1941 movie
@@ -21099,6 +21106,7 @@ holi;40;Hindu festival of colors
 holily;30;Weird adverb
 holist;40
 holists;40
+hollaatchaboy;60
 hollander;30
 hollerat;40
 holleredat;40
@@ -27747,7 +27755,7 @@ maidenvoyages;50
 maidof;20
 maidofhonor;50
 maidsofhonor;50
-maier;30;Skier Hermann Maier
+maier;40;Skier Hermann Maier
 maigre;20;Day on which the eating of flesh is forbidden by the Roman Catholic Church
 maigret;30;Inspector Maigret, detective
 mailcall;50
@@ -28331,6 +28339,12 @@ mashin;40
 mashingin;40
 mashup;50
 mashups;50
+maskedfigure;50
+maskedfigures;50
+maskedidentities;50
+maskedidentity;50
+maskedsuperhero;50
+maskedsuperheroes;50
 maslany;40;Tatiana Maslany of "Orphan Black"
 maslin;40;NYT's film and book critic Janet Maslin
 masoned;30
@@ -30016,6 +30030,7 @@ mrroper;40
 mrs;50
 mrsandman;60
 mrsaturdaynight;50
+mrsdash;40;They dropped the "Mrs."
 mrsmartypants;60
 mrsminiver;50
 mrsmith;50
@@ -39121,6 +39136,7 @@ restained;20
 restaining;20
 restains;20
 restaurantattheendoftheuniverse;60
+restaurantweek;50
 restday;60
 restdays;60
 resteasy;50
@@ -40828,6 +40844,8 @@ samlet;20;Young salmon
 samlets;20;Young salmon
 sammalone;50
 sammcgee;30
+sammich;60
+sammiches;60
 sammuramat;30;Neo-Assyrian queen
 samoset;40;First Indian to visit the Pilgrims
 sampan;30;Asian boat
@@ -42995,6 +43013,7 @@ simped;5
 simperer;40
 simperers;40
 simping;5
+simpleenough;60
 simps;5
 simu;30;Actor Liu of "Shang-Chi and the Legend of the Ten Rings"
 sin;50
@@ -44363,12 +44382,19 @@ soundsawful;60
 soundsdangerous;60
 soundsdangerousimin;60
 soundsdelicious;60
+soundseasy;60
+soundsfine;60
 soundsgreat;60
+soundsinteresting;60
 soundslegit;60
 soundslikeaskillissue;60
 soundslikeayouproblem;60
+soundsperfect;60
+soundsreasonable;60
 soundsrisky;60
 soundsriskyimin;60
+soundssimple;60
+soundssimpleenough;60
 soundstage;50
 soundstages;50
 soundtest;50
@@ -44452,6 +44478,11 @@ spaded;30
 spading;30
 spadix;30;Botany word
 spaetzle;40;German noodle dish
+spaghettification;60
+spaghettified;60
+spaghettifies;60
+spaghettify;60
+spaghettifying;60
 spago;30;Wolfgang Puck restaurant
 spahn;40;Left-handed Hall of Fame pitcher Warren Spahn (1940s/50s), eponymous Warren Spahn Award for best left-handed pitcher
 spalko;30;"Indiana Jones and the Crystal Skull" villain
@@ -44889,6 +44920,7 @@ squealedlikeapig;60
 squealinglikeapig;60
 squeallikeapig;60
 squealslikeapig;60
+squee;60
 squeezy;30;Cramped
 squib;50
 squibs;50
@@ -47921,8 +47953,12 @@ thatsodd;60
 thatsonme;60
 thatsoundsawful;60
 thatsoundsdelicious;60
+thatsoundseasy;60
 thatsoundsgreat;60
+thatsoundsinteresting;60
 thatsoundslikeayouproblem;60
+thatsoundsperfect;60
+thatsoundsreasonable;60
 thatsquiteapickle;60
 thatsquiteastretch;60
 thatssonotokay;60
@@ -52809,6 +52845,7 @@ wereallout;60
 wereallset;50
 werealmostthere;60
 werebad;60
+weredonehere;60
 werefreshout;60
 weregoingtoeatemalive;60
 weregoingtoeatheralive;60
@@ -53052,6 +53089,7 @@ whoami;60
 whoanellie;60
 whoanelly;60
 whocansay;60
+whodidwhatnow;60
 whodiedandmadeyouking;60
 whodoeshethinkheis;60
 whodoesshethinksheis;60
@@ -53098,7 +53136,10 @@ whydoesitmatter;60
 whydoesthisalwayshappentome;60
 whydontyoumakelikeatreeandgetoutofhere;60
 whyelse;60
+whyisthat;60
 whyme;60
+whyso;50
+whysthat;60
 wichitaks;30
 wickedcool;60
 wickedgood;60
