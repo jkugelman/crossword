@@ -17966,6 +17966,8 @@ getfat;5
 gethard;20
 gethitched;50
 gethsemane;50
+getickedout;60
+getickedoutby;50
 getideas;50
 getinabind;50
 getinapickle;50
@@ -18033,6 +18035,8 @@ getsdark;30
 getsdirton;50
 getsfat;5
 getshitched;50
+getsickedout;60
+getsickedoutby;50
 getsideas;50
 getsinabind;50
 getsinapickle;50
@@ -18108,6 +18112,8 @@ gettingdirton;50
 gettingfat;5
 gettingforasong;60
 gettinghitched;50
+gettingickedout;60
+gettingickedoutby;50
 gettingideas;50
 gettinginabind;50
 gettinginapickle;50
@@ -19056,6 +19062,8 @@ gothbands;50
 gothicart;50
 gothichorror;60
 gothitched;50
+gotickedout;60
+gotickedoutby;50
 gotideas;50
 gotinabind;50
 gotinapickle;50
@@ -21907,6 +21915,12 @@ icietla;20;Here and there: Fr.
 icingin;40
 icingit;40
 ick;50
+ickedout;50
+ickedoutby;40
+ickingout;40
+ickout;40
+icks;40;Disgusts (noun)
+icksout;40
 iclaudius;50
 iconical;30
 iconquered;40
@@ -48256,6 +48270,7 @@ thehustler;50
 thehutu;40
 thehydra;30
 theice;40
+theick;60
 theidea;30
 theides;30
 their;50
