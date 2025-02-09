@@ -4091,8 +4091,12 @@ bandoleros;50
 bandora;20;Stringed instrument
 bandore;20;Stringed instrument
 banff;40
+bangedinto;40
 banger;60
+banginginto;40
+banginto;40
 bangkokthailand;20
+bangsinto;40
 bangui;30;???
 banh;40
 banhmi;50
@@ -5963,6 +5967,7 @@ boresinon;30
 boric;40;Boric acid
 boring;50
 boriskarloff;60
+borninto;40
 bornsexyyesterday;60
 bornto;40
 borogoves;60;From "Jabberwocky"
@@ -6033,6 +6038,7 @@ bottsdots;50
 bouche;40;Amuse-bouche
 bouches;40;Amuse-bouches
 boudicea;30;Ancient queen
+boughtinto;40
 boughtoncredit;50
 boughtonimpulse;50
 boughtonmargin;50
@@ -6221,13 +6227,16 @@ breakfastbuffet;50
 breakingbread;60
 breakingbreadwith;50
 breakingcharacter;50
+breakinginto;40
 breakingloose;50
 breakingserve;50
+breakinto;40
 breakloose;50
 breaksbread;60
 breaksbreadwith;50
 breakscharacter;50
 breakserve;50
+breaksinto;40
 breaksloose;50
 breakupsex;60
 breanna;40;Breanna Stewart of the WNBA
@@ -6341,6 +6350,7 @@ brodown;30
 brokebread;60
 brokebreadwith;50
 brokecharacter;50
+brokeinto;40
 brokeloose;50
 brokenbat;50
 brokenbats;50
@@ -6600,14 +6610,18 @@ bummedasmoke;50
 bummingaride;50
 bummingasmoke;50
 bumpedheads;50
+bumpedinto;50
 bumpercar;50
 bumpercars;50
 bumpercrop;50
 bumpercrops;50
 bumpheads;50
 bumpingheads;50
+bumpinginto;50
+bumpinto;50
 bumponalog;60
 bumpsheads;50
+bumpsinto;50
 bumpsonalog;60
 bumrap;60
 bumraps;50;Awkward plural
@@ -6783,13 +6797,16 @@ butttexting;60
 butttexts;60
 buttugly;60
 buy;50
+buyinginto;40
 buyingoncredit;50
 buyingonimpulse;50
 buyingonmargin;50
+buyinto;40
 buyoncredit;50
 buyonimpulse;50
 buyonmargin;50
 buysapiginapoke;20
+buysinto;40
 buysoncredit;50
 buysonimpulse;50
 buysonmargin;50
@@ -8088,18 +8105,22 @@ chapterone;50
 charente;30;Department in France
 chargeat;40
 chargedat;40
+chargedinto;40
 chargedit;20;???
 chargedto;40
 chargedup;50
+chargeinto;40
 chargeit;20;???
 charger;50
 chargesat;40
+chargesinto;40
 chargesit;20;???
 chargesto;40
 chargesup;50
 chargeto;40
 chargeup;50
 chargingat;40
+charginginto;40
 chargingit;20;???
 chargingto;40
 chargingup;50
@@ -8175,13 +8196,17 @@ cheatmodes;50
 cheaton;40
 cheatsdeath;60
 cheatson;40
+checkedinto;40
 checkedon;40
 checkers;50
 checkincounters;50
+checkinginto;40
 checkingon;40
+checkinto;40
 checkmate;60
 checkon;40
 checkoutcounter;50
+checksinto;40
 checkson;40
 checkyouregoatthedoor;60
 cheeredon;40
@@ -9024,8 +9049,12 @@ coati;40;South American raccoon
 coatipup;40
 coatipups;40
 coatis;40
+coaxedinto;40
 coaxer;30
 coaxers;30
+coaxesinto;40
+coaxinginto;40
+coaxinto;40
 cob;50
 cobaltblue;50
 cobaltic;40
@@ -10156,6 +10185,9 @@ creedal;30;Relating to a creed
 creedii;40
 creel;30;Wicker basket or cage
 creels;30;Wicker baskets or cages
+creepinginto;40
+creepinto;40
+creepsinto;40
 crees;40
 crema;40
 cremebrulee;50
@@ -10193,6 +10225,7 @@ creosoting;30
 creped;30;Covered with crepe (the cloth)
 crepepaper;50
 creping;30
+creptinto;40
 cresc;40
 cresse;20
 cresset;30;Metal cup on a pole containing oil, burned as a light/beacon
@@ -10946,13 +10979,17 @@ das;40
 dashboardgauges;30
 dashcam;50
 dashcams;50
+dashedinto;40
 dashedoneshopes;60
 dashedto;40
+dashesinto;40
 dashesoneshopes;60
 dashesto;40
 dashi;30;Japanese soup stock
+dashinginto;40
 dashingoneshopes;60
 dashingto;40
+dashinto;40
 dashit;40
 dashoneshopes;60
 dashto;40
@@ -11303,6 +11340,7 @@ deepfrying;50
 deepfunk;50
 deephole;50
 deepholes;50
+deepinto;50
 deepnet;50
 deepone;50;From Lovecraft
 deepones;50;From Lovecraft
@@ -12169,6 +12207,7 @@ divagates;40
 divagating;40
 divagation;40
 divagations;40
+divedinto;40
 diveinto;40
 diver;50
 diverightin;50
@@ -13612,6 +13651,7 @@ eatingfrom;40
 eatinghealthy;50
 eatinghighoffthehog;60
 eatinghighonthehog;60
+eatinginto;40
 eatingitup;50
 eatingkosher;50
 eatinglikeananimal;60
@@ -15291,6 +15331,10 @@ evite;40
 evo;30;Bolivian president Morales
 evolute;20;Geometry term
 evolutes;20;Geometry term
+evolvedinto;40
+evolveinto;40
+evolvesinto;40
+evolvinginto;40
 evonne;40;70s/80s #1 tennis player Evonne Goolagong
 evoo;20;Extra virgin olive oil
 evs;40
@@ -16432,6 +16476,7 @@ fistulas;5
 fistulous;5
 fit;50
 fitcheck;60;"Check out this outfit" on social media
+fitinto;50
 fitlikeaglove;60
 fitly;40
 fitnesscenter;50
@@ -16443,11 +16488,13 @@ fitnesstrackers;60
 fitnessvideo;50
 fitnessvideos;50
 fiton;40
+fitsinto;50
 fitslikeaglove;60
 fitson;40
 fitstoat;40
 fitstoatee;40
 fittingending;60
+fittinginto;50
 fittinglikeaglove;50
 fittingon;40
 fittingtoat;40
@@ -19708,13 +19755,17 @@ hackathons;60
 hackbut;30;Early firearm
 hackbuts;30;Early firearms
 hackedat;40
+hackedinto;40
 hacker;50
 hackers;50
 hackingat;40
+hackinginto;40
+hackinto;40
 hackjob;60
 hackjobs;60
 hackle;30;Bad singular
 hacksat;40
+hacksinto;40
 hackstand;50
 hackstands;50
 hacky;50
@@ -24343,10 +24394,13 @@ jumpat;40
 jumpbail;50
 jumpedat;40
 jumpedbail;50
+jumpedinto;40
 jumpercable;50
 jumpercables;50
 jumpingat;40
 jumpingbail;50
+jumpinginto;40
+jumpinto;40
 jumpintothefire;60
 jumpjet;50
 jumpjets;50
@@ -24356,6 +24410,7 @@ jumpscare;60
 jumpscares;60
 jumpshooter;50
 jumpshooters;50
+jumpsinto;40
 jumpstart;60
 jumpstarted;60
 jumpstarter;60
@@ -25309,6 +25364,7 @@ laidanegg;50
 laidawake;50
 laidclaimto;40
 laidin;40
+laidinto;40
 laiditon;50
 laidlow;50
 laidodds;50
@@ -25369,6 +25425,7 @@ lamesa;40;San Diego suburb
 lamina;40;Thin layer
 laminae;40
 laminas;40
+laminto;30;???
 lammas;30
 lammermoor;30;Sir Walter Scott novel "The Bride of ___"
 lamode;1
@@ -25542,13 +25599,17 @@ laserweapons;50
 lases;50
 lashat;30
 lashedat;30
+lashedinto;30
 lashedoutat;40
 lasher;30;Whippers
 lashers;30
 lashesat;30
+lashesinto;30
 lashesoutat;40
 lashingat;30
+lashinginto;30
 lashingoutat;40
+lashinto;30
 lashoutat;40
 lashto;20
 lasker;40;Chess champion Emanuel Lasker
@@ -25667,6 +25728,10 @@ laughedat;40
 laughingat;40
 laughinggas;60
 laughsat;40
+launchedinto;40
+launchesinto;40
+launchinginto;40
+launchinto;40
 launchpad;50
 launchpads;50
 launchparties;60
@@ -25728,6 +25793,7 @@ layinganchor;50
 layinganegg;50
 layingclaimto;40
 layingin;30
+layinginto;40
 layingiton;50
 layinglow;50
 layingodds;50
@@ -25736,6 +25802,7 @@ layingsiege;50
 layingsiegeto;50
 layingto;20
 layingtorest;50
+layinto;40
 layiton;50;Flatter
 layitonme;60
 laylow;50
@@ -25751,6 +25818,7 @@ layshia;30;???
 laysiege;50
 laysiegeto;50
 laysin;30
+laysinto;40
 laysiton;50
 layslow;50
 laysodds;50
@@ -26888,6 +26956,7 @@ lockaway;40
 lockdown;50
 lockdowns;50
 lockedaway;40
+lockedinto;40
 lockeditup;50
 lockedonto;40
 lockedroom;50
@@ -27379,7 +27448,11 @@ lucent;30
 lucently;30
 luchalibre;60
 lucie;30;Desi's daughter
+luckedinto;50
+luckinginto;50
+luckinto;50
 lucknow;30;Capital of Uttar Pradesh, India
+lucksinto;50
 luckypennies;60
 luckypenny;60
 lucrece;40;???
@@ -28095,6 +28168,7 @@ mannerists;40
 mannies;50;Male nannies?
 mannish;5
 mannitol;40;Diuretic/low-calorie sweetener
+mannyjacinto;40
 mano;40
 manoamano;60
 manofmanywords;60
@@ -31583,8 +31657,10 @@ nosebleedsections;60
 nosebone;20
 nosecandy;60
 nosedabout;50
+nosedinto;40
 noseeum;30;Gnat
 noseeums;30
+noseinto;40
 nosense;40
 nosepads;50
 noser;40;Brown-___
@@ -31592,6 +31668,7 @@ nosering;50
 noserings;50
 nosers;40
 nosesabout;50
+nosesinto;40
 nosestud;50
 nosestuds;50
 noseyparker;60
@@ -31602,6 +31679,7 @@ noshers;40
 noshot;50
 noside;30;End of a rugby match
 nosingabout;50
+nosinginto;40
 nosir;50
 nosiree;50
 nosireebob;60
@@ -33138,6 +33216,7 @@ openedanira;20
 openedfire;50
 openedfireon;40
 openedinon;40
+openedinto;40
 openedon;40
 openedpandorasbox;60
 openedupto;40
@@ -33149,12 +33228,14 @@ opengrill;50
 openingfire;50
 openingfireon;40
 openinginon;40
+openinginto;40
 openingnumber;50
 openingnumbers;50
 openingon;40
 openingpandorasbox;60
 openingupto;40
 openinon;40
+openinto;40
 openit;50
 openlygay;60
 openlytrans;60
@@ -33182,6 +33263,7 @@ opensecrets;60
 opensfire;50
 opensfireon;40
 opensinon;40
+opensinto;40
 openson;40
 opensource;50
 opensourcesoftware;50
@@ -35852,10 +35934,14 @@ pls;40
 pltravers;50;Mary Poppins's creator P. L. Travers
 plu;20
 plugandchug;60
+pluggedinto;40
 pluggednickel;50
 pluggednickels;50
+plugginginto;40
+pluginto;40
 plugnickel;50;Worthless amount
 plugola;50
+plugsinto;40
 plumage;50
 plumose;30
 plumsauce;50
@@ -35864,12 +35950,16 @@ plundered;50
 plundering;50
 plunders;50
 plungedin;40
+plungedinto;40
 plungedintochaos;60
 plungein;40
+plungeinto;40
 plungeintochaos;60
 plungesin;40
+plungesinto;40
 plungesintochaos;60
 plungingin;40
+plunginginto;40
 plungingintochaos;60
 pluot;40;Plum/apricot hybrid aka aprium
 pluots;40
@@ -35997,8 +36087,10 @@ pokedabout;50
 pokedaholein;50
 pokedat;40
 pokedholesin;50
+pokedinto;40
 pokedthebear;60
 pokeholesin;50
+pokeinto;40
 pokemon;60
 pokerbets;20
 pokergame;50
@@ -36012,12 +36104,14 @@ pokesabout;50
 pokesaholein;50
 pokesat;40
 pokesholesin;50
+pokesinto;40
 pokesthebear;60
 pokingabout;50
 pokingaholein;50
 pokingat;40
 pokingfunat;60
 pokingholesin;50
+pokinginto;40
 pol;40
 pola;20
 polarbear;50
@@ -37788,6 +37882,7 @@ rangfor;40
 rangin;40
 rangy;30
 ranine;20;Frog-related, or region under the tongue
+raninto;50
 ranit;20
 ranitby;40
 rankness;40
@@ -37801,6 +37896,8 @@ ranrampant;50
 ranringsaround;60
 ranshort;50
 ranshorton;40
+ransmackdabinto;50
+ransmackinto;50
 ransomware;60
 rant;50
 rantat;40
@@ -38074,13 +38171,17 @@ re;40
 rea;40;Mens rea, or Stephen Rea
 reachedfor;40
 reachedin;40
+reachedinto;40
 reachesfor;40
 reachesin;40
+reachesinto;40
 reacheslegalage;50
 reachfor;40
 reachin;40
 reachingfor;40
 reachingin;40
+reachinginto;40
+reachinto;40
 reactedto;40
 reactingto;40
 reactiongif;60
@@ -38174,6 +38275,7 @@ reallotment;30
 reallots;30
 reallotted;30
 reallotting;30
+reallyinto;50
 realman;40
 realmature;60
 realmen;40
@@ -39721,13 +39823,16 @@ rip;50
 ripat;40
 ripeoldage;60
 ripieno;30;Body of instruments accompanying the concertino in baroque concerto music
+ripinto;40
 ripintwo;50
 ripone;20
 ripost;20;Var. spelling
 rippedat;40
+rippedinto;40
 rippedintwo;50
 rippedone;20
 rippingat;40
+rippinginto;40
 rippingintwo;50
 rippingone;20
 riproarin;50
@@ -39736,6 +39841,7 @@ riproaringtime;60
 ripsat;40
 ripsaw;50
 ripsaws;50
+ripsinto;40
 ripsintwo;50
 ripsnorting;60
 ripsone;20
@@ -40421,6 +40527,7 @@ runfor;40
 runforit;60
 rungameon;60
 rungaround;40;Called arround
+runinto;50
 runitby;40
 runlet;40;Small stream
 runlets;40
@@ -40449,6 +40556,8 @@ runningrampant;50
 runningringsaround;60
 runningshort;50
 runningshorton;40
+runningsmackdabinto;50
+runningsmackinto;50
 runningto;40
 runningupatab;50
 runningupto;40
@@ -40476,8 +40585,11 @@ runsgameon;60
 runshort;50
 runshorton;40
 runsin;40
+runsinto;50
 runsitby;40
 runsloose;50
+runsmackdabinto;50
+runsmackinto;50
 runson;40
 runsonempty;40
 runsonesmouth;60
@@ -40486,6 +40598,8 @@ runsrampant;50
 runsringsaround;60
 runsshort;50
 runsshorton;40
+runssmackdabinto;50
+runssmackinto;50
 runsto;40
 runsupatab;50
 runsupto;40
@@ -40509,14 +40623,22 @@ rur;20
 rus;20
 rushat;40
 rushedat;40
+rushedheadlonginto;50
+rushedinto;40
 rushedto;40
 rushee;30;Frat rusher
 rusher;30
 rushers;30
 rushesat;40
+rushesheadlonginto;50
+rushesinto;40
 rushesto;40
+rushheadlonginto;50
 rushingat;40
+rushingheadlonginto;50
+rushinginto;40
 rushingto;40
+rushinto;40
 rushorder;60
 rushorders;60
 rushto;40
@@ -40933,11 +41055,13 @@ sanitate;40
 sanitated;40
 sanitates;40
 sanitating;40
+sanjacinto;50
 sanjoseca;30
 sanjuanbautista;30
 sanka;40;Instant coffee
 sankas;40
 sankinto;40
+sankonesteethinto;50
 sanmateoca;30
 sanrio;40;Harō Kiti company
 sansa;40;Sansa Stark from "Game of Thrones"
@@ -42572,6 +42696,7 @@ shiningexamples;50
 shiningupon;40
 shinleaf;30;Plant
 shinsplints;50
+shinto;50
 shipit;60
 shipp;30;Actress Alexandra Shipp of X-Men???
 shippedto;40
@@ -43084,8 +43209,11 @@ sinhalese;30
 sinkingfeeling;60
 sinkingfeelings;60
 sinkinginto;40
+sinkingonesteethinto;50
 sinkinto;40
+sinkonesteethinto;50
 sinksinto;40
+sinksonesteethinto;50
 sino;40
 sintax;60
 sintaxes;50
@@ -43727,6 +43855,10 @@ smartthinking;60
 smashburger;60
 smashcut;60;Abrupt film transition
 smashcuts;60
+smashedinto;40
+smashesinto;40
+smashinginto;40
+smashinto;40
 smaze;30;Smoke/haze mix
 smearedon;50
 smearer;40;Reputation assassin
@@ -46119,6 +46251,7 @@ subwaysandwichartists;60
 succorer;30
 succour;30;???
 sucka;40
+suckedinto;50
 suckedout;60
 suckedouton;40
 suckiness;60
@@ -47018,22 +47151,22 @@ talkbackto;40
 talkedat;40
 talkedback;50
 talkedbackto;40
-talkedinto;50
+talkedinto;40
 talkedto;40
 talkedupastorm;60
 talkingat;40
 talkingback;50
 talkingbackto;40
-talkinginto;50
+talkinginto;40
 talkingpig;50
 talkingpigs;50
 talkingto;50
 talkingupastorm;60
-talkinto;50
+talkinto;40
 talksat;40
 talksback;50
 talksbackto;40
-talksinto;50
+talksinto;40
 talksoon;60
 talksto;40
 talksupastorm;60
@@ -48877,6 +49010,7 @@ threnodes;40
 threnodies;40
 threnody;40;Hymn for the dead
 threonine;30;Essential amino acid
+threwascareinto;50
 threwatantrum;50
 threwdarts;50
 threwforaloop;60
@@ -48897,10 +49031,12 @@ thrivingon;40
 throe;40;Usually plural
 throstle;30;Song thrush, or wool spinning machine
 throstles;30
+throwascareinto;50
 throwatantrum;50
 throwdarts;50
 throwforaloop;60
 throwgames;20;???
+throwingascareinto;50
 throwingatantrum;50
 throwingdarts;50
 throwingforaloop;60
@@ -48913,6 +49049,7 @@ throwitinthediscardpile;60
 thrownforaloop;60
 throwninthediscardpile;50
 thrownunderthebus;60
+throwsascareinto;50
 throwsatantrum;50
 throwsdarts;50
 throwsdownadunk;50
@@ -50760,6 +50897,7 @@ twopartysystems;50
 twopence;30
 twopenny;40;In the dictionary
 twopm;40
+twopointo;30
 tworow;20;Green paint
 twoscoops;40
 twoset;40;Like some tennis matches
@@ -52446,8 +52584,10 @@ washy;40
 wasilla;30;Alaskan city (pop. 9054)
 wasin;40
 wasinfor;20
+wasinto;40
 wasitgoodforyou;60
 wasmet;20
+wasntinto;40
 wasntthatfun;60
 wason;40
 wasonadate;30;Green paint???
@@ -52602,10 +52742,13 @@ weatherforecasts;50
 weathermap;50
 weathermaps;50
 weavein;40
+weaveinto;40
 weaver;50
 weavers;50
 weavesin;40
+weavesinto;40
 weavingin;40
+weavinginto;40
 web;50
 webbedfeet;50
 webbedfoot;50
@@ -52773,6 +52916,7 @@ wellidknow;60
 wellillbeamonkeysuncle;60
 wellimsold;60
 wellimwaiting;60
+wellinto;50
 wellitsnotmuchtolookat;60
 wellletitslide;60
 wellletitslidethistime;60
@@ -53051,6 +53195,7 @@ where;50
 wheredoisignup;60
 wheredoyoudrawtheline;60
 wherehaveyougonejoedimaggio;60
+whereinto;40
 wheretheresawilltheresaway;60
 wheretherubbermeetstheroad;60
 whereyouat;60
@@ -53624,16 +53769,19 @@ worldwariii;60
 worley;40;???
 wormdrive;50
 wormdrives;50
+wormedoneswayinto;50
 wormer;40;Anti-worm medicine
 wormers;40
 wormgear;50
 wormgears;50
 wormier;30
 wormiest;30
+wormingoneswayinto;50
 wormoneswayin;60
 wormoneswayinto;60
 wormscrew;50
 wormscrews;50
+wormsoneswayinto;50
 wormy;30
 worntire;50
 worntires;50
@@ -53650,6 +53798,7 @@ wouldjustassoon;50
 wouldntitbenice;60
 woundtoaclose;60
 wovein;40
+woveinto;40
 wow;50
 wowedem;60
 wowem;40;Green paint?
