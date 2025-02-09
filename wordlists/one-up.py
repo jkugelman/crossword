@@ -42,7 +42,6 @@ def main():
             # spelling[i][0][0] = an arbitrary 'before' word for the ith position
             # len(spelling[i][0][0]) = length of the words in the ith position
             total_len = sum(len(pairs[0][0]) for pairs in spelling)
-
             print(f"Solution #{i} - length {total_len}")
 
             for (j, pairs) in enumerate(spelling, 1):
@@ -199,103 +198,66 @@ def build_trie(words):
 
 ################################################################################
 
-def spell_meta(meta, entries, max_total_length=None):
-    """
-    Build 'meta' from the changed letters of (before, after) pairs under these conditions:
-      1) No real pair is reused in the same solution.
-      2) The concatenation of changed-letter tokens exactly equals 'meta'.
-      3) The sequence of 'before' lengths is palindromic.
-      4) The total sum of all 'before' lengths does not exceed 'max_total_length'
-         (if provided).
+def spell_meta(meta, entry_pairs, max_total_length=None):
+    entries_by_diff_len = group_by_multi(entry_pairs, keys=[
+        lambda pair: letter_diff(*pair),
+        lambda pair: len(pair[0]),
+    ])
+    entries_by_len_diff = group_by_multi(entry_pairs, keys=[
+        lambda pair: len(pair[0]),
+        lambda pair: letter_diff(*pair),
+    ])
 
-    Returns: A list of final solutions, where each solution is a list
-             of (before, after) pairs in the order they appear to form 'meta'.
-    """
+    return spell_meta_impl(meta, entries_by_diff_len, entries_by_len_diff, max_total_length)
 
-    # 1) Precompute changed letters for each entry
-    pre_data = []
-    for bef, aft in entries:
-        if len(bef) != len(aft):
-            continue  # skip if mismatched
-        changed_positions = []
-        for i in range(len(bef)):
-            if bef[i] != aft[i]:
-                changed_positions.append(i)
-        diff_str = "".join(bef[i] for i in changed_positions)
-        pre_data.append({
-            "before": bef,
-            "after": aft,
-            "token": diff_str,
-            "length": len(bef),
-        })
+def spell_meta_impl(meta, entries_by_diff_len, entries_by_len_diff, max_total_length):
+    # print(f"spell_meta_impl(meta={meta}, max_total_length={max_total_length})")
 
-    # 2) Collapse by (token, length).
-    collapsed_map = defaultdict(list)
-    for item in pre_data:
-        key = (item["token"], item["length"])
-        collapsed_map[key].append((item["before"], item["after"]))
+    # Exact match.
+    if meta in entries_by_diff_len:
+        for (length, entries) in entries_by_diff_len[meta].items():
+            if length <= max_total_length:
+                yield [entries]
 
-    collapsed_data = []
-    for (token, length), pairs_list in collapsed_map.items():
-        collapsed_data.append({
-            "token": token,
-            "length": length,
-            "pairs": pairs_list  # all real pairs that share (token, length)
-        })
-
-    n = len(meta)
-
-    # 3) Memoized search over (index, current_length_sum).
-    #    current_length_sum = sum of all 'length' used so far.
-    @lru_cache(1024)
-    def backtrack(index, current_length_sum):
-        """
-        :param index: current position in 'meta' (0-based)
-        :param usage_counts: tuple of integers for each index in collapsed_data
-        :param current_length_sum: the total sum of 'before' lengths used so far
-        :return: a list of partial solutions (each is a list of collapsed_data indices)
-        """
-        if index == n:
-            # matched the entire meta string
-            return [[]]  # one valid "empty" extension
-
-        solutions_here = []
-
-        for i, entry in enumerate(collapsed_data):
-            token = entry["token"]
-            length_i = entry["length"]
-
-            # Prune if adding this length would exceed max_total_length
-            new_length_sum = current_length_sum + length_i
-            if max_total_length is not None and new_length_sum > max_total_length:
+    # Prefix and suffix and recurse.
+    for p in range(1, len(meta)):
+        for (length, prefix_entries) in entries_by_diff_len[meta[:p]].items():
+            # print(f" p={p}, length={length}, prefix_entries={prefix_entries}")
+            if length * 2 > max_total_length:
                 continue
+            for s in range(1, len(meta) - p + 1):
+                suffix_entries = entries_by_len_diff[length][meta[p:][-s:]]
+                if not suffix_entries:
+                    continue
+                # print(f" p={p}, s={s}, length={length}, prefix_entries={prefix_entries}, suffix_entries={suffix_entries}")
+                if p + s == len(meta):
+                    yield [prefix_entries, suffix_entries]
+                    continue
+                for spelling in spell_meta_impl(meta[p:][:-s], entries_by_diff_len, entries_by_diff_len, max_total_length - length * 2):
+                    yield [prefix_entries, *spelling, suffix_entries]
 
-            # Check if the token matches meta at 'index'
-            if meta.startswith(token, index):
-                sub_solutions = backtrack(index + len(token), new_length_sum)
-                # sub_solutions are lists of collapsed indices from the next position onward
-                for sol in sub_solutions:
-                    solutions_here.append([i] + sol)
+def letter_diff(old, new):
+    return ''.join(o for (o, n) in zip(old, new) if o != n)
 
-        return solutions_here
+def group_by_multi(iterable, keys):
+    def nested_dict_factory(depth):
+        if depth == 1:
+            return []
+        else:
+            return defaultdict(lambda: nested_dict_factory(depth - 1))
 
-    # Collect all solutions ignoring the palindrome check
-    raw_solutions = backtrack(0, 0)
+    if not keys:
+        raise ValueError("At least one key function must be provided.")
 
-    # 4) Filter those whose length sequence is palindromic
-    palindromic_solutions_collapsed = []
-    for sol in raw_solutions:
-        length_seq = [collapsed_data[idx]["length"] for idx in sol]
-        if length_seq == length_seq[::-1]:
-            palindromic_solutions_collapsed.append(sol)
+    nested = defaultdict(lambda: nested_dict_factory(len(keys)))
 
-    # 5) Expand each collapsed solution into all possible real (before, after) combos.
-    expanded_solutions = [
-        [collapsed_data[i]['pairs'] for i in sol]
-         for sol in palindromic_solutions_collapsed
-    ]
+    for value in iterable:
+        current = nested
+        for key_func in keys:
+            current = current[key_func(value)]
+        current.append(value)
 
-    return expanded_solutions
+    return nested
 
 if __name__ == '__main__':
     main()
