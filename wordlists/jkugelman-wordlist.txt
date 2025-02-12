@@ -743,6 +743,7 @@ adu;30;One-time soccer phenom Freddy Adu
 aduba;40;Actress Uzo Aduba
 adue;40;Together, in music
 adultadhd;50
+adultcontent;60
 adultescent;40
 adultfilm;50
 adultfilms;50
@@ -1297,6 +1298,7 @@ alcestis;30;Euripides play
 alchemy;50
 alcimede;30;Mother of Jason, in Greek myth
 alcoa;40
+alcoholcontent;50
 alcoholic;30
 alcoholics;30
 alcoholism;40
@@ -5544,6 +5546,7 @@ blogroll;50
 blogrolls;50
 blogswarm;50
 blogswarms;50
+bloodalcoholcontent;50
 bloodborne;60
 bloodcount;50
 bloodcounts;50
@@ -11970,6 +11973,7 @@ diggingupdirton;50
 diginonesheels;60
 diginto;40
 digitalart;60
+digitalcontent;50
 digitalin;30;Drug
 digitalize;30
 digitalized;30
@@ -12881,6 +12885,7 @@ dowdy;50
 doweling;30
 dowhatnow;60
 downanddirty;60
+downloadablecontent;60
 downonthecorner;50
 downright;50
 downside;50
@@ -13519,6 +13524,7 @@ dyingto;40;"Heck yeah"
 dyke;5;Dick Van Dyke
 dykes;5
 dykstra;40
+dynamiccontent;50
 dynamicduo;60
 dynamicduos;50
 dynamicpricing;60
@@ -13894,6 +13900,7 @@ editedin;40
 editin;40
 editingdown;50
 editingin;40
+editorialcontent;50
 editsdown;50
 editsin;40
 edm;20
@@ -15523,6 +15530,7 @@ expedients;30
 expertscurse;60
 expletive;50
 expletives;50
+explicitcontent;60
 explodinghead;60;Emoji
 explodingheademoji;60
 explodingheademojis;60
@@ -17203,6 +17211,7 @@ fredward;50
 freebee;20
 freeclinic;50
 freeclinics;50
+freecontent;60
 freecycle;50
 freecycled;50
 freecycles;50
@@ -17905,6 +17914,7 @@ geezer;50
 geezers;50
 geezerteaser;60;Action film with aging male stars
 geezerteasers;60
+geicogecko;60
 geigers;40;Geiger counters, or particles detected by them
 geishaaccessory;1
 gel;50
@@ -19699,6 +19709,7 @@ guitarriffs;60
 gujarat;30;Indian state
 gulab;30;Indian dessert
 gulabjamun;30
+gulfofamerica;60
 gulfstate;50
 gulfstates;50
 gulliver;50
@@ -22997,6 +23008,7 @@ infomania;50
 inforapenny;60
 inforce;50
 inforitnow;60
+informationcontent;50
 infra;40
 infraredspectrum;50
 ing;40
@@ -25427,7 +25439,7 @@ ladygodiva;50
 ladyish;30
 ladylike;50
 ladyluck;60
-lae;20
+lae;20;Ka Lae, southernmost point in the U.S.
 lafeeverte;40;Absinthe, la fée verte "the green fairy"
 lafitte;40;1800s pirates Jean and Pierre Lafitte
 lafontaine;30;French poet
@@ -28646,6 +28658,7 @@ maturating;40
 maturation;50
 maturational;40
 maturations;40
+maturecontent;60
 maturer;40;Noun, not comparative adjective
 maturers;40
 matutinal;40;Occurring in the morning
@@ -33402,8 +33415,8 @@ opento;40
 opentoes;30
 openupto;40
 oper;30
-operaaria;40
-operaarias;40
+operaaria;30
+operaarias;30
 operabouffe;50
 operabox;50
 operaboxes;50
@@ -33615,6 +33628,7 @@ oriflamme;30;Scarlet banner, or rallying idea
 orig;40
 origami;50
 origanum;30;???
+originalcontent;60
 oriley;50;Song "Baba O'Riley"
 orinda;20;California town
 orinocoflow;60
@@ -34202,6 +34216,7 @@ pah;30
 pahlavi;20;Iranian Shah
 pahlevi;1
 pai;40;___ Gow
+paidcontent;60
 paidforitself;60
 paidin;40
 paidinto;40
@@ -34453,6 +34468,8 @@ paregoric;30
 pareidolia;60
 paren;40
 parens;40
+parentaladvisories;60
+parentaladvisory;60
 parentals;60
 parentalunits;60
 parenthetically;50
@@ -36765,6 +36782,7 @@ prell;30;Green shampoo brand
 premeal;30
 premeds;30
 premiss;20;Premise: Var.
+premiumcontent;60
 prentice;40;Apprentice
 prenticed;40
 prentices;40
@@ -45085,6 +45103,7 @@ spongebobsquarepants;60
 spongecake;50
 sponsoredad;50
 sponsoredads;50
+sponsoredcontent;60
 spooktacular;60
 spooner;50
 spoonfed;60
@@ -48557,6 +48576,7 @@ thegreatoldones;60;Cthulhu, etc.
 thegreenarrow;40
 thegreenfairy;60;Absinthe
 thegrownupsaretalking;60
+thegulfofamerica;60
 thehague;50
 thehangedman;60;Tarot card
 thehat;20
@@ -49928,6 +49948,7 @@ tooler;30
 toolers;30
 toolshed;50
 toonami;60
+toonesheartscontent;60
 toonew;20;Green paint
 toonie;40;Canadian $2 coin
 toonies;40
@@ -52806,6 +52827,7 @@ waterbuffalocalf;50
 waterbuffalocalves;50
 waterbug;50
 waterbugs;50
+watercontent;50
 watercoolertalk;60
 waterer;40
 waterers;40
