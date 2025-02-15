@@ -225,6 +225,10 @@ abscissae;30
 abscissas;30
 abscission;30
 abscissions;30
+abscondedwith;40
+abscondingwith;40
+abscondswith;40
+abscondwith;40
 abseil;50
 abseiled;50
 abseiler;30
@@ -2016,7 +2020,9 @@ anewleaf;50
 aneyeforaneyeatoothforatooth;60
 ang;40
 angaria;20;Maritime law word
-angelfood;50
+angelfood;60
+angelfoodcake;60
+angelfoodcakes;60
 angeli;20
 angelinvestment;50
 angelinvestments;50
@@ -2673,8 +2679,12 @@ argonlasers;50
 argonne;30;W.W. I battle site
 argos;30
 argosy;20;Large ship
+arguedwith;40
 arguer;40
 arguers;40
+argueswith;40
+arguewith;40
+arguingwith;40
 argus;30;100-eyed giant slain by Hermes
 arguses;20
 argyleprint;50
@@ -3105,6 +3115,8 @@ assamtea;40
 assassin;50
 assassins;50
 assassinscreed;60
+assaultcourse;50
+assaultcourses;50
 assaulter;40
 assaulters;40
 assayas;30;French director Olivier Assayas, seems respected, no movies I've heard of
@@ -5806,11 +5818,15 @@ bonaire;40;Island off Venezuela, the B of ABC islands
 bonami;40;Cleaning brand
 bondbroker;50
 bondbrokers;50
+bondedwith;40
 bondgirl;60
 bondgirls;60
+bondingwith;40
 bondissue;50
 bondissues;50
 bondo;30;Putty brand
+bondswith;40
+bondwith;40
 bonebreaking;50
 bonedensity;50
 bonedup;50
@@ -6727,6 +6743,7 @@ bushwah;30;Nonsense
 businesscenter;50
 businesscenters;50
 businesscontact;50
+businesscourse;50
 businesscourses;50
 businessexpense;50
 businessexpenses;50
@@ -7234,6 +7251,10 @@ canithinkaboutit;60
 cankle;30
 cankles;30
 cannae;20;Punic War battle site
+cannedfood;50
+cannedfooddrive;60
+cannedfooddrives;60
+cannedfoods;50
 canneryrow;50
 cannibal;50
 cannibalism;50
@@ -7703,12 +7724,18 @@ catchashow;50
 catcher;50
 catchers;50
 catchesashow;50
+catchesfeelings;60
+catchesfeelingsfor;60
 catchesfire;50
 catchesoffguard;50
 catchesonfire;50
 catcheswaves;50
+catchfeelings;60
+catchfeelingsfor;60
 catchfire;50
 catchingashow;50
+catchingfeelings;60
+catchingfeelingsfor;60
 catchingfire;50
 catchingoffguard;50
 catchingonfire;50
@@ -7788,6 +7815,8 @@ caudated;30
 caudices;30
 caudillo;30;Spanish or Latin American military dictator
 caughtashow;50
+caughtfeelings;60
+caughtfeelingsfor;60
 caughtfire;50
 caughtoffguard;50
 caughtonfire;50
@@ -8230,16 +8259,20 @@ cheatsdeath;60
 cheatson;40
 checkedinto;40
 checkedon;40
+checkedwith;40
 checkers;50
 checkincounters;50
 checkinginto;40
 checkingon;40
+checkingwith;40
 checkinto;40
 checkmate;60
 checkon;40
 checkoutcounter;50
 checksinto;40
 checkson;40
+checkswith;40
+checkwith;40
 checkyouregoatthedoor;60
 cheeredon;40
 cheeringon;40
@@ -8877,6 +8910,7 @@ climaxedat;40
 climaxesat;40
 climaxingat;40
 climbedon;40
+climbingequipment;50
 climbingon;40
 climbon;40
 climbson;40
@@ -9345,6 +9379,10 @@ collegetowns;50
 collegetuition;50
 collet;30;Jewelry setting
 collets;30
+collidedwith;40
+collideswith;40
+collidewith;40
+collidingwith;40
 collinsmix;50
 collodi;30;Pinnochio creator
 colludedon;40
@@ -9661,6 +9699,10 @@ consistorial;40
 consistories;40
 consistory;40;Council of cardinals
 consonantly;40
+consortedwith;40
+consortingwith;40
+consortswith;40
+consortwith;40
 conspirito;50
 constitutionstate;50
 constructivecriticism;50
@@ -9688,6 +9730,8 @@ contrariety;30
 controltower;50
 controltowers;50
 conus;40
+conveniencefood;50
+conveniencefoods;50
 conveniencesampling;60
 conversionratio;50
 convy;30;Game show host Bert Convy
@@ -9768,9 +9812,13 @@ copacabanabeach;50
 copaplea;50
 copcar;50
 copcars;50
+copedwith;40
 copepod;30;Kind of crustacean
 copepods;30
+copeswith;40
+copewith;40
 copings;30;Top courses of brick or stone walls
+copingwith;40
 copout;60
 coppedaplea;50
 coppedto;40
@@ -10210,14 +10258,18 @@ creativecommons;50
 credal;30;Relating to a creed
 credences;30
 creditedto;40
+creditedwith;40
 creditingto;40
+creditingwith;40
 creditreport;50
 creditreports;50
 creditscore;50
 creditscores;50
 creditsto;40
+creditswith;40
 creditto;40
 creditwherecreditsdue;60
+creditwith;40
 cree;50
 creedal;30;Relating to a creed
 creedii;40
@@ -10489,7 +10541,13 @@ cryofreeze;60
 cryolite;30;Mineral
 cryosleep;60
 cryoutto;40
+cryptex;50
+cryptexes;50
+crypticcrossword;60
+crypticcrosswords;60
 crypto;50
+cryptobro;60
+cryptobros;60
 cryptomare;40;Lunar volcanic deposit obscured by basin impact ejecta
 cryptomares;40
 cryptomaria;40
@@ -11459,6 +11517,8 @@ dehiscent;20;Bursts open, as a pod
 dehisces;20;Bursts open, as a pod
 dehydratedboulder;60;Acme invention
 dehydratedboulders;60;Acme invention
+dehydratedfood;50
+dehydratedfoods;50
 dei;40;Opus Dei, Agnus Dei
 deicer;30
 deicers;30
@@ -11754,11 +11814,11 @@ devildogs;50
 devilindisguise;60
 devilry;50
 devils;50
-devilsfood;50
-devilsfoodcake;50
-devilsfoodcakes;50
-devilsplayground;6;Idle hands, it's said0
-devilsplaythings;6;Idle hands, it's said0
+devilsfood;60
+devilsfoodcake;60
+devilsfoodcakes;60
+devilsplayground;60;Idle hands, it's said
+devilsplaythings;60;Idle hands, it's said
 devilsviolin;60;Musical instrument
 devilsworkshop;60;Idle hands, it's said
 devilworship;50
@@ -12164,6 +12224,10 @@ dirtypicture;50
 dirtypictures;50
 dirtyrice;50
 dis;40
+disagreedwith;40
+disagreeingwith;40
+disagreeswith;40
+disagreewith;40
 disambig;1
 disannul;30
 disannulled;30
@@ -12195,6 +12259,10 @@ dismasted;40
 dismasting;40
 dismasts;40
 disneyonice;50
+dispensedwith;40
+dispenseswith;40
+dispensewith;40
+dispensingwith;40
 dispirito;40;TV chef Rocco DiSpirito
 disport;30
 disported;30
@@ -12497,6 +12565,7 @@ dogfighters;50
 dogfights;50
 dogflap;50
 dogflaps;50
+dogfooding;60
 dogfriendly;50
 dogged;50
 doggo;60
@@ -12693,6 +12762,7 @@ dontfretnow;60
 dontgetallbutthurt;60
 dontgetanybrightideas;60
 dontgetanyideas;60
+dontgetup;60
 dontgiveup;60
 donthate;50
 donthaveaprayer;50
@@ -12989,6 +13059,7 @@ drawabye;40
 drawadistinction;50
 drawagunon;40
 drawahead;50
+drawandquarter;50
 drawattentionto;40
 drawaway;40
 drawawayfrom;40
@@ -12998,6 +13069,7 @@ drawingabye;40
 drawingadistinction;50
 drawingagunon;40
 drawingahead;50
+drawingandquartering;50
 drawingattentionto;40
 drawingaway;40
 drawingawayfrom;40
@@ -13008,6 +13080,7 @@ drawingto;40
 drawingtoaclose;60
 drawingup;40
 drawinto;30
+drawnandquartered;50
 drawnout;50
 drawnto;50
 drawon;40
@@ -13016,6 +13089,7 @@ drawsabye;40
 drawsadistinction;50
 drawsagunon;40
 drawsahead;50
+drawsandquarters;50
 drawsattentionto;40
 drawsaway;40
 drawsawayfrom;40
@@ -14431,6 +14505,10 @@ empaled;20
 empales;20
 empaling;20
 empanelled;30
+empathizedwith;40
+empathizeswith;40
+empathizewith;40
+empathizingwith;40
 empedocles;40
 empirestatebldg;30
 emptyhanded;50
@@ -15355,8 +15433,14 @@ everted;40
 everting;40
 evertor;20
 everts;40
+everybodypoops;60
+everybodysacomedian;60
+everybodysacritic;60
 everyframeapainting;60
+everynowandthen;50
 everyonemakesmistakes;60
+everyonesacomedian;60
+everyonesacritic;60
 everysingletime;60
 everythingeverywhereallatonce;60
 everytomdickandharry;60
@@ -15531,6 +15615,10 @@ expectorator;20;Phlegm spitter
 expectorators;20;Phlegm spitters
 expediacom;1
 expedients;30
+experimentedwith;40
+experimentingwith;40
+experimentswith;40
+experimentwith;40
 expertscurse;60
 expletive;50
 expletives;50
@@ -16276,7 +16364,11 @@ fibonacciseries;50
 fibrinous;40
 fictitiousentries;60;Plagiarism trap
 fictitiousentry;60;Plagiarism trap
+fiddledwith;40
 fiddlercrab;60
+fiddleswith;40
+fiddlewith;40
+fiddlingwith;40
 fidelio;40;Beethoven's only opera
 fidelis;40;Semper Fidelis
 fidgetspinner;60
@@ -16307,9 +16399,12 @@ fiftypointbonus;30
 fig;50
 fightfor;40
 fightingfor;40
+fightingwith;40
 fightorflight;60
 fightorflightresponse;60
 fightsfor;40
+fightswith;40
+fightwith;40
 figural;30
 figureeight;50
 figureeights;50
@@ -16397,6 +16492,10 @@ finians;30;"Finian's Rainbow", 1947 musical
 finical;30;Finicky
 finis;40
 finises;20
+finishedwith;40
+finisheswith;40
+finishingwith;40
+finishwith;40
 finites;20
 finkedon;40
 finkingon;40
@@ -16619,6 +16718,12 @@ flashlightbeams;50
 flatabs;50
 flatlet;30
 flatnine;50
+flatoutrefusal;50
+flatoutrefusals;50
+flatoutrefuse;50
+flatoutrefused;50
+flatoutrefuses;50
+flatoutrefusing;50
 flatow;40;NPR journalist Ira Flatow, among others
 flatstomach;50
 flatted;50
@@ -17135,6 +17240,7 @@ foto;40
 fotos;30
 fou;20
 foughtfor;40
+foughtwith;40
 foulard;30;Lightweight fabric, or kerchief made from it
 foulards;30;Kerchief made from foulard fabric
 foulball;60
@@ -18777,6 +18883,7 @@ goest;30
 goesto;40
 goestoseed;50
 goeswest;40;Green paint???
+goeswith;40
 goesyard;50
 goeth;40
 goextinct;50
@@ -18868,6 +18975,7 @@ goingstag;50
 goingthroughsomestuff;60
 goingto;40
 goingtoseed;50
+goingwith;40
 goinon;50
 goinsane;50
 gointo;40
@@ -19261,6 +19369,7 @@ governormoonbeam;50
 govt;40
 gow;20
 gowerchampion;30
+gowith;40
 goy;20
 gp;40
 gpa;40
@@ -19924,8 +20033,12 @@ hagel;40;Secretary of Defense Chuck Hagel (2013-15)
 hagen;40;Tom Hagen in "The Godfather" (Robert Duvall), or actress Uta Hagen
 haggle;50
 haggled;50
+haggledwith;40
 haggles;50
+haggleswith;40
+hagglewith;40
 haggling;50
+hagglingwith;40
 hagia;30
 hah;40
 hahaha;40
@@ -20110,13 +20223,19 @@ hangglides;60
 hanggliding;60
 hanging;50
 hangingauie;30
+hangingoutwith;40
 hangingtough;50
+hangingwith;40
 hangonaminute;60
+hangoutwith;40
 hangry;60
 hangsauie;30
+hangsoutwith;40
 hangstough;50
+hangswith;40
 hangthecost;60
 hangtough;50
+hangwith;40
 hanif;20
 hankofhair;40
 hankypanky;60
@@ -21531,6 +21650,7 @@ horseplay;60
 horsepower;50
 horserace;50
 horseraces;50
+horsesforcourses;60
 horseshoemagnet;60
 horseshoemagnets;60
 horsethief;60
@@ -21693,6 +21813,8 @@ how;50
 howaboutno;60
 howbadcoulditbe;60
 howbizarre;60
+howcanideletesomeoneelsescomment;60
+howcanideletesomeoneelsespost;60
 howcool;60
 howcouldiforget;60
 howcouldyouforget;60
@@ -21702,6 +21824,8 @@ howdidimissthat;60
 howditgo;60
 howdoesitfeel;60
 howdoesthatevenhappen;60
+howdoideletesomeoneelsescomment;60
+howdoideletesomeoneelsespost;60
 howdoyoulikethemapples;60
 howe;40
 howelse;50
@@ -21821,7 +21945,9 @@ hungerpangs;60
 hungersfor;40
 hungjuries;50
 hungjury;50
+hungoutwith;40
 hungtough;50
+hungwith;40
 hunter;50
 hunterbiden;50
 hup;40
@@ -23195,6 +23321,8 @@ instar;20
 instil;20;Instill: Br.
 instir;40;In prison
 instrumentpanel;50
+insulation;50
+insulations;40
 insult;50
 insultcomic;60
 insurancebroker;50
@@ -23227,6 +23355,10 @@ intens;30
 intercalation;30
 interchanged;30
 interestpayment;50
+interferedwith;40
+interfereswith;40
+interferewith;40
+interferingwith;40
 interimtag;50
 interimtags;50
 interlaid;30
@@ -23295,6 +23427,8 @@ intoners;30
 intra;40
 intransitu;30
 intrepids;30
+introcourse;50
+introcourses;50
 intromission;40;Sexual penetration
 intromit;40;Allow in
 intromits;40
@@ -24405,16 +24539,20 @@ jointventure;50
 jointventures;50
 jojo;60
 jokearound;50
-jokearoundwith;50
+jokearoundwith;40
 jokedaround;50
-jokedaroundwith;50
+jokedaroundwith;40
+jokedwith;40
 jokesaround;50
-jokesaroundwith;50
+jokesaroundwith;40
 jokester;60
 jokesters;60
+jokeswith;40
+jokewith;40
 jokic;40;NBA superstar Nikola Jokić
 jokingaround;50
-jokingaroundwith;50
+jokingaroundwith;40
+jokingwith;40
 jolietjake;50
 jollily;30;Weird adverb
 jolteon;50;Pokeyman
@@ -25836,9 +25974,13 @@ lauers;5
 laughaminute;60
 laughat;40
 laughedat;40
+laughedwith;40
 laughingat;40
 laughinggas;60
+laughingwith;40
 laughsat;40
+laughswith;40
+laughwith;40
 launchedinto;40
 launchesinto;40
 launchinginto;40
@@ -27213,6 +27355,7 @@ lookedafool;50
 lookedafter;50
 lookedat;40
 lookeddownon;50
+lookedfishy;50
 lookedinto;40
 lookedthefool;50
 lookedto;40
@@ -27220,10 +27363,12 @@ lookedupto;50
 lookee;40
 lookeron;40
 lookerson;40
+lookfishy;50
 lookingafool;50
 lookingafter;50
 lookingat;40
 lookingdownon;50
+lookingfishy;50
 lookingglass;60
 lookinginto;40
 lookingthefool;50
@@ -27241,6 +27386,7 @@ looksat;40
 looksdownon;50
 looksee;50;Gander
 looksees;30
+looksfishy;60
 looksinto;40
 looksmax;60
 looksmaxing;60
@@ -27335,8 +27481,10 @@ losesoutto;40
 losestadosunidos;40
 losestheplot;60
 losesto;40
+losestouchwith;40
 losetheplot;60
 loseto;40
+losetouchwith;40
 losinganhour;50
 losingastep;50
 losingbattle;50
@@ -27349,6 +27497,7 @@ losingstreak;50
 losingstreaks;50
 losingtheplot;50
 losingto;40
+losingtouchwith;40
 lossleader;60
 lossleaders;60
 lossofmotorfunction;50
@@ -27366,6 +27515,7 @@ lostonesmarbles;60
 lostoutto;40
 losttheplot;60
 lostto;40
+losttouchwith;40
 lot;50
 loteria;30;Lottery: Sp.
 lothair;30;Holy Roman emperor
@@ -27522,6 +27672,8 @@ lox;50
 loy;40;Actress Myrna Loy
 loyalfan;50
 loyalfans;50
+loyalsubject;50
+loyalsubjects;50
 loyalto;40
 loyaltyprograms;50
 lp;40
@@ -27826,6 +27978,7 @@ madeauey;40
 madeauie;40
 madeaware;50
 madebail;50
+madedowith;40
 madefaces;50
 madefor;40
 madegood;50
@@ -27978,6 +28131,7 @@ mailingin;40
 mailingitin;40
 mailingto;40
 mailitin;40
+maillardreaction;60
 maillot;30;Type of swimsuit
 mailsin;40
 mailsitin;40
@@ -28062,6 +28216,7 @@ makeawishfoundation;60
 makeba;30
 makebail;50
 makebelieve;60
+makedowith;40
 makefaces;50
 makegood;50
 makegoodon;50
@@ -28102,6 +28257,7 @@ makesauey;40
 makesauie;40
 makesaware;50
 makesbail;50
+makesdowith;40
 makesense;50
 makesfaces;50
 makesgood;50
@@ -28152,6 +28308,7 @@ makingauey;40
 makingauie;40
 makingaware;50
 makingbail;50
+makingdowith;40
 makingfaces;50
 makinggood;50
 makinggoodon;50
@@ -28912,6 +29069,10 @@ med;40
 medalcount;50
 medalcounts;50
 medalhunt;50;???
+meddledwith;40
+meddleswith;40
+meddlewith;40
+meddlingwith;40
 medeas;20;2013 movie
 medflies;30
 medfly;30;Mediterranean fruit fly
@@ -31960,6 +32121,7 @@ notuse;1
 notv;30
 notwar;20
 notwell;1
+notwith;40
 notworthahillofbeans;60
 nou;20
 nougats;40
@@ -32347,6 +32509,8 @@ obscurest;40
 obsessor;40
 obsessors;40
 obsolesce;40
+obstaclecourse;60
+obstaclecourses;60
 obstruent;30
 obtund;40;Dull the sensitivity of, medically
 obtunded;40
@@ -32534,6 +32698,8 @@ offgame;50
 offgames;50
 officer;50
 officers;50
+officesupplies;50
+officesupply;50
 officinal;30
 offings;30
 offleashdogpark;50
@@ -36033,9 +36199,12 @@ pleaders;40
 pleadfor;40
 pleadingfor;40
 pleadingto;40
+pleadingwith;40
 pleadsfor;40
 pleadsto;40
+pleadswith;40
 pleadto;40
+pleadwith;40
 pleasanter;40
 pleasantest;40
 pleasebepatient;60
@@ -36055,6 +36224,7 @@ pledfor;40
 pledgee;40
 pledgees;40
 pledto;40
+pledwith;40
 pleinair;20;Painting outdoors
 plena;20;Puerto Rican music
 plenary;40;Congressional term
@@ -37936,6 +38106,8 @@ raisedeyebrow;50
 raisedhell;60
 raisedthecurtain;50
 raisedtheroof;50
+raisedthesubject;50
+raisedthesubjectof;50
 raisehell;60
 raiser;40
 raisers;40
@@ -37944,12 +38116,18 @@ raisesheep;50
 raiseshell;60
 raisesthecurtain;50
 raisestheroof;50
+raisesthesubject;50
+raisesthesubjectof;50
 raisethecurtain;50
 raisetheroof;60
+raisethesubject;50
+raisethesubjectof;50
 raisingaglass;60
 raisinghell;60
 raisingthecurtain;50
 raisingtheroof;50
+raisingthesubject;50
+raisingthesubjectof;50
 raison;40
 raita;30;Indian dip
 raitts;30;Plural family name
@@ -38501,12 +38679,16 @@ reascended;40
 reascending;40
 reascends;40
 reascent;40
+reasonedwith;40
 reasoner;40
 reasoners;40
+reasoningwith;40
 reasonstolive;50
 reasonstorejoice;50
+reasonswith;40
 reasontolive;50
 reasontorejoice;50
+reasonwith;40
 reassemblies;30
 reassume;20
 reassumed;20
@@ -40576,6 +40758,8 @@ royalballs;50
 royale;60
 royalmint;50
 royalnavy;50
+royalsubject;60
+royalsubjects;60
 roybean;50
 roycohn;30;Joseph McCarthy's chief counsel
 royko;30;1970s journalist Mike Royko
@@ -43019,6 +43203,8 @@ shortos;20
 shortround;50
 shortstop;50
 shortstops;50
+shortsubject;50
+shortsubjects;50
 shortu;40
 shortus;20
 shot;50
@@ -44071,8 +44257,12 @@ smearson;40
 smeary;30
 smee;40
 smelledarat;60
+smelledfishy;50
+smellfishy;50
+smellingfishy;40
 smellovision;60
 smells;50
+smellsfishy;60
 smelltests;50
 smeltroe;50
 smersh;20;Russian counterintelligence organization
@@ -44661,6 +44851,8 @@ sorelosers;60
 soren;40;Søren Kierkegaard
 sorespot;50
 sorespots;50
+soresubject;60
+soresubjects;60
 sorethroat;50
 sorethroats;50
 soright;60
@@ -44799,6 +44991,8 @@ sowemeetagain;60
 sower;30
 sowers;30
 sowhatsthedeal;60
+sowhatsthegameplan;60
+sowhatstheplan;60
 sowhatsthestory;60
 sowhatsthewordonthestreet;60
 sox;50
@@ -44887,8 +45081,12 @@ sparksfly;60
 sparksjoy;60
 sparksnv;20
 sparky;40;Lively and high-spirited: Br.
+sparredwith;40
+sparringwith;40
+sparswith;40
 spartanrace;50
 spartanraces;50
+sparwith;40
 spaservice;50
 spastic;40
 spastics;5
@@ -45442,6 +45640,7 @@ standtrial;50
 standupguy;60
 standupguys;60
 standupto;40
+stanfor;50
 stang;40;Ford Mustang, familiarly
 stangs;40
 stankat;40
@@ -45449,11 +45648,14 @@ stanky;20;Baseball player Eddie Stanky
 stanlee;60
 stanleys;30
 stanmusial;50
+stannedfor;50
 stannic;30;Of tin
+stanningfor;50
 stannis;30
 stanno;20;Tin: Prefix
 stannum;30;Latin for tin, source of "Sn"
 stans;50;Bad plural, fine as superfans (or verb)
+stansfor;50
 stantheman;60
 stapedes;30;Middle ear bone
 stapes;30;???
@@ -45621,6 +45823,7 @@ stayedinbed;50
 stayedinoneslane;60
 stayedon;40
 stayedwarm;50
+stayedwith;40
 stayinbed;50
 stayingalive;60
 stayingat;40
@@ -45628,6 +45831,7 @@ stayinginbed;50
 stayinginoneslane;60
 stayingon;40
 stayingwarm;50
+stayingwith;40
 stayinoneslane;60
 stayon;40
 staypuft;60
@@ -45636,7 +45840,9 @@ staysinbed;50
 staysinoneslane;60
 stayson;40
 stayswarm;50
+stayswith;40
 staywarm;50
+staywith;40
 stb;20
 stbede;40
 stbernard;50
@@ -45788,22 +45994,28 @@ stepdancer;50
 stepdancers;50
 stepdances;50
 stepdancing;50
+stepgoal;60
+stepgoals;60
 stephenfry;50
 stepin;40
 stepinto;40
 steponit;60
 steponto;40
+stepoutof;40
 steppedin;40
 steppedinto;40
 steppeditup;60
 steppedonit;60
 steppedonto;40
+steppedoutof;40
 steppingin;40
 steppinginto;40
 steppingonto;40
+steppingoutof;40
 stepsin;40
 stepsinto;40
 stepsonto;40
+stepsoutof;40
 steptwo;30
 stepuncle;50
 stepuncles;40
@@ -46416,10 +46628,14 @@ subfor;40
 subfusc;30;Dull, gloomy
 subito;40;Immediately, in music
 subj;40
+subjectedto;40
+subjectingto;40
 subjection;40
 subjectmatter;50
 subjectmatterexpert;50
 subjectmatterexperts;50
+subjectsto;40
+subjectto;40
 subjoin;40
 subjoined;40
 subjoining;40
@@ -46885,7 +47101,10 @@ sweeppicks;50
 sweeptheleg;60
 sweetandsourmix;50
 sweetanise;50
+sweetcheeks;60
+sweetchildomine;60
 sweetchinmusic;60
+sweetemotion;60
 sweetgig;50
 sweetiepie;60
 sweetnlow;50
@@ -46908,6 +47127,9 @@ sweettalkers;60
 sweettalking;60
 sweettalks;60
 sweettea;50
+sweettooth;60
+sweetvalley;50
+sweetvalleyhigh;60
 swellmob;50
 swellmobs;50
 swf;20
@@ -47016,7 +47238,11 @@ symbionts;40
 symbiosis;50
 symbiotic;50
 symone;40;Drag queen
-syms;20;Actress Sylvia
+sympathizedwith;40
+sympathizeswith;40
+sympathizewith;40
+sympathizingwith;40
+syms;30;British actress Sylvia Syms (1934-2023)
 syn;40
 synchronal;40
 synchronicityii;60
@@ -48772,6 +48998,7 @@ theoldmasters;40
 theolds;60
 theoldvic;40
 theolheaveho;60
+theonetobeat;60
 theopen;1
 theopenera;40
 theopera;40
@@ -48998,6 +49225,7 @@ thetuba;30
 thetudors;20
 theturn;50
 theturtles;50
+theuglyduckling;60
 theun;20
 theundead;50
 theunderworld;40
@@ -49132,6 +49360,7 @@ thirtieth;40
 thirtieths;40
 thisagain;60
 thisbe;30;Pyramus and Thisbe, lovers in Ovid's Metamorphoses [rare]
+thiscommentrighthereofficer;60
 thisisacloseone;50
 thisisacompletenightmare;60
 thisisactuallyhappening;60
@@ -49158,6 +49387,7 @@ thisistakingforever;60
 thisiswhereicomein;60
 thisiswhereyoucomein;60
 thisllbetheendofme;60
+thispostrighthereofficer;60
 thisroundisonme;60
 thissentme;60
 thisthingofours;60
@@ -50265,10 +50495,13 @@ trackstars;50
 tracthome;50
 tracthomes;50
 trad;40
+tradebook;50
+tradebooks;50
 tradedfor;40
 tradedinsults;50
 tradedon;40
 tradedto;40
+tradedwith;40
 tradefor;40
 tradeinsults;50
 tradeon;40
@@ -50276,11 +50509,14 @@ tradervics;50;Tiki bar restaurant chain
 tradesfor;40
 tradeson;40
 tradesto;40
+tradeswith;40
 tradeto;40
+tradewith;40
 tradingfor;40
 tradinginsults;50
 tradingon;40
 tradingto;40
+tradingwith;40
 traduce;30
 traduced;30
 traducement;30
@@ -51255,6 +51491,8 @@ ughs;40
 ugli;40
 uglily;30;Weird adverb
 uglyassin;60
+uglyduckling;60
+uglystepsister;60
 uglystepsisters;60
 uglystick;60;Musical instrument
 ugo;20
@@ -53236,6 +53474,7 @@ wentsour;50
 wentstag;50
 wentto;40
 wenttoseed;50
+wentwith;40
 wentwithit;50
 wentyard;50;Hit a home run
 wentz;40;Pete Wentz from Fall Out Boy
@@ -53379,9 +53618,11 @@ whatsoperadoc;60
 whatsshakinbacon;60
 whatsthat;60
 whatsthatsupposedtomean;60
+whatsthegameplan;60
 whatsthegoodword;60
 whatsthemagicword;60
 whatsthemove;60
+whatstheplan;60
 whatsthepoint;60
 whatstheretoget;60
 whatstheretolose;60
@@ -54497,6 +54738,9 @@ yieldto;40
 yifan;30;Women's World Chess Champion Hou Yifan
 yikes;50
 yin;50
+yinz;60;Pittsburg y'all
+yinzer;60
+yinzers;60
 yip;50
 yipes;50
 yippy;50
