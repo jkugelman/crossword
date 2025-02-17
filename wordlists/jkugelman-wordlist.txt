@@ -914,7 +914,7 @@ afterparties;50
 afterparty;50
 afters;30
 afterthem;50
-afts;50
+afts;40
 ag;40
 aga;20
 agalaxyfarfaraway;60
@@ -2903,6 +2903,7 @@ artgalleries;50
 artgallery;50
 arthorror;60
 arthousehorror;60
+articular;40;Relating to a joint
 arties;30
 artieshaw;50
 artifact;50
@@ -3218,7 +3219,7 @@ asthickasthieves;60
 asti;40;Wine region
 astight;1
 astilbe;20;Flower genus
-asto;40
+asto;50
 astolat;30;Castle of Arthurian legends
 astoldto;30
 aston;50
@@ -8064,6 +8065,7 @@ ceruminous;30;Ear gland
 cervine;20;Deerlike
 ces;20
 cesars;40;French oscars
+cess;40
 cesspool;60
 cesspools;60
 cest;40
@@ -12258,6 +12260,8 @@ dismast;40;Break off a ship's masts
 dismasted;40
 dismasting;40
 dismasts;40
+disneyadult;60
+disneyadults;60
 disneyonice;50
 dispensedwith;40
 dispenseswith;40
@@ -24924,7 +24928,7 @@ kegstands;60
 kehuyquan;60
 keithmoon;50
 keiths;30;Plural name
-kel;20
+kel;30;Kenan Thompson's show "Kenan & Kel"
 kelce;50;Travis Kelce
 kelela;20;Singer, dated Tosin Abasi, not notable enough
 kelli;30;7-time Tony winner Kelli O'Hara
@@ -27978,6 +27982,7 @@ madeauey;40
 madeauie;40
 madeaware;50
 madebail;50
+madebiscuits;60
 madedowith;40
 madefaces;50
 madefor;40
@@ -28216,6 +28221,7 @@ makeawishfoundation;60
 makeba;30
 makebail;50
 makebelieve;60
+makebiscuits;60;Knead, like a cat
 makedowith;40
 makefaces;50
 makegood;50
@@ -28257,6 +28263,7 @@ makesauey;40
 makesauie;40
 makesaware;50
 makesbail;50
+makesbiscuits;60
 makesdowith;40
 makesense;50
 makesfaces;50
@@ -28308,6 +28315,7 @@ makingauey;40
 makingauie;40
 makingaware;50
 makingbail;50
+makingbiscuits;60
 makingdowith;40
 makingfaces;50
 makinggood;50
@@ -30690,6 +30698,7 @@ myheart;1
 myidea;20;Green paint
 mykingdomforahorse;60
 mylanta;50;Antacid
+mylars;40
 myles;40;???
 mylipsaresealed;60
 mymind;20
@@ -31801,6 +31810,7 @@ nokia;50
 nokias;50
 nol;20
 nola;40;New Orleans
+nolans;30;Plural name
 noleads;20
 nolikey;5
 nolita;30
@@ -31811,6 +31821,7 @@ noltes;20
 noluck;50
 nom;40
 nomaam;50
+nomans;30
 nomatter;60
 nomeat;40
 nomegusta;60
@@ -34362,7 +34373,7 @@ packsin;40
 packyourbags;60
 packyourstuff;60
 packyourthings;60
-paco;50
+paco;40
 pacsun;40;Clothing brand
 pacten;20;Defunct athletic conference, now it's 12
 pacula;30;Model/actress Joanna Pacuła
@@ -39269,6 +39280,10 @@ remainingintheloop;50
 remainintheloop;50
 remainsat;40
 remainsintheloop;50
+reman;30
+remanned;30
+remanning;30
+remans;30
 remarch;20
 remash;20
 remashed;20
@@ -39413,6 +39428,10 @@ repinning;30
 repins;30
 replacer;40
 replacers;40
+replan;40
+replanned;40
+replanning;40
+replans;40
 replate;40
 replated;40
 replates;40
@@ -41093,6 +41112,7 @@ sacra;30;Lower back bones
 sacramentoca;30
 sacramentoking;50
 sacramentokings;50
+sacre;40
 sacredfig;50
 sacredfigs;50
 sacredibis;50
@@ -43012,6 +43032,7 @@ shelovesmenot;50
 shem;20
 shepherdscrook;50
 shepherdscrooks;50
+shera;40
 shere;40;Shere Khan, tiger in "The Jungle Book"
 sherees;20;Plural first name
 sherehite;30
@@ -51476,11 +51497,11 @@ ueys;40
 ufc;40
 uffda;60;Midwest exclamation
 uffish;20;Grumpy
-ufo;40
+ufo;50
 ufologist;60
 ufologists;60
 ufology;60
-ufos;40
+ufos;50
 ufw;20
 uga;40;University of Georgia
 ugarte;30;"Casablanca" character
@@ -54270,6 +54291,7 @@ wort;50
 worthashot;60
 worthit;60
 worths;30
+worts;40
 wot;20
 wouldassoon;50
 wouldjustassoon;50
@@ -54983,6 +55005,7 @@ yvettes;30
 yvie;40;Drag queen Yvie Oddly
 z;40
 za;40
+zabars;40;Famous NYC deli
 zac;50
 zack;50
 zag;50
