@@ -5424,6 +5424,7 @@ blackbagoperation;50
 blackbagoperations;50
 blackbart;50
 blackbeauty;50
+blackbodyradiation;60
 blackbottom;50;Jazz Age dance
 blackbox;60
 blackbudget;60;Budget for black ops
@@ -32205,6 +32206,8 @@ nowme;60
 nownow;60
 nowonder;60
 nowthen;50
+nowwheredidipark;60
+nowwheredidwepark;60
 nox;40;Night goddess
 noyes;40;Poet Alfred Noyes
 noyoudidnt;60
@@ -41754,6 +41757,22 @@ scamartist;60
 scamartists;60
 scandent;20
 scandia;30;???
+scannedthearea;50
+scannedthecrowd;50
+scannedtheenvironment;50
+scannedtheroom;50
+scanningthearea;50
+scanningthecrowd;50
+scanningtheenvironment;50
+scanningtheroom;50
+scansthearea;50
+scansthecrowd;50
+scanstheenvironment;50
+scanstheroom;50
+scanthearea;50
+scanthecrowd;50
+scantheenvironment;50
+scantheroom;50
 scanties;30;Underwear
 scantly;30;Scarcely
 scape;40;Suffix
@@ -53722,6 +53741,9 @@ whentheshoefits;60
 whentheshoefitswearit;60
 whenyougetachance;50
 where;50
+wheredidipark;60
+wheredidwepark;60
+wheredidyoupark;60
 wheredoisignup;60
 wheredoyoudrawtheline;60
 wherehaveyougonejoedimaggio;60
