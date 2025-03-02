@@ -586,6 +586,7 @@ addedonto;40
 addedspice;50
 addedto;40
 addedupto;40
+addfuel;30;Green painty
 addies;40;Addresses, slangily [never used]
 addin;40
 addingin;40
@@ -1350,6 +1351,7 @@ aletaps;30
 aletter;1
 alewife;30;Herring
 alewives;30;Herrings
+alexandradaddario;50;Actress
 alexandriaegypt;20
 alexcross;50;James Patterson character
 alexi;30;Lalas of soccer, Laiho of Children of Bodom
@@ -9817,7 +9819,7 @@ coolweather;50
 coolwhip;60
 coolyourheels;60
 coolyourjets;60
-coon;5
+coon;40;Actress Carrie Coon, semi-notable
 cooney;30
 coons;5
 coonskincap;50
@@ -10906,6 +10908,7 @@ dadas;30;Dads
 dadblasted;60
 dadbod;60
 dadbods;60
+daddario;50;Actress Alexandra Daddario
 daddyshome;50
 dadgum;60
 dadgumit;60
@@ -18024,6 +18027,8 @@ gchord;30
 gchords;30
 gclef;40
 gday;50
+gdaymate;60
+gdaymates;40;Unnatural plural
 gdp;40
 gdps;40
 gdr;20
@@ -19522,6 +19527,10 @@ graphictee;60
 graphictees;60
 grapnel;30;Grappling hook
 grapnels;30
+grappledwith;40
+grappleswith;40
+grapplewith;40
+grapplingwith;40
 gras;40
 graspat;40
 graspedat;40
@@ -47327,6 +47336,8 @@ sybarite;40;Sensualist, hedonist
 syd;40;Pink Floyd singer Barrett
 sydbarrett;50
 sydney;50
+sydneysider;60;Resident of Sydney
+sydneysiders;60
 sydow;40;Max von Sydow
 sye;20
 syenite;30;Type of rock
@@ -49367,6 +49378,7 @@ thewestbank;40
 thewestwind;40
 thewhale;60
 thewhiskeyrebellion;40
+thewhitelotus;60
 thewholeshootingmatch;60
 thewickedwitchoftheeast;60
 thewickedwitchofthewest;60
@@ -53829,6 +53841,7 @@ whiteknight;60
 whiteknights;60
 whitelie;50
 whitelies;50
+whitelotus;60
 whitemagic;60
 whitemencantjump;60
 whitenoise;50
@@ -53896,6 +53909,7 @@ whydoesthisalwayshappentome;60
 whydontyoumakelikeatreeandgetoutofhere;60
 whyelse;60
 whyinever;60
+whyisit;50
 whyisthat;60
 whyme;60
 whyso;50
