@@ -3576,6 +3576,7 @@ automaticweapon;50
 automaton;50
 automatons;50
 autopia;40;Disneyland car ride
+autorotation;50;Helicopter technique for landing w/o power
 autoshow;60
 autoshows;60
 autotradein;50
@@ -5420,6 +5421,10 @@ bkstacker;50
 bkstackers;50
 blackactivist;50
 blackactivists;50
+blackadder;50
+blackadders;50
+blackart;60
+blackarts;60
 blackbagoperation;50
 blackbagoperations;50
 blackbart;50
@@ -11010,6 +11015,7 @@ danite;30
 danites;30
 danmarino;50
 dannykaye;50
+dannytorrance;60;From "The Shining"
 dano;40
 danpatch;50;Champion horse in the early 1900s
 dans;30
@@ -11043,6 +11049,8 @@ daringto;40
 dario;40;Filmmaker Argento
 dariofranchitti;30;British motor racing driver
 darkage;50
+darkart;60
+darkarts;60
 darkbluepansies;50
 darkbluepansy;50
 darkbread;50
@@ -11568,6 +11576,7 @@ delanoroosevelt;1
 delawareriver;50
 delayedreaction;50
 delayedreactions;50
+delbertgrady;50;"The Shining" bartender
 delco;40;Battery brand (different from AC Delco???)
 dele;40
 delead;30
@@ -11959,6 +11968,7 @@ dicemen;50
 dicesup;40
 diceup;40
 dicingup;40
+dickhallorann;50;"The Shining" character
 dickmove;60
 dicot;20;Type of grass plant
 dicots;20
@@ -12496,6 +12506,7 @@ doctoredfigures;60
 doctorfrankenstein;60
 doctoroctopus;60
 doctorquinn;50
+doctorsleep;60
 doctorstrangeinthemultiverseofmadness;60
 dod;40
 dodd;40;Dodd-Frank Act
@@ -14328,6 +14339,7 @@ elevatedhorror;60
 eleve;20;Student: Fr.
 elevenam;40
 elevenfiftynine;1
+elevenplus;40;Exam in the UK
 elevenpm;40
 elevenses;40;???
 elevensides;30;Green paint
@@ -24233,6 +24245,7 @@ jackrussell;50
 jackrussells;50
 jacksonms;40
 jackthegiantslayer;50;Movie
+jacktorrance;60;From "The Shining"
 jackwebb;50
 jacobeanera;50
 jacobs;50;Marc Jacobs
@@ -24522,6 +24535,8 @@ jinks;30
 jinn;40;Djinn
 jinni;20;Genie
 jiro;40;"Jiro Dreams of Sushi"
+jitney;30;Small bus, or old slang for a nickel
+jitneys;30
 jkl;20
 jklmno;20
 jlo;40
@@ -34260,6 +34275,7 @@ overheadsquats;50
 overinflation;50
 overlie;40
 overlies;40
+overlookhotel;60;From "The Shining"
 overlying;50
 overman;30
 overnightbags;50
@@ -43523,6 +43539,8 @@ silage;50
 silages;40
 silane;30;Inorganic compound
 silenta;40
+silentalarm;60
+silentalarms;60
 silentas;40
 silentb;40
 silentbs;40
@@ -43559,12 +43577,15 @@ silentps;40
 silentr;40
 silentrs;40
 silents;50;Silent films
+silentspring;60
 silentt;40
 silenttreatment;60
 silentts;40
 silentu;40
 silentus;40
 silentv;40;Impossible
+silentvowel;50
+silentvowels;50
 silentvs;40;Impossible
 silentw;40
 silentws;40
@@ -47756,7 +47777,7 @@ tantara;40;Trumpet blast
 tantaras;40;Trumpet blasts
 tante;20;Aunt: Fr.
 tantes;20;Aunts: Fr.
-tanto;40;So much, in music
+tanto;30;So much, in music
 tantra;40
 tantras;40
 tantrik;20
@@ -49092,6 +49113,7 @@ theopenera;40
 theopera;40
 theos;40;The Orioles
 theoscars;40
+theoverlookhotel;60;From "The Shining"
 theozonelayer;40
 thepacers;40
 thepack;30
@@ -50408,6 +50430,7 @@ torpedos;20
 torpors;40;Bad plural???
 torr;20;Unit of pressure
 torrance;40;Jack Torrance from "The Shining"
+torrances;40;"The Shining" family
 torre;40;Yankee manager Joe Torre
 torrey;40;Torrey Pines
 torridity;30
@@ -51381,6 +51404,7 @@ tweetstorm;50
 tweetstorms;50
 twelveam;40
 twelvemonkeys;60
+twelveplusone;1
 twelvepm;40
 twerent;50
 twi;20
@@ -53501,6 +53525,7 @@ wences;30;Ventriloquist
 wendt;40
 wendysburger;50
 wendysburgers;50
+wendytorrance;60;From "The Shining"
 wenjiabao;40
 wentallin;50
 wentallout;50
@@ -54226,6 +54251,7 @@ wolverine;60
 wombocombo;60
 womenomics;50
 womens;40
+wompwomp;60
 womyn;40
 won;50
 wonanoscar;50
@@ -54518,6 +54544,7 @@ xfile;20
 xfiles;50
 xfl;40
 xgames;60
+xhibit;20;???
 xi;40
 xia;20
 xiadynasty;50
