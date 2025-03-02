@@ -3,7 +3,7 @@
 # Find words that are valid entries without the end letters,
 # and where those letters spell out two meta answers. For example:
 #
-# fries + rolls: flatter / relleno / ifatall / earcanal / snapless
+# fries + rolls: flatter / relleno / ifatall / earcanal / snapless (7/7/7/8/8)
 
 from merge import load_word_list
 import re
@@ -11,13 +11,13 @@ import sys
 
 def main():
     words = set(load_word_list(min_score=40).words.keys())
-    words = {word for word in words if len(word) >= 7 and word[1:-1] in words}
+    words = {word for word in words if len(word) >= 6 and word[1:-1] in words}
     words = {word for word in words if not re.search('[^s]s$', word)}
 
     metas = set(sys.argv[1:])
 
     for meta1, meta2, combo in spell_metas(words, metas):
-        print(f"{meta1} + {meta2}: {' / '.join(combo)}", flush=True)
+        print(f"{meta1} + {meta2}: {' / '.join(combo)} ({'/'.join(str(len(c)) for c in combo)})", flush=True)
 
 def spell_metas(words, metas):
     # Precompute a dictionary mapping (first_letter, last_letter) -> list of words.
