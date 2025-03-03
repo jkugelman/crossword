@@ -264,6 +264,7 @@ abul;20
 aburglarstoleit;1
 abuser;5
 abusers;5
+abutilon;20;Flower genus
 abuton;30
 abutson;30
 abutsupon;30
@@ -448,6 +449,7 @@ acmesuctioncups;60;Acme invention
 acmesuperspeedvitamins;60;Acme invention
 acmetornadoseeds;60;Acme invention
 acmetrickbone;60;Acme invention
+acompleteunknown;60;Bob Dylan biopic
 acoolmil;60
 acouple;30
 acourtin;20
@@ -1249,6 +1251,7 @@ alain;30
 alaina;30;Singer Lauren Alaina... notable???
 alakazam;60;Magic word, or Pokémon
 alamaison;40;???
+alamedas;30;Tree-lined walks
 alamein;40;WWII battle site El Alamein
 alament;40;Shelley poem
 alamodes;20;Fabrics
@@ -2170,7 +2173,7 @@ anon;50
 anonym;30;Pseudonym, or anonymous person, uncommon word
 anonyme;30;Faceless person
 anonyms;30
-anora;50;Movie
+anora;50;2025 Best Picture
 anorak;40
 anoraks;40
 anorectic;30
@@ -2308,6 +2311,10 @@ apa;30
 apace;40
 apairof;30
 apanage;20;Gift of land, archaic
+apapses;30
+apapsides;30
+apapsis;30;Astronomy word
+apapsises;30
 aparade;20
 aparicio;40;Yalitza Aparicio, Best Actress nominee from "Roma" in 2018
 aparthistory;30
@@ -2371,9 +2378,15 @@ apneal;40
 apneas;30
 apneic;40
 apo;30;Army Post Office [common]
+apoapses;30
+apoapsides;30
+apoapsis;30;Astronomy word
+apoapsises;30
 apocket;20
 apogeal;30
 apogean;30
+apojove;30;Astronomy word
+apojoves;30
 apolar;30;Nonpolar is preferred
 apolloi;40
 apolloii;30
@@ -2433,8 +2446,8 @@ applecida;20
 applelogo;50
 applelogos;40
 appleof;1
-applepie;50
-applepiealamode;50
+applepie;60
+applepiealamode;60
 applepies;50
 applepiesalamode;50
 applepress;50
@@ -2954,7 +2967,7 @@ asagift;40
 asaguide;20
 asahara;20;Japanese cult leader/terrorist
 asahi;40;Japanese beer
-asami;40
+asami;50
 asamule;20
 asana;40;Yoga position
 asanas;30
@@ -3077,7 +3090,7 @@ asof;50
 asoftenasnot;60
 asolo;20
 asonant;30
-asone;40
+asone;50
 asoneman;40;In unison
 asonia;20;Tone-deafness, controversial 3/19/23 entry
 asosan;20
@@ -3190,6 +3203,7 @@ assns;40
 associatedegree;50
 associatedegrees;50
 assort;40
+assorted;50
 assorter;30
 assorters;30
 assorting;40
@@ -3415,6 +3429,7 @@ atp;20
 atplay;50
 atra;20
 atrace;30
+atrance;1;Long partial
 atremble;40
 atreus;30;Father of Agamemnon
 atropos;40
@@ -3539,6 +3554,8 @@ auntjemima;5
 auntselma;50
 aur;20
 aurae;30
+auralea;30;Civil War song "Aura Lea"
+auralee;40;Civil War song "Aura Lee" or designer brand
 aureate;20;Highly ornamented
 aureole;30
 aureoles;30
@@ -3667,6 +3684,7 @@ awhell;60
 awhellnaw;60
 awholelot;50
 awholenewballgame;60
+awinisawin;60
 awinsawin;60
 awiseguyeh;60
 awk;20
@@ -3843,6 +3861,7 @@ backgroundextra;50
 backgroundextras;50
 backhandspring;50
 backhandsprings;50
+backinabit;60
 backingacandidate;50
 backinmyday;60
 backissues;50
@@ -4967,6 +4986,7 @@ bernswitzerland;50
 berried;30
 bertbobbsey;50;One of the Bobbsey Twins of kid lit
 berthas;30
+bertice;30;Author/entertainer Bertice Berry
 bertillon;40;Alphonse Bertillon, inventor of the mug shot
 bertram;20;Silicon Valley & other minor characters
 bertrandrussell;60
@@ -6265,6 +6285,8 @@ brasi;30;Luca of "The Godfather"
 brassica;40;Genus for cabbage, broccoli, cauliflower, bok choy, turnips, et al.
 brassie;30;2-wood
 brasso;30;Metal polish
+brassrat;60;Name for the MIT class ring
+brassrats;60
 brassring;50
 brassrings;50
 brasstacks;60
@@ -7744,10 +7766,12 @@ catcalls;50
 catcarrier;50
 catcarriers;50
 catcha;20
+catchabus;50
 catchall;50
 catchashow;50
 catcher;50
 catchers;50
+catchesabus;50
 catchesashow;50
 catchesfeelings;60
 catchesfeelingsfor;60
@@ -7758,6 +7782,7 @@ catcheswaves;50
 catchfeelings;60
 catchfeelingsfor;60
 catchfire;50
+catchingabus;50
 catchingashow;50
 catchingfeelings;60
 catchingfeelingsfor;60
@@ -7839,6 +7864,7 @@ caudate;30
 caudated;30
 caudices;30
 caudillo;30;Spanish or Latin American military dictator
+caughtabus;50
 caughtashow;50
 caughtfeelings;60
 caughtfeelingsfor;60
@@ -8088,6 +8114,7 @@ certifiedkosher;50
 ceruminous;30;Ear gland
 cervine;20;Deerlike
 ces;20
+cesare;40;One of the Borgias
 cesars;40;French oscars
 cess;40
 cesspool;60
@@ -9761,6 +9788,7 @@ conveniencefood;50
 conveniencefoods;50
 conveniencesampling;60
 conversionratio;50
+conveyorbeltsushi;60
 convy;30;Game show host Bert Convy
 cony;20;Variant of coney, rabbit fur
 conyers;40;John Conyers, longest serving black Congressman
@@ -9904,6 +9932,7 @@ corfu;20;Greek island
 cori;30;Congresswoman Bush
 corian;30;DuPont countertop material
 corinna;20
+corinne;40;???
 corkage;50
 corkscrewslide;50
 corkscrewslides;50
@@ -9962,6 +9991,8 @@ cortina;30
 cortisones;40;Bad plural?
 corvee;20
 corvees;20
+corymb;30;Flower cluster
+corymbs;30
 cos;40
 cosa;40
 cosas;40
@@ -10747,6 +10778,7 @@ curseofexpertise;60
 curseofknowledge;60
 curtainbangs;60
 curtest;30
+curtesy;30;Law term, see dower
 curveball;50
 curveballs;50
 curvet;30
@@ -13002,6 +13034,7 @@ dovish;40;Opposite of hawkish
 dow;40
 dowdy;50
 doweling;30
+dower;30;Law term, see curtesy
 dowhatnow;60
 downanddirty;60
 downgoesfrazier;60
@@ -13573,6 +13606,8 @@ duncecap;60
 duncecaps;50
 duncescap;60
 dundalk;20;Maryland/Ireland town
+dunepartone;50
+duneparttwo;50
 dung;30
 dunkedon;40
 dunkingon;40
@@ -14307,8 +14342,8 @@ eleatics;30
 eleazar;30;High priest in the bible, nephew of Moses
 elec;40
 electedto;40
-electee;40
-electees;40
+electee;50
+electees;50
 electingto;40
 electionseason;50
 electionseasons;50
@@ -14521,6 +14556,7 @@ emigree;30;Variant spelling?
 emil;30;1920s actor Emil Jannings, Soviet pianist Emil Gilels
 emile;40
 emiles;20;Plural name
+emiliaperez;50;2024 Oscar-winning movie
 emilie;40;Actress Emilie de Ravin from "Lost", or Voltaire's love
 emilys;30
 eminem;50
@@ -15059,7 +15095,7 @@ eritrean;40
 eritreans;40
 erivo;30;Actress Cynthia
 erl;20
-erle;30
+erle;40
 erlking;40
 erm;40
 erma;40
@@ -15859,6 +15895,7 @@ fairbanksak;30
 fairbanksalaska;50
 fairdeal;50
 fairdeals;50
+fairgame;60
 fairish;30
 fairmaiden;50
 fairpoint;60
@@ -17245,6 +17282,9 @@ formerlives;50
 formerpresident;50
 formers;30
 formic;40
+formicaria;50
+formicarium;50;Ant farm
+formicariums;50
 fornaught;50
 fornicate;50
 fornicated;50
@@ -17836,7 +17876,9 @@ gamuts;40;Bad plural
 gangbuster;50
 gangedupon;50
 gangingupon;50
+gangstarap;60
 gangster;50
+gangsterrap;60
 gangsters;50
 gangsupon;50
 gangupon;50
@@ -20712,6 +20754,8 @@ heapson;40
 hearer;40
 hearers;40
 hearing;50
+hearingaid;50
+hearingaids;50
 hearings;50
 hearkenedto;40
 hearkeningto;40
@@ -21705,6 +21749,8 @@ hornin;40
 horningin;40
 horninginon;40
 horninon;40
+hornist;40
+hornists;40
 hornsin;40
 hornsinon;40
 hornswoggle;60
@@ -22296,7 +22342,7 @@ icunurses;50
 icy;50
 icysea;30;Arctic Ocean, on old maps
 id;50
-ida;50
+ida;40
 idabble;60
 idahoan;40
 idahoans;40
@@ -22704,6 +22750,7 @@ imallout;60
 imam;50
 imamac;50
 imamate;40;???
+imamazed;60
 imamess;50
 imamonster;60
 imamoron;60;Forehead-slapping exclamation
@@ -23234,6 +23281,7 @@ ingoing;40
 ingres;30;Neoclassical painter Jean-Auguste-Dominique Ingres
 inhaul;40;Rope used to pull in a ship's sail
 inhd;40
+inheaven;60
 inheels;50
 inhere;50;"In here!"
 inhered;40
@@ -23480,6 +23528,7 @@ inthatcase;50
 intheairtonight;60
 inthealley;50;???
 inthealtogether;60
+inthecan;60
 inthecloud;60
 inthefold;50
 intheghetto;50;Elvis song
@@ -23644,7 +23693,7 @@ iqscore;50
 iqscores;50
 iqtesting;30
 ira;50
-iraallen;50;Founder of Vermont, brother of Ethan Allen
+iraallen;40;Founder of Vermont, brother of Ethan Allen
 irabu;40;Pitcher Hideki Irabu, first Japanese-born player to win a World Series (won 1998 & 1999 w/Yankees)
 irade;20;Muslim decree
 irades;20;Muslim decrees
@@ -24217,6 +24266,7 @@ iwo;40
 iwojima;50
 iwokeuplikethis;60
 iwon;50
+iwoniwon;60
 iwontlie;60
 iwoodpinefiryew;1
 iwouldeatyoualive;60
@@ -24558,6 +24608,8 @@ jinking;30
 jinks;30
 jinn;40;Djinn
 jinni;20;Genie
+jipijapa;40;Plant used to make Panama hats
+jipijapas;40
 jiro;40;"Jiro Dreams of Sushi"
 jitney;30;Small bus, or old slang for a nickel
 jitneys;30
@@ -25095,7 +25147,7 @@ keyholesaw;50
 keyholesaws;50
 keylargo;50
 keyless;50
-keylimepie;50
+keylimepie;60
 keyon;30
 keyparty;60
 keyplayer;50
@@ -26548,6 +26600,7 @@ ler;20
 lerners;20
 leroidys;30;???
 leroisoleil;50
+lerouge;20
 leroys;30;Plural name
 les;50;Name or article
 lesage;30;Alain-René Lesage, French novelist in 1700s
@@ -26678,9 +26731,9 @@ letts;20
 lettuce;50
 letups;30
 leu;20
-leucoma;40;Eye condition
+leucoma;30;Eye condition
 leucotomy;30;Lobotomy
-leukoma;40;Eye condition
+leukoma;30;Eye condition
 lev;20
 levator;30;Muscle that raises a body part
 levators;30
@@ -27632,6 +27685,7 @@ loudnesswar;60
 loudout;1
 loudreport;50
 loudreports;50
+louies;40;Lieutenants
 louisan;40;St. Louisan
 louisck;5
 louisdaguerre;50
@@ -28023,6 +28077,7 @@ machu;40
 macle;20;Twin crystal
 maclean;40;Who???
 macles;20;Twin crystals
+macnee;40;Patrick Macnee from "The Avengers" TV series
 maconga;30;???
 macosx;30
 macrae;30;Gordon MacRae of "Oklahoma!" or Elizabeth MacRae of "The Conversation"
@@ -28135,8 +28190,12 @@ maggoty;40
 magicact;60
 magicacts;60
 magical;50
+magicallydelicious;60
+magicalrealism;60
+magicalrealist;60
+magicalrealists;50
 magicalthinking;60
-magicbean;50;Meh singular
+magicbean;60
 magicbeans;60
 magicbus;50
 magician;50
@@ -30678,6 +30737,7 @@ murderinc;50
 murderone;50
 muriate;20;Chloride, archaic
 murine;20;Relating to rodents
+murines;20
 murrain;20;Plague: archaic
 murrains;20;Plagues: archaic
 mus;20
@@ -31326,6 +31386,8 @@ nervecells;50
 nervegas;40
 nervegases;40
 nervewracking;60
+nervine;30;Nerve tonic
+nervines;30
 nervoustic;60
 nervoustics;60
 nes;40
@@ -32906,6 +32968,7 @@ ohyourebad;60
 ohyousweetsummerchild;60
 oid;30;Suffix [occasional]
 oie;20
+oikos;40;Greek yogurt brand
 oil;50
 oilandgasworker;50
 oilandgasworkers;50
@@ -33645,6 +33708,8 @@ openest;30
 openfire;50
 openfireon;40
 opengrill;50
+openingbid;50
+openingbids;50
 openingfire;50
 openingfireon;40
 openinginon;40
@@ -34641,6 +34706,8 @@ pannedinon;40
 panningforgold;50
 panninginon;40
 panocha;20;Southwestern pudding
+panopticon;60;Circular prison design with a central guard tower
+panopticons;60
 panoramiccamera;50
 pansforgold;50
 pansinon;40
@@ -34774,6 +34841,7 @@ parietals;30
 paripassu;30;"Equal footing" in contract law
 parishpump;50
 parisology;50;Use of ambiguous words (no relation to the city)
+paristexas;60
 parkerposey;50
 parle;40
 parliamentaryterm;50
@@ -35022,11 +35090,15 @@ pawat;40
 pawedat;40
 pawingat;40
 pawl;20;Ratchet part
+pawnavalanche;60;Chess tactic
+pawnavalanches;60
 pawnbroker;50
 pawnbrokers;50
 pawnshop;50
 pawnshops;50
 pawnstars;60
+pawnstorm;60;Chess tactic
+pawnstorms;60
 pawpaw;50
 pawprint;50
 pawprints;50
@@ -35328,6 +35400,7 @@ penate;20;Roman household god
 penates;20
 pencap;50
 pencillead;50
+pencilmein;60
 pencilmustaches;50
 pendent;40;Dangling, drooping -- or pending
 pendents;20;Variant spelling of pendants
@@ -36425,6 +36498,8 @@ ply;50
 pm;40
 pmdawn;40;'90s hip hop group P.M. Dawn
 pms;40;Prime ministers
+pmsed;40
+pmsing;40
 pnc;20
 pneuma;30;Vital spirit, soul, or creative force of a person
 pneumas;30
@@ -37680,6 +37755,7 @@ punnumbers;50
 punta;40;Various towns, Punta Cana
 puntedon;40
 puntingon;40
+punto;40
 punton;40
 puntson;40
 pup;50
@@ -37747,6 +37823,7 @@ putahexon;50
 putalidonit;60
 putapininit;60
 putbuttsinseats;60
+putby;40;???
 putdowninwords;50
 putdowninwriting;50
 putdownonpaper;50
@@ -38031,8 +38108,9 @@ racedto;40
 racefan;30
 racefans;30
 raceinto;40
-raceme;20;Type of flower
-racemes;20;Type of flower
+raceme;30;Flower cluster
+racemes;30
+racemose;30;Botany word
 racesby;40
 racesinto;40
 racesto;40
@@ -38042,6 +38120,7 @@ racewar;50
 racewars;50
 rachels;30
 rachetesup;1
+rachitic;30;Afflicted by rickets
 rachitis;30;Rickets
 racine;40;Jean Racine, 17th century French dramatist, well-regarded
 racingbikes;50
@@ -38057,24 +38136,24 @@ racoon;20
 racoons;20
 rad;50
 radames;20;Aida's lover
-radarblip;50
-radarblips;50
-radardetector;50
-radardetectors;50
+radarblip;60
+radarblips;60
+radardetector;60
+radardetectors;60
 radardish;50
 radardishes;50
-radargun;50
-radarguns;50
-radartrap;50
-radartraps;50
+radargun;60
+radarguns;60
+radartrap;60
+radartraps;60
 radcap;20
 raddle;20
 raddled;30;Unkempt, aged
 raddles;20
 raddling;20
 radiation;50
-radiationbelt;50
-radiationbelts;50
+radiationbelt;60
+radiationbelts;60
 radiations;30
 radiationshield;50
 radiationshields;50
@@ -41168,7 +41247,9 @@ russolo;20;Italian painter/composer
 russula;20;Mushroom
 rustheap;60
 rustheaps;60
+rustic;50
 rusticbread;50
+rustics;40;Plural?
 rustred;20
 rut;50
 rutalee;30
@@ -42115,6 +42196,7 @@ screwthepooch;60
 screwthis;60
 screwup;50
 screwups;50
+scriabin;40;Russian composer Alexander Scriabin (1872-1915)
 scried;40
 scries;40
 scripto;40;Pencil brand
@@ -43213,6 +43295,7 @@ shiftinto;40
 shiftsinto;40
 shikari;20;India tribe
 shikaris;20;India tribe
+shikoku;40;Smallest of Japan's four main islands
 shimoda;20;Japanese city
 shindig;60
 shindigs;50
@@ -47185,6 +47268,8 @@ sushichef;60
 sushichefs;60
 sushijoint;60
 sushijoints;60
+sushitrain;60
+sushitrains;60
 suspenddisbelief;60
 suspendeddisbelief;60
 suspendingdisbelief;60
@@ -47503,6 +47588,8 @@ taconic;30;Appalachian sub-range
 taconite;20;Iron ore
 tacopie;30
 tacopies;30
+tacostand;60
+tacostands;60
 tacotown;50;???
 tacotruck;50
 tacotrucks;50
@@ -47985,8 +48072,10 @@ tasteof;40
 tasteok;40
 tastesof;40
 tastesok;40
+tastetest;60
 tastetester;60
 tastetesters;60
+tastetests;60
 tastingof;40
 tastingroom;50
 tastingrooms;50
@@ -48064,6 +48153,7 @@ taylorsversions;60
 taymor;40;Director Julie Taymor of "Across the Universe" and "Frida"
 taytay;50;Taylor Swift nickname
 taz;40
+tazo;40;Tea brand
 tba;40
 tballgame;50
 tballgames;50
@@ -48665,7 +48755,7 @@ thatdogdonthunt;60
 thatdogwonthunt;60
 thatgood;60
 thatisadillyofapickle;60
-thatisalie;60
+thatisalie;50
 thatisarightpickle;60
 thatisquiteapickle;60
 thatissonotokay;60
@@ -48850,6 +48940,7 @@ thebrewers;40
 thebrocode;40
 thebrow;20
 thebrownbomber;50;Nickname for boxer Joe Louis
+thebrutalist;60;Movie
 thebuddha;50
 thebulls;40
 theburbs;50
@@ -49178,11 +49269,13 @@ theolds;60
 theoldvic;40
 theolheaveho;60
 theonetobeat;60
+theonset;40;Frost poem
 theopen;1
 theopenera;40
 theopera;40
 theos;40;The Orioles
 theoscars;40
+theoval;50;Tyler Perry series set in the White House
 theoverlookhotel;60;From "The Shining"
 theozonelayer;40
 thepacers;40
@@ -49343,6 +49436,7 @@ thesticks;60
 thestilt;50;Wilt Chamberlain's nickname
 thestoneage;40
 thestones;50
+thesubstance;60;Demi Moore movie
 thesuezcanal;40
 thesun;50;Tarot card
 thesuzukimethod;40
@@ -49375,6 +49469,7 @@ thetimeisnow;60
 thetimemachine;50
 thetimes;50
 thetimetravelerswife;50
+thetingrin;20;???
 thetinman;30
 thetis;20;Mother of Achilles
 thetokyodome;20
@@ -49576,6 +49671,8 @@ thneedville;60
 tho;40
 thole;20
 tholed;20
+tholepin;30;Oar holder
+tholepins;30
 tholes;20
 tholing;20
 thom;50
@@ -49636,6 +49733,7 @@ threnodies;40
 threnody;40;Hymn for the dead
 threonine;30;Essential amino acid
 threwascareinto;50
+threwat;40
 threwatantrum;50
 threwdarts;50
 threwforaloop;60
@@ -49657,11 +49755,13 @@ throe;40;Usually plural
 throstle;30;Song thrush, or wool spinning machine
 throstles;30
 throwascareinto;50
+throwat;40
 throwatantrum;50
 throwdarts;50
 throwforaloop;60
 throwgames;20;???
 throwingascareinto;50
+throwingat;40
 throwingatantrum;50
 throwingdarts;50
 throwingforaloop;60
@@ -49671,10 +49771,12 @@ throwingto;40
 throwingunderthebus;60
 throwinthediscardpile;50
 throwitinthediscardpile;60
+thrownat;40
 thrownforaloop;60
 throwninthediscardpile;50
 thrownunderthebus;60
 throwsascareinto;50
+throwsat;40
 throwsatantrum;50
 throwsdarts;50
 throwsdownadunk;50
@@ -49953,6 +50055,7 @@ tinetest;30
 ting;40
 tinga;30;Mexican chicken dish
 tingaling;50
+tingrin;60
 tings;40
 tinhat;40
 tinhats;40
@@ -53138,6 +53241,7 @@ wanglers;30
 wangles;30
 wangling;30
 wannago;60
+wannatrade;60
 wannatry;60
 wanner;40
 wannest;40
@@ -54755,6 +54859,7 @@ yaketysax;60
 yaketyyak;60
 yakima;30;Washington tribe
 yakimas;30;Washington tribe
+yakov;40;Yakov Smirnoff
 yakutsk;40;Russian city
 yalealum;40
 yalealums;40
@@ -55348,6 +55453,7 @@ zonksout;60
 zonule;30;Eye part
 zonules;30
 zoo;50
+zoodles;60;Zucchini noodles
 zooid;40;Single animal that's part of a colonial animal, e.g. coral
 zooids;40
 zoombomb;60
@@ -55382,6 +55488,8 @@ zsnap;50
 zsnaps;50
 ztile;30
 ztiles;30
+zucchininoodle;60
+zucchininoodles;60
 zuider;20
 zulema;30
 zulucoconut;50;Mardis Gras "throw"
