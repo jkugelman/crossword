@@ -671,6 +671,7 @@ adjuststo;40
 adjustto;40
 adl;20
 adlai;40
+adler;40;Sherlock Holmes's Irene Adler
 adlibber;50
 adlibbers;50
 adlibs;50
@@ -3557,6 +3558,7 @@ aurae;30
 auralea;30;Civil War song "Aura Lea"
 auralee;40;Civil War song "Aura Lee" or designer brand
 aureate;20;Highly ornamented
+aurelia;40;Name meaning "golden"
 aureole;30
 aureoles;30
 auric;30
@@ -4350,6 +4352,8 @@ bashin;40
 bashingin;40
 bashtag;50
 bashtags;50
+basictruth;60
+basictruths;60
 basilar;30;???
 basilisk;60
 basilisks;60
@@ -6301,6 +6305,7 @@ brazening;40
 brazenly;50
 brazenness;50
 brazens;40
+brazzi;40;Rossano Brazzi, star of "South Pacific" (1958)
 brb;40
 brea;40
 breakbread;60
@@ -7619,7 +7624,12 @@ carraces;30
 carracing;30
 carriagepainter;1
 carrions;30
-carrottop;50
+carrotcake;60
+carrotcakes;50
+carrotnose;60
+carrotnoses;60
+carrottop;60
+carrottops;60
 carroty;40
 carryonitem;50
 carryonitems;50
@@ -17364,7 +17374,7 @@ foxcub;50
 foxcubs;50
 foxinsocks;60;Dr. Seuss book
 foxtrot;50
-foy;40;Actress Claire Foy
+foy;40;Actress Claire Foy, QEII on "The Crown"
 foyt;40;Four-time Indy 500 winner A. J. Foyt
 fpa;20
 fpaper;1
@@ -23051,7 +23061,7 @@ inaprettypickle;60
 inarabic;30
 inarightpickle;60
 inarmor;40
-inarug;40;Snug as a bug...
+inarug;30;Snug as a bug...
 inarush;50
 inashell;30
 inashoe;20
@@ -27383,6 +27393,8 @@ loew;20
 loews;30;Defunct theater chain
 lofat;30
 lofi;50
+lofihiphop;60
+lofimusic;60
 lofter;30
 log;50
 logans;40;"Logan's Run"
@@ -27966,6 +27978,7 @@ luton;20;English town
 luv;40
 lux;40
 luxes;30;Units of illumination
+luxojr;60;Pixar's first short and mascot
 luxurybox;50
 luxuryboxes;50
 luxuryboxseat;50
@@ -30121,6 +30134,7 @@ moeszyslak;50;Springfield bartender
 moet;40;Champagne
 mofongo;30;Puerto Rican plantain dish
 mog;20
+mogambo;40;Clark Gable / Ava Gardner epic (1953)
 mohairsuit;50
 mohairsuits;50
 mohave;40
@@ -40882,6 +40896,7 @@ rosina;40;???
 rosinante;30;Broken-down horse, after Don Quixote's horse Rocinante
 rosinbag;50
 rosinbags;50
+rossano;40;Rossano Brazzi, star of "South Pacific" (1958)
 rossi;40;Martini & Rossi wine
 rostand;30;Edmond Rostand, "Cyrano de Bergerac" playwright
 rosten;30;Humorist Leo Rosten
@@ -46928,6 +46943,7 @@ subwaysandwichartist;60
 subwaysandwichartists;60
 succorer;30
 succour;30;???
+suchet;40;Actor David Suchet, Poirot portrayer
 sucka;40
 suckedinto;50
 suckedout;60
