@@ -553,6 +553,7 @@ acutabove;60
 acuter;40;More acute is significantly more common
 acutes;30
 acutest;40;Most acute is significantly more common
+acuvue;40;Contact lens brand
 acv;20
 acyrologia;20;Malapropism
 ad;50
@@ -7930,7 +7931,7 @@ cbhandle;50
 cbhandles;50
 cbradio;50
 cbradios;50
-cbs;40
+cbs;50
 cbslogo;50
 cbstv;20
 cbt;1
@@ -8570,6 +8571,7 @@ chirrups;40
 chis;40
 chisholm;40;Shirley Chisholm, first black woman elected to Congress
 chisinau;30
+chita;40;Broadway actress Chita Rivera (1933-2024)
 chiton;20;Ancient Greek tunic
 chiwere;30;Siouxan language
 chloric;40
@@ -8703,8 +8705,10 @@ chromed;40
 chromedome;60
 chromedomes;50
 chromo;40
+chromos;20;Colored pictures, last used 1966
 chronicallyonline;60
 chrono;40
+chronos;40;Greek personification of time
 chthonian;40
 chu;40
 chuckedinthediscardpile;50
@@ -11810,6 +11814,7 @@ derniercri;40;The newest fashion, "dernier cri"
 derpy;60
 derris;30;???
 derrises;30;???
+derulo;40;Singer Jason Derulo
 des;40
 desales;30
 desalt;30
@@ -15259,7 +15264,7 @@ espials;30;Sightings
 espiocracy;30
 espiocrat;30;Professional spy
 espiocrats;30
-espn;40
+espn;50
 espnradio;50
 espnthemagazine;50
 espnu;40
@@ -16627,6 +16632,7 @@ firedashot;50
 firedat;40
 firedepartment;50
 firedepartments;50
+firedon;40
 firedonallcylinders;60
 firedupon;40
 fireemoji;60
@@ -16652,6 +16658,7 @@ firemansred;1
 firemario;60
 firemarshal;50
 firemen;50
+fireon;40
 fireonallcylinders;60
 fireplug;50
 firesalamander;50
@@ -16661,6 +16668,7 @@ firesales;50
 firesashot;50
 firesat;40
 fireseason;50
+fireson;40
 firesonallcylinders;60
 firesupon;40
 firetruck;50
@@ -16668,6 +16676,7 @@ firetrucks;50
 fireupon;40
 firingashot;50
 firingat;40
+firingon;40
 firingonallcylinders;60
 firings;30
 firingupon;40
@@ -17371,6 +17380,7 @@ fountaindrink;50
 fountaindrinks;50
 founts;50
 fouram;40
+fourbars;50;Good signal
 fourdayworkweek;60
 fourhclubs;30
 fourhleader;20
@@ -20692,7 +20702,7 @@ hbcu;30;Historically black colleges and universities
 hbcus;30
 hbeam;30
 hbeams;30
-hbo;40
+hbo;50
 hbomax;30;Now just "Max"
 hbomb;30
 hbombs;30
@@ -21056,6 +21066,7 @@ hereboy;60
 heregirl;60
 hereitis;50
 hereminence;50
+herenow;40
 hereof;30
 heresanidea;60
 heresatip;60
@@ -22268,10 +22279,13 @@ icc;20
 ice;50
 icearena;40
 icearenas;40
+icebar;60
+icebars;60
 icebelt;30
 icebreakergame;60
 icebreakergames;60
 icebreaking;50
+icebucketchallenge;60
 icecapped;50
 icecold;50
 icecoldbeerhere;60
@@ -23083,6 +23097,7 @@ inaprettypickle;60
 inarabic;30
 inarightpickle;60
 inarmor;40
+inarms;40
 inarug;30;Snug as a bug...
 inarush;50
 inashell;30
@@ -24058,7 +24073,7 @@ itmakesyouthink;60
 itme;60;Slang
 itmeansalottome;60
 itn;20
-ito;40;Judge Lance Ito or skater Ito Midori
+ito;40;Skater Midori Ito or Judge Lance Ito
 itoldya;60
 itonya;30
 itoo;40;Langston Hughes poem
@@ -24959,6 +24974,7 @@ karatetests;50
 karel;40;Playwright Karel Capek who wrote "R.U.R."
 karelia;30;Russian region
 karenin;40;Anna Karenina's husband, Alexei Karenin
+kareno;40;Karen O, vocalist of the band "Yeah Yeah Yeahs"
 karens;40
 karensilkwood;50
 karina;40;Who??? Korean singer?
@@ -28777,6 +28793,7 @@ marinateinbrine;1
 marineone;50
 marinerscompass;50
 marinetwo;50
+marino;40;Quarterback Dan Marino
 mariobatali;5;Sexual assault
 mariobros;60
 mariokart;60
@@ -29490,6 +29507,7 @@ mergeswith;40
 mergewith;40
 mergingwith;40
 meridia;30;Discontinued weight loss drug
+merinos;40;Plural?
 meristem;30;Plant tissue
 meristematic;30
 meritbadge;60
@@ -29687,6 +29705,7 @@ midiskirt;50
 midiskirts;50
 midmost;30
 midol;40
+midori;40;Figure staker Midori Ito
 midstride;50
 midsummer;50
 midtempo;50
@@ -30364,6 +30383,7 @@ moreau;40;Artist Gustave Moreau
 morecowbell;60
 moreen;20;Fabric
 moremore;20
+moreno;40;Actress Rita Moreno
 moreorless;50
 morepay;30
 morethanalittle;60
@@ -31214,7 +31234,7 @@ nbarings;50
 nbastar;40
 nbastars;40
 nbasummerleague;50
-nbc;40
+nbc;50
 nbclogo;50
 nbcsports;50
 nbctv;30
@@ -33379,7 +33399,7 @@ oneatatime;60
 onebagger;50
 onebaggers;50
 oneball;30
-onebar;40;Bad signal, or lieutenant's insignia
+onebar;50;Bad signal, or lieutenant's insignia
 onebase;1
 onebasehit;20
 onebc;40
@@ -33388,7 +33408,7 @@ onebetter;1
 onebit;40
 onecall;30
 onecalorie;30
-onecar;40;Like a small garage
+onecar;50;Like a small garage
 onecarat;30
 onecase;20
 onecent;50;What's printed on the penny
@@ -34874,6 +34894,7 @@ paresis;40;Muscular weakness
 paresthesia;20;Pins and needles
 paresthesias;20;Pins and needles, plurally
 paretic;30;Person suffering from partial paralysis
+pareto;40
 pareve;30;Jewish dietary classification (no meat or dairy)
 parfive;50
 parfives;50
@@ -49768,7 +49789,9 @@ threadier;30
 threadiest;30
 thready;30
 threeam;40
+threebars;50;Decent signal
 threebears;50
+threecar;50
 threecentpiece;50
 threecentpieces;50
 threeiron;40
@@ -51691,6 +51714,8 @@ twoacts;1
 twoam;40
 twobagger;50
 twobaggers;50
+twobars;50;OK signal
+twocar;50
 twocents;50
 twodashes;30
 twoem;20
@@ -52257,6 +52282,7 @@ upfor;40
 upi;40
 upice;20;Czech town
 upinarms;60
+upjohn;30;Defunct pharmaceutical company
 upn;20
 upness;30
 uponesgame;60
@@ -53591,6 +53617,8 @@ webers;30;Plural name
 webfooted;50
 webfootedgecko;50
 webfootedgeckos;50
+webinar;60
+webinars;60
 weblink;30
 weblog;50
 weblogs;50
@@ -55358,6 +55386,7 @@ za;40
 zabars;40;Famous NYC deli
 zac;50
 zack;50
+zadora;40;Actress Pia Zadora
 zag;50
 zagatrated;50
 zahn;40
