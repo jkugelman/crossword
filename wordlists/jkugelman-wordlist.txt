@@ -1241,6 +1241,8 @@ akio;30;Sony founder Akio Morita
 akon;40;Grammy-nominated singer
 akronoh;30
 aku;20
+akvavit;30;Scandinavian liquor also spelled aquavit
+akvavits;30
 al;50
 ala;50
 alabama;50
@@ -1333,6 +1335,7 @@ alecost;20
 alecto;40;One of the three Furies [occasional]
 alee;40
 alegup;40
+aleichem;40;Hebrew greeting "shalom aleichem"
 aleister;50
 aleistercrowley;60
 alek;40
@@ -2540,9 +2543,9 @@ aquas;40
 aquateen;50
 aquateens;50
 aquatint;30;Printmaking technique
-aquavit;40;Scandinavian drink
+aquavit;40;Scandanavian liquor
 aquavitae;40
-aquavits;30
+aquavits;40
 aquiline;40;Of a nose, hooked like an eagle's beak
 ara;20
 arabist;30;Mideast expert
@@ -2923,6 +2926,7 @@ artgalleries;50
 artgallery;50
 arthorror;60
 arthousehorror;60
+articlevi;40
 articular;40;Relating to a joint
 arties;30
 artieshaw;50
@@ -3499,6 +3503,7 @@ auctionhouses;50
 auctorial;30;Relating to an author
 aud;20
 auden;40;Poet W. H. Auden, notable
+audie;40;NPR's Audie Cornish
 audiofeed;50
 audiofeeds;50
 audioformat;50
@@ -3520,8 +3525,8 @@ auditreports;50
 auditsaclass;50
 audittrail;50
 audittrails;50
-audra;30;Audra McDonald of Broadway
-audre;30;Feminist author Audre Lorde
+audra;40;Audra McDonald of Broadway
+audre;40;Feminist author Audre Lorde
 audubonsociety;50
 aue;20
 auel;30;"The Clan of the Cave Bear" author Jean
@@ -3530,6 +3535,7 @@ auerbach;40;Dan Auerbach of The Black Keys, or German scholar Erich Auerbach
 auf;20
 aug;40
 augeanstables;50;Place that is dirty or full of corruption
+augie;40;Saul Bellow's "The Adventures of Augie March", or Augie Doggie of old cartoons
 augmentedfifth;50
 augmentedfifths;50
 augmentedfourth;50
@@ -10733,6 +10739,7 @@ cukes;30
 cukor;40;George Cukor, director of "My Fair Lady", "The Philadelphia Story", "A Star is Born"
 cul;40
 culets;20
+culp;30;Robert Culp of "I Spy"
 culthero;50
 cultheroes;50
 culthit;50
@@ -17346,6 +17353,7 @@ fortknox;50
 fortmchenry;50
 fortord;30;Closed US Army post
 fortsumter;50
+fortunateson;60
 fortunehunter;60
 fortunehunters;60
 fortunemagazine;50
@@ -18925,8 +18933,8 @@ goated;60
 goatfarmer;50
 goatfarmers;50
 goatish;30
-goatrodeo;50
-goatrodeos;50
+goatrodeo;60;Fiasco, dumpster fire
+goatrodeos;60
 goatsucker;60;Chupacabra
 goawry;50
 gob;50
@@ -23278,9 +23286,9 @@ ineedtogo;60
 ineedtowarnyou;60
 inertgas;50
 inerts;20
-ines;30
+ines;40
 inessastre;40;Spanish actress Inés Sastre
-inesse;30;Actually existing
+inesse;40;Actually existing
 ineurope;30
 inever;50
 inevercantell;60
@@ -24970,6 +24978,7 @@ kara;40;Not sure who's notable... Supergirl
 karaite;30;Non-Rabbinic Jew
 karaites;30
 karakoram;40;K2's mountain range
+karakul;20;Asian sheep
 karan;40;Donna Karan of DKNY
 karasea;40
 karate;50
@@ -29455,6 +29464,7 @@ memphistn;30
 men;50
 mena;40
 menacetosociety;60
+menachem;40;Israeli PM Menachem Begin
 mender;40
 menders;40
 menelaus;30
@@ -30039,8 +30049,10 @@ mlbhalloffamers;50
 mlbhomerunderby;50
 mlbmvp;40
 mlbmvps;40
+mlbump;40
 mlbumpire;50
 mlbumpires;50
+mlbumps;40
 mli;20
 mlii;20
 mliii;20
@@ -30852,6 +30864,7 @@ musket;50
 musketeer;50
 musketeers;50
 muskie;40;Edmund Muskie, Carter's Secretary of State
+muskroot;40;Oil-producing flower
 mussina;40;Pitcher Mike Mussina
 musta;40
 musthave;60
@@ -31082,6 +31095,9 @@ narcedon;40
 narcingon;40
 narcon;40
 narcson;40
+nard;20
+nardin;20
+nards;20
 narghile;30;Hookah
 narghiles;30
 narita;40;Tokyo airport
@@ -31135,6 +31151,7 @@ natatoria;40
 natatorial;30
 natatorium;40
 natatory;30
+natchez;40;First capital of Mississippi
 natebargatze;50
 natgeowild;50
 nathanhale;50
@@ -43210,6 +43227,7 @@ shako;30;Military cap
 shakos;30
 shakti;20
 shalamar;40;Old R&B group
+shalomaleichem;60;Hebrew greeting
 shameon;20
 shameplant;60;Plant also known as the touch-me-not
 shamer;30
@@ -44491,6 +44509,7 @@ slowdance;50
 slowdanced;50
 slowdances;50
 slowdancing;50
+slowfashion;60
 slowgrind;50
 slowgrinds;50
 slowloris;50;Cute nocturnal mammal
@@ -45555,6 +45574,7 @@ spies;50
 spieson;40
 spikelee;50
 spikelet;30
+spikenard;40;Oil mentioned in the New Testament
 spikyhair;50
 spile;20;Fit with a spigot
 spiled;20;Fitted with a spigot
@@ -50860,7 +50880,7 @@ trach;40;Tracheotomy
 trachcompactors;1
 trache;20
 tracheae;40
-tracheas;30
+tracheas;40
 trachoma;30;Eye disease
 tracingto;40
 trackage;20;Railway lines
@@ -51627,8 +51647,8 @@ tvactor;50
 tvactors;50
 tvad;40
 tvads;40
-tvanchor;30
-tvanchors;30
+tvanchor;40
+tvanchors;40
 tvapp;30
 tvepisode;50
 tvepisodes;50
@@ -53199,10 +53219,14 @@ vye;20
 vyingfor;40
 w;40
 wa;40
-wac;20
+waac;30
+waacs;30
+waah;30
+wac;30
 wack;30
 wackadoodle;60
 wacotx;30
+wacs;30
 wad;50
 wadedin;40
 wadedinto;40
