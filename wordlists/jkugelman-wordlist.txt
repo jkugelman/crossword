@@ -846,6 +846,8 @@ aestivate;30
 af;40
 afaik;30
 afarcry;50
+afatlot;50
+afatlotofgood;60
 afb;20
 afc;20
 afceast;40
@@ -5987,6 +5989,7 @@ bookworm;60
 bookworms;60
 boola;20;Part of a Yale cheer
 boolaboola;30;Yale cheer
+boole;40
 boomer;60
 boomers;60
 boomin;40;Metro Boomin, influential hip-hop & trap music producer
@@ -10278,6 +10281,8 @@ craftshop;50
 craftshops;50
 craftvodka;50
 craftvodkas;50
+cragsman;40;Skilled rock climber
+cragsmen;40
 cramin;40
 crammedin;40
 crammingin;40
@@ -14977,7 +14982,7 @@ eoin;20;"Artemis Fowl" author ___ Colfer
 eolia;20
 eolian;30
 eolith;30
-eolithic;30
+eolithic;40;Early period of the Stone Age
 eoliths;30
 eon;50
 eos;40;Goddess of the dawn
@@ -16154,6 +16159,8 @@ fathersinlaw;50
 fatherstobe;50
 fathertime;60
 fathertobe;50
+fatlot;50
+fatlotofgood;60
 fatly;50
 fatshame;40
 fatshamed;40
@@ -17511,6 +17518,7 @@ freetoy;50
 freetoys;50
 freetrial;50
 freetrials;50
+freetv;30;Green paint
 freewaytoll;50
 freewaytolls;50
 freez;30;Tastee-Freez restaurant, practically defunct
@@ -19014,7 +19022,7 @@ goesinon;50
 goesinsane;50
 goesinto;40
 goesintolabor;50
-goesipo;50
+goesipo;40
 goeskaput;50
 goesmad;50
 goesmadfor;40
@@ -19112,7 +19120,7 @@ goinginon;50
 goinginpeace;50
 goinginsane;50
 goingintolabor;50
-goingipo;50
+goingipo;40
 goingkaput;50
 goingmad;50
 goingmadfor;40
@@ -19143,7 +19151,7 @@ goinon;50
 goinsane;50
 gointo;40
 gointolabor;50
-goipo;50
+goipo;40
 gokaput;50
 gol;20
 golan;40;Golan Heights in Israel
@@ -33150,9 +33158,12 @@ okthen;50
 oktober;50
 okurr;20
 ola;40;Greeting or suffix [extremely common]
+olafharaldsson;40;Saint Olaf
 olafi;30
 olafii;20
 olafiv;20
+olaftheholy;50
+olafthestout;50
 oland;20;Swedish island
 olaray;30
 olas;20
@@ -40207,6 +40218,7 @@ rexes;40
 rexha;40;Pop singer Bebe Rexha
 rexparade;50;Mardi Gras parade
 rexparades;50
+rexperpetuusnorvegiae;50;Title for Saint Olaf
 rey;40
 reyes;40
 reyna;30;Soccer player
@@ -41546,6 +41558,9 @@ sainte;30
 saintes;30
 sainthood;50
 sainthoods;50
+saintolaf;50
+saintolav;50
+saintolave;40
 sainttropez;50
 saintvitus;40
 saipan;30;Marianas island
@@ -41824,6 +41839,7 @@ sarcomas;30
 sarcomata;30
 sarcophagi;50
 sarcophagus;50
+sardou;30;French playwright Victorien Sardou, or singer Michel Sardou
 saree;20
 sarees;20
 sargon;20
@@ -46554,7 +46570,9 @@ stoke;50
 stoked;50
 stokers;30
 stokes;50
-stolav;30
+stolaf;40
+stolav;40
+stolave;30
 stole;50
 stoleakiss;60
 stolealook;50
@@ -48993,6 +49011,8 @@ theanimals;50
 theanimalwithin;50
 theape;40;1940 Boris Karloff movie
 theapeman;20
+thearchies;30
+thearchy;30;Divine sovereignty (theocracy)
 thearea;20
 thearia;20
 thearmy;20
@@ -53872,7 +53892,7 @@ wentinpeace;50
 wentinsane;50
 wentinto;40
 wentintolabor;50
-wentipo;50
+wentipo;40
 wentkaput;50
 wentmad;50
 wentmadfor;40
