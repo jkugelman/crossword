@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Finds two-word phrases where both words are synonyms of the words in another two-word phrase.
+# Example: canoodles = buttloads, automate = carpal
+
 from itertools import product
 from nltk.corpus import wordnet as wn
 from pprint import pprint
