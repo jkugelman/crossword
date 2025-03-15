@@ -2,6 +2,8 @@
 
 # Playing around with two-word phrases that can be turned into three-word phrases.
 
+import sys
+
 from merge import load_word_list
 from phrases import phrases as find_phrases
 
@@ -37,6 +39,13 @@ def print_phrases_with_spanners(words):
     """
     Prints two-word phrases with a hidden middle word.
     """
+    if len(sys.argv) != 3:
+        print(f"Usage: {sys.argv[0]} <min_span> <min_length>", file=sys.stderr)
+        sys.exit(1)
+
+    min_span = int(sys.argv[1])
+    min_length = int(sys.argv[2])
+
     for word in sorted(words):
         phrases = [tuple(phrase) for phrase in find_phrases(word, words)]
 
@@ -45,7 +54,7 @@ def print_phrases_with_spanners(words):
             continue
 
         for w1, w2 in p2s:
-            for spanner in hidden_spanners(words, w1, w2, 2, 4):
+            for spanner in hidden_spanners(words, w1, w2, min_span, min_length):
                 print(f"{w1} {spanner} {w2}", flush=True)
 
 def hidden_spanners(words, w1, w2, min_span, min_length):
