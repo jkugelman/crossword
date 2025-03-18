@@ -5459,6 +5459,7 @@ bk;40
 bks;20
 bkstacker;50
 bkstackers;50
+blac;30;Rapper Blac Chyna
 blackactivist;50
 blackactivists;50
 blackadder;50
@@ -8747,6 +8748,7 @@ churningout;50
 churnout;50
 churnsout;50
 chuted;30
+chyna;30
 ci;40
 cia;50
 ciaagent;50
@@ -10192,6 +10194,8 @@ coverfor;40
 coveringabeat;50
 coveringfor;40
 coverme;60
+covername;50
+covernames;50
 coversabeat;50
 coversfor;40
 coverslip;50
@@ -23617,9 +23621,13 @@ inthehouse;50
 inthehunt;50
 inthelurch;60
 inthepenaltybox;50
+intherightplaceattherighttime;60
+intherightplaceatthewrongtime;60
 intherough;50
 inthetank;60
 inthewash;50
+inthewrongplaceattherighttime;60
+inthewrongplaceatthewrongtime;60
 inthing;60
 intifada;30;Palestinian resistance movement
 intima;20
@@ -36321,6 +36329,7 @@ placer;30
 placers;30
 placesetting;50
 placesettings;50
+placesplease;60
 placetogo;20
 placoid;20;Toothlike, as fish scales
 plage;20;French beach
@@ -40447,6 +40456,10 @@ rightoh;30;???
 righton;60
 rightoutofcentralcasting;60
 rightpickle;60
+rightplaceattherighttime;60
+rightplaceatthewrongtime;60
+rightplacerighttime;60
+rightplacewrongtime;60
 righttobeararms;60
 righty;50
 rigmarole;50
@@ -54787,6 +54800,10 @@ writeto;40
 writinggroup;50
 writingto;40
 writteninthestars;60
+wrongplaceattherighttime;60
+wrongplaceatthewrongtime;60
+wrongplacerighttime;60
+wrongplacewrongtime;60
 wrongturn;50
 wrongturns;50
 wrongun;20
