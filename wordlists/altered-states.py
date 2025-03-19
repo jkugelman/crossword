@@ -48,7 +48,7 @@ def main():
             for word in words_by_length[length]:
                 for state in states:
                     if re.search(regexes[letter][state], word):
-                        print(f"{letter},{len(word)},{state},{word}", flush=True)
+                        print(f"{letter.upper()},{state},{word.upper()}", flush=True)
 
 if __name__ == '__main__':
     main()
