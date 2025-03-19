@@ -12,13 +12,12 @@ import sys
 from merge import load_word_list
 
 def main():
-    if len(sys.argv) != 4:
-        print(f"Usage: {sys.argv[0]} <meta> <min_length> <max_length>", file=sys.stderr)
+    if len(sys.argv) != 3:
+        print(f"Usage: {sys.argv[0]} <min_length> <max_length>", file=sys.stderr)
         sys.exit(1)
 
-    meta = sys.argv[1]
-    min_length = int(sys.argv[2])
-    max_length = int(sys.argv[3])
+    min_length = int(sys.argv[1])
+    max_length = int(sys.argv[2])
 
     words = load_word_list(min_score=40).words
 
@@ -34,7 +33,7 @@ def main():
 
     # Regexes by letter then state.
     regexes = {}
-    for letter in set(meta):
+    for letter in string.ascii_lowercase:
         regexes[letter] = {}
         for state in states:
             regexes[letter][state] = re.compile('|'.join(
@@ -44,7 +43,7 @@ def main():
             ))
 
     # Find entries.
-    for letter in meta:
+    for letter in string.ascii_lowercase:
         for length in range(min_length, max_length + 1):
             for word in words_by_length[length]:
                 for state in states:
