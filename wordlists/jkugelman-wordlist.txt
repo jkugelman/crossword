@@ -2462,6 +2462,8 @@ applepiesalamode;50
 applepress;50
 applepresses;50
 applepressing;50
+appleslicer;50
+appleslicers;50
 applesoda;50
 applesodas;50
 applestrudel;50
@@ -5054,6 +5056,7 @@ bestowson;50
 bestseller;50
 bestsellers;50
 bestupset;60;ESPY award
+besweeton;50
 bet;50
 betamale;40
 betamales;40
@@ -6262,6 +6265,7 @@ bqe;20
 bra;50
 bracero;30
 braceros;30
+brachiate;40
 bracketologist;60
 bracketologists;60
 bracketology;60
@@ -7183,6 +7187,7 @@ camefullcircle;60
 cameinfirst;50
 cameinlast;50
 cameinto;40
+cameintoplay;50
 camelcaravan;50
 camelcaravans;50
 camelcorps;50
@@ -7203,6 +7208,7 @@ cameoappearances;50
 cameonto;40
 cameoring;50
 cameorings;50
+cameoutahead;50
 cameouteven;50
 cameraangle;50
 cameraangles;50
@@ -9336,6 +9342,8 @@ cofactor;50
 cofactors;50
 coffeecart;50
 coffeecarts;50
+coffeemilk;50
+coffeemilks;50
 coffeemug;50
 coffeemugs;50
 coffeeortea;50
@@ -9544,7 +9552,9 @@ comegetsome;60
 comeinfirst;50
 comeinlast;50
 comeinto;40
+comeintoplay;50
 comelily;30;Weird adverb
+comeonalready;60
 comeondown;60
 comeonecomeall;60
 comeoneileen;60
@@ -9553,6 +9563,7 @@ comeonimeatinghere;60;"Gross!"
 comeonimtryingtoeat;60;"Gross"
 comeonletsbereal;60
 comeonto;40
+comeoutahead;50
 comeoutandplay;60
 comeouteven;50
 comeoutofonesshell;60
@@ -9569,7 +9580,10 @@ comesfullcircle;60
 comesinfirst;50
 comesinlast;50
 comesinto;40
+comesintoplay;50
 comesonto;40
+comesoutahead;50
+comesouteven;50
 comestobed;40
 comestoblows;50
 comestomind;50
@@ -9605,11 +9619,14 @@ comingfullcircle;60
 cominginfirst;50
 cominginlast;50
 cominginto;40
+comingintoplay;50
 comingle;20;Less common spelling
 comingled;20;Less common spelling
 comingles;20;Less common spelling
 comingling;20;Less common spelling
 comingonto;40
+comingoutahead;50
+comingouteven;50
 comingtobed;50
 comingtoblows;50
 comingtomind;50
@@ -9629,8 +9646,11 @@ commonarea;50
 commonareas;50
 commoncold;50
 commoncolds;40
+commondecency;50
 commonfolk;50
 commongood;50
+commonthread;50
+commonthreads;50
 communicationchannel;50
 communicationchannels;50
 communionwafer;50
@@ -11720,7 +11740,11 @@ delyouraccount;20
 dem;40
 demagog;20
 demagogs;20
+demandedrespect;50
 demander;30
+demandingrespect;50
+demandrespect;50
+demandsrespect;50
 demarest;20;NJ town, unremarkable actor
 dementor;50
 dementors;50
@@ -12836,6 +12860,8 @@ dominanthands;50
 dominantseven;50
 dominie;20;Clergyman
 dominies;20;Clergyman
+dominoeffect;60
+dominoeffects;50;Weird plural
 dominospizza;50
 domo;40
 don;50
@@ -12996,6 +13022,8 @@ dorp;20;Village
 dorrit;30;Dickens title character
 dorrits;20
 dorsa;20
+dorsalfin;50
+dorsalfins;50
 dorset;40;English county
 dorseys;30
 dorsi;40;Latissimus dorsi
@@ -14126,7 +14154,7 @@ edomite;30
 eds;40
 edsel;40
 edsels;40
-edsheeran;50
+edsheeran;60
 edt;40
 edtv;30
 edu;40
@@ -14198,6 +14226,7 @@ effacer;30
 effacers;30
 effecter;30
 effecters;30
+effective;50
 effector;30
 effectors;30
 effectuality;30
@@ -14537,6 +14566,8 @@ elven;50
 elver;30;Baby eel
 elvers;30;Baby eels
 elvin;40;NBA great Elvin Hayes
+elvira;60
+elviramistressofthedark;60
 ely;30;Ron Ely who played Tarzan
 elya;20
 elytron;20;Beetle part
@@ -14560,6 +14591,10 @@ embanked;30
 embanking;30
 embanks;30
 embarcadero;40
+embarkedon;40
+embarkingon;40
+embarkon;40
+embarkson;40
 embarrassmentofriches;60
 emboli;40
 embosser;40
@@ -15132,7 +15167,7 @@ ergotism;30;Ergot poisoning
 erhard;30;Ludwig Erhard, chancellor of West Germany 1936-66
 erhu;30;Chinese fiddle
 eri;20
-ericandre;50
+ericandre;60
 erich;40;Psychologist Erich Fromm, "All Quiet on the Western Front" author Erich Remarque
 ericidle;50
 ericiv;20
@@ -15592,6 +15627,7 @@ everysingletime;60
 everythingeverywhereallatonce;60
 everytomdickandharry;60
 evictor;30
+evidencebased;50
 evie;40
 evildead;60
 eviler;40;It's more evil
@@ -17487,6 +17523,7 @@ freakofnature;60
 freakouton;40
 freaksofnature;60
 freaksouton;40
+freddyvsjason;60
 frederickhandel;50
 fredericksanger;50
 frederickthegreat;50
@@ -18994,6 +19031,9 @@ goddess;60
 goddesses;60
 godeaf;50
 godelescherbach;60
+godhelpme;60
+godhelpus;60
+godhelpusall;60
 godim;30
 godisdead;60
 godlily;30;Weird adverb
@@ -19631,6 +19671,7 @@ grandee;30
 grandees;30
 grandfatherclock;50
 grandin;20;Animal rights activist Temple ___
+grandjete;50;Ballet movement
 grandjury;50
 grandprix;50
 grandprize;50
@@ -19842,6 +19883,7 @@ gripesat;40
 gripewater;50
 gripingat;40
 gris;30
+grisaille;40;Gray painting method
 grists;40;Plural? Verb?
 grizzlybearcub;50
 grizzlybearcubs;50
@@ -21198,6 +21240,7 @@ hexaflexagons;60
 hexagon;50
 hexagonal;50
 hexagons;50
+hexameter;40
 hexane;30
 hexanes;30
 hexapod;50
@@ -21481,6 +21524,7 @@ hm;50
 hmm;50;[How do I respond?]
 hmmisee;30
 hmmm;20
+hmmthatsweird;60
 hmo;40
 hmos;40
 hms;40
@@ -22733,6 +22777,7 @@ ilia;40;Pelvic bones
 iliac;40;Hip-related
 iliads;40;It's a valid noun, apparently
 ilich;30;Carlos the Jackal
+ilienastase;40;Tennis player Ilie Năstase
 ilium;40;Pelvis bone
 ilk;50
 ill;50
@@ -23319,6 +23364,7 @@ ineededthat;60
 ineedit;60
 ineedtogo;60
 ineedtowarnyou;60
+ineffective;50
 inertgas;50
 inerts;20
 ines;40
@@ -23884,6 +23930,9 @@ ironson;40
 irr;20
 irrawaddy;30;???
 irreal;30
+irredentism;40
+irredentist;40
+irredentists;40
 irreverence;50
 irrupt;30
 irrupted;30
@@ -24030,6 +24079,7 @@ issueless;30
 issuesto;40
 issueto;40
 issuingto;40
+issweeton;50
 ist;40;Suffix [common]
 iste;20
 isthatall;60
@@ -24217,6 +24267,7 @@ itsmine;60
 itsmorethanthat;60
 itsmyturn;50
 itsnewstome;60
+itsnojoke;60
 itsnotatoy;60
 itsnothing;60
 itsnotjustyou;60
@@ -25229,7 +25280,7 @@ kev;40
 kevinhart;50
 kevinkline;50
 kevinspacey;5
-kevlar;60
+kevlar;50
 kew;40;Kew Gardens in London
 kewl;30
 key;50
@@ -25466,6 +25517,7 @@ kleban;40;???
 klee;30;Artist Paul Klee
 klees;20
 kleine;40
+klemperer;40;Conductor Otto Klemperer (1885-1973)
 klezmer;50
 klieg;40;Klieg light, used in filming
 klieglight;50
@@ -27080,6 +27132,8 @@ lilytomlin;50
 lim;20
 limbobar;50
 limbobars;50
+limbocontest;60
+limbocontests;60
 limbopole;50
 limbopoles;50
 limbostick;50
@@ -27372,6 +27426,7 @@ livingto;40
 livy;40;Roman historian
 lix;20
 liz;50
+ljubljana;40;Capital of Slovenia
 llamallama;50;Children's show on Netflix
 llanero;30;South American herder
 llaneros;30;South American herders
@@ -27607,6 +27662,8 @@ lookee;40
 lookeron;40
 lookerson;40
 lookfishy;50
+lookieloo;60
+lookieloos;60
 lookingafool;50
 lookingafter;50
 lookingat;40
@@ -27792,6 +27849,7 @@ loudnesswar;60
 loudout;1
 loudreport;50
 loudreports;50
+louella;40;Old Hollywood gossip Louella Parsons (1881-1972)
 louies;40;Lieutenants
 louisan;40;St. Louisan
 louisck;5
@@ -28132,6 +28190,7 @@ lynchers;5
 lynching;5
 lynchings;5
 lynda;40
+lyndonjohnson;50
 lynley;30;The Inspector Lynley Mysteries, British detective series
 lynne;40;Jeff Lynne of ELO, or second lady Lynne Cheney
 lyra;40
@@ -29872,6 +29931,8 @@ minimarshmallow;50
 minimarshmallows;50
 minime;50
 minimi;30;Little fingers or toes
+minimoon;60
+minimoons;60
 minims;40;Half notes: Br.
 minimumwordcount;50
 minimumwordcounts;50
@@ -30049,6 +30110,7 @@ mistertoad;50;"The Wind in the Willows" character
 mistico;40;???
 mistral;30;Cold wind of France
 mistrals;30
+mistressofthedark;60
 misunderestimate;60
 mit;40
 miter;40;Bishop's hat
@@ -30374,6 +30436,7 @@ monteros;40
 montes;20
 montez;20;1800s dancer Lola
 montezuma;50
+monthlong;50
 montypythonskit;1
 moo;50
 moocow;60
@@ -32455,6 +32518,7 @@ nowme;60
 nownow;60
 nowonder;60
 nowthen;50
+nowwhatdowedo;60
 nowwheredidipark;60
 nowwheredidwepark;60
 nox;40;Night goddess
@@ -32862,6 +32926,7 @@ octahedra;50
 octahedral;50
 octahedron;50
 octahedrons;50
+octameter;40
 octanes;40
 octaval;30;Relating to an octave
 octavo;40;Book size
@@ -33162,6 +33227,7 @@ okayigive;60
 okayimconvinced;60
 okaymistersmartypants;60
 okaymrsmartypants;60
+okaynowwhat;60
 okaysmartypants;60
 okaythatsenough;60
 okaythen;60
@@ -33183,6 +33249,7 @@ okina;20;Hawaiian glottal stop
 okla;40;Oklahoma
 okmistersmartypants;60
 okmrsmartypants;60
+oknowwhat;60
 okras;30
 oks;50
 oksanas;20
@@ -33727,7 +33794,7 @@ onthewarpath;60
 onthinice;60
 onthird;30
 ontilt;60
-ontoe;30
+ontoe;40
 ontogeny;30
 ontv;40
 onvideo;40
@@ -37136,6 +37203,10 @@ poufs;30;Ottomans
 poult;30;Young fowl
 poulter;40;Actor Will Poulter
 poults;30
+pouncedon;40
+pounceon;40
+pounceson;40
+pouncingon;40
 poundal;30;Unit of force
 poundals;30
 pounddog;50
@@ -37601,8 +37672,8 @@ promisering;60
 promiserings;60
 promking;60
 promkings;60
-promocode;50
-promocodes;50
+promocode;60
+promocodes;60
 promposal;60
 promposals;60
 promqueen;60
@@ -38248,15 +38319,18 @@ racebib;50
 racebibs;50
 raceby;40
 racedby;40
+racedin;40
 racedinto;40
 racedto;40
 racefan;30
 racefans;30
+racein;40
 raceinto;40
 raceme;30;Flower cluster
 racemes;30
 racemose;30;Botany word
 racesby;40
+racesin;40
 racesinto;40
 racesto;40
 raceto;40
@@ -38270,6 +38344,7 @@ rachitis;30;Rickets
 racine;40;Jean Racine, 17th century French dramatist, well-regarded
 racingbikes;50
 racingby;40
+racingin;40
 racinginto;40
 racings;20
 racingto;40
@@ -38818,6 +38893,7 @@ ravened;20
 ravener;20;Plunderer
 raveners;20
 ravenna;20
+raveon;30;???
 raver;50
 ravers;50
 ravigote;40;French sauce
@@ -39636,6 +39712,10 @@ remanned;30
 remanning;30
 remans;30
 remarch;20
+remarkedon;40
+remarkingon;40
+remarkon;40
+remarkson;40
 remash;20
 remashed;20
 remashes;20
@@ -40931,6 +41011,8 @@ ronco;40
 rondeau;20
 rondeaux;20
 rondel;20
+rondelet;40
+rondelets;40
 rondelle;30;Small glass ornament or necklace bead
 rondelles;30
 rondels;20
@@ -41053,6 +41135,7 @@ rosterspot;50
 rosterspots;50
 rostov;40;???
 rostra;40;Podiums
+roswellnm;30
 rosyboa;30;Desert snake
 rot;50
 rotatedin;40
@@ -43163,6 +43246,7 @@ severeweatheralert;50
 severingties;50
 seversties;50
 severties;50
+sevier;30
 sew;50
 sewagefarm;50
 sewagefarming;50
@@ -45227,6 +45311,7 @@ sonos;40;Speaker brand
 sonotok;50
 sonotokay;60
 sonottrue;60
+sonowwhat;60
 sonowyouknow;60
 sonoya;40;Actress Sonoya Mizuno of "House of the Dragon"
 sonsie;20;???
@@ -47228,6 +47313,8 @@ summat;40;British slang for "something"
 summerbreeze;50
 summerbreezes;50
 summerdo;50
+summerintern;50
+summerinterns;50
 summerolympics;50
 summersolstice;50
 summerxgames;50
@@ -47691,6 +47778,8 @@ sympathizedwith;40
 sympathizeswith;40
 sympathizewith;40
 sympathizingwith;40
+symphonicpoem;60
+symphonicpoems;60
 syms;30;British actress Sylvia Syms (1934-2023)
 syn;40
 synchronal;40
@@ -51315,6 +51404,11 @@ tripwires;50
 trireme;30
 triremes;30
 tris;40
+triskele;40;Ancient triple spiral symbol
+triskeles;40;Ancient triple spiral symbol
+triskelia;40
+triskelion;40;Ancient triple spiral symbol
+triskelions;40
 tritt;40;Country singer Travis Tritt
 triturate;30
 triturated;30
@@ -53556,6 +53650,7 @@ waspy;50
 wasrun;30
 wassail;30
 wasser;30;Water: Ger.
+wassweeton;50
 wast;20
 wastedpotential;60
 wasteland;60
@@ -53908,6 +54003,8 @@ wellletmeseenow;60
 wellletsjustsay;60
 wellletsseenow;60
 wellletthisslide;60
+wellnowwhat;60
+wellnowwhatdowedo;60
 wellrested;50
 wellsorta;60
 wellthatsafinehowdoyoudo;60
@@ -54690,6 +54787,7 @@ woodenrollercoasters;60
 woodenspoon;50
 woodenspoons;50
 woodfiredpizzas;50
+woodrowwilson;50
 woodscrew;50
 woodscrews;50
 woodwindsection;50
