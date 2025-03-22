@@ -68,6 +68,27 @@ def _xwi_renumber(word, score):
 def _rel_path(path):
     return os.path.join(os.path.dirname(__file__), path)
 
+def phrases(entry, words, ignore_short=True):
+    """
+    Figures out if `entry` can be made from any combination of words in `words`. All valid
+    splittings are yielded.
+
+    If `ignore_short` is true (the default), 1- and 2-letter words with score < 50 are ignored.
+    This way "a" and "I" and "of/we/it" can be used, but not abbreviations like "ep" and "rd".
+    """
+
+    # Filter out 1- and 2-letter words under 50.
+    if isinstance(words, dict) and ignore_short:
+        words = {word: score for word, score in words.items() if len(word) >= 3 or score >= 50}
+
+    for i in range(1, len(entry)):
+        prefix, suffix = entry[:i], entry[i:]
+        if prefix in words:
+            for phrase in phrases(suffix, words):
+                yield [prefix] + phrase
+    if entry in words:
+        yield [entry]
+
 def synonyms(word):
     """
     Retrieves synonyms for a word using NLTK WordNet.
