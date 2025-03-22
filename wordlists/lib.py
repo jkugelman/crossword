@@ -92,6 +92,16 @@ def phrases(entry, words, ignore_short=True):
 def synonyms(word):
     """
     Retrieves synonyms for a word using NLTK WordNet.
+
+    To use:
+
+    ```
+    $ docker run -it --rm -v $PWD:/home -w /home python bash
+    # pip install nltk
+    # python
+    >>> import nltk
+    >>> nltk.download('wordnet')
+    ```
     """
 
     from nltk.corpus import wordnet as wn
