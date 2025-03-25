@@ -10398,9 +10398,13 @@ creamsoda;50
 creamsodas;50
 creamyskin;20;???
 createanopening;50
+createastir;60
 createdanopening;50
+createdastir;60
 createsanopening;50
+createsastir;60
 creatinganopening;50
+creatingastir;60
 creativecommons;50
 credal;30;Relating to a creed
 credences;30
@@ -33400,6 +33404,7 @@ oldman;50
 oldmancacti;50
 oldmancactus;60
 oldmancactuses;60
+oldmanyellsatcloud;60
 oldmap;30
 oldmaster;50
 oldmasters;50
@@ -35074,7 +35079,7 @@ parachutesilk;50
 paradedressuniform;50
 paradedressuniforms;50
 paraderest;50
-paradiddle;60
+paradiddle;60;Drum pattern
 paradiddles;60
 paradingregally;1
 paradox;60
@@ -48404,6 +48409,8 @@ tapson;40
 tapster;30;Bartender
 tapsters;30
 tar;50
+taradiddle;60;Lie
+taradiddles;60
 taraji;40;Actress Taraji P. Henson, one of TIme's 100 most influential people twice
 tarana;20;Hindustani composition
 tarantara;40;Variant of tantara, trumpet fanfare
