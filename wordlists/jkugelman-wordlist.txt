@@ -65,7 +65,8 @@ abadegg;40
 abaft;40
 aball;20
 abandonedship;50
-abandonee;30
+abandonee;40
+abandonees;40
 abandoningship;50
 abandonship;50
 abandonsship;50
@@ -1838,6 +1839,7 @@ amities;30
 amitoolate;60
 amiwrong;60
 amman;40;Capital of Jordan
+ammandine;20;Mispelling of amandine?
 ammeter;40
 ammeters;40
 ammobelt;50
@@ -7053,6 +7055,7 @@ cahier;20
 cahiers;20
 cahill;30;"Cahill U.S. Marshal" - John Wayne movie
 cahn;40;Lyricist Sammy Cahn with four Oscars
+cairene;40;Resident of Cairo
 cairn;40;Burial mound
 cairned;40
 cairns;40
@@ -14699,7 +14702,7 @@ emf;20
 emhoff;30;Second gentleman Doug (Kamala Harris's husband)
 emi;40
 emigree;30;Variant spelling?
-emil;30;1920s actor Emil Jannings, Soviet pianist Emil Gilels
+emil;40;1920s actor Emil Jannings, Soviet pianist Emil Gilels
 emile;40
 emiles;20;Plural name
 emiliaperez;50;2024 Oscar-winning movie
@@ -17331,6 +17334,11 @@ foldup;50
 foldupcot;50
 foldupcots;50
 folgersinyourcup;60
+foliages;40;Weird plural
+foliate;50;Having leaves
+foliated;50
+foliates;40
+foliating;40
 folies;40;Folies Bergère cabaret in Paris
 foliesadeux;60
 foliesbergere;60
@@ -23640,6 +23648,7 @@ inositol;30
 inositols;30
 inot;40
 inout;40
+inouye;40;Hawaii's Daniel Inouye
 inpank;1
 inparis;1
 inpawn;30
@@ -24143,6 +24152,7 @@ isixteen;20
 isl;20
 isla;40
 islaer;1
+islandair;60
 islas;40
 islate;20
 isleft;20
@@ -26028,7 +26038,7 @@ lagers;50
 lah;20
 lahaina;40;Hawaiian town
 lahore;40;Second largest city in Pakistan
-lahr;30
+lahr;40;Bert Lahr, the Cowardly Lion
 lahti;30;Actress Christine Lahti, still on TV but nothing notable since "Chicago Hope" in the 90s
 lai;20
 laic;40
@@ -28895,6 +28905,7 @@ maneater;50
 maneaters;50
 maneating;60
 manege;30;Horse riding school
+manentail;60;Horse shampoo
 manfriday;50
 manfromatlantis;50
 manfrommuskogee;30
@@ -36872,6 +36883,8 @@ pluginto;40
 plugnickel;50;Worthless amount
 plugola;50
 plugsinto;40
+pluma;30;Feather
+plumae;30
 plumage;50
 plumose;30
 plumsauce;50
@@ -37496,6 +37509,7 @@ practicetest;50
 practicetests;50
 prada;50
 pradas;40
+pradesh;40;Uttar Pradesh, India's most populated state
 prado;40;Spanish museum
 praenomen;20;Ancient Roman's first name
 praetor;30;Roman magistrate
@@ -40738,7 +40752,7 @@ ridonc;20;Ridonculous
 riel;40;Cambodian currency
 riels;40;Cambodian currency
 rienzi;30;Wagner opera
-rieu;40;Violinist André (quite successful)
+rieu;40;Violinist André Rieu (quite successful)
 rif;20
 rifely;40
 rifeness;40
