@@ -652,6 +652,7 @@ adherers;40
 adheresto;40
 adhereto;40
 adheringto;40
+adhominem;60
 adia;40
 adiabatic;40
 adieus;40
@@ -5005,8 +5006,11 @@ bereal;60
 beresford;40;???
 beretta;50
 berettas;50
+berg;50
 bergere;40;Folies Bergère cabaret in Paris
 bergeres;30;French armchairs
+bergs;50
+bergson;40;Philosopher Henry Bergson (1859-1941)
 berlusconi;50
 bernardherrmann;50
 bernerslee;50
@@ -6090,6 +6094,7 @@ boronic;40
 borrowedtime;60
 borscht;50
 borstal;30;Youth detention centre in the UK, historical
+borstein;40;Alex Borstein, voice of Lois Griffin on "Family Guy"
 borzoi;40;Russian dog breed
 borzois;40
 bos;40;Boston, on scoreboards
@@ -11544,6 +11549,7 @@ decidedon;40
 decideon;40
 decideson;40
 decidingon;40
+decidua;30;Uterus lining
 deciliter;40
 deciliters;40
 declaim;50;Speak bombastically
@@ -12926,6 +12932,7 @@ donnerparty;50
 donnerpass;50
 donniedarko;60
 donnish;30;Scholarly, like a college don: Br.
+donoharm;60
 donotbend;40
 donotengage;60
 donoterase;60
@@ -14769,6 +14776,7 @@ enbrel;20
 enbrosse;30;???
 enc;20
 encanto;50
+enceinte;30;Pregnant
 enchain;30
 enchained;30
 enchaining;30
@@ -15305,13 +15313,17 @@ escalloped;30
 escallops;30
 escapeact;60
 escapeacts;60
+escapedfrom;40
 escapedto;40
+escapefrom;40
 escaper;30
 escapers;30
+escapesfrom;40
 escapesto;40
 escapeto;40
 escapevalve;50
 escapevalves;50
+escapingfrom;40
 escapingto;40
 escargots;40;Valid plural
 escarp;30
@@ -17300,6 +17312,8 @@ foldupcot;50
 foldupcots;50
 folgersinyourcup;60
 folies;40;Folies Bergère cabaret in Paris
+foliesadeux;60
+foliesbergere;60
 folivore;40;Herbivore that eats primarily leaves, e.g. a panda
 folivores;40
 folkartist;50
@@ -17546,6 +17560,7 @@ franchisetag;50
 franchisetags;50
 franchitti;30;British motor racing driver
 franciscanorder;50
+franciscrick;50;Watson and Crick
 frangipane;40;French custard
 frangipani;30;Flower
 frankenstein;60
@@ -17695,6 +17710,8 @@ friendlyreminders;60
 frigg;40;Wife of Odin
 frightwig;60
 frightwigs;60
+frijol;40;Variant of frijole (M-W says rarer, but ngram shows frijol > frijole)
+frijole;40;Singular bean
 frio;40
 fripp;40
 friscotx;30
@@ -20740,6 +20757,7 @@ hatesme;20;???
 hatesto;40
 hateto;40
 hatetoburstyourbubble;60
+hatetoseeit;60
 hatfields;60
 hatfieldsandmccoys;60
 hatform;50
@@ -21036,10 +21054,14 @@ hectoliter;30
 hecuba;30;Greek queen of myth
 hed;50
 hedda;40;Ibsen play "Hedda Gabler" (highly esteemed), or '40s gossip columnist Hedda Hopper
+hedgedin;40
 hedgefund;60
 hedgefunds;60
+hedgein;40
+hedgesin;40
 hedgetrimmer;50
 hedgetrimmers;50
+hedgingin;40
 hedison;30;Actor David Hedison???
 hedwigandtheangryinch;60
 hee;40
@@ -21950,6 +21972,7 @@ horchata;40;Milky beverage
 horeb;30
 horehound;40;Herb, or herbal candy
 horehounds;40
+hormuz;40;Strait of Hormuz
 horndog;50
 horndogs;50
 horne;40
@@ -24601,6 +24624,7 @@ jamesthejust;60;Brother of Jesus
 jamestkirk;60
 jamesvi;30
 jamesvii;30
+jameswatson;50;Watson and Crick
 jamin;40
 jaminto;40
 jamiroquai;50
@@ -25746,6 +25770,7 @@ kopunch;50
 kopunches;50
 kor;20
 koranic;40
+korbut;40;Gymnast Olga Korbut
 korda;30;Various last name
 koreanamerican;50
 koreanamericans;50
@@ -25928,6 +25953,7 @@ lacinginto;40
 laciniate;20
 lackey;50
 lackeys;50
+laconia;40;Region of Greece where Sparta is, origin of "laconic"
 lacoruna;40;???
 lacrimal;40
 lacroix;50;Sparkling water
@@ -28690,10 +28716,12 @@ makethebigbucks;60
 maketime;50
 maketimefor;50
 makeup;50
-makeupbag;50
+makeupbag;60
+makeupbags;60
 makeupbrush;50
-makeupcase;50
-makeupcases;50
+makeupbrushes;50
+makeupcase;60
+makeupcases;60
 makewar;30
 makewaves;60
 makin;40;"Makin' Whoopee"
@@ -31920,6 +31948,7 @@ nickhornby;50
 nicksaban;50;Alabama football coach and ESPN sportscaster
 nicky;40;???
 nicola;40;Who???
+nicosia;40;Capital of Cyprus
 nicotiana;40;Tobacco genus
 nicotinegum;50
 nicotini;60;Vodka infused with tobacco leaves
@@ -35256,6 +35285,7 @@ passedfor;40
 passedgas;40
 passedmuster;50
 passedoffas;40
+passedon;40
 passedthebaton;50
 passedto;40
 passesas;40
@@ -35264,6 +35294,7 @@ passesfor;40
 passesgas;40
 passesmuster;50
 passesoffas;40
+passeson;40
 passesthebaton;50
 passesto;40
 passeul;30
@@ -35279,12 +35310,14 @@ passinginterest;50
 passinginterests;50
 passingmuster;50
 passingoffas;40
+passingon;40
 passingthebaton;50
 passingto;40
 passline;50
 passlinebet;50
 passmuster;50
 passoffas;40
+passon;40
 passos;40;???
 passphrase;50
 passphrases;50
@@ -35665,6 +35698,7 @@ peeweereese;50
 peewit;30;Bird
 peewits;30
 peg;50
+pegg;40
 pegtop;40;Spinning toy
 pegtops;40
 pei;40
@@ -36093,6 +36127,7 @@ phreaks;50
 phrenetic;20
 phrenic;30
 phs;20
+phthisis;30;Pulmonary tuberculosis
 phu;20
 phx;50
 phyrgia;1;Misspelling?
@@ -36623,6 +36658,10 @@ platformpumps;50
 platies;30;???
 platinumrecord;50
 platinumrecords;50
+platonicideal;60
+platonicideals;60
+platonickiss;40;Green paint?
+platonickisses;40;Green paint?
 platypi;50
 playa;40
 playagig;40
@@ -50685,6 +50724,7 @@ tobesafe;50
 tobesure;50
 toc;20
 tocarry;20
+tocelia;40;Ben Jonson poem "To Celia"
 tocome;30
 tocsin;20;Alarm bell, archaic
 tod;20
@@ -55622,6 +55662,7 @@ yougottabekiddingme;60
 youguysgiveuporareyouthirstyformore;60
 youhadonejob;60
 youhangup;60
+youhatetoseeit;60
 youhave;20
 youhavefunwiththat;60
 youhavesomenerve;60
