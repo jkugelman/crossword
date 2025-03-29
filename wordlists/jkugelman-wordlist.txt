@@ -789,7 +789,7 @@ aed;20
 aedile;20;Roman magistrate
 aediles;20;Roman magistrates
 aef;20
-aegis;40
+aegis;50
 aegises;40
 aeiou;40
 aeiouy;40
@@ -2186,9 +2186,9 @@ anointer;40
 anointers;40
 anomie;40;Social instability resulting from a Breakdown of moral values, legit word
 anon;50
-anonym;30;Pseudonym, or anonymous person, uncommon word
+anonym;40;Pseudonym, or anonymous person, uncommon word
 anonyme;30;Faceless person
-anonyms;30
+anonyms;40
 anora;50;2025 Best Picture
 anorak;40
 anoraks;40
@@ -4318,6 +4318,7 @@ barouche;30;???
 barouches;30;???
 barque;30
 barques;30
+barr;40
 barra;20;Scottish island
 barratry;30;Legal term, vexatious litigation
 barredthedoor;50
@@ -4547,6 +4548,7 @@ battletested;60
 battlewagon;60
 bau;20
 baudrate;50
+bauds;30;Weird plural
 bausch;30;Bausch + Lomb contact lenses
 bautista;60
 bav;20
@@ -4733,6 +4735,7 @@ beaverkits;50
 beaverlodge;50
 beaverlodges;50
 bebackinaminute;50
+bebe;40
 bec;20
 becameobsolete;50
 becauseitsthere;60
@@ -7673,6 +7676,7 @@ carpoollanes;50
 carpsat;40
 carputer;50
 carputers;50
+carr;40
 carrace;30
 carracer;30
 carraces;30
@@ -7820,6 +7824,7 @@ catalpas;20
 catania;40;Port city in Sicily
 catarrh;20;Excessive mucus buildup
 catbert;30
+catbirdseat;60
 catbreeder;50
 catbreeders;50
 catcafe;60
@@ -8156,8 +8161,8 @@ centraltimezone;30
 centre;40
 centres;40
 centro;40
-ceo;40
-ceos;40
+ceo;50
+ceos;50
 cepeda;20;Baseballer Orlando
 cer;20
 ceramicmug;50
@@ -11777,6 +11782,8 @@ delsarto;40;Renaissance painter Andrea del Sarto
 delt;40
 deltaic;40;???
 deltapi;20
+deltawave;50
+deltawaves;50
 deltawing;50
 deluxemodel;50
 deluxemodels;50
@@ -12723,6 +12730,7 @@ doesitlooklikeimlaughing;60
 doesitmatter;60
 doesitsparkjoy;60;Marie Kondo-ism
 doeslaps;50
+doeslunch;50
 doesntgiveaflip;60
 doesnthaveaprayer;50
 doesnthavetime;50
@@ -13106,8 +13114,8 @@ dotage;40;State of senility
 dotard;40;Senile person
 dotards;40
 dotbom;20
-dotbomb;50
-dotbombs;50
+dotbomb;60
+dotbombs;60
 dotboms;20
 dotcombubble;60
 dotcombubbles;40
@@ -16212,6 +16220,8 @@ faqir;40
 faqirs;40
 faqs;40
 far;50
+farad;40
+farads;40
 farandaway;50
 farandole;30;French dance
 farer;30
@@ -16230,6 +16240,7 @@ faroese;30;Language of the Faroe Islands
 faron;30;Old country singer Faron Young
 farouche;30;???
 farout;60
+farr;40
 farrar;30;Publisher, or original NYT crossword editor
 farside;60
 fart;20;Air offensive?
@@ -18017,8 +18028,8 @@ galah;20;Cockatoo
 galatia;30;Ancient Turkish region
 galatian;30;Celtic person of old
 galatians;30;Bible book
-galaxies;60
-galaxy;60
+galaxies;50
+galaxy;50
 galba;30;Roman emperor
 galbi;40;Korean short ribs
 gale;50
@@ -18063,6 +18074,7 @@ gameface;60
 gamefaces;60
 gamegenie;60
 gamegenies;60
+gamemechanics;60
 gamenight;60
 gamenights;60
 gameover;60
@@ -18231,6 +18243,12 @@ gaswar;20
 gaswars;20
 gat;40
 gatech;40
+gatecrash;60
+gatecrashed;60
+gatecrasher;60
+gatecrashers;60
+gatecrashes;60
+gatecrashing;60
 gatekeeper;60
 gatekeepers;60
 gatekeeping;60
@@ -18521,6 +18539,7 @@ getawayvehicle;60
 getawordinedgewise;60
 getback;50
 getbackat;40
+getbent;60
 getbeyond;30
 getbiblical;50
 getbig;40;Personal addition
@@ -18803,6 +18822,7 @@ giantmousetrap;60;Acme invention
 giantrubberband;60;Acme invention
 giantslalom;50
 gib;20
+gibberish;50
 gibbousmoon;50
 gide;30;French novelist Andre
 gie;20
@@ -19330,7 +19350,7 @@ gointo;40
 gointolabor;50
 goipo;40
 gokaput;50
-gol;20
+gol;40
 golan;40;Golan Heights in Israel
 golconda;40
 golcondas;40
@@ -22413,6 +22433,8 @@ hyperrealism;60
 hyperrealistic;60
 hypers;40;???
 hyperspace;60
+hypo;40
+hypos;40
 hypotenuse;50
 hyrax;30;Marmot-like animal
 hyraxes;30
@@ -23815,6 +23837,7 @@ intheairtonight;60
 inthealley;50;???
 inthealtogether;60
 inthecan;60
+inthecatbirdseat;60
 inthecloud;60
 inthefold;50
 intheghetto;50;Elvis song
@@ -23944,7 +23967,7 @@ ionstorms;50;Geomagnetic disturbances
 ioo;20
 ior;30;Suffix [rare]
 ios;40
-iou;40
+iou;50
 iouua;1
 iowacaucus;50
 iowacaucuses;50
@@ -28149,7 +28172,7 @@ lps;20
 lrg;20
 lsat;40
 lsats;40
-lsd;40
+lsd;50
 lseven;20
 lsf;20
 lshaped;40
@@ -28368,6 +28391,8 @@ lyso;20
 m;40
 ma;50
 maa;40
+maaco;40
+maams;40;Weird plural
 maas;40
 maasai;40;Correct spelling of Masai
 maastricht;40;City in the Netherlands
@@ -30494,6 +30519,7 @@ moils;40
 moimoi;40;Nigerian bean pudding
 moines;40
 moinmoin;40;Nigerian bean pudding
+moira;40
 moirepattern;50
 moirepatterns;50
 moires;40;Awkward plural
@@ -31985,7 +32011,7 @@ niceish;40
 nicekid;50
 nicene;30
 niceone;60
-nicetan;30
+nicetan;50
 nicetohave;60
 nicetry;60
 nichearea;40
@@ -32955,8 +32981,8 @@ oat;50
 oatbased;30
 oatbread;30
 oaten;50
-oater;30
-oaters;30
+oater;40
+oaters;40
 oathay;40
 oathays;30
 oathofthehoratii;50
@@ -37575,10 +37601,10 @@ prefersto;40
 preferto;40
 preflightannouncement;50
 preflightannouncements;50
-pregame;50
-pregamed;50
-pregames;50
-pregaming;50
+pregame;60
+pregamed;60
+pregames;60
+pregaming;60
 preggers;50
 preggo;50
 prehensiletail;50
@@ -39897,6 +39923,7 @@ reliedon;40
 relieson;40
 relievo;20
 religion;50
+religiousecstasy;60
 religiousicon;60
 religiousicons;60
 religiousorder;50
@@ -41858,9 +41885,14 @@ safespace;60
 safespaces;60
 safetydepositbox;50
 safetydepositboxes;50
+safetyglasses;50
+safetygoggles;50
 safetyhazard;50
 safetyhazards;50
+safetypatrol;50
 safetyrack;50
+safetyvalve;50
+safetyvalves;50
 safeword;60
 safewords;60
 safezone;60
@@ -43624,6 +43656,7 @@ shakti;20
 shalamar;40;Old R&B group
 shalomaleichem;60;Hebrew greeting
 shameon;20
+shameonme;60
 shameplant;60;Plant also known as the touch-me-not
 shamer;30
 shamers;30
@@ -47104,6 +47137,7 @@ strabo;30;Greek philosopher
 strad;40
 strada;40;Fellini's "La Strada"
 stradivarii;40
+strads;40
 straightenyourselfout;60
 straightfromcentralcasting;60
 straightoutofcentralcasting;60
@@ -47264,6 +47298,7 @@ strongarms;60
 strongbox;50
 strongboxes;50
 strongbreeze;50;6 on the Beaufort wind force scale
+strongforce;50
 stronghold;50
 strongholds;50
 strongman;60
@@ -48019,6 +48054,7 @@ sydneysiders;60
 sydow;40;Max von Sydow
 sye;20
 syenite;30;Type of rock
+syfy;40;Sci-Fi Channel
 syl;20
 syllabub;30;British dessert
 syllabubs;30
@@ -48413,7 +48449,7 @@ talmudiclaw;50
 talos;20;Mythological guardian of Crete
 talus;20
 taluses;20
-tam;50
+tam;40
 tamable;20
 tamara;40
 tamarac;20;Florida city
@@ -48435,7 +48471,7 @@ tampan;20
 tampere;30;???
 tampico;40;Mexican port
 tampopo;30;The first "ramen Western"
-tams;50
+tams;40
 tamtam;40;???
 tan;50
 tanach;30;Hebrew Bible
@@ -49115,6 +49151,8 @@ tequilasunset;60
 tequilasunsets;60
 ter;20
 tera;40
+terai;20;Sun helmet
+terais;20
 terato;20;Prefix: monster
 teratoid;20;Type of tumor
 teratoma;20
@@ -49502,6 +49540,7 @@ thecaspiansea;40
 thecast;20
 thecastro;50;San Francisco gay district
 thecat;20
+thecatbirdseat;60
 thecatch;40
 thecatinthehat;60;Dr. Seuss book
 thecatinthehatcomesback;60;Dr. Seuss book
@@ -50226,6 +50265,7 @@ thom;50
 thomasedison;60
 thomashadenchurch;50
 thomaspaine;50
+thomyorke;60
 thora;40
 thoraces;30;Valid plural of thorax, but thoraxes is more common and looks better
 thoracic;40;Relating to the thorax
@@ -50656,6 +50696,7 @@ tipsters;50
 tiptoethroughthetulips;50
 tir;20
 tirana;40;Albania's capital
+tirane;40;Tiranë, capital of Albania
 tiredest;30
 tiredexpression;50
 tiredexpressions;50
@@ -53310,6 +53351,7 @@ versos;30
 vert;40;Vertical
 vertebralcolumn;50
 vervet;30;Monkey
+verycool;50
 verymuchso;60
 veryodd;50
 vesey;30
@@ -54523,6 +54565,7 @@ whatsyourexcuse;60
 whatsyourproblem;60
 whatthehey;60
 whatwasthatfor;60
+wheals;30;Hives
 wheatchex;50
 wheaten;30;Containing wheat
 wheaties;50
@@ -55876,6 +55919,8 @@ yukongold;50
 yul;50
 yum;50
 yumaaz;30
+yuman;30
+yumans;30;Quechua people
 yuna;40;One-named R&B singer
 yup;50
 yuppie;50
