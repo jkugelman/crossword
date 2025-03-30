@@ -91,27 +91,49 @@ def phrases(entry, words, ignore_short=True):
 
 def synonyms(word):
     """
-    Retrieves synonyms for a word using NLTK WordNet.
+    Retrieves synonyms for a word using NLTK WordNet and Roget's Thesaurus.
 
     To use:
 
     ```
     $ docker run -it --rm -v $PWD:/home -w /home python bash
-    # pip install nltk
+    # pip install nltk lxml
     # python
     >>> import nltk
     >>> nltk.download('wordnet')
     ```
     """
+    return synonyms_nltk(word) | synonyms_roget(word)
 
+def synonyms_nltk(word):
     from nltk.corpus import wordnet as wn
 
-    synonyms = set()
-    for synset in wn.synsets(word):
-        for lemma in synset.lemmas():
-            synonyms.add(lemma.name().replace('_', '').lower())
+    return _normalize(
+        word,
+        (
+            lemma.name()
+            for synset in wn.synsets(word)
+            for lemma in synset.lemmas()
+        ),
+    )
 
-    # Remove the word and its singular/plural.
+def synonyms_roget(word):
+    import roget
+
+    return _normalize(
+        word,
+        (
+            entry
+            for pos in roget.parts_of_speech
+            for entries in roget.all_entries(word, pos)
+            for entry in entries
+        ),
+    )
+
+def _normalize(word, synonyms):
+    synonyms = {re.sub('[^a-z]', '', synonym.lower()) for synonym in synonyms}
+    synonyms -= {''}
+
     synonyms.discard(word)
     synonyms.discard(word + 's')
     if word.endswith('s'):
