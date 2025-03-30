@@ -16077,6 +16077,7 @@ fadein;50
 fadeinto;40
 fadesin;40
 fadesinto;40
+fadiman;30
 fadingin;40
 fadinginto;40
 fadings;30
@@ -16355,6 +16356,8 @@ fathersinlaw;50
 fatherstobe;50
 fathertime;60
 fathertobe;50
+fatimah;30
+fatimas;30;Plural name
 fatlot;50
 fatlotofgood;60
 fatly;50
@@ -24055,6 +24058,7 @@ ipadmini;50
 ipadminis;50
 ipas;40
 ipcress;30;"The ___ File"
+ipecacs;40;Weird plural
 iphigenia;40;Figure in Greek myth
 ipitythefool;60
 ipo;40
@@ -27068,6 +27072,7 @@ lethem;40;Novelist Jonathan Lethem, "Motherless Brooklyn", MacArthur Fellowship
 lethercook;60
 lethimcook;60
 lethologica;60;Inability to remember the right word (tip of the tongue)
+letinon;40
 letinto;40
 letitdie;50
 letitdrop;50
@@ -27101,6 +27106,7 @@ letsgetonwithit;60
 letsgiveitawhirl;60
 letshaveit;60
 letshearit;60
+letsinon;40
 letsinto;40
 letsjustmoveon;60
 letsjustmovepastit;60
@@ -27156,6 +27162,7 @@ letthemcook;60
 letthemhaveit;60
 letthingsplayout;60
 lettingbackin;40
+lettinginon;40
 lettinginto;40
 lettingoff;40
 lettingthingsplayout;60
@@ -33654,8 +33661,8 @@ oldmap;30
 oldmaster;50
 oldmasters;50
 oldmike;30;Salesman whose body was publicly displayed in Arkansas for 60 years
-oldone;50;Lovecraftian entity
-oldones;50
+oldone;40;Lovecraftian entity
+oldones;40
 oldpro;50
 oldpros;50
 olds;50;Parents, or Oldsmobile
