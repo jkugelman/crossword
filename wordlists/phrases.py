@@ -16,4 +16,4 @@ if __name__ == '__main__':
     for line in sys.stdin:
         entry = re.sub(';.*', '', line.strip())
         for phrase in phrases(entry, words):
-            print(" ".join(phrase))
+            print(" ".join(phrase), flush=True)
