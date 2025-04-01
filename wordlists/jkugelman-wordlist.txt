@@ -4401,6 +4401,10 @@ basictruths;60
 basilar;30;???
 basilisk;60
 basilisks;60
+basilleaf;50
+basilleaves;50
+basilseed;50
+basilseeds;50
 basined;40
 basinet;30
 basinets;30
@@ -21870,6 +21874,8 @@ holtz;30
 holusbolus;40;All at once
 holyark;50
 holybasil;50
+holybasilseed;50
+holybasilseeds;50
 holyland;60
 holylands;60
 holymackerel;60
@@ -48121,6 +48127,8 @@ sweeppicks;50
 sweeptheleg;60
 sweetandsourmix;50
 sweetanise;50
+sweetbasilleaf;50
+sweetbasilleaves;50
 sweetcheeks;60
 sweetchildomine;60
 sweetchinmusic;60
@@ -49498,6 +49506,9 @@ tgif;40
 tgv;20
 tha;40
 thabo;40;Mandela's successor Thabo Mbeki
+thaibasil;50
+thaibasilleaf;50
+thaibasilleaves;50
 thaitea;50
 thalami;40;Thalamus plural
 thalassa;30;Moon of Neptune, Greek sea goddess
