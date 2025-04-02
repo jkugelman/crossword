@@ -11036,6 +11036,12 @@ cyanobacteria;50
 cyanosed;30
 cyanosis;30;Skin discoloration
 cyans;40
+cybernetic;60
+cybernetician;60
+cyberneticians;60
+cyberneticist;60
+cyberneticists;60
+cybernetics;60
 cyborg;60
 cyborgs;60
 cycad;30;Endangered plant
@@ -11450,7 +11456,10 @@ deadarm;40;???
 deadarms;40;???
 deadasadoornail;60
 deadass;60
+deadbodies;50
+deadbody;50
 deadcalm;50
+deadcenter;50
 deadend;50
 deadends;50
 deader;50
@@ -17202,6 +17211,10 @@ floatrider;50
 floatriders;50
 floatsaway;50
 floatsonair;50
+flogadeadhorse;60
+floggedadeadhorse;60
+floggingadeadhorse;60
+flogsadeadhorse;60
 floodstory;50
 floorer;40
 floorers;40
@@ -23058,6 +23071,7 @@ illletthisslide;60
 illlive;60
 illmanage;60
 illmannered;50
+illnessasmetaphor;60;Susan Sontag book
 illseemyselfout;60
 illseeya;60
 illseeyouinhell;60
@@ -24805,6 +24819,7 @@ jananovotna;50
 jandj;30
 janelle;40;Janelle Monae
 jangly;50
+jango;40;"Star Wars" bounty hunter Jango Fett
 janisjoplin;60
 janite;30;Fan of Jane Austen
 janitors;50
@@ -27749,8 +27764,10 @@ loadedin;40
 loadin;40
 loadingin;40
 loadsin;40
+loam;40
 loamier;40
 loamiest;40
+loams;40
 loamy;40
 loanedto;40
 loanercar;50
@@ -28300,7 +28317,7 @@ lta;20
 ltcol;40
 ltcols;40
 ltd;40
-ltdan;50
+ltdan;40
 ltds;20;Old Fords
 lte;40;Cell phone speed [common]
 ltflap;40;Beetle Bailey character
@@ -31687,7 +31704,7 @@ naziparty;5
 nazis;5
 nazism;5
 nb;40
-nba;40
+nba;50
 nbadraftlottery;50
 nbaer;20
 nbaers;20
@@ -32078,10 +32095,10 @@ nfcnorth;40
 nfcsouth;40
 nfcteam;40
 nfcwest;40
-nfl;40
+nfl;50
 nfldraft;50
-nfler;20
-nflers;20
+nfler;30
+nflers;30
 nflfan;40
 nflfans;40
 nflfilms;50;NFL production company
@@ -35278,19 +35295,23 @@ panforgold;50
 panfry;50
 panicle;20;Flower cluster
 panicles;20;Flower clusters
-paninon;40
+panin;30;Zoom in, not pan in
+paninon;30
 panipuri;40;Indian street food
 panky;40
 pannedforgold;50
-pannedinon;40
+pannedin;30;Zoomed in, not panned in
+pannedinon;30
 panningforgold;50
-panninginon;40
+panningin;30
+panninginon;30
 panocha;20;Southwestern pudding
 panopticon;60;Circular prison design with a central guard tower
 panopticons;60
 panoramiccamera;50
 pansforgold;50
-pansinon;40
+pansin;30
+pansinon;30
 pantaboots;60
 pantaloons;60
 panthercub;50
@@ -36370,7 +36391,7 @@ phrenic;30
 phs;20
 phthisis;30;Pulmonary tuberculosis
 phu;20
-phx;50
+phx;30
 phyrgia;1;Misspelling?
 phyrgian;1
 physicaltherapist;50
@@ -41915,6 +41936,7 @@ rusk;30
 russel;20
 russellstover;50;Chocolates
 russes;30
+russianliterature;60
 russianruble;50
 russianrubles;50
 russianwinter;50
@@ -53193,7 +53215,7 @@ usedcaution;50
 useddrugs;40
 usedfor;40
 usedon;40
-usedpot;1
+usedpot;30
 usedrugs;40
 usedto;40
 usedup;50
@@ -53205,6 +53227,7 @@ usembassies;50
 usembassy;50
 useme;40
 useon;40
+usepot;30
 userexperience;60
 userexperiencedesign;50
 userexperiencedesigner;50
@@ -53215,6 +53238,7 @@ usescaution;50
 usesdrugs;40
 usesfor;40
 useson;40
+usespot;30
 usesup;40
 usetheoldnoodle;60
 useup;40
@@ -53235,6 +53259,7 @@ usingdrugs;40
 usingfor;40
 usingon;40
 usingonesnoodle;60
+usingpot;30
 usm;20
 usma;40;West Point
 usmagazine;50
