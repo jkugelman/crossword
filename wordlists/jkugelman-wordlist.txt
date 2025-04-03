@@ -18517,6 +18517,8 @@ generis;40;Sui generis
 genesee;30;New York river
 genet;40;Playwright Jean Genet
 genetical;40
+genevariant;50;???
+genevariants;50
 geniein;20
 genii;30;Genies or geniuses
 genipap;20;Tropical tree
@@ -20421,6 +20423,7 @@ hackedat;40
 hackedinto;40
 hacker;50
 hackers;50
+hackett;40
 hackingat;40
 hackinginto;40
 hackinto;40
@@ -31487,6 +31490,7 @@ nailsup;40
 nailup;40
 nainsook;30;???
 naipaul;40;Trinidadian writer V.S. Naipaul (Nobel Prize in 2001)
+nair;40;Hair removal brand
 naiver;30
 nakedape;50;Book
 nakedcall;50
@@ -36440,16 +36444,20 @@ picasso;50
 picayune;50
 pickanit;50
 pickapart;50
+pickat;40
 pickedanit;50
 pickedapart;50
+pickedat;40
 pickedteams;50
 pickedupthebill;40
 pickedupthecheck;50
 pickedupthepieces;60
 pickedupthetab;50
 pickens;30
+pickett;40
 pickinganit;50
 pickingapart;50
+pickingat;40
 pickingteams;50
 pickingupthebill;40
 pickingupthecheck;50
@@ -36462,6 +36470,7 @@ pickpockets;50
 picksandshovels;30;???
 picksanit;50
 picksapart;50
+picksat;40
 picksteams;50
 picksupthebill;40
 picksupthecheck;50
@@ -38652,6 +38661,8 @@ quasiwar;50
 quatre;40;Four: Fr.
 quayage;30;Wharf fee
 que;40
+queasystomache;50
+queasystomaches;50
 queene;20
 queenofclubs;50
 queenofcoins;60;Tarot card
@@ -45369,17 +45380,21 @@ sneakby;40
 sneakedapeek;50
 sneakedby;40
 sneakedinto;40
+sneakedon;40
 sneakerhead;60
 sneakerheads;60
 sneakingapeek;50
 sneakingby;40
 sneakinginto;40
+sneakingon;40
 sneakinto;40
+sneakon;40
 sneakpreview;50
 sneakpreviews;50
 sneaksapeek;50
 sneaksby;40
 sneaksinto;40
+sneakson;40
 sneerat;40
 sneeredat;40
 sneerer;40
@@ -45497,6 +45512,7 @@ snr;20
 snuckapeek;50
 snuckby;40
 snuckinto;40
+snuckon;40
 snugasabuginarug;60
 snugli;40;Baby carrier brand
 so;50
@@ -47237,7 +47253,9 @@ stollens;40
 stolon;20;Plant part
 stolons;20;Plant parts
 stoma;30;Leaf pore
-stomacher;30
+stomachchurning;60
+stomacher;40
+stomachers;40
 stomachic;30
 stomachy;30
 stomal;30
@@ -52286,6 +52304,7 @@ turnedpale;50
 turnedpro;50
 turnedsour;50
 turnedto;40
+turnedtodust;60
 turnedtogold;50
 turnedtraitor;50
 turnedtwo;30
@@ -52300,6 +52319,7 @@ turningpale;50
 turningpro;50
 turningsour;50
 turningto;40
+turningtodust;60
 turningtogold;50
 turningtraitor;50
 turningtwo;30
@@ -52325,12 +52345,14 @@ turnspale;50
 turnspro;50
 turnssour;50
 turnsto;40
+turnstodust;60
 turnstogold;50
 turnstraitor;50
 turnstwo;30
 turnsupsidedown;50
 turnthatfrownupsidedown;60
 turnto;40
+turntodust;60
 turntogold;50
 turntraitor;50
 turntwo;30;Green paint
