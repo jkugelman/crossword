@@ -935,6 +935,7 @@ agallop;30
 agame;50
 agana;20;Capital of Guam, archaic
 agar;40
+agaragar;30;Agar-agar
 agaric;20
 agars;30;Legit plural?
 agasp;40
@@ -1326,6 +1327,7 @@ alcohols;30
 alcorn;30;Mississippi university
 ald;20
 aldavis;40;NFL coach
+aldebaran;30;Brightest star in Taurus
 aldesko;50;Eating at one's desk, humorously
 aldi;40;Grocery store
 aldis;40;Grocery stores
@@ -5262,8 +5264,8 @@ bighelp;60
 bight;30
 bights;30
 bighurt;50;???
-bigidea;60
-bigideas;60
+bigidea;50
+bigideas;50
 bigif;60
 bigiftrue;60
 bigload;30;???
@@ -7513,6 +7515,10 @@ caponizes;30
 caponizing;30
 capotes;20
 capracorn;60;Capra-corn, teasing name for "It's a Wonderful Life" and such (mentioned in Wikipedia)
+capriole;40;Horse riding move
+caprioles;40
+capriote;30;Native of Capri
+capriotes;30
 caproom;40;Salary cap room??? not sure
 capsaicincream;50
 capsaicincreams;50
@@ -10006,7 +10012,9 @@ copewith;40
 copings;30;Top courses of brick or stone walls
 copingwith;40
 copout;60
+copouton;40
 coppedaplea;50
+coppedouton;40
 coppedto;40
 copperas;30;???
 copperfield;50
@@ -10016,11 +10024,13 @@ copperpennies;50
 copperpenny;50
 copperwire;50
 coppingaplea;50
+coppingouton;40
 coppingto;40
 coprolith;30
 copsaplea;50
 copshow;50
 copshows;50
+copsouton;40
 copsto;40
 coptic;30
 copticchurch;40;???
@@ -15617,6 +15627,7 @@ ethnics;5
 ethno;40
 ethnos;30;Ethnic group
 ethoses;30
+ethylene;40
 etic;20
 etienne;30
 etihad;30;UAE airline
@@ -17153,12 +17164,14 @@ flickersoflight;60
 flickofaswitch;50
 flics;20
 flied;40;Baseball meaning, flied out
+fliedout;40
 fliesakite;50
 fliesat;40
 fliesfirstclass;50
 fliesin;40
 fliesinto;40
 fliesopen;50
+fliesout;40
 fliesover;40
 fliesthecoop;60
 fliesto;40
@@ -17322,6 +17335,7 @@ flyingfirstclass;50
 flyingin;40
 flyinginto;40
 flyingopen;50
+flyingout;40
 flyingover;40
 flyings;30
 flyingsaucer;60
@@ -17333,6 +17347,7 @@ flyintheface;20
 flyinto;40
 flymetothemoon;60
 flyopen;50
+flyout;40
 flyover;50
 flyoverstate;60
 flyoverstates;60
@@ -18940,8 +18955,8 @@ gimping;5
 gimps;5
 gimpy;5
 gin;50
-ginandtonic;50
-ginandtonics;50
+ginandtonic;60
+ginandtonics;60
 ginfizz;50
 ginfizzes;50
 gingerbreadhouse;50
@@ -19003,6 +19018,7 @@ giveitarest;60
 giveitonesall;60
 giveittheoldcollegetry;60
 giveitto;40
+givemeahand;60
 givemeonereason;60
 givemesomespace;60
 giventhegreenlight;60
@@ -19439,6 +19455,7 @@ goinsane;50
 gointo;40
 gointolabor;50
 goipo;40
+goitrous;30;Having a goiter
 gokaput;50
 gol;40
 golan;40;Golan Heights in Israel
@@ -22652,6 +22669,7 @@ icedlatte;50
 icedlattes;50
 icedmocha;50
 icedmochas;50
+icedout;40
 icefish;50
 icefishing;50
 icehotel;60
@@ -22664,6 +22682,7 @@ icemachine;50
 icemachines;50
 icemen;40;Old job, or the Jacksonville Icemen, minor league hockey team
 iceonfire;60;DiCaprio environmental documentary
+iceout;40
 icepack;50
 icepacks;50
 iceplanet;60
@@ -22683,6 +22702,7 @@ iceskates;50
 iceskating;50
 iceskatingrink;50
 iceskatingrinks;50
+icesout;40
 icetea;20
 ich;40
 ichat;30;Discontinued in 2012
@@ -22700,6 +22720,7 @@ ici;40
 icietla;20;Here and there: Fr.
 icingin;40
 icingit;40
+icingout;40
 ick;50
 ickedout;50
 ickedoutby;40
@@ -25079,6 +25100,7 @@ jog;50
 john;50
 johnb;30
 johncage;60
+johncena;60
 johni;30
 johnlocke;50
 johnlomax;50
@@ -25821,6 +25843,8 @@ klout;20
 klu;5
 klum;40
 klute;30;1971 Fonda-Sutherland movie
+klystron;30;Electron tube
+klystrons;30
 kmartshopper;50
 kmartshoppers;50
 kmeson;30
@@ -26198,7 +26222,7 @@ laidawake;50
 laidclaimto;40
 laidin;40
 laidinto;40
-laiditon;50
+laiditon;40
 laidlow;50
 laidodds;50
 laidon;40
@@ -26635,7 +26659,7 @@ layinganegg;50
 layingclaimto;40
 layingin;30
 layinginto;40
-layingiton;50
+layingiton;40
 layinglow;50
 layingodds;50
 layingon;40
@@ -26644,7 +26668,7 @@ layingsiegeto;50
 layingto;20
 layingtorest;50
 layinto;40
-layiton;50;Flatter
+layiton;40;Flatter
 layitonme;60
 laylow;50
 layodds;50
@@ -26660,7 +26684,7 @@ laysiege;50
 laysiegeto;50
 laysin;30
 laysinto;40
-laysiton;50
+laysiton;40
 layslow;50
 laysodds;50
 layson;40
@@ -28331,7 +28355,7 @@ ltile;30
 ltiles;30
 ltr;20
 lts;40;Lieutenants
-luanda;30;Capital of Angola
+luanda;40;Capital of Angola
 lub;20
 lubbocktx;30
 lubezki;40;Cinematographer Emmanuel Lubezki
@@ -28343,6 +28367,12 @@ lucasarts;50
 luce;30;Henry Luce, founder of Time
 lucent;30
 lucently;30
+luchador;60
+luchadora;60
+luchadoras;60
+luchadores;60
+luchadormask;60
+luchadormasks;60
 luchalibre;60
 lucie;30;Desi's daughter
 luckedinto;50
@@ -29431,6 +29461,8 @@ mastoids;40
 mat;50
 mata;30;Mata Hari, spy
 matabele;30;People of Zimbabwe
+matchingpair;50
+matchingpairs;50
 matdown;50
 mateinone;50
 matelot;20
@@ -31655,6 +31687,7 @@ nauseas;20
 nausee;30;Sartre's first novel
 nautch;20
 nautches;20
+nautili;40
 nautilus;50
 nauvoo;20;Mormon settlement
 nav;40
@@ -34572,6 +34605,8 @@ orinda;20;California town
 orinocoflow;60
 orisit;60
 orisitme;20;Follow-up to "Has the world gone crazy..."
+orison;40;Prayer, archaically
+orisons;40
 ork;40
 orkan;30;From Ork
 orkney;40;Orkney Islands in Scotland
@@ -35191,6 +35226,7 @@ paintitred;20;???
 paintmixer;50
 paintmixers;50
 pairer;30
+pairofdice;50
 pairofskis;50
 paisleyprint;50
 paiute;30;Great Basin people
@@ -38873,6 +38909,7 @@ raggedon;40
 ragger;30
 raggers;30
 raggingon;40
+raggle;30;Raggle-taggle
 raggy;30
 ragingat;40
 raglan;30;Sweater type
@@ -52175,6 +52212,8 @@ tstraps;40
 tstrapsandal;50
 tstrapsandals;50
 tsu;40
+tsukiji;40;Tsukiji fish market, Tokyo tourist attraction
+tsukijimarket;40
 tsuris;20;Yiddish aggravation
 tswana;40;People/language of Botswana
 tswift;60
