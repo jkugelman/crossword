@@ -2,10 +2,11 @@
 
 import os
 import re
+from typing import *
 
 def load_words(min_score=0):
     """
-    Loads the words from STWL + XWI + jkugelman-wordlist.txt.
+    Loads STWL + XWI + jkugelman-wordlist.txt.
     """
 
     words = {}
@@ -17,7 +18,7 @@ def load_words(min_score=0):
     return {word: score for (word, score) in words.items() if score >= min_score}
 
 def _load(words, path, edits=[]):
-    with open(_rel_path(path)) as file:
+    with open(rel_path(path)) as file:
         new_words = dict()
 
         for line in file:
@@ -64,9 +65,6 @@ def _xwi_renumber(word, score):
         return (word, 20)
     else:
         return (word, 20)
-
-def _rel_path(path):
-    return os.path.join(os.path.dirname(__file__), path)
 
 def phrases(entry, words, ignore_short=True):
     """
@@ -140,3 +138,67 @@ def _normalize(word, synonyms):
         synonyms.discard(word[:-1])
 
     return synonyms
+
+def spell_meta(words: Dict[str, str], meta: str) -> Iterator[str]:
+    """
+    Yields sets of words that spell the meta answer.
+
+    * `words` maps words to the letter or string they contribute to the meta answer.
+    * `meta` is the meta answer.
+
+    Example:
+
+    spell_meta(
+        {'foodless': 'f',
+         'romania': 'r',
+         'ifatall': 'i',
+         'emerita': 'e',
+         'stormed': 's'},
+        'fries',
+    )
+    """
+    for answers in spell_metas([meta], {word: [val] for word, val in words.items()}):
+        yield answers[0]
+
+def spell_metas(
+    words: Dict[str, Iterable[str]],
+    metas: Iterable[str],
+) -> Iterator[Tuple[str, ...]]:
+    """
+    Yields sets of words that spell all the meta answers.
+
+    * `words` maps words to the letters or strings they contribute to the meta answers.
+    * `metas` is an iterable of meta answers.
+
+    Example:
+
+    spell_meta(
+        {'foodless': ['f', 's'],
+         'romania': ['r', 'a'],
+         'ifatall': ['i', 'l'],
+         'emerita': ['e', 'a'],
+         'stormed': ['s', 'd']},
+        ['fries', 'salad'],
+    )
+    """
+    def spell_metas_r(paths: List[str], metas: List[str]) -> Iterator[Iterable[str]]:
+        if all(not meta for meta in metas):
+            yield paths
+            return
+
+        for word, vals in words.items():
+            new_metas = []
+            valid = True
+            for val, meta in zip(vals, metas):
+                if meta.startswith(val):
+                    new_metas.append(meta[len(val):])
+                else:
+                    valid = False
+                    break
+            if valid:
+                yield from spell_metas_r(paths + [word], new_metas)
+
+    yield from spell_metas_r([], metas)
+
+def rel_path(path):
+    return os.path.join(os.path.dirname(__file__), path)
