@@ -8573,11 +8573,14 @@ chickendumpling;50
 chickendumplings;50
 chickenedout;60
 chickeningout;60
+chickenofthesea;60
 chickenout;60
 chickenskewer;50
 chickenskewers;50
 chickensout;60
 chickentendies;60
+chickenugget;60
+chickenuggets;60
 chickmagnet;60
 chickmagnets;60
 chicks;50
@@ -9585,6 +9588,8 @@ colours;40
 colter;30;Plow cutting tool
 colters;30;Plow cutting tools
 coltranechanges;50
+coltrevolver;50
+coltrevolvers;50
 columbiacollege;50
 columbiasc;40
 com;40
@@ -30053,12 +30058,13 @@ met;50
 metabolite;40
 metabolites;40
 metacomet;30
-metaldetector;50
-metaldetectors;50
+metaldetector;60
+metaldetectors;60
 metalhandcuffs;50
 metallica;60
 metallicelement;40
 metallicelements;40
+metalmusic;50
 metalprojectile;1
 metalriff;60
 metalriffs;60
