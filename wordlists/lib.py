@@ -202,5 +202,20 @@ def is_symmetrical(themers):
     lengths = [len(themer) for themer in themers]
     return lengths == lengths[::-1]
 
+def spellable_metas(themers, words, filter=is_symmetrical):
+    """
+    Finds meta answers that can be spelled from a set of potential theme entries. Yields these
+    answers and the theme sets that can spell them.
+
+    * `themers` maps theme entries to the letter or string they contribute to the meta answer.
+    * `words` is the word list to search through.
+    * `filter` is a function that returns `True` for acceptable theme sets. The default only accepts
+      symmetrical theme sets.
+    """
+    for word in words:
+        spellings = [spelling for spelling in spell_meta(word, themers) if filter(spelling)]
+        if spellings:
+            yield word, spellings
+
 def rel_path(path):
     return os.path.join(os.path.dirname(__file__), path)
