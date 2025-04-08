@@ -1048,6 +1048,7 @@ agt;40
 agua;40
 aguafresca;40
 aguafrescas;40
+aguarico;30;River in Ecuador
 ague;40;Fever
 agues;40
 aguything;60
@@ -2663,6 +2664,7 @@ aredead;20
 areel;40
 arelike;20
 arenabowl;50
+arenarock;60
 arendt;30;Historian Hannah
 arenose;20;Gritty
 arenot;50
@@ -4172,16 +4174,17 @@ bana;40;Actor Eric Bana
 bananacream;60
 bananacreampie;60
 bananacreampies;60
+bananagrams;60
 bananamania;50
 bananarama;60
 bananas;50
-bananasandcream;30;Cream of Wheat flavor
+bananasandcream;50;Cream of Wheat flavor
 bananaseat;50
 bananaseats;50
 bananaslug;50
 bananaslugs;50
-bananasplit;50
-bananasplits;50
+bananasplit;60
+bananasplits;60
 banc;40
 banco;40
 bandb;30
@@ -4451,7 +4454,9 @@ bastogne;30;WWII battle site
 basts;30
 bat;50
 batali;5;Sexual assault
+bataneye;60
 bataneyelash;60
+bataneyelid;60
 batcave;60
 batcaves;50
 batchit;1
@@ -14198,11 +14203,11 @@ ecocar;20
 ecocars;20
 ecofreak;40
 ecofreaks;40
-ecohorror;50
-ecohorrorfilm;50
-ecohorrorfilms;50
-ecohorrormovie;50
-ecohorrormovies;50
+ecohorror;60
+ecohorrorfilm;60
+ecohorrorfilms;60
+ecohorrormovie;60
+ecohorrormovies;60
 ecohorrors;40;Plural??
 ecohotel;30;It's a real thing
 ecohotels;30
@@ -21067,6 +21072,8 @@ hch;20
 hciwdnasbulc;1
 hcl;20
 hd;40
+hddvd;40
+hddvds;40
 hdl;40
 hdmi;40
 hdvideo;40
@@ -23418,7 +23425,7 @@ imsuchafool;60
 imsuchajerk;60
 imsuchamoron;60
 imsuchanidiot;60
-imsure;60
+imsure;50
 imtired;50
 imtoast;60
 imtoo;20
@@ -23426,7 +23433,7 @@ imtryingmybest;60
 imtryingtoeat;60
 imup;50
 imupforit;60
-imupset;30
+imupset;40
 imustbedreaming;60
 imustbeoff;60
 imustinsist;60
@@ -27094,6 +27101,8 @@ lepews;20
 lepidote;30
 lepore;30;Historian Jill Lepore
 leprose;20;Rough, scaly
+lepton;40;Elementary particle
+leptons;40
 ler;20
 lerners;20
 leroidys;30;???
@@ -32796,6 +32805,9 @@ notar;40;Cigarette claim
 notarial;30;???
 notatoy;50
 notax;40
+notbataneye;60
+notbataneyelash;60
+notbataneyelid;60
 notbeen;1
 notbigon;60
 notcare;30
@@ -33493,6 +33505,7 @@ offsides;50
 offstream;50
 offtarget;50
 offthebeatenpath;60
+offthehip;50;Off the cuff
 offtone;40;Off-key, dissonant
 ofiwo;20
 ofo;20
@@ -34021,6 +34034,7 @@ oneheart;20
 onehit;30
 onehits;20
 onehop;30
+onehour;50
 onehundredyearsofsolitude;60
 oneida;30;Native American tribe
 oneidalake;30
@@ -34129,6 +34143,7 @@ onevolt;40
 onewatt;40
 onewoman;30
 onewood;40
+oneyear;40
 onfeed;40
 onfirst;40
 ongod;50
@@ -36407,10 +36422,14 @@ pho;50
 phobos;60;Martian moon
 phobosanddeimos;20
 phoenixaz;40
+phoneditin;50
 phoneinterview;50
 phoneinterviews;50
+phoneitin;50
 phoneno;40
 phonenos;40
+phonesitin;50
+phoningitin;50
 phono;40;Prefix
 phonybaloney;60
 photobomb;60
@@ -38922,6 +38941,8 @@ rageson;40
 raggedon;40
 ragger;30
 raggers;30
+raggier;30
+raggiest;30
 raggingon;40
 raggle;30;Raggle-taggle
 raggy;30
@@ -39144,7 +39165,10 @@ rangel;30;Charles Rangel, founding member of the Congressional Black Caucus
 rangertab;50
 rangertabs;50
 rangfor;40
+rangier;30
+rangiest;30
 rangin;40
+ranginess;40
 rangy;30
 ranin;40
 ranine;20;Frog-related, or region under the tongue
@@ -40300,6 +40324,7 @@ rentedto;40
 rentes;20
 rentfreeze;50
 rentfreezes;50
+rentier;40
 rentingaroom;40
 rentingto;40
 rentroll;30
@@ -41161,6 +41186,8 @@ rippedat;40
 rippedinto;40
 rippedintwo;50
 rippedone;20
+rippedtopieces;60
+rippedtoshreds;60
 rippingat;40
 rippinginto;40
 rippingintwo;50
@@ -41175,6 +41202,10 @@ ripsinto;40
 ripsintwo;50
 ripsnorting;60
 ripsone;20
+riptide;60
+riptides;60
+riptopieces;60
+riptoshreds;60
 riri;40;Rihanna
 ris;20
 risefor;40
@@ -42854,6 +42885,7 @@ scoffat;40
 scoffedat;40
 scoffingat;40
 scoffsat;40
+scolari;40;Peter Scolari of "Bosom Buddies"
 scoleco;20
 scooba;20;Discontinued Roomba sibling
 scoobas;20;Discontinued Roomba siblings
@@ -44167,7 +44199,8 @@ shoeshops;40
 shoetongue;50
 shoetongues;50
 shoevelssnow;50
-shofar;30;???
+shofar;30;Jewish horn
+shofars;30
 shogi;40;Japanese chess
 shoji;40;Japanese translucent door/window/room divider
 shooedin;20
@@ -45229,8 +45262,10 @@ slumlord;60
 slumlords;60
 slurpee;60
 slurpees;60
+slushies;60
 slushpile;60
 slushpiles;60
+slushy;60
 sly;50
 slytherin;60
 slytherins;60
@@ -47143,7 +47178,7 @@ stetted;40
 stetting;40
 steuben;40
 steveguttenberg;50
-stevehowe;60
+stevehowe;50;Yes guitarist
 stevemillerband;50
 stevenwilson;60
 steverogers;50
@@ -49153,6 +49188,8 @@ tearsofjoyemoji;60
 tearsofjoyemojis;60
 tearstrip;50
 tearstrips;50
+teartopieces;60
+teartoshreds;60
 teasel;20;Plant
 teasels;20;Plants
 teaserad;50
@@ -51318,6 +51355,7 @@ tonynom;50
 tonynoms;50
 tonyrandall;50
 tonys;50
+tonysoprano;60
 tonystark;60
 too;50
 toobigtofail;60
@@ -51498,6 +51536,8 @@ tornadoseeds;60;Acme invention
 torninto;40
 tornmcl;20
 tornmcls;20
+torntopieces;60
+torntoshreds;60
 toro;40
 toroid;30
 toroidal;30
@@ -52155,6 +52195,7 @@ trustedin;40
 trustedto;40
 truster;30
 trusters;30
+trusties;30;Convict allowed special privileges
 trustin;40
 trustingin;40
 trustingto;40
@@ -56209,6 +56250,7 @@ yourpointbeing;60
 youshouldseeyourface;60
 youshouldseeyourfaces;60
 yousnoozeyoulose;60
+youstink;60
 youtakeitback;60
 youtakethatback;60
 youtellmethisnow;60
