@@ -2,7 +2,6 @@
 
 import os
 import re
-from typing import *
 
 def load_words(min_score=0):
     """
@@ -139,66 +138,69 @@ def _normalize(word, synonyms):
 
     return synonyms
 
-def spell_meta(words: Dict[str, str], meta: str) -> Iterator[str]:
+def spell_meta(meta, themers):
     """
-    Yields sets of words that spell the meta answer.
+    Yields sets of themers that spell the meta answer.
 
-    * `words` maps words to the letter or string they contribute to the meta answer.
     * `meta` is the meta answer.
+    * `themers` maps theme entries to the letter or string they contribute to the meta answer.
 
     Example:
 
     spell_meta(
+        'fries',
         {'foodless': 'f',
          'romania': 'r',
          'ifatall': 'i',
          'emerita': 'e',
          'stormed': 's'},
-        'fries',
     )
     """
-    for answers in spell_metas([meta], {word: [val] for word, val in words.items()}):
-        yield answers[0]
+    return spell_metas([meta], {themer: [contribution] for themer, contribution in themers.items()})
 
-def spell_metas(
-    words: Dict[str, Iterable[str]],
-    metas: Iterable[str],
-) -> Iterator[Tuple[str, ...]]:
+def spell_metas(metas, themers):
     """
-    Yields sets of words that spell all the meta answers.
+    Yields sets of themers that spell all the meta answers.
 
-    * `words` maps words to the letters or strings they contribute to the meta answers.
+    * `themers` maps theme entries to the letters or strings they contribute to the meta answers.
     * `metas` is an iterable of meta answers.
 
     Example:
 
     spell_meta(
+        ['fries', 'salad'],
         {'foodless': ['f', 's'],
          'romania': ['r', 'a'],
          'ifatall': ['i', 'l'],
          'emerita': ['e', 'a'],
          'stormed': ['s', 'd']},
-        ['fries', 'salad'],
     )
     """
-    def spell_metas_r(paths: List[str], metas: List[str]) -> Iterator[Iterable[str]]:
+    def spell_metas_r(metas, used_themers):
         if all(not meta for meta in metas):
-            yield paths
+            yield used_themers
             return
 
-        for word, vals in words.items():
-            new_metas = []
-            valid = True
-            for val, meta in zip(vals, metas):
-                if meta.startswith(val):
-                    new_metas.append(meta[len(val):])
-                else:
-                    valid = False
-                    break
-            if valid:
-                yield from spell_metas_r(paths + [word], new_metas)
+        for themer, contributions in themers.items():
+            if themer in used_themers:
+                continue
 
-    yield from spell_metas_r([], metas)
+            new_metas = []
+            for contribution, meta in zip(contributions, metas):
+                if not meta.startswith(contribution):
+                    break
+                new_metas.append(meta[len(contribution):])
+            else:
+                yield from spell_metas_r(new_metas, used_themers + [themer])
+
+    yield from spell_metas_r(metas, [])
+
+def is_symmetrical(themers):
+    """
+    Checks if a list of theme entries has symmetrical lengths.
+    """
+    lengths = [len(themer) for themer in themers]
+    return lengths == lengths[::-1]
 
 def rel_path(path):
     return os.path.join(os.path.dirname(__file__), path)
