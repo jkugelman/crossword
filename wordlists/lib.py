@@ -138,12 +138,13 @@ def _normalize(word, synonyms):
 
     return synonyms
 
-def spell_meta(meta, themers):
+def spell_meta(meta, themers, min_count=None, max_count=None):
     """
     Yields sets of themers that spell the meta answer.
 
     * `meta` is the meta answer.
     * `themers` maps theme entries to the letter or string they contribute to the meta answer.
+    * `min_count` and `max_count` limit how many themers can be used.
 
     Example:
 
@@ -156,14 +157,20 @@ def spell_meta(meta, themers):
          'stormed': 's'},
     )
     """
-    return spell_metas([meta], {themer: [contribution] for themer, contribution in themers.items()})
+    return spell_metas(
+        [meta],
+        {themer: [contribution] for themer, contribution in themers.items()},
+        min_count,
+        max_count,
+    )
 
-def spell_metas(metas, themers):
+def spell_metas(metas, themers, min_count=None, max_count=None):
     """
     Yields sets of themers that spell all the meta answers.
 
     * `themers` maps theme entries to the letters or strings they contribute to the meta answers.
     * `metas` is an iterable of meta answers.
+    * `min_count` and `max_count` limit how many themers can be used.
 
     Example:
 
@@ -176,9 +183,14 @@ def spell_metas(metas, themers):
          'stormed': ['s', 'd']},
     )
     """
+    print(f"spell_metas: {metas}?")
     def spell_metas_r(metas, used_themers):
         if all(not meta for meta in metas):
-            yield used_themers
+            if min_count is None or len(used_themers) >= min_count:
+                yield used_themers
+            return
+
+        if max_count is not None and len(used_themers) >= max_count:
             return
 
         for themer, contributions in themers.items():
@@ -202,13 +214,14 @@ def is_symmetrical(themers):
     lengths = [len(themer) for themer in themers]
     return lengths == lengths[::-1]
 
-def spellable_metas(themers, words, filter=is_symmetrical):
+def spellable_metas(themers, words, min_count=None, max_count=None, filter=is_symmetrical):
     """
     Finds meta answers that can be spelled from a set of potential theme entries. Yields these
     answers and the theme sets that can spell them.
 
     * `themers` maps theme entries to the letter or string they contribute to the meta answer.
     * `words` is the word list to search through.
+    * `min_count` and `max_count` limit how many themers can be used.
     * `filter` is a function that returns `True` for acceptable theme sets. The default only accepts
       symmetrical theme sets.
     """
