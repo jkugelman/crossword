@@ -1,25 +1,30 @@
 #!/usr/bin/env python3
 
 # Builds a wordlist of "ghost" words that are valid words when letters are removed.
-# The ghost letters are replaced by Circled Letters: ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ.
-# Regex: `[Ⓐ-Ⓩ]`
+#
+# * With `--letters`, ghost letters are replaced by ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ (`[Ⓐ-Ⓩ]`).
+# * With `--substrings`, ghost substrings are replaced.
+# * With `--spaces`, ghost spaces ◯ are added between letters.
 
 from argparse import ArgumentParser
 import sys
 
-from lib import *
+from lib import load_words
 
 def main():
     parser = ArgumentParser()
     group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument('-l', '--letters', action='store_true')
-    group.add_argument('-s', '--substrings', action='store_true')
+    group.add_argument('--letters', action='store_true')
+    group.add_argument('--substrings', action='store_true')
+    group.add_argument('--spaces', action='store_true')
     args = parser.parse_args()
 
     if args.letters:
         ghost_generator = ghost_letters
     elif args.substrings:
         ghost_generator = ghost_substrings
+    elif args.spaces:
+        ghost_generator = ghost_spaces
     else:
         parser.print_usage(sys.stderr)
         sys.exit(1)
@@ -49,6 +54,12 @@ def ghost_substrings(words):
                 if shorter in words:
                     score = min(words[longer], words[shorter])
                     yield ghost, score
+
+def ghost_spaces(words):
+    for word, score in words.items():
+        for i in range(len(word) + 1):
+            ghost = word[:i] + '◯' + word[i:]
+            yield ghost, score
 
 def ghostify(s, a):
     return ''.join(chr(ord(a) + (ord(c) - ord('a'))) for c in s)
