@@ -2791,6 +2791,7 @@ arleen;40;Arleen Sorkin, voice of Harley Quinn
 arlenes;30
 arles;40;French city
 arm;50
+armandassante;50
 armanisuit;50
 armbar;50
 arme;20
@@ -7373,6 +7374,7 @@ candle;50
 candleholder;50
 candleholders;50
 candlewax;50
+candream;20;???
 candyass;60
 candyassed;60
 candycane;60
@@ -7667,6 +7669,7 @@ caricature;50
 caricatured;50
 caricatures;50
 caricaturing;50
+caries;40;Cavities
 carina;30;Constellation
 carinas;20;Doublets
 caringalot;40
@@ -8150,6 +8153,8 @@ cededto;40
 cedesto;40
 cedeto;40
 cedingto;40
+cedricdiggory;50;Harry Potter character
+cedrictheentertainer;50
 cee;30
 cees;30
 ceilidh;30;Gaelic social gathering
@@ -8618,6 +8623,8 @@ chicos;40
 chicostate;50;???
 chidden;20;Chided
 chidi;30;Chidi Anagonye, character on "The Good Place"
+chiefconstable;50
+chiefconstables;50
 chiefer;30;Sounds weeeeird???
 chiefexecutiveofficer;50
 chiefexecutiveofficers;50
@@ -8688,6 +8695,8 @@ chinook;50
 chinquapin;40;Type of oak tree
 chinua;40;Chinua Achebe
 chios;30;???
+chipleader;60
+chipleaders;60
 chippier;50
 chippiest;50
 chippy;50
@@ -8804,6 +8813,7 @@ chrisoms;20;Baptism cloths
 chrispratt;50
 chrisrock;50
 chrissquire;60
+christa;40;Teacher/astronaut Christa McAuliffe who died on the Challenger
 christiaan;40;???
 christiana;40
 christianname;60
@@ -9837,8 +9847,9 @@ conakry;40;Capital of Guinea
 conamore;50
 conartist;50
 conartists;50
-conation;30
+conation;30;Inclination, volition
 conations;30
+conative;40
 conceiver;40
 conceivers;40
 concent;20;Harmony, archaic
@@ -11963,6 +11974,7 @@ deniesto;30
 denimskirt;50
 denimskirts;50
 denisleary;50
+denisvilleneuve;60
 dennislehane;50;"Shutter Island" author
 denovo;50
 dentals;30
@@ -16604,6 +16616,7 @@ feelingsick;40
 feelingsmall;50
 feelingtenfeettall;60
 feelingtheburn;60
+feelingundertheweather;60
 feelinonesbones;60
 feelinsatisfied;50
 feelleftout;50
@@ -16630,10 +16643,12 @@ feelssick;40
 feelssmall;50
 feelstenfeettall;60
 feelstheburn;60
+feelsundertheweather;60
 feeltenfeettall;60
 feeltheburn;60
 feelthelove;60
 feelthirsty;50
+feelundertheweather;60
 feely;50
 feetontheground;60
 feh;40
@@ -16681,6 +16696,7 @@ feltsmall;50
 felttenfeettall;60
 felttheburn;60
 felttipped;50
+feltundertheweather;60
 felucca;40;Woodden sailing boat
 feluccas;40
 fem;40
@@ -20523,6 +20539,7 @@ hadaline;20
 hadalisp;40
 hadalook;50
 hadalookat;40
+hadanair;40
 hadanedge;50
 hadaneyeon;40
 hadanin;50
@@ -20915,6 +20932,7 @@ hasalisp;40
 hasalook;50
 hasalookat;40
 hasan;40;Comedian Hasan Minhaj
+hasanair;40
 hasanedge;50
 hasaneyeon;40
 hasanin;50
@@ -21021,6 +21039,7 @@ haveaheart;60
 haveahunch;50
 havealook;50
 havealookat;40
+haveanair;40
 haveanedge;50
 haveaneyeon;40
 haveanicelife;60
@@ -21063,6 +21082,7 @@ havingadrink;50
 havingahunch;60
 havingalook;50
 havingalookat;40
+havinganair;30
 havinganedge;50
 havinganeyeon;40
 havinganip;50
@@ -21546,6 +21566,7 @@ hetfield;50
 hew;50
 hewable;30
 hewedto;40
+hewhomustnotbenamed;60
 hewilleatyouforbreakfast;60
 hewingto;40
 hewsto;40
@@ -29438,6 +29459,7 @@ marvelingat;40
 marvelsat;40
 marvinkmooneywillyoupleasegonow;60;Dr. Seuss book
 marvintheparanoidandroid;60
+marvolo;40;Voldemort's middle name
 marvy;40;Marvelous
 marwen;40;"Welcome to Marwen"
 maryam;30;First name, who???
@@ -35742,6 +35764,7 @@ pasteon;40
 pastern;30;Part of a horse's foot
 pastesin;40
 pasteson;40
+pastevents;20
 pastiche;50
 pastiches;50
 pastil;40;Filipino dish, rice wrapped in banana leaves
@@ -44011,7 +44034,7 @@ sgs;20
 sgt;40
 sgtjoe;40;???
 sgtpreston;40
-sh;50
+sh;40
 sha;20
 shabti;20;Egyptian figurine
 shabtis;20;Egyptian figurines
@@ -44204,7 +44227,7 @@ shewilleatyouforbreakfast;60
 shewing;30
 shews;30
 shh;50
-shhh;30
+shhh;40
 shiatsumassage;50
 shiatsumassager;40
 shiatsumassagers;40
@@ -45234,6 +45257,8 @@ sleepmasks;50
 sleepmode;50
 sleepon;40
 sleeponit;60
+sleepout;30;Camping trip?
+sleepouts;30
 sleepsack;50
 sleepsacks;50
 sleepsaround;50
@@ -50079,6 +50104,7 @@ theeastindies;40
 theeconomist;50
 theemmys;40
 theemperor;60;Tarot card
+theentertainer;60
 theepa;20
 theespys;40
 theeu;20
@@ -50335,7 +50361,7 @@ thepie;20
 thepinta;20
 thepit;20
 theplay;50;Famous 1982 college football play
-thepo;20
+thepo;30;Italian river
 thepoconos;40
 thepolice;50
 thepond;30
@@ -51437,6 +51463,7 @@ tomhanks;50
 tomharkin;30;Iowa senator 1985-2015
 tomizzo;40;Tom Izzo, Michigan State basketball coach in the Hall of Fame
 tomlin;40;Lily Tomlin
+tommarvoloriddle;60
 tommieagee;50;Baseball player, one of the "Miracle Mets"
 tomriddle;60
 tomripley;60
@@ -52340,6 +52367,8 @@ trustto;40
 trw;20
 try;50
 tryagain;60
+trygve;40;U.N. Secretary General Trygve Lie 1946-52
+trygvelie;40;U.N. Secretary General Trygve Lie 1946-52
 tryingon;40
 tryingouton;40
 tryingto;40
@@ -53968,6 +53997,7 @@ viii;30
 viktor;40
 vil;20
 vilenin;20
+villeneuve;60
 vim;50
 vin;40;Vin Diesel, French wine, car VIN
 vinblanc;50
@@ -54375,6 +54405,9 @@ wantedto;40
 wanter;40
 wanters;40
 wantingto;40
+wantoned;40
+wantoning;40
+wantons;40
 wantsto;40
 wantto;40
 wap;40
@@ -54763,6 +54796,7 @@ weeniest;30
 weepfor;40
 weepingfor;40
 weepsfor;40
+weest;50
 weeun;50;Scot's tot
 weeuns;50;Scot's tots
 wefie;20;Group selfie
