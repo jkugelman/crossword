@@ -6659,6 +6659,7 @@ bsee;20
 bses;40
 bsharp;40
 bsing;40
+bsingles;40;Secondary tennis competitions
 bsmeter;60
 bsmeters;60
 bso;20
@@ -7724,7 +7725,7 @@ caroleans;30
 caron;30;Leslie Caron of "Gigi" [occasional]
 carpals;30
 carpat;40
-carpe;50;___ diem
+carpe;40;Carpe diem
 carpedat;40
 carpentry;50
 carpettreatment;50
@@ -8455,21 +8456,26 @@ cheatsdeath;60
 cheatson;40
 checkedinto;40
 checkedon;40
+checkedonesprivilege;60
 checkedwith;40
 checkers;50
 checkincounters;50
 checkinginto;40
 checkingon;40
+checkingonesprivilege;60
 checkingwith;40
 checkinto;40
 checkmate;60
 checkon;40
+checkonesprivilege;60
 checkoutcounter;50
 checksinto;40
 checkson;40
+checksonesprivilege;60
 checkswith;40
 checkwith;40
 checkyouregoatthedoor;60
+checkyourprivilege;60
 cheeredon;40
 cheeringon;40
 cheeringsection;50
@@ -8851,6 +8857,7 @@ chromedomes;50
 chromo;40
 chromos;20;Colored pictures, last used 1966
 chronicallyonline;60
+chronics;40;Weird plural
 chrono;40
 chronos;40;Greek personification of time
 chthonian;40
@@ -13614,6 +13621,10 @@ dronesonandon;50
 drongo;20;Black bird
 drongos;20;Black birds
 droningonandon;50
+dronish;40
+drood;40;Dickens's Edwin Drood
+droodle;40;Visual puzzle
+droodles;40
 dropabeat;50
 dropacid;50
 dropahint;50
@@ -14856,6 +14867,8 @@ emmynominees;50
 emmys;50
 emo;50
 emobangs;60
+emofan;20;Green paint
+emofans;20
 emohair;60
 emoji;60
 emojis;60
@@ -18588,7 +18601,7 @@ genemap;50
 genemapping;50
 genemaps;50
 genentech;50
-genera;30
+genera;40;Genuses
 generalassembly;50
 generalelection;50
 generalelectric;50
@@ -18964,6 +18977,9 @@ ghostmoth;50
 ghostmoths;50
 ghostnote;50
 ghostnotes;50
+ghostpepper;60
+ghostpeppers;60
+ghostrider;60
 ghosts;50
 ghostship;50
 ghostships;50
@@ -22625,6 +22641,8 @@ hyperlapsephotos;60
 hypernova;60;Superluminous stellar explosion
 hypernovae;60;Superluminous stellar explosions
 hypernovas;60;Superluminous stellar explosions
+hyperon;40;Type of baryon
+hyperons;40
 hyperrealism;60
 hyperrealistic;60
 hypers;40;???
@@ -27256,6 +27274,7 @@ letsinto;40
 letsjustmoveon;60
 letsjustmovepastit;60
 letsjustsay;60
+letskeepintouch;60
 letsmovepastit;60
 letsnotfindout;60
 letsnotturnitintoawholething;60
@@ -28569,6 +28588,8 @@ lustrating;30
 lustration;30
 lustre;20
 lustres;20
+lustron;40;Type of prefabricated post-WWII house
+lustrons;40
 lut;20
 luteal;30;Menstrual phase
 lutece;30;Michelin restaurant
@@ -29122,11 +29143,13 @@ maldemer;40;Mal de mer, seasickness
 malechorus;50
 maledict;30
 malefic;40;???
+malegaze;60
 maleic;30;Type of acid
-malemodel;50
-malemodels;50
+malemodel;60
+malemodels;60
 malenurse;50
 malenurses;50
+maleprivilege;60
 malesex;50
 malices;30
 malik;30;Zayn Malik, formerly of One Direction
@@ -29600,6 +29623,8 @@ matteringto;40
 mattersto;40
 matterto;40
 mattlauer;5
+mattresstopper;50
+mattresstoppers;50
 maturate;40
 maturated;40
 maturates;40
@@ -30027,9 +30052,11 @@ memorybank;50
 memorybanks;50
 memorychip;50
 memorychips;50
-memoryfoam;50
-memoryhole;50
-memoryholes;50
+memoryfoam;60
+memoryhole;60
+memoryholed;60
+memoryholes;60
+memoryholing;60
 memorylane;60
 memorypalace;60
 memorypalaces;60
@@ -30823,10 +30850,17 @@ molcajetes;40
 molepup;50
 molepups;50
 moleskin;50;Cotton fabric not actually made from moles
+molest;5
+molestation;5
+molestations;5
+molested;5
 molester;5
 molesters;5
+molesting;5
+molests;5
 molieres;40
 molies;20
+molina;40
 molinari;20;90s house rep
 moline;40;Moline, IL, headquarters of John Deere
 molitor;30;Baseball hall of famer Paul Molitor
@@ -32686,6 +32720,11 @@ nonagons;40
 nonaligned;40
 nonalignment;40
 nonarab;30
+nonbinary;60
+nonbinaryflag;60
+nonbinaryflags;60
+nonbinarygender;60
+nonbinarygenders;60
 nonchalant;50
 noncom;40
 noncomposmentis;60
@@ -35808,6 +35847,11 @@ pathand;60
 pathands;60
 pathless;40
 patinae;30
+patination;40
+patine;40;Coat with a patina
+patined;40
+patines;40
+patining;40
 patisserie;50
 patissier;50
 patissiers;50
@@ -38907,10 +38951,10 @@ rabbets;20;Wood joints
 rabbi;50
 rabbis;50
 rabbitears;60
-rabbited;30
+rabbited;40
 rabbitedon;40;Talked at length, British
 rabbitfur;50
-rabbiting;30
+rabbiting;40
 rabbitingon;40;Talking at length, British
 rabbiton;40;Talk at length, British
 rabbitson;40;Talks at length, British
@@ -39332,6 +39376,8 @@ raped;5
 rapes;5
 rapeseed;40
 rapeseedoil;40
+rapfan;20;Green paint
+rapfans;20
 rapgod;60
 rapgroup;50
 rapgroups;50
@@ -44371,31 +44417,31 @@ shoppedat;40
 shoppingat;40
 shopsat;40
 shorta;40
-shortas;20
+shortas;40
 shortcon;50
 shortcons;50
 shortday;40;???
 shortdays;40;???
 shorte;40
-shortes;20
+shortes;40
 shorthairedcat;50
 shorthairedcats;50
 shorthanded;50
 shorti;40
-shortis;20
+shortis;40
 shortking;60
 shortlist;60
 shorto;40
 shortof;40
 shortontime;50
-shortos;20
+shortos;40
 shortround;50
 shortstop;50
 shortstops;50
 shortsubject;50
 shortsubjects;50
 shortu;40
-shortus;20
+shortus;40
 shot;50
 shotat;40
 shotblanks;50
@@ -49969,6 +50015,7 @@ thebbc;20
 thebeard;60
 thebearerofbadnews;20
 thebeastwithin;50
+thebeat;20
 thebeatenpath;60
 thebeatles;60
 thebeeb;50
@@ -54958,7 +55005,9 @@ wentz;40;Pete Wentz from Fall Out Boy
 weptfor;40
 wereallears;60
 wereallout;60
-wereallset;50
+wereallset;60
+wereallsethere;60
+wereallsettogo;60
 werealmostthere;60
 werebad;60
 werecool;60
@@ -55202,6 +55251,7 @@ whitelotus;60
 whitemagic;60
 whitemencantjump;60
 whitenoise;50
+whiteprivilege;60
 whiterat;30
 whiterhino;50
 whiterhinoceri;40;Nonstandard plural
@@ -56381,6 +56431,8 @@ yourargumentisinvalid;60
 yourball;60
 youreadmymind;60
 youreagenius;60
+youreallset;60
+youreallsettogo;60
 youreameanonemrgrinch;60
 youreaskingforit;60
 yourebad;60
