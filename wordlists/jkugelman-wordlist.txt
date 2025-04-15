@@ -565,6 +565,7 @@ adagencies;50
 adagency;50
 adair;40;Firefighter Red Adair
 adairs;20
+adaline;40;???
 adama;40
 adamants;30
 adamondra;50
@@ -593,7 +594,7 @@ addedto;40
 addedupto;40
 addfuel;30;Green painty
 addies;40;Addresses, slangily [never used]
-addin;40
+addin;50
 addingin;40
 addinginto;40
 addingmachines;50
@@ -602,6 +603,7 @@ addingonto;40
 addingspice;50
 addingto;40
 addingupto;40
+addins;40
 addinto;40
 addisababa;50
 addl;40
@@ -1357,6 +1359,7 @@ aleman;20;Mexican president
 alembic;30;Alchemy vessel
 alembics;30
 alencon;20;Normandy town
+alephs;40
 alertedto;40
 alerter;40
 alerters;40
@@ -1713,6 +1716,7 @@ amana;40;Kitchen appliance brand
 amanapart;50
 amanaplanacanal;60
 amanas;40
+amanita;40;Mushroom genus
 amapola;20;1920 song, poppy in Spanish
 amarelle;30;Sour cherry
 amaretti;40;Cookies made with amaretto
@@ -3342,7 +3346,7 @@ atadoff;20
 atafeverpitch;60
 atahualpa;50
 atalanta;20
-ataleasoldastime;50
+ataleasoldastime;60
 atalefortheages;60
 atallorder;50
 atalowebb;40
@@ -3778,6 +3782,7 @@ aye;50
 ayearago;30
 ayeayesir;50
 ayer;30
+ayesha;40
 aymara;30;Peruvian native/language
 ayn;40
 ayo;40;Ayo Edebiri of "The Bear" or Ayọ Tometi, co-founder of Black Lives Matter
@@ -4655,6 +4660,8 @@ bccs;40
 bcd;20
 bcde;20
 bce;20
+bcell;40
+bcells;40
 bcs;20
 bcup;50
 bcupbra;50
@@ -5219,6 +5226,10 @@ bicepcurl;50
 bicepcurls;50
 bicepses;20
 bichloride;40
+bicorn;40
+bicorne;40
+bicornes;40
+bicorns;40
 bicpen;30
 bicpens;30
 bicyclerace;50
@@ -5691,6 +5702,8 @@ blockoff;50
 blockout;50
 blocksoff;50
 blocksout;50
+blogpost;60
+blogposts;60
 blogroll;50
 blogrolls;50
 blogswarm;50
@@ -5740,6 +5753,8 @@ blowon;40
 blowonesownhorn;50
 blowpipe;60
 blowpipes;60
+blowpop;60
+blowpops;60
 blowsakiss;50
 blowsinto;40
 blowsmoke;50
@@ -5810,6 +5825,8 @@ blush;50
 blushful;30
 blvd;30
 bly;40;Journalist Nellie Bly
+blymphocyte;40;B lymphocyte
+blymphocytes;40
 bmajor;40
 bmi;40
 bminor;40
@@ -6030,8 +6047,8 @@ booat;40
 boobama;50
 boobird;50;One who boos the home team
 boobirds;50
-boobjob;50
-boobjobs;50
+boobjob;60
+boobjobs;60
 booboo;50
 booboos;50
 boobtube;60
@@ -11445,6 +11462,7 @@ daverages;40
 davidgeffen;50
 davidgilmour;60
 davidhedison;30;???
+davidoyelowo;50;"Selma" actor
 davids;30
 davit;20
 davits;20
@@ -12528,6 +12546,8 @@ directsnaps;50
 direr;50
 direst;50
 direwarning;50
+direwolf;60
+direwolves;60
 dirigism;40;System in which a government has a lot of control over a country's economy
 dirigisme;40
 dirigiste;40
@@ -13219,6 +13239,7 @@ dorsa;20
 dorsalfin;50
 dorsalfins;50
 dorset;40;English county
+dorsett;40;???
 dorseys;30
 dorsi;40;Latissimus dorsi
 dos;50;Number, or hairdos, or opposite of don'ts
@@ -13906,6 +13927,7 @@ dur;20
 dura;40
 duran;40
 durbin;30;1930s singer/actress Deanna Durbin
+durden;40;Tyler Durden from "Fight Club"
 durer;30;Renaissance artist Albrecht Durer
 durers;20
 durhamnc;30
@@ -14518,8 +14540,8 @@ egotripping;60
 egotrips;60
 egots;40
 egression;30
-egret;40
-egrets;40
+egret;50
+egrets;50
 egs;20
 egyptiancobra;50
 egyptiancobras;50
@@ -14699,6 +14721,7 @@ elion;20
 eliotness;50
 elis;40;Yale students
 elise;40
+elissa;40
 elitisms;20
 eliud;40;Eliud Kipchoge, all-time-great long-distance runner
 eljames;40;"Fifty Shades" author
@@ -14713,6 +14736,7 @@ ellegirl;50
 elleking;50;Country singer
 ellesmere;40;???
 ellesse;30;Italian sportswear brand
+ellie;40
 ellies;30;Magazine awards
 elliotts;30
 ellipticalorbit;50
@@ -20018,6 +20042,7 @@ grandtiers;50
 grandtour;50
 grandtours;50
 grange;40
+granita;40;Relative of Italian ice
 granite;50
 granites;40
 granitestate;50
@@ -20157,6 +20182,7 @@ greenhousegas;60
 greenhousegases;60
 greenish;30
 greenliving;50
+greenman;40;???
 greenpepper;50
 greenpeppers;50
 greensboronc;30
@@ -23307,6 +23333,7 @@ imbrues;40
 imbruing;40
 imbushed;60
 imcallingitanight;50
+imclone;30;Company in Martha Stewart's trading scandal
 imcomin;1
 imcool;60
 imcurious;60
@@ -23547,12 +23574,14 @@ inagoodway;50
 inahotminute;60
 inaidof;40
 inajam;50
-inajiff;60
-inajiffy;60
+inajiff;50
+inajiffy;50
 inaknot;40
 inalarm;50
 inalather;50
 inalie;20
+inalimo;20
+inaline;40
 inallcaps;60
 inallfairness;60
 inalllikelihood;60
@@ -23634,8 +23663,10 @@ incest;5
 incestuous;30
 incestuously;30
 incharge;50
+incheon;30;Korean War battle site
 inchnails;1
 inchoative;40;Type of verb
+inchon;30;Korean War battle site
 incise;30
 incised;30
 incises;30
@@ -28484,6 +28515,7 @@ lucasarts;50
 luce;30;Henry Luce, founder of Time
 lucent;30
 lucently;30
+lucern;20
 luchador;60
 luchadora;60
 luchadoras;60
@@ -28716,6 +28748,8 @@ machtwo;40
 machu;40
 macle;20;Twin crystal
 maclean;40;Who???
+maclen;30;Beatles music company (McCartney-Lennon)
+maclenmusic;50
 macles;20;Twin crystals
 macnee;40;Patrick Macnee from "The Avengers" TV series
 macon;40;Macon, GA
@@ -33224,6 +33258,8 @@ nureyev;40;Ballet dancer Rudolf Nureyev
 nurmi;20;Distance runner Paavo the "Flying Finn"
 nurser;30
 nursesaide;50
+nursie;30;Childish "nurse"
+nursies;30
 nursingbra;50
 nursingbras;50
 nus;30;Plural letter nu
@@ -33301,7 +33337,8 @@ nyyankee;40
 nyyankees;40
 o;40
 oaf;50
-oahuan;40
+oahuan;50
+oahuans;50
 oahuhawaii;50
 oak;50
 oaked;30
@@ -34054,6 +34091,7 @@ onarail;40;How to run someone out of town
 onaroll;60
 onarope;40
 onarun;40
+onaside;40;Per team
 onaslant;30
 onassis;40
 onastar;20
@@ -35263,6 +35301,7 @@ oxytones;30
 oy;50
 oye;40
 oyecomova;50
+oyelowo;40;"Selma" actor David Oyelowo
 oyez;50
 oyl;40
 oyls;30;Olive and Castor
@@ -35676,6 +35715,7 @@ partc;20;Medicare option
 partd;20;Medicare option
 partedfrom;40
 parter;40
+parterre;40;Ornamental garden with paths between the beds
 parters;40
 partfrom;40
 parthree;50
@@ -36622,6 +36662,7 @@ physicsmajors;50
 physique;60
 pi;50
 pia;40
+piaget;40;Psychologist Jean Piaget, or Swiss watch brand
 piamaters;30;Bad plural
 pianino;40;Small upright piano
 pianiste;20;Female pianist
@@ -37868,11 +37909,15 @@ poundon;40
 poundpuppies;50
 poundpuppy;50
 poundson;40
+pouredin;40
 pourediton;50
 pourer;40
 pourers;40
+pourin;40
+pouringin;40
 pouringiton;50
 pouriton;50
+poursin;40
 poursiton;50
 poussin;30;17th century painter Nicolas Poussin
 pouter;40
@@ -38647,6 +38692,8 @@ puppyloves;40;Plural?
 puppymill;60
 puppymills;60
 pur;40;Brita competitor
+purdah;30;Muslim/Hindu practice of segregating women
+purdahs;30
 pureasthedrivensnow;60
 purechance;50
 puri;20
@@ -40133,6 +40180,10 @@ reembodied;20
 reembodies;20
 reembody;20
 reembodying;20
+reenamel;40
+reenameled;40
+reenameling;40
+reenamels;40
 reerect;20
 reerected;20
 reerecting;20
@@ -41816,9 +41867,9 @@ rosemaries;30
 rosemaryclooney;50
 rosencrantz;60
 roseover;40
-roseperiod;50
-rosepetal;50
-rosepetals;50
+roseperiod;60
+rosepetal;60
+rosepetals;60
 roser;20
 rosesarered;60
 roseslug;40;Insect
@@ -44119,6 +44170,7 @@ shako;30;Military cap
 shakos;30
 shakti;20
 shalamar;40;Old R&B group
+shalane;40;Olympic runner Shalane Flanagan
 shalomaleichem;60;Hebrew greeting
 shameon;20
 shameonme;60
@@ -45412,11 +45464,20 @@ slowdanced;50
 slowdances;50
 slowdancing;50
 slowfashion;60
+slowfood;60
 slowgrind;50
 slowgrinds;50
 slowloris;50;Cute nocturnal mammal
 slowlorises;50
 slowmo;50
+slowpoke;60
+slowpokes;60
+slowroll;60
+slowrolled;60
+slowroller;60
+slowrollers;60
+slowrolling;60
+slowrolls;60
 slr;40
 slrs;40
 sls;20
@@ -45758,6 +45819,8 @@ snowcat;50
 snowcats;50
 snowclone;60
 snowcloudseeder;60;Acme invention
+snowcone;60
+snowcones;60
 snowcrash;60
 snowe;40;Olympia Snowe, Maine senator 1995-2013
 snowflurries;50
@@ -48911,16 +48974,16 @@ talced;40;Powdered (verb)
 talcing;40;Powdering
 talcose;30;???
 talcs;40;Powders (verb)
-taleasoldastime;50
+taleasoldastime;60
 talefortheages;60
-talentagencies;50
-talentagency;50
-talentagent;50
-talentagents;50
+talentagencies;60
+talentagency;60
+talentagent;60
+talentagents;60
 talenti;30
-talentpool;50
-talentshow;50
-talentshows;50
+talentpool;60
+talentshow;60
+talentshows;60
 taleof;20
 taler;20;Old coin
 talers;20
@@ -49211,6 +49274,7 @@ tattooist;50
 tattooists;50
 tatums;20
 tau;50
+taupin;40;Elton John's lyricist Bernie Taupin
 taurids;30;Meteor shower
 tauromachies;30
 tauromachy;30;Art of bullfighting
@@ -56125,6 +56189,7 @@ yalie;40
 yalies;40
 yallreadyforthis;60
 yam;50
+yama;30;Hindu god of death
 yamamoto;40;WWII admiral Isoroku Yamamoto
 yamen;20
 yamens;20
