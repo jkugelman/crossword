@@ -6,12 +6,7 @@
 # * With `--substrings`, ghost substrings are replaced.
 # * With `--spaces`, ghost spaces ◯ are added between letters.
 #
-# ```
-# $ ./ghost-wordlist.py --letters 1 > ghost-letters-1.txt
-# $ ./ghost-wordlist.py --letters 2 > ghost-letters-2.txt
-# $ ./ghost-wordlist.py --letters 3 > ghost-letters-3.txt
-# $ ./ghost-wordlist.py --spaces > ghost-spaces.txt
-# ```
+# Run `./ghosts-make` to remake all of the ghost wordlists.
 
 from argparse import ArgumentParser
 from itertools import combinations
