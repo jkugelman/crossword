@@ -37,11 +37,13 @@ def main():
     for ghost, score in ghost_generator(words):
         print(f"{ghost};{score}")
 
-def ghost_letters(n, words):
+def ghost_letters(n, words, min_ghost_length=3):
     for longer in words:
         for n in range(1, n + 1):
             for indices in combinations(range(len(longer)), n):
                 shorter = remaining = ''.join(c for i, c in enumerate(longer) if i not in indices)
+                if len(shorter) < min_ghost_length:
+                    continue
                 if shorter in words:
                     ghost = remaining = ''.join((ghostify(c, 'Ⓐ') if i in indices else c) for i, c in enumerate(longer))
                     score = min(words[longer], words[shorter])
