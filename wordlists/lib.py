@@ -13,7 +13,8 @@ def load_words(min_score=0, bonuses=False):
 
     _load(words, 'jkugelman-wordlist.txt')
     _load(words, 'XwiJeffChenList.txt', [_xwi_renumber])
-    _load(words, 'spreadthewordlist.txt', [_filter(min_score=50)])
+    _load(words, 'spreadthewordlist.txt', [_stwl_renumber])
+    _load(words, 'peter-broda-wordlist__gridtext__scored__july-25-2023.txt', [_broda_renumber])
 
     if bonuses:
         _add_bonuses(words, 'jkugelman-clues.txt')
@@ -76,6 +77,32 @@ def _xwi_renumber(word, score):
         return (word, 30)
     elif score >= 25:
         return (word, 20)
+    else:
+        return (word, 20)
+
+def _stwl_renumber(word, score):
+    if score >= 50:
+        return (word, score)
+    elif score >= 40:
+        return (word, 30)
+    elif score >= 30:
+        return (word, 20)
+    elif score == 0:
+        return (word, 5)
+    else:
+        return (word, 1)
+
+def _broda_renumber(word, score):
+    # Based on what Sid Sivakumar says in
+    # https://www.youtube.com/live/pfC5EZVki7A?si=w7f8sgVCdwlNEZbN&t=975
+    if score >= 80 and len(word) >= 7:
+        return (word, 60)
+    elif score >= 70 and len(word) >= 7:
+        return (word, 50)
+    elif score >= 60 and len(word) >= 7:
+        return (word, 40)
+    elif score >= 50 and len(word) >= 7:
+        return (word, 30)
     else:
         return (word, 20)
 
