@@ -1,0 +1,6 @@
+#!/bin/bash
+
+trap 'echo "+ $BASH_COMMAND" >&2' DEBUG
+
+./ghost-wordlist.py --letters > ghost-letters.txt
+./ghost-wordlist.py --spaces > ghost-spaces.txt
