@@ -3,9 +3,10 @@
 import os
 import re
 
-def load_words(min_score=0):
+def load_words(min_score=0, bonuses=False):
     """
-    Loads STWL + XWI + jkugelman-wordlist.txt.
+    Loads STWL + XWI + `jkugelman-wordlist.txt`. If `bonuses` is `True`, also gives extra points to
+    entries from `jkugelman-clues.txt`.
     """
 
     words = {}
@@ -14,7 +15,20 @@ def load_words(min_score=0):
     _load(words, 'XwiJeffChenList.txt', [_xwi_renumber])
     _load(words, 'spreadthewordlist.txt', [_filter(min_score=50)])
 
+    if bonuses:
+        _add_bonuses(words, 'jkugelman-clues.txt')
+
     return {word: score for (word, score) in words.items() if score >= min_score}
+
+def save_words(words, path, scores=True, min_score=0):
+    """
+    Saves the wordlist `words` to a text file at `path`. If `scores` is `False` the scores are
+    omitted. Words below `min_score` are filtered out.
+    """
+    with open(rel_path(path), 'w') as file:
+        for (word, score) in sorted(words.items()):
+            if score >= min_score:
+                file.write(f'{word};{score}\n' if scores else f'{word}\n')
 
 def _load(words, path, edits=[]):
     with open(rel_path(path)) as file:
@@ -64,6 +78,23 @@ def _xwi_renumber(word, score):
         return (word, 20)
     else:
         return (word, 20)
+
+def _add_bonuses(words, path):
+    bonuses = {}
+    with open(rel_path(path)) as file:
+        for line in file:
+            word_with_stars = line.strip().split(';')[0]
+            word = word_with_stars.lstrip('*')
+            star_count = len(word_with_stars) - len(word)
+            score = 1 + star_count
+            if score > bonuses.get(word, 0):
+                bonuses[word] = score
+
+    for word, bonus in bonuses.items():
+        try:
+            words[word] += bonus
+        except KeyError:
+            pass
 
 def phrases(entry, words, ignore_short=True):
     """
