@@ -12,9 +12,9 @@ def load_words(min_score=0, bonuses=False):
     words = {}
 
     _load(words, 'jkugelman-wordlist.txt')
-    _load(words, 'XwiJeffChenList.txt', [_xwi_renumber])
-    _load(words, 'spreadthewordlist.txt', [_stwl_renumber])
-    _load(words, 'peter-broda-wordlist__gridtext__scored__july-25-2023.txt', [_broda_renumber])
+    _load(words, 'XwiJeffChenList.txt', _xwi_renumber)
+    _load(words, 'spreadthewordlist.txt', _stwl_renumber)
+    _load(words, 'peter-broda-wordlist__gridtext__scored__july-25-2023.txt', _broda_renumber)
 
     if bonuses:
         _add_bonuses(words, 'jkugelman-clues.txt')
@@ -31,7 +31,7 @@ def save_words(words, path, scores=True, min_score=2):
             if score >= min_score:
                 file.write(f'{word};{score}\n' if scores else f'{word}\n')
 
-def _load(words, path, edits=[]):
+def _load(words, path, filter=None):
     with open(rel_path(path)) as file:
         new_words = dict()
 
@@ -40,71 +40,42 @@ def _load(words, path, edits=[]):
             word = re.sub('[^a-z]', '', word.lower())
             score = int(score.split(';')[0])
 
-            for edit in edits:
-                old = (word, score)
-                word, score = edit(word, score)
+            if filter:
+                score = filter(word, score)
 
-                if score < 0:
-                    break
-
-            if score < 0:
-                continue
-
-            new_words[word] = score
+            if score is not None:
+                new_words[word] = score
 
         for word, score in new_words.items():
             words.setdefault(word, score)
 
-def _filter(min_score=None, max_score=None, min_length=None, max_length=None):
-    def filter(word, score):
-        if min_score != None and score < min_score:
-            return (word, -1)
-        if max_score != None and score > max_score:
-            return (word, -1)
-        if min_length != None and len(word) < min_length:
-            return (word, -1)
-        if max_length != None and len(word) > max_length:
-            return (word, -1)
-        return (word, score)
-    return filter
-
 def _xwi_renumber(word, score):
     if score >= 60:
-        return (word, 60)
+        return 60
     if score >= 50:
-        return (word, 50)
+        return 50
     if score >= 30:
-        return (word, 30)
+        return 30
     elif score >= 25:
-        return (word, 20)
+        return 20
     else:
-        return (word, 20)
+        return 20
 
 def _stwl_renumber(word, score):
     if score >= 50:
-        return (word, score)
-    elif score >= 40:
-        return (word, 20)
-    elif score >= 30:
-        return (word, 20)
-    elif score == 0:
-        return (word, 5)
+        return 50
     else:
-        return (word, 1)
+        return None
 
 def _broda_renumber(word, score):
     # Based on what Sid Sivakumar says in
     # https://www.youtube.com/live/pfC5EZVki7A?si=w7f8sgVCdwlNEZbN&t=975
-    if score >= 80 and len(word) >= 7:
-        return (word, 60)
-    elif score >= 70 and len(word) >= 7:
-        return (word, 50)
-    elif score >= 60 and len(word) >= 7:
-        return (word, 40)
-    elif score >= 50 and len(word) >= 7:
-        return (word, 30)
+    if len(word) < 7:
+        return None
+    if score >= 80:
+        return 60
     else:
-        return (word, 20)
+        return None
 
 def _add_bonuses(words, path):
     bonuses = {}
