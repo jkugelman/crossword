@@ -19,13 +19,13 @@ from lib import load_words
 def main():
     parser = ArgumentParser()
     group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument('--letters', action='store_true')
+    group.add_argument('--letters', type=int)
     group.add_argument('--substrings', action='store_true')
     group.add_argument('--spaces', action='store_true')
     args = parser.parse_args()
 
     if args.letters:
-        ghost_generator = ghost_letters
+        ghost_generator = lambda words: ghost_letters(args.letters, words)
     elif args.substrings:
         ghost_generator = ghost_substrings
     elif args.spaces:
@@ -39,9 +39,14 @@ def main():
     for ghost, score in ghost_generator(words):
         print(f"{ghost};{score}")
 
-def ghost_letters(words):
-    yield from ghost_letters_impl(1, 'Ⓐ', words)
-    yield from ghost_letters_impl(2, '⒜', words)
+def ghost_letters(n, words):
+    if n == 1:
+        yield from ghost_letters_impl(1, 'Ⓐ', words)
+    elif n == 2:
+        yield from ghost_letters_impl(2, '⒜', words)
+    else:
+        print(f"n>2 not supported", file=sys.stderr)
+        sys.exit(1)
 
 def ghost_letters_impl(n, a, words):
     for longer in words:

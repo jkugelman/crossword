@@ -2,5 +2,6 @@
 
 trap 'echo "+ $BASH_COMMAND" >&2' DEBUG
 
-./ghost-wordlist.py --letters > ghost-letters.txt
+./ghost-wordlist.py --letters 1 > ghost-letters-1.txt
+./ghost-wordlist.py --letters 2 > ghost-letters-2.txt
 ./ghost-wordlist.py --spaces > ghost-spaces.txt
