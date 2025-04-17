@@ -84,7 +84,7 @@ def _stwl_renumber(word, score):
     if score >= 50:
         return (word, score)
     elif score >= 40:
-        return (word, 30)
+        return (word, 20)
     elif score >= 30:
         return (word, 20)
     elif score == 0:
