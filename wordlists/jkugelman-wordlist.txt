@@ -1755,7 +1755,7 @@ amaretto;50;Liqueur
 amarettos;40
 amarillotexas;50
 amarillotx;30
-amas;30
+amas;40
 amassable;40
 amasser;40
 amassers;40
@@ -2456,8 +2456,8 @@ apoapsides;30
 apoapsis;30;Astronomy word
 apoapsises;30
 apocket;20
-apogeal;30
-apogean;30
+apogeal;40;Related to the apogee
+apogean;40;Apogean tide
 apojove;30;Astronomy word
 apojoves;30
 apolar;30;Nonpolar is preferred
@@ -14152,8 +14152,8 @@ easein;40
 easeinto;40
 easeled;30
 easeout;40
-easer;30
-easers;30
+easer;40
+easers;40
 easesby;40
 easesin;40
 easesinto;40
@@ -20167,6 +20167,7 @@ grateon;40
 grateson;40
 gratia;40
 gratingon;40
+gratins;40;Weird plural
 grau;20
 gravamen;30
 gravano;40;Mobster Salvatore "Sammy the Bull" Gravano
@@ -32589,18 +32590,19 @@ niners;40
 nines;40
 nineseven;20;WTF
 ninetales;50;Pokeyman
-nineteen;40
-nineteeneighty;20
-nineteeneightyfour;50
-nineteenfifties;20
-nineteenfifty;20
-nineteenforty;20
-nineteenninety;20
+nineteen;50
+nineteeneighty;30
+nineteeneightyfour;60
+nineteenfifties;40
+nineteenfifty;30
+nineteenforty;30
+nineteenninety;30
 nineteens;20
-nineteenseventy;20
-nineteensixty;20
+nineteenseventy;30
+nineteensixty;30
 nineteensixtythree;20
-nineteenth;30;Golf "hole"
+nineteenth;50;Golf "hole"
+nineteenths;40
 ninetieth;40
 ninetieths;40
 nineto;20
@@ -36483,8 +36485,8 @@ pergola;40;Gazebo relative
 pergolas;40
 peri;30
 perianth;30;Flower part
-perigeal;30
-perigean;30
+perigeal;40;Related to the perigee
+perigean;40;Perigean spring tide
 perigee;50
 perigord;30
 perimetry;30
@@ -44168,6 +44170,7 @@ sevenout;50
 sevenpm;40
 sevenseas;60
 seventeens;20;???
+seventeenths;40
 sevenths;40
 sevento;20
 severalties;40
@@ -45180,6 +45183,12 @@ sixofone;50;...Half a dozen of another
 sixpack;60
 sixpackabs;60
 sixpm;40
+sixteen;50
+sixteens;40
+sixteenthnote;50
+sixteenthnotes;50
+sixteenthrest;50
+sixteenthrests;50
 sixthman;50;???
 sixyear;1
 sizer;30
@@ -52043,8 +52052,8 @@ totchos;40;Tater tot nachos
 totedup;40
 totempole;60
 totempoles;60
-toter;30
-toters;30
+toter;40
+toters;40
 totes;50
 totesadorbs;60
 totesup;40
