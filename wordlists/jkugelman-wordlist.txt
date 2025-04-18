@@ -594,6 +594,7 @@ addedonto;40
 addedspice;50
 addedto;40
 addedupto;40
+addersfork;60;Witches' brew ingredient in Macbeth
 addfuel;30;Green painty
 addies;40;Addresses, slangily [never used]
 addin;50
@@ -3807,8 +3808,8 @@ axhead;50
 axheads;50
 axisboldaslove;60
 axl;50
-axman;50
-axmen;50
+axman;40
+axmen;40
 axthrowing;50
 ay;40
 aya;20
@@ -5714,6 +5715,7 @@ blindstudy;50
 blindtest;50
 blindtests;50
 blindto;40
+blindwormssting;60;Witches' brew ingredient in Macbeth
 blintze;30;Variant spelling of blintz
 blissedout;60
 blissesout;50
@@ -16187,6 +16189,7 @@ eyelid;50
 eyeliners;30
 eyemask;50
 eyemasks;50
+eyeofnewt;60;Witches' brew ingredient in Macbeth
 eyeofra;50
 eyepatch;50
 eyepatches;50
@@ -19494,6 +19497,7 @@ goesforadip;50
 goesforajob;50
 goesforajog;50
 goesforarun;50
+goesforit;50
 goesfullcircle;40
 goesfulldiva;60
 goesgeneric;50
@@ -19550,6 +19554,7 @@ gofor;40
 goforadip;50
 goforajog;50
 goforarun;50
+goforit;60
 gofullcircle;40
 gofulldiva;60
 gog;20
@@ -19593,6 +19598,7 @@ goingfor;40
 goingforadip;50
 goingforajog;50
 goingforarun;50
+goingforit;50
 goingfullcircle;40
 goingfulldiva;60
 goinggeneric;50
@@ -25943,7 +25949,7 @@ kin;50
 kinara;30;Kwanzaa candle holder
 kinase;30;ATP enzyme
 kindlily;30;Weird adverb
-kindsofkindness;50
+kindsofkindness;60
 kineses;30
 kinesis;40;Movement
 kingarthur;50
@@ -26986,6 +26992,7 @@ leakedto;40
 leakingto;40
 leaksto;40
 leakto;40
+leander;40;Greek myth "Hero and Leander"
 leanedinto;40
 leanedon;40
 leanedto;40
@@ -27265,6 +27272,7 @@ leninstomb;50
 lenity;40;Kindness/gentleness, literary
 lennonmccartney;60
 lenoir;20;North Carolina town
+lensflare;60
 lensman;40;Photographer
 lensmen;40
 lenticular;40
@@ -27991,6 +27999,7 @@ livingto;40
 livy;40;Roman historian
 lix;20
 liz;50
+lizardsleg;60;Witches' brew ingredient in Macbeth
 ljubljana;40;Capital of Slovenia
 llamallama;50;Children's show on Netflix
 llanero;30;South American herder
@@ -32071,6 +32080,8 @@ nearmiss;50
 nearmisses;50
 nearness;40
 nearto;40
+neatfreak;60
+neatfreaks;60
 neath;40
 neatnik;60
 neatniks;60
@@ -32206,6 +32217,7 @@ neotypes;30
 nepalandchina;1
 nepeta;20;Catnip genus
 nephritis;40;Kidney inflammation
+nepo;40;Nepo baby
 neptune;50
 ner;20
 nerdcore;60
@@ -35356,6 +35368,7 @@ owingto;40
 owl;50
 owlchick;50
 owlchicks;50
+owletswing;60;Witches' brew ingredient in Macbeth
 owllike;30
 own;50
 ownagun;30
@@ -37594,9 +37607,11 @@ pokeat;40
 pokedabout;50
 pokedaholein;50
 pokedat;40
+pokedfunat;40
 pokedholesin;50
 pokedinto;40
 pokedthebear;60
+pokefunat;40
 pokeholesin;50
 pokeinto;40
 pokemon;60
@@ -37611,13 +37626,14 @@ pokertablemoney;20
 pokesabout;50
 pokesaholein;50
 pokesat;40
+pokesfunat;40
 pokesholesin;50
 pokesinto;40
 pokesthebear;60
 pokingabout;50
 pokingaholein;50
 pokingat;40
-pokingfunat;60
+pokingfunat;40
 pokingholesin;50
 pokinginto;40
 pol;40
@@ -38220,6 +38236,8 @@ pressjunket;50
 pressjunkets;50
 presskit;50
 presskits;50
+pressman;40;Journalist or printing press operator
+pressmen;40
 pressonnail;50
 pressonnails;50
 pressons;50
@@ -42392,7 +42410,7 @@ rydell;40;"Grease" high school
 rye;50
 ryeflour;40
 ryman;20
-ryn;20
+ryn;30;Rembrandt van Ryn
 rys;20
 s;40
 sa;40
@@ -47589,6 +47607,7 @@ stickwith;40
 stickysubject;50
 stickysubjects;50
 stied;40
+stieg;40;Stieg Larsson, author of "The Girl with the Dragon Tattoo"
 stiers;40;David Ogden Stiers of M*A*S*H
 stiffarm;50
 stiffarmed;50
@@ -51588,6 +51607,7 @@ toebean;60
 toebeans;60
 toedin;30
 toein;30
+toeoffrog;60;Witches' brew ingredient in Macbeth
 toepoke;30;Australian soccer technique
 toepoked;30;Australian soccer technique
 toepokes;30;Australian soccer technique
@@ -51717,6 +51737,7 @@ tonemes;30
 tonette;30
 tonguedepressor;50
 tonguedepressors;50
+tongueofdog;60;Witches' brew ingredient in Macbeth
 tonguetied;60
 tongueties;60
 tonguetwister;60
@@ -54145,6 +54166,7 @@ vetopower;30
 vetoproof;50
 vettech;50
 vettechs;50
+vettel;30;Formula One driver Sebastian Vettel
 vevo;40;Streaming service
 vex;50
 vey;20
@@ -55152,6 +55174,7 @@ wentfor;40
 wentforadip;50
 wentforajog;50
 wentforarun;50
+wentforit;50
 wentfullcircle;40
 wentfulldiva;60
 wentgeneric;50
@@ -55915,6 +55938,7 @@ wookiees;60
 woollily;30;Weird adverb
 woollymammoth;60
 woollymammoths;60
+woolofbat;60;Witches' brew ingredient in Macbeth
 woolsey;30;CIA director
 woosnam;30;Golfer Ian "Woosie" Woosnam
 woot;60
