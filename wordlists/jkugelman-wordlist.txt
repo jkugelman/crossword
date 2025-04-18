@@ -3016,7 +3016,8 @@ artiststatements;60
 artmovement;50
 artmovements;50
 artofwar;50
-artoo;30
+artoo;40
+artoodetoo;40
 artrestoration;50
 artrestorations;50
 artrestorer;50
@@ -7086,6 +7087,7 @@ bya;20
 byallmeans;60
 byamile;50
 byandby;50
+bydefault;50
 bye;50
 byers;40;"Stranger Things" family name
 bygoneera;50
@@ -21593,6 +21595,8 @@ hepto;30
 her;50
 heraldry;50
 herbcaen;40
+herbfarm;50
+herbfarms;50
 herc;20;"The Wire" character is the best result...
 hercules;50
 herd;50
@@ -23863,6 +23867,7 @@ ineededthat;60
 ineedit;60
 ineedtogo;60
 ineedtowarnyou;60
+ineffable;50
 ineffective;50
 inertgas;50
 inerts;20
@@ -32095,6 +32100,8 @@ nec;20
 necco;40
 necessitous;40
 neck;50
+neckfrill;50
+neckfrills;50
 necklet;40
 necklets;40
 neckpillow;50
@@ -37692,6 +37699,8 @@ polloi;40;Hoi polloi
 pollos;40
 polocoat;50
 polocoats;50
+polofield;50
+polofields;50
 poloneck;50
 polonecks;50
 polonia;30
@@ -47034,6 +47043,7 @@ stackable;50
 stacte;20;Biblical spice
 stadlers;20
 staffa;30;Scottish island
+staffonly;50
 stagdo;40;Bachelor party, in the UK
 stagdos;40
 stageastrike;50
@@ -47612,6 +47622,7 @@ stiers;40;David Ogden Stiers of M*A*S*H
 stiffarm;50
 stiffarmed;50
 stiffarms;50
+stiffback;50
 stiffenedup;50
 stiffeningup;50
 stiffensup;50
@@ -47651,6 +47662,10 @@ stipel;20;Leaf appendage
 stipels;20;Leaf appendages
 stipulator;30
 stipulators;30
+stirfried;50
+stirfries;50
+stirfry;50
+stirfrying;50
 stirin;40
 stirp;20
 stirps;20
@@ -50826,6 +50841,7 @@ thetuba;30
 thetudors;20
 theturn;50
 theturtles;50
+theuffizi;40
 theuglyduckling;60
 theuk;40
 theun;20
@@ -51586,8 +51602,8 @@ tobaccopipe;50
 tobaccopipes;50
 tobe;40
 tobear;20
-tobeclear;60
-tobefrank;60
+tobeclear;50
+tobefrank;50
 tobesafe;50
 tobesure;50
 toc;20
