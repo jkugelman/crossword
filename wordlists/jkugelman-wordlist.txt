@@ -2827,6 +2827,7 @@ ariz;40
 ark;50
 arkansan;40
 arkansans;40
+arkin;40
 arkite;20;Biblical inhabitant
 arkites;20;Biblical inhabitants
 arlberg;30;Austrian mountain massif
@@ -3439,7 +3440,7 @@ atelunch;30
 ateof;40
 ateoneshat;60
 ateoneswords;60
-ateover;40
+ateover;30
 aterror;20
 atete;20
 atethem;1
@@ -4668,6 +4669,7 @@ bballer;50
 bbb;40
 bbc;40
 bbcnews;50
+bbcradio;50
 bbcsport;50
 bbctv;30
 bbey;1
@@ -8250,6 +8252,7 @@ celeron;20;Intel chip discontinued in 2023
 celeryseed;50
 celestialbodies;50
 celestialbody;50
+celica;40;Former Toyota model
 cellardoor;60
 cellarer;40;Person in charge of a cellar or provisions, usually in a monastery
 cellarers;40
@@ -9612,6 +9615,7 @@ coked;40
 cokedup;40
 cokepie;30
 cokezero;60
+cokie;40
 coking;30
 col;40
 colanut;50
@@ -14261,6 +14265,7 @@ eatinglikeananimal;60
 eatinglunch;30
 eatingoneshat;60
 eatingoneswords;60
+eatingover;30
 eatingthem;1
 eatingup;50
 eatinto;40
@@ -14274,7 +14279,7 @@ eatof;40
 eatoneshat;60
 eatonesheartout;50
 eatoneswords;60
-eatover;40
+eatover;30
 eatsalone;40
 eatsandruns;50
 eatsat;40
@@ -14295,6 +14300,7 @@ eatslunch;30
 eatsof;40
 eatsoneshat;60
 eatsoneswords;60
+eatsover;30
 eatsup;40
 eatthem;1
 eattherich;60
@@ -17385,6 +17391,8 @@ fliesout;40
 fliesover;40
 fliesthecoop;60
 fliesto;40
+flightdelay;50
+flightdelays;50
 flightrecorder;50
 flightrecorders;50
 flinders;30;Polly Flinders, popular children's clothing in the 50s-70s, or nusery rhyme "Little Polly Flinders"
@@ -18337,6 +18345,7 @@ galatian;30;Celtic person of old
 galatians;30;Bible book
 galaxies;50
 galaxy;50
+galaxyquest;60
 galba;30;Roman emperor
 galbi;40;Korean short ribs
 gale;50
@@ -24017,11 +24026,15 @@ injun;5
 injune;20
 ink;50
 inkatha;20;Right wing political party in South Africa
+inkedin;40
 inkedup;40
 inkey;30
+inkin;40
+inkingin;40
 inkingup;40
 inkpen;50
 inkpens;50
+inksin;40
 inkstand;50
 inkstands;50
 inkster;30;Golfer Juli Inkster
@@ -25901,6 +25914,7 @@ keydecisions;50
 keydet;30;VMI athlete
 keydets;30;VMI athletes
 keyedon;30
+keyes;40;"Flowers for Algernon" author Daniel Keyes
 keyfigure;60
 keyfigures;60
 keyholesaw;50
@@ -27118,8 +27132,12 @@ leaptto;40
 leapyear;50
 leapyears;50
 learnedof;40
+learnedto;30
+learningto;30
 learnof;40
 learnsof;40
+learnsto;30
+learnto;30
 leas;40
 leasedto;40
 leaser;40
@@ -35012,6 +35030,7 @@ orison;40;Prayer, archaically
 orisons;40
 ork;40
 orkan;30;From Ork
+orkin;40
 orkney;40;Orkney Islands in Scotland
 orkneyislands;50
 orl;20
@@ -39889,6 +39908,7 @@ ray;50
 raya;20
 rayban;50
 raybans;50
+raye;40;1950s comedian Martha Raye
 raygun;60
 rayj;40;Singer, brother of Brandy, sex tape with Kim Kardashian
 rayless;30
