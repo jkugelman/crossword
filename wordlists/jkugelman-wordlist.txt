@@ -4773,6 +4773,8 @@ bearcub;50
 bearcubs;50
 beardedladies;60
 beardedlady;60
+beardedvulture;60
+beardedvultures;60
 beardwax;60
 bearerbond;50
 bearerbonds;50
@@ -5056,6 +5058,7 @@ belongingto;40
 belongsto;40
 belongto;40
 belsnickel;50;German folkloric Christmas gift-bringer
+beltane;40;Gaelic May Day festival
 beltdrive;50
 beltitout;50
 bemadat;1
@@ -18324,6 +18327,7 @@ galaxy;50
 galba;30;Roman emperor
 galbi;40;Korean short ribs
 gale;50
+galecki;40;Actor Johnny Galacki from "The Big Bang Theory" and "Roseanne"
 galena;30;Lead ore
 galenas;20;Lead ores
 gales;50
@@ -26553,6 +26557,10 @@ laminae;40
 laminas;40
 laminto;30;???
 lammas;30
+lammergeier;40;Bearded vulture
+lammergeiers;40
+lammergeyer;40;Bearded vulture
+lammergeyers;40
 lammermoor;30;Sir Walter Scott novel "The Bride of ___"
 lamode;1
 lamont;40;Lamont Sanford, the son of "Sanford and Son"
@@ -27378,6 +27386,7 @@ lessee;30
 lessees;30
 lesseps;30;Ferdinand de Lesseps, Suez Canal engineer
 lessinteresting;50
+lessof;40
 lesson;50
 lessons;50
 lessor;40
@@ -27506,6 +27515,7 @@ leucoma;30;Eye condition
 leucotomy;30;Lobotomy
 leukoma;30;Eye condition
 lev;20
+levar;40;Levar Burton
 levator;30;Muscle that raises a body part
 levators;30
 levela;20
@@ -31205,6 +31215,7 @@ mordred;40;King Arthur's killer
 moreau;40;Artist Gustave Moreau
 morecowbell;60
 moreen;20;Fabric
+moreforme;60
 moremore;20
 moreno;40;Actress Rita Moreno
 moreorless;50
@@ -31645,6 +31656,8 @@ musedon;40
 museo;40
 museon;40
 museos;40
+muser;40
+musers;40
 museson;40
 musette;30;Old bagpipe or oboe
 musettes;30
@@ -35093,6 +35106,7 @@ ossicle;30;Middle ear bone
 ossicles;30
 ossie;40
 ossies;20
+ossifrage;40;Bearded vulture
 ossipee;20
 osso;40;___ buco
 ost;40;East: Ger. [common]
@@ -39230,6 +39244,8 @@ racewar;50
 racewars;50
 rachels;30
 rachetesup;1
+rachides;30;Plant stems
+rachis;30;Plant stem
 rachitic;30;Afflicted by rickets
 rachitis;30;Rickets
 racine;40;Jean Racine, 17th century French dramatist, well-regarded
@@ -39689,7 +39705,7 @@ raretreats;50
 rareup;40;Dialectical, more properly "rear up"
 rarewine;50
 rarewines;50
-rarin;50
+rarin;40
 raring;50;Raring to go, raring up
 raringtogo;50
 raringup;40
@@ -40583,6 +40599,8 @@ relayraces;50
 releap;1
 releasee;20
 releasees;20
+releaser;40
+releasers;40
 relee;5
 relet;30
 relets;30
@@ -41974,6 +41992,7 @@ ronalds;30;Plural name
 ronan;40;Saiorse Ronan or Ronan Farrow
 ronartest;50
 ronco;40
+rondayne;40;Running back Ron Dayne (2000-07)
 rondeau;20
 rondeaux;20
 rondel;20
@@ -56686,6 +56705,7 @@ yom;40
 yomama;60
 yomamma;50
 yon;50
+yonex;40;Tennis racket brand
 yonkersny;30
 yoo;30;"Yoo-hoo!"
 yorba;40;Yorba Linda, California
