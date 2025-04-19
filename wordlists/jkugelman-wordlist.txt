@@ -887,6 +887,7 @@ aficionados;50
 afilist;40
 afilists;40
 afinehowdoyoudo;60
+afire;40
 afl;20
 aflac;40
 aflacduck;50
@@ -4648,8 +4649,12 @@ baverages;40
 bawledlikeababy;20
 bawlers;30
 bay;50
+bayat;40
+bayedat;40
 bayh;30;Indiana governor/senator
+bayingat;40
 bayofpigs;60
+baysat;40
 baystate;50
 baystater;50
 baystaters;50
@@ -5847,6 +5852,8 @@ blueorigin;50
 bluepaint;20
 bluepaper;30
 bluesea;20
+blueshell;60;Mario Kart powerup
+blueshells;60
 blueskies;50
 bluesky;50
 bluestate;50
@@ -9538,6 +9545,7 @@ coed;50
 coeds;50
 coel;30;Actress Michaela
 coelho;30;Author Paulo
+coeliac;40;British version of celiac (disease)
 coenact;30
 cofactor;50
 cofactors;50
@@ -11770,6 +11778,7 @@ decidingon;40
 decidua;30;Uterus lining
 deciliter;40
 deciliters;40
+decimus;40;Roman who instigated Caesar's assassination, or Maximus Decimus Meridius of "Gladiator"
 declaim;50;Speak bombastically
 declaimed;50
 declaimer;30
@@ -12427,6 +12436,7 @@ diesnon;30;Day when courts are off
 dieth;20
 dietorangesodas;20
 dietrc;40
+dieu;40
 diewalkure;50
 dif;20
 diff;40
@@ -18328,6 +18338,9 @@ galba;30;Roman emperor
 galbi;40;Korean short ribs
 gale;50
 galecki;40;Actor Johnny Galacki from "The Big Bang Theory" and "Roseanne"
+galeforce;60
+galeforcewind;60
+galeforcewinds;60
 galena;30;Lead ore
 galenas;20;Lead ores
 gales;50
@@ -19057,6 +19070,7 @@ getyourheadexamined;60
 getyourhouseinorder;60
 getyourrearingear;60
 getz;40
+gevalia;40;Swedish coffee brand
 gewgaw;40;Showy trinket
 gewgaws;40
 geysir;30;Iceland geyser
@@ -19538,7 +19552,7 @@ goesinon;50
 goesinsane;50
 goesinto;40
 goesintolabor;50
-goesipo;40
+goesipo;50
 goeskaput;50
 goesmad;50
 goesmadfor;40
@@ -19639,7 +19653,7 @@ goinginon;50
 goinginpeace;50
 goinginsane;50
 goingintolabor;50
-goingipo;40
+goingipo;50
 goingkaput;50
 goingmad;50
 goingmadfor;40
@@ -19671,7 +19685,7 @@ goinon;50
 goinsane;50
 gointo;40
 gointolabor;50
-goipo;40
+goipo;50
 goitrous;30;Having a goiter
 gokaput;50
 gol;40
@@ -20065,10 +20079,10 @@ gowerchampion;30
 gowith;40
 goy;20
 gp;40
-gpa;40
-gpas;40
+gpa;50
+gpas;50
 gpo;20
-gps;40
+gps;50
 gpu;30;NYT debut
 gpus;30
 grababite;50
@@ -20292,6 +20306,8 @@ greenman;40;???
 greenpepper;50
 greenpeppers;50
 greensboronc;30
+greenshell;60;Mario Kart powerup
+greenshells;60
 greenspace;50
 greenspaces;50
 greetingsearthlings;60
@@ -20861,6 +20877,7 @@ hamer;30;Civil rights activist Fannie Lou Hamer, or Frank Hamer who tracked down
 hamingwaychampagne;60;Cocktail
 hamite;20
 hamites;20
+hamitic;40
 hamlisch;50;Composer Marvin Hamlisch with an EGOT and Pulitzer
 hammer;50;Drive home a point?
 hammerat;40
@@ -21715,6 +21732,7 @@ hessafe;50;Baseball shout???
 hesse;40
 hessian;30
 hester;40;Hester Prynne
+hestia;40
 het;20
 hetaera;20;Ancient Greek courtesan
 hetaerae;20;Ancient Greek courtesans
@@ -22239,6 +22257,8 @@ homicides;50
 homie;30
 homies;30
 hominginon;50
+homingshell;60;Mario Kart powerup
+homingshells;60
 homme;40;Man: Fr.
 hommes;30
 homo;40
@@ -22766,6 +22786,7 @@ hwy;40
 hyaline;20;Type of joint cartilage
 hydatid;20;Tapeworm larva, or cyst
 hyde;50
+hydro;40
 hydroelectricity;50
 hydrolytic;40
 hyenacub;50
@@ -25417,6 +25438,7 @@ jonesbo;40;Author Jo Nesbø, most successful Norwegian author of all time
 joneses;60
 jonesing;60
 jonesingfor;60
+jong;40;"Fear of Flying" author Erica Jong
 jonhamm;50
 jonny;50
 jonrahm;50;Golfer & second highest paid athlete in 2024
@@ -25609,6 +25631,7 @@ kales;40
 kaline;40;Al Kaline, MLB Hall of Famer
 kalkan;30;Brand of dog food? (used four times, don't see it at Petco/PetSmart)
 kam;20
+kama;40;Kama sutra
 kamen;40
 kamprad;40;IKEA founder Ingvar Kamprad
 kamprads;40;IKEA founders
@@ -26234,6 +26257,10 @@ koolaiddrinkers;60
 koolaidman;60
 koolmoedee;50
 koopa;40
+koopashell;60
+koopashells;60
+koopatroopa;60;Mario baddie
+koopatroopas;60
 koostark;40
 kooten;20
 kop;20
@@ -27328,6 +27355,7 @@ lensflare;60
 lensman;40;Photographer
 lensmen;40
 lenticular;40
+lento;40
 lentos;30;Slow passages
 lentto;40
 lenvoi;20
@@ -28287,7 +28315,7 @@ lookedafool;50
 lookedafter;50
 lookedat;40
 lookeddownon;50
-lookedfishy;50
+lookedfishy;60
 lookedinto;40
 lookedthefool;50
 lookedto;40
@@ -28295,14 +28323,14 @@ lookedupto;50
 lookee;40
 lookeron;40
 lookerson;40
-lookfishy;50
+lookfishy;60
 lookieloo;60
 lookieloos;60
 lookingafool;50
 lookingafter;50
 lookingat;40
 lookingdownon;50
-lookingfishy;50
+lookingfishy;60
 lookingglass;60
 lookinginto;40
 lookingthefool;50
@@ -29855,6 +29883,7 @@ maxillae;30;Upper jawbones
 maxime;30;First name, unsure if notable
 maximumwordcount;60
 maximumwordcounts;60
+maximusdecimusmeridius;60;"Gladiator" protagonist
 maxixe;30;Brazilian tango
 maxplayer;20
 maxplayers;20
@@ -30310,6 +30339,7 @@ mergeswith;40
 mergewith;40
 mergingwith;40
 meridia;30;Discontinued weight loss drug
+meridius;40;Maximus Decimus Meridius, Russell Crowe in "Gladiator"
 merinos;40;Plural?
 meristem;30;Plant tissue
 meristematic;30
@@ -30594,6 +30624,7 @@ minefield;60
 minefields;60
 minella;20;Tennis player, wine grape, Irish racehorse
 mineola;40
+mineos;20;Plural last name
 minerale;30
 minesofmoria;60
 minesweeper;60
@@ -30616,6 +30647,8 @@ minim;40;Something tiny, or half note: Br.
 minimalist;50
 minimalistart;50
 minimalists;50
+minimap;60
+minimaps;60
 minimarathon;50
 minimarathons;50
 minimarshmallow;50
@@ -32973,6 +33006,7 @@ noodlebowl;50
 noodlebowls;50
 noodles;50
 noods;30;Noodles?
+nooffense;60
 noogie;60
 noogies;60
 nookie;60
@@ -34022,6 +34056,7 @@ okmrsmartypants;60
 oknowwhat;60
 okras;30
 oks;50
+oksana;40;Figure skater Oksana Baiul
 oksanas;20
 oksign;50
 oksigns;50
@@ -36415,6 +36450,7 @@ pelletgun;50
 pelletguns;50
 pelli;30;Architect César of the Petronas Towers
 pellicle;30;Thin skin, in cooking
+pellmell;60
 pelmanism;30;Brain training system popular in the early 1900s
 pelops;40;Greek myth figure
 pelota;30;Jai alai ball
@@ -36636,6 +36672,7 @@ pesterer;40
 pesterers;40
 pet;50
 peta;40
+petaluma;40;California city
 petaversion;40
 petaversions;40
 petcarrier;50
@@ -36667,6 +36704,7 @@ pethate;40
 pethates;40
 petiole;30;Leaf stem
 petioles;30;Leaf stems
+petipa;30;Ballet choreographer Marius Petipa (1818-1910)
 petit;40
 petitfour;50
 petitfours;50
@@ -39664,6 +39702,7 @@ rareashensteeth;60
 rarebird;50
 rarebirds;50
 rarebit;40;Welsh dish
+rarebits;40;Welsh dishes
 rarebook;50
 rarebooks;50
 rarebreed;50
@@ -39834,6 +39873,7 @@ raweggs;50
 rawemotion;50
 rawenergy;60
 rawhides;30;Dog treats
+rawls;40;R&B singer Lou Rawls
 rawoyster;50
 rawoysters;50
 rawrecruit;50
@@ -40338,6 +40378,8 @@ redrice;50
 redrum;60
 redsable;40
 redscare;60
+redshell;60;Mario Kart powerup
+redshells;60
 redshirt;60
 redshirts;60
 redsonja;50
@@ -45826,8 +45868,8 @@ smearson;40
 smeary;30
 smee;40
 smelledarat;60
-smelledfishy;50
-smellfishy;50
+smelledfishy;60
+smellfishy;60
 smellingfishy;40
 smellovision;60
 smells;50
@@ -45896,6 +45938,7 @@ smurfing;60
 smurfs;60;Pretends to be a noob
 smut;50
 smutch;20
+smyrna;30;Ancient Greek city
 sn;40
 sna;20;Snow in Scotland
 snackcounter;50
@@ -46595,6 +46638,8 @@ sovereignstates;50
 sovetsk;20;Russian city
 sovietbloc;50
 sow;50
+sowbug;40;Woodlouse
+sowbugs;40
 sowemeetagain;60
 sower;30
 sowers;30
@@ -46862,6 +46907,8 @@ spinningaweb;50
 spinnings;20
 spinsaweb;50
 spinsayarn;60
+spinyshell;60;Mario Kart powerup
+spinyshells;60
 spiracle;30;Insect's respiratory opening
 spiracles;30;Insect's respiratory openings
 spiraea;20;Flower genus
@@ -48122,6 +48169,7 @@ stripteaser;50
 stripteasers;50
 stripteases;60
 striptt;1
+strita;40;St. Rita of Cascia
 striver;30
 strivers;30
 strobel;30;???
@@ -48697,8 +48745,9 @@ sutler;40
 sutras;40
 sutter;40;Sutter's Mill from the gold rush
 sutural;30;Relating to sutures
-suv;40
-suvs;40
+suv;50
+suva;40;Capital of Fiji
+suvs;50
 svedka;30;Swedish vodka brand
 svu;40
 sw;40
@@ -49508,7 +49557,7 @@ tastingof;40
 tastingroom;50
 tastingrooms;50
 tastytreat;60
-tat;40
+tat;50
 tatamimat;50
 tatamimats;50
 tatar;40
@@ -52571,6 +52620,7 @@ tricorns;50
 tricot;40;Fabric
 tricotee;20;???
 tricots;40
+tridelt;40;Women's fraternity ΔΔΔ, colloquially
 triduum;30;Christian "Three Days" before Easter
 triedon;40
 triedouton;40
@@ -55324,7 +55374,7 @@ wentinpeace;50
 wentinsane;50
 wentinto;40
 wentintolabor;50
-wentipo;40
+wentipo;50
 wentkaput;50
 wentmad;50
 wentmadfor;40
@@ -56961,6 +57011,7 @@ zeldas;30
 zelig;40;Woody Allen film
 zemstvo;20
 zen;50
+zenana;30;Part of a house belonging to a Muslim family in the Indian subcontinent
 zenda;30;"The Prisoner of Zenda" (1937 movie)
 zener;30
 zenercard;50;ESP card
