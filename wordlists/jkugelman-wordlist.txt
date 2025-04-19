@@ -8835,7 +8835,7 @@ chonksters;60;Fat cats
 choo;40
 choochoo;60
 choochootrain;60
-chooseme;30
+chooseme;40
 choosesup;30
 chooseup;30
 choosingup;30
@@ -13689,15 +13689,19 @@ dromedarycamel;50
 dromedarycamels;50
 dronebee;50
 dronebees;50
+dronedon;40
 dronedonandon;50
+droneon;40
 droneonandon;50
 droner;40
 droners;40
 droneshot;60
 droneshots;60
+droneson;40
 dronesonandon;50
 drongo;20;Black bird
 drongos;20;Black birds
+droningon;40
 droningonandon;50
 dronish;40
 drood;40;Dickens's Edwin Drood
@@ -14701,7 +14705,7 @@ elderthing;60;From Lovecraft
 elderthings;60;From Lovecraft
 elderwand;50;Harry Potter object
 eldestson;50
-eldiario;40
+eldiario;40;New York newspaper, largest Spanish daily in the U.S.
 eldorado;50
 eldrich;20;Archaic form of eldritch
 ele;20
@@ -15709,6 +15713,7 @@ esthetic;40
 esthetical;30
 esthetics;40
 estheticvalue;40
+esthonia;30;Alt spelling of Estonia
 estival;30;Summery
 estivate;30
 estivated;30
@@ -21137,8 +21142,12 @@ hauberks;40
 hauer;40;Rutger Hauer
 haulass;60
 hauledass;60
+hauledin;40
+haulin;40
 haulingass;60
+haulingin;40
 haulsass;60
+haulsin;40
 haunter;50;Pokeyman
 haunters;40;Ghosts, or frequenters
 haus;30
@@ -45756,11 +45765,15 @@ smh;40
 smilax;20;Plant genus
 smileat;40
 smiledat;40
+smiledon;40
+smileon;40
 smiler;40
 smilers;40
 smilesat;40
+smileson;40
 smilin;20
 smilingat;40
+smilingon;40
 smilla;20;Smilla's Sense of Snow (1997 book/movie)
 smirch;30
 smirky;30
@@ -53138,7 +53151,7 @@ typhoon;50
 typhoons;50
 typosquatter;60
 typosquatters;60
-tyr;30;Norse god of war
+tyr;40;Norse god of war Týr, namesake of Tuesday
 tyre;40
 tyres;40
 tyrones;30
@@ -53905,8 +53918,8 @@ ussr;50
 ussrsovietunion;30
 usstate;30
 usstates;30
-usstrike;30
-usstrikes;30
+usstrike;20;???
+usstrikes;20;???
 ussupremecourt;40
 usswasp;30
 usted;40
