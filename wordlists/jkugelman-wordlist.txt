@@ -3786,7 +3786,7 @@ awaste;20
 awaysaway;60
 awe;50
 aweather;30;Windward
-aweebit;60
+aweebit;50
 aweless;30
 awesomegamesdonequick;60
 awfultruth;60
@@ -13205,6 +13205,7 @@ donee;40
 donees;40
 donefor;60
 doneness;40
+donetoat;40
 donetoatee;40
 donetodeath;60
 donetsk;20;Ukrainian city
@@ -26613,6 +26614,7 @@ laidanchor;50
 laidanegg;50
 laidawake;50
 laidclaimto;40
+laidflat;50
 laidin;40
 laidinto;40
 laiditon;40
@@ -27054,10 +27056,12 @@ layawake;50
 layclaimto;40
 laydormant;50
 layeredbangs;60
+layflat;50
 layin;30;Stock up on
 layinganchor;50
 layinganegg;50
 layingclaimto;40
+layingflat;50
 layingin;30
 layinginto;40
 layingiton;40
@@ -27080,6 +27084,7 @@ laysanchor;50
 laysanegg;50
 laysawake;50
 laysclaimto;40
+laysflat;50
 layshia;30;???
 laysiege;50
 laysiegeto;50
@@ -27750,6 +27755,7 @@ liedormant;50
 liedover;40
 liedto;40
 liefer;20
+lieflat;50
 liefor;40
 lielikeacheaprug;60
 lielikearug;60
@@ -27764,6 +27770,7 @@ lieover;40
 liesahead;50
 liesawake;50
 liesdormant;50
+liesflat;50
 liesfor;40
 liesin;40
 liesl;30
@@ -28951,6 +28958,7 @@ lyesoaps;40
 lyingahead;50
 lyingawake;50
 lyingdormant;50
+lyingflat;50
 lyingfor;40
 lyinglikeacheaprug;60
 lyinglow;50
@@ -30006,6 +30014,7 @@ mayihaveyourattentionplease;60
 mayim;50
 mayimbialik;60
 maynard;40
+mayonest;20;???
 mayoralelection;50
 mayoralrace;50
 mayoralraces;50
@@ -32256,6 +32265,7 @@ ncaatitles;50
 ncaatournaments;50
 ncc;20
 ncis;40
+ncisla;40
 nckel;1
 nco;20
 ncr;20
@@ -32913,7 +32923,7 @@ nlf;20
 nlmvp;40
 nlmvps;40
 nmi;20
-nne;30
+nne;33
 nnedi;40;Hugo/Nebula award winning writer Nnedi Okorafor
 nneka;30;Nigerian singer
 nnw;30
@@ -52360,6 +52370,11 @@ torsos;50
 torta;40
 tortas;40
 torten;20
+tortillachip;60
+tortillachips;60
+tortillaflat;60
+tortillawrap;50
+tortillawraps;50
 tortoise;50
 tortola;20;British Virgin Island
 tortugas;50
@@ -52491,8 +52506,8 @@ toyshop;60
 toyshops;60
 toysrus;60
 toysruskid;60
-toystore;50
-toystores;50
+toystore;60
+toystores;60
 toz;20
 tp;40
 tped;40
