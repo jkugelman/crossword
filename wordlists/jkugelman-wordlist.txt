@@ -1664,8 +1664,8 @@ als;30
 alsatia;30;Ancient name for Alsace, the French region
 alsatian;40
 alsatians;40
-alsoran;50
-alsorans;50
+alsoran;60
+alsorans;60
 alsosprachzarathustra;50
 alt;50
 alta;40
@@ -8328,6 +8328,7 @@ cerate;30;Medicated paste
 cerates;30;Medicated pastes
 cerealbar;50
 cerealbars;50
+cerebra;40
 cerement;30;Waxed cloth covering a corpse
 cerements;30;Waxed cloths covering a corpse
 ceremonialdressuniform;50
@@ -11968,6 +11969,7 @@ delco;40;Battery brand (different from AC Delco???)
 dele;40
 delead;30
 deleaded;30
+delecto;30
 deleon;40;Conquistador Juan Ponce de León (3-word last name)
 deleter;30
 delft;30;Dutch pottery city
@@ -17889,6 +17891,12 @@ fourirons;50
 fourpm;40
 fourthrees;20
 fouryearcollege;50
+fovea;50
+foveae;40
+foveate;40
+foveated;50
+foveates;40
+foveating;40
 fox;50
 foxcub;50
 foxcubs;50
@@ -18365,6 +18373,8 @@ galeforcewinds;60
 galena;30;Lead ore
 galenas;20;Lead ores
 gales;50
+galette;40;French pastry
+galettes;40
 gallimaufry;40;Confused jumble or medley of things
 gallinule;30;Bird
 gallinules;30
@@ -32481,6 +32491,7 @@ newmansown;50
 newme;60
 newmexico;50
 newmom;60
+newmoney;60
 newmoon;50
 newmoons;50
 newmusic;30;Green paint?
@@ -34157,6 +34168,7 @@ oldmap;30
 oldmaster;50
 oldmasters;50
 oldmike;30;Salesman whose body was publicly displayed in Arkansas for 60 years
+oldmoney;60
 oldone;40;Lovecraftian entity
 oldones;40
 oldpro;50
@@ -34324,6 +34336,7 @@ onanists;30;???
 onanumberofoccasions;50
 onapar;50
 onaparwith;50
+onapath;40;???
 onappeal;50
 onapproval;40
 onaraft;20
