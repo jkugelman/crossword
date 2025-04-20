@@ -1441,8 +1441,9 @@ alimentation;30
 alimented;30
 alimenting;30
 aliments;30
-aline;40;Type of skirt
+aline;50;Type of skirt
 alinement;20;Variant of alignment
+alines;50
 alioth;20;Big Dipper star
 alipasha;30;Ottoman ruler
 aliquant;30;Math term
@@ -21423,11 +21424,13 @@ heapedon;40
 heapingon;40
 heapon;40
 heapson;40
+heardof;40
 hearer;40
 hearers;40
 hearing;50
 hearingaid;50
 hearingaids;50
+hearingof;40
 hearings;50
 hearkenedto;40
 hearkeningto;40
@@ -21437,7 +21440,9 @@ hearmeroar;60
 hearn;40;Broadway actor George Hearn
 hearnoevil;60
 hearns;30;Boxer
+hearof;40
 hearsays;20
+hearsof;40
 hearsts;30
 heartache;60
 heartbreaking;60
@@ -26971,6 +26976,7 @@ laver;30
 lavers;30
 laves;30
 lavida;40
+lavin;40;Actress Linda Lavin (1937-2024)
 laving;30
 lavoris;30;Mouthwash brand
 lavs;40
@@ -29428,6 +29434,7 @@ malorys;20
 malpais;40;National monument El Malpais in New Mexico "Land of Frozen Fire"
 malposition;30
 malposted;30;Crooked
+malvolio;40;"Twelfth Night" character
 mam;20
 mamabear;60
 mamabears;60
@@ -30207,6 +30214,7 @@ meetly;20;Fittingly
 meetme;20
 meetonesmaker;60
 meetpayroll;50
+meetsat;40
 meetsheadon;50
 meetsonesmaker;60
 meetspayroll;50
@@ -30748,6 +30756,7 @@ minneapolismn;20
 minnesotanice;60
 minnesotaviking;50
 minnesotavikings;50
+minny;30;Minnow
 minorarcana;60
 minoredin;40
 minorin;40
@@ -32844,7 +32853,7 @@ nlf;20
 nlmvp;40
 nlmvps;40
 nmi;20
-nne;30
+nne;33
 nnedi;40;Hugo/Nebula award winning writer Nnedi Okorafor
 nneka;30;Nigerian singer
 nnw;30
@@ -36437,11 +36446,15 @@ peedee;30;Carolina river
 peeing;5
 peekat;40
 peekedat;40
+peekedin;40
 peekedinto;40
+peekin;40
 peekingat;40
+peekingin;40
 peekinginto;40
 peekinto;40
 peeksat;40
+peeksin;40
 peeksinto;40
 peeledrubber;60
 peelingrubber;60
@@ -40477,6 +40490,10 @@ reefermadness;60
 reefshark;50
 reefsharks;50
 reege;20
+reekedof;40
+reekingof;40
+reekof;40
+reeksof;40
 reeledin;40
 reeledout;40
 reeler;40
@@ -44009,12 +44026,14 @@ selgris;30;French sea salt
 selim;20;Ottoman sultan
 selina;40;Selina Kyle
 sellabillofgoods;60
+sellat;40
 sellathon;50
 sellathons;50
 sellfor;40
 sellfreezerstoeskimos;60
 sellicetoeskimos;60
 sellingabillofgoods;60
+sellingat;40
 sellingfor;40
 sellingfreezerstoeskimos;60
 sellingicetoeskimos;60
@@ -44027,6 +44046,7 @@ selllikehotcakes;60
 sellonessoul;60
 sellsabillofgoods;60
 sellsalttoaslug;60
+sellsat;40
 sellsfor;40
 sellsfreezerstoeskimos;60
 sellsicetoeskimos;60
@@ -46400,7 +46420,7 @@ solate;20;Turn from a gel into a liquid
 solates;20;Turns from a gel into a liquid
 soldabillofgoods;60
 soldas;40
-soldat;30;French soldier
+soldat;40;Sold at, or French soldier
 soldfor;40
 soldfreezerstoeskimos;60
 soldicetoeskimos;60
@@ -54716,6 +54736,7 @@ vomitive;5
 vomitory;40;Stadium entrance
 vomits;5
 von;40
+vonda;30
 voo;20
 voodoos;30
 voom;30
