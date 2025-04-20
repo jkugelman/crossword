@@ -2819,7 +2819,7 @@ arisefrom;40
 ariseoutof;1
 arisesfrom;40
 arisingfrom;40
-arista;50;Record label
+arista;40;Record label
 aristae;20;Insect antenna bristles
 aristas;20;Insect antenna bristles
 aristides;30;Athenian stateman
@@ -10730,6 +10730,9 @@ criesofderision;50
 criesoff;30
 criesoutto;40
 crimedog;50
+crimefighter;60
+crimefighters;60
+crimefighting;60
 crimelab;50
 crimelabs;50
 crimenovelist;50
@@ -11301,6 +11304,7 @@ daerbana;1
 dafe;20
 dafuq;50
 dag;30;U.N.'s Dag Hammarskjöld
+dagama;40
 dagoba;20;Buddhist shrine
 dagobas;20;Buddhist shrines
 daguerre;50
@@ -14248,6 +14252,7 @@ easychairs;50
 easyeight;50
 easyfour;50
 easygo;30
+easyon;40
 easyread;50
 easyreader;50
 easyreads;50
@@ -16608,7 +16613,7 @@ fatalities;40
 fatality;40
 fatasacow;50
 fatbottomedgirls;60
-fatcamp;50
+fatcamp;40
 fatcat;60
 fatcats;60
 fatcontent;50
@@ -17004,11 +17009,18 @@ fiftyfirstdates;50
 fiftyninth;40;???
 fiftypointbonus;30
 fig;50
+fightcrime;60
+fighterjet;60
+fighterjets;60
+fighterkite;60
+fighterkites;60
 fightfor;40
+fightingcrime;60
 fightingfor;40
 fightingwith;40
 fightorflight;60
 fightorflightresponse;60
+fightscrime;60
 fightsfor;40
 fightswith;40
 fightwith;40
@@ -17885,6 +17897,7 @@ fosterdads;50
 foto;40
 fotos;30
 fou;20
+foughtcrime;60
 foughtfor;40
 foughtwith;40
 foulard;30;Lightweight fabric, or kerchief made from it
@@ -21130,6 +21143,7 @@ harrierjets;50
 harrierjumpjet;50
 harrierjumpjets;50
 harriman;30;Old politician W. Averell Harriman
+harrymack;60;Freestyle rapper
 harshlightofday;60
 harte;30;19th century writer Bret Harte
 hartebeest;40;Antelope
@@ -25373,6 +25387,7 @@ jetskiing;50
 jetskis;50
 jetstream;50
 jetstreams;50
+jett;40;Joan Jett
 jeu;20
 jew;50
 jewess;5
@@ -25751,6 +25766,7 @@ kareno;40;Karen O, vocalist of the band "Yeah Yeah Yeahs"
 karens;40
 karensilkwood;50
 karina;40;Who??? Korean singer?
+karla;40;John le Carré villain
 karlie;30;Model Kloss, host of "Project Runway"
 karlstad;40;Swedish city, don't know if notable didn't check
 karmapolice;60
@@ -28324,6 +28340,7 @@ loire;30;Longest river in France
 loiret;30;Orléans department in France
 lok;20
 lol;40
+lola;40
 lolat;20
 lolcat;60
 lolcats;60
@@ -30834,6 +30851,8 @@ miraclecure;60
 miraclecures;60
 miraclemax;50
 miraclemile;60
+mirador;30;Tower that offers a panoramic view
+miradors;30
 mirainagasu;40;Figure skater
 miranair;40;Filmmaker Mira Nair
 mireddown;40
@@ -32088,6 +32107,7 @@ nascarraces;50
 nashequilibrium;50
 nashipear;30;Asian pear
 nashipears;30
+nashua;40;New Hampshire city
 nasim;30;S.N.L. alum Nasim Pedrad
 nassaubahamas;50
 nasser;40
@@ -32658,7 +32678,9 @@ niccage;40
 niceass;60
 nicebutt;60
 nicecatch;60
+nicedog;60
 nicedoggie;60
+nicedoggy;60
 niceguys;60
 niceguysfinishlast;60
 niceish;40
@@ -32891,7 +32913,7 @@ nlf;20
 nlmvp;40
 nlmvps;40
 nmi;20
-nne;33
+nne;30
 nnedi;40;Hugo/Nebula award winning writer Nnedi Okorafor
 nneka;30;Nigerian singer
 nnw;30
@@ -36839,6 +36861,8 @@ petro;40;Prefix
 petrucci;50
 petsematary;50
 petsmart;50
+petter;40
+petters;40
 pettit;40;???
 pettycash;50
 peu;20
@@ -40416,6 +40440,8 @@ redcards;60
 redcarpetpose;50
 redcarpetposes;50
 redchinese;50
+redcoat;60
+redcoats;60
 redcross;50
 reddaldrow;1
 reddawn;50
@@ -43006,6 +43032,7 @@ sameas;40
 samedis;20;French Saturdays
 sametoyoupal;60
 sameyness;60
+samhain;40;Gaelic festival
 samin;40;Samin Nosrat, "Salt Fat Acid Heat" author
 samira;40;Samira Wiley of "Orange is the New Black"
 samisen;20;Japanese lute
@@ -45244,6 +45271,7 @@ silverbullet;60
 silverbullets;60
 silverdollar;50
 silverdollars;50
+silvern;40;Made of silver
 silverstar;50
 silverstars;50
 silverstate;50
@@ -46541,8 +46569,8 @@ solocup;60
 solocups;60
 solohomer;50
 solohomers;50
-solomoon;40;Solo honeymoon
-solomoons;40
+solomoon;50;Solo honeymoon
+solomoons;50
 solon;30;Athenian wise man
 solongandthanksforallthefish;60
 solons;20
@@ -48216,6 +48244,7 @@ strasse;30;German street
 stratagem;50
 stratagems;50
 stratas;20
+strath;30;Valley, in Scotland
 strathspey;30;???
 strathspeys;30;???
 strati;40;Certain clouds
@@ -48439,6 +48468,8 @@ stuntreel;60
 stuntreels;60
 stupa;30;Buddhist monument
 stupas;30
+stupe;30;Hot wet medicated cloth
+stupes;30
 sturges;40;Playwright Preston Sturges, or director John Sturges of "The Magnificent Seven" and "The Great Escape"
 stutterer;50
 stutterstep;60
@@ -48852,6 +48883,8 @@ surelookslikeit;60
 surelynot;60
 sureman;60
 sureof;40
+suresign;60
+suresigns;60
 surete;20
 sureto;40
 surette;20
