@@ -4817,15 +4817,18 @@ beatingadeadhorse;60
 beatingahastyretreat;60
 beatingat;40
 beatingback;50
+beatingin;40
 beatlessong;20
 beatlessongs;20
 beatnik;60
 beatniks;60
+beaton;40
 beatsadeadhorse;60
 beatsahastyretreat;60
 beatsat;40
 beatsback;50
 beatsme;60
+beatson;40
 beatstheheckoutofme;60
 beatsthehelloutofme;60
 beatstime;1
@@ -25309,6 +25312,8 @@ jepsen;40
 jer;20
 jerboa;30;???
 jeri;40;Actress Jeri Ryan
+jerker;40
+jerkers;40
 jerkmagnet;50
 jerky;50
 jerri;40;???
@@ -31150,7 +31155,8 @@ molto;40
 moltobene;50
 moly;40;Holy moly
 mom;50
-momala;60;Kamala Harris nickname
+moma;40
+momala;40;Kamala Harris nickname
 momandpop;60
 momenta;50
 momently;30
@@ -39228,6 +39234,10 @@ quarterback;60
 quarterbacks;60
 quarto;40
 quartos;40
+quasar;60
+quasarjet;60
+quasarjets;60
+quasars;60
 quasimodo;60
 quasistate;50
 quasistates;50
@@ -40031,11 +40041,13 @@ readier;30
 readiest;30
 readingahead;50
 readinginto;40
+readingon;40
 readingrailroad;60
 readingto;40
 readinto;40
 readitandweep;60
 readmylips;60
+readon;40
 readopt;40
 readopted;40
 readopting;40
@@ -40046,6 +40058,7 @@ readorning;30
 readorns;30
 readsahead;50
 readsinto;40
+readson;40
 readsto;40
 readto;40
 readwriteerrors;30
@@ -40369,6 +40382,8 @@ reddogged;50
 reddogging;50
 reddogs;50
 reddragon;60;Hannibal Lecter novel/movie
+reddwarf;60
+reddwarfs;60
 redeal;40
 redealing;40
 redeals;40
@@ -40845,6 +40860,7 @@ renfaire;60
 renfaires;60
 renfro;30;Brad Renfro of "The Client", died at age 25
 reni;30;Painter Guido
+reniform;40;Kidney-shaped, in botany
 renin;30;Kidney secretion
 renins;20
 rennes;30;French city
@@ -49967,6 +49983,7 @@ tektite;30;Meteorite pebble
 tektites;30;Meteorite pebbles
 tekwar;40
 tel;40
+telamon;30;One of the Argonauts
 telco;40;Telecommunications company
 tele;40
 telefono;40
@@ -55721,6 +55738,8 @@ whiteasasheet;50
 whitebelt;60
 whitebelts;60
 whitecow;30;???
+whitedwarf;60
+whitedwarfs;60
 whitefang;50
 whitegold;50
 whitehouse;50
@@ -57023,6 +57042,7 @@ yukio;30
 yukongold;50
 yul;50
 yum;50
+yuma;40
 yumaaz;30
 yuman;30
 yumans;30;Quechua people
