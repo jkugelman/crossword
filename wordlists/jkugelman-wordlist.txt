@@ -5872,8 +5872,8 @@ blueshell;60;Mario Kart powerup
 blueshells;60
 blueskies;50
 bluesky;50
-bluestate;50
-bluestates;50
+bluestate;60
+bluestates;60
 bluesteel;50
 bluetang;50;Fish
 bluetango;50;Orchestra piece
@@ -37179,6 +37179,7 @@ pillpopper;40
 pillpoppers;40
 pillpopping;40
 pilose;40;Covered with soft hair
+pilotage;40
 piloterror;50
 piloterrors;50
 pilotstudies;50
@@ -40512,10 +40513,12 @@ redshell;60;Mario Kart powerup
 redshells;60
 redshirt;60
 redshirts;60
+redsolocup;60
+redsolocups;60
 redsonja;50
 redsquare;50
-redstate;50
-redstates;50
+redstate;60
+redstates;60
 redtagsale;60
 redtagsales;60
 redtape;60
@@ -46534,6 +46537,8 @@ solitons;20;In physics, solitary waves
 sollal;30;Korean New Year
 sollodion;30;Flammable solution
 soln;40
+solocup;60
+solocups;60
 solohomer;50
 solohomers;50
 solomoon;40;Solo honeymoon
