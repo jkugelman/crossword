@@ -4567,6 +4567,8 @@ bathroomslipper;50
 bathroomslippers;50
 bathset;50
 bathsets;50
+bathtime;50
+bathtimes;50
 bathtoy;50
 bathymeter;50;Device that measures water depth
 bathymeters;50
@@ -6202,6 +6204,8 @@ bootedoff;50
 bootedout;50
 bootee;40;Variant of bootie
 bootees;40
+bootheel;50
+bootheels;50
 bootingoff;50
 bootingout;50
 bootlegcopies;50
@@ -15738,7 +15742,7 @@ esophagus;50
 esos;40
 esoterica;60
 esotery;40;Esoterics
-esp;40
+esp;50
 espalier;30;Gardening technique
 espanol;50
 esparto;20;Textile fiber
@@ -21697,10 +21701,14 @@ helots;40
 helovesme;50
 helovesmenot;50
 helpabrotherout;60
+helpedin;40
+helpin;40
+helpingin;40
 helpline;50
 helplines;50
 helpmenu;50
 helpmenus;30
+helpsin;40
 helpvampire;60
 helpvampires;60
 helvetia;30
@@ -25767,6 +25775,7 @@ kaline;40;Al Kaline, MLB Hall of Famer
 kalkan;30;Brand of dog food? (used four times, don't see it at Petco/PetSmart)
 kam;20
 kama;40;Kama sutra
+kamal;40
 kamen;40
 kamprad;40;IKEA founder Ingvar Kamprad
 kamprads;40;IKEA founders
@@ -30423,6 +30432,10 @@ meme;60
 memeaccount;60
 memeaccounts;60
 memed;60
+memento;60
+mementoes;50
+mementomori;60
+mementos;50
 memes;60
 memeworthy;60
 meming;60
@@ -32906,20 +32919,23 @@ nintendowiis;50
 ninthly;40
 niobe;30;Weeper of Greek myth
 niodeon;20
-nip;5
+nip;50
 nipas;20;Ancient Hittite god
 nipat;40
 nipin;20;Stop for crisps, say
 nipit;20
 nipitinthebud;60
+nipped;50
 nippedat;40
 nippeditinthebud;60
 nipper;50
 nippers;50
+nipping;50
 nippingat;40
 nippingitinthebud;60
 nipplering;60
 nipplerings;60
+nips;50
 nipsat;40
 nipsitinthebud;60
 nipslip;5
@@ -32969,6 +32985,7 @@ nitrousacid;30
 nitrousoxide;30
 nitti;30
 nivea;40;Skin care brand
+niven;40
 nivens;20
 niveous;40;Snowy, literarily
 nix;50
@@ -33508,7 +33525,7 @@ npg;20
 npr;40
 nprnews;50
 nra;40
-nrachief;30
+nrachief;40
 nrc;20
 nrgpark;50
 nsa;40
@@ -39328,7 +39345,7 @@ qandz;40
 qas;20
 qat;30
 qbcontroversies;30
-qbs;40
+qbs;50
 qed;50
 qi;40
 qibla;40;Direction of Muslim prayer
@@ -43281,6 +43298,7 @@ sarsaparilla;60
 sarsar;20
 sarsars;20
 sarsen;20
+sartor;30;Tailor, jokingly
 saruman;50
 sas;20
 sase;30
@@ -44765,6 +44783,7 @@ sharifs;20
 sharingacab;50
 sharingin;40
 sharingwith;40
+sharis;20;Plural name
 sharkfin;60
 sharkfins;60
 sharkpup;50
@@ -45139,6 +45158,7 @@ shute;20;Author Nevil
 shutthefrontdoor;60;"No way!"
 shutupandkissme;60
 shy;50
+shydi;30;???
 si;40
 sia;40;Singer
 siamang;30;Indonesian primate
@@ -46806,7 +46826,7 @@ sorter;40
 sorters;40
 sortied;30
 sortieing;30
-sos;40
+sos;50
 sosick;60
 sosimple;60
 sosoon;50
@@ -49013,7 +49033,7 @@ surroundsound;50
 surtitle;30
 surtitles;30
 surya;30;Hindu sun god
-sus;40
+sus;50
 susanmolinari;20;90s house rep
 susans;40;Lazy susans
 sushibar;60
