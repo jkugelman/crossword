@@ -337,6 +337,7 @@ aceit;40
 acela;40
 acentric;30
 aceofclubs;50
+aceofcups;60
 aceofdiamonds;50
 aceofhearts;50
 aceofspades;50
@@ -2263,6 +2264,7 @@ anouk;30;French actress Anouk Aimée of "La Dolce Vita" and "8 1/2"
 anoukaimee;50;French actress
 anounce;20
 ans;40
+anselm;40;Benedictine monk Anselm of Canterbury
 anselmo;40;Various, including Phil Anselmo of Pantera
 ansonia;30;Luxurious, or Connecticut city
 anspach;40;Actress Susan Anspach of "Five Easy Pieces"
@@ -2592,6 +2594,7 @@ apstatistics;30
 apstats;30
 apt;50
 apted;20;Bond Director Michael
+apteral;30;Lacking columns, as a church
 apterous;20;Having no wings, as an insect
 apteryx;20;Kiwi bird genus
 aptitudetest;50
@@ -3067,7 +3070,7 @@ asami;50
 asamule;20
 asana;40;Yoga position
 asanas;30
-asap;40
+asap;50
 asarail;30
 asarule;50
 asaset;40
@@ -3338,7 +3341,7 @@ asthickasthieves;60
 asti;40;Wine region
 astight;1
 astilbe;20;Flower genus
-asto;50
+asto;40
 astolat;30;Castle of Arthurian legends
 astoldto;30
 aston;50
@@ -3911,6 +3914,7 @@ babydocduvalier;50
 babydoe;50
 babydoes;50
 babyfat;60
+babyfever;60
 babyfoods;30
 babyjogger;50
 babyjoggers;50
@@ -5092,6 +5096,7 @@ benandjerry;50
 benandjerrys;50
 benandjerrysicecream;50
 benares;20
+benblue;40;Comedian Ben Blue (1901-1975)
 benbova;40
 bencher;40
 benchers;40
@@ -6535,6 +6540,7 @@ brecht;40;Playwright Bertolt Brecht
 breck;20
 breechesrole;60
 breechesroles;60
+brees;40;Quarterback Drew Brees
 breezedrightpast;50
 breezerightpast;50
 breezesrightpast;50
@@ -9144,6 +9150,7 @@ claricestarling;50
 clarkgable;50
 claro;40
 claros;40
+classa;40
 classclown;60
 classclowns;60
 classicmovie;50
@@ -14861,7 +14868,7 @@ elion;20
 eliotness;50
 elis;40;Yale students
 elise;40
-elissa;40
+elissa;40;Various: Michigan senator, queen Dido of Carthage
 elitisms;20
 eliud;40;Eliud Kipchoge, all-time-great long-distance runner
 eljames;40;"Fifty Shades" author
@@ -17065,7 +17072,7 @@ filmschools;50
 filmtrope;60
 filmtropes;60
 filmy;50
-filo;30;Baklava dough
+filo;40;Baklava dough
 fin;50
 finable;40;Subject to a fine, fineable is the less common variant spelling surprisingly
 finalboss;60
@@ -18669,6 +18676,10 @@ gaveway;50
 gavewayto;40
 gawande;40;Surgeon-writer Atul Gawande
 gawd;50;"Oh. Mah. ___!"
+gawpat;40
+gawpedat;40
+gawpingat;40
+gawpsat;40
 gay;50
 gayapparel;60
 gaybar;60
@@ -20407,6 +20418,7 @@ greypoupon;50
 grf;20
 gridlock;50
 gridlocked;50
+grieg;40;Edvard Grieg
 griese;40;Dolphins quarterback Bob Griese during their undefeated season
 griffith;50
 grillage;50
@@ -25844,11 +25856,13 @@ keeners;20
 keeneyed;50
 keens;30
 keepalive;50
+keepat;40
 keepatit;50
 keepcloseto;40
 keepdigging;60
 keepin;40
 keepingalive;50
+keepingat;40
 keepingcloseto;40
 keepingin;40
 keepinginline;50
@@ -25873,6 +25887,7 @@ keeppacewith;50
 keepsake;50
 keepsakes;50
 keepsalive;50
+keepsat;40
 keepscloseto;40
 keepsin;40
 keepsinline;50
@@ -25936,6 +25951,7 @@ kenyatta;30;Jomo Kenyatta, President of Kenya 1964-78
 kepi;20;French military cap
 kepis;20;French military caps
 keptalive;50
+keptat;40
 keptcloseto;40
 keptin;40
 keptinline;50
@@ -29512,6 +29528,7 @@ mana;50
 manageress;20
 managingeditors;50
 managingpartner;50
+manalive;60
 manama;40;Capital of Bahrain
 mananas;30
 manandwife;50
@@ -30959,7 +30976,7 @@ mistral;30;Cold wind of France
 mistrals;30
 mistressofthedark;60
 misunderestimate;60
-mit;40
+mit;50
 miter;40;Bishop's hat
 miters;40
 miterwort;40;???
@@ -31275,6 +31292,8 @@ monody;30;Ode sung by one voice
 monogamish;60
 monoglot;50
 monoglots;50
+monokini;60
+monokinis;60
 monolog;20
 monometer;40
 monomial;40
@@ -31288,6 +31307,7 @@ monotones;40
 monroes;30
 monsoonseason;50
 monsoonseasons;50
+monstera;40;Monstera deliciosa plant, "delicious monster"
 monstrance;20;Catholic bread vessel
 montag;40;Guy ___, main character of Fahrenheit 451
 montand;30;Actor Yves Montand, "one of France's greatest 20th-century artists" per Wikipedia
@@ -33903,9 +33923,10 @@ odell;40;Wide receiver Odell Beckham Jr.
 odense;30;Danish port
 odeon;40
 odeons;40
-odessan;30
-odessans;30
-odessatx;30
+odessa;40;City in Ukraine or Texas
+odessan;40
+odessans;40
+odessatx;40
 odets;40;Prominent playwright Clifford Odets
 odetta;40
 odette;30;"Swan Lake" heroine
@@ -37019,6 +37040,7 @@ phs;20
 phthisis;30;Pulmonary tuberculosis
 phu;20
 phx;30
+phyllo;40;Pastry dough
 phyrgia;1;Misspelling?
 phyrgian;1
 physicaltherapist;50
@@ -44130,6 +44152,7 @@ selfpaced;50
 selfregulating;60
 selfworth;50
 selgris;30;French sea salt
+selig;40;Bud Selig
 selim;20;Ottoman sultan
 selina;40;Selina Kyle
 sellabillofgoods;60
@@ -46051,6 +46074,7 @@ smashedinto;40
 smashesinto;40
 smashinginto;40
 smashinto;40
+smaug;40;"The Hobbit" dragon
 smaze;30;Smoke/haze mix
 smearedon;50
 smearer;40;Reputation assassin
@@ -46623,6 +46647,7 @@ somnambulist;50
 somnambulists;50
 somniferous;30;Causing sleep
 somnific;30;Causing sleep
+somoza;30;Nicaraguan president in the '70s
 son;50
 sonance;40;Sound/tune/speaker brand
 sonant;40;Of sound, or a syllabic consonant
@@ -47975,6 +48000,7 @@ stickum;40;Sports adhesive
 stickwith;40
 stickysubject;50
 stickysubjects;50
+stides;40;St. Ides malt liquor
 stied;40
 stieg;40;Stieg Larsson, author of "The Girl with the Dragon Tattoo"
 stiers;40;David Ogden Stiers of M*A*S*H
@@ -47992,6 +48018,7 @@ stiletto;50
 stilettoes;20
 stilettos;50
 stillatit;50
+stille;30;German carol "Stille Nacht"
 stillgotit;60
 stillmooing;60
 stillof;1
@@ -52732,10 +52759,14 @@ treasurehunts;60
 treasureisland;60
 treasuremap;60
 treasuremaps;60
+treatas;40
+treatedas;40
 treatedto;40
 treater;30
 treaters;30
+treatingas;40
 treatingto;40
+treatsas;40
 treatsto;40
 treatto;40
 treaty;50
@@ -55817,6 +55848,7 @@ wheelsin;40
 wheelsofcheese;50
 wheelwell;50
 wheelwells;50
+whees;40;Weird plural
 whelan;30
 whelm;30
 whelmed;30
