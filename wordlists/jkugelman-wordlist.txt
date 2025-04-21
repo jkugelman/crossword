@@ -1798,9 +1798,13 @@ ambertamblyn;30
 ambi;40
 ambivert;50
 ambiverts;50
+ambledin;40
 ambledout;40
+amblein;40
 ambleout;40
+amblesin;40
 amblesout;40
+amblingin;40
 amblingout;40
 amboyna;20;Hardwood, or play
 ambuscade;30;Ambush, archaic
@@ -4808,6 +4812,7 @@ bearstearns;50
 bearsuit;50
 bearsuits;50
 beasley;20;Athlete Michael or Cole or Malik...?
+beasport;60
 beassured;50
 beastar;40
 beastmode;60
@@ -4987,6 +4992,8 @@ beerleagues;50
 beermosa;60
 beermosas;60
 beerontap;50
+beerrep;50
+beerreps;50
 beers;50
 beersheba;50
 beersnob;50
@@ -6426,6 +6433,8 @@ boyscoutmeritbadges;50
 boyscouts;50
 boyscouttroop;50
 boyscouttroops;50
+boysdorm;50
+boysdorms;50
 boysinblue;60
 boyswillbeboys;60
 boytoy;60
@@ -6964,6 +6973,8 @@ burntup;50
 burnunit;50
 burnunits;50
 burnup;50
+burnward;50
+burnwards;50
 burpee;60
 burpees;60
 bursitis;40;Joint inflammation
@@ -9907,6 +9918,8 @@ communicationchannel;50
 communicationchannels;50
 communionwafer;50
 communionwafers;50
+communitychest;60;Monopoly square
+communitychests;60
 como;40
 compactsuv;50
 compactsuvs;50
@@ -15711,6 +15724,7 @@ ese;40
 esharp;40
 eshkol;30;???
 esi;20
+esiason;40;Boomer Esiason
 esign;40
 esigned;40
 esigning;40
@@ -18027,6 +18041,7 @@ freeloads;50
 freemason;50
 freemasonry;50
 freemasons;50
+freeparking;60;Monopoly square
 freepass;60
 freepasses;60
 freer;50
@@ -19300,6 +19315,7 @@ girlbosses;60
 girlscout;50
 girlscouts;50
 girlsdorm;50
+girlsdorms;50
 girlshy;50
 gironde;20;French region
 gis;40
@@ -20112,6 +20128,7 @@ gotogether;50
 gotoguy;60
 gotohell;60
 gotohellandback;60
+gotojail;60;Monopoly square
 goton;40
 gotonboard;50
 gotonesgoat;60
@@ -22155,6 +22172,7 @@ hnc;20
 ho;40
 hoa;40;Home owners' association
 hoag;40;Romance novelist Tami Hoag
+hoar;40
 hob;20
 hobbema;20;Dutch painter
 hobbit;50
@@ -23812,6 +23830,7 @@ inabikini;20
 inablaze;40
 inabowtie;20
 inacab;20
+inacage;40;Green paint?
 inacast;40
 inaclaire;40;1930s actress Ina Claire
 inadilemma;50
@@ -23888,7 +23907,7 @@ inbasket;40
 inbaskets;40
 inbed;50;Words to add to a fortune cookie fortune
 inbedwith;50
-inc;40
+inc;50
 incaempire;50
 incagold;50
 incare;30
@@ -24619,10 +24638,11 @@ irruption;30
 irruptions;30
 irruptive;30
 irrupts;30
-irs;40
+irs;50
 irsauditor;50
 irsauditors;50
-irsform;30
+irsform;40
+irsforms;40
 irt;20
 irtysh;20;Siberian river
 irv;20
@@ -24639,6 +24659,7 @@ isaidgooddaysir;60
 isaidstop;60
 isamu;20
 isanart;20
+isaptto;40
 isatonesleisure;20
 isaw;40
 isawit;40
@@ -27039,6 +27060,7 @@ lavacake;50
 lavacakes;50
 lavaflow;50
 lavage;30;Washing out of a body cavity, medical
+lavages;30
 lavalier;30;Chained pendant
 lavaliere;30;Chained pendant
 lavalieres;30;Chained pendant
@@ -27240,6 +27262,8 @@ leapton;40
 leaptto;40
 leapyear;50
 leapyears;50
+learjet;60
+learjets;60
 learnedof;40
 learnedto;30
 learningto;30
@@ -27272,8 +27296,8 @@ leavemeoutofthis;60
 leavenedbread;50
 leavenow;50
 leaveon;40
-leaver;40
-leavers;40
+leaver;30
+leavers;30
 leavesin;40
 leaveson;40
 leavesto;40
@@ -27442,7 +27466,7 @@ leitmotifs;50
 leitmotiv;40
 leitmotivs;40
 lek;20;Albanian coin
-lem;40;Moon lander, or Stanislaw Lem
+lem;30;Moon lander, or Stanislaw Lem
 lemaitre;40;???
 lemays;20
 lemmeatem;60
@@ -29849,6 +29873,7 @@ masa;30;Tortilla/tamale dough
 masai;20;Incorrect spelling of Maasai
 masala;50
 masalas;40
+mascagni;40;Opera composer Pietro Mascagni (1863-1945)
 mascara;50
 mascarameltdown;50
 mascaras;40
@@ -30318,6 +30343,7 @@ megalomaniacal;60
 megalopolis;60
 megalopolises;60
 megaman;60
+megameta;50;???
 megantheestallion;60
 megastar;50
 megastars;50
@@ -34400,7 +34426,7 @@ omh;20
 omi;20
 omigod;60
 omn;20
-omnia;40
+omnia;40;Omnia vincit amor (love conquers all)
 omnipotence;50
 omnipotent;50
 omnipresence;50
@@ -35800,6 +35826,9 @@ paintguns;50
 paintitred;20;???
 paintmixer;50
 paintmixers;50
+pairbond;50
+pairbonded;50
+pairbonds;50
 pairer;30
 pairofdice;50
 pairofskis;50
@@ -36903,6 +36932,8 @@ petro;40;Prefix
 petrucci;50
 petsematary;50
 petsmart;50
+pettaxi;60
+pettaxis;60
 petter;40
 petters;40
 pettit;40;???
@@ -48246,6 +48277,8 @@ storytime;50
 storytimes;50
 stotinka;30;???
 stouening;30
+stoup;20
+stoups;20
 stouten;30
 stoutened;30
 stoutens;30
@@ -50605,6 +50638,7 @@ thc;40
 thd;20
 the;50
 thea;30
+theabcs;40
 theabsoluteunit;60
 theaccidentaltourist;50
 theaceofclubs;40
@@ -51196,6 +51230,7 @@ thestand;50
 thestanleycup;20
 thestar;50;Tarot card
 thestarspangledbanner;50
+thesteps;40;???
 thesteroidera;20;Why "the"?
 thesticks;60
 thestilt;50;Wilt Chamberlain's nickname
@@ -51345,6 +51380,8 @@ thezooplane;40;???
 thi;20
 thicc;60
 thickasthieves;60
+thicko;40;British idiot
+thickos;40
 thidwick;40;Dr. Seuss moose
 thidwickthebigheartedmoose;60;Dr. Seuss book
 thiefofjoy;60;Comparison, it's said
@@ -55305,6 +55342,8 @@ watervole;50
 watervoles;50
 waterwater;1
 waterwings;50
+waterworks;60;Monopoly square
+waterworld;60
 watford;30
 watsline;30
 wausau;20;Wisconsin city
