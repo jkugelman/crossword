@@ -1515,6 +1515,7 @@ alleyes;50
 alleyesandears;60
 alleyesareonyou;60
 allez;30
+allfiredup;60
 allflashnocash;60
 allforfree;50
 allgood;60
@@ -2068,6 +2069,7 @@ andgo;20
 andherestoyoumrsrobinson;60
 andi;30;Partial "and I", or Disney Channel show "Andi Mack"
 andimeanit;60
+andimhereforit;60
 andirepeat;60
 andjusticeforall;60
 andjustlikethat;60
@@ -5941,6 +5943,8 @@ boardgamenight;60
 boardgamenights;60
 boardingparties;50
 boardingpass;50
+boardingschool;60
+boardingschools;60
 boardmeeting;50
 boardmeetings;50
 boardoftrustees;50
@@ -17184,6 +17188,7 @@ firedepartment;50
 firedepartments;50
 firedon;40
 firedonallcylinders;60
+firedup;50
 firedupon;40
 fireemoji;60
 fireemojis;60
@@ -17201,8 +17206,15 @@ firehazard;50
 firehazards;50
 firehose;50
 firehoses;50
+firehousedog;60
+firehousedogs;60
+firehydrant;50
+firehydrants;50
+fireinsurance;50
 fireiron;40;Fireplace poker
 fireirons;40;Fireplace pokers
+fireline;50
+firelines;50
 fireman;50
 firemansred;1
 firemario;60
@@ -17220,15 +17232,18 @@ firesat;40
 fireseason;50
 fireson;40
 firesonallcylinders;60
+firesup;50
 firesupon;40
 firetruck;50
 firetrucks;50
+fireup;50
 fireupon;40
 firingashot;50
 firingat;40
 firingon;40
 firingonallcylinders;60
 firings;30
+firingup;50
 firingupon;40
 firmbelief;50
 firmbeliefs;50
@@ -17951,6 +17966,8 @@ fount;50
 fountaindrink;50
 fountaindrinks;50
 founts;50
+fouralarmfire;50
+fouralarmfires;50
 fouram;40
 fourbars;50;Good signal
 fourdayworkweek;60
@@ -19590,7 +19607,7 @@ gobidessert;1
 gobies;20
 gobig;50
 goblank;50
-gobletoffire;30
+gobletoffire;50
 goblinmode;60
 goblue;50
 goblueintheface;60
@@ -23651,6 +23668,7 @@ imgoingtoeatyouforbreakfast;60
 imgonnabounce;60
 imgonnaeatyouforbreakfast;60
 imhere;50
+imhereforit;60
 imhit;50
 imho;40
 imhome;50
@@ -28770,6 +28788,7 @@ lowcarbdiet;50
 lowclass;50
 lowearthorbit;60
 lowearthorbits;60
+lowed;40
 lowells;20
 lowenergy;60
 lowenergylevel;50
@@ -28801,10 +28820,12 @@ lowercasez;40
 lowercourt;50
 lowercourts;50
 lowerjaw;50
+lowery;30;Gloomy
 lowfare;50
 lowfares;50
 lowgerman;50
 lowgravity;50
+lowing;40
 lowiq;40
 lowiqs;40
 lowish;40
@@ -28891,6 +28912,10 @@ lucubrations;30
 lud;20
 ludacris;50
 ludens;30;Throat drops brand
+luff;30;Steer a yacht nearer the wind
+luffed;30
+luffing;30
+luffs;30
 lug;50
 lugeteam;50
 lugeteams;50
@@ -31710,6 +31735,7 @@ mrs;50
 mrsandman;60
 mrsaturdaynight;50
 mrsdash;40;They dropped the "Mrs."
+mrsdoubtfire;60
 mrsmartypants;60
 mrsminiver;50
 mrsmith;50
@@ -34834,7 +34860,7 @@ ontilt;60
 ontoe;40
 ontogeny;30
 ontv;40
-onvideo;40
+onvideo;50
 onwithit;60
 onyx;60
 onyxes;40
@@ -37708,6 +37734,8 @@ playsgames;60
 playsgolf;50
 playsnice;60
 playsto;40
+playstupidgames;60
+playstupidgameswinstupidprizes;60
 playtest;60
 playtested;60
 playtester;60
@@ -56313,6 +56341,7 @@ winsomest;30
 winssilver;50
 winstreak;50
 winstreaks;50
+winstupidprizes;60
 winteraconite;30;???
 winterale;50
 winterales;50
