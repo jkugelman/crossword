@@ -20412,6 +20412,7 @@ greatdanger;50
 greatdayforup;60;Dr. Seuss book
 greaten;30
 greatfallsmt;30
+greatidea;60
 greatlakesstate;50
 greatlie;20
 greatoldone;60;Cthulhu, e.g.
@@ -33616,6 +33617,7 @@ npr;40
 nprnews;50
 nra;40
 nrachief;40
+nrachiefs;40
 nrc;20
 nrgpark;50
 nsa;40
@@ -53047,12 +53049,18 @@ trento;30;Italian city
 trentreznor;60
 trepan;30;Skull saw
 trepans;30;Skull saws
-trephine;20;Surgical saw
+trephination;30
+trephine;30;Trepan, drill a hole in someone's head
+trephined;30
+trephines;30
+trephining;30
 tres;40
 trescool;60
 tresjolie;50
 tress;50
 tresse;30
+tressier;30
+tressiest;30
 tressless;40
 tressy;30
 trevi;40
