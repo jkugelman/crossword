@@ -1203,11 +1203,14 @@ airness;60
 aironesdirtylaundry;60
 airoutonesdirtylaundry;60
 airpillo;40;Dr. Scholl's Air-Pillo Insoles
-airplanecaptain;40
-airplanelanding;30
-airpods;50
-airportbar;50
-airportbars;50
+airplanecaptain;50
+airplanecaptains;50
+airplanelanding;50
+airplanelandings;50
+airpod;60
+airpods;60
+airportbar;60
+airportbars;60
 airportcode;50
 airportcodes;50
 airportwifi;60
@@ -1733,6 +1736,7 @@ alumnimagazines;50
 alundum;20;Fused alumina used as abrasive/refractory
 alva;40;Thomas Alva Edison
 alvinbragg;50;Trump prosecutor
+alvins;30;Plural name
 alvy;40;Woody in "Annie Hall"
 alwayswasalwayswillbe;50;Australian slogan for Aboriginal rights
 alwayswasalwayswillbeaboriginalland;50
@@ -3318,8 +3322,8 @@ assorter;30
 assorters;30
 assorting;40
 assorts;40
-asspennies;60
-asspenny;60
+asspennies;5
+asspenny;5
 asss;20
 asst;40
 asstda;40
@@ -3842,6 +3846,7 @@ axmen;40
 axthrowing;50
 ay;40
 aya;20
+ayanna;40
 ayatollah;50
 ayatollahkhomeini;50
 aye;50
@@ -6771,6 +6776,7 @@ brumaire;20
 bruni;30;Carla ___
 bruschetta;50
 brusselsbelgium;30;???
+bryans;30;Plural name
 bs;40
 bsa;40
 bsc;20
@@ -8733,13 +8739,17 @@ chestxrays;50
 cheviot;20;Breed of sheep
 chevre;40;Chèvre, goat cheese
 chevron;50
+chewat;40
 chewbacca;60
+chewedat;40
 chewedon;40
 chewer;40
 chewers;40
 chewie;50
+chewingat;40
 chewingon;40
 chewon;40
+chewsat;40
 chewson;40
 chewygranolabar;20
 cheyennewy;30
@@ -16114,6 +16124,8 @@ evoo;20;Extra virgin olive oil
 evs;40
 ew;50
 ewa;20
+ewallet;40
+ewallets;40
 ewaste;50
 ewe;50
 ewelamb;30
@@ -26665,6 +26677,8 @@ lacoruna;40;???
 lacrimal;40
 lacroix;50;Sparkling water
 lacrossegoalies;30
+lacteal;30
+lacteals;30;Lymphatic vessels
 lacto;40
 lactoseinterola;1
 lacuna;40;Empty hole, gap
@@ -27747,6 +27761,8 @@ lettinginto;40
 lettingoff;40
 lettingthingsplayout;60
 lettingupon;40
+lettre;30
+lettres;30
 letts;20
 lettuce;50
 letupon;40
@@ -28876,6 +28892,8 @@ loyaltyprograms;50
 lp;40
 lpga;40
 lpgatour;50
+lpinsert;40;Vinyl album insert
+lpinserts;40
 lpn;20
 lps;20
 lrg;20
@@ -30820,6 +30838,8 @@ mildbreeze;50
 miler;50;One that competes in mile races, or ___-miler
 milers;50
 milessmiles;50;Miles Davis album
+milfoil;30;Aquatic plant
+milfoils;30
 militaryuniform;50
 milkchocolate;50
 milker;30
@@ -33006,6 +33026,7 @@ nipplering;60
 nipplerings;60
 nips;50
 nipsat;40
+nipsey;40;Comedian Nipsey Russell (1918-2005)
 nipsitinthebud;60
 nipslip;5
 nipslips;5
@@ -34434,6 +34455,8 @@ oleato;30;Starbucks coffee infused with olive oil
 oled;40
 oleds;40
 oleelo;20;Jeff Lynde album
+olefin;20;Hydrocarbon
+olefins;20
 oleg;40
 oleic;40;Omega-9 fatty acid
 oleicacid;40
@@ -35757,6 +35780,8 @@ own;50
 ownagun;30
 ownedagun;30
 ownedupto;40
+owngoal;60
+owngoals;60
 owningagun;30
 owningupto;40
 ownsagun;30
@@ -39097,6 +39122,7 @@ pterosaurs;50
 ptl;20
 pto;40
 ptolemys;20
+ptown;30;Nickname for Provincetown, MA
 ptrap;30;Plumbing fixture
 ptraps;30;Plumbing fixtures
 pts;40
@@ -41597,6 +41623,7 @@ retrofuturistic;60
 retrorse;20
 retsina;30;Greek wine
 retsinas;30
+retton;40;Gymnast Mary Lou Retton
 returnedto;40
 returnee;20
 returnees;20
@@ -42474,6 +42501,7 @@ rosecolored;50
 rosecoloredglasses;60
 rosecut;50
 rosekennedy;50
+rosella;40;Ballerina Rosella Hightower, or type of parrot
 roselle;40;Hibiscus flower
 rosemadder;60
 rosemaries;30
@@ -42570,6 +42598,7 @@ roundtheseparts;60
 rouser;40;Rabble ___
 rousers;40
 rousingsuccess;60
+roussel;30;Composer Albert Roussel, poet Raymond Roussel
 rouster;30
 rousters;30
 routedto;40
@@ -45686,6 +45715,7 @@ sixirons;50
 sixofone;50;...Half a dozen of another
 sixpack;60
 sixpackabs;60
+sixpast;30
 sixpm;40
 sixteen;50
 sixteens;40
@@ -46915,6 +46945,7 @@ sorters;40
 sortied;30
 sortieing;30
 sos;50
+sosa;40
 sosick;60
 sosimple;60
 sosoon;50
@@ -50378,6 +50409,7 @@ tenableness;30
 tenace;20
 tenaces;20
 tenacities;30
+tenacre;40;Like a large plot
 tenam;40
 tenancies;30
 tenanted;40
@@ -52117,6 +52149,7 @@ titrations;40
 titrator;40
 titrators;40
 tits;40
+titties;5
 tittle;40
 tittoo;20
 titularly;30
@@ -54505,6 +54538,8 @@ ustour;40;What musicians embark on
 ustours;40
 ustreasury;40
 usufruct;30;Legal term
+usvet;40;Green paint? Veteran's Day honoree
+usvets;40;Green paint? Veteran's Day honorees
 usvisa;40
 usvisas;40
 uswnt;20
