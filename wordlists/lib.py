@@ -259,5 +259,8 @@ def spellable_metas(themers, words, min_count=None, max_count=None, filter=is_sy
         if spellings:
             yield word, spellings
 
+def is_palindrome(word):
+    return word == word[::-1]
+
 def rel_path(path):
     return os.path.join(os.path.dirname(__file__), path)
