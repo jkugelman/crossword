@@ -3490,7 +3490,7 @@ atishoo;20;British "achoo!"
 atisket;40
 atit;50
 atitagain;60
-ativan;50
+ativan;40
 atkins;50
 atl;40
 atlantafalcon;50
@@ -4162,6 +4162,7 @@ bailors;30
 bailsman;50
 bailsmen;50
 bailson;40
+bain;40;Bain Capital
 baio;40;Scott Baio
 bairn;30;Child, to a Scot
 bairns;30
@@ -4818,9 +4819,12 @@ bearerbond;50
 bearerbonds;50
 bearerofbadnews;60
 bearfruit;50
+bearingon;40
+bearon;40
 bearpit;50
 bearpits;50
 bearsfruit;50
+bearson;40
 bearspray;50
 bearstearns;50
 bearsuit;50
@@ -9296,6 +9300,9 @@ cliffsofinsanity;60
 clii;20
 cliii;20
 climatarian;50
+climateactivism;60
+climateactivist;60
+climateactivists;60
 climaxat;40
 climaxedat;40
 climaxesat;40
@@ -14137,6 +14144,7 @@ dutchangles;60
 dutchbob;50
 duterte;5
 dutiable;40
+dutton;40
 dutyfree;50
 duumvir;20
 duumvirate;30;Government by two independent authorities
@@ -16427,6 +16435,7 @@ fadingin;40
 fadinginto;40
 fadings;30
 fae;20
+faefaer;30;Fae/faer neopronouns
 faeroe;20
 faff;50
 faffabout;50
@@ -16692,6 +16701,8 @@ fatcats;60
 fatcontent;50
 fatefulday;60
 fateofthefurious;60
+fatfarm;40
+fatfarms;40
 fatha;30;Jazz nickname
 fatherfigure;50
 fatherfigures;50
@@ -21306,6 +21317,7 @@ hasonetoomany;60
 hasta;40
 hastate;20
 hastemakeswaste;60
+hastert;40;Speaker of the House Dennis Haster (1999-2007)
 hasto;40
 hastodo;20
 hasup;40
@@ -24472,6 +24484,10 @@ intromit;40;Allow in
 intromits;40
 intromitted;40
 intromitting;40
+intrudedon;40
+intrudeon;40
+intrudeson;40
+intrudingon;40
 intrust;40
 intrusted;40
 intrusting;40
@@ -26678,7 +26694,7 @@ lacoruna;40;???
 lacrimal;40
 lacroix;50;Sparkling water
 lacrossegoalies;30
-lacteal;30
+lacteal;40;Milky
 lacteals;30;Lymphatic vessels
 lacto;40
 lactoseinterola;1
@@ -27268,6 +27284,8 @@ leadbyexample;60
 leaddog;50
 leaddogs;50
 leadeth;30
+leadier;30
+leadiest;30
 leadinginto;40
 leadingto;40
 leadinto;40
@@ -27279,6 +27297,7 @@ leadto;40
 leadvocalist;50
 leadvocalists;50
 leadvocals;50
+leady;30
 leaf;50
 leafage;40
 leafer;30
@@ -31888,6 +31907,8 @@ mughal;40;Ancient empire
 mugoftea;50
 mugsforthecamera;60
 mugsoftea;50
+mukbang;60
+mukbangs;60
 mukluk;40;Eskimo boot
 mukluks;40
 mulatto;5
@@ -32666,6 +32687,9 @@ netizens;50
 netless;30
 netman;30
 netmen;30
+netter;30;Tennis player or fisherman
+netters;30
+nettie;40;???
 nettled;40
 nettler;40
 nettlers;40
@@ -44541,6 +44565,7 @@ serendip;30;Name for the island of Sri Lanka, source of the word serendipity
 sereneness;30
 serener;30
 serenest;30
+serfish;40
 serge;40;Fabric
 sergeidiaghilev;20;Russian art critic
 serges;20;Fabrics
@@ -47857,6 +47882,7 @@ startsallover;50
 startsat;40
 startsatab;50
 startson;40
+startstop;50
 starturn;60
 starturns;60
 starveafever;50
@@ -49185,6 +49211,7 @@ susurruses;40
 sutler;40
 sutras;40
 sutter;40;Sutter's Mill from the gold rush
+sutton;40
 sutural;30;Relating to sutures
 suv;50
 suva;40;Capital of Fiji
@@ -50665,6 +50692,10 @@ thabo;40;Mandela's successor Thabo Mbeki
 thaibasil;50
 thaibasilleaf;50
 thaibasilleaves;50
+thaicuisine;60
+thaifood;60
+thairestaurant;60
+thairestaurants;60
 thaitea;50
 thalami;40;Thalamus plural
 thalassa;30;Moon of Neptune, Greek sea goddess
@@ -51020,6 +51051,7 @@ thefootbook;60;Dr. Seuss book
 theforceawakens;60
 theforeignlegion;30
 thefrogprince;60
+thefuck;5
 thefuries;50
 thegameisafoot;60
 thegamesafoot;50
@@ -51290,6 +51322,7 @@ thered;20
 theredcross;30
 theredphone;40;???
 theredsea;20
+theredsox;40
 theregoesmybaby;60
 theregoestheneighborhood;60
 thereisnosilverbullet;60
@@ -57096,10 +57129,14 @@ yearabroad;50
 yearlies;30;???
 yearling;40;Year-old animal
 yearlings;40
+yearnedfor;40
 yearnedto;40
 yearner;40
 yearners;40
+yearnfor;40
+yearningfor;40
 yearningto;40
+yearnsfor;40
 yearnsto;40
 yearnto;40
 yearsabroad;50
