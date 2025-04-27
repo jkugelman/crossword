@@ -8639,6 +8639,8 @@ checkoutcounter;50
 checksinto;40
 checkson;40
 checksonesprivilege;60
+checkstub;50
+checkstubs;50
 checkswith;40
 checkwith;40
 checkyouregoatthedoor;60
@@ -15229,6 +15231,7 @@ endedupat;40
 endedupontop;50
 endedwith;40
 endemism;30;Biology word
+endersgame;60
 endgame;50
 endgames;50
 endin;40
@@ -20975,12 +20978,21 @@ hailofbullets;60
 hailsfrom;50
 hailto;20
 haim;40;Corey Haim
+hairdresser;60
+hairdressers;60
+hairdressing;60
 hairflip;60
 hairflips;60
 hairfollicle;50
 hairfollicles;50
-hairplug;50
-hairplugs;50
+hairlesscat;60
+hairlesscats;60
+hairlessdog;60
+hairlessdogs;60
+hairplug;60
+hairplugs;60
+hairsalon;60
+hairsalons;60
 hairtonic;50
 hairtonics;50
 hairyballtheorem;60
@@ -21740,6 +21752,7 @@ helleatyouforbreakfast;60
 hellen;30
 hellenes;20;Greeks
 hellenic;30;Greek
+hellers;30;Hellions
 hellhole;60
 hellholes;60
 hellhound;60
@@ -22180,6 +22193,8 @@ hisloss;50
 hispeedtonic;60;Acme invention
 hissat;40
 hissedat;40
+hisser;40
+hissers;40
 hissesat;40
 hissingat;40
 hissings;20;Weird plural
@@ -30259,7 +30274,7 @@ mcing;40
 mciv;20
 mcjob;60
 mcjobs;60
-mckay;50
+mckay;40
 mcl;20
 mclain;30;Baseball player Denny
 mcli;20
@@ -31196,6 +31211,7 @@ mliii;20
 mliv;20
 mlix;20
 mlk;40
+mlkjr;50
 mlle;40
 mlles;40
 mls;20
@@ -33263,7 +33279,7 @@ nomen;20;Ancient Roman's middle name
 nomo;40;Star pitcher Hideo
 nomogram;40;Type of mathematical diagram
 nomophobia;60;Fear of being without a mobile phone
-nomore;60
+nomore;50
 nomothetic;20
 noms;30
 nomsg;30
@@ -33823,6 +33839,7 @@ nutrias;30;Rodents
 nutriment;40
 nutriments;40
 nutsy;40;Insane??
+nutting;40;Nut gathering
 nuuk;40;Capital of Greenland
 nuvola;20;???
 nw;40
@@ -45453,6 +45470,7 @@ signsapact;50
 signsapetition;50
 signsfor;40
 signsonto;40
+sikes;40;Dickens villain Bill Sikes
 sikkim;30;Least populous Indian state
 sikorsky;40;Aircraft manufacturer
 sil;20
@@ -48725,6 +48743,10 @@ studyingupon;50
 studyinscarlet;60
 studyupon;50
 stuf;30
+stuffedin;40
+stuffin;40
+stuffingin;40
+stuffsin;40
 stuffynose;50
 stuka;20
 stukas;20
@@ -49581,6 +49603,7 @@ tag;50
 tagalog;50;Girl Scout cookie
 tagalogs;50;Girl Scout cookies
 tagboard;30
+tagine;40
 tagline;50
 taglines;50
 tagore;30;1913 Literature Nobelist
@@ -50213,10 +50236,12 @@ tealight;50
 tealights;50
 teals;30
 teamedupon;40
+teamedward;60
 teamer;30
 teamers;30
 teamgame;50
 teamingupon;40
+teamjacob;60
 teammascot;50
 teammascots;50
 teammember;50
@@ -56956,6 +56981,7 @@ xin;30
 xinag;20
 xing;40
 xingout;30
+xings;40
 xis;20
 xiv;20
 xix;20
