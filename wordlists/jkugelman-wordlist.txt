@@ -4232,13 +4232,19 @@ balloonart;50
 balloonartist;50
 balloonartists;50
 ballou;50
-ballroomdancer;50
-ballroomdancers;50
-ballroomdancing;50
+ballparkfrank;60
+ballparkfranks;60
+ballroomdance;60
+ballroomdancer;60
+ballroomdancers;60
+ballroomdances;60
+ballroomdancing;60
 ballsier;60
 ballsiest;60
 ballsinyourcourt;60
 ballsy;60
+ballyard;50
+ballyards;50
 ballyhoo;60
 balmoral;40;Scottish castle for the British royal family
 balt;30;Latvian, e.g.
@@ -11095,6 +11101,7 @@ cuddledup;50
 cuddlesup;50
 cuddleup;50
 cuddlingup;50
+cudi;40;Rapper Kid Cudi
 cue;50
 cueball;50
 cueballs;50
@@ -19730,6 +19737,7 @@ goesnumb;50
 goesobsolete;50
 goesoffkilter;50
 goesoffline;50
+goesoffwithoutahitch;60
 goesok;50
 goesokay;50
 goesonadate;50
@@ -19831,6 +19839,7 @@ goingnumb;50
 goingobsolete;50
 goingoffkilter;50
 goingoffline;50
+goingoffwithoutahitch;60
 goingonadate;50
 goingonadiet;50
 goingonaspree;50
@@ -20036,6 +20045,7 @@ goofedaround;50
 goofedon;50
 gooffkilter;50
 gooffline;50
+gooffwithoutahitch;60
 goofiness;50
 goofingaround;50
 goofingon;50
@@ -34598,6 +34608,7 @@ onajuicecleanse;30
 onajury;30
 onakick;50
 onalark;50
+onalead;30
 onalert;50
 onalimb;50
 onaline;40
@@ -34630,7 +34641,7 @@ onatangent;40
 onateam;40
 onatear;50
 onatimer;40
-onatip;20
+onatip;30
 onatoot;20
 onatopp;30;GoldenEye's bond girl Xenia Zaragevna Onatopp
 onatrialbasis;60
@@ -37681,6 +37692,7 @@ plainold;50
 plaintosee;60
 plainviewnebraska;30;???
 plame;40;Valerie Plame
+planaperfectgetaway;60
 planaria;20
 planarian;20;Flatworm
 planck;50
@@ -37706,16 +37718,22 @@ plangonologist;40;Doll collector
 plangonologists;40
 plangonology;40
 planish;30;Flatten sheet metal
+plannedaperfectgetaway;60
 plannedfor;40
 plannedobsolescence;60
 plannedon;40
+plannedtheperfectgetaway;60
 plannedto;30
+planningaperfectgetaway;60
 planningfor;40
 planningon;40
+planningtheperfectgetaway;60
 planningto;30
 planon;40
+plansaperfectgetaway;60
 plansfor;40
 planson;40
+planstheperfectgetaway;60
 plansto;30
 plantaseed;50
 plantcells;50
@@ -37727,6 +37745,7 @@ planterbox;50
 planterboxes;50
 plantforeman;50
 plantforemen;50
+plantheperfectgetaway;60
 plantingaseed;50
 planto;30;Hard to clue
 plantsaseed;50
@@ -42008,6 +42027,10 @@ ringabell;60
 ringannouncer;50
 ringannouncers;50
 ringaround;40;Call around
+ringaroundarosie;60
+ringaroundarosy;60
+ringaroundtherosie;60
+ringaroundtherosy;60
 ringbearer;50
 ringbearers;50
 ringding;50
@@ -55358,9 +55381,12 @@ walz;50;VP candidate Tim Walz
 wampum;40
 wan;50
 wanderaroundtown;50
+wanderedaroundtown;50
 wanderedin;40
 wanderin;40
+wanderingaroundtown;50
 wanderingin;40
+wandersaroundtown;50
 wandersin;40
 wangle;30
 wangled;30
@@ -55910,6 +55936,7 @@ wentnumb;50
 wentobsolete;50
 wentoffkilter;50
 wentoffline;50
+wentoffwithoutahitch;60
 wentonadate;50
 wentonadiet;50
 wentonaspree;50
