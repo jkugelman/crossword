@@ -348,6 +348,7 @@ aceshigh;50
 acesinthehole;60
 acesit;40
 acesover;20
+acesup;30
 acetabula;20;Hip sockets
 acetals;30
 acetamide;30;Industrial solvent
@@ -3148,6 +3149,7 @@ ashlars;20;Masonry
 ashlee;40;Simpson sister
 ashmolean;40;British museum
 ashpit;40;???
+ashraf;30
 ashur;20
 asi;20
 asiam;30;"Take me ___" or Alicia Keys album
@@ -3550,7 +3552,7 @@ atossa;20;Mother of Xerxes
 atoz;40
 atp;20
 atplay;50
-atra;20
+atra;30
 atrace;30
 atrance;1;Long partial
 atremble;40
@@ -9485,6 +9487,7 @@ cno;20
 cnote;40
 cnotes;40
 cns;40
+cntower;40
 co;40
 coa;20
 coachdog;40;Dog trained to run alongside carriages to protect from bandits
@@ -9802,6 +9805,7 @@ colludedon;40
 colludeingon;40
 colludeon;40
 colludeson;40
+collyer;30;"Beat the Clock" host Bud Collyer
 colonelcy;40
 colonelsun;30;Post-Fleming James Bond novel
 colones;30;Costa Rican currency
@@ -17739,6 +17743,8 @@ fms;20
 fmstation;50
 fmstations;50
 fnatural;40
+fnumber;40;Same as f-stop
+fnumbers;40
 foaled;40
 foamfinger;60
 foamfingers;60
@@ -19330,6 +19336,7 @@ giantrubberband;60;Acme invention
 giantslalom;50
 gib;20
 gibberish;50
+gibbler;40;Kimmy Gibbler from "Full House"
 gibbousmoon;50
 gide;30;French novelist Andre
 gidget;40;Character in a series of movies in the '60s
@@ -21627,6 +21634,7 @@ hearthealthy;50
 hearties;50
 heartmonitor;50
 heartmonitors;50
+heartoftheocean;60;"Titanic" necklace
 heartrate;50
 heartrates;50
 heartsick;60
@@ -26803,6 +26811,7 @@ lait;40;Cafe au lait
 laity;40
 lajoconde;50;Mona Lisa
 lak;20
+lakebottom;50
 lakier;20
 lakiest;20
 lakist;20;Lake School poet
@@ -38832,7 +38841,11 @@ priebus;30;Reince Priebus, RNC chair and White House chief of staff under Trump,
 priedinto;40
 priesinto;40
 priest;50
+priesthole;60
+priestholes;60
 priesthood;50
+priesthunter;60
+priesthunters;60
 priests;50
 prii;40
 primacies;30
@@ -39201,6 +39214,7 @@ ptrap;30;Plumbing fixture
 ptraps;30;Plumbing fixtures
 pts;40
 ptsd;40
+ptui;20
 pub;50
 pubdate;20
 pubdates;20
@@ -42176,6 +42190,7 @@ riven;50
 riveras;40;Murals
 riverboatpilot;50
 riverboatpilots;50
+riverbottom;50
 rivercard;50
 rivercards;50
 riverstyx;60
@@ -42568,7 +42583,7 @@ ropery;30
 ropetrick;50
 ropetricks;50
 rorem;30;Composer Ned Rorem
-ros;20
+ros;40;Children's author Ros Asquith
 rosalia;40;Patron saint of Palermo, or mononymous singer
 rosalie;40;Who's notable?
 rosarybead;50
@@ -50481,6 +50496,8 @@ telnet;30
 telomere;30;Genetic word
 telomeres;30;Genetic word
 telos;40;Term from Aristotle
+telpher;30;Cable car
+telphers;30
 tels;30
 telugu;20;South Indian language
 tem;40
@@ -53035,6 +53052,10 @@ trashedon;30
 trasheson;30
 trashingon;30
 trashon;30
+traumadump;60
+traumadumped;60
+traumadumping;60
+traumadumps;60
 traumakit;50
 traumakits;50
 traumata;30;Traumas
@@ -53289,6 +53310,8 @@ troll;50
 trolldoll;60
 trolldolls;60
 trolled;60
+trolleyproblem;60
+trollfactory;60
 trolling;60
 trolls;50
 trombone;50
@@ -55329,8 +55352,8 @@ wagnerians;50
 wagontrain;50
 wagontrains;50
 wah;50
-wahine;30;Surfer girl
-wahines;30
+wahine;40;Hawaiian woman, surfer girl
+wahines;40
 wahl;30;Barber brand
 wahs;30
 waikikibeach;50
