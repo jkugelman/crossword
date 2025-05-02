@@ -2440,6 +2440,7 @@ aperol;40;Italian bitter apéritif
 apers;30
 aperson;30;Each
 apery;40
+apeshit;5
 apesuit;50
 apesuits;50
 apewoman;50
@@ -6936,6 +6937,9 @@ bullpencoach;50
 bullpencoaches;50
 bullpens;50
 bulls;50
+bullshit;5
+bullshitter;5
+bullshitters;5
 bullyforher;60
 bullyforhim;60
 bullyforthem;60
@@ -7339,12 +7343,12 @@ calla;30;Type of lily
 callaloo;40;Caribbean stew
 callaloos;40
 callbackto;40
-callbullshit;60
-callbullshiton;60
+callbullshit;5
+callbullshiton;5
 calle;30
 calledbackto;40
-calledbullshit;60
-calledbullshiton;60
+calledbullshit;5
+calledbullshiton;5
 calledfor;40
 calledfoulon;50
 calledin;40
@@ -7360,8 +7364,8 @@ callie;30;???
 calligram;50
 callin;40
 callingbackto;40
-callingbullshit;60
-callingbullshiton;60
+callingbullshit;5
+callingbullshiton;5
 callingfor;40
 callingfoulon;50
 callingin;40
@@ -7378,8 +7382,8 @@ calllogs;50
 callme;50
 callon;40
 callsbackto;40
-callsbullshit;60
-callsbullshiton;60
+callsbullshit;5
+callsbullshiton;5
 callsfor;40
 callsfoulon;50
 callsignals;20
@@ -8124,6 +8128,7 @@ catpose;50
 catrenee;20
 catscanner;30
 catsgames;1
+catshit;5
 catsit;50
 catsits;50
 catsitter;50
@@ -13053,6 +13058,7 @@ doer;40
 doerr;40;Anthony Doerr, "Cloud Cuckoo Land" author
 doers;40
 doesabackflip;50
+doesabearshitinthewoods;5
 doesadance;50
 doesadryrun;50
 doesaduet;20
@@ -13163,6 +13169,7 @@ dogponds;50
 dogrocket;60
 dogrun;50;Fenced-off area for a dog to run around
 dogruns;50
+dogshit;5
 dogshow;60
 dogshows;60
 dogsit;50
@@ -13324,6 +13331,7 @@ dontberude;60
 dontbethatguy;60
 dontblockthebox;60
 dontbother;60
+dontbullshitabullshitter;5
 dontchathink;60
 dontdelay;60
 dontdelayactnow;60
@@ -18369,6 +18377,7 @@ fullgainer;50
 fullhouse;60
 fullmarathon;50
 fullmarathons;50
+fullofshit;5
 fullspectrum;50
 fullspread;50
 fullspreads;50
@@ -19259,6 +19268,7 @@ getyourhandsoffme;60
 getyourheadexamined;60
 getyourhouseinorder;60
 getyourrearingear;60
+getyourshittogether;5
 getz;40
 gevalia;40;Swedish coffee brand
 gewgaw;40;Showy trinket
@@ -22414,6 +22424,7 @@ holyromanemperor;60
 holyromanemperors;60
 holyromanempire;60
 holyrood;40
+holyshit;5
 holysmoke;60
 holysmokes;60
 holysynod;50
@@ -23118,6 +23129,7 @@ ibooks;30;Now known as Apple Books
 ibram;30;???
 icahn;30;Billionaire Carl
 icallbs;60
+icallbullshit;5
 icame;40
 ican;50
 icanadd;50
@@ -23370,6 +23382,7 @@ idontfeelsogood;60
 idontgetit;60
 idontgiveadamn;60
 idontgiveaflip;60
+idontgivetwoshits;5
 idonthaveallday;60
 idonthaveto;60
 idontknow;50
@@ -23925,6 +23938,7 @@ imsure;50
 imtired;50
 imtoast;60
 imtoo;20
+imtoooldforthisshit;5
 imtryingmybest;60
 imtryingtoeat;60
 imup;50
@@ -24813,6 +24827,7 @@ ishares;30;ETF collection
 ishebuyingit;60
 ishi;20
 ishipit;20;???
+ishityounot;5
 ishuddertothink;60
 isi;20;Partial [occasional]
 isidor;30;Nobel physicist Isidor Rabi, never used in Shortz era
@@ -26304,6 +26319,7 @@ kingofswords;60;Tarot card
 kingofwands;60;Tarot card
 kingrat;30;Unnoteworthy old movie
 kingset;40;Bedroom set
+kingshit;5
 kingsized;50
 kingsizekitkat;50
 kingsizemilkyway;50
@@ -32843,6 +32859,7 @@ newyorkyankees;50
 nextdaydeliveries;50
 nextdaydelivery;50
 nextgen;60
+nextlevelshit;5
 nextone;1
 nextpage;50
 nextroundisonme;60
@@ -33485,6 +33502,7 @@ noseyparkers;60
 nosferatu;60
 nosher;40
 noshers;40
+noshitsherlock;5
 noshot;50
 noside;30;End of a rugby match
 nosingabout;50
@@ -37421,6 +37439,7 @@ pigears;50
 pigeoncoop;50
 pigeoncoops;50
 pigeonpose;60
+pigeonshit;5
 piggedouton;60
 piggingouton;60
 piggybank;60
@@ -43733,6 +43752,7 @@ scarcitymindset;60
 scarecrow;60
 scarecrows;60
 scaredof;40
+scaredshitless;5
 scaredstiff;60
 scaredstraight;60
 scaredup;60
@@ -45161,6 +45181,13 @@ shirseys;30;Shirt jersey
 shishabar;30
 shishabars;30
 shiso;30;Japanese herb
+shitcanned;5
+shitcanning;5
+shitcans;5
+shitlist;5
+shitpost;5
+shitposting;5
+shitposts;5
 shiv;50
 shiverer;30
 shiverers;30
@@ -48207,21 +48234,25 @@ stepgoal;60
 stepgoals;60
 stephenfry;50
 stepin;40
+stepinshit;5
 stepinto;40
 steponit;60
 steponto;40
 stepoutof;40
 steppedin;40
+steppedinshit;5
 steppedinto;40
 steppeditup;60
 steppedonit;60
 steppedonto;40
 steppedoutof;40
 steppingin;40
+steppinginshit;5
 steppinginto;40
 steppingonto;40
 steppingoutof;40
 stepsin;40
+stepsinshit;5
 stepsinto;40
 stepsonto;40
 stepsoutof;40
@@ -56307,6 +56338,7 @@ whodoesshethinksheis;60
 whodotheythinktheyare;60
 whoelse;60
 whogivesaflip;60
+whogivesashit;5
 whoisthat;60
 whoisthis;60
 whoknew;60
