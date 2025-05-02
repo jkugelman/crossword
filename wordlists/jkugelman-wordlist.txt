@@ -1621,6 +1621,8 @@ almondkiss;50
 almondkisses;50
 almondoils;40
 almondpaste;50
+almoner;30;Distributor of alms
+almoners;30
 almostthere;60
 almvp;40
 almvps;40
@@ -2889,6 +2891,7 @@ armorplates;50
 armoryshow;50
 armour;40
 armoury;40
+armpithair;50
 armrest;50
 armrests;50
 armsdeal;50
@@ -6093,6 +6096,7 @@ bon;40
 bona;40
 bonaire;40;Island off Venezuela, the B of ABC islands
 bonami;40;Cleaning brand
+bonanno;30;Mafia crime family
 bondbroker;50
 bondbrokers;50
 bondedwith;40
@@ -8403,6 +8407,7 @@ ceo;50
 ceos;50
 cepeda;20;Baseballer Orlando
 cer;20
+cera;40;Michael Cera
 ceramicmug;50
 ceramicmugs;50
 ceraste;20
@@ -10910,10 +10915,10 @@ crossedpartylines;60
 crossedt;50
 crossedthepicketline;60
 crossedts;50
-crosser;40
+crosser;50
 crossers;40
 crossespartylines;60
-crossest;40
+crossest;50
 crossesthepicketline;60
 crossfade;50
 crossfaded;50
@@ -12220,6 +12225,10 @@ deo;40;In excelsis deo, and other expressions
 deodar;20;Himalayan cedar
 deodars;20
 deodato;30;Brazilian pianist Eumir
+deorbit;50
+deorbited;50
+deorbiting;50
+deorbits;50
 dep;20
 departedfrom;40
 departfrom;40
@@ -13867,6 +13876,10 @@ dronish;40
 drood;40;Dickens's Edwin Drood
 droodle;40;Visual puzzle
 droodles;40
+drooledon;40
+droolingon;40
+droolon;40
+droolson;40
 dropabeat;50
 dropacid;50
 dropahint;50
@@ -15041,6 +15054,8 @@ elvira;60
 elviramistressofthedark;60
 ely;30;Ron Ely who played Tarzan
 elya;20
+elysee;40
+elysees;40
 elytron;20;Beetle part
 elytrons;20;Beetle parts
 em;40
@@ -18993,6 +19008,7 @@ geomancy;50;Earth divination
 geometryclass;50
 geometryii;40
 georg;40;Mathematician Cantor, composer Solti, and others
+georgei;30
 georgeii;30
 georgeiv;30
 georgemichael;50
@@ -20598,9 +20614,13 @@ groper;5
 gropers;5
 gropesfor;40
 gropingfor;40
+grossedup;40
+grossesup;40
+grossingup;40
 grossmisdemeanor;60
 grossmisdemeanors;60
 grosso;40
+grossup;40
 grossweight;50
 grosz;30;George Grosz, Dadaist
 grotesque;60
@@ -20912,6 +20932,7 @@ hadalisp;40
 hadalook;50
 hadalookat;40
 hadanair;40
+hadanap;40
 hadanedge;50
 hadaneyeon;40
 hadanin;50
@@ -21320,6 +21341,7 @@ hasalook;50
 hasalookat;40
 hasan;40;Comedian Hasan Minhaj
 hasanair;40
+hasanap;40
 hasanedge;50
 hasaneyeon;40
 hasanin;50
@@ -21432,6 +21454,7 @@ haveahunch;50
 havealook;50
 havealookat;40
 haveanair;40
+haveanap;40
 haveanedge;50
 haveaneyeon;40
 haveanicelife;60
@@ -21475,6 +21498,7 @@ havingahunch;60
 havingalook;50
 havingalookat;40
 havinganair;30
+havinganap;50
 havinganedge;50
 havinganeyeon;40
 havinganip;50
@@ -21935,6 +21959,7 @@ heroical;30
 heroicsacrifice;60
 heroicsacrifices;60
 heroin;40
+heroinchic;60
 heroize;30
 heroized;30
 heroizes;30
@@ -22648,7 +22673,7 @@ hora;40
 horae;30;Greek goddesses of the seasons
 horan;40;One Direction member Niall Horan
 horatii;30
-horchata;40;Milky beverage
+horchata;50;Milky Mexican drink
 horeb;30
 horehound;40;Herb, or herbal candy
 horehounds;40
@@ -23167,8 +23192,8 @@ icc;20
 ice;50
 icearena;40
 icearenas;40
-icebar;60
-icebars;60
+icebar;50
+icebars;50
 icebelt;30
 icebreakergame;60
 icebreakergames;60
@@ -27760,6 +27785,7 @@ letmeseethat;60
 letnaturerunitscourse;60
 letnot;20
 letoff;40
+letrip;50
 letsadmitit;60
 letsagreetodisagree;60
 letsat;40
@@ -27788,6 +27814,7 @@ letsnotturnitintoawholething;60
 letsoff;40
 letsparty;50
 letsputourheadstogether;60
+letsrip;50
 letssee;50
 letsseeit;60
 letsseenow;60
@@ -27836,6 +27863,7 @@ lettingbackin;40
 lettinginon;40
 lettinginto;40
 lettingoff;40
+lettingrip;50
 lettingthingsplayout;60
 lettingupon;40
 lettre;30
@@ -30092,6 +30120,7 @@ massexits;50
 massicot;30;???
 massif;40;Group of mountains
 massifs;40
+masson;40;Vintner Paul Masson
 mastaba;30
 mastabah;30
 mastabas;30
@@ -31022,8 +31051,8 @@ minipig;30
 minipigs;30
 minipizza;50
 minipizzas;50
-miniquiche;30
-miniquiches;30
+miniquiche;50
+miniquiches;50
 minister;50
 ministeredto;40
 ministeringto;40
@@ -31686,6 +31715,8 @@ moseyson;40
 moshe;30;Various Israelis
 moshita;30
 mosley;40
+mosser;30
+mossers;30
 mosses;30
 mosso;30;Animated or rapid, in music
 mostes;20
@@ -32671,6 +32702,7 @@ neons;40
 neonyellow;50
 neoplasia;30;Tumor growth
 neoroman;50
+neosoul;60
 neoteny;30;Juvenilization, delaying of development
 neoteric;40;New or modern
 neotype;30;Biology specimen replacing the original
@@ -34939,7 +34971,7 @@ onlinevideo;50
 onlinevideos;50
 onloanto;40
 onlow;40
-onlsd;40
+onlsd;50
 onlya;20
 onlyagame;1
 onlyhuman;60
@@ -42552,6 +42584,8 @@ rooftopdecks;50
 rooftoppool;50
 rooftoppools;50
 rooiboos;30;Type of tea
+rooker;40;Swindler
+rookers;40
 rookiemistake;60
 rookiemistakes;60
 rookienumbers;60
@@ -49507,6 +49541,10 @@ swizzlesticks;60
 swizzling;50
 swm;20
 swole;60
+swoopedup;40
+swoopingup;40
+swoopsup;40
+swoopup;40
 sworddance;60
 swordfish;50
 swordfishes;50
@@ -49668,10 +49706,10 @@ tagine;40
 tagline;50
 taglines;50
 tagore;30;1913 Literature Nobelist
-tagteam;50
-tagteamed;50
-tagteaming;50
-tagteams;50
+tagteam;60
+tagteamed;60
+tagteaming;60
+tagteams;60
 tah;1
 tahrir;50;Cairo square
 tai;40
@@ -50178,6 +50216,8 @@ tautening;30
 tautens;30
 tauter;40
 tautest;40
+tautog;30;Blackfish
+tautogs;30
 tautonym;30;Scientific name in which the same word is used for both genus and species
 tautonyms;30;Scientific names in which the same word is used for both genus and species
 tav;20
@@ -50388,6 +50428,7 @@ techtree;60
 tecs;20
 ted;50
 tedder;20;Haymaking machine
+tedding;30;Agricultural process of fluffing and spreading hay
 teddys;30;Plural name
 tedeum;30;Short religious service
 tedeums;30;Short religious services
@@ -50443,6 +50484,8 @@ teeteron;40
 teeterson;40
 teetertottering;60
 teethings;40;Bad plural
+teetime;60
+teetimes;60
 teetotal;50
 teetotaler;50
 teetotalers;50
@@ -51739,6 +51782,7 @@ thirdrail;60
 thirdrails;60
 thirdwave;50
 thirdwheeling;60
+thirlby;40;Minor actress Olivia Thirlby (b. 1986)
 thirstforknowledge;60
 thirstingforknowledge;50
 thirsttrap;60
@@ -52374,6 +52418,7 @@ tobe;40
 tobear;20
 tobeclear;50
 tobefrank;50
+tobehad;20;Long partial
 tobesafe;50
 tobesure;50
 toc;20
@@ -52697,6 +52742,10 @@ toppingoutat;40
 topquark;50
 topquarks;50
 toprated;50
+toprope;50
+toproped;50
+topropes;50
+toproping;50
 topsecret;60
 topsirloin;50
 topsoutat;40
@@ -53386,6 +53435,7 @@ trowed;20
 trowing;20
 trows;20
 troye;30;Singer & YouTuber Troye Sivan
+troyens;40
 troyer;40;Mini-Me actor Verne Troyer
 troyes;30;French commune
 trs;20
@@ -53413,6 +53463,7 @@ true;50
 trueblue;60
 truebut;30
 trued;40
+truelies;60
 trueness;30
 trueneutral;60;D&D alignment
 trues;40
@@ -53744,6 +53795,8 @@ tvepisodes;50
 tvg;40
 tvgame;30
 tvgames;30
+tvidol;40;Green paint?
+tvidols;40
 tvland;50
 tvremote;50
 tvremotes;50
@@ -53848,6 +53901,7 @@ twoness;20
 twoon;30
 twoout;30
 twopartysystems;50
+twopast;30
 twopence;30
 twopenny;40;In the dictionary
 twopm;40
@@ -57686,6 +57740,7 @@ zenercard;50;ESP card
 zenercards;50
 zenmonk;60
 zenmonks;60
+zentner;30;???
 zenyatta;30;Police album "Zenyatta Mondatta"
 zenyattamondatta;40;Police album
 zeolite;30;Detergent mineral
