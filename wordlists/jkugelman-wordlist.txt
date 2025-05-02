@@ -1406,6 +1406,7 @@ alga;40
 algaebloom;50
 algaeblooms;50
 algebraproblems;50
+alger;40;Writer Horatio Alger
 algid;30;Cold
 alginate;30;Algae extract
 alginates;30
@@ -6548,6 +6549,9 @@ bratt;40
 bravadoes;30
 braveman;40;Green paint???
 braveries;30
+bravoes;30;Alt. spelling of bravos
+bravoi;40;Bravos
+bravos;40
 brazen;50
 brazened;40
 brazening;40
@@ -10720,6 +10724,7 @@ cration;30
 crations;30
 craton;40;Geology word
 cratons;40
+cravens;40;Weird noun/plural
 crawledin;40
 crawlin;40
 crawlingin;40
@@ -13541,7 +13546,7 @@ douche;30
 douches;30
 dounto;50
 doup;40
-dourer;40
+dourer;50
 dourest;50
 doux;30
 doveinto;40
@@ -18743,10 +18748,14 @@ gasolinepumps;50
 gasometer;40;Large natural gas tank for a town
 gasometers;40
 gasparddelanuit;60;Famously difficult Ravel piano suite
+gaspat;40
+gaspedat;40
 gasper;30
 gaspers;30
+gaspingat;40
 gasplanet;60
 gasplanets;60
+gaspsat;40
 gasrate;50
 gasrates;50
 gasser;40
@@ -20382,6 +20391,7 @@ grandtiers;50
 grandtour;50
 grandtours;50
 grange;40
+granges;40
 granita;40;Relative of Italian ice
 granite;50
 granites;40
@@ -20434,7 +20444,10 @@ grau;20
 gravamen;30
 gravano;40;Mobster Salvatore "Sammy the Bull" Gravano
 gravel;50
+gravels;30;Weird plural
 graveperil;60
+graver;40;Engraving tool
+gravers;40
 graveyard;50
 graveyards;50
 gravity;50
@@ -23330,7 +23343,7 @@ ideation;50
 ideational;40
 ideative;40
 ideatyoualive;60
-ided;40
+ided;50
 idee;40
 idem;40;Ditto, in footnotes
 idemandarematch;60
@@ -23354,7 +23367,7 @@ ididntdoit;60
 ididntsaythat;60
 idie;20;Romeo's last words
 idina;40;Idina Menzel
-iding;40
+iding;50
 idiolect;50
 idiolects;50
 idiotlight;50
@@ -23424,7 +23437,7 @@ idotter;50
 idotters;50
 idoubtit;60
 idowhatican;60
-ids;40
+ids;50
 idsayso;60
 idtag;40
 idtags;40
@@ -24001,7 +24014,7 @@ inaidof;40
 inajam;50
 inajiff;50
 inajiffy;50
-inaknot;40
+inaknot;50
 inalarm;50
 inalather;50
 inalie;20
@@ -24811,6 +24824,7 @@ irv;20
 is;50
 isa;20
 isabadidea;20
+isabels;30;Plural name
 isabroad;20
 isador;30
 isadora;40;???
@@ -25988,6 +26002,7 @@ karsts;40
 kart;40
 karts;40
 kas;20
+kasem;40
 kasha;30;Buckwheat cereal
 kashas;20
 kat;40
@@ -30012,6 +30027,7 @@ marriagepenalty;50
 marriedinto;40
 marrieds;30
 marriesinto;40
+marron;30;Spanish chestnut
 marryinginto;40
 marryinto;40
 marshallmathers;50
@@ -31132,6 +31148,7 @@ miredin;40
 mirier;30
 miriest;30
 mirin;40
+miro;40
 mirrorimage;50
 mirrorimages;50
 mirrorofthemind;60
@@ -34849,6 +34866,7 @@ onelb;40
 oneleg;30
 onelegged;50
 oneline;20
+onelinefix;50
 oneliner;60
 oneliners;60
 onelira;30
@@ -34902,7 +34920,7 @@ oneround;30
 oners;40
 onerun;30
 ones;50
-onescoop;40
+onescoop;50
 onese;20
 onesecond;50
 oneseed;50
@@ -41562,7 +41580,7 @@ respace;20
 respan;20
 respecter;30
 respecters;30
-respin;20
+respin;30
 respire;40
 respired;40
 respires;40
@@ -41571,6 +41589,7 @@ respited;50
 respites;50
 respiting;50
 respoke;20
+respun;30
 ressa;30;Maria Ressa, winner of 2021 Nobel Peace Prize
 restain;20
 restained;20
@@ -45031,6 +45050,7 @@ shaolintemples;50
 shaolinwushu;50
 shapelier;50
 shapeliest;50
+shapen;40;Ill-shapen
 shardofglass;50
 shardsofglass;50
 shareacab;50
@@ -46109,7 +46129,7 @@ slamdances;50
 slamdancing;50
 slaminto;40
 slammedinto;40
-slammer;60
+slammer;50
 slamminginto;40
 slamsinto;40
 slang;50
@@ -47815,6 +47835,7 @@ stagingarea;50
 stagingareas;50
 stagingastrike;50
 stagline;30;Unaccompanied men at a dance
+stagnes;40
 stagy;40;Excessively theatrical
 stah;20
 stahl;40
@@ -48229,6 +48250,7 @@ steeving;30
 stef;40
 stefans;30;???
 steg;20
+stegner;40;"Angle of Repose" author Wallace Stegner (Pulitzer 1972)
 steiner;40;Hollywood composer Max Steiner
 stela;20
 stelae;20
@@ -49114,6 +49136,7 @@ summersolstice;50
 summerxgames;50
 summingto;40
 summitt;30;Women's basketball coach, winningest in history
+sumner;40;Gordon Sumner (Sting), Fort Sumner, abolitionist senator Charles Sumner
 sumomatch;50
 sumomatches;50
 sumoring;50
@@ -50019,6 +50042,8 @@ tanningsalon;50
 tanningsalons;50
 tannish;40
 tanoak;40
+tansies;40
+tansy;40;Flower
 tantalus;50
 tantalusian;40
 tantara;40;Trumpet blast
@@ -50124,8 +50149,11 @@ tarriest;40
 tarry;40
 tarses;20;ABC president Jamie ___
 tarsi;30;Ankle bones
+tarsier;20;Primate
+tarsiers;20
 tarter;50
 tartest;50
+tartini;40;Baroque violin composer Giuseppe Tartini
 tartlet;50
 tartlets;50
 tartrate;30;Wine crystal
@@ -50699,6 +50727,8 @@ teratoid;20;Type of tumor
 teratoma;20
 teratomas;20
 teratomata;20
+tercel;40;Bygone Toyota
+tercels;40;Bygone Toyotas
 tercet;30;Three lines of verse
 tercets;30;Three lines of verse
 terebinth;30;Turpentine tree
@@ -50889,6 +50919,7 @@ thatisquiteapickle;60
 thatissonotokay;60
 thatistosay;60
 thatjustmightwork;60
+thatone;40
 thatsabigif;60
 thatsabitofastretch;60
 thatsabovemypaygrade;60
@@ -51819,6 +51850,7 @@ thisistakingforever;60
 thisiswhereicomein;60
 thisiswhereyoucomein;60
 thisllbetheendofme;60
+thisone;40;Paul McCartney song, or "This one"
 thispostrighthereofficer;60
 thisroundisonme;60
 thissentme;60
@@ -52670,6 +52702,7 @@ toolshed;50
 toonami;60
 toonesheartscontent;60
 toonew;20;Green paint
+toonice;40;Green paint?
 toonie;40;Canadian $2 coin
 toonies;40
 tooreal;50
@@ -53463,6 +53496,7 @@ true;50
 trueblue;60
 truebut;30
 trued;40
+trueing;40
 truelies;60
 trueness;30
 trueneutral;60;D&D alignment
@@ -53891,6 +53925,7 @@ twobars;50;OK signal
 twocar;50
 twocents;50
 twodashes;30
+twodots;20
 twoem;20
 twoiron;50
 twoirons;50
@@ -53906,8 +53941,11 @@ twopence;30
 twopenny;40;In the dictionary
 twopm;40
 twopointo;30
+tworoom;40
 tworow;20;Green paint
-twoscoops;40
+twoscoops;50
+twoseamfastball;60
+twoseamfastballs;60
 twoset;40;Like some tennis matches
 twoshakesofalambstail;60
 twosidesofthesamecoin;60
@@ -53922,6 +53960,7 @@ twotimed;60
 twotimer;60
 twotimers;60
 twotiming;60
+twotons;40
 twototango;30
 twoxtwo;20
 twoyear;40
