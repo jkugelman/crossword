@@ -3052,6 +3052,8 @@ artifact;50
 artificialrock;60;Acme invention
 artiste;50
 artistes;50
+artistinresidence;60
+artistsinresidence;60
 artiststatement;60
 artiststatements;60
 artmovement;50
@@ -3141,6 +3143,9 @@ ashadow;1
 ashamedof;40
 ashanti;40
 ashantis;40
+ashape;30
+ashaped;30
+ashapes;30
 asharp;40
 asharpmajor;40
 asharpminor;40
@@ -3728,6 +3733,8 @@ australianopens;30
 austro;40
 aut;20
 authentications;30
+authorinresidence;60
+authorsinresidence;60
 autobio;50
 autobios;40
 autobodyshop;50
@@ -7754,6 +7761,8 @@ captchaimages;50
 captchas;50
 caputo;20
 capvisor;50;???
+capybara;60
+capybaras;60
 car;50
 caracalla;30;Roman emperor
 caracol;20
@@ -9669,6 +9678,8 @@ cod;50
 coda;50;Children of Deaf Adults
 codebreaker;50
 codebreakers;50
+codecracker;50
+codecrackers;50
 codeofconduct;50
 codesmell;60
 codesmells;60
@@ -11085,7 +11096,9 @@ cscale;40
 cscales;30
 csection;50
 csforester;50
-cshaped;40
+cshape;30
+cshaped;30
+cshapes;30
 csharp;40
 csharps;40
 csharpscale;40
@@ -13372,6 +13385,7 @@ dontblockthebox;60
 dontbother;60
 dontbullshitabullshitter;5
 dontchathink;60
+dontcrampmystyle;60
 dontdelay;60
 dontdelayactnow;60
 dontdespair;60
@@ -15541,6 +15555,7 @@ entremet;30;French dessert
 entremets;30
 entrepot;30;Entrepôt, trading post or port city
 entrepots;30
+entresol;40;Mezzanine
 entrycode;50
 entrycodes;50
 entryvisa;50
@@ -15838,6 +15853,8 @@ escortee;30
 escortees;30
 escroll;30
 escrolls;30
+escrowee;40
+escrowees;40
 escudo;40
 escudos;40
 escuela;40
@@ -17356,6 +17373,8 @@ firetruck;50
 firetrucks;50
 fireup;50
 fireupon;40
+fireworksdisplay;50
+fireworksdisplays;50
 firingashot;50
 firingat;40
 firingon;40
@@ -18377,6 +18396,9 @@ fry;50
 frye;40;Comedian David Frye, or boot brand
 fscale;40
 fsh;20
+fshape;30
+fshaped;30
+fshapes;30
 fsharp;40
 fsharpscale;40
 fstar;20
@@ -18475,6 +18497,8 @@ funrun;60
 funruns;60
 funs;20
 funsies;60
+funsizebutterfinger;60
+funsizebutterfingers;60
 funsponge;60
 fur;50
 furbies;50
@@ -20726,7 +20750,9 @@ gryffindors;60
 gsa;20
 gscale;40
 gseven;40;Ugly numeral
+gshape;30
 gshaped;30
+gshapes;30
 gsharp;40
 gsharpscale;40
 gsn;40
@@ -24581,6 +24607,7 @@ interregna;40
 interregnum;40;Pause, period of British history
 interregnums;40
 interse;30
+interviewwiththevampire;60
 intestacy;40
 inthat;40
 inthatcase;50
@@ -24931,7 +24958,7 @@ isinto;30
 isitdoneyet;60
 isithotinhere;60;Tie-puller's complaint
 isitme;50;"Am I the problem?"
-isitmeor;60
+isitmeor;40;Partial?
 isixteen;20
 isl;20
 isla;40
@@ -25811,6 +25838,7 @@ jorel;40
 jorts;60
 jos;20
 josboys;40;Final book in the "Little Women" series
+josephandthetechnicolordreamcoat;60
 josephheller;50
 josey;50;"The Outlaw Josey Wales"
 josh;50
@@ -25835,7 +25863,9 @@ jqa;20
 jrewing;50
 jrr;40
 jrs;40
-jshaped;40
+jshape;30
+jshaped;30
+jshapes;30
 jtile;30
 juanperon;50
 juba;40;Capital of South Sudan
@@ -26413,6 +26443,8 @@ kingofwands;60;Tarot card
 kingrat;30;Unnoteworthy old movie
 kingset;40;Bedroom set
 kingshit;5
+kingsizebutterfinger;60
+kingsizebutterfingers;60
 kingsized;50
 kingsizekitkat;50
 kingsizemilkyway;50
@@ -27043,6 +27075,8 @@ lapat;40
 lapcat;60
 lapcats;60
 lapd;40
+lapdance;60
+lapdances;60
 lapdog;60
 lapdogs;60
 lapeled;30
@@ -27894,6 +27928,7 @@ letssplitupitllbefaster;60
 letssplitupitsfaster;60
 letsthingsplayout;60
 letsupon;40
+letswrapthisup;60
 lett;20;Latvian
 lettera;40
 letterb;40
@@ -29082,7 +29117,9 @@ lsats;40
 lsd;50
 lseven;20
 lsf;20
-lshaped;40
+lshape;30
+lshaped;30
+lshapes;30
 lsit;40;Ab exercise
 lsits;40
 lst;20;WWII carrier, "Landing Ship, Tank"
@@ -30086,6 +30123,7 @@ marriagelicenses;50
 marriagepenalty;50
 marriedinto;40
 marrieds;30
+marriedwithchildren;60
 marriesinto;40
 marron;30;Spanish chestnut
 marryinginto;40
@@ -30401,6 +30439,7 @@ mcdiv;20
 mcdl;20
 mcdlt;30;Discontinued McDonald's sandwich
 mcdonalds;60
+mcdreamy;60
 mcdvi;20
 mcdx;20
 mced;40
@@ -32186,6 +32225,8 @@ musicbox;50
 musicboxes;50
 musiccity;50
 musiccollection;50
+musicianinresidence;60
+musiciansinresidence;60
 musicroll;50
 musicrolls;50
 musicrow;50
@@ -35619,7 +35660,9 @@ ose;20
 osgood;40;Charles Osgood, host of "CBS News Sunday Morning" from 1994-2016
 osh;30;OshKosh B'gosh
 osha;40
+oshape;30
 oshaped;30
+oshapes;30
 osheas;40;Vegas casino
 osier;20;Willow
 osiered;20;Covered with osiers
@@ -38227,8 +38270,10 @@ poetasters;40
 poetess;30
 poetesses;30
 poetical;30
+poetinresidence;60
 poetries;20
 poetscorner;50
+poetsinresidence;60
 pog;40
 pogocello;50;Musical instrument
 pogostick;50
@@ -38953,10 +38998,10 @@ pretzelloops;50
 prev;40
 prevent;50
 prevents;50
-prevote;30
-prevoted;30
-prevotes;30
-prevoting;30
+prevote;50
+prevoted;50
+prevotes;50
+prevoting;50
 prez;40
 prfirm;50
 prfirms;50
@@ -39760,6 +39805,8 @@ quesodip;50
 quesodips;50
 qui;40;On the qui vive
 quickerpickerupper;60
+quidditchplayer;50
+quidditchplayers;50
 quietcar;50
 quietcars;50
 quietnowthegrownupsaretalking;60
@@ -39917,6 +39964,8 @@ radiotowers;50
 radiums;30
 radler;30;Alcoholic drink
 radlers;30
+radner;40;Gilda Radner
+radnor;40;Josh Radnor of "How I Met Your Mother"
 radome;30;Radar dome
 radomes;30;Radar domes
 rads;40
@@ -42263,6 +42312,7 @@ ripat;40
 ripeoldage;60
 ripieno;30;Body of instruments accompanying the concertino in baroque concerto music
 ripinto;40
+ripintoshreds;30;Into?
 ripintwo;50
 ripone;20
 ripost;20;Var. spelling
@@ -42276,6 +42326,7 @@ rippingat;40
 rippinginto;40
 rippingintwo;50
 rippingone;20
+rippingtoshreds;60
 riproarin;50
 riproaring;60
 riproaringtime;60
@@ -42286,6 +42337,7 @@ ripsinto;40
 ripsintwo;50
 ripsnorting;60
 ripsone;20
+ripstoshreds;60
 riptide;60
 riptides;60
 riptopieces;60
@@ -47153,6 +47205,8 @@ sophs;40
 sopor;30
 sopors;30
 sopwith;40;W.W.I British aviation company
+sopwithcamel;50;W.W.I plane
+sopwithcamels;50
 sor;20
 sora;40;OpenAI video generator
 sorandom;60
@@ -47609,6 +47663,10 @@ spititout;60
 spititoutalready;60
 spitsat;40
 spittingat;40
+splayedout;50
+splayingout;50
+splayout;50
+splaysout;50
 splendiferous;60
 splenetic;40;Easily angered
 splenic;40;???
@@ -47841,9 +47899,9 @@ sscceennee;1
 sse;30
 sserttamria;1
 ssh;20
-sshape;40
-sshaped;40
-sshapes;40
+sshape;30
+sshaped;30
+sshapes;30
 ssi;20
 ssn;40
 ssns;40
@@ -50526,6 +50584,7 @@ techipos;40
 techmogul;50
 techmoguls;50
 technic;20;Technique
+technicolordreamcoat;60
 technics;20;Techniques
 technobeat;50
 technobeats;50
@@ -51683,6 +51742,7 @@ thesneetches;50;Dr. Seuss characters
 thesneetchesandotherstories;50;Dr. Seuss book
 thesocialcontract;40
 thesonics;30
+thesopwithcamel;30
 thesox;20
 thespanishsteps;20
 thespis;40;Ancient inventor of acting, supposedly
@@ -53653,8 +53713,9 @@ tseng;30;Golfer Yani, tennis player Jason
 tsetse;40
 tsetses;40
 tsgarp;40
-tshape;40
-tshapes;40
+tshape;30
+tshaped;30
+tshapes;30
 tsimmes;30;Jewish stew
 tsingtao;50
 tsk;50
@@ -54438,6 +54499,8 @@ unitards;50
 unitedly;40
 unitedstates;50
 unitedstatescamelcorps;50
+unitedstatespresident;50
+unitedstatespresidents;50
 unitive;30
 unitrule;40
 unittest;30
@@ -54803,7 +54866,8 @@ ush;20
 ushabti;20
 ushabtis;20
 ushape;30
-ushaped;40
+ushaped;30
+ushapes;30
 ushed;20
 usherette;30
 usherettes;30
@@ -55503,8 +55567,9 @@ vrbo;40
 vrgame;60
 vrgames;60
 vsco;20;Photo editing app
-vshape;40
-vshapes;40
+vshape;30
+vshaped;30
+vshapes;30
 vso;20
 vsro;20
 vt;40
@@ -56639,6 +56704,8 @@ wildroses;50
 wildturkey;50
 wildturkeys;50
 wileypost;50;First pilot to fly solo around the world
+wilhelmscream;60
+wilhelmscreams;60
 wilily;30;Weird adverb
 willa;40
 willforte;50
@@ -57097,6 +57164,8 @@ wrestlingmeets;60
 wristpad;50
 wristpads;50
 writein;50
+writerinresidence;60
+writersinresidence;60
 writersretreat;50
 writersretreats;50
 writesin;40
@@ -57286,6 +57355,9 @@ xraytube;50
 xraytubes;50
 xsand;1
 xsandos;40
+xshape;30
+xshaped;30
+xshapes;30
 xsout;30
 xtc;20
 xtimesy;1
@@ -57696,6 +57768,7 @@ youreallsettogo;60
 youreameanonemrgrinch;60
 youreaskingforit;60
 yourebad;60
+yourecrampingmystyle;60
 youredamnedifyoudoanddamnedifyoudont;60
 youredamnedifyoudoandyouredamnedifyoudont;60
 youredarnedifyoudoanddarnedifyoudont;60
@@ -57779,6 +57852,8 @@ ypres;30;WWI battle site in Belgium
 yreka;20;California town with a palindromic bakery
 yrs;40
 yshape;30
+yshaped;30
+yshapes;30
 ysl;40
 yslbag;30
 ytd;40
