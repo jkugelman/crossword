@@ -4856,11 +4856,14 @@ bearerbonds;50
 bearerofbadnews;60
 bearfruit;50
 bearingon;40
+bearingout;40
 bearon;40
+bearout;50
 bearpit;50
 bearpits;50
 bearsfruit;50
 bearson;40
+bearsout;40
 bearspray;50
 bearstearns;50
 bearsuit;50
@@ -6319,6 +6322,7 @@ boredinon;30
 borefruit;60
 boreinon;30
 boreon;40
+boreout;50
 borer;40
 borers;40
 boresinon;30
@@ -7399,6 +7403,7 @@ calledit;60
 calleditintheair;50
 calledon;40
 calledto;40
+calledup;40
 callerid;50
 calles;30
 callfor;40
@@ -7417,6 +7422,7 @@ callingon;40
 callingstation;60
 callingstations;60
 callingto;40
+callingup;40
 calliope;50
 calliopes;50
 callitintheair;60
@@ -7435,8 +7441,10 @@ callsitintheair;50
 callson;40
 callsto;40
 callstoarms;50
+callsup;40
 callto;40
 calltoarms;50
+callup;40
 calmbeforethestorm;60
 calmseas;50
 calomel;30;Old medicine
@@ -8704,9 +8712,11 @@ checkwith;40
 checkyouregoatthedoor;60
 checkyourprivilege;60
 cheeredon;40
+cheeredup;50
 cheeringon;40
 cheeringsection;50
 cheeringsections;50
+cheeringup;40
 cheerio;50
 cheerlead;50
 cheerleader;50
@@ -8714,6 +8724,8 @@ cheerleaders;50
 cheerleading;50
 cheeron;40
 cheerson;40
+cheersup;50
+cheerup;50
 cheeseburger;50
 cheeseburgers;50
 cheesecloth;50
@@ -9821,6 +9833,8 @@ coldwaves;50
 coleco;50
 coles;40;Nat and Natalie
 coleslaws;30
+colgate;50
+colgates;40;Weird plural
 collab;60
 collabs;60
 collectionbox;50
@@ -17339,6 +17353,7 @@ firecrew;50
 firecrews;50
 firedashot;50
 firedat;40
+firedaway;40
 firedepartment;50
 firedepartments;50
 firedon;40
@@ -17384,6 +17399,7 @@ firesale;50
 firesales;50
 firesashot;50
 firesat;40
+firesaway;40
 fireseason;50
 fireson;40
 firesonallcylinders;60
@@ -17397,6 +17413,7 @@ fireworksdisplay;50
 fireworksdisplays;50
 firingashot;50
 firingat;40
+firingaway;40
 firingon;40
 firingonallcylinders;60
 firings;30
@@ -18768,6 +18785,8 @@ gardenboxes;50
 gardiner;40;Montana town at the entrance to Yellowstone
 gareth;40
 garfieldandfriends;50
+garfish;40
+garfishes;40
 gargamel;50
 gargoyle;50
 gargoyles;50
@@ -19463,6 +19482,7 @@ gib;20
 gibberish;50
 gibbler;40;Kimmy Gibbler from "Full House"
 gibbousmoon;50
+gibingly;40
 gide;30;French novelist Andre
 gidget;40;Character in a series of movies in the '60s
 gie;20
@@ -19625,6 +19645,7 @@ glanceat;40
 glancedat;40
 glancesat;40
 glancingat;40
+glanders;30;Horse disease
 glandula;40;???
 glareat;40
 glaredat;40
@@ -24209,6 +24230,7 @@ incised;30
 incises;30
 incising;30
 incitements;30
+incitive;40
 incl;30
 inclinometer;40
 inclinometers;40
@@ -38053,6 +38075,7 @@ playedforlaughs;50
 playedgames;60
 playedgolf;50
 playednice;60
+playedon;40
 playedto;40
 playerone;50
 playfair;50
@@ -38071,10 +38094,12 @@ playingforlaughs;50
 playinggames;60
 playinggolf;50
 playingnice;60
+playingon;40
 playingto;40
 playmaking;50
 playmats;50
 playnice;60
+playon;40
 playsagig;40
 playsat;40
 playschicken;60
@@ -38083,6 +38108,7 @@ playsforlaughs;50
 playsgames;60
 playsgolf;50
 playsnice;60
+playson;40
 playsto;40
 playstupidgames;60
 playstupidgameswinstupidprizes;60
@@ -39249,6 +39275,8 @@ promqueens;60
 promseason;50
 promtux;50
 promtuxes;50
+pronator;40
+pronators;40
 proneto;40
 pronominal;40;Pronoun-related
 proofread;50
@@ -47557,6 +47585,7 @@ speeded;40
 speededup;40
 speedee;30;Old McDonald's mascot
 speedingby;40
+speedings;30;Weird plural
 speedingto;40
 speedracer;50
 speedread;60
@@ -47615,6 +47644,10 @@ spiceracks;50
 spicerub;50
 spicerubs;50
 spick;5
+spicular;30;Needle-like
+spiculate;30
+spicule;30;Needle, biologically
+spicules;30
 spicysausage;50
 spicytunaroll;50
 spicytunarolls;50
@@ -48931,8 +48964,14 @@ strikezone;50
 strine;40;Australian
 stringbass;50
 stringbasses;50
+stringingout;40
+stringingup;40
+stringout;40
+stringsout;40
+stringsup;40
 stringtrimmer;50
 stringtrimmers;50
+stringup;40
 stripmall;50
 stripmalls;50
 stripmine;50
@@ -48988,6 +49027,8 @@ strophes;40
 strugglebus;60
 struma;20;Disease, river, ship
 strumae;20
+strungout;50
+strungup;40
 strutting;50
 sts;40
 sttc;20
@@ -49986,6 +50027,7 @@ takento;40
 takentoitslogicalconclusion;60
 takentothegrave;50
 takeorders;50
+takeout;50
 takeoutjoint;60
 takeoutplace;50
 takeovertargets;50
@@ -50025,6 +50067,7 @@ takesinvain;50
 takesittothegrave;50
 takesliberties;50
 takesorders;50
+takesout;40
 takespains;50
 takesthebait;60
 takesthecake;60
@@ -50080,6 +50123,7 @@ takinginvain;50
 takingittothegrave;50
 takingliberties;50
 takingorders;50
+takingout;40
 takingpains;50
 takingthebait;60
 takingthefall;60
@@ -52859,6 +52903,7 @@ tookiteasy;60
 tookittothegrave;50
 tookliberties;50
 tookorders;50
+tookout;40
 tookpains;50
 tookthebait;60
 tookthefall;60
@@ -56566,6 +56611,11 @@ whippingin;40
 whipsin;40
 whirlwindromance;60
 whirlwindromances;60
+whish;30
+whished;30
+whishes;30
+whishing;30
+whisht;20
 whiskeyrebellion;50
 whiskeystone;50
 whiskeystones;50
