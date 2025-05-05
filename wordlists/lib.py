@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from collections import defaultdict
 import os
 import re
 
@@ -93,6 +94,21 @@ def _add_bonuses(words, path):
             words[word] += bonus
         except KeyError:
             pass
+
+def grouped_by(items, key):
+    """
+    Returns a dictionary where the `items` are grouped by `key(item)`.
+    """
+    grouped = defaultdict(set)
+    for item in items:
+        grouped[key(item)].add(item)
+    return grouped
+
+def grouped_by_len(items):
+    """
+    Returns a dictionary where the `items` are grouped by `len`.
+    """
+    return grouped_by(items, key=len)
 
 def phrases(entry, words, ignore_short=True):
     """
