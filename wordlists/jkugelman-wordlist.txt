@@ -3603,8 +3603,12 @@ atted;40
 attelet;30;Ornamental metal skewer for food, e.g. sandwiches
 attelets;30;Ornamental metal skewers for food, e.g. sandwiches
 attell;40;Comedian Dave Attell
+attendedon;40
 attendedto;40
+attendingon;40
 attendingto;40
+attendon;40
+attendson;40
 attendsto;40
 attendto;40
 attentionkmartshoppers;60
@@ -3850,6 +3854,7 @@ awl;50
 awman;60
 awmom;50
 awn;20
+awninged;40
 awol;40
 awols;40
 aworkofart;50
@@ -7161,6 +7166,7 @@ butterflykisses;60
 butterflypalm;50
 butterflypalms;50
 butterflypose;50
+butteries;40;Aberdeen rolls
 buttermilk;50
 buttermilkbiscuit;50
 buttermilkbiscuits;50
@@ -8148,7 +8154,12 @@ catdoor;50
 catdoors;50
 catears;20;Green paint
 catena;20
+catenaries;40
+catenary;40
 catenas;20
+catenate;40
+catenated;40
+catenating;40
 cateredto;40
 caterer;50
 caterers;50
@@ -8614,6 +8625,7 @@ charginginto;40
 chargingit;20;???
 chargingto;40
 chargingup;50
+chariness;30
 charioteer;30
 chariotsoffire;60
 charismata;40
@@ -8634,7 +8646,7 @@ charmthebirdsfromthetrees;60
 charo;40;The actress
 charsiu;40;Cantonese-style barbecued pork
 chartae;20
-chary;40;Suspicious (of)
+chary;30;Suspicious (of)
 chas;40
 chasmal;30
 chasse;30;Dance step
@@ -9705,6 +9717,8 @@ cocounsel;50
 cocounsels;50
 cod;50
 coda;50;Children of Deaf Adults
+codded;30
+codding;30
 codebreaker;50
 codebreakers;50
 codecracker;50
@@ -9743,6 +9757,13 @@ cogitoergosum;60
 cognation;40;Related by blood
 cognitivebias;60
 cognitivebiases;60
+cognizable;40
+cognizance;50
+cognizant;50
+cognize;40
+cognized;40
+cognizes;40
+cognizing;40
 cognomen;20;Ancient Roman's last name
 cognomens;20
 cognomina;20
@@ -10444,6 +10465,8 @@ corrasive;20
 correctchange;50
 correctingdents;1
 correctme;1
+corrie;20
+corries;20
 corrin;20
 corruptdownload;50
 corruptdownloads;50
@@ -11985,6 +12008,11 @@ decidingon;40
 decidua;30;Uterus lining
 deciliter;40
 deciliters;40
+decimalization;50
+decimalize;40
+decimalized;40
+decimalizes;40
+decimalizing;40
 decimus;40;Roman who instigated Caesar's assassination, or Maximus Decimus Meridius of "Gladiator"
 declaim;50;Speak bombastically
 declaimed;50
@@ -12343,6 +12371,8 @@ derbyhats;50
 derien;40
 derision;50
 derisions;40;Weird plural
+deriver;40
+derivers;40
 derma;40;Suffix
 dermas;30;Suffix
 dermatologist;50
@@ -12513,6 +12543,8 @@ dialin;40
 dialingdown;50
 dialingin;40
 dialitdown;60
+dialled;30;British spelling
+dialling;30
 dialogue;50
 dialone;50
 dialsdown;50
@@ -16516,6 +16548,7 @@ facecam;60
 facecams;60
 facedit;30
 facedtherap;20
+facedup;40
 facedupto;40
 faceid;50
 faceit;60
@@ -16528,6 +16561,7 @@ faceshape;50
 faceshapes;50
 facesit;30
 facestherap;20
+facesup;40
 facesupto;40
 faceswap;60
 faceswapped;60
@@ -16542,10 +16576,12 @@ facetime;50
 facetimed;50
 facetimes;50
 facetiming;50
+faceup;50
 faceupto;40
 facingit;30
 facings;30
 facingtherap;20
+facingup;40
 facingupto;40
 factis;60
 facto;40
@@ -17593,6 +17629,8 @@ flatthirteen;50
 flattire;50
 flattires;50
 flatts;50;Rascal Flatts
+flatus;20
+flatuses;20
 flaunty;30
 flav;30;Flavor Flav, how to clue it??
 flayer;40
@@ -17655,6 +17693,7 @@ flied;40;Baseball meaning, flied out
 fliedout;40
 fliesakite;50
 fliesat;40
+fliesdown;20;???
 fliesfirstclass;50
 fliesin;40
 fliesinto;40
@@ -18343,9 +18382,11 @@ fridman;40;Podcaster Lex Fridman
 frieda;40
 friedan;30;Feminist writer Betty Friedan, first president of NOW
 friedchicken;50
+friedup;40
 friendlily;30;Weird adverb
 friendlyreminder;60
 friendlyreminders;60
+friesup;40
 frigg;40;Wife of Odin
 frightwig;60
 frightwigs;60
@@ -18432,6 +18473,8 @@ frustums;30;Pieces of a geometric cone
 frutti;40
 fry;50
 frye;40;Comedian David Frye, or boot brand
+fryingup;40
+fryup;40
 fscale;40
 fsh;20
 fshape;30
@@ -18779,6 +18822,7 @@ garaged;50
 garbageday;50
 garbagepeople;50
 garbageperson;50
+garbages;30;Weird plural
 garde;40
 gardenbox;50
 gardenboxes;50
@@ -20509,6 +20553,7 @@ granita;40;Relative of Italian ice
 granite;50
 granites;40
 granitestate;50
+granitic;40
 granpa;20
 grantamnesty;50
 grantedamnesty;50
@@ -24232,6 +24277,7 @@ incising;30
 incitements;30
 incitive;40
 incl;30
+inclinable;40
 inclinometer;40
 inclinometers;40
 inclose;20
@@ -27709,7 +27755,11 @@ legalids;50
 legallimit;50
 legalmumbojumbo;60
 legate;30;Papal ambassador
-legatee;20;Person who receives a legacy
+legatee;30;Person who receives a legacy
+legatees;30
+legates;30
+legateship;30
+legateships;30
 legation;40
 legations;40
 legator;30
@@ -28526,6 +28576,7 @@ livedebates;50
 livedgreen;50
 livedhighoffthehog;60
 livedhighonthehog;60
+livedin;40
 liveditup;60
 livedon;40
 livedto;40
@@ -28536,6 +28587,7 @@ livefromnewyorkitssaturdaynight;60
 livegreen;50
 livehighoffthehog;60
 livehighonthehog;60
+livein;50
 liveitup;60
 livelily;30;Weird adverb
 livemusic;50
@@ -28550,6 +28602,7 @@ livesby;40
 livesgreen;50
 liveshighoffthehog;60
 liveshighonthehog;60
+livesin;40
 livesitup;60
 liveson;40
 livesports;50
@@ -28565,6 +28618,7 @@ livinggreen;50
 livinghell;60
 livinghighoffthehog;60
 livinghighonthehog;60
+livingin;40
 livingitup;60
 livingon;40
 livingonborrowedtime;60
@@ -29297,7 +29351,10 @@ lurein;40
 luresin;40
 luringin;40
 lusaka;40;Capital of Zambia
+lustedfor;40
 lusters;30;Weird plural
+lustfor;40
+lustingfor;40
 lustra;20
 lustral;40;Depression medication
 lustrate;30;Purify ceremonially
@@ -29307,8 +29364,10 @@ lustrating;30
 lustration;30
 lustre;20
 lustres;20
+lustring;30
 lustron;40;Type of prefabricated post-WWII house
 lustrons;40
+lustsfor;40
 lut;20
 luteal;30;Menstrual phase
 lutece;30;Michelin restaurant
@@ -33986,6 +34045,7 @@ nuff;30
 nugatory;30;???
 nui;20
 nul;20
+nullah;20
 num;20
 numan;30;Musician Gary Numan
 numans;20
@@ -34452,6 +34512,7 @@ offshoredrilling;50
 offshoreoilrig;50
 offshoreoilrigs;50
 offsides;50
+offsprings;40;Weird plural
 offstream;50
 offtarget;50
 offthebeatenpath;60
@@ -36417,6 +36478,8 @@ papertown;60;Copyright trap
 papertowns;60
 paperweight;50
 paperweights;50
+papeterie;40;Stationary (store)
+papeteries;40
 paphos;30;Cyprus city
 papiermache;50
 papilla;20;Tongue bump
@@ -38050,6 +38113,8 @@ platonicideal;60
 platonicideals;60
 platonickiss;40;Green paint?
 platonickisses;40;Green paint?
+platted;30
+platting;30
 platypi;50
 playa;40
 playagig;40
@@ -38221,6 +38286,9 @@ plugsinto;40
 pluma;30;Feather
 plumae;30
 plumage;50
+plummier;30
+plummiest;30
+plummy;30;Like a plum (color)
 plumose;30
 plumsauce;50
 plunder;50
@@ -38669,6 +38737,8 @@ porque;40
 porta;40;Porta-potty
 portablepa;40
 portablepas;40
+portered;40
+portering;40
 porthos;40
 portias;20
 portiere;40;???
@@ -38905,6 +38975,8 @@ prdisaster;60
 prdisasters;60
 pre;40
 preachit;60
+preachment;40;???
+preachments;40
 prearm;30
 prearms;30
 preceder;30
@@ -38922,6 +38994,9 @@ predatordrone;50
 predatordrones;50
 predators;50
 predestinate;30
+predicator;40
+predicators;40
+predicatory;40
 preeclampsia;40
 preemie;40
 preemies;40
@@ -43977,6 +44052,8 @@ scanthecrowd;50
 scantheenvironment;50
 scantheroom;50
 scanties;30;Underwear
+scantling;40;Piece of lumber
+scantlings;40
 scantly;30;Scarcely
 scape;40;Suffix
 scapegoat;50
@@ -44454,8 +44531,12 @@ secondbananas;50
 secondcoming;60
 seconddate;50
 seconddates;50
+secondee;40
+secondees;40
 secondlaw;20;???
 secondlittlepig;60
+secondment;40
+secondments;40
 secondo;40;Lower part of a piano duet
 secondpunicwar;50
 secrecies;30
@@ -44951,6 +45032,7 @@ serverroom;50
 serverrooms;50
 servesas;40
 servetwomasters;60
+servian;20
 service;50
 servicedressuniform;50
 servicedressuniforms;50
@@ -46396,7 +46478,11 @@ slc;40
 sleater;40;Sleater-Kinney
 sleddog;50
 sleddogs;50
+sleek;50
+sleeked;40
+sleeking;40
 sleekit;30;???
+sleeks;40
 sleeparound;50
 sleeparoundon;50
 sleepin;50
@@ -46753,9 +46839,13 @@ snapless;40
 snapline;40;Chalked string used in construction
 snaplines;40;Chalked strings used in construction
 snappedat;40
+snappedto;40
 snappingat;40
+snappingto;40
 snapples;40
 snapsat;40
+snapsto;40
+snapto;40
 snarer;30
 snarers;30
 snarlat;40
@@ -46805,6 +46895,10 @@ sneeringat;40
 sneersat;40
 sneery;40
 sneetches;50;Dr. Seuss characters
+sneezeat;40
+sneezedat;40
+sneezesat;40
+sneezingat;40
 snell;30;Fishing line attachment
 snelleneyechart;60
 snells;30;Snell's law of refraction
@@ -47473,6 +47567,7 @@ spaghettify;60
 spaghettifying;60
 spago;30;Wolfgang Puck restaurant
 spahn;40;Left-handed Hall of Fame pitcher Warren Spahn (1940s/50s), eponymous Warren Spahn Award for best left-handed pitcher
+spalady;40;???
 spalko;30;"Indiana Jones and the Crystal Skull" villain
 spamemail;50
 spamemails;50
@@ -49385,6 +49480,7 @@ sunkentreasure;60
 sunkentreasures;60
 sunlounge;40
 sunlounges;40
+sunniled;30;???
 sunnyskies;50
 sunnysky;50
 sunobdedda;1
@@ -53105,8 +53201,10 @@ tossinthediscardpile;50
 tossitinthediscardpile;50
 tossto;40
 tot;50
+totaledup;40
 totalhorrowshow;60
 totalidiot;50
+totalingup;40
 totalitarian;50
 totalitarians;50
 totalities;30
@@ -53114,6 +53212,8 @@ totalloss;50
 totalmess;60
 totalnightmare;60
 totalrecall;60
+totalsup;40
+totalup;40
 totalwar;50
 totchos;40;Tater tot nachos
 totedup;40
@@ -54114,6 +54214,7 @@ twinbrother;50
 twinbrothers;50
 twiner;20
 twiners;20
+twinings;40;British tea company
 twinkie;50
 twinkiedefense;60
 twinkies;50
@@ -54230,10 +54331,14 @@ typea;50
 typeas;50
 typeb;50
 typebs;50
+typedin;40
+typein;40
 typer;40
 typers;40
+typesin;40
 typhoon;50
 typhoons;50
+typingin;40
 typosquatter;60
 typosquatters;60
 tyr;40;Norse god of war Týr, namesake of Tuesday
@@ -55239,6 +55344,7 @@ velociraptors;60
 ven;20
 vena;40
 venaecavae;30
+venation;30;Arrangement of veins in a leaf or insect wing
 vender;20;Variant spelling used by The New Yorker for some reason
 venders;20
 venery;20;Sexual indulgence, archaic
@@ -56288,6 +56394,7 @@ wellexcuuuuseme;60
 wellfixitinpost;60
 wellfudge;60
 wellidknow;60
+wellies;30
 wellillbeamonkeysuncle;60
 wellimsold;60
 wellimwaiting;60
@@ -56308,6 +56415,7 @@ wellthatsthething;60
 welltheresyourproblem;60
 wellwellwell;60
 wellwerewaiting;60
+welly;30;Waterproof boot
 welovetoseeit;60
 welty;40;Eudora Welty, Pulitzer-winning writer of "The Optimist's Daughter"
 wemadeit;60
