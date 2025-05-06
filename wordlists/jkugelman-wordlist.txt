@@ -1563,6 +1563,7 @@ allocators;50
 allocution;50
 allocutions;50
 allogenic;30
+allonred;30;Green paint
 allosaur;50
 allosaurus;50
 allosauruses;50
@@ -1571,6 +1572,10 @@ allottees;30
 alloutresponse;50
 alloutresponses;50
 alloutwar;30
+allowedin;40
+allowin;40
+allowingin;40
+allowsin;40
 allproteam;50
 allquietonthewesternfront;60
 allrighty;60
@@ -4820,6 +4825,7 @@ beadedcurtain;50
 beadedcurtains;50
 beader;40;Beadwork specialist
 beaders;40
+beadings;40;Weird plural
 beadle;40;Minor church official
 beadles;40
 beadofsweat;60
@@ -5808,6 +5814,7 @@ blenheim;40;English palace
 blest;40
 bleus;20
 blewakiss;50
+blewin;40
 blewinto;40
 blewoff;50
 blewon;40
@@ -5895,7 +5902,9 @@ blowhards;60
 blowhisownhorn;50
 blowhole;60
 blowholes;60
+blowin;40
 blowingakiss;50
+blowingin;40
 blowinginto;40
 blowingoff;50
 blowingon;40
@@ -5913,6 +5922,7 @@ blowpipes;60
 blowpop;60
 blowpops;60
 blowsakiss;50
+blowsin;40
 blowsinto;40
 blowsmoke;50
 blowsoff;50
@@ -6617,6 +6627,7 @@ breakingbreadwith;50
 breakingcharacter;50
 breakinginto;40
 breakingloose;50
+breakings;40;Weird plural
 breakingserve;50
 breakinto;40
 breakloose;50
@@ -7640,6 +7651,7 @@ cannedfood;50
 cannedfooddrive;60
 cannedfooddrives;60
 cannedfoods;50
+cannedit;40
 canneryrow;50
 cannibal;50
 cannibalism;50
@@ -7650,6 +7662,7 @@ cannibalized;50
 cannibalizes;50
 cannibalizing;50
 cannibals;50
+canningit;40
 cannoli;50
 cannolis;50
 cannonarm;50
@@ -7678,6 +7691,7 @@ canoodles;50
 canoodling;50
 canopus;40;Second-brightest star in the night sky after Sirius
 canossa;30;???
+cansit;40
 cansofbeer;50
 cansofcorn;50
 cansofsardines;40
@@ -7967,6 +7981,7 @@ carrace;30
 carracer;30
 carraces;30
 carracing;30
+carrells;30;???
 carriagepainter;1
 carrions;30
 carrotcake;60
@@ -8452,6 +8467,7 @@ censed;30
 censer;40
 censers;40
 censes;30
+censing;30
 censusbureau;50
 censusbureaus;50
 centare;30
@@ -8635,6 +8651,7 @@ chargingup;50
 chariness;30
 charioteer;30
 chariotsoffire;60
+charism;30;Charisma
 charismata;40
 charizard;50;Pokeyman
 charl;30;Golfer Charl Schwartzel, 2011 Masters winner
@@ -8764,6 +8781,7 @@ cheeta;30;Tarzan's chimpanzee sidekick
 cheetahcub;50
 cheetahcubs;50
 cheetle;40;Trademarked name for Cheeto dust
+cheever;40;Novelist John Cheever (1912-82)
 chef;50
 cheffy;50;New slang
 chefs;50
@@ -11287,6 +11305,8 @@ cupsofcocoa;50
 cupsojoe;50
 cupsoneshands;50
 cur;50
+curacies;30
+curacy;30
 curad;40;Bandage brand
 curare;40;Arrow poison
 curares;40
@@ -15712,6 +15732,7 @@ epilate;30;Hair removal technique
 epilepsywarning;50
 epilepsywarnings;50
 epilog;30;More commonly epilogue
+epilogs;30
 episcopate;40
 episodei;40
 episodeii;40
@@ -16360,6 +16381,8 @@ excelsat;40
 excelsin;40
 exchanges;50
 excia;30
+exciton;40;Subatomic particle
+excitons;40
 excitor;30
 excogitate;50;Think out, devise
 excogitated;50
@@ -17616,6 +17639,7 @@ flameout;50
 flamesout;50
 flamewar;60
 flamingout;50
+flanerie;40;Flânerie, aimless strolling
 flaneur;20;Stroller: Fr.
 flaneurs;20
 flareat;20
@@ -19581,6 +19605,7 @@ gil;40;Gil Scott-Heron
 gilamonster;50
 gilbertgottfried;50
 gildalive;50;Gilda Radner special
+gildings;40;Weird plural
 gillnet;40
 gillnets;40
 gilpin;20;Actress Peri of "Frasier"
@@ -21587,6 +21612,8 @@ hasonetoomany;60
 hasta;40
 hastate;20
 hastemakeswaste;60
+hastener;40
+hasteners;40
 hastert;40;Speaker of the House Dennis Haster (1999-2007)
 hasto;40
 hastodo;20
@@ -21964,8 +21991,12 @@ heine;30;"Die Lorelei" poet Heinrich Heine
 heinzdoofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 heirdom;40
 heiressapparent;30
+heist;50
+heisted;40
 heistfilm;60
 heistfilms;60
+heisting;40
+heists;50
 hejira;20;Joni Mitchell album
 hekate;40
 hel;30;Norse god
@@ -25899,6 +25930,7 @@ john;50
 johnb;30
 johncage;60
 johncena;60
+johncheever;50;Novelist John Cheever (1912-82)
 johni;30
 johnlocke;50
 johnlomax;50
@@ -27599,6 +27631,7 @@ leadeth;30
 leadier;30
 leadiest;30
 leadinginto;40
+leadings;40;Weird plural
 leadingto;40
 leadinto;40
 leadsinto;40
@@ -27984,6 +28017,7 @@ lessor;40
 lessors;40
 lesstar;40
 lessthanstellar;60
+lesters;30;Plural name
 lestroyens;50
 lestwe;20
 let;50
@@ -28299,6 +28333,7 @@ lightningbolt;50
 lightningbolts;50
 lightningbug;50
 lightningbugs;50
+lightnings;40;Weird plural
 lightopera;50
 lightoperas;50
 lightsinto;50
@@ -28691,6 +28726,7 @@ loadedguns;50
 loadedin;40
 loadin;40
 loadingin;40
+loadings;40;Weird plural
 loadsin;40
 loam;40
 loamier;40
@@ -30908,6 +30944,7 @@ menacetosociety;60
 menachem;40;Israeli PM Menachem Begin
 mender;40
 menders;40
+mendings;40;Weird plural
 menelaus;30
 menes;20;Pharaoh
 menfolk;50
@@ -33774,11 +33811,15 @@ nosebleedsections;60
 nosebone;20
 nosecandy;60
 nosedabout;50
+nosedin;40
 nosedinto;40
+nosedout;40
 noseeum;30;Gnat
 noseeums;30
+nosein;50
 noseinto;40
 nosense;40
+noseout;50
 nosepads;50
 nosepiercing;60
 nosepiercings;60
@@ -33787,7 +33828,9 @@ nosering;50
 noserings;50
 nosers;40
 nosesabout;50
+nosesin;40
 nosesinto;40
+nosesout;40
 nosestud;50
 nosestuds;50
 nosetackle;60
@@ -33802,7 +33845,9 @@ noshitsherlock;5
 noshot;50
 noside;30;End of a rugby match
 nosingabout;50
+nosingin;40
 nosinginto;40
+nosingout;40
 nosir;50
 nosiree;50
 nosireebob;60
@@ -36283,6 +36328,7 @@ paddedbra;50
 paddedbras;50
 padder;40
 padders;40
+paddings;40;Weird plural
 paddlewheel;50
 paddlewheels;50
 paddywagon;60
@@ -36370,6 +36416,7 @@ palely;30
 paleo;50
 paleodiet;50
 palestra;30;Greek gymnasium
+palings;40;Weird plural
 palinode;20;Type of poem
 palinodes;20;Types of poem
 palish;40
@@ -36602,6 +36649,8 @@ parfour;50
 parfours;50
 parfum;30
 parietals;30
+paring;50
+parings;40;Weird plural
 paripassu;30;"Equal footing" in contract law
 parishpump;50
 parisology;50;Use of ambiguous words (no relation to the city)
@@ -36737,6 +36786,7 @@ passinginterests;50
 passingmuster;50
 passingoffas;40
 passingon;40
+passings;40;Weird plural
 passingthebaton;50
 passingto;40
 passline;50
@@ -38927,6 +38977,7 @@ pouters;40
 pov;40
 pow;50
 powderpuffgirls;60
+powells;30;Plural name
 powerade;50
 powerbank;50;Portable charger
 powerbanks;50
@@ -39464,6 +39515,8 @@ protractor;50
 protractors;50
 protrusile;30
 prov;40;Province
+prover;40
+provers;40
 provigil;40;Medication
 provo;50;Home of Brigham Young University
 provout;30;Provo, UT
@@ -40767,6 +40820,7 @@ readingahead;50
 readinginto;40
 readingon;40
 readingrailroad;60
+readings;40;Weird plural
 readingto;40
 readinto;40
 readitandweep;60
@@ -42105,7 +42159,12 @@ rev;50
 revealthering;1
 reveirter;1
 revell;40;Model car company
+revenge;50
+revenged;40
 revengeofthesith;60
+revengeon;30
+revenges;40
+revenging;40
 revenuer;30
 revenuers;30
 revenues;40
@@ -42129,7 +42188,8 @@ reviewbombs;60
 reviler;30
 revilers;30
 revisal;30
-reviser;30
+reviser;40
+revisers;40
 revisor;30
 rew;40
 rewarm;40
@@ -44641,6 +44701,7 @@ seedbanks;60
 seedcapital;60
 seeddrill;50
 seeddrills;50
+seedings;40;Weird plural
 seedman;30;Seed merchant
 seedmen;30;Seed merchant
 seedmoney;50
@@ -47995,6 +48056,8 @@ spreadsout;50
 spreadsthegoodword;60
 spreadthegoodword;60
 spreadthin;60
+sprigger;40;Farm machine
+spriggers;40
 sprightlily;30;Weird adverb
 springaleak;50
 springe;20;Trap for small game
@@ -50441,6 +50504,7 @@ tapdances;50
 tapdancing;50
 tapedon;40
 tapedto;40
+tapedup;40
 tapeon;40
 taperer;30;Candle bearer
 taperers;30
@@ -50448,11 +50512,14 @@ taperoll;50
 taperolls;50
 tapeson;40
 tapesto;30
+tapesup;40
 tapeta;20;Retina layers
 tapeto;30
+tapeup;40
 tapin;40
 tapingon;40
 tapingto;30
+tapingup;40
 tapinto;40
 tapircalf;50
 tapircalves;50
@@ -51067,9 +51134,11 @@ tentage;30;Collection of tents
 tentages;30
 tentcities;50
 tentcity;50
+tented;40
 tenter;30
 tenterhooks;60
 tenters;30
+tenting;40
 tentoes;20
 tentonnes;20
 tentosix;20
@@ -55852,6 +55921,7 @@ wackadoodle;60
 wacotx;30
 wacs;30
 wad;50
+waddings;40;Weird plural
 wadedin;40
 wadedinto;40
 wadein;40
@@ -56186,6 +56256,8 @@ waveat;40
 wavedaflag;50
 wavedat;40
 wavedto;40
+waverer;40
+waverers;40
 wavesaflag;50
 wavesat;40
 waveski;50
@@ -57308,6 +57380,7 @@ wooten;50
 wop;5
 wor;20
 wordiness;50
+wordings;40;Weird plural
 wordle;60
 wordofadvi;1
 wordplay;60
