@@ -803,6 +803,7 @@ aediles;20;Roman magistrates
 aef;20
 aegis;50
 aegises;40
+aehousman;40;Poet A. E. Housman (1859-1936)
 aeiou;40
 aeiouy;40
 aeneas;40
@@ -4354,6 +4355,7 @@ bannerdays;50
 banneryear;50
 banneryears;50
 bano;40
+banting;30
 bantu;40;Nigerian people/language
 banyanfig;50
 banyanfigs;50
@@ -4881,6 +4883,7 @@ beastmode;60
 beastwithin;50
 beatadeadhorse;60
 beatahastyretreat;60
+beatall;40
 beatastandstill;20
 beatat;40
 beatatthemercyof;20
@@ -6981,6 +6984,7 @@ bulletbras;60
 bullgun;50
 bullguns;50
 bullhockey;60
+bulling;40
 bullnose;50
 bullnosed;50
 bullnoses;50;???
@@ -7047,6 +7051,7 @@ burgundywines;50
 burl;30;Knot in a tree or cloth
 burlesque;60
 burlily;30;Weird adverb
+burling;40
 burls;30;Knots in a tree or cloth
 burly;50
 burmesepython;50
@@ -7685,6 +7690,8 @@ canteen;50
 canteens;50
 canthelpyouthere;60
 canticleforleibowitz;50
+cantle;30
+cantles;30
 cantmakeanyguarantees;60
 cantonment;30
 cantonoh;30
@@ -8783,6 +8790,7 @@ chemtrail;60
 chemtrails;60
 chen;40;Skater Nathan Chen, TV personality Julie Chen, and others
 cheng;30;Not sure who's notable???
+chenier;30;French revolution poet André Chénier
 chenin;40;Chenin blanc wine
 cheops;40;Egyptian pharaoh AKA Khufu
 chere;40
@@ -10344,6 +10352,10 @@ coonskincap;50
 coonskincaps;50
 coonskinhat;50
 coonskinhats;50
+cooper;50
+coopered;40
+coopering;40
+coopers;50
 coorsfield;50;Stadium of the Colorado Rockies
 cootie;40;Weird singular
 cooties;60
@@ -11899,16 +11911,16 @@ dealersshoes;50
 dealfor;30
 dealin;40
 dealingin;40
-dealingout;50
+dealingout;40
 dealingto;40
 dealornodeal;60
-dealout;50
+dealout;40
 dealsin;40
-dealsout;50
+dealsout;40
 dealsto;40
 dealtin;40
 dealto;40
-dealtout;50
+dealtout;40
 dealtto;40
 deana;40;Country music's Deana Carter
 deane;40;Early diplomat Silas Deane
@@ -12123,6 +12135,8 @@ deferredto;40
 deferringto;40
 defersto;40
 deferto;40
+definer;40
+definers;40
 definetherelationship;60
 definetherelationshiptalk;60
 definitelymaybe;60
@@ -16008,6 +16022,7 @@ estatecars;50
 estd;40
 este;40
 estee;40
+estefans;30;Plural name
 estelles;30
 ester;40;Fragrant compound
 esterc;30
@@ -16547,6 +16562,7 @@ facebookbuttons;50
 facecam;60
 facecams;60
 facedit;30
+facedout;40
 facedtherap;20
 facedup;40
 facedupto;40
@@ -16555,11 +16571,13 @@ faceit;60
 facemelting;60
 facemeltingguitarsolo;60
 facemeltingsolo;60
+faceout;40
 facepaint;60
 facepainting;60
 faceshape;50
 faceshapes;50
 facesit;30
+facesout;40
 facestherap;20
 facesup;40
 facesupto;40
@@ -16579,6 +16597,7 @@ facetiming;50
 faceup;50
 faceupto;40
 facingit;30
+facingout;40
 facings;30
 facingtherap;20
 facingup;40
@@ -17091,6 +17110,8 @@ feldspar;30;Mineral
 feldspars;30;Minerals
 fellas;50
 fellate;5
+fellated;5
+fellating;5
 fellatio;5
 fellations;5
 fellatios;5
@@ -17646,6 +17667,10 @@ fledto;40
 flee;50
 fleeingto;40
 fleek;20;Outdated slang, "on fleek" = "well-groomed", like eyebrows
+fleer;40
+fleered;30
+fleering;30
+fleers;30
 fleesto;40
 fleeted;30;Flitted
 fleethescene;60
@@ -18768,6 +18793,7 @@ gameshowprize;60
 gameshowprizes;60
 gameshows;60
 gamesmanship;50
+gamesome;40;Playful and merry
 gamespeopleplay;60
 gamespot;50
 gamewinningshot;60
@@ -18913,6 +18939,7 @@ gasrate;50
 gasrates;50
 gasser;40
 gassers;40
+gassman;40;Director Vittorio Gassman (1922-2000)
 gasspring;30
 gassprings;30
 gasstop;1
@@ -19001,15 +19028,19 @@ gazastrip;50
 gazeat;40
 gazedat;40
 gazedinto;40
+gazedout;40
 gazeinto;40
 gazellecalf;50
 gazellecalves;50
+gazeout;40
 gazer;40
 gazers;40
 gazesat;40
 gazesinto;40
+gazesout;40
 gazingat;40
 gazinginto;40
+gazingout;40
 gazpachos;30
 gb;40
 gbs;20
@@ -23047,6 +23078,7 @@ housewarmingparties;50
 housewarmingparty;50
 housewhite;50
 housewhites;50
+housman;40;Poet A. E. Housman (1859-1936)
 houstontx;30
 hov;40
 how;50
@@ -24600,6 +24632,7 @@ inspirers;40
 inspo;50
 inspot;40;Cool place, according to other clues???
 inst;40
+instable;40;Unstable
 instagramfamous;60
 instagramfilter;60
 instagramfilters;60
@@ -31190,6 +31223,8 @@ millenniumprizeproblem;50
 millenniumprizeproblems;60
 milli;40
 millionthsplace;30
+millrun;40
+millruns;40
 milometer;30;???
 milometers;30;???
 milord;50
@@ -31829,6 +31864,8 @@ moonshinewhiskey;50
 moonshining;50
 moonsuit;60
 moonsuits;60
+moorage;40
+moorages;40
 moorhen;30
 moosecalf;50
 moosecall;50
@@ -33801,6 +33838,7 @@ notapeep;60
 notaprob;60
 notar;40;Cigarette claim
 notarial;30;???
+notarise;30
 notatoy;50
 notax;40
 notbataneye;60
@@ -36344,6 +36382,7 @@ palliasses;30;Straw mattresses
 pallingaround;50
 pallingaroundwith;50
 palmate;30;Like a palm leaf
+palmated;30
 palmature;30
 palmedoff;50
 palmettostate;50
@@ -38015,6 +38054,7 @@ plaguey;30;Troublesome
 plaguily;30;Annoyingly
 plaguy;20;Variant of plaguey
 plaice;30;Fish
+plaines;40
 plaining;20;Complaining, archaic
 plainold;50
 plaintosee;60
@@ -38136,6 +38176,7 @@ playedagig;40
 playedat;40
 playedchicken;60
 playedfair;50
+playedfor;40
 playedforlaughs;50
 playedgames;60
 playedgolf;50
@@ -38144,6 +38185,7 @@ playedon;40
 playedto;40
 playerone;50
 playfair;50
+playfor;40
 playforlaughs;50
 playgames;60
 playgolf;50
@@ -38155,12 +38197,15 @@ playingagig;40
 playingat;40
 playingchicken;60
 playingfair;50
+playingfor;40
 playingforlaughs;50
 playinggames;60
 playinggolf;50
 playingnice;60
 playingon;40
 playingto;40
+playlet;40
+playlets;40
 playmaking;50
 playmats;50
 playnice;60
@@ -38169,6 +38214,7 @@ playsagig;40
 playsat;40
 playschicken;60
 playsfair;50
+playsfor;40
 playsforlaughs;50
 playsgames;60
 playsgolf;50
@@ -38737,6 +38783,8 @@ porque;40
 porta;40;Porta-potty
 portablepa;40
 portablepas;40
+portage;40
+portages;40
 portered;40
 portering;40
 porthos;40
@@ -38795,6 +38843,7 @@ postulants;40
 postwarera;50
 pot;50
 potage;40;Thick soup
+potashes;40;Weird plural
 potation;40;Drink or drinking
 potatobatteries;50
 potatobattery;50
@@ -42955,6 +43004,7 @@ rosina;40;???
 rosinante;30;Broken-down horse, after Don Quixote's horse Rocinante
 rosinbag;50
 rosinbags;50
+rosining;40
 rossano;40;Rossano Brazzi, star of "South Pacific" (1958)
 rossi;40;Martini & Rossi wine
 rostand;30;Edmond Rostand, "Cyrano de Bergerac" playwright
@@ -45376,14 +45426,18 @@ sheenier;30
 sheeniest;30
 sheepdog;50
 sheeple;60
+sheer;50
 sheeragony;60
 sheeran;50
 sheerbliss;60
 sheerdelight;60
+sheered;40
 sheergenius;60
+sheering;40
 sheerluck;60
 sheermadness;60
 sheerperfection;60
+sheers;40;Swerves
 sheerterror;60
 sheerwill;50
 sheerwillpower;50
@@ -46542,10 +46596,12 @@ slidein;40
 slideinto;40
 slidell;30;Louisiana city, not remarkable though P. Berry used it once
 slideon;40
+slideout;40
 slidepast;50
 slidesin;40
 slidesinto;40
 slideson;40
+slidesout;40
 slidetackle;50
 slidetackled;50
 slidetackles;50
@@ -46554,8 +46610,10 @@ slidin;40
 slidingin;40
 slidinginto;40
 slidingon;40
+slidingout;40
 slidinto;40
 slidon;40
+slidout;40
 slimer;50
 slimey;20
 slimfast;50
@@ -48882,6 +48940,7 @@ stopsit;1
 stopthat;60
 storagemedia;50
 storagemedium;50
+storages;40
 storch;20
 storead;20;???
 storedin;40
@@ -52267,6 +52326,8 @@ throwascareinto;50
 throwat;40
 throwatantrum;50
 throwdarts;50
+thrower;40
+throwers;40
 throwforaloop;60
 throwgames;20;???
 throwingascareinto;50
@@ -52491,6 +52552,8 @@ tiler;40
 tilers;40
 tilery;30
 tillamook;40;Oregon city/tribe
+tillered;40
+tillering;40
 tillerson;40;Trump's Secretary of State Rex Tillerson
 tillie;30;Old comic strip Tillie the Toiler
 tillman;40;Tramell Tillman, Mr. Milchick from "Severance"
@@ -53870,6 +53933,7 @@ trypanophobe;50
 trypanophobia;50
 tryptophan;50
 trysted;30
+trysting;30
 tryto;40
 tsa;40
 tsaagent;50
@@ -55665,6 +55729,8 @@ vmi;40
 vnotch;40
 vo;30
 voa;20
+vocable;40;A word composed of various sounds or letters without regard to its meaning
+vocables;40
 vocablist;50
 vocablists;50
 vocabtest;50
@@ -55722,6 +55788,7 @@ volteface;50;Abrupt turnaround
 voltefaces;50
 voltorb;50;Pokeyman
 volume;50
+volution;30
 vomited;5
 vomiter;5
 vomiting;5
