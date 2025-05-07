@@ -8153,6 +8153,7 @@ catchesfire;50
 catcheshell;60
 catchesoffguard;50
 catchesonfire;50
+catchesstrays;60
 catcheswaves;50
 catchfeelings;60
 catchfeelingsfor;60
@@ -8166,10 +8167,12 @@ catchingfire;50
 catchinghell;60
 catchingoffguard;50
 catchingonfire;50
+catchingstrays;60
 catchingwaves;50
 catchoffguard;50
 catchonfire;50
 catchow;50
+catchstrays;60
 catchwaves;50
 catcow;60
 catcowpose;60
@@ -8268,6 +8271,7 @@ caughtfire;50
 caughthell;60
 caughtoffguard;50
 caughtonfire;50
+caughtstrays;60
 caughtwaves;50
 caul;30;Various rare meanings
 causeariot;50
@@ -10986,6 +10990,8 @@ crinoid;30;Marine animal
 crinoids;30;Marine animals
 crip;40
 crips;40
+crisishotline;50
+crisishotlines;50
 crispr;50
 crisscross;60
 crisscrossapplesauce;60
@@ -15535,6 +15541,7 @@ enlistingin;40
 enlistinthearmy;30;Green paint???
 enlistsin;40
 enls;20
+enmities;40;Weird plural
 ennead;20;Group of nine
 enneads;20
 ennio;40;Film composer Ennio Morricone
@@ -23401,6 +23408,7 @@ ibram;30;???
 icahn;30;Billionaire Carl
 icallbs;60
 icallbullshit;5
+icallshotgun;60
 icame;40
 ican;50
 icanadd;50
@@ -25861,6 +25869,9 @@ jetstreams;50
 jett;40;Joan Jett
 jeu;20
 jew;50
+jewell;30;British spelling
+jeweller;30
+jewellery;30
 jewess;5
 jewesses;5
 jezebel;60
@@ -32438,6 +32449,9 @@ muskie;40;Edmund Muskie, Carter's Secretary of State
 muskox;50
 muskoxen;50
 muskroot;40;Oil-producing flower
+musselfarmer;50
+musselfarmers;50
+musselfarming;50
 mussina;40;Pitcher Mike Mussina
 musta;40
 musthave;60
@@ -36668,6 +36682,8 @@ parietals;30
 paring;50
 parings;40;Weird plural
 paripassu;30;"Equal footing" in contract law
+parishotel;20
+parishotels;20;Green paint
 parishpump;50
 parisology;50;Use of ambiguous words (no relation to the city)
 paristexas;60
@@ -42426,6 +42442,7 @@ ridingchaps;50
 ridingin;40
 ridinginto;40
 ridingon;40
+ridings;40;Weird plural
 ridingthepine;50
 ridingthestrugglebus;60
 ridingto;40
@@ -42616,6 +42633,7 @@ risetofame;50
 risetothetop;50
 rishi;40;Rishi Sunak, UK P.M., or Hindu sage
 risingover;40
+risings;40;Weird plural
 risingsealevels;60
 risingto;40
 risingtofame;50
@@ -52407,6 +52425,7 @@ thrivingon;40
 throe;40;Usually plural
 throstle;30;Song thrush, or wool spinning machine
 throstles;30
+throughthelookingglass;60
 throwascareinto;50
 throwat;40
 throwatantrum;50
@@ -55041,10 +55060,13 @@ uprooter;30
 uprooters;30
 uprose;30
 ups;40
+upsadaisy;60
 upsala;20;Defunct New Jersey college
 upscale;50
+upseedaisy;60
 upsettheapplecart;60
 upsetwith;40
+upsidaisy;60
 upsidedownfrown;50
 upsidedownfrowns;50
 upsonesgame;60
@@ -55055,6 +55077,7 @@ upsweep;30
 upsweeps;30
 upswept;30
 upsy;30
+upsydaisy;60
 uptake;50
 uptakes;40;Awkward plural
 uptop;60
@@ -56949,9 +56972,15 @@ whooper;30
 whoopers;30
 whoopie;60
 whoops;60
+whoopsadaisy;60
 whoopsie;60
+whoopsiedaisies;60
+whoopsiedaisy;60
+whoopsiedoodle;60
 whoopsmybad;60
 whoopsmymistake;60
+whoopsydaisy;60
+whoopsydoodle;60
 whoredoms;5
 whosagoodboy;60
 whosasking;60
