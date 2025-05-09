@@ -21324,6 +21324,8 @@ halfsies;60
 halfslip;50
 halfslips;50
 halfstaff;50
+halftone;20;It's half step or semitone, not half tone
+halftones;20
 halftruth;50
 halftruths;50
 halfvolley;50
@@ -25979,6 +25981,8 @@ joinsforces;50
 joint;50
 jointcommittee;50
 jointcustody;50
+jointowner;50
+jointowners;50
 jointreturn;50
 jointreturns;50
 jointventure;50
@@ -28009,6 +28013,7 @@ leovii;20
 leox;20
 leoxi;20
 leoxiii;20
+leoxiv;50;Current pope
 lepages;20
 lepanto;20;Site of a 1571 naval battle
 leperenoel;50
@@ -38781,6 +38786,7 @@ popeleoiv;30
 popeleox;30
 popeleoxi;30
 popeleoxiii;30
+popeleoxiv;50
 popemobile;50
 popemobiles;50
 popepauli;30
@@ -39258,6 +39264,7 @@ pretzelloops;50
 prev;40
 prevent;50
 prevents;50
+prevost;50;Robert Prevost aka Pope Leo XIV
 prevote;50
 prevoted;50
 prevotes;50
@@ -42750,6 +42757,7 @@ robertelee;5
 robertfripp;50
 robertfrost;50
 roberti;30
+robertprevost;50;Pope Leo XIV
 robinhood;60
 robinia;20;Plant genus
 robinsnest;50
