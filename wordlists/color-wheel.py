@@ -24,7 +24,8 @@ def main():
     }
 
     for wheel in color_wheels(colors, words):
-        print(f"{', '.join(wheel)} -> {', '.join(rotated(wheel))}", flush=True)
+        score = min(words[word] for word in wheel + rotated(wheel))
+        print(f"{score}: {', '.join(wheel)} -> {', '.join(rotated(wheel))}", flush=True)
 
 def color_wheels(colors, words):
     """
