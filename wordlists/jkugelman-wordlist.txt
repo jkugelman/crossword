@@ -70,6 +70,7 @@ abandonees;40
 abandoningship;50
 abandonship;50
 abandonsship;50
+abandonware;60
 abargain;40;Cheap
 abarsong;50;Chart topping Shaboozey song
 abase;40
@@ -18117,6 +18118,7 @@ folkpop;50
 folktale;60
 folktales;60
 fomo;60
+fondas;40
 fondof;40
 fonduepot;50
 fonduepots;50
@@ -18191,6 +18193,8 @@ forallintentsandpurposes;60
 foraloss;40
 foramen;20;Body opening
 foramina;20;Body openings
+foraminifer;30;Phylum
+foraminifera;30
 forborne;40
 forceawakens;60
 forcequit;50
@@ -18670,6 +18674,7 @@ fullhouse;60
 fullmarathon;50
 fullmarathons;50
 fullofshit;5
+fullsend;60
 fullspectrum;50
 fullspread;50
 fullspreads;50
@@ -28554,6 +28559,8 @@ limbostick;60
 limbosticks;60
 limier;30
 limiest;30
+liminalspace;60
+liminalspaces;60
 limn;20
 limned;20
 limner;20
@@ -35935,7 +35942,7 @@ orkan;30;From Ork
 orkin;40
 orkney;40;Orkney Islands in Scotland
 orkneyislands;50
-orl;20
+orl;30;Orlando, on scoreboards
 orlandofl;30
 orle;20
 orlean;40;Susan Orlean, writer of "The Orchid Thief"
