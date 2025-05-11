@@ -8,10 +8,10 @@ from lib import *
 
 if __name__ == '__main__':
     parser = ArgumentParser()
-    parser.add_argument('-m', '--min', type=int, default=2)
+    parser.add_argument('-m', '--min_score', type=int, default=2)
     args = parser.parse_args()
 
-    words = load_words(min_score=args.min)
+    words = load_words(min_score=args.min_score)
 
     for line in sys.stdin:
         entry = re.sub(';.*', '', line.strip())
