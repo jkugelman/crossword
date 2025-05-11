@@ -1883,6 +1883,7 @@ americancitizens;50
 americanhistory;50
 americanidiot;60
 americanpharaoh;50
+americanpsycho;60
 americanredcross;50
 americanspanish;50
 americorps;50
@@ -3853,6 +3854,7 @@ awe;50
 aweather;30;Windward
 aweebit;50
 aweless;30
+awesomeblossom;60
 awesomegamesdonequick;60
 awfultruth;60
 awhell;60
@@ -6615,6 +6617,8 @@ brasco;40;"Donnie Brasco"
 brasi;30;Luca of "The Godfather"
 brassica;40;Genus for cabbage, broccoli, cauliflower, bok choy, turnips, et al.
 brassie;30;2-wood
+brassnameplate;50
+brassnameplates;50
 brasso;30;Metal polish
 brassrat;60;Name for the MIT class ring
 brassrats;60
@@ -8159,6 +8163,8 @@ catania;40;Port city in Sicily
 catarrh;20;Excessive mucus buildup
 catbert;30
 catbirdseat;60
+catbowl;50
+catbowls;50
 catbreeder;50
 catbreeders;50
 catcafe;60
@@ -17713,8 +17719,17 @@ flaktower;50
 flaktowers;50
 flam;40
 flamedout;50
+flamencodance;60
+flamencodancer;60
+flamencodancers;60
+flamencodances;60
+flamencodancing;60
+flamencoguitar;60
+flamencoguitars;60
+flamencomusic;60
 flameon;50;Human Torch's catchphrase
 flameout;50
+flameretardant;50
 flamesout;50
 flamewar;60
 flamingout;50
@@ -22555,6 +22570,8 @@ hippocket;50
 hippockets;50
 hippocrates;50
 hippocratic;50
+hipreplacement;50
+hipreplacements;50
 hipsocket;50
 hipsockets;50
 hipster;50
@@ -22596,6 +22613,8 @@ historicalmaps;50
 historicalrecord;50
 historicday;50
 historicdays;50
+historicmoment;50
+historicmoments;50
 historybuff;50
 historybuffs;50
 historylesson;50
@@ -24578,6 +24597,7 @@ ineedaride;50
 ineedavolunteer;60
 ineededthat;60
 ineedit;60
+ineedsomespace;60
 ineedtogo;60
 ineedtowarnyou;60
 ineffable;50
@@ -24908,6 +24928,7 @@ intheghetto;50;Elvis song
 intheheatofbattle;50
 inthehouse;50
 inthehunt;50
+inthelimelight;60
 inthelurch;60
 inthemiddleofnowhere;60
 inthepenaltybox;50
@@ -30937,6 +30958,10 @@ mediakits;50
 medialiteracy;60
 medias;40;In medias res
 mediastorm;50
+medicaldegree;50
+medicaldegrees;50
+medicallicense;50
+medicallicenses;50
 medicinecabinet;50
 medicinedropper;50
 medicis;50
@@ -31083,6 +31108,7 @@ melton;30
 mem;20
 memaine;1
 memberdirectory;50
+membershipcard;50
 membershipcards;50
 meme;60
 memeaccount;60
@@ -31198,6 +31224,7 @@ mermaid;50
 mermaids;50
 merman;50
 mermen;50
+merrychristmas;60
 mersey;30;Liverpool river
 merton;20;American monk Thomas
 meryls;20;Plural name
@@ -39479,8 +39506,11 @@ primacies;30
 primarycolor;50
 primarycolors;50
 primas;40
+primedirective;60
 primefactor;50
 primefactors;50
+primeminister;50
+primeministers;50
 primeministership;50
 primerib;50
 primeribs;30
@@ -42314,6 +42344,7 @@ retipping;20
 retips;20
 retiredto;40
 retirementage;50
+retirementplan;50
 retirementplans;50
 retirer;40
 retirers;40
@@ -44883,6 +44914,8 @@ secondo;40;Lower part of a piano duet
 secondpunicwar;50
 secrecies;30
 secretariat;50
+secretmenuitem;60
+secretmenuitems;60
 secretor;30
 secretors;30
 secretory;40;Relating to secretion
@@ -47453,6 +47486,7 @@ socony;20;Standard Oil Company of New York
 socool;50
 socorro;20
 socrates;60
+socraticmethod;60
 sod;50
 sodabread;50
 sodabreads;50
@@ -51294,6 +51328,7 @@ tellies;50
 tellingon;40
 tellingtalesofschool;60
 tellmemore;60
+tellmethetruth;60
 tellmewithouttellingme;60
 tellnoone;60
 tellof;40
@@ -55557,7 +55592,7 @@ usstate;30
 usstates;30
 usstrike;20;???
 usstrikes;20;???
-ussupremecourt;40
+ussupremecourt;50
 usswasp;30
 usted;40
 usten;30
@@ -57642,6 +57677,7 @@ womans;40
 wombocombo;60
 womenomics;50
 womens;40
+womenssuffrage;60
 wompwomp;60
 womyn;40
 won;50
