@@ -6717,6 +6717,8 @@ briecheese;50
 brien;30
 brighamyoung;50
 brightlycolored;50
+brightspot;50
+brightspots;50
 brimmer;20
 brimstone;50
 bringingon;40
@@ -31131,6 +31133,8 @@ menorrhea;20;Menstrual flow
 mensal;40;???
 mensan;50
 mensans;50
+mensroomsign;50
+mensroomsigns;50
 menssana;30
 mensurable;40
 mensural;30;???
@@ -33182,6 +33186,8 @@ neonoircrimefilms;50
 neonoirfilm;50
 neonoirfilms;50
 neons;40
+neonsign;60
+neonsigns;60
 neonyellow;50
 neoplasia;30;Tumor growth
 neoroman;50
@@ -49440,6 +49446,9 @@ stringsup;40
 stringtrimmer;50
 stringtrimmers;50
 stringup;40
+striplight;50
+striplighting;50
+striplights;50
 stripmall;50
 stripmalls;50
 stripmine;50
@@ -58450,6 +58459,7 @@ youreonmute;60
 youreoutofline;60
 youreoutoforder;60
 youreoutofyourgourd;60
+yourepreachingtothechoir;60
 youresocute;60
 yourestillhere;60
 youretellingmethisnow;60
