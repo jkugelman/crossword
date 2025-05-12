@@ -2165,6 +2165,7 @@ angledfor;40
 anglefor;40
 anglesfor;40
 anglian;20
+anglic;30;Old English
 anglingfor;40
 angoragoat;50
 angostura;40;Type of bitters
@@ -16746,7 +16747,7 @@ faffs;50
 faffsabout;50
 faffsaround;50
 fag;5
-fagin;40
+fagin;40;"Oliver Twist" antagonist
 fagoted;20
 fahd;30;Saudi king
 fahrenheitscale;50
@@ -20159,6 +20160,7 @@ gogeneric;50
 gogetter;60
 gogetters;60
 gogetyourheadexamined;60
+goggins;40
 goggle;50
 goggled;50
 goggleeyed;60
@@ -24665,6 +24667,7 @@ inge;40;Playwright William Inge
 ingemar;30;Ingemar Johansson, world heavyweight champion boxer in the 1950s
 ingesta;30
 inglese;40;English, in Italian
+ingmar;40
 ingodwetrust;60
 ingoing;40
 ingres;30;Neoclassical painter Jean-Auguste-Dominique Ingres
@@ -25270,6 +25273,7 @@ isidro;40;San Isidro, Buenos Aires
 isin;20
 isinfor;20
 isinglikeifeel;60;Ella Fitzgerald quote
+isinon;40
 isinto;30
 isitdoneyet;60
 isithotinhere;60;Tie-puller's complaint
@@ -29558,8 +29562,16 @@ lumbago;50;Lower back pain
 lumbagos;30;Lower back pains
 lumberyard;50
 lumberyards;50
+lumpedin;40
+lumpedinwith;40
 lumper;30;Cargo unloader
 lumpers;30
+lumpin;40
+lumpingin;40
+lumpinginwith;40
+lumpinwith;40
+lumpsin;40
+lumpsinwith;40
 lumpur;40;Kuala Lumpur
 lun;20
 luna;40
@@ -35167,6 +35179,8 @@ olmert;30;Israeli P.M. Ehud Olmert 2006-2009, jailed for corruption
 olmos;40
 olmsted;30;???
 olofpalme;40;Swedish PM 1969-76 and 82-86
+ologies;20
+ology;30
 olor;20;Swan genus
 oloroso;30;Sherry
 ols;20
@@ -42420,6 +42434,8 @@ retying;50
 reune;40
 reuned;40
 reunes;40
+reuniter;40
+reuniters;40
 reuseme;50;Words on a tote bag
 reutter;30
 reutters;30
@@ -45208,6 +45224,7 @@ sem;40
 sema;20
 semana;40
 semanas;40
+semantle;20
 sematary;50
 semele;20;Mother of Dionysus
 sememe;20
@@ -47118,8 +47135,12 @@ smartthinking;60
 smashburger;60
 smashcut;60;Abrupt film transition
 smashcuts;60
+smashedin;40
 smashedinto;40
+smashesin;40
 smashesinto;40
+smashin;40
+smashingin;40
 smashinginto;40
 smashinto;40
 smaug;40;"The Hobbit" dragon
@@ -48361,20 +48382,28 @@ sprigger;40;Farm machine
 spriggers;40
 sprightlily;30;Weird adverb
 springaleak;50
+springat;40
 springe;20;Trap for small game
 springes;20
 springfieldil;40
 springfieldmo;40
 springfor;40
 springingaleak;50
+springingat;40
 springingfor;40
+springingon;40
+springon;40
 springsaleak;50
+springsat;40
 springsfor;40
+springson;40
 sprintcar;50
 sprintcars;50
 sprit;40;Sail extension
 sprits;40
 sproingboots;60;Acme invention
+sprungat;40
+sprungon;40
 spudgun;50
 spudguns;50
 spumed;30
@@ -55699,6 +55728,8 @@ vacuo;30;In vacuo, in a vacuum
 vacuumhose;50
 vacuumhoses;50
 vacuumsealed;50
+vacuumtube;60
+vacuumtubes;60
 vagueidea;50
 vagueideas;50
 vahospital;50
@@ -56403,6 +56434,9 @@ walruscalf;50
 walruscalves;50
 walston;40;Ray Walston from "South Pacific", "Damn Yankees", etc.
 waltdisney;60
+walton;40
+waltongoggins;50
+waltons;40
 waltrip;40;NASCAR champion brothers Michael and Daniel Waltrip
 walz;50;VP candidate Tim Walz
 wampum;40
