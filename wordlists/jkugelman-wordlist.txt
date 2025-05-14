@@ -27942,6 +27942,7 @@ learjet;60
 learjets;60
 learnedof;40
 learnedto;30
+learnin;40;???
 learningto;30
 learnof;40
 learnsof;40
@@ -47177,16 +47178,19 @@ smacktalk;60
 smacktalked;60
 smacktalking;60
 smacktalks;60
-smalla;20
-smallas;40
+smalla;30
+smallas;30
 smallautomobile;20
+smallb;30
 smallbill;50
 smallbills;50
 smallblind;60
+smallbs;30
 smallbusinesses;50
-smallc;20
+smallc;30
 smallcar;30
 smallcars;30
+smallcs;30
 smalley;30
 smallintestines;50
 smallmolecule;50;???
@@ -47200,7 +47204,8 @@ smallsuv;50
 smallsuvs;50
 smalltalk;50
 smalltimer;60
-smallu;20
+smallu;30
+smallus;30
 smalto;20;Mosaic glass
 smarmy;50
 smartalec;50
@@ -55178,6 +55183,10 @@ unboxing;50
 unboxingvideo;60
 unboxingvideos;60
 unc;40
+uncase;40
+uncased;40
+uncases;40
+uncasing;40
 unchartedwaters;60
 uncial;20;4th-8th century script
 unclebens;50
