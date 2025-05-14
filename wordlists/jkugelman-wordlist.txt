@@ -1096,6 +1096,7 @@ ahwell;60
 ai;40
 aiart;60
 aid;50
+aida;40
 aidedecamp;50
 aiders;20
 aidesdecamp;50
@@ -5270,6 +5271,7 @@ beseated;50
 beseem;30;Blah
 beseems;30
 beserious;60
+besharps;60;Homer's barbershop quartet
 beshrew;30
 beshrewed;30
 beshrews;30
@@ -6126,6 +6128,8 @@ bogo;40
 bogoak;40
 bogsdown;50
 bogstandard;60
+boho;40
+bohr;40
 bohratom;50
 bohrmodel;50
 boi;30
@@ -6904,8 +6908,10 @@ bsdegrees;40
 bse;20
 bsed;40
 bsee;20
+bseries;40
 bses;40
 bsharp;40
+bsharps;40
 bsing;40
 bsingles;40;Secondary tennis competitions
 bsmeter;60
@@ -8524,6 +8530,7 @@ centares;30
 centaur;50
 centauri;50
 centaurs;50
+centcom;40;United States Central Command
 centerfold;50
 centerfolds;50
 centerice;50
@@ -15272,6 +15279,7 @@ elsevier;40;Dutch academic publishing company
 elsie;40;Actor Elsie Fisher
 elsinore;40;"Hamlet" castle
 elston;40;Yankees great Elston Howard
+eltanin;30;Star aka Gamma Draconis
 eltoro;40
 eltricolor;50;Mexico national football team nickname El Tricolor
 eluant;20;Chemistry word
@@ -15510,6 +15518,11 @@ endingupat;40
 endingupontop;50
 endingwith;40
 endo;40
+endogamous;40
+endogamy;40
+endogenous;40
+endogenously;40
+endogeny;40
 endon;40
 endora;30;Bewitched witch
 endorphin;50
@@ -16184,6 +16197,7 @@ etaliae;30
 etalibi;30
 etalii;30
 etameson;30
+etamin;30;Star aka Gamma Draconis
 etamine;20;Fabric
 etamines;20
 etape;30;Stage in a cycling race
@@ -20059,6 +20073,7 @@ godowntheline;50
 godry;40
 godsacre;50
 godsacres;50
+godscountry;60
 godsend;60
 godsends;60
 godsgift;60
@@ -21567,6 +21582,7 @@ hankofhair;40
 hankypanky;60
 hanlon;50;Hanlon's razor
 hanlonsrazor;60
+hansard;30;Transcripts of parliamentary debates in Britain
 hansarp;40;Artist AKA Jean Arp
 hanseaticleague;30;???
 hansolo;60
@@ -24570,8 +24586,8 @@ indites;20
 inditing;20
 indo;40
 indogyears;60
-indoorcat;50
-indoorcats;50
+indoorcat;60
+indoorcats;60
 indoorpool;50
 indoorpools;50
 indorse;20
@@ -24606,7 +24622,7 @@ ineedanap;60
 ineedaride;50
 ineedavolunteer;60
 ineededthat;60
-ineedit;60
+ineedit;50
 ineedsomespace;60
 ineedtogo;60
 ineedtowarnyou;60
@@ -24803,6 +24819,7 @@ insentience;30
 insertcoin;60
 inserter;40
 inserters;40
+inshambles;60
 insideinfo;50
 insidescoop;60
 insidestories;50
@@ -25079,6 +25096,8 @@ ioweyou;60
 ipa;40
 ipaddress;50
 ipaddresses;50
+ipadkid;60
+ipadkids;60
 ipadmini;50
 ipadminis;50
 ipas;40
@@ -25121,6 +25140,8 @@ irakaplan;30
 iraki;20
 irani;20;Iranian is preferred
 iras;40
+irater;30
+iratest;30
 ire;50
 irealize;50
 irelander;30
@@ -29799,6 +29820,7 @@ madcaps;40
 madd;40
 maddashes;50
 madeabeelinefor;60
+madeabundle;60
 madeacameo;50
 madeaconcertedeffort;50
 madeafist;50
@@ -30043,6 +30065,7 @@ majorwalterreed;50
 majuro;40;Capital of the Marshall Islands
 makable;20;Variant of makeable
 makeabeelinefor;60
+makeabundle;60
 makeacameo;50
 makeaconcertedeffort;50
 makeacrack;50
@@ -30090,6 +30113,7 @@ makeplans;50
 makeproud;50
 makeroom;50
 makersmark;50
+makesabundle;60
 makesacameo;50
 makesaconcertedeffort;50
 makesacrack;50
@@ -30144,6 +30168,7 @@ makeupcases;60
 makewar;30
 makewaves;60
 makin;40;"Makin' Whoopee"
+makingabundle;60
 makingacameo;50
 makingaconcertedeffort;50
 makingafist;50
@@ -31456,7 +31481,7 @@ mightiadd;60
 mights;40;Bad plural
 mii;20
 miii;20
-mika;50
+mika;40
 mikados;30;Japanese emperors
 mikan;40;George Mikan of the NBA
 mikeehrmantraut;50;Mike Ehrmantraut from "Breaking Bad" / "Better Caul Saul"
@@ -33357,6 +33382,7 @@ neutrino;50
 neutrinos;50
 nev;40;Nevada
 nevadas;30
+neve;40
 neverbeenkissed;60
 neverchange;60
 nevergiveaninch;60
@@ -35022,7 +35048,9 @@ okehs;20
 okemah;20;Oklahoma city
 okey;40
 okgoogle;60
+okie;40;Offensive? Used a lot
 okiedokie;60
+okies;40;Offensive? Used a lot
 okigive;60
 okimconvinced;60
 okina;20;Hawaiian glottal stop
@@ -35056,6 +35084,7 @@ olav;40
 olavi;30
 olavii;20
 old;50
+oldabe;50;Bald eagle Civil War mascot named after Lincoln
 oldagepensioner;50
 oldasdirt;60
 oldbailey;50
@@ -35067,6 +35096,7 @@ olddear;30;???
 olddebt;50
 olddebts;50
 olddogs;60
+olddominion;60
 oldeli;40;Nickname for Yale
 oldenburg;30;German city
 oldfart;60
@@ -35279,6 +35309,7 @@ onappeal;50
 onapproval;40
 onaraft;20
 onarail;40;How to run someone out of town
+onarant;40
 onaroll;60
 onarope;40
 onarun;40
@@ -35632,11 +35663,15 @@ oofs;40
 oogabooga;60
 ooh;50
 oohaahpoint;60
+oohat;40
 oohed;40
+oohedat;40
 oohimscared;60
 oohimsoscared;60
 oohing;40
+oohingat;40
 oohs;50
+oohsat;40
 oohshiny;60
 oolala;40
 oolite;20
@@ -36039,6 +36074,7 @@ oronym;30;I scream for ice cream, for example
 oronyms;30;Phrases that sounds like another (ice cream / I scream)
 orosco;30;Jesse Orosco, major league record for career pitching appearances
 orotund;20;Deep, sonorous
+orozco;40;Muralist José Clemente Orozco
 orpah;20;Biblical name
 orphanbot;60;"Futurama"'s Tinny Tim
 orphic;30;Concerning Orpheus or Orphism
@@ -36488,11 +36524,14 @@ owosso;20;Michigan town
 ows;50
 oww;40
 ox;50
+oxalate;40;Organic molecule
+oxalates;40
 oxalic;30;Acid used in bleach
 oxer;30
 oxfordcomma;60
 oxfordcommas;60
 oxi;20
+oxidase;40;Enzyme
 oxidic;40
 oxo;40;Kitchen utensil brand
 oxpecker;50;See Rex review 2023/09/05
@@ -37446,6 +37485,7 @@ peersin;40
 peersinto;40
 peersupport;60
 pees;5
+peet;40;Actress Amanda Peet
 peeta;40;From "The Hunger Games"
 peete;30
 peewee;50
@@ -47288,6 +47328,7 @@ snarlup;50
 snarlups;50
 snarly;30
 snatching;50
+snax;40
 snead;40
 sneads;30
 sneakapeek;50
@@ -47428,6 +47469,8 @@ snowmobiles;50
 snownado;60
 snownadoes;60
 snownados;50
+snoworchid;60
+snoworchids;60
 snowpiercer;60
 snowsports;50
 snowstorm;50
@@ -47595,6 +47638,7 @@ sohavei;50
 sohelpme;60
 sohla;20
 sohn;20;Son: Ger.
+soho;40
 soi;20
 soigne;20;Well-groomed
 soignee;20;Well-groomed
@@ -49088,7 +49132,7 @@ sterols;30;Healthy plant cholesterols
 stertor;20;Snore
 stertorous;50;Noisy, as breathing
 stes;40
-stet;40
+stet;50
 stetho;40
 stets;40
 stetted;40
@@ -51870,6 +51914,7 @@ thebeatles;60
 thebeeb;50
 thebeesknees;60
 thebends;50
+thebesharps;60;Homer's barbershop quartet
 thebestofbothworlds;60
 thebestpartofwakingup;60
 thebible;30
@@ -54396,6 +54441,7 @@ tsarists;50
 tsars;50
 tse;20
 tseng;30;Golfer Yani, tennis player Jason
+tseries;40
 tsetse;40
 tsetses;40
 tsgarp;40
@@ -55308,6 +55354,7 @@ unskippableads;50
 unsolder;40
 unsoldered;50
 unsolders;40
+unsolicited;50
 unsolid;40
 unsore;40
 unspokenprayers;50
@@ -55812,6 +55859,8 @@ vatech;40
 vaticani;30
 vaticinator;30;???
 vau;20
+vaunter;40;Braggart
+vaunters;40
 vax;50
 vay;20
 vaya;30
@@ -56449,6 +56498,7 @@ wanderingaroundtown;50
 wanderingin;40
 wandersaroundtown;50
 wandersin;40
+wang;40;Designer Vera Wang
 wangdangdoodle;60;Classic blues song
 wangle;30
 wangled;30
@@ -56732,6 +56782,7 @@ wearson;40
 wearsupon;40
 wearthetrousers;60
 wearupon;40
+weasand;20;Throat, archaic
 weaseledoutof;40
 weaselingoutof;40
 weaseloutof;40
