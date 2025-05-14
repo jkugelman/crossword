@@ -2981,7 +2981,7 @@ arointing;20
 aroints;20;Drives away, archaic
 aromatize;40
 aron;40;Elvis Aron Presley
-aroo;40;Suffix with buck/switch [common]
+aroo;30;Suffix with buck/switch [common]
 arosefrom;40
 aroundnoon;30;Green paint
 arousals;30
@@ -17343,6 +17343,8 @@ ferretout;50
 ferretsout;50
 ferrigno;50
 ferro;40;Iron-
+ferule;30;Ruler for slapping children on the hand
+ferules;30
 fes;20
 fetalposition;50
 feticide;5
@@ -19663,10 +19665,10 @@ ghali;40
 ghastlily;30;Weird adverb
 ghee;40;Indian butter
 ghent;40;The Treaty of Ghent was the peace treaty that ended the War of 1812
-ghetto;40
+ghetto;50
 ghettoed;40
-ghettoes;40
-ghettos;40
+ghettoes;40;Acceptable, but ghettos is more popular
+ghettos;50
 ghi;20
 ghij;20
 ghost;50
@@ -21580,13 +21582,16 @@ hangglides;60
 hanggliding;60
 hanging;50
 hangingauie;30
+hangingon;40
 hangingoutwith;40
 hangingtough;50
 hangingwith;40
+hangon;50
 hangonaminute;60
 hangoutwith;40
 hangry;60
 hangsauie;30
+hangson;40
 hangsoutwith;40
 hangstough;50
 hangswith;40
@@ -22166,6 +22171,7 @@ heldscoreless;50
 heldto;40
 heldvigil;50
 helenes;30;???
+helens;40;Mt. St. Helens
 helenshaver;30;???
 helenus;30
 heliacal;20;Near the sun
@@ -23426,6 +23432,7 @@ hungerpangs;60
 hungersfor;40
 hungjuries;50
 hungjury;50
+hungon;40
 hungoutwith;40
 hungtough;50
 hungwith;40
@@ -24555,6 +24562,10 @@ incs;40
 incudes;30;Plural of incus
 incunabula;20;Books printed before 1501
 incunabulum;20;Book printed before 1501
+incurve;40;Curve inward, or an inward curve
+incurved;40
+incurves;40
+incurving;40
 incus;30;Ear bone (anvil)
 ind;40;Independent or Indiana (or "in D" ugh)
 indaclub;60
@@ -27504,6 +27515,7 @@ largeintestine;50
 largeintestines;50
 largelanguagemodel;60
 largelanguagemodels;60
+largent;40;NFL player/Rep. Steve Largent
 larger;50
 largetshirt;20
 largos;40;Slow movements
@@ -28825,6 +28837,7 @@ lisztomania;60
 lit;50
 lita;20;Singer Ford
 litafireunder;60
+lite;40
 litebeer;50
 litebrite;50
 litebrites;50
@@ -35304,7 +35317,7 @@ onagainoffagainrelationship;60
 onagainoffagainrelationships;60
 onager;20;Wild ass
 onagers;20;Wild asses
-onah;40;Julius Onah, director of Captain America: Brave New World
+onah;30;Julius Onah, director of Captain America: Brave New World
 onahill;20
 onahop;30
 onajag;40
@@ -44368,6 +44381,7 @@ satsuma;40;Japanese mandarin
 satsumas;40
 sattest;40
 sattests;40
+satupon;40
 saturant;30
 saturants;30
 saturn;50
@@ -45786,6 +45800,7 @@ shankssmare;40
 shanksspony;40
 shannen;40;Shannen Doherty
 shannontweed;50
+shanter;40
 shaolinkungfu;50
 shaolinmaster;50
 shaolinmasters;50
@@ -45949,9 +45964,12 @@ shineat;20
 shinebox;50
 shineboxes;50
 shinedat;20
+shinedon;40
 shinedupon;40
+shineon;40
 shineonyoucrazydiamond;60
 shinesat;20
+shineson;40
 shinesupon;40
 shineupon;40
 shinguard;50
@@ -45960,6 +45978,7 @@ shiningarmor;60
 shiningarmour;30
 shiningat;20
 shiningexamples;50
+shiningon;40
 shiningupon;40
 shinleaf;30;Plant
 shinsplints;50
@@ -46618,6 +46637,7 @@ sitskis;50
 sitsnear;40
 sitson;40
 sitspoolside;50
+sitsupon;40
 sittee;30;???
 sittingat;40
 sittingby;40
@@ -46631,7 +46651,9 @@ sittingintraffic;50
 sittingnear;40
 sittingon;40
 sittingpoolside;50
+sittingupon;40
 situ;40
+situpon;40
 siunit;40
 siunits;40
 siva;40;Hindu god of destruction
@@ -53356,6 +53378,7 @@ tocome;30
 tocsin;20;Alarm bell, archaic
 tod;20
 todayonly;50
+todays;30
 toddlersandtiaras;60
 todeath;50
 todman;30;Adrianne Todman, Biden's HUD Secretary
@@ -54937,6 +54960,7 @@ tyrones;30
 tyrosine;30;Amino acid
 tys;20
 tysm;40
+tysons;40;Tyson's Corner
 tyvek;40;Tyvek HomeWrap
 tyvm;30
 tywin;50
@@ -57183,6 +57207,7 @@ wetnurse;50
 wetnurses;50
 wetpaint;50
 wettig;30;Patricia Wettig from "City Slickers" or TV's "Thirtysomething"
+wetv;40
 wetware;60
 wetwipe;60
 wetwipes;60
@@ -58874,7 +58899,7 @@ zod;40
 zodiacal;40
 zodiacs;30
 zoe;50
-zoeller;40
+zoeller;40;Pro golfer Fuzzy Zoeller (won Masters in 1979)
 zoesaldana;50
 zoey;40
 zog;20
