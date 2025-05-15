@@ -1553,7 +1553,7 @@ allinclusiveresorts;50
 allinclusivevacation;50
 allinclusivevacations;50
 allindia;20
-allineed;50
+allineed;40;Song by various artists: Temptations, Radiohead, Air, Jack Wagner
 allinfavor;60
 allinto;50
 alliwant;40;Hit song by Kodaline (1 billion Spotify streams) or Olivia Rodrigo (High School Musical)
@@ -3185,6 +3185,7 @@ ashcones;40
 asheboro;20;Unremarkable NC city
 ashed;40
 asher;30
+asherlev;40;Rabbi Chaim Potok's book "My Name is Asher Lev"
 ashgabat;40;Capital of Turkmenistan
 ashland;30
 ashlar;20;Masonry
@@ -3260,6 +3261,7 @@ aspca;40
 asper;40;As per
 aspera;40
 asperities;30
+aspers;20;Old Turkish coins
 asperse;40
 aspersed;40
 asperses;40
@@ -10240,6 +10242,7 @@ comradesunite;50
 coms;30
 comsat;40
 comte;30;French count
+comtes;40
 con;50
 conakry;40;Capital of Guinea
 conamore;50
@@ -11073,6 +11076,7 @@ crisscrossapplesauce;60
 crisscrossed;60
 crisscrosses;60
 crisscrossing;60
+crist;40;Movie critic Judith Crist (1922-2012)
 crit;30
 critic;50
 criticalness;30
@@ -14763,6 +14767,7 @@ ecg;20
 ech;20
 echeck;40
 echecks;40
+echinate;40;Prickly like a hedgehog
 echinus;20;Sea urchin genus
 echoboomer;60
 echoboomers;60
@@ -15247,6 +15252,7 @@ elkslodge;50
 ell;30;L [common]
 ellegirl;50
 elleking;50;Country singer
+ellerbee;40
 ellesmere;40;???
 ellesse;30;Italian sportswear brand
 ellie;40
@@ -16945,6 +16951,7 @@ fantasying;40
 fantod;20
 fantods;30;The willies
 fantomas;60
+fanucci;40;"The Godfather Part II" character Don Fanucci
 fanzine;50
 fanzines;50
 fao;40;FAO Schwarz
@@ -18907,10 +18914,10 @@ galops;20
 galosh;30
 galt;40
 galton;20;Founder of eugenics
-galumph;60
-galumphed;60
-galumphing;60
-galumphs;60
+galumph;50
+galumphed;50
+galumphing;50
+galumphs;50
 galuppi;30;18th century composer Baldassare Galuppi
 gam;40
 gamal;30;President Nasser of Egypt
@@ -24635,6 +24642,8 @@ indue;20;Variant spelling of endue
 indued;20
 indues;20
 indurate;40
+indusia;30;Parts of a fern
+indusium;30;Part of a fern
 indwell;20
 indwelled;20
 indwelling;20
@@ -26914,6 +26923,7 @@ kkkkaty;30;WWI parody song
 klaatu;40;"The Day the Earth Stood Still" alien, or his phrase "klaatu barada nikto"
 klamath;20
 klan;5
+klay;40;4x N.B.A. champion Klay Thompson
 kleban;40;???
 klee;40;Artist Paul Klee
 klees;30
@@ -26966,6 +26976,7 @@ kneesocks;50
 kneltat;40
 knelton;40
 knewof;40
+knex;40
 knife;50
 knifeedge;50
 knifeedges;50
@@ -27274,11 +27285,11 @@ lacteal;40;Milky
 lacteals;30;Lymphatic vessels
 lacto;40
 lactoseinterola;1
-lacuna;40;Empty hole, gap
-lacunae;40
+lacuna;50;Empty hole, gap
+lacunae;50
 lacunal;30
 lacunar;30
-lacunas;40
+lacunas;40;Lacunae is more common
 lacustrine;30;Lake-related
 lad;50
 ladadog;30;Albert Payson Terhune novel
@@ -28006,6 +28017,7 @@ lectionary;30
 lections;30
 lecturetour;50
 lecturetours;50
+lecuona;30;"Jungle Drums" composer Ernesto Lecuona
 led;50
 ledbyexample;60
 leddisplay;50
@@ -29015,6 +29027,11 @@ lobsterroll;50
 lobsterrolls;50
 lobstertrap;50
 lobstertraps;50
+lobular;40
+lobule;40;Small lobe
+lobules;40
+lobwedge;60
+lobwedges;60
 lobworm;30
 lobworms;30
 loc;20
@@ -34085,6 +34102,7 @@ norightonred;60
 norightturnonred;60
 norite;30;Type of rock
 normalprocedure;30
+normand;40;Silent film actress Mabel Normand??
 normas;20
 normcash;30
 normcore;60
@@ -35616,6 +35634,7 @@ onlyscratchesthesurface;60
 onlyscratchingthesurface;60
 onlyscratchthesurface;60
 onlytoo;20
+onlyus;50;Song from "Dear Evan Hansen"
 onlyyou;50
 onnotice;50
 ono;40
@@ -44134,6 +44153,8 @@ salumeria;30;Italian deli
 salumerias;30;Italian delis
 salutatorian;50
 salutatorians;50
+saluter;40
+saluters;40
 saluto;40;Italian greeting
 salver;40;Silver tray
 salvers;40
@@ -45892,6 +45913,7 @@ sheetanchor;40;Reliable person, nautical etymology
 sheetofice;50
 sheetsofice;50
 shehitme;50
+shel;40
 shelduck;30
 shelducks;30
 shelftalker;50
@@ -48110,6 +48132,7 @@ spamfolder;50
 spamfolders;50
 spamtrap;60
 spamtraps;60
+spanair;40;Former Spanish airline
 spandau;30;Berlin borough
 spang;30;Smack dab
 spanishaccent;50
@@ -48239,6 +48262,8 @@ spellcasters;60
 spellcasting;60
 spellitout;50
 spellitoutforme;60
+spence;40;Various people
+spences;20;Pantries, archaic
 spendingfreeze;50
 spendingfreezes;50
 spendy;30;Extravagant
@@ -48252,6 +48277,7 @@ spfs;30
 sph;20
 sphagnum;30;Peat moss
 spheeris;40
+sphenoid;40;Eye socket bone
 spheral;20
 sphincter;40;Not usable in NYT
 sphinx;60
@@ -48642,6 +48668,7 @@ stabsat;40
 staccati;30
 stackable;50
 stacte;20;Biblical spice
+stadler;40;Masters champion Craig Stadler (1982)
 stadlers;20
 staffa;30;Scottish island
 staffonly;50
@@ -49687,6 +49714,7 @@ strumae;20
 strungout;50
 strungup;40
 strutting;50
+stryker;30;???
 sts;40
 sttc;20
 sttitus;40
@@ -50249,6 +50277,7 @@ susurration;50;Whispering, murmuring: literary
 susurrus;40;Whisper or rustling sound
 susurruses;40
 sutler;40
+sutra;40;Kama sutra
 sutras;40
 sutter;40;Sutter's Mill from the gold rush
 sutton;40
@@ -51002,6 +51031,7 @@ tarana;20;Hindustani composition
 tarantara;40;Variant of tantara, trumpet fanfare
 tarantino;60
 taranto;30;Italian city
+tarara;30;Vaudeville song "Ta-ra-ra Boom-de-ay"
 tarareid;50
 taratantara;40;Variant of tantara, trumpet fanfare
 tarawa;30;Capital of Kiribati (a Micronesian island country)
@@ -51545,6 +51575,7 @@ tenhours;20
 teninone;30
 tenkrun;30;???
 tenlegs;20;???
+tenley;30;1950s figure skater Tenley Albright
 tenmile;30
 tenmiles;20
 tenmillion;40
@@ -54279,8 +54310,8 @@ triedto;40
 triennial;40
 triennially;40
 triennials;40
-trier;40
-triers;40
+trier;30;Judge, e.g.
+triers;30
 trieson;40
 triesouton;40
 triesto;40
@@ -54570,7 +54601,7 @@ tubetops;50
 tubful;30
 tuborg;30;Danish beer
 tubthumping;60
-tubule;40
+tubule;40;Small anatomical tube
 tubules;40
 tucket;20
 tuckets;20
