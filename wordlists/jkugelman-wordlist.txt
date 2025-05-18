@@ -987,6 +987,7 @@ agentj;40;Will Smith's "Men in Black" character
 agentk;40;Tommy Lee Jones's "Men in Black" character
 agentry;30
 agents;50
+agentsoffortune;50;Blue Öyster Cult song/album
 ageone;40
 ager;40;OK as a partial
 ageratum;20;Flower genus
@@ -4332,6 +4333,8 @@ bamming;40
 bams;30
 ban;50
 bana;40;Actor Eric Bana
+bananaboat;60
+bananaboatsong;60
 bananacream;60
 bananacreampie;60
 bananacreampies;60
@@ -15967,6 +15970,7 @@ erigeron;20;Plant genus
 erika;40
 erikweisz;50;Harry Houdini's real name
 erily;20
+erinmoriarty;50
 erinyes;20;The Furies
 erinys;20;The Furies
 eris;40;Most massive dwarf planet
@@ -19323,8 +19327,10 @@ genderbending;5
 genderbias;50
 genderdysphoria;50
 gendereuphoria;50
+genderpaygap;60
 genderrole;50
 genderroles;50
+genderwagegap;60
 geneediting;60
 geneeditor;60;Tool that modifies cellular information (CRISPR is the most well-known one)
 geneeditors;60
@@ -39559,6 +39565,9 @@ prepschool;50
 prepschools;50
 prepuce;20
 prepuces;20
+prerace;50
+preraceroutine;60
+preraceroutines;60
 prereq;50
 prereqs;50
 pres;40
