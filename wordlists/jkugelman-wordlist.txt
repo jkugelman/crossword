@@ -55,7 +55,7 @@ aaugh;40;Charlie Brown cry
 aave;40;African-American Vernacular English
 aaverage;50
 aaverages;50
-ab;50
+ab;40
 aba;40;Bar assoc.
 abacab;40;Genesis album
 abaci;40
@@ -19600,6 +19600,9 @@ getsthehint;60
 getsthenod;50
 getsthesack;50
 getsto;40
+getstofirstbase;60
+getstosecondbase;60
+getstothirdbase;60
 getsugly;60
 getsusedtoit;50
 getswiththetimes;60
@@ -19674,10 +19677,16 @@ gettingthehint;60
 gettingthenod;50
 gettingthesack;50
 gettingto;40
+gettingtofirstbase;60
+gettingtosecondbase;60
+gettingtothirdbase;60
 gettingugly;60
 gettingusedtoit;50
 gettingwiththetimes;60
 getto;40
+gettofirstbase;60
+gettosecondbase;60
+gettothirdbase;60
 getugly;60
 getusedtoit;60
 getwiththetimes;60
@@ -20689,6 +20698,9 @@ gotthehint;60
 gotthenod;50
 gotthesack;50
 gotto;40
+gottofirstbase;60
+gottosecondbase;60
+gottothirdbase;60
 gotturnedaround;60
 gotugly;60
 gotupthecourage;50
@@ -29954,6 +29966,9 @@ madeira;40;Portguese wine
 madeiras;40;Portuguese wines
 madeitlookeasy;60
 madeitpop;60
+madeittofirstbase;60
+madeittosecondbase;60
+madeittothirdbase;60
 mademad;50
 madenice;60
 madenoises;50
@@ -30207,6 +30222,9 @@ makeitpop;60
 makeitquick;60
 makeitsnappy;60
 makeitso;60
+makeittofirstbase;60
+makeittosecondbase;60
+makeittothirdbase;60
 makelikeatreeandgetoutofhere;60
 makelikeatreeandleave;60
 makemad;50
@@ -30247,6 +30265,9 @@ makesheadsroll;60
 makeshortworkof;60
 makesitlookeasy;60
 makesitpop;60
+makesittofirstbase;60
+makesittosecondbase;60
+makesittothirdbase;60
 makesmad;50
 makesnice;60
 makesnoises;50
@@ -30300,6 +30321,9 @@ makinggoodon;50
 makingheadsroll;60
 makingitlookeasy;60
 makingitpop;60
+makingittofirstbase;60
+makingittosecondbase;60
+makingittothirdbase;60
 makingmad;40
 makingnice;60
 makingnoises;50
