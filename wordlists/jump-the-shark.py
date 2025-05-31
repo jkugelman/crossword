@@ -46,6 +46,9 @@ def jumpers(words, pivot_length, min_length, max_length, min_prefix, min_suffix)
             continue
 
         for clued_a, clued_b in product(words_by_pivot[pivot_a], words_by_pivot.get(pivot_b, [])):
+            if pivot_a == pivot_b and clued_a > clued_b:
+                continue
+
             for idx_a, idx_b in product(find_all(clued_a, pivot_a), find_all(clued_b, pivot_b)):
                 # Check prefix and suffix lengths.
                 if idx_a + 1 < min_prefix:
