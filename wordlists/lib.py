@@ -110,6 +110,16 @@ def grouped_by_len(items):
     """
     return grouped_by(items, key=len)
 
+def grouped_by_multi(items, keys):
+    """
+    Returns a dictionary where the `items` are grouped by potentially multiple keys.
+    """
+    grouped = defaultdict(set)
+    for item in items:
+        for key in keys(item):
+            grouped[key].add(item)
+    return grouped
+
 def phrases(entry, words, ignore_short=True):
     """
     Figures out if `entry` can be made from any combination of words in `words`. All valid
