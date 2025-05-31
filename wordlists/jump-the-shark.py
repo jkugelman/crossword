@@ -42,6 +42,9 @@ def jumpers(words, pivot_length, min_length, max_length, min_prefix, min_suffix)
     for pivot_a in words_by_pivot:
         pivot_b = pivot_a[::-1]
 
+        if pivot_a > pivot_b:
+            continue
+
         for clued_a, clued_b in product(words_by_pivot[pivot_a], words_by_pivot.get(pivot_b, [])):
             for idx_a, idx_b in product(find_all(clued_a, pivot_a), find_all(clued_b, pivot_b)):
                 # Check prefix and suffix lengths.
@@ -75,10 +78,24 @@ def jumpers(words, pivot_length, min_length, max_length, min_prefix, min_suffix)
                 if clued_a[idx_a:] == clued_b[idx_b:]:
                     continue
 
-                # The overall score is the lowest of all four words.
-                score = min(words[clued_a], words[clued_b], words[gridded_a], words[gridded_b])
+                # No duplicate words.
+                if len({clued_a, clued_b, gridded_a, gridded_b}) != 4:
+                    continue
 
-                yield (clued_a, clued_b, idx_a, idx_b, pivot_a, pivot_b, gridded_a, gridded_b, score)
+                # The overall score is the lowest of all four words.
+                low_score = min(words[clued_a], words[clued_b], words[gridded_a], words[gridded_b])
+                high_score = max(words[clued_a], words[clued_b], words[gridded_a], words[gridded_b])
+
+                visual = visualize(pivot_length, gridded_a, clued_a, gridded_b, clued_b, idx_a, idx_b)
+
+                yield (
+                    visual,
+                    low_score, high_score,
+                    gridded_a, clued_a,
+                    gridded_b, clued_b,
+                    idx_a, idx_b,
+                    pivot_a, pivot_b,
+                )
 
 def pivots(word, pivot_length):
     for i in range(len(word) - pivot_length + 1):
@@ -88,27 +105,34 @@ def find_all(string, substring):
     for match in re.finditer(re.escape(substring), string):
         yield match.start()
 
+def visualize(pivot_length, gridded_a, clued_a, gridded_b, clued_b, idx_a, idx_b):
+    visual = []
+    visual.append(f"{' ' * max(idx_b - idx_a, 0)}{gridded_a}")
+    if pivot_length <= 2:
+        visual.append(f"{' ' * max(idx_a, idx_b)}|")
+    else:
+        for i in range(1, pivot_length - 1):
+            visual.append(f"{' ' * max(idx_a, idx_b)}{clued_a[idx_a + i]}")
+    visual.append(f"{' ' * max(idx_a - idx_b, 0)}{gridded_b}")
+    return "\n".join(visual)
+
 def show_jumpers(csv_writer, words, pivot_length, *args, **kwargs):
     if csv_writer:
-        csv_writer.writerow(['clued_a', 'clued_b', 'pivot', 'gridded_a', 'gridded_b', 'score', 'visual'])
+        csv_writer.writerow([
+            'visual',
+            'low_score', 'high_score',
+            'gridded_a', 'clued_a',
+            'gridded_b', 'clued_b',
+            'idx_a', 'idx_b',
+            'pivot_a', 'pivot_b',
+        ])
 
     for jumper in jumpers(words, pivot_length, *args, **kwargs):
-        clued_a, clued_b, idx_a, idx_b, pivot_a, pivot_b, gridded_a, gridded_b, score = jumper
-
-        # Visualize the find.
-        visual = []
-        visual.append(f"{' ' * max(idx_b - idx_a, 0)}{gridded_a} ({score})")
-        if pivot_length <= 2:
-            visual.append(f"{' ' * max(idx_a, idx_b)}|")
-        else:
-            for i in range(1, pivot_length - 1):
-                visual.append(f"{' ' * max(idx_a, idx_b)}{clued_a[idx_a + i]}")
-        visual.append(f"{' ' * max(idx_a - idx_b, 0)}{gridded_b}")
-        visual = "\n".join(visual)
+        visual, low_score, high_score, gridded_a, clued_a, gridded_b, clued_b, idx_a, idx_b, pivot_a, pivot_b = jumper
 
         # Print it.
         if csv_writer:
-            csv_writer.writerow([clued_a, clued_b, idx_a, idx_b, gridded_a, gridded_b, score, visual])
+            csv_writer.writerow([visual, low_score, high_score, gridded_a, clued_a, gridded_b, clued_b, idx_a, idx_b, pivot_a, pivot_b])
         else:
             print(f"{visual}\n", flush=True)
 
