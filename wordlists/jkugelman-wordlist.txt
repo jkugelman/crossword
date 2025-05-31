@@ -7340,6 +7340,8 @@ cabalas;40
 cabalism;40
 cabalist;40
 cabalists;40
+caballed;40
+caballing;40
 cabdriver;50
 cabdrivers;50
 cabinetdepartment;50
@@ -7385,14 +7387,17 @@ caf;40
 cafetable;50
 cafetables;50
 caffeinic;30
+cagedin;40
 cagedive;50
 cagediver;50
 cagedivers;50
 cagedives;50
 cagediving;50
+cagein;40
 cager;40
 cagers;40
-cagesin;50
+cagesin;40
+cagingin;40
 cagirls;20
 cagoule;30;???
 cahier;20
@@ -14442,7 +14447,10 @@ duncescap;60
 dundalk;20;Maryland/Ireland town
 dunepartone;50
 duneparttwo;50
-dung;30
+dung;40;Dung beetle
+dunged;30
+dunging;30
+dungs;30
 dunkaroos;60;Snack food brand popular in the '90s
 dunkedon;40
 dunkingon;40
@@ -38567,6 +38575,8 @@ placesetting;50
 placesettings;50
 placesplease;60
 placetogo;20
+placket;30
+plackets;30
 placoid;20;Toothlike, as fish scales
 plage;20;French beach
 plages;20
@@ -48892,6 +48902,7 @@ standatease;50
 standee;30
 standees;30
 stander;30
+standers;30
 standin;50
 standingatease;50
 standingnextto;40
@@ -50511,6 +50522,7 @@ sweetchinmusic;60
 sweetemotion;60
 sweetgig;50
 sweetiepie;60
+sweeting;40;???
 sweetnlow;50
 sweeton;50
 sweetpickle;50
