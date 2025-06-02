@@ -655,8 +655,8 @@ adeptat;40
 adepts;40
 ades;40
 adeste;40;Adeste Fideles (O Come, All Ye Faithful)
-adexec;40
-adexecs;40
+adexec;50
+adexecs;50
 adfee;40
 adfees;40
 adhd;40
@@ -16725,6 +16725,8 @@ eydie;40;Singer Eydie Gormé
 eye;50
 eyechart;50
 eyecharts;50
+eyedoc;40
+eyedocs;40
 eyefold;50
 eyefolds;50
 eyeforaneyetoothforatooth;60
@@ -21798,6 +21800,7 @@ hareems;20
 harem;40;Harem pants
 harempants;50
 harems;5
+hargeisa;40;Capital of Somaliland
 haribo;40;Gummy bear brand
 haright;20;???
 harijan;20;Indian "untouchable"
@@ -37978,6 +37981,8 @@ petewentz;40
 petflap;50
 petflaps;50
 petfriendly;50
+petgator;60
+petgators;60
 petgoat;60
 petgoats;60
 petgroomer;50
@@ -44429,7 +44434,7 @@ sandwichartists;60
 saneness;50
 sangaree;40;Cocktail
 sangeet;40;Indian wedding celebration
-sangfor;40
+sangfor;20
 sanglikeacanary;60
 sangof;40
 sangto;40
@@ -46386,6 +46391,8 @@ showgirl;60
 showgirls;60
 showhorse;50
 showhorses;50
+showid;50
+showids;50
 showmatch;50
 showmatches;50
 showme;50
@@ -46704,9 +46711,10 @@ sinex;40;Decongestant
 sinfulness;30
 singalong;60
 singalongs;60
-singfor;40
+singfor;20
 singha;30;Thai beer
 singin;40
+singingfor;20
 singingof;40
 singingto;40
 singit;40
@@ -46725,6 +46733,7 @@ singlesbar;50
 singlesbars;50
 singlesday;50
 singof;40
+singsfor;20
 singsof;40
 singsto;40
 singto;40
@@ -55009,6 +55018,8 @@ tvanchors;40
 tvapp;30
 tvepisode;50
 tvepisodes;50
+tvexec;50
+tvexecs;50
 tvg;40
 tvgame;30
 tvgames;30
