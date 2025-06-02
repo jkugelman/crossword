@@ -7825,6 +7825,8 @@ caparison;30;Deck out, as a horse
 caparisoned;30;Decked out, as a horse
 caparisoning;30;Decking out, as a horse
 caparisons;30;Decks out, as a horse
+capecodcottage;60
+capecodcottages;60
 capehorn;50
 capelet;40
 capelets;40
@@ -10543,6 +10545,8 @@ copticperiod;40;???
 coptics;30
 copto;40
 copulative;40
+copycatcriminal;60
+copycatcriminals;60
 copypasta;60
 copypaste;50
 copyrightlaw;50
@@ -12599,6 +12603,8 @@ desireline;60
 desirelines;60
 desirepath;60
 desirepaths;60
+desktopcomputer;60
+desktopcomputers;60
 desmoinesia;30
 desmoinesiowa;30
 despacito;60
@@ -13002,9 +13008,11 @@ dinnerandamovie;50
 dinnerandashow;50
 dinnerbuffet;50
 dinnerbuffets;50
+dinnerfortwo;50
 dinneroccasions;50
 dinnerparties;50
 dinnerparty;50
+dinnersfortwo;50
 dinnertable;50
 dinnertables;50
 dio;20
@@ -30609,6 +30617,8 @@ maranta;20;Plant genus
 mararooney;1
 marat;40;Jean-Paul Marat, French revolutionary killed in his bathtub (used a lot)
 marathi;30;Indo-Aryan language
+marblesculpture;60
+marblesculptures;60
 marbleslab;50
 marbleslabs;50
 marcanthony;50
@@ -38032,6 +38042,8 @@ phablet;30;Phone/tablet
 phablets;30
 phaedrus;50
 phag;20;Eating: prefix
+phalanger;40;Possum
+phalangers;40
 phalarope;30;Shorebird
 phalaropes;30
 phanatic;60
@@ -43470,6 +43482,11 @@ romannumeralone;20
 romannumerals;50
 romanruins;50
 romantasy;60
+romanticdinner;60
+romanticdinnerfortwo;60
+romanticdinners;60
+romanticdinnersfortwo;60
+romanticfantasy;60
 romas;40
 romeitaly;50
 romeooromeo;50
@@ -50446,6 +50463,8 @@ sushichef;60
 sushichefs;60
 sushijoint;60
 sushijoints;60
+sushiroll;60
+sushirolls;60
 sushitrain;60
 sushitrains;60
 suspenddisbelief;60
@@ -51497,6 +51516,8 @@ tearducts;50
 teared;50
 tearer;30
 tearers;30
+teargascanister;40
+teargascanisters;40
 teargases;40
 teargassed;40
 teargasses;40
@@ -57608,6 +57629,8 @@ whiskeystones;50
 whiskyrebellion;20
 whiskystone;50
 whiskystones;50
+whispercampaign;60
+whispercampaigns;60
 whisperjet;50
 whisperjets;50
 whiteasaghost;60
