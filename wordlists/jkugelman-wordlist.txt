@@ -8866,17 +8866,24 @@ cheeseburger;50
 cheeseburgers;50
 cheesecloth;50
 cheesecloths;50
+cheesefestival;60
+cheesefestivals;60
 cheesehead;60
 cheeseheads;60
 cheeseit;50
 cheeseitthecops;60
 cheesemonger;60
 cheesemongers;60
+cheeseolympics;60
+cheeseparties;50
+cheeseparty;50
 cheeseplatter;50
 cheeseplatters;50
 cheesesauce;50
 cheesescone;50
 cheesescones;50
+cheesetasting;60
+cheesetastings;60
 cheeta;30;Tarzan's chimpanzee sidekick
 cheetahcub;50
 cheetahcubs;50
@@ -21571,8 +21578,8 @@ halfsies;60
 halfslip;50
 halfslips;50
 halfstaff;50
-halftone;20;It's half step or semitone, not half tone
-halftones;20
+halftone;50;Printing, not music
+halftones;50
 halftruth;50
 halftruths;50
 halfvolley;50
@@ -23739,6 +23746,7 @@ icearenas;40
 icebar;50
 icebars;50
 icebelt;30
+icebergtheory;60;Hemingway's theory on writing
 icebreakergame;60
 icebreakergames;60
 icebreaking;50
@@ -32542,6 +32550,7 @@ mouldy;40
 moulin;40
 mounded;30
 mounjaro;50;Weight loss drug
+mountaincheeseolympics;60
 mountainousarea;40
 mountainpose;50
 mountainstate;50
@@ -52600,6 +52609,7 @@ theonset;40;Frost poem
 theopen;1
 theopenera;40
 theopera;30
+theoryofomission;60;Hemingway's theory on writing
 theos;40;The Orioles
 theoscars;40
 theoval;50;Tyler Perry series set in the White House
@@ -57894,6 +57904,12 @@ winduptoy;50
 winduptoys;50
 wineaficionado;50
 wineaficionados;50
+wineandcheeseparties;60
+wineandcheeseparty;60
+wineandcheesereception;60
+wineandcheesereceptions;60
+wineandcheesetasting;60
+wineandcheesetastings;60
 wineanddine;60
 winebar;50
 winebarrel;50
