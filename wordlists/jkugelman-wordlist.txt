@@ -6687,13 +6687,13 @@ brb;40
 brea;40
 breakbread;60
 breakbreadwith;50
-breakcharacter;50
+breakcharacter;60
 breakfastbaconator;60
 breakfastbaconators;60
 breakfastbuffet;50
 breakingbread;60
 breakingbreadwith;50
-breakingcharacter;50
+breakingcharacter;60
 breakinginto;40
 breakingloose;50
 breakings;40;Weird plural
@@ -6702,7 +6702,7 @@ breakinto;40
 breakloose;50
 breaksbread;60
 breaksbreadwith;50
-breakscharacter;50
+breakscharacter;60
 breakserve;50
 breaksinto;40
 breaksloose;50
@@ -6823,7 +6823,7 @@ brodates;50
 brodown;30
 brokebread;60
 brokebreadwith;50
-brokecharacter;50
+brokecharacter;60
 brokeinto;40
 brokeloose;50
 brokenbat;50
@@ -8100,6 +8100,8 @@ carteret;20;New Jersey town
 cartilages;40
 cartingoff;50
 cartoff;50
+cartooncharacter;60
+cartooncharacters;60
 cartoonish;50
 cartoonshort;50
 cartoonshorts;50
@@ -49210,6 +49212,7 @@ stayat;40
 staycool;50
 stayedat;40
 stayedinbed;50
+stayedincharacter;60
 stayedinoneslane;60
 stayedon;40
 stayedwarm;50
@@ -49217,9 +49220,11 @@ stayedwith;40
 stayer;40
 stayers;40
 stayinbed;50
+stayincharacter;60
 stayingalive;60
 stayingat;40
 stayinginbed;50
+stayingincharacter;60
 stayinginoneslane;60
 stayingon;40
 stayingwarm;50
@@ -49230,6 +49235,7 @@ stayontrack;60
 staypuft;60
 staysat;40
 staysinbed;50
+staysincharacter;60
 staysinoneslane;60
 stayson;40
 stayswarm;50
