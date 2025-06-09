@@ -772,13 +772,13 @@ adue;40;Together, in music
 adultadhd;50
 adultcontent;60
 adultescent;40
-adultfilm;50
-adultfilms;50
+adultfilm;60
+adultfilms;60
 adulting;60
 adultmale;50
 adultmales;50
-adultmovie;50
-adultmovies;50
+adultmovie;60
+adultmovies;60
 adultsite;60
 adultsites;60
 adultsupervision;60
@@ -6038,6 +6038,7 @@ bluetoothheadset;50
 bluetoothheadsets;50
 bluetoothreceiver;50
 bluetoothreceivers;50
+bluey;50
 blunger;40;Pottery machine
 blungers;40
 bluntwords;60
@@ -14305,6 +14306,9 @@ drummajors;50
 drummedout;30
 drummingout;30
 drumout;30
+drumroll;60
+drumrollplease;60
+drumrolls;60
 drumset;50
 drumsets;50
 drumsolo;60
@@ -18470,6 +18474,7 @@ fouralarmfire;50
 fouralarmfires;50
 fouram;40
 fourbars;50;Good signal
+fourbells;50
 fourdayworkweek;60
 fourhclubs;30
 fourhleader;20
@@ -19519,6 +19524,7 @@ getana;40
 getanedge;50
 getanf;40
 getapass;50
+getaroundto;40
 getarun;30;Eat a sandwich
 getasay;50
 getat;40
@@ -19599,6 +19605,7 @@ getsana;40
 getsanedge;50
 getsanf;40
 getsapass;50
+getsaroundto;40
 getsarun;30
 getsasay;50
 getsat;40
@@ -19683,6 +19690,7 @@ gettingallbutthurt;60
 gettingalockon;50
 gettingamatch;50
 gettingapass;50
+gettingaroundto;40
 gettingarun;30
 gettingasay;50
 gettingat;40
@@ -20677,6 +20685,7 @@ gotana;40
 gotanedge;50
 gotanf;40
 gotapass;50
+gotaroundto;40
 gotarun;30
 gotasay;50
 gotasecond;60
@@ -21442,6 +21451,8 @@ hadanin;50
 hadanip;50
 hadapoint;50
 hadar;20
+hadaroughgo;50
+hadaroughgoofit;60
 hadarow;30
 hadashotat;40
 hadasip;50
@@ -21866,6 +21877,8 @@ hasaneyeon;40
 hasanin;50
 hasanip;50
 hasapoint;50
+hasaroughgo;50
+hasaroughgoofit;60
 hasarow;30
 hasashotat;40
 hasasip;50
@@ -21982,6 +21995,8 @@ haveanicelife;60
 haveanin;50
 haveanip;50
 haveapoint;50
+havearoughgo;50
+havearoughgoofit;60
 havearow;30
 haveashotat;40
 haveasip;50
@@ -22023,6 +22038,8 @@ havinganap;50
 havinganedge;50
 havinganeyeon;40
 havinganip;50
+havingaroughgo;50
+havingaroughgoofit;60
 havingarow;30
 havingashotat;40
 havingasip;50
@@ -33629,6 +33646,7 @@ newdo;50
 newel;20;Staircase support
 newface;50
 newfearunlocked;60
+newgods;50;From DC Comics
 newhire;50
 newhires;50
 newintown;50
@@ -49790,6 +49808,11 @@ strangeordeal;60
 strangequark;60
 strangequarks;60
 strangs;20;Rare last name plural
+strangulate;30
+strangulated;30
+strangulates;30
+strangulating;30
+strangulation;30
 straplessbra;50
 straplessbras;50
 strasse;30;German street
@@ -54749,6 +54772,10 @@ trustedin;40
 trustedto;40
 truster;30
 trusters;30
+trustfall;60
+trustfallexercise;60
+trustfallexercises;60
+trustfalls;60
 trusties;30;Convict allowed special privileges
 trustin;40
 trustingin;40
