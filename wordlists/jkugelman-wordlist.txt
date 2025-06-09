@@ -1191,7 +1191,10 @@ airforceone;60
 airfrance;50
 airfryer;50
 airfryers;50
-airgapped;50
+airgap;60
+airgapped;60
+airgapping;60
+airgaps;60
 airguitar;60
 airguitars;40
 airhead;60
@@ -32361,6 +32364,8 @@ moo;50
 moocow;60
 mooer;30
 mooers;30
+moolatte;60
+moolattes;60
 moonbase;60
 moonbases;60
 moonbeam;50
@@ -53717,6 +53722,8 @@ toepokes;30;Australian soccer technique
 toepunt;30;Australian soccer technique
 toepunts;30;Australian soccer technique
 toesin;30
+toetapper;60
+toetappers;60
 tofuburger;50
 tofuburgers;50
 tofudog;50
@@ -53777,7 +53784,7 @@ tokyodrift;60
 tokyopop;50
 tokyostory;50
 tol;20
-tolast;40
+tolast;20;Long partial
 toldafib;40
 toldno;50
 toldof;40
@@ -58902,6 +58909,7 @@ youareexcused;60
 youarewhatyoueat;60
 youawake;60
 youbet;60
+youcalled;60
 youcandoit;60
 youcanthaveitbothways;60
 youcantlose;60
