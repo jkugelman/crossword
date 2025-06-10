@@ -346,6 +346,10 @@ aceofdiamonds;50
 aceofhearts;50
 aceofspades;50
 acerb;40;Bitter or sharp, as in taste or speaking tone
+acerbate;40;Make worse or make bitter
+acerbated;40
+acerbates;40
+acerbating;40
 acerous;30;Having no horns
 acesatest;20;Green paint
 aceshigh;50
@@ -1911,6 +1915,7 @@ amfmtuner;50
 amfmtuners;50
 amgen;30
 ami;40
+amiclear;60
 amidala;40
 amides;20;Chemicals
 amie;40
@@ -2011,6 +2016,7 @@ amurtigers;50
 amuser;30
 amusers;30
 amust;40
+amustsee;30
 amvets;20
 amy;50
 amyalcott;50;LPGA hall-of-famer
@@ -2692,7 +2698,7 @@ aquavit;40;Scandanavian liquor
 aquavitae;40
 aquavits;40
 aquiline;40;Of a nose, hooked like an eagle's beak
-ara;30;Southern constellation
+ara;40;Southern constellation
 arabist;30;Mideast expert
 arables;30;Weird plural
 araby;40;???
@@ -3944,6 +3950,7 @@ azathoth;60;Lovecraftian god
 azera;20;Discontinued Hyundai model
 azeri;30;Turk ethnic group in Azerbaijan
 azeris;30;Turk ethnic group in Azerbaijan
+azillion;40
 azimuthal;30
 azingers;20
 azo;30;Kind of dye [occasional]
@@ -7478,8 +7485,10 @@ calftattoo;60
 calftattoos;60
 calhern;30;Old actor Louis Calhern
 cali;50
-calicokitten;50
-calicokittens;50
+calicocat;60
+calicocats;60
+calicokitten;60
+calicokittens;60
 caliente;40
 californiacondor;50
 californiacondors;50
@@ -11063,6 +11072,7 @@ crenelations;40
 creneled;40
 crenellations;40
 crenels;40
+crenna;40;Actor Richard Crenna
 crennas;20
 creon;30;Antigone's cruel uncle
 creosote;40
@@ -12884,6 +12894,7 @@ diedadeath;50
 dieharder;50
 diein;20
 dielorelei;50
+diem;40
 diesadeath;50
 diesirae;60
 diesnon;30;Day when courts are off
@@ -16742,6 +16753,10 @@ eyalet;20;Ottoman Empire province
 eyalets;20;Ottoman Empire provinces
 eydie;40;Singer Eydie Gormé
 eye;50
+eyeball;50
+eyeballed;60
+eyeballing;60
+eyeballs;50
 eyechart;50
 eyecharts;50
 eyedoc;40
@@ -18612,6 +18627,7 @@ freezerays;60
 freezesup;50
 freezeup;50
 freezingup;50
+freida;40;???
 freightelevator;50
 freightelevators;50
 freindstotheend;1
@@ -21779,9 +21795,10 @@ hardcarried;60
 hardcarries;60
 hardcarry;60
 hardcarrying;60
-hardcider;50
-hardciders;50
+hardcider;60
+hardciders;60
 hardcontactlens;50
+hardcontactlenses;50
 hardcut;60
 hardcuts;60
 harddisagree;60
@@ -23724,6 +23741,8 @@ ibischick;50
 ibischicks;50
 ibises;40
 ibm;50
+ibmpc;40
+ibmpcs;40
 ibn;40
 ibo;30;Nigerian tribe [occasional]
 ibooks;30;Now known as Apple Books
@@ -29790,6 +29809,7 @@ lucubrations;30
 lud;20
 ludacris;50
 ludens;30;Throat drops brand
+luella;40;???
 luff;30;Steer a yacht nearer the wind
 luffed;30
 luffing;30
@@ -35494,6 +35514,7 @@ omasum;30;Third stomach of a ruminant
 omb;20
 omd;20
 ome;20
+omeara;40;Golfer Mark O'Meara
 omegas;40
 omened;30;Only useful as a partial like ill-omened??? Not used post-Shortz
 omenii;20
@@ -35714,6 +35735,7 @@ onelump;40
 oneman;40;Like some canoes, or whatever
 onemanoperation;50
 onemanoperations;50
+onemasted;50
 onemeg;20
 onemile;40
 onemoment;50;Words said with a finger raised
@@ -36662,6 +36684,10 @@ ovenmitt;50
 ovenmitts;50
 oventimer;50
 oventimers;50
+overact;60
+overacted;60
+overacting;60
+overacts;60
 overalls;50
 overalready;60
 overanddonewith;60
@@ -43816,12 +43842,15 @@ rst;20
 rstlne;40
 rstu;20
 rstuv;20
+rsvp;50
 rsvpcard;50
 rsvpcards;50
 rsvpd;40
+rsvped;50
+rsvping;50
 rsvpnote;50
 rsvpnotes;50
-rsvps;40
+rsvps;50
 rte;40
 rtei;20
 rtes;40
@@ -47562,6 +47591,7 @@ smilla;20;Smilla's Sense of Snow (1997 book/movie)
 smirch;30
 smirky;30
 smithee;40;Alan Smithee, common directorial pseudonym
+smits;40;Actor Jimmy Smits
 sml;20
 smogtest;50
 smogtesting;50
@@ -47935,6 +47965,7 @@ softboiling;50
 softboils;50
 softc;40
 softcontactlens;50
+softcontactlenses;50
 softcopies;50
 softcopy;50
 softcs;30
@@ -55332,7 +55363,7 @@ uburoi;40;Obscene "Macbeth" parody from 1896
 ucberkeley;50
 uccello;30;Renaissance painter Paolo Uccello
 ucdavis;40
-ucla;40
+ucla;50
 uclan;20
 uclans;20
 ucmerced;50
@@ -56473,6 +56504,7 @@ vie;50
 viedf;1
 viedfor;40
 viefor;40
+vieira;40;Meredith Vieira
 viesfor;40
 viet;40
 vietnamvet;60
