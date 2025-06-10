@@ -5631,6 +5631,9 @@ biodads;50
 biodata;40
 biofilm;50
 biogen;20
+biohacker;60
+biohackers;60
+biohacking;60
 bioink;50;Used to 3D print artificial tissue
 bioinks;50
 biol;30
@@ -6130,6 +6133,9 @@ bodyblows;60
 bodycam;50
 bodycams;50
 bodyguard;50
+bodyhacker;60
+bodyhackers;60
+bodyhacking;60
 bodypaint;60
 bodypainted;60
 bodypainter;60
@@ -22776,6 +22782,7 @@ hinterland;50
 hinterlands;60
 hinters;30
 hip;50
+hipaa;40
 hipbath;30
 hipbaths;30
 hipboot;50
@@ -29697,6 +29704,14 @@ lovetopieces;60
 lovey;40;Lovey-dovey
 lovingon;40
 low;50
+lowball;60
+lowballed;60
+lowballer;60
+lowballers;60
+lowballing;60
+lowballoffer;60
+lowballoffers;60
+lowballs;60
 lowcarbdiet;50
 lowclass;50
 lowearthorbit;60
@@ -30188,8 +30203,8 @@ magicalthinking;60
 magicbean;60
 magicbeans;60
 magicbus;50
-magician;50
-magicians;50
+magician;60
+magicians;60
 magicrealism;60
 magicset;60
 magicsets;60
