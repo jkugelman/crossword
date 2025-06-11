@@ -1160,6 +1160,8 @@ airarm;40;Military branch
 airball;60
 airballed;60
 airballs;60
+airblade;60;Dyson hand dryer
+airblades;60
 airbubble;50
 airbubbles;50
 aircannon;50
@@ -14612,6 +14614,8 @@ dynamicduos;50
 dynamicpricing;60
 dynamicrange;50
 dys;20
+dysonairblade;60
+dysonairblades;60
 dyspnea;30;Shortness of breath
 dystopia;50
 dystopian;50
