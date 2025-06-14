@@ -5,12 +5,12 @@
 #
 # fries + rolls: flatter / relleno / ifatall / earcanal / snapless (7/7/7/8/8)
 
-from merge import load_word_list
+from lib import load_words
 import re
 import sys
 
 def main():
-    words = set(load_word_list(min_score=40).words.keys())
+    words = set(load_words(min_score=40).keys())
     words = {word for word in words if len(word) >= 6 and word[1:-1] in words}
     words = {word for word in words if not re.search('[^s]s$', word)}
 
