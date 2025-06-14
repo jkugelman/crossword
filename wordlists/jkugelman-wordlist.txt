@@ -5794,6 +5794,10 @@ blackbox;60
 blackbudget;60;Budget for black ops
 blackbudgets;60
 blackcow;30;???
+blackdiamond;60
+blackdiamondrun;60
+blackdiamondruns;60
+blackdiamonds;60
 blackeyedp;1
 blackhole;60
 blackholes;60
@@ -8107,6 +8111,8 @@ carraces;30
 carracing;30
 carrells;30;???
 carriagepainter;1
+carriagereturn;60
+carriagereturns;60
 carrions;30
 carrotcake;60
 carrotcakes;50
@@ -18038,6 +18044,7 @@ flipacoin;50
 flipahouse;40
 flipbook;50
 flipbooks;50
+flipofaswitch;50
 flipoff;60
 flipon;40
 flippedacoin;50
@@ -18525,7 +18532,7 @@ fourdayworkweek;60
 fourhclubs;30
 fourhleader;20
 fourhleaders;20
-fourhundred;30;???
+fourhundred;40
 fouriron;50
 fourirons;50
 fourpm;40
@@ -22307,6 +22314,7 @@ hebraists;30
 hebridean;20;Scottish sheep
 hebron;30;Palestinian city
 hec;20
+hecanonlyblamehimself;60
 hecate;40
 hecht;30
 heckno;60
@@ -22345,6 +22353,7 @@ hegemony;50
 hegira;30;Muhammad's exodus
 hegiras;30
 heh;50
+hehasonlyhimselftoblame;60
 hehateme;50
 hehe;50
 hehhehs;30
@@ -23793,6 +23802,7 @@ icanfeelit;60
 icanfeelitinmybones;60
 icanleave;60
 icann;30
+icanonlyblamemyself;60
 icanreadwithmyeyesshut;60;Dr. Seuss book
 icanrelate;60
 icansee;50
@@ -24169,6 +24179,7 @@ ihavemixedfeelings;60
 ihavenoidea;60
 ihaventgotallday;60
 ihaventthefoggiest;60
+ihaveonlymyselftoblame;60
 ihaveplacestobe;60
 ihavestandards;60;"Please, that's beneath me"
 ihavetime;50
@@ -25912,6 +25923,7 @@ ivdrug;50
 ivdrugs;50
 ive;50
 ivebeenhad;60
+ivebeenselfish;60
 ivedoneit;60
 iveeaten;50
 ivefallen;1
@@ -25924,6 +25936,7 @@ ivegottajet;60
 ivegotthis;60
 ivegotto;50
 ivenoidea;60
+iveonlymyselftoblame;60
 ives;40
 iveses;20
 ivey;40
@@ -26651,6 +26664,7 @@ kansascitymo;40
 kansasdog;20;???
 kansasdogs;20;???
 kansasst;20
+kanyewest;5
 kaolinite;30;Mineral
 kaon;30;Subatomic particle
 kaons;30;Subatomic particles
@@ -26933,6 +26947,7 @@ keystage;20;British school division
 keystages;20
 keytar;60
 keytars;60
+keywestfl;40
 keywitness;50
 keywitnesses;50
 kfc;40
@@ -28280,6 +28295,8 @@ leetspeak;50
 leftfor;40
 leftfordead;60
 leftin;40
+leftjustified;50
+leftjustify;50
 leftlanes;30
 lefton;40
 leftover;50
@@ -36331,6 +36348,7 @@ organdonors;50
 organgrinder;50
 organgrinders;50
 organicbeef;30;Green paint
+organiconions;20;Green paint
 organismic;30
 organogram;30
 organograms;30
@@ -41891,17 +41909,20 @@ redkettles;50
 redleg;40;Nickname for an artilleryman, or Caribbean version of redneck
 redlegs;40
 redlight;50
+redlightcamera;60
+redlightcameras;60
 redlights;50
 redlobster;60
 redman;20
 redmenace;50
+redmondwa;40
 redneck;50
 rednecks;50
 redoak;50
-redock;20
-redocked;20
-redocking;20
-redocks;20
+redock;30
+redocked;30
+redocking;30
+redocks;30
 redose;20
 redosed;20
 redoses;20
@@ -41938,6 +41959,8 @@ redrafting;40
 redrafts;40
 redrag;30
 redrice;50
+redrubberball;50;???
+redrubberballs;50;???
 redrum;60
 redsable;40
 redscare;60
@@ -43156,6 +43179,8 @@ rightface;50
 rightfit;20;Green paint
 rightfromcentralcasting;60
 rightinthefeels;60
+rightjustified;50
+rightjustify;50
 rightlyso;50
 rightoh;30;???
 righton;60
@@ -46238,6 +46263,7 @@ shea;50
 sheave;40
 sheaved;30
 shebeen;20;Illicit bar
+shecanonlyblameherself;60
 shedson;20;???
 sheenier;30
 sheeniest;30
@@ -46262,6 +46288,7 @@ sheesh;60
 sheetanchor;40;Reliable person, nautical etymology
 sheetofice;50
 sheetsofice;50
+shehasonlyherselftoblame;60
 shehitme;50
 shel;40
 shelduck;30
@@ -52000,8 +52027,8 @@ tenoutoften;60
 tenpast;20
 tenpm;40
 tenpounder;30;???
-tenrec;20;Madagascar animal
-tenrecs;20;Madagascar animals
+tenrec;30;Madagascar animal
+tenrecs;30;Madagascar animals
 tenseconds;30
 tenski;20
 tensofpeople;60
@@ -53067,9 +53094,11 @@ thewtatour;30
 thexgames;40
 thexmen;40
 theyanks;40;???
+theycanonlyblamethemselves;60
 theydeatyoualive;60
 theyear;20
 theygotitmade;60
+theyhaveonlythemselvestoblame;60
 theyllcomearound;60
 theylleatyoualive;60
 theylleatyouforbreakfast;60
@@ -55122,6 +55151,8 @@ turnedsour;50
 turnedto;40
 turnedtodust;60
 turnedtogold;50
+turnedtotheleft;50
+turnedtotheright;50
 turnedtraitor;50
 turnedtwo;30
 turnedupsidedown;50
@@ -55137,6 +55168,8 @@ turningsour;50
 turningto;40
 turningtodust;60
 turningtogold;50
+turningtotheleft;50
+turningtotheright;50
 turningtraitor;50
 turningtwo;30
 turningupsidedown;50
@@ -55163,6 +55196,8 @@ turnssour;50
 turnsto;40
 turnstodust;60
 turnstogold;50
+turnstotheleft;50
+turnstotheright;50
 turnstraitor;50
 turnstwo;30
 turnsupsidedown;50
@@ -55170,6 +55205,8 @@ turnthatfrownupsidedown;60
 turnto;40
 turntodust;60
 turntogold;50
+turntotheleft;50
+turntotheright;50
 turntraitor;50
 turntwo;30;Green paint
 turnupsidedown;50
@@ -59029,6 +59066,7 @@ youawake;60
 youbet;60
 youcalled;60
 youcandoit;60
+youcanonlyblameyourself;60
 youcanthaveitbothways;60
 youcantlose;60
 youcantmakeme;60
@@ -59061,6 +59099,7 @@ youhangup;60
 youhatetoseeit;60
 youhave;20
 youhavefunwiththat;60
+youhaveonlyyourselftoblame;60
 youhavesomenerve;60
 youheardme;60
 youhearme;60
@@ -59167,6 +59206,7 @@ youvegottabejoking;60
 youvegottabekiddingme;60
 youvegottobejoking;60
 youvegottobekiddingme;60
+youveonlyyourselftoblame;60
 youweresaying;60
 youwhat;60
 youwhoknow;40;???
