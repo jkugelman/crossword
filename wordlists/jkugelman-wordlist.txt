@@ -3892,6 +3892,7 @@ awe;50
 aweather;30;Windward
 aweebit;50
 aweless;30
+awellregulatedmilitia;60
 awesomeblossom;60
 awesomegamesdonequick;60
 awfultruth;60
@@ -7003,6 +7004,7 @@ buckaroo;60
 buckedforapromotion;50
 buckforapromotion;50
 buckingforapromotion;50
+buckleupitsthelaw;60
 bucksaw;50
 bucksaws;50
 bucksforapromotion;50
@@ -17157,6 +17159,8 @@ fasteningonto;40
 fastenonto;40
 fastenseatbelts;20
 fastensonto;40
+fastenyourseatbeltitsgoingtobeabumpyride;60
+fastenyourseatbeltitsgonnabeabumpyride;60
 fastfive;50
 fastlearner;50
 fastlearners;50
@@ -25818,6 +25822,8 @@ itsfine;50
 itsfire;60
 itsgettinglate;50
 itsgiving;60;Gen Z slang
+itsgoingtobeabumpyride;60
+itsgonnabeabumpyride;60
 itshightime;60
 itsin;30;Usually a partial
 itsingodshands;60
@@ -45370,6 +45376,8 @@ seasteps;40;Boat ladder
 seatat;40
 seatbacktray;50
 seatbacktrays;50
+seatbeltsign;60
+seatbeltsigns;60
 seatedtwist;50
 seatedtwists;50
 seatoad;40
@@ -55939,6 +55947,8 @@ unsubs;50
 unsweetened;50
 untar;20;Extract a tar archive
 untidier;30
+untiedshoelace;60
+untiedshoelaces;60
 untrainedeye;50
 untwist;50
 untwisted;50
@@ -57557,6 +57567,7 @@ wellletsseenow;60
 wellletthisslide;60
 wellnowwhat;60
 wellnowwhatdowedo;60
+wellregulatedmilitia;60
 wellrested;50
 wellsorta;60
 wellthatsafinehowdoyoudo;60
