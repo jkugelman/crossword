@@ -229,7 +229,7 @@ def spell_metas(metas, themers, min_count=None, max_count=None):
 
     Example:
 
-    spell_meta(
+    spell_metas(
         ['fries', 'salad'],
         {'foodless': ['f', 's'],
          'romania': ['r', 'a'],
@@ -238,7 +238,6 @@ def spell_metas(metas, themers, min_count=None, max_count=None):
          'stormed': ['s', 'd']},
     )
     """
-    print(f"spell_metas: {metas}?")
     def spell_metas_r(metas, used_themers):
         if all(not meta for meta in metas):
             if min_count is None or len(used_themers) >= min_count:
