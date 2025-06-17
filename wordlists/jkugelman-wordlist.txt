@@ -22288,6 +22288,7 @@ heartstopping;60
 heartstoppingmoment;60
 heartstoppingmoments;60
 heatandserve;50
+heatdeath;60
 heatindex;50
 heatless;30
 heatray;50
@@ -22601,6 +22602,7 @@ hesgoingtoeatyouforbreakfast;60
 hesgonnaeatyouforbreakfast;60
 hesgoodenoughtoeat;60
 heshe;5
+heshootshescores;60
 hesinrareform;60
 hesiod;40;Ancient Greek poet
 hesjustsayingwhateveryonesthinking;60
@@ -25554,6 +25556,7 @@ ishebuyingit;60
 ishi;20
 ishipit;20;???
 ishityounot;5
+ishotthesheriff;60
 ishuddertothink;60
 isi;20;Partial [occasional]
 isidor;30;Nobel physicist Isidor Rabi, never used in Shortz era
@@ -46321,10 +46324,13 @@ shellcomearound;60
 shelleatyouforbreakfast;60
 sheller;40
 shellers;40
+shellfishallergy;60
 shellgame;60
 shellgames;60
 shellshock;60
 shellshocked;60
+shellshocking;60
+shellshocks;60
 shelovesme;50
 shelovesmenot;50
 shem;20
@@ -46465,6 +46471,10 @@ shoepac;30;Waterproof boot
 shoepacs;30
 shoeprint;50
 shoeprints;50
+shoeshinegirl;50
+shoeshineman;50
+shoeshiner;50
+shoeshiners;50
 shoeshop;40
 shoeshops;40
 shoetongue;50
@@ -46651,6 +46661,14 @@ shurikens;60
 shush;50
 shute;20;Author Nevil
 shutthefrontdoor;60;"No way!"
+shuttlecock;60
+shuttlecocks;60
+shuttleflight;60
+shuttleflights;60
+shuttlelaunch;60
+shuttlelaunches;60
+shuttleservice;60
+shuttleservices;60
 shutupandkissme;60
 shy;50
 shydi;30;???
@@ -48524,6 +48542,8 @@ spacejam;60
 spacelab;60
 spaceoddity;60
 spacesagas;20
+spaceshuttle;60
+spaceshuttles;60
 spacesuit;50
 spacesuits;50
 spacex;60
@@ -55237,6 +55257,8 @@ turtlenests;50
 turturro;50
 turves;20;Turfs: Br.
 turvy;40
+tushpush;60
+tushpushes;60
 tusker;20
 tuskers;20
 tusking;20
