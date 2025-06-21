@@ -14742,6 +14742,7 @@ easesout;40
 easesupto;40
 easeupto;40
 easierbunnies;40
+easilyoverlooked;50
 easingby;40
 easingin;40
 easinginto;40
@@ -18714,6 +18715,7 @@ frenemies;60
 frenemy;60
 frequencyband;50
 frequencybands;50
+frequentlyoverlooked;50
 frere;40
 freres;40
 freshbreeze;50;5 on the Beaufort wind force scale
@@ -22693,8 +22695,11 @@ hicktowns;50
 hid;50
 hiddencost;60
 hiddencosts;60
+hiddenjewel;60
+hiddenjewels;60
 hiddenmic;50
 hiddenmics;50
+hiddentreasure;60
 hidefrom;40
 hideftv;40
 hideftvs;40
@@ -35262,6 +35267,7 @@ ofrendas;30;Día de los Muertos offerings
 oft;50
 oftener;20
 oftenest;20
+oftenoverlooked;50
 ofthepast;40
 ofyore;40
 og;40
@@ -39876,6 +39882,7 @@ pres;40
 presa;30;Musical mark
 preseen;30
 presences;50
+presentcompanyexcluded;60
 presentee;40
 presentees;40
 presernce;50
@@ -47268,6 +47275,7 @@ skipatrol;50
 skipatrols;50
 skipbail;50
 skipclass;50
+skipcutscene;60
 skiplane;50
 skiplanes;50
 skippedabeat;50
