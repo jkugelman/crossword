@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 
+# Swap inner substrings, or swap a pair of inner letters.
+
 from argparse import ArgumentParser
 import csv
+from itertools import combinations
 from lib import load_words
 from sys import stdout
 
@@ -16,11 +19,17 @@ def main():
     out.writerow([
         'word', 'score',
         'swapped', 'score',
-        'inner', 'score',
-        'renni', 'score',
-        'i', 'length',
+        'i', 'j',
     ])
 
+    for word, swapped, i, j in trade_letters(words):
+        out.writerow([
+            word, words[word],
+            swapped, words[swapped],
+            i, j
+        ])
+
+def flip_substrings(words):
     for word in sorted(words):
         for i in range(1, len(word) - 1):
             for length in range(2, len(word) - i):
@@ -33,18 +42,22 @@ def main():
                 if swapped not in words:
                     continue
 
-                scores = (words[word], words[swapped])
-                min_score = min(scores)
-                max_score = max(scores)
-                inner_score = words.get(inner, 0)
-                renni_score = words.get(inner[::-1], 0)
-                out.writerow([
-                    word, words[word],
-                    swapped, words[swapped],
-                    inner, inner_score,
-                    renni, renni_score,
-                    i, length,
-                ])
+                yield (word, swapped, inner, renni, i, length)
+
+def trade_letters(words):
+    for word in sorted(words):
+        for i, j in combinations(range(1, len(word) - 1), 2):
+            if word[i] == word[j]:
+                continue
+
+            swapped = word[:i] + word[j] + word[i+1:j] + word[i] + word[j+1:]
+            if swapped not in words:
+                continue
+            if word > swapped:
+                continue
+
+            yield (word, swapped, i, j)
+
 
 if __name__ == '__main__':
     main()
