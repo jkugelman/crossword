@@ -8823,6 +8823,7 @@ charmthebirdsfromthetrees;60
 charo;40;The actress
 charsiu;40;Cantonese-style barbecued pork
 chartae;20
+chartres;40;French town
 chary;30;Suspicious (of)
 chas;40
 chasmal;30
@@ -9171,6 +9172,8 @@ chocaholic;20
 chocaholics;20
 choccies;40;British for "chocolates"
 choccy;40;British for "chocolate"
+chocice;40;Ice cream bar (British)
+chocices;40
 choco;30
 chocolatecoated;50
 chocolatedonut;50
@@ -10375,6 +10378,10 @@ conchshells;50
 conciliation;30
 conciliations;20
 concordances;40;Weird plural
+concrete;50
+concreted;40
+concretes;50
+concreting;40
 conde;40
 condemner;40
 condemners;40
@@ -17946,6 +17953,7 @@ flaresat;20
 flarestar;50
 flarestars;50
 flaringat;20
+flashest;30
 flashflood;50
 flashflooding;50
 flashfloods;50
@@ -19437,6 +19445,8 @@ geicogecko;60
 geigers;40;Geiger counters, or particles detected by them
 geishaaccessory;1
 gel;50
+gelatine;40;British spelling
+gelatines;40
 gelatostand;50
 gelatostands;50
 gelbart;30;Larry Gelbart, creator of M*A*S*H
@@ -24821,6 +24831,8 @@ indeedido;60
 indeedy;60
 indeliblepencil;60
 indenial;50
+indenter;40
+indenters;40
 indention;40;???
 indestructosteelball;60;Acme invention
 indexer;40
@@ -25251,6 +25263,7 @@ inthewash;50
 inthewrongplaceattherighttime;60
 inthewrongplaceatthewrongtime;60
 inthing;60
+inthreed;30
 intifada;30;Palestinian resistance movement
 intima;20
 intimacychoreographer;60
@@ -27944,6 +27957,7 @@ laterdude;60
 latergram;50
 latergrams;50
 laterinlife;50
+laterite;40;Soil type
 laterman;60
 latestfad;50
 latestfads;50
@@ -31002,6 +31016,8 @@ masonicorder;50
 masonicorders;50
 masonite;30;Pressure-molded wood
 maspeth;30;Queens community
+masquer;40
+masquers;40
 mass;50;Cross promotion?
 massageoil;50
 massageoils;50
@@ -36999,13 +37015,17 @@ pachinkoparlors;60
 pacificblue;50
 package;50
 packedin;40
+packedinit;40;British
 packer;30
 packin;40
 packingin;40
+packinginit;40;British
+packinit;40;British
 packrat;50
 packrats;50
 packrinkscraper;1
 packsin;40
+packsinit;40;British
 packyourbags;60
 packyourstuff;60
 packyourthings;60
@@ -37448,6 +37468,8 @@ pasmal;40;Pas mal, French "not bad"
 pasmoi;20;???
 paso;40
 pasoan;20
+passade;40;Horse dressage move
+passades;40
 passado;30;Fencing move
 passas;40
 passby;40
@@ -43276,7 +43298,7 @@ ring;50
 ringabell;60
 ringannouncer;50
 ringannouncers;50
-ringaround;40;Call around
+ringaround;30;Call around
 ringaroundarosie;60
 ringaroundarosy;60
 ringaroundtherosie;60
@@ -43290,13 +43312,13 @@ ringedseals;50
 ringfor;40
 ringin;40
 ringingabell;60
-ringingaround;40;Call around
+ringingaround;30;Call around
 ringingfor;40
 ringingin;40
 ringos;1
 ringring;50
 ringsabell;60
-ringsaround;40;Call around
+ringsaround;30;Call around
 ringsfor;40
 ringsin;40
 ringsize;50
@@ -44103,7 +44125,7 @@ runfast;20
 runfor;40
 runforit;60
 rungameon;60
-rungaround;40;Called arround
+rungaround;30;Called around
 runinto;50
 runitby;40
 runlet;40;Small stream
@@ -53342,6 +53364,9 @@ threebodyproblem;60
 threecar;50
 threecentpiece;50
 threecentpieces;50
+threed;30
+threedmovie;30
+threedmovies;30
 threeiron;50
 threeirons;50
 threelegged;50
