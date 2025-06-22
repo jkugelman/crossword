@@ -14,16 +14,16 @@ def main():
     out = csv.writer(stdout)
 
     out.writerow([
-        'word', 'word_score',
-        'swapped', 'swapped_score',
-        'inner', 'inner_score',
-        'renni', 'renni_score',
+        'word', 'score',
+        'swapped', 'score',
+        'inner', 'score',
+        'renni', 'score',
         'i', 'length',
     ])
 
     for word in sorted(words):
-        for i in range(len(word) - 1):
-            for length in range(2, len(word) - i + 1):
+        for i in range(1, len(word) - 1):
+            for length in range(2, len(word) - i):
                 inner = word[i:i+length]
                 renni = inner[::-1]
                 if inner == renni:
