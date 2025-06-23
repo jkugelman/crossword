@@ -2009,6 +2009,7 @@ ams;20
 amso;40;Playground retort
 amstation;50
 amstations;50
+amsterdamairportschiphol;50
 amstereo;40
 amt;40
 amtoo;40;Playground retort
@@ -7427,11 +7428,11 @@ cafetable;50
 cafetables;50
 caffeinic;30
 cagedin;40
-cagedive;50
-cagediver;50
-cagedivers;50
-cagedives;50
-cagediving;50
+cagedive;60
+cagediver;60
+cagedivers;60
+cagedives;60
+cagediving;60
 cagein;40
 cager;40
 cagers;40
@@ -7459,6 +7460,8 @@ cakecutting;60;Traditional wedding activity done by the couple
 cakedecorator;50
 cakedecorators;50
 cakedon;40
+cakedonut;60
+cakedonuts;60
 cakehole;60
 cakemix;50
 cakemixes;50
@@ -7679,7 +7682,7 @@ campanile;40;Italian bell tower
 campaniles;40
 campanula;20;Bellflower genus
 campbed;50
-campdavid;50
+campdavid;60
 campfire;50
 campground;50
 campgrounds;50
@@ -8946,10 +8949,14 @@ cheever;40;Novelist John Cheever (1912-82)
 chef;50
 cheffy;50;New slang
 chefs;50
+chefsalad;60
+chefsalads;60
 chefshat;60
 chefshats;60
 chefskiss;60
 chefskisses;50
+chefssalad;60
+chefssalads;60
 cheguevarashirt;60
 chelate;30
 chelated;40
@@ -11960,8 +11967,8 @@ dataanalysts;50
 datable;30
 databreach;50
 databreaches;50
-datadump;50
-datadumps;50
+datadump;60
+datadumps;60
 datakey;50
 datakeys;50
 datamine;50
@@ -12636,6 +12643,7 @@ derma;40;Suffix
 dermas;30;Suffix
 dermatologist;50
 dermatologists;50
+dern;40;Laura Dern / Bruce Dern
 derniercri;40;The newest fashion, "dernier cri"
 derpy;60
 derris;30;???
@@ -14557,6 +14565,7 @@ dunkedon;40
 dunkingon;40
 dunkon;40
 dunkson;40
+dunn;40
 dunnage;30;Waste material used to secure cargo
 dunno;50
 duo;50
@@ -19105,6 +19114,8 @@ gameapp;20
 gameapps;20
 gameconsole;60
 gameconsoles;60
+gamedemo;60
+gamedemos;60
 gamedesign;60
 gameengine;60
 gameengines;60
@@ -27891,6 +27902,7 @@ lassoo;1
 lastactionhero;60
 lastcall;50
 lastcalls;50
+lastdance;60
 lastdayofschool;60
 lastditchmove;60
 lastditchmoves;60
@@ -41073,9 +41085,13 @@ rainbarrel;50
 rainbarrels;50
 rainbowemoji;60
 rainbowemojis;60
-raindance;50
-raindances;50
-raindancing;50
+raindance;60
+raindances;60
+raindancing;60
+raindate;60
+raindates;60
+raindelay;60
+raindelays;60
 rainedon;40
 rainer;30;Luise Rainer, 1930s Best Actress
 raines;40
@@ -44660,6 +44676,8 @@ sanddial;50
 sanddials;50
 sanddollar;50
 sanddollars;50
+sanddune;60
+sanddunes;60
 sande;20;1930s jockey
 sandeel;40
 sandeels;40
@@ -45078,6 +45096,7 @@ schedules;50
 schell;40;Maximillian Schell, Best Actor in 1961 for "Judgment at Nuremberg"
 schifrin;30;Pianist Lalo
 schiller;40;German playwright Friedrich Schiller
+schiphol;40;Amsterdam airport
 schist;50;Metamorphic rock
 schists;50
 schlemiel;60
@@ -46300,6 +46319,14 @@ sharingacab;50
 sharingin;40
 sharingwith;40
 sharis;20;Plural name
+sharkbait;60
+sharkcage;60
+sharkcagedive;60
+sharkcagediver;60
+sharkcagedivers;60
+sharkcagedives;60
+sharkcagediving;60
+sharkcages;60
 sharkfin;60
 sharkfins;60
 sharkpup;50
@@ -46382,6 +46409,7 @@ shellshocks;60
 shelovesme;50
 shelovesmenot;50
 shem;20
+shenzi;40;"The Lion King" hyena
 shepherdscrook;50
 shepherdscrooks;50
 shera;40
@@ -46395,6 +46423,7 @@ sherifs;20
 sherlock;50
 sherlockjr;50
 sherlocks;50
+sherri;40
 sherryglass;50
 sherryglasses;50
 shesakeeper;60
@@ -49101,9 +49130,13 @@ squibs;50
 squill;30;Plant
 squills;30
 squint;50
+squintat;40
 squinted;50
+squintedat;40
 squinting;50
+squintingat;40
 squints;50
+squintsat;40
 squire;60
 squirtbottle;50
 squirtbottles;50
@@ -51490,6 +51523,8 @@ tapdancer;50
 tapdancers;50
 tapdances;50
 tapdancing;50
+tapedelay;60
+tapedelays;60
 tapedon;40
 tapedto;40
 tapedup;40
