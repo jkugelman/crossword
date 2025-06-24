@@ -475,6 +475,7 @@ acquisition;50
 acr;20
 acrazylittlethingcalledlove;60
 acreinch;50;Unit of volume in crop irrigation
+acritical;40;Not critical
 acro;30
 acropetal;40;Botany word
 acs;40
@@ -1687,7 +1688,7 @@ alous;40
 alp;40
 alpaca;50
 alpacas;50
-alpacino;50
+alpacino;60
 alpe;30;French for Alp
 alpen;30
 alpenhorn;50
@@ -3168,6 +3169,7 @@ ascaris;20
 ascender;40
 ascenders;40
 ascendingorder;50
+ascetical;40
 ascites;30;Medical condition
 asclepius;40;Greco-Roman god of medicine
 ascoldasice;60
@@ -4271,6 +4273,7 @@ bakkers;30
 baku;30;Capital of Azerbaijan
 bal;20
 balaamsass;40;Biblical story of Balaam's ass
+balaban;40;Actor Bob Balaban
 balalaika;50;Triangular Russian guitar
 balancedbudgets;50
 balata;30;???
@@ -25467,6 +25470,7 @@ irater;30
 iratest;30
 ire;50
 irealize;50
+ireful;40
 irelander;30
 ireless;30
 irenee;20
@@ -25830,6 +25834,7 @@ itsactuallyhappening;60
 itsadate;60
 itsadickmove;60
 itsadoozy;60
+itsafluke;60
 itsagift;60
 itsagirl;60
 itsagoodaguessasany;60
@@ -27974,6 +27979,7 @@ latedates;40
 lateef;40;Hip hop artist
 lateen;30;Triangular sail
 lateens;30;Triangular sails
+lategreat;60
 lateinlife;50
 laten;50
 latene;20;Iron Age culture
@@ -30150,6 +30156,7 @@ maathai;40;Wangari Maathai, 2004 Nobel Peace Prize winner
 mab;40;Queen Mab, referred to in Romeo and Juliet, and other works
 mabels;30
 mac;50
+macaber;20;Variant of macabre
 macaco;20;Monkey
 macadam;30;Driving surface
 macadams;30;Driving surfaces
@@ -30667,6 +30674,8 @@ malorys;20
 malpais;40;National monument El Malpais in New Mexico "Land of Frozen Fire"
 malposition;30
 malposted;30;Crooked
+maltipoo;60
+maltipoos;60
 malvolio;40;"Twelfth Night" character
 mam;20
 mamabear;60
@@ -32881,6 +32890,7 @@ mrpeanut;50
 mrred;40;Cincinatti Reds mascot
 mrree;30;Captain Underpants janitor, first name Toilette
 mrroarke;50
+mrrobot;60
 mrroper;40
 mrs;50
 mrsandman;60
@@ -34124,13 +34134,15 @@ nino;40
 ninon;30;Sheer fabric
 ninons;30
 ninos;40
-nintendo;50
-nintendogame;50
-nintendogameboy;50
-nintendogameboys;50
-nintendogames;50
-nintendowii;50
-nintendowiis;50
+nintendo;60
+nintendogame;60
+nintendogameboy;60
+nintendogameboys;60
+nintendogames;60
+nintendoswitch;60
+nintendoswitches;60
+nintendowii;60
+nintendowiis;60
 ninthly;40
 niobe;30;Weeper of Greek myth
 niodeon;20
@@ -34597,6 +34609,7 @@ notaprob;60
 notar;40;Cigarette claim
 notarial;30;???
 notarise;30
+notasido;40
 notatoy;50
 notax;40
 notbataneye;60
@@ -37469,6 +37482,7 @@ partsong;30
 partsongs;30
 partswith;40
 parturition;40;Childbirth
+partv;40
 partwith;40
 partwo;50;Only in putt putt
 partwos;50
@@ -39052,6 +39066,10 @@ playsgames;60
 playsgolf;50
 playsnice;60
 playson;40
+playstation;60
+playstationgame;60
+playstationgames;60
+playstations;60
 playsto;40
 playstupidgames;60
 playstupidgameswinstupidprizes;60
@@ -41926,6 +41944,8 @@ recrated;20
 recrates;20
 recrating;20
 recreancy;30
+recreant;40;Coward, archaic
+recreants;40
 recreative;40
 recross;30
 recrudesce;40
@@ -44693,6 +44713,12 @@ sand;50
 sandaltan;50
 sandaltans;50
 sandart;50
+sandbag;60
+sandbagged;60
+sandbagger;60
+sandbaggers;60
+sandbagging;60
+sandbags;60
 sandblaster;50
 sandblasters;50
 sandboxgame;60;Video game genre that prioritises creativity over story, like Minecraft or The Sims
@@ -46695,6 +46721,8 @@ shotsoftequila;50
 shotsofwhiskey;50
 shoulderbrace;50
 shoulderbraces;50
+shouldof;40
+shouldve;50
 shouse;40;Hybrid workshop-house
 shouses;40
 shoutat;40
@@ -47851,6 +47879,10 @@ smilingat;40
 smilingon;40
 smilla;20;Smilla's Sense of Snow (1997 book/movie)
 smirch;30
+smirkat;40
+smirkedat;40
+smirkingat;40
+smirksat;40
 smirky;30
 smithee;40;Alan Smithee, common directorial pseudonym
 smits;40;Actor Jimmy Smits
@@ -48444,6 +48476,8 @@ sonsie;20;???
 sonsinlaw;50
 sonsofadam;50
 sont;20
+sonyplaystation;60
+sonyplaystations;60
 sonys;40
 soo;40;Phillipa Soo of "Hamilton"
 sooey;40;Farm call
@@ -50731,7 +50765,9 @@ supermom;50
 supermoms;50
 supermoon;50
 supermoons;50
+supernintendo;60
 supernintendochalmers;60
+supernintendos;60
 supernova;60
 supernovae;50
 supernovas;60
@@ -54466,6 +54502,7 @@ totalrecall;60
 totalsup;40
 totalup;40
 totalwar;50
+totalzoo;60
 totchos;40;Tater tot nachos
 totedup;40
 totempole;60
