@@ -31,7 +31,7 @@ def main():
 
 def flip_substrings(words):
     for word in sorted(words):
-        for i in range(1, len(word) - 1):
+        for i in range(len(word) - 1):
             for length in range(2, len(word) - i):
                 inner = word[i:i+length]
                 renni = inner[::-1]
@@ -46,7 +46,7 @@ def flip_substrings(words):
 
 def trade_letters(words):
     for word in sorted(words):
-        for i, j in combinations(range(1, len(word) - 1), 2):
+        for i, j in combinations(range(len(word)), 2):
             if word[i] == word[j]:
                 continue
 
