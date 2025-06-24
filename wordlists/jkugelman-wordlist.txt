@@ -5686,8 +5686,12 @@ birdsanctuaries;50
 birdsanctuary;50
 birdsong;50
 birdsongs;50
-birdwatcher;50
-birdwatchers;50
+birdwatch;60
+birdwatched;60
+birdwatcher;60
+birdwatchers;60
+birdwatches;60
+birdwatching;60
 bireme;30;Ancient warship
 biremes;30
 biretta;30;Cap worn by Roman Catholic clergy
@@ -7085,6 +7089,7 @@ builtinto;40
 builton;40
 bul;20
 bulbasaur;50;Pokeyman
+bulgarianrose;60;Type of rose grown for rose oil
 bulimia;5
 bulkedout;50
 bulkingout;50
@@ -7382,6 +7387,7 @@ cabalist;40
 cabalists;40
 caballed;40
 caballing;40
+cabbagerose;60;Type of rose grown for rose oil
 cabdriver;50
 cabdrivers;50
 cabinetdepartment;50
@@ -8066,6 +8072,7 @@ carjacking;30
 carjackings;30
 carjacks;30
 carkey;50
+carking;30;Annoying
 carle;40;Eric Carle, author of "The Very Hungry Caterpillar"
 carli;40;Carli Lloyd, top FIFA women's soccer champion
 carlitos;40
@@ -10328,6 +10335,8 @@ completenightmare;60
 completepackage;60;All-in-one deal
 completionist;60;Someone who works to finish tasks in their entirety
 completionists;60
+complexfracture;50
+complexfractures;50
 complexnumber;50
 complexnumbers;50
 complier;40
@@ -21071,6 +21080,7 @@ greatdayforup;60;Dr. Seuss book
 greateagle;60;Massive bird from "The Lord of the Rings"
 greateagles;60
 greaten;30
+greatestgeneration;60
 greatfallsmt;30
 greatidea;60
 greatlakesstate;50
@@ -25587,6 +25597,7 @@ iseeyourpoint;60
 iselin;20
 iseult;20;Isolde
 ish;40
+ishantmincewords;60
 ishares;30;ETF collection
 ishebuyingit;60
 ishi;20
@@ -25841,6 +25852,7 @@ itsathing;60
 itsatotalnightmare;60
 itsawaitinggame;60
 itsawash;60
+itsawasteofspace;60
 itsawholenewballgame;60
 itsawholething;60
 itsawonderfullife;60
@@ -29667,6 +29679,7 @@ lostastep;50
 lostcat;40
 lostcats;40
 lostface;50
+lostgeneration;60
 lostinyonkers;50
 lostlamb;50
 lostonesfooting;50
@@ -33868,6 +33881,7 @@ newyearnewme;60
 newyearsevegala;50
 newyorkislander;50
 newyorkmarathon;50
+newyorksfinest;60
 newyorkyankee;50
 newyorkyankees;50
 nextdaydeliveries;50
@@ -43852,6 +43866,8 @@ rosalie;40;Who's notable?
 rosarybead;50
 rosarybeads;50
 roscoelee;30;1970s actor Roscoe Lee Browne
+roseabsolute;60;Perfumery ingredient
+roseabsolutes;60
 roseanneroseannadanna;60
 roseate;40
 rosecolored;50
@@ -44066,6 +44082,7 @@ rudi;30;Fashion designer Gernreich
 rudolf;40;Ballet dancer Rudolf Nureyev, inventor Rudolf Diesel
 rue;50
 ruefulness;30
+ruehl;40;Actress Mercedes Ruehl
 ruer;20
 ruers;20
 ruffianly;30
@@ -46902,6 +46919,7 @@ silentds;40
 silente;40
 silentes;40
 silentg;40
+silentgeneration;60
 silentgs;40
 silenth;40
 silenths;40
@@ -47000,6 +47018,10 @@ simperer;40
 simperers;40
 simping;5
 simpleenough;60
+simplefraction;50
+simplefractions;50
+simplefracture;50
+simplefractures;50
 simps;5
 simu;30;Actor Liu of "Shang-Chi and the Legend of the Ten Rings"
 sin;50
@@ -50591,6 +50613,7 @@ sunbathes;60
 sunbathing;60
 sundance;50
 sundancefilmfestival;50
+sundayfinest;60
 sunderance;40
 sundown;50
 sunevfohtribeht;1
@@ -50842,6 +50865,10 @@ swampgas;50
 swanns;30;"Swann's Way", Proust's most famous work, more commonly known as "In Search of Lost Time"
 swanpaddleboats;50
 swansea;40;Birthplace of Dylan Thomas, second largest city in Wales
+swappedspit;60
+swappingspit;60
+swapspit;60
+swapsspit;60
 swards;30;???
 swarmedin;40
 swarmedinto;40
@@ -51182,6 +51209,7 @@ tagteams;60
 tah;1
 tahrir;50;Cairo square
 tai;40
+taifrose;40;Taif rose, type of rose grown for rose oil
 taika;40;Taika Waititi
 taiko;40
 taikodrum;50
@@ -52742,6 +52770,7 @@ thegospels;40
 thegrammys;40
 thegreatbrain;30;Children's book series
 thegreatest;60
+thegreatestgeneration;60
 thegreatoldones;60;Cthulhu, etc.
 thegreenarrow;40
 thegreenfairy;60;Absinthe
@@ -52809,6 +52838,7 @@ thelead;20
 theleft;30
 theleonids;40
 thelessiknowthebetter;60
+thelesssaidthebetter;60
 theletter;1
 thelettere;20
 thelettern;20
@@ -52833,6 +52863,7 @@ thelongestyard;50
 thelonggoodbye;50
 thelordoftherings;50
 thelostbattalion;40
+thelostgeneration;60
 thelouisianapurchase;20
 thelouvre;20
 thelovers;60;Tarot card
@@ -53078,6 +53109,7 @@ theshootist;50
 theshowmustgoon;60
 thesiciliandefence;30;???
 thesiciliandefense;50
+thesilentgeneration;60
 thesilenttreatment;60
 thesilkroad;30
 thesinai;20
@@ -55266,6 +55298,7 @@ turkeybasters;50
 turkeybreast;50
 turkeywing;50
 turkeywings;50
+turkishrose;60;Type of rose grown for rose oil
 turncard;50
 turncards;50
 turndown;50
@@ -57318,8 +57351,10 @@ wast;20
 wastedpotential;60
 wasteland;60
 wastemanagement;50
+wasteofspace;60
 waster;40
 wasters;40
+wastesofspace;60
 wastewater;50
 wastrel;30
 wat;40;Angkor Wat
