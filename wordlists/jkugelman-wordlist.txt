@@ -1518,6 +1518,7 @@ allargando;40
 allatingle;50
 allayer;30
 allayers;30
+allbangers;60
 allbangersnoskips;60
 allbark;60
 allbarkandnobite;60
@@ -15747,6 +15748,8 @@ endues;20
 enduing;20
 endupat;40
 endupontop;50
+endurancerace;60
+enduranceraces;60
 endurancetest;50
 endurancetests;50
 endust;40;Cleaning spray
@@ -18779,9 +18782,15 @@ frieda;40
 friedan;30;Feminist writer Betty Friedan, first president of NOW
 friedchicken;50
 friedup;40
+friendaversaries;60
+friendaversary;60
+friendiversaries;60
+friendiversary;60
 friendlily;30;Weird adverb
 friendlyreminder;60
 friendlyreminders;60
+friendrequest;60
+friendrequests;60
 friesup;40
 frigg;40;Wife of Odin
 frightwig;60
@@ -19510,12 +19519,12 @@ genderaffirming;50
 genderbender;5;Some consider it offensive
 genderbenders;5
 genderbending;5
-genderbias;50
-genderdysphoria;50
-gendereuphoria;50
+genderbias;60
+genderdysphoria;60
+gendereuphoria;60
 genderpaygap;60
-genderrole;50
-genderroles;50
+genderrole;60
+genderroles;60
 genderwagegap;60
 geneediting;60
 geneeditor;60;Tool that modifies cellular information (CRISPR is the most well-known one)
@@ -28521,6 +28530,8 @@ len;40;Len Goodman, "Dancing With the Stars" judge
 lenaolin;50
 lenape;20;Delaware tribe
 lendee;30
+lendinglibraries;60
+lendinglibrary;60
 lendingto;40
 lendl;40;Ivan Lendl, all-time great tennis player (apparently)
 lendsto;40
@@ -34366,6 +34377,7 @@ nolita;30
 nolition;40;Unwillingness, opposite of volition
 noload;30
 noloads;30
+nolocontendere;60
 nolongerafactor;60
 nolte;40;Actor Nick Nolte
 noltes;20
@@ -34590,6 +34602,7 @@ nosiree;50
 nosireebob;60
 nosirree;50
 nosirreebob;60
+noskips;60
 nosleeptillbrooklyn;50
 nosoap;40;"Not gonna happen"
 nosoup;20
@@ -38836,6 +38849,8 @@ pitstops;50
 pittrader;50
 pittraders;50
 pitts;30;Early actress ZaSu Pitts
+pitviper;60
+pitvipers;60
 pitylike;60
 pityliked;60
 pitylikes;60
@@ -40485,9 +40500,10 @@ publicfigure;50
 publicfigures;50
 publicforum;50
 publichospitals;30
-publiclibraries;50
+publiclibraries;60
+publiclibrary;60
 publicofficials;50
-publicrelations;50
+publicrelations;60
 publicsupport;50
 publictv;50
 publishorperish;60
@@ -48873,8 +48889,10 @@ spellitout;50
 spellitoutforme;60
 spence;40;Various people
 spences;20;Pantries, archaic
-spendingfreeze;50
-spendingfreezes;50
+spendingfreeze;60
+spendingfreezes;60
+spendinglimit;60
+spendinglimits;60
 spendy;30;Extravagant
 spewer;30
 spewers;30
@@ -51021,6 +51039,7 @@ sweetrolls;50
 sweetspot;60
 sweetspots;50
 sweetsummerchild;60
+sweetsurrender;60
 sweettalk;60
 sweettalked;60
 sweettalker;60
