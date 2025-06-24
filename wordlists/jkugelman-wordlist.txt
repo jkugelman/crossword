@@ -7877,8 +7877,10 @@ caparison;30;Deck out, as a horse
 caparisoned;30;Decked out, as a horse
 caparisoning;30;Decking out, as a horse
 caparisons;30;Decks out, as a horse
+capecod;60
 capecodcottage;60
 capecodcottages;60
+capecods;60
 capehorn;50
 capelet;40
 capelets;40
@@ -10539,6 +10541,8 @@ cookupastorm;60
 coolasacucumber;60
 coolbreeze;50
 coolbreezes;50
+coolcat;60
+coolcats;60
 cooldad;60
 cooldads;60
 cooledonesheels;60
@@ -11534,6 +11538,7 @@ cupsofcocoa;50
 cupsojoe;50
 cupsoneshands;50
 cur;50
+curacaos;40;Liqueurs
 curacies;30
 curacy;30
 curad;40;Bandage brand
@@ -29229,6 +29234,8 @@ liuwen;40;China's first supermodel
 liv;50
 liveat;40
 liveby;40
+livecam;50
+livecams;50
 livedat;40
 livedby;40
 livedebate;50
@@ -29993,6 +30000,7 @@ lumpsinwith;40
 lumpur;40;Kuala Lumpur
 lun;20
 luna;40
+lunacies;40;Odd plural
 lunarday;50
 lunardays;50
 lunardust;50
@@ -32650,6 +32658,7 @@ morningroutine;60
 morningroutines;60
 morningsickness;60
 moro;40
+moroccos;40;Goatskin leathers
 moroni;30
 morphed;50
 morphedinto;40
@@ -37049,8 +37058,8 @@ pac;40
 paca;20;Rodent
 pacas;20;Rodents
 pacbell;40
-pacecar;50
-pacecars;50
+pacecar;60
+pacecars;60
 pacelap;50
 pacelaps;50
 pacelli;20;Pope last name
@@ -38760,6 +38769,7 @@ pipsqueak;60
 pipsqueaks;60
 piquet;30
 pir;20
+piracies;40;Odd plural
 pirana;20
 piranas;20
 pirandello;40;Playwright Luigi Pirandello, 1934 Nobel Prize in Literature
@@ -39706,6 +39716,7 @@ postulant;40
 postulants;40
 postwarera;50
 pot;50
+potachos;40;Potato nachos
 potage;40;Thick soup
 potashes;40;Weird plural
 potation;40;Drink or drinking
@@ -40341,6 +40352,7 @@ protractor;50
 protractors;50
 protrusile;30
 prov;40;Province
+provence;40;Southern French region
 prover;40
 provers;40
 provigil;40;Medication
@@ -44437,8 +44449,8 @@ sadpanda;60
 sadpandas;60
 sadreminder;60
 sadreminders;60
-sadsack;50
-sadsacks;50
+sadsack;60
+sadsacks;60
 sadstories;50
 sadstory;50
 sadtosay;60
@@ -44696,6 +44708,7 @@ samshepard;50
 samshepherd;20;???
 samshu;40;Chinese liquor
 samsons;20;Strongmen
+samspade;60
 samuelbarber;50
 samurai;60
 samuraijack;60
@@ -46245,9 +46258,11 @@ sexscandals;60
 sexscene;60
 sexscenes;60
 sexsells;60
+sexshow;60
+sexshows;60
 sexstarved;60
-sexstrike;50;Misogynistic???
-sexstrikes;50
+sexstrike;60;Misogynistic???
+sexstrikes;60
 sexsymbol;60
 sexsymbols;60
 sext;60
@@ -56350,8 +56365,10 @@ usecaution;50
 usedasbait;50
 usedbookstore;50
 usedbookstores;50
-usedcarlot;50
-usedcarlots;50
+usedcar;60
+usedcarlot;60
+usedcarlots;60
+usedcars;60
 usedcaution;50
 useddrugs;40
 usedfor;40
