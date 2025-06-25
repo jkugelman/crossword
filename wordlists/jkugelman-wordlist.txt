@@ -984,6 +984,8 @@ agegaps;50
 agegrade;50
 ageing;30;British spelling
 ageings;20
+agelevel;50
+agelevels;50
 agelikefinewine;60
 agelikemilk;60
 agemate;40
@@ -2483,6 +2485,7 @@ apbs;40
 apc;20
 apcalc;40
 apcalculus;40
+apcarter;40;Country musician A. P. Carter (1891-1960)
 apchinese;40
 apcs;20
 ape;50
@@ -2562,7 +2565,8 @@ apologycard;60
 apologycards;60
 apologytour;60
 apologytours;60
-apolune;20;Farthest point of the moon's orbit
+apolune;40;Farthest point of the moon's orbit
+apolunes;40
 apony;20
 apoplexies;40
 apoplexy;50
@@ -13119,6 +13123,7 @@ diocesan;40
 dioceses;40
 diomede;20
 dione;30;Moon of Saturn
+dionne;40;R&B singer Dionne Warwick
 dionysia;30;Festival in honor of Dionysus
 diopter;40;Unit of focusing strength for glasses
 diopters;40
@@ -13461,6 +13466,8 @@ dodgecitykansas;50
 dodgedealership;30
 dodgerblue;50
 dodirty;60
+dodoegg;30;???
+dodoeggs;30;???
 dodonuts;60
 doe;50
 doechii;60;2025 Best Rap Album winner
@@ -14277,8 +14284,10 @@ drogo;40;Game of Thrones's Khal Drogo
 droidapp;50
 droidapps;50
 drolls;20
+drome;40
 dromedarycamel;50
 dromedarycamels;50
+dromes;30
 dronebee;50
 dronebees;50
 dronedon;40
@@ -15497,6 +15506,8 @@ elvers;30;Baby eels
 elvin;40;NBA great Elvin Hayes
 elvira;60
 elviramistressofthedark;60
+elway;40;Quarterback John Elway
+elwes;40;Actor Cary Elwes
 ely;30;Ron Ely who played Tarzan
 elya;20
 elysee;40
@@ -16526,7 +16537,7 @@ eurailpass;50
 eureka;60
 eurekaca;30
 euripides;50
-euroarea;30
+euroarea;50
 eurodollar;40;???
 eurodollars;40
 eurogame;60;Board game with indirect player interaction and a focus on abstract strategy, such as Carcassone or Ticket to Ride
@@ -16723,6 +16734,8 @@ exeunt;40
 exfbi;30
 exgi;30
 exgis;30
+exhorter;40
+exhorters;40
 exigible;40;Able to be charged or levied, as a tax or duty
 exiledfrom;40
 exilefrom;40
@@ -22572,9 +22585,11 @@ henparties;40
 henparty;40
 henreid;40;Paul Henreid who played Victor Laszlo in "Casablanca"
 henripoincare;50
+henryi;40
 henryii;30
 henryjames;50
 henryknox;50
+henryv;50;Shakespeare play
 henryviii;50
 hensegg;50
 henseggs;50
@@ -23662,6 +23677,7 @@ hts;30
 http;40
 https;40
 hua;20
+hualapai;40;Arizona tribe
 huarache;20;Mexican sandal
 huaraches;20
 hub;50
@@ -24596,6 +24612,7 @@ imnotsurprised;60;"We all saw that one coming"
 imnotyourmother;60
 imo;40
 imoff;60
+imogen;40
 imon;50
 imonboard;60
 imonduty;60
@@ -26163,6 +26180,8 @@ jaipur;40;Indian city
 jal;20
 jalapa;30;Capital of the Mexican state of Veracruz, Xalapa is preferred spelling
 jalapeno;50
+jalapenopepper;60
+jalapenopeppers;60
 jalapenos;50
 jalen;40;Various athletes
 jam;50
@@ -37021,6 +37040,8 @@ ox;50
 oxalate;40;Organic molecule
 oxalates;40
 oxalic;30;Acid used in bleach
+oxalis;30;Flower genus
+oxalises;30
 oxer;30
 oxfordcomma;60
 oxfordcommas;60
@@ -58665,7 +58686,6 @@ woolofbat;60;Witches' brew ingredient in Macbeth
 woolsey;30;CIA director
 woosnam;30;Golfer Ian "Woosie" Woosnam
 woot;60
-wooten;50
 wop;5
 wor;20
 wordiness;50
