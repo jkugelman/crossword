@@ -193,6 +193,7 @@ aboundin;30
 aboundingin;30
 aboundsin;30
 aboutschmidt;50
+aboutto;40
 aboutturn;50
 aboutturns;50
 abovethefold;60
@@ -6693,6 +6694,7 @@ brakeman;40;Member of a train crew
 brakemen;40
 bramstoker;60
 brandawareness;60;The extent to which customers are familiar with a particular company or product line
+brandonsanderson;60
 brandt;20;German chancellor Willy
 brandts;20
 brans;30
@@ -12952,7 +12954,7 @@ didst;40
 didtheconga;50
 didthesplits;50
 didtime;50
-didto;40;Inflicted upon
+didto;30;Inflicted upon
 didtoat;40
 didtoatee;40
 didtoo;40;Playground retort
@@ -13620,7 +13622,7 @@ dohonor;30
 dohonorto;40
 dohs;40
 doi;40
-doidare;60
+doidare;50
 doido;30;Stevie Wonder song
 doiever;50
 doigotta;60
@@ -15851,6 +15853,7 @@ ennuis;20;Bad plural
 eno;40
 enoch;40;Biblical figure
 enola;40
+enolagay;60
 enorme;40;Huge: Fr.
 enos;40;Grandson of Adam and Eve
 enote;20
@@ -16562,6 +16565,7 @@ evaders;40
 evadne;30;Daughter of Poseidon
 evaduarte;50;Eva Perón
 eval;40
+evalarue;40;"CSI: Miami" actress
 evals;40
 evanesce;40
 evanesced;40
@@ -21056,6 +21060,7 @@ graspedat;40
 graspingat;40
 graspsat;40
 grassed;40
+grassle;30;"Little House on the Prairie" actress Karen Grassle (1974-82)
 grasso;20;NYSE chief, CT governor
 grassrootsmovement;50
 grassrootsmovements;50
@@ -21711,6 +21716,7 @@ halal;50
 halas;30;George Halas, Chicago Bears coach
 halcyon;60
 halcyons;40;Kind of bird
+haldane;30;Botanist Hal Dane (1892-1964)
 haldavid;50
 haldeman;40;Nixon's Chief of Staff
 hale;50
@@ -30822,6 +30828,7 @@ manorial;30
 manout;40;???
 manowar;60
 manque;40;Unsuccessful, e.g. poet manqué
+manray;40;Dadaist
 mansard;40;Type of roof
 mansards;40
 manscape;60
@@ -32424,6 +32431,7 @@ mockumentary;60
 mod;50
 model;50;One who might say "Take your best shot!"
 modela;40;Old Ford model
+modelas;40
 modelrocketkit;60
 modelrocketkits;60
 models;50;They might say "Take your best shot!"
@@ -35268,7 +35276,7 @@ oddsmakers;50
 oddsock;50
 oddsocks;50
 ode;50
-odea;30;Theaters
+odea;40;Theaters
 oded;5
 odedon;5
 odelet;30
@@ -35589,7 +35597,7 @@ olav;40
 olavi;30
 olavii;20
 old;50
-oldabe;50;Bald eagle Civil War mascot named after Lincoln
+oldabe;40;Bald eagle Civil War mascot named after Lincoln
 oldagepensioner;50
 oldasdirt;60
 oldbailey;50
@@ -38101,6 +38109,7 @@ pennyloafer;50
 pennyloafers;50
 pennystock;50
 pennystocks;50
+penrod;40;Booth Tarkington novel
 pensee;30;Thought or reflection put into literary form
 pensees;30
 pensieve;60
@@ -38781,6 +38790,7 @@ pinotgrigios;50
 pinotgris;50
 pinotnoir;60
 pinotnoirs;50
+pinrot;40;Broccoli head rot
 pinsamedalon;50
 pion;40;Subatomic particle
 pions;40;Subatomic particles
@@ -40075,6 +40085,7 @@ prestir;30
 prestired;30
 prestirring;30
 prestirs;30
+prestos;30
 pretaporter;50;Prêt-à-porter, ready-to-wear
 pretell;30;Foretell
 pretendimnothere;60
@@ -41102,6 +41113,8 @@ ragamuffin;60
 ragandboneman;50
 ragandbonemen;50
 ragas;40;Indian classical music
+ragbag;40
+ragbags;40
 rageat;40
 ragebait;60
 ragebaited;60
@@ -43466,6 +43479,7 @@ riotshields;50
 riotsquad;50
 riotsquads;50
 rip;50
+ripa;40;TV host Kelly Ripa
 ripat;40
 ripeoldage;60
 ripieno;30;Body of instruments accompanying the concertino in baroque concerto music
@@ -44769,7 +44783,7 @@ sancti;40
 sand;50
 sandaltan;50
 sandaltans;50
-sandart;50
+sandart;60
 sandbag;60
 sandbagged;60
 sandbagger;60
@@ -46254,6 +46268,7 @@ sewingon;40
 sewist;50;Preferred modern term for someone who sews
 sewists;50
 sewnin;40
+sewnon;40
 sewon;40
 sewons;40
 sews;50
@@ -52802,6 +52817,7 @@ thedead;50;Grateful Dead
 thedeadsea;40
 thedeep;40;1977 adventure movie
 thedeeps;50
+thedell;40
 thedells;40;Old R&B group
 thedetails;40;2011 Tobey Maguire movie, no theatrical release
 thedevil;50;Tarot card
@@ -53142,6 +53158,7 @@ therecord;20
 thered;20
 theredcross;30
 theredphone;40;???
+thereds;40;Unnecessary "the"
 theredsea;20
 theredsox;40
 theregoesmybaby;60
@@ -53320,6 +53337,7 @@ thetuba;30
 thetudors;20
 theturn;50
 theturtles;50
+theu;30;University of Miami, "The U"
 theuffizi;40
 theuglyduckling;60
 theuk;40
@@ -58209,7 +58227,7 @@ whodiedandmadeyouking;60
 whodoeshethinkheis;60
 whodoesshethinksheis;60
 whodotheythinktheyare;60
-whoelse;60
+whoelse;50
 whogivesaflip;60
 whogivesashit;5
 whohasnt;60;"We've all been there, right?"
@@ -58259,7 +58277,7 @@ why;50
 whydoesitmatter;60
 whydoesthisalwayshappentome;60
 whydontyoumakelikeatreeandgetoutofhere;60
-whyelse;60
+whyelse;50
 whyinever;60
 whyisit;50
 whyisthat;60
