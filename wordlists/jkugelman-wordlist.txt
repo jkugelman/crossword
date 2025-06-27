@@ -3890,6 +3890,10 @@ avoider;30
 avoiders;30
 avonrep;40
 avonreps;40
+avouch;30;Affirm, archaic
+avouched;30
+avouches;30
+avouching;30
 avouu;1
 avowers;30
 avs;20
@@ -5833,10 +5837,12 @@ blackjackdealer;50
 blackjackdealers;50
 blackjackplayer;50
 blackjackplayers;50
-blacklist;50
-blacklisted;50
-blacklisting;50
-blacklists;50
+blacklist;60
+blacklisted;60
+blacklisting;60
+blacklists;60
+blacklivesmatter;60
+blacklung;60
 blackoperations;50
 blackrhino;50
 blackrhinoceros;50
@@ -8693,6 +8699,7 @@ ceremonialdressuniforms;50
 cerf;40;Vint Cerf, "father of the Internet"
 cerises;20;Reds
 cern;40
+cernan;40;Apollo 17 commander Gene Cernan, last person to walk on the moon
 cersei;50
 cert;40;Certificate, or breath mint
 certificated;30
@@ -18362,6 +18369,7 @@ foghorns;50
 fogin;40;Fog in
 fogsin;40
 fogy;30
+foia;40
 foie;30
 foistedon;40
 foistingon;40
@@ -21244,6 +21252,7 @@ grimdark;60
 grimoire;60
 grimoires;60
 grinat;40
+grindset;60
 griner;40;WNBA All-Star Brittney Griner
 grinnedat;40
 grinner;40
@@ -28263,11 +28272,13 @@ leadiest;30
 leadinginto;40
 leadings;40;Weird plural
 leadingto;40
+leadingup;40
 leadingupto;40
 leadinto;40
 leadsinto;40
 leadsto;40
 leadstory;50
+leadsup;40
 leadsupto;40
 leadtime;50
 leadto;40
@@ -28412,6 +28423,7 @@ ledinto;40
 ledisi;40;One-named R&B/jazz singer (2020 Grammy, acted in "Selma")
 leds;40
 ledto;40
+ledup;40
 ledupto;40
 lee;50
 leeaaker;30;???
@@ -30118,6 +30130,8 @@ lusaka;40;Capital of Zambia
 lustedfor;40
 lusters;30;Weird plural
 lustfor;40
+lustforlife;60
+lustforpower;60
 lustingfor;40
 lustra;20
 lustral;40;Depression medication
@@ -30180,6 +30194,7 @@ lxxiii;20
 lycopod;30;Mossy plant 425 million years ago
 lycopodium;30
 lycopods;30
+lyddite;30;Explosive
 lye;50
 lyesoap;40
 lyesoaps;40
@@ -31500,6 +31515,7 @@ meddledwith;40
 meddleswith;40
 meddlewith;40
 meddlingwith;40
+medea;40
 medeas;20;2013 movie
 medflies;30
 medfly;30;Mediterranean fruit fly
@@ -34768,6 +34784,7 @@ notonboard;50
 notopen;30;Green paint
 notoriousbig;60
 notpc;40
+notquitemytempo;60;"Whiplash" admonition
 notrare;20
 notreal;30
 notredamefightingirish;60
@@ -37789,7 +37806,8 @@ paw;50
 pawat;40
 pawedat;40
 pawingat;40
-pawl;20;Ratchet part
+pawl;30;Ratchet stop
+pawls;30
 pawnavalanche;60;Chess tactic
 pawnavalanches;60
 pawnbroker;50
@@ -41670,6 +41688,7 @@ rawemotion;50
 rawenergy;60
 rawhides;30;Dog treats
 rawls;40;R&B singer Lou Rawls
+rawly;20;Vulgarly
 rawoyster;50
 rawoysters;50
 rawrecruit;50
@@ -45262,6 +45281,7 @@ schedule;50
 schedulea;50
 schedulers;30
 schedules;50
+scheelite;40;Tungsten ore
 schell;40;Maximillian Schell, Best Actor in 1961 for "Judgment at Nuremberg"
 schifrin;30;Pianist Lalo
 schiller;40;German playwright Friedrich Schiller
@@ -51946,6 +51966,12 @@ taxman;50
 taxol;30;Chemotherapy drug
 taxon;40;Kingdom, phylum, etc.
 taxpayerdollars;60
+taxscam;50
+taxscams;50
+taxseason;60
+taxseasons;60
+taxshelter;60
+taxshelters;60
 tay;40;Taylor Swift nickname
 taye;40
 taylordle;20
@@ -52775,6 +52801,7 @@ thebigunit;60;Nickname for 6'10" tall pitcher Randy Johnson
 thebillofrights;50
 thebingbangtheory;1
 thebit;40
+theblacklist;60
 theblob;50
 thebluegrassstate;40
 thebluegrotto;40
@@ -55846,7 +55873,7 @@ ucsb;30;U.C. Santa Barbara
 ucsf;30
 ude;20
 udo;40;Japanese vegetable
-uefa;30;European football league
+uefa;40;European football league
 uey;40
 ueys;40
 ufc;40
@@ -59343,6 +59370,7 @@ yessirreebob;60
 yester;40
 yet;50
 yetto;40
+yeun;40;Actor Steven Yeun
 yew;50
 yggdrasil;60
 yhear;30
