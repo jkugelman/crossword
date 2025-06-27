@@ -667,7 +667,7 @@ adexec;50
 adexecs;50
 adfee;40
 adfees;40
-adhd;40
+adhd;50
 adheredto;40
 adherer;40
 adherers;40
@@ -1675,6 +1675,7 @@ aloes;40
 aloeverajuice;60
 alohas;40;Questionable plural
 alohastate;50
+alomar;40;Baseball player Roberto Alomar
 alonely;20
 alonetime;50
 alongthoselines;50
@@ -3219,6 +3220,7 @@ ashcan;40
 ashcans;40
 ashcone;40;Accumulation of volcanic ash around a vent
 ashcones;40
+ashe;40
 asheboro;20;Unremarkable NC city
 ashed;40
 asher;30
@@ -3863,6 +3865,7 @@ avgolemono;40;Greek lemon chicken soup
 avi;20
 avia;40
 avianize;30
+avias;40
 aviated;30
 aviates;30
 aviating;30
@@ -4636,6 +4639,7 @@ bassales;50
 bassanio;40;"The Merchant of Venice" character
 bassdrop;60
 bassdrops;60
+bassey;40;"Goldfinger" singer Shirley Bassey
 bassi;40;Operatic bass singers
 bassinet;50
 bassinets;50
@@ -6491,6 +6495,8 @@ bossrush;60
 bossrushes;60
 bossstage;60
 bossstages;60
+bostoncreampie;60
+bostoncreampies;60
 bostondynamics;60;Company known for making advanced lifelike robots
 bostonma;30
 bostonmarathons;50
@@ -9082,6 +9088,7 @@ chicagopd;30
 chicane;40;???
 chicanery;50
 chicas;40
+chicha;40;Latin American fermented beverage
 chick;50
 chickendumpling;50
 chickendumplings;50
@@ -11087,6 +11094,10 @@ crazyharry;50;Muppet
 crazylittlethingcalledlove;60
 crazymixedupkid;60
 creamfilledcake;50
+creampie;60
+creampies;60
+creampuff;60
+creampuffs;60
 creamsoda;50
 creamsodas;50
 creamyskin;20;???
@@ -14819,6 +14830,7 @@ easychairs;50
 easyeight;50
 easyfour;50
 easygo;30
+easymode;60
 easyon;40
 easyread;50
 easyreader;50
@@ -17314,15 +17326,13 @@ fbiagent;50
 fbiagents;50
 fbireport;50
 fbireports;50
-fbispies;20
-fbispy;20
+fbispies;30
+fbispy;30
 fbomb;60
 fbombs;60
 fbpost;20
 fbposts;20
 fbs;30;Full backs
-fbyspies;40
-fbyspy;40
 fcc;40
 fclef;40
 fda;40
@@ -21959,6 +21969,7 @@ hardlabor;50
 hardlot;50
 hardluckstories;60
 hardluckstory;60
+hardmode;60
 hardpass;60
 hardpilltoswallow;60
 hardr;50;Movie rating, or phonetic (eep)
@@ -28010,6 +28021,7 @@ lastwill;50
 lastwillandtestament;60
 lastwish;50
 lastwishes;50
+lasvegas;60
 lasvegasnv;30
 lasvegasstrip;50
 laszlo;40;Victor Laszlo of "Casablanca", or Peter Lorre originally
@@ -31762,6 +31774,7 @@ meritraise;50
 meritraises;50
 meriwetherlewis;60
 merl;30
+merle;40;Singer Merle Haggard
 merlon;20
 merlons;20
 mermaid;50
@@ -34676,6 +34689,7 @@ notaprob;60
 notar;40;Cigarette claim
 notarial;30;???
 notarise;30
+notaro;40;Comedian Tig Notaro
 notasido;40
 notasirecall;60
 notatoy;50
@@ -34900,9 +34914,11 @@ nucleolar;40;???
 nucleus;50
 nuclide;30
 nucor;20;Steel company
+nudemice;60;Hairless laboratory mice
 nudemodel;60
 nudemodeling;60
 nudemodels;60
+nudemouse;60;Hairless laboratory mouse
 nudeness;40
 nudephoto;60
 nudephotos;60
@@ -35251,6 +35267,7 @@ octameter;40
 octanes;40
 octaval;30;Relating to an octave
 octavo;40;Book size
+octavos;40
 octette;20
 octile;30
 octo;40
@@ -37333,6 +37350,8 @@ panforgold;50
 panfry;50
 panicle;20;Flower cluster
 panicles;20;Flower clusters
+panicroom;60
+panicrooms;60
 panin;30;Zoom in, not pan in
 paninon;30
 panipuri;40;Indian street food
@@ -37932,6 +37951,7 @@ peanutfarming;50
 peanutfarms;50
 peanutgalleries;50
 peanutoils;40;Bad plural???
+pearce;40;Actor Guy Pearce
 pearldiver;60
 pearldivers;60
 pearldiving;60
@@ -38018,6 +38038,7 @@ peepsat;40
 peerage;40
 peerages;40
 peerat;40
+peerce;30;Tenor Jan Peerce (1904-1984)
 peeredat;40
 peeredin;40
 peeredinto;40
@@ -38045,6 +38066,7 @@ pegg;40
 pegtop;40;Spinning toy
 pegtops;40
 pei;40
+peirce;30
 pejorative;50
 pekan;20;Fisher (mammal)
 pekans;20;Fishers (mammals)
@@ -44539,6 +44561,9 @@ safarisuits;50
 safebet;60
 safebets;60
 safeco;40;Insurance company
+safemode;60
+saferoom;60
+saferooms;60
 safespace;60
 safespaces;60
 safetydepositbox;50
@@ -45371,6 +45396,7 @@ screamer;50
 screamers;50
 screamingat;40
 screamsat;40
+scree;40
 screechowl;50
 screechowls;50
 screenager;30;Teen who likes computers
@@ -48048,27 +48074,27 @@ snakepits;60
 snakeplant;50
 snakeplants;50
 snaker;30
-snakeriver;50
-snapat;40
+snakeriver;60
+snapat;50
 snapbrim;50
 snapbrimhat;50
 snapbrimhats;50
 snapbrims;50
-snapdragon;50
-snapdragons;50
-snapless;40
-snapline;40;Chalked string used in construction
-snaplines;40;Chalked strings used in construction
-snappedat;40
-snappedto;40
-snappingat;40
-snappingto;40
+snapdragon;60
+snapdragons;60
+snapless;50
+snapline;50;Chalked string used in construction
+snaplines;50
+snappedat;50
+snappedto;40;Snapped to (attention)
+snappingat;50
+snappingto;40;Snapping to (attention)
 snapples;40
-snapsat;40
-snapsto;40
-snapto;40
-snarer;30
-snarers;30
+snapsat;50
+snapsto;40;Snaps to (attention)
+snapto;40;Snap to (attention)
+snarer;40
+snarers;40
 snarlat;40
 snarledat;40
 snarledup;40
@@ -49226,6 +49252,8 @@ spunhay;30
 spunsilk;50
 spurge;20
 spy;50
+spyagencies;60
+spyagency;60
 spycar;30;Green paint
 spyfiction;60
 spyfilm;50
@@ -51067,10 +51095,13 @@ sweatshirts;50
 sweatsuit;50
 sweatsuits;50
 sweeneytodd;50
+sweepingout;40
+sweepout;40
 sweeppick;50
 sweeppicked;50
 sweeppicking;50
 sweeppicks;50
+sweepsout;40
 sweeptheleg;60
 sweetandsourmix;50
 sweetanise;50
@@ -51109,6 +51140,7 @@ sweetvalley;50
 sweetvalleyhigh;60
 swellmob;50
 swellmobs;50
+sweptout;40
 swf;20
 swiftboat;50
 swiftboats;50
@@ -52441,6 +52473,7 @@ teslacars;20
 tesori;30;Jean Tesori, most honored female theatrical composer in history
 tesoro;30
 tess;40
+tessa;40
 tessas;30;Plural name
 tessera;40;Mosaic tile
 tesserae;40;Mosaic tiles
@@ -56038,6 +56071,7 @@ uneasiest;30
 uneatable;40
 uneeda;30;Biscuit brand
 unended;40;Unfinished
+unequals;40;Weird plural
 unerect;40
 unes;40
 unessential;40
@@ -56383,7 +56417,7 @@ uriel;30;Archangel
 urines;5
 uris;30;Author Leon
 urkel;40
-urkelos;50
+urkelos;30;Urkel O's cereal
 url;40
 urls;40
 urn;50
@@ -59556,6 +59590,7 @@ yrs;40
 yshape;30
 yshaped;30
 yshapes;30
+ysidro;40;San Ysidro, district of San Diego
 ysl;40
 yslbag;30
 ytd;40
