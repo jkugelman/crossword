@@ -4971,6 +4971,8 @@ beatastandstill;20
 beatat;40
 beatatthemercyof;20
 beatback;50
+beatcop;60
+beatcops;60
 beatease;20
 beatenat;40
 beatendown;50
@@ -22730,6 +22732,7 @@ herpes;30
 herpetic;20
 herr;40
 herrera;40
+herriot;30
 herrs;30
 hers;50
 hersey;40;"Hiroshima" author John Hersey, Pulitzer winner
@@ -24878,7 +24881,7 @@ inasweat;40
 inaswoon;30
 inatin;20
 inatrap;30;Green paint [common]
-inatree;40
+inatree;30;Green paint, themer from a "Green Eggs and Ham" puzzle
 inatrice;40
 inatrot;20
 inattentivepupils;20;Green paint???
@@ -25383,6 +25386,7 @@ inthelimelight;60
 inthelurch;60
 inthemiddleofnowhere;60
 inthepenaltybox;50
+intherain;30;Green paint, themer from a "Green Eggs and Ham" puzzle
 intherightplaceattherighttime;60
 intherightplaceatthewrongtime;60
 intherough;50
@@ -27117,6 +27121,8 @@ keyon;30
 keyparty;60
 keyplayer;50
 keyplayers;50
+keypoint;50
+keypoints;50
 keysersoze;60
 keysignature;50
 keysignatures;50
@@ -30493,6 +30499,8 @@ mahatmas;40;Wise ones in India
 mahayanist;30;Type of Buddhist
 mahi;40
 mahomet;30;Play by Voltaire?
+mahout;40;Elephant rider
+mahouts;40
 mahres;20
 mai;40;___ tai
 maidenaunt;50
@@ -30534,6 +30542,7 @@ maingate;50
 mainlandchina;50
 mainlot;1
 mainpoint;50
+mainpoints;50
 mainst;40
 mainstream;60
 mainstreet;60
@@ -35869,6 +35878,7 @@ ona;30;Partial [extremely common]
 onabender;50
 onabet;30
 onabinge;30
+onaboat;30;Green paint, themer from a "Green Eggs and Ham" puzzle
 onacruise;40
 onadare;40
 onadayliketoday;50
@@ -36445,6 +36455,7 @@ ophira;40;???
 ophiuchus;30
 opi;40;Nail polish brand with the color "15 Minutes of Flame"
 opia;20
+opie;40
 opiner;40
 opiners;40
 opinionate;40
@@ -39282,6 +39293,7 @@ plena;20;Puerto Rican music
 plenary;40;Congressional term
 plenum;20
 plenums;20
+plessy;40;Plessy v. Ferguson
 pleura;20;Lung membrane
 plex;30
 plexor;40;Doctor's rubber hammer
@@ -39867,6 +39879,8 @@ potatobattery;50
 potatobud;50
 potatobuds;50
 potatoe;20;Dan Quayle's misspelling
+potboy;40;Boy who serves drinks in a tavern
+potboys;40
 potdispensaries;50
 potdispensary;50
 potedible;50
@@ -41258,6 +41272,7 @@ rahm;40;Golfer Jon Rahm
 rahman;30
 rahmemanuel;50
 rahs;40
+rahway;30;NYC suburb in New Jersey
 rai;20
 raid;50
 raided;50
@@ -48346,6 +48361,8 @@ soapboxracer;50
 soapboxracers;50
 soapbubble;50
 soapbubbles;50
+soaper;30;Soap opera, informally
+soapers;30
 soapnut;40
 soapnuts;40
 soapopera;50
@@ -49978,6 +49995,7 @@ stepsinshit;5
 stepsinto;40
 stepsonto;40
 stepsoutof;40
+stepto;30
 steptwo;30
 stepuncle;50
 stepuncles;40
@@ -58726,6 +58744,7 @@ witchtrial;60
 witchtrials;60
 witchywoman;60
 with;50
+withagoat;1
 withallthetrimmings;60
 withamoomoohere;30;???
 witheraway;50
