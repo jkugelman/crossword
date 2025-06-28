@@ -5665,6 +5665,8 @@ biogen;20
 biohacker;60
 biohackers;60
 biohacking;60
+biohazard;60
+biohazards;60
 bioink;50;Used to 3D print artificial tissue
 bioinks;50
 biol;30
@@ -5684,8 +5686,8 @@ bionicman;60
 bionicmen;60
 bionics;50
 bionicwoman;60
-bioparent;50
-bioparents;50
+bioparent;60
+bioparents;60
 biopolymer;50
 biopolymers;50
 biota;50
@@ -5884,6 +5886,8 @@ blastingcap;50
 blastingcaps;50
 blastit;60
 blastoise;50;Pokeyman
+blastshield;60
+blastshields;60
 blatherskite;60
 blatherskites;60
 blazonry;40
@@ -7642,6 +7646,7 @@ cambria;50;Coheed and Cambria
 cameas;40
 cameat;40
 cameatabadtime;50
+cameatacost;60
 camebackemptyhanded;50
 cameby;40
 cameclean;50
@@ -9584,6 +9589,8 @@ cleanlily;30;Weird adverb
 cleanliving;50
 cleanroom;50
 cleanrooms;50
+cleansheet;60
+cleansheets;50
 cleanshouse;60
 cleanslate;50
 cleanslates;50
@@ -10196,6 +10203,8 @@ comeandgetme;60
 comeas;40
 comeat;40;Attack, threaten
 comeatabadtime;50
+comeatacost;60
+comeatmebro;60
 comebackemptyhanded;50
 comebet;50
 comeby;40
@@ -10236,6 +10245,7 @@ comesafter;50
 comesas;40
 comesat;40
 comesatabadtime;50
+comesatacost;60
 comesbackemptyhanded;50
 comesby;40
 comesclean;50
@@ -10276,6 +10286,7 @@ comida;40
 comingas;40
 comingat;40
 comingatabadtime;50
+comingatacost;60
 comingbackemptyhanded;50
 comingby;40
 comingclean;50
@@ -15258,6 +15269,8 @@ egocentricities;40;Bad plural???
 egodeath;60
 egoiste;30;Chanel fragrance
 egomania;60
+egomaniac;60
+egomaniacs;60
 egon;40;Ghostbuster
 egonnude;1
 egot;40
@@ -15551,6 +15564,8 @@ emailer;40
 emailers;40
 emailme;50
 emailsignatures;50
+emailthread;60
+emailthreads;60
 emajor;40
 emanuelax;50;Classical pianist
 emb;20
@@ -25877,6 +25892,7 @@ itllturnup;60
 itmakesnosense;60
 itmakesyouthink;60
 itme;60;Slang
+itmeansalot;60
 itmeansalottome;60
 itn;20
 ito;40;Skater Midori Ito or Judge Lance Ito
@@ -45238,6 +45254,7 @@ scarifying;50
 scarifyingly;50
 scarlatina;30;Scarlet fever
 scarleta;40;Scarlet A
+scarne;30;Card expert John Scarne, "Scarne on Cards"
 scarpa;20;Shoe, in Italian
 scarpia;30;Villain of the Puccini opera "Tosca"
 scarygood;60
@@ -48204,6 +48221,7 @@ snl;50
 snlhost;50
 snlhosts;50
 sno;40
+snobappeal;60
 snocone;50
 snocones;50
 snood;40;Female headgear
@@ -51212,6 +51230,7 @@ swipesright;60
 swipingat;40
 swissbank;50
 swissbanks;50
+swisscheese;60
 swissmadewatch;50
 swissmadewatches;50
 swissmiss;60
@@ -52613,6 +52632,8 @@ thanksalot;60
 thanksamillion;60
 thanksaton;60
 thanksihateit;60
+thanksitmeansalot;60
+thanksitmeansalottome;60
 thanksto;40
 thanku;40
 thanom;20;Thai P.M.
@@ -53960,6 +53981,7 @@ timbernerslee;50
 timcapsules;1
 time;50
 timeandlabor;50
+timeandtide;60
 timeandtidewaitfornoman;60
 timeandtimeagain;60
 timebomb;60
