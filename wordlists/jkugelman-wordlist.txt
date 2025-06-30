@@ -6709,12 +6709,12 @@ brainrot;60
 brainscans;50
 brainwash;60
 brainwashed;60
-brainwasher;50
-brainwashers;50
+brainwasher;60
+brainwashers;60
 brainwashes;60
 brainwashing;60
-brainwave;50
-brainwaves;50
+brainwave;60
+brainwaves;60
 brakeman;40;Member of a train crew
 brakemen;40
 bramstoker;60
@@ -41528,6 +41528,8 @@ rapartists;50
 rapat;40
 rapbattle;60
 rapbattles;60
+rapbeef;60
+rapbeefs;60
 rapcd;40
 rapcds;40
 rapduo;50
@@ -41940,11 +41942,11 @@ reargue;40;As in court
 reargued;40
 reargues;40
 rearguing;40
-rearousal;20
-rearouse;20
-rearoused;20
-rearouses;20
-rearousing;20
+rearousal;40
+rearouse;40
+rearoused;40
+rearouses;40
+rearousing;40
 rearrest;40
 rearrested;40
 rearresting;40
@@ -44785,11 +44787,14 @@ sallys;30
 salmis;30
 salmons;40
 sals;30
-salsaband;50
-salsabands;50
-salsaclub;50
-salsaclubs;50
-salsadance;50
+salsaband;60
+salsabands;60
+salsabar;60
+salsabars;60
+salsaclub;60
+salsaclubs;60
+salsadance;60
+salsadanced;60
 salsadancer;60
 salsoda;40;Sal soda aka baking soda
 saltair;30
@@ -45070,7 +45075,7 @@ satinet;30
 satinfor;40
 satinjudgement;50
 satinjudgment;50
-satinon;40
+satinon;50
 satins;40;Bad plural
 satintraffic;50
 satire;50
@@ -45089,8 +45094,9 @@ satraps;20
 satrapy;20;Ancient Persian province
 satriani;50
 sats;40
-satscore;50
-satscores;50
+satscore;60
+satscores;60
+satshiva;60
 satsuma;40;Japanese mandarin
 satsumas;40
 sattest;40
@@ -45695,7 +45701,7 @@ seatedtwist;50
 seatedtwists;50
 seatoad;40
 seatoads;40
-seatrade;30
+seatrade;50
 seatrip;40;Sea trip (not seat rip)
 seatrips;40
 seattlekraken;50
@@ -47397,7 +47403,7 @@ sitin;40
 sitinfor;40
 sitinjudgement;50
 sitinjudgment;50
-sitinon;40
+sitinon;50
 sitintraffic;50
 sitit;20
 sitka;40
@@ -47407,13 +47413,14 @@ siton;40
 sitpoolside;50
 sitsat;40
 sitsby;40
+sitshiva;60
 sitsidle;50
 sitsidlyby;60
 sitsin;40
 sitsinfor;40
 sitsinjudgement;50
 sitsinjudgment;50
-sitsinon;40
+sitsinon;50
 sitsintraffic;50
 sitski;50
 sitskied;50
@@ -47422,6 +47429,7 @@ sitskis;50
 sitsnear;40
 sitson;40
 sitspoolside;50
+sitsshiva;60
 sitsupon;40
 sittee;30;???
 sittingat;40
@@ -47432,11 +47440,12 @@ sittingin;40
 sittinginfor;40
 sittinginjudgement;50
 sittinginjudgment;50
-sittinginon;40
+sittinginon;50
 sittingintraffic;50
 sittingnear;40
 sittingon;40
 sittingpoolside;50
+sittingshiva;60
 sittingupon;40
 situ;40
 situpon;40
