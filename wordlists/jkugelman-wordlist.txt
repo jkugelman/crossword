@@ -22720,6 +22720,7 @@ hernancortes;50
 hernancortez;50
 herocop;50
 herocops;50
+herodi;40
 heroicage;50
 heroical;30
 heroicsacrifice;60
@@ -42033,6 +42034,10 @@ rebills;30
 rebind;30
 rebinding;30
 rebinds;30
+reboil;30
+reboiled;30
+reboiling;30
+reboils;30
 rebop;20
 rebore;30
 rebored;30
@@ -42092,6 +42097,10 @@ recoat;20
 recoated;20
 recoating;20
 recoats;20
+recode;30
+recoded;30
+recodes;30
+recoding;30
 recoiledfrom;40
 recoiledindisgust;60
 recoiledinfear;60
@@ -42814,6 +42823,10 @@ repost;50
 reposted;50
 reposting;50
 reposts;50
+repour;40
+repoured;40
+repouring;40
+repours;40
 repressor;30
 reprice;30
 reprover;40
@@ -43046,8 +43059,11 @@ retailsat;40
 retailslut;60;Famous 80s/90s punk/goth/underground clothing store in L.A.
 retainer;50
 retainers;50
+retake;50
 retaker;40
 retakers;40
+retakes;50
+retaking;40
 retame;20
 retamed;20
 retames;20
@@ -43143,6 +43159,7 @@ retireto;40
 retiringto;40
 retoast;30
 retold;50
+retook;50
 retore;40
 retoss;30
 retossed;30
@@ -47931,17 +47948,18 @@ sloughy;40
 slowandsteady;60
 slowandsteadywinstherace;60
 slowasmolasses;60
-slowburns;50
-slowcooker;50
-slowcookers;50
-slowdance;50
-slowdanced;50
-slowdances;50
-slowdancing;50
+slowburn;60
+slowburns;60
+slowcooker;60
+slowcookers;60
+slowdance;60
+slowdanced;60
+slowdances;60
+slowdancing;60
 slowfashion;60
 slowfood;60
-slowgrind;50
-slowgrinds;50
+slowgrind;60
+slowgrinds;60
 slowloris;50;Cute nocturnal mammal
 slowlorises;50
 slowmo;50
