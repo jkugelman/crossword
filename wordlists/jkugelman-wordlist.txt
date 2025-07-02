@@ -5130,6 +5130,9 @@ beerbrewers;50
 beerbrewing;50
 beerbust;50
 beerbusts;50
+beercan;60
+beercanchicken;60
+beercans;60
 beerchaser;50
 beerchasers;50
 beercocktail;50
@@ -8501,6 +8504,7 @@ caw;50
 caxirola;40;Brazilian percussion instrument
 caxirolas;40
 cay;50
+cayuse;40;Oregon tribe
 cb;40
 cba;20
 cbc;20
@@ -13594,9 +13598,10 @@ dogdom;40
 dogdoor;50
 dogdoors;50
 doge;30
-dogear;50
-dogeared;50
-dogears;50
+dogear;60
+dogeared;60
+dogearing;60
+dogears;60
 dogeatdog;60
 doges;30
 dogfight;50
@@ -27302,6 +27307,8 @@ kirkhammett;50
 kirov;30;Russian ballet company, now Mariinsky Ballet
 kirroyal;50
 kirs;30
+kirsch;40;Cherry brandy
+kirsches;40
 kirstendunst;50
 kirtle;20;Medieval garment
 kirtles;20
@@ -30890,6 +30897,7 @@ maniple;20
 mank;50;David Fincher movie
 manless;30
 manlily;30;Weird adverb
+mann;40;Singer Aimee Mann, director Michael Mann
 mannas;20
 mannerist;40
 mannerists;40
@@ -34639,6 +34647,8 @@ norbert;40;Unknown cluing angle, only used once in NYT
 norbit;40;Eddit Murphy movie
 nord;30;North: Fr. (not Nordic)
 nordicnoir;60
+nordique;40
+nordiques;40;Quebec Nordiques, NHL team that becoame the Colorado Avalanche in 1995
 nordisk;40;Novo Nordisk, maker of Ozempic
 noreally;60
 noreason;60
@@ -40053,6 +40063,7 @@ prater;30
 praters;30
 pratfall;60
 pratfalls;60
+pratique;40;Clearance given an incoming ship by the health authority of a port
 prau;20
 praydo;50
 prayedto;40
