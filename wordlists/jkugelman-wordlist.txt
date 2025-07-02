@@ -148,7 +148,7 @@ abeyant;30
 abfab;40
 abhorrer;40
 abhorrers;40
-abider;50
+abider;40
 abiders;40
 abie;20
 abientot;40;French "see you soon"
@@ -2010,7 +2010,7 @@ amphora;40;Greek/Roman jar
 amphorae;30
 amphoras;40
 ampicillin;30
-ampm;40
+ampm;50
 amputator;40
 amputators;40
 amrita;20;Hindu beverage
@@ -15337,7 +15337,7 @@ eighteens;30
 eightieth;50
 eightiron;50
 eightirons;50
-eightpm;40
+eightpm;50
 eightsome;20
 eik;20;Eat in kitchen, in ads
 ein;40
@@ -15458,7 +15458,7 @@ eleve;20;Student: Fr.
 elevenam;40
 elevenfiftynine;1
 elevenplus;40;Exam in the UK
-elevenpm;40
+elevenpm;50
 elevenses;40;???
 elevensides;30;Green paint
 eleventy;30
@@ -18023,7 +18023,7 @@ fiveiron;50
 fiveirons;50
 fivek;20
 fiveks;20
-fivepm;40
+fivepm;50
 fivetimechamp;20
 fivews;50
 fix;50
@@ -18676,7 +18676,7 @@ fourhleaders;20
 fourhundred;40
 fouriron;50
 fourirons;50
-fourpm;40
+fourpm;50
 fourthrees;20
 fouryearcollege;50
 fovea;50
@@ -32944,8 +32944,11 @@ mountainstate;50
 mountainstates;50
 mounterebus;50
 mounthoodoregon;50
-mountrushmore;50
-mountrushmorestate;50
+mountpleasant;60
+mountrainier;60
+mountrainiernationalpark;60
+mountrushmore;60
+mountrushmorestate;60
 mountweazel;60;Plagiarism trap
 mountweazels;60;Plagiarism traps
 mourinho;30;Soccer manager, one of the greatest of all time
@@ -34255,7 +34258,7 @@ nineirons;50
 ninemile;30;Nine Mile Canyon in Utah
 nineof;20
 ninepence;30
-ninepm;40
+ninepm;50
 niner;40
 niners;40
 nines;40
@@ -36121,7 +36124,7 @@ oneper;30
 onepiecer;30
 onepin;40
 oneplusone;30
-onepm;40
+onepm;50
 onepotato;50
 onepound;30
 onepunch;20
@@ -44535,6 +44538,7 @@ rushingheadlonginto;50
 rushinginto;40
 rushingto;40
 rushinto;40
+rushmore;60
 rushorder;60
 rushorders;60
 rushto;40
@@ -46404,8 +46408,8 @@ sevencs;1
 seveniron;50
 sevenirons;50
 sevenofdiamonds;20
-sevenout;50
-sevenpm;40
+sevenout;60
+sevenpm;50
 sevenseas;60
 seventeens;20;???
 seventeenths;40
@@ -47518,7 +47522,7 @@ sixofone;50;...Half a dozen of another
 sixpack;60
 sixpackabs;60
 sixpast;30
-sixpm;40
+sixpm;50
 sixteen;50
 sixteens;40
 sixteenthnote;50
@@ -52510,7 +52514,7 @@ tenorsaxsolo;50
 tenorsaxsolos;50
 tenoutoften;60
 tenpast;20
-tenpm;40
+tenpm;50
 tenpounder;30;???
 tenrec;30;Madagascar animal
 tenrecs;30;Madagascar animals
@@ -53792,7 +53796,7 @@ threepin;40
 threeping;30
 threepio;40
 threeply;50;Three ply
-threepm;40
+threepm;50
 threeps;30
 threer;30
 threers;50
@@ -55809,7 +55813,7 @@ twelvemo;40;Size of a piece of paper cut 12 from a sheet
 twelvemonkeys;60
 twelvemos;40
 twelveplusone;1
-twelvepm;40
+twelvepm;50
 twerent;50
 twi;20
 twigtea;50
@@ -55875,7 +55879,7 @@ twopartysystems;50
 twopast;30
 twopence;30
 twopenny;40;In the dictionary
-twopm;40
+twopm;50
 twopointo;30
 tworoom;40
 tworow;20;Green paint
@@ -56231,7 +56235,6 @@ uneasiest;30
 uneatable;40
 uneeda;30;Biscuit brand
 unended;40;Unfinished
-unequals;40;Weird plural
 unerect;40
 unes;40
 unessential;40
