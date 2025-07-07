@@ -4931,6 +4931,7 @@ beanballs;50
 beanbunny;50;Muppet
 beane;40;"Moneyball"'s Billy Beane
 beaneater;5
+beaneaters;5
 beansprout;50
 beansprouts;50
 beanstalk;60
@@ -34072,6 +34073,10 @@ newrelease;50
 newreleases;50
 newsalert;50
 newsalerts;50
+newscrawl;60
+newscrawls;60
+newscycle;60
+newscycles;60
 newseum;50
 newsflashbuddy;60
 newshelicopter;50
@@ -34085,7 +34090,13 @@ newspaperad;50
 newspaperads;50
 newspoll;50
 newspolls;50
-newsted;50
+newsstand;60
+newsstands;60
+newsstation;60
+newsstations;60
+newsteam;60
+newsteams;60
+newsted;40
 newstome;40
 newsy;30
 newto;40
@@ -37798,7 +37809,9 @@ pastedin;40
 pastedon;40
 pastein;40
 pasteon;40
+paster;40
 pastern;30;Part of a horse's foot
+pasters;40
 pastesin;40
 pasteson;40
 pastevents;20
