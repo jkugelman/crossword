@@ -8800,6 +8800,8 @@ chamberlain;60
 chamorro;30;Indigenous people of the Mariana Islands
 champagnebottle;50
 champagnetoasts;30
+championshipbelt;60
+championshipbelts;60
 chana;40;Chana masala (chickpea curry)
 chancedon;40
 chanceon;40
@@ -53260,6 +53262,7 @@ thelakers;50
 thelastjedi;60
 thelastunicorn;50
 thelasvegasstrip;40
+thelatest;60
 thelaw;40
 thelead;20
 theleft;30
@@ -53873,9 +53876,10 @@ threeletterword;20
 threeon;40
 threeonamatch;30
 threep;30;Obstinate decision: Br.
-threepeat;50
-threepeated;50
-threepeats;50
+threepeat;60
+threepeated;60
+threepeating;60
+threepeats;60
 threeped;30
 threepiece;50
 threepin;40
@@ -54336,14 +54340,20 @@ titivate;40;Smarten up, as one's appearance
 titivated;40
 titivates;40
 titivating;40
-titlebout;50
-titlebouts;50
-titlegame;50
-titlegames;50
-titleshot;50
-titleshots;50
-titletrack;50
-titletracks;50
+titlebelt;60
+titlebelts;60
+titlebout;60
+titlebouts;60
+titlecard;60
+titlecards;60
+titlecharacter;60
+titlecharacters;60
+titlegame;60
+titlegames;60
+titleshot;60
+titleshots;60
+titletrack;60
+titletracks;60
 titrant;40
 titrants;40
 titrate;40
@@ -54584,6 +54594,8 @@ tomwopat;30
 ton;50
 toneme;30
 tonemes;30
+tonepoem;60
+tonepoems;60
 tonette;30
 tonguedepressor;50
 tonguedepressors;50
@@ -58401,6 +58413,7 @@ whatsthat;60
 whatsthatsupposedtomean;60
 whatsthegameplan;60
 whatsthegoodword;60
+whatsthelatest;60
 whatsthemagicword;60
 whatsthemove;60;"So our plan is...?"
 whatstheplan;60
