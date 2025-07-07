@@ -4669,6 +4669,8 @@ bastardize;50
 bastardized;50
 bastardizes;50
 bastardizing;50
+bastardrhyme;60
+bastardrhymes;60
 bastille;50
 bastilleday;50
 bastilles;20
@@ -16754,6 +16756,8 @@ exactoknives;50
 exactor;30
 exactrevengeon;50
 exactrevengeupon;50
+exactrhyme;50
+exactrhymes;50
 exactsrevengeon;50
 exactsrevengeupon;50
 exallies;30
@@ -21825,6 +21829,8 @@ halfpint;50
 halfpints;50
 halfpound;40
 halfquart;30
+halfrhyme;50
+halfrhymes;50
 halfsies;60
 halfslip;50
 halfslips;50
@@ -24172,6 +24178,7 @@ ided;50
 idee;40
 idem;40;Ditto, in footnotes
 idemandarematch;60
+identicals;40;Identical rhymes
 identicaltwin;60
 identicaltwins;60
 identified;50
@@ -24751,6 +24758,8 @@ impenitent;30
 impenitently;30
 imperator;20;Roman commander
 imperators;20;Roman commanders
+imperfectrhyme;50
+imperfectrhymes;50
 impetigo;40;Skin disease
 impetigos;20;Weird plural
 impingedon;40
@@ -25385,6 +25394,8 @@ intermittentfasting;60
 intermitting;30
 internalorgan;50
 internalorgans;50
+internalrhyme;60
+internalrhymes;60
 internationalclownhalloffame;60
 internationalmanofmystery;60
 internee;40
@@ -28313,6 +28324,8 @@ lazar;20;Leper
 lazars;20
 lazuli;40
 lazybones;60
+lazyrhyme;60
+lazyrhymes;60
 lazyriver;60
 lazyrivers;60
 lazyslob;50
@@ -32071,6 +32084,8 @@ midden;20;Domestic waste dump
 middens;20;Domestic waste dumps
 middleearth;60
 middlefinger;60
+middlerhyme;60
+middlerhymes;60
 middleseat;50
 middleseats;50
 midear;30
@@ -33773,6 +33788,8 @@ nearlyweds;60
 nearmiss;50
 nearmisses;50
 nearness;40
+nearrhyme;60
+nearrhymes;60
 nearto;40
 neatfreak;60
 neatfreaks;60
@@ -38360,6 +38377,8 @@ perfectfifths;50
 perfectfourth;50
 perfectgpa;50
 perfectmarriage;50
+perfectrhyme;50
+perfectrhymes;50
 perfectsquare;50
 perfectsquares;50
 perforatedlines;50
@@ -47830,6 +47849,7 @@ slangterm;50
 slanguage;40;Slangy speech
 slantier;30
 slantiest;30
+slantrhyme;60
 slanty;30
 slapat;40
 slapbass;60
