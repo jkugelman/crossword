@@ -12840,7 +12840,7 @@ deucesets;20
 deuteron;40;Nucleus of deuterium
 deuterons;40
 deux;30
-dev;50
+dev;40;Developer, or Dev Patel
 devarona;40;???
 developer;50
 developers;50
@@ -17330,6 +17330,7 @@ fastenseatbelts;20
 fastensonto;40
 fastenyourseatbeltitsgoingtobeabumpyride;60
 fastenyourseatbeltitsgonnabeabumpyride;60
+fasterthangreasedlightning;60
 fastfive;50
 fastlearner;50
 fastlearners;50
@@ -21214,6 +21215,8 @@ graysquirrels;50
 graziano;40
 grazioso;40
 gre;40
+greasedlightnin;60;How the "Grease" song is spelled
+greasedlightning;60
 greasedonespalms;50;Not sure if plural is right???
 greasedsomeonespalm;50
 greasedthepalm;50
@@ -29160,6 +29163,7 @@ likecommentandsubscribe;60
 likedrinkingfromafirehose;60
 likedto;40
 likegangbusters;60
+likegreasedlightning;60
 likehotcakes;60
 likeisaid;60
 likeitmatters;60
