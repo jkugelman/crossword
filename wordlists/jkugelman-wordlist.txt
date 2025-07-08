@@ -33521,6 +33521,8 @@ nailingup;40
 nailit;50
 nailon;40
 nails;50
+nailsalon;60
+nailsalons;60
 nailsin;40
 nailsit;50
 nailson;40
@@ -34192,7 +34194,10 @@ nfcsouth;40
 nfcteam;40
 nfcwest;40
 nfl;50
-nfldraft;50
+nflcombine;60
+nflcombines;60
+nfldraft;60
+nfldrafts;60
 nfler;30
 nflers;30
 nflfan;40
@@ -34202,18 +34207,18 @@ nflhalloffamers;50
 nflmvp;40
 nflqb;30
 nflqbs;30
-nflref;40
-nflreferee;40
-nflreferees;40
-nflrefs;40
-nflstar;30
-nflstars;30
+nflref;50
+nflreferee;60
+nflreferees;60
+nflrefs;50
+nflstar;40
+nflstars;40
 nflump;20
 nflumpire;20
 nflumpires;20
 nflumps;20
-nfluniform;30
-nfluniforms;30
+nfluniform;50
+nfluniforms;50
 nft;40
 ngaio;40;Mystery writer Ngaio Marsh, one of the "Queens of Crime" along with Agatha Christie [common]
 ngerulmud;30;Capital of Palau
@@ -34391,6 +34396,7 @@ ninetyone;20
 ninetysix;20
 ninetytwo;20
 nineveh;30;Ancient cultural center
+nineyards;40
 ningbo;30;Historic Chinese city, population 8 million
 ninja;60
 ninjas;60
@@ -36587,6 +36593,7 @@ operculated;30
 operculum;30
 operon;20
 operons;20
+ophidia;40;Snake order, or Gucci handbag collection
 ophidian;20
 ophidians;20
 ophira;40;???
@@ -49057,6 +49064,8 @@ sowhatsthestory;60
 sowhatsthewordonthestreet;60
 sox;50
 soy;50
+soydog;60
+soydogs;60
 soyeah;60
 soyegg;60
 soyeggs;60
@@ -49526,6 +49535,16 @@ spurge;20
 spy;50
 spyagencies;60
 spyagency;60
+spyballoon;60
+spyballoons;60
+spyboat;60
+spyboats;60
+spybot;60
+spybots;60
+spycam;60
+spycamera;60
+spycameras;60
+spycams;60
 spycar;30;Green paint
 spyfiction;60
 spyfilm;50
@@ -55028,6 +55047,8 @@ toy;50
 toyama;30;Random Japanese city
 toychest;50
 toychests;50
+toydog;60
+toydogs;60
 toydrive;60
 toydrives;60
 toyer;30
