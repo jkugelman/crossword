@@ -2025,7 +2025,8 @@ amso;40;Playground retort
 amstation;50
 amstations;50
 amsterdamairportschiphol;50
-amstereo;40
+amstereo;30;AM radio is mono
+amstereos;30
 amt;40
 amtoo;40;Playground retort
 amts;40
