@@ -8915,6 +8915,10 @@ chatshows;30
 chatterley;50
 chaudhry;30;Last name???
 chautauqua;60
+chaw;40;Chew of tobacco
+chawed;40
+chawing;40
+chaws;40
 chaz;40;Chaz Bono
 che;40
 cheapdate;60
@@ -23498,6 +23502,9 @@ hoppingmad;60
 hoppingon;40
 hoppingonto;40
 hopsacab;40
+hopsack;40;Fabric
+hopsacking;40;Fabric
+hopsacks;40
 hopsin;40
 hopsinto;40
 hopson;40
@@ -31511,6 +31518,7 @@ mcelhenney;50
 mcescher;50
 mcewan;40;Ian McEwan, author of "Atonement"
 mcg;30;Director [rare]
+mcgees;30;Plural name, old radio program "Fibber McGee and Molly"
 mci;40
 mcii;20
 mcing;40
@@ -33522,14 +33530,14 @@ naipaul;40;Trinidadian writer V.S. Naipaul (Nobel Prize in 2001)
 nair;40;Hair removal brand
 naiver;30
 nakedape;50;Book
-nakedcall;50
-nakedcalls;50
+nakedcall;60
+nakedcalls;60
 nakeder;30
 nakedest;30
 nakedflame;50
 nakedflames;50
 nakedgun;60
-nakedmaja;50
+nakedmaja;60;Goya painting
 nakedput;50
 nakedputs;50
 nal;20
@@ -34621,6 +34629,7 @@ noltes;20
 noluck;50
 nom;40
 nomaam;50
+nomadland;60;2021 Best Picture
 nomans;30
 nomatter;60
 nomeat;40
@@ -35100,6 +35109,7 @@ nucleolar;40;???
 nucleus;50
 nuclide;30
 nucor;20;Steel company
+nudemaja;60;Goya painting
 nudemice;60;Hairless laboratory mice
 nudemodel;60
 nudemodeling;60
@@ -53394,6 +53404,7 @@ themuses;50
 themushroomkingdom;50
 then;50
 thenakedgun;60
+thenakedmaja;60;Goya painting
 thenamesbondjamesbond;60
 thenandthere;50
 thenasdaq;40
@@ -53416,7 +53427,7 @@ thenorth;40
 thenow;30
 thenra;20
 thensa;20
-thenudemaja;40
+thenudemaja;60;Goya painting
 theoatmeal;50
 theodicy;30
 theodora;40;???
