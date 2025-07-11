@@ -1658,6 +1658,7 @@ allywith;40
 alma;40
 almaata;20
 almaden;30
+almagest;40;Ptolemy mathematical and astronomical treatise
 almamaters;30
 almandine;40
 almolinari;1
@@ -8822,6 +8823,7 @@ chancres;5
 chancroid;5;STD
 chancroids;5
 chandlerarizona;30
+changedto;40
 changeofperspective;50
 changeofstate;50
 changer;40
@@ -8829,6 +8831,9 @@ changers;40
 changesare;1
 changesofperspective;50
 changesofstate;50
+changesto;40
+changeto;40
+changingto;40
 chanson;30;French song style
 chansons;30
 chanteuse;50
@@ -9425,10 +9430,13 @@ chuted;30
 chyna;30
 ci;40
 cia;50
-ciaagent;50
-ciaagents;50
+ciaagent;60
+ciaagents;60
+ciaasset;60
+ciaassets;60
 ciachief;40
 ciachiefs;40
+ciahq;50
 ciaos;40
 ciara;40;One-named R&B singer
 ciareport;50
@@ -13129,6 +13137,7 @@ dilatory;40
 dili;30;Capital of East Timor
 dilla;30;Hip hop producer J Dilla, NYT debut
 diller;40;Comedian Phyllis Diller, or killer diller
+dillingers;20;Plural name
 dillspear;50
 dillspears;50
 diluent;30;Substance used to dilute
@@ -16883,6 +16892,10 @@ exotica;60
 exotoxin;50
 exotoxins;50
 exp;20
+expandedon;40
+expandingon;40
+expandon;40
+expandson;40
 exparrot;60
 expatiate;40
 expatiated;40
@@ -21122,6 +21135,7 @@ grahame;40;Kenneth Grahame, author of "The Wind in the Willows", or Gloria Graha
 gramma;20
 grammy;50
 grampus;30;Risso's dolphin
+granadilla;40;Type of passion fruit
 granados;40;Classical composer Enrique Granados
 grandad;40;Legit per ngram
 grandads;40
@@ -21318,6 +21332,7 @@ gregorianchant;50
 gregorianchants;50
 gregormendel;50
 greisen;30;???
+grenadilla;40;African blackwood
 greninja;50;Pokeyman
 greprepbook;50
 gres;40
@@ -31625,6 +31640,7 @@ mealticket;60
 meandmybigmouth;60
 meandrunk;5
 meandrunks;5
+meangirls;60
 meaningto;40
 meaningwhat;60
 meanmug;60
@@ -32780,8 +32796,8 @@ monocotyledons;20
 monodrama;40;One-person play
 monody;30;Ode sung by one voice
 monogamish;60
-monoglot;50
-monoglots;50
+monoglot;60
+monoglots;60
 monokini;60
 monokinis;60
 monolog;20
