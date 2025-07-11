@@ -44134,14 +44134,14 @@ roma;50
 romain;20;First name, don't know if anyone notable
 romaine;50
 romainelettuce;50
-romainelettuces;50
+romainelettuces;30
 romanarmy;50
-romanbath;50
-romanbaths;50
+romanbath;60
+romanbaths;60
 romancatapult;50
 romancatapults;50
-romancelanguage;50
-romancelanguages;50
+romancelanguage;60
+romancelanguages;60
 romancenturion;50
 romancenturions;50
 romancer;40
@@ -44160,10 +44160,12 @@ romanlegion;50
 romanlegions;50
 romanmile;50
 romanmiles;50
-romannumeral;50
+romannumeral;60
 romannumeralone;20
-romannumerals;50
-romanruins;50
+romannumerals;60
+romanruins;60
+romanstatue;60
+romanstatues;60
 romantasy;60
 romanticdinner;60
 romanticdinnerfortwo;60
