@@ -2944,7 +2944,8 @@ arlenes;30
 arles;40;French city
 arm;50
 armandassante;50
-armanisuit;50
+armanisuit;60
+armanisuits;60
 armbar;50
 arme;20
 armer;30
@@ -2957,19 +2958,19 @@ armlike;30
 armloads;50
 armorclad;50
 armorclass;50
-armoredcar;50
-armoredcars;50
+armoredcar;60
+armoredcars;60
 armoreddivision;50
 armoreddoor;50
 armoreddoors;50
 armoredregiment;50
 armoredregiments;50
-armoredtransport;50
-armoredtransports;50
+armoredtransport;60
+armoredtransports;60
 armoredunit;50
 armoredunits;50
-armoredvehicle;50
-armoredvehicles;50
+armoredvehicle;60
+armoredvehicles;60
 armorplates;50
 armoryshow;50
 armour;40
