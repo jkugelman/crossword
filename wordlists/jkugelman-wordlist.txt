@@ -2993,6 +2993,8 @@ armybases;50
 armyblanket;50
 armyblankets;50
 armybootcamp;50
+armybrat;60
+armybrats;60
 armycaptain;50
 armycaptains;50
 armycreole;50
@@ -24547,6 +24549,7 @@ illgetyoumypretty;60
 illgetyoumyprettyandyourlittledogtoo;60
 illgiveyouoneguess;60
 illgiveyouthat;60
+illgotten;60
 illgottengain;60
 illgottengains;60
 illini;30;Illinois Fighting Illini, U. of Illinois team
@@ -35906,8 +35909,8 @@ oldmancactus;60
 oldmancactuses;60
 oldmanyellsatcloud;60
 oldmap;30
-oldmaster;50
-oldmasters;50
+oldmaster;60
+oldmasters;60
 oldmike;30;Salesman whose body was publicly displayed in Arkansas for 60 years
 oldmoney;60
 oldone;40;Lovecraftian entity
@@ -35928,6 +35931,7 @@ oldsong;20
 oldsongs;20
 oldstager;30;Old hand
 oldstagers;30;Old hands
+oldstnick;60
 oldtimer;50
 oldtimers;50
 oldtimes;50
@@ -37352,6 +37356,8 @@ oyez;50
 oyl;40
 oyls;30;Olive and Castor
 oys;40
+oysterbar;60
+oysterbars;60
 oystercrab;50
 oystercrabs;50
 oystermushrooms;50
