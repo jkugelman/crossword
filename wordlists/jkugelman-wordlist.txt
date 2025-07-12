@@ -17435,8 +17435,8 @@ fawns;50
 fax;50
 fay;40;Elfin, or Fay Wray
 fbi;50
-fbiagent;50
-fbiagents;50
+fbiagent;60
+fbiagents;60
 fbireport;50
 fbireports;50
 fbispies;30
@@ -18249,6 +18249,9 @@ flightdelays;50
 flightrecorder;50
 flightrecorders;50
 flinders;30;Polly Flinders, popular children's clothing in the 50s-70s, or nusery rhyme "Little Polly Flinders"
+flingat;40
+flingingat;40
+flingsat;40
 flintlock;50
 flintlocks;50
 flintmi;30
@@ -18374,6 +18377,7 @@ fluidmotions;50
 flumeride;50
 flumerides;50
 flummadiddle;60;Old New England recipe w/baked bread, pork fat, and molasses
+flungat;40
 flunkedout;50
 flunkingout;50
 flunkout;50
@@ -56487,6 +56491,8 @@ underbites;50
 underboob;60
 undercard;50
 undercards;50
+undercoverfbiagent;60
+undercoverfbiagents;60
 underdog;50
 underdogs;50
 underglass;50
