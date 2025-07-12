@@ -10598,6 +10598,8 @@ contemned;20;Treated with contempt
 contemns;20;Treats with contempt
 contentcreator;60
 contentcreators;60
+contentfarm;60
+contentfarms;60
 contes;20
 continentalarmy;50
 contingencyplan;50
@@ -28648,10 +28650,12 @@ leavemeoutofthis;60
 leavenedbread;50
 leavenow;50
 leaveon;40
+leaveonread;60
 leaver;30
 leavers;30
 leavesin;40
 leaveson;40
+leavesonread;60
 leavesto;40
 leavethistome;60;"I'll take care of the problem"
 leaveto;40
@@ -28660,6 +28664,7 @@ leavewhileyoustillcan;60
 leaveyouregoatthedoor;60
 leavingin;40
 leavingon;40
+leavingonread;60
 leavingto;40
 leb;20
 lebeau;40;NFL HOF coach Dick LeBeau
@@ -28728,6 +28733,7 @@ leftjustified;50
 leftjustify;50
 leftlanes;30
 lefton;40
+leftonread;60
 leftover;50
 leftovers;50
 leftto;40
@@ -32869,6 +32875,8 @@ mondatta;30;Police album "Zenyatta Mondatta"???
 mondavi;40;???
 mondaymorningqb;30
 monde;40
+mondegreen;60
+mondegreens;60
 monedavis;50
 moneta;30;Juno Moneta, epithet of Juno, Roman goddess, origin of "money"
 money;50
@@ -34173,6 +34181,7 @@ ness;40
 nessen;20;Ford's press secretary
 nesses;20
 nessies;20;Bad plural
+nessman;30;"WKRP in Cincinatti" character Les Nessman
 nessus;40;Centaur killed by Heracles
 nest;50
 nestedin;40
@@ -37666,6 +37675,7 @@ palma;40;Director Brian de Palma
 palmate;30;Like a palm leaf
 palmated;30
 palmature;30
+palme;40;Palme d'Or
 palmedoff;50
 palmets;30
 palmettostate;50
@@ -44771,6 +44781,8 @@ runningforit;50
 runninggameon;60
 runningitby;40
 runningloose;50
+runningmate;50
+runningmates;50
 runningon;40
 runningonempty;60
 runningonesmouth;60
@@ -51934,6 +51946,7 @@ takeacut;50
 takeadisliketo;50
 takeadive;50
 takeafter;50
+takeagander;60
 takeagoodlook;60
 takeahardpass;50
 takeaheader;50
