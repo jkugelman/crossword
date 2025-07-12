@@ -7431,6 +7431,7 @@ bydefault;50
 bye;50
 byers;40;"Stranger Things" family name
 bygoneera;50
+byington;40;Vanderbilt basketball coach Mark Byington
 byliner;40;Reporter important enough to earn a byline
 byliners;40
 bynight;20
@@ -14889,6 +14890,8 @@ eartrumpets;50
 earvinjohnson;50
 earwarmer;50
 earwarmers;50
+earworm;60
+earworms;60
 eas;20
 easeby;40
 easedby;40
@@ -33982,6 +33985,10 @@ neg;40
 negative;50
 negatived;40
 negativing;40
+negawatt;60;Unit of energy *saved* due to conservation
+negawatthour;60;Unit of energy *saved* due to conservation
+negawatthours;60
+negawatts;60
 negeb;20;Region of Israel: Var.
 negev;20
 negga;30;Actress Ruth Negga
@@ -54068,7 +54075,7 @@ threepin;40
 threeping;30
 threepio;40
 threeply;50;Three ply
-threepm;50
+threepm;40
 threeps;30
 threer;30
 threers;50
