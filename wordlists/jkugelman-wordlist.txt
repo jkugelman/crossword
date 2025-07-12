@@ -6001,8 +6001,12 @@ blockedoff;50
 blockedout;50
 blockedshot;50
 blockedshots;50
+blockingbelowthewaist;60;Football penalty
 blockingoff;50
 blockingout;50
+blockintheback;60;Football penalty
+blockinthebackpenalties;60
+blockinthebackpenalty;60
 blockoff;50
 blockout;50
 blocksoff;50
@@ -9324,6 +9328,9 @@ chooseme;40
 choosesup;30
 chooseup;30
 choosingup;30
+chopblock;60;Football penalty
+chopblockpenalties;60
+chopblockpenalty;60
 chopchop;60
 chopdown;50
 chophouse;50
@@ -12572,6 +12579,9 @@ delanoroosevelt;1
 delawareriver;50
 delayedreaction;50
 delayedreactions;50
+delayofgame;60;Football penalty
+delayofgamepenalties;60
+delayofgamepenalty;60
 delbertgrady;50;"The Shining" bartender
 delco;40;Battery brand (different from AC Delco???)
 dele;40
@@ -15539,6 +15549,8 @@ elia;40;Elia Kazan
 elicitor;30
 elie;40;Elie Wiesel
 elieli;20;Hebrew song
+eligiblereceiver;60
+eligiblereceivers;60
 elihu;20;Critic of Job
 elihuroot;40;Statesman under McKinley and Teddy Roosevelt
 elim;40
@@ -17061,6 +17073,9 @@ facedup;40
 facedupto;40
 faceid;50
 faceit;60
+facemask;60;Football penalty
+facemaskpenalties;60
+facemaskpenalty;60
 facemelting;60
 facemeltingguitarsolo;60
 facemeltingsolo;60
@@ -22707,6 +22722,10 @@ hellweek;60
 helly;40;"Severance" main character
 hellyeah;60
 hellzapoppin;50;1941 movie
+helmettohelmet;60;Penalized football collision
+helmettohelmetcollision;60;Football penalty
+helmettohelmetcollisionpenalties;60
+helmettohelmetcollisionpenalty;60
 helmsdeep;50
 helmut;40
 helo;20
@@ -22720,6 +22739,9 @@ helpabrotherout;60
 helpedin;40
 helpin;40
 helpingin;40
+helpingtherunner;60;Football penalty
+helpingtherunnerpenalties;60
+helpingtherunnerpenalty;60
 helpline;50
 helplines;50
 helpmenu;50
@@ -23606,6 +23628,10 @@ horrowshows;60
 hors;40
 horse;50
 horsebackriding;50
+horsecollar;60;Bad tackle
+horsecollartackle;60;Football penalty
+horsecollartacklepenalties;60
+horsecollartacklepenalty;60
 horsedom;40
 horsefeathers;60
 horseheads;40;New York town
@@ -24565,8 +24591,23 @@ illbethere;60
 illbite;60
 illeatyoualive;60
 illeatyouforbreakfast;60
+illegalforwardkick;60;Football penalty
+illegalforwardkickpenalties;60
+illegalforwardkickpenalty;60
+illegalhandstotheface;60;Football penalty
+illegalhandstothefacepenalties;60
+illegalhandstothefacepenalty;60
+illegalmotion;60;Football penalty
+illegalmotionpenalties;60
+illegalmotionpenalty;60
 illegals;5
+illegalshift;60;Football penalty
+illegalshiftpenalties;60
+illegalshiftpenalty;60
 illegalslidetackle;50
+illegaluseofhands;60;Football penalty
+illegaluseofhandspenalties;60
+illegaluseofhandspenalty;60
 illgetby;60
 illgeterdone;50
 illgetit;60
@@ -25187,6 +25228,9 @@ ineedtogo;60
 ineedtowarnyou;60
 ineffable;50
 ineffective;50
+ineligiblereceiver;60
+ineligiblereceiverdownfield;60;Football penalty
+ineligiblereceivers;60
 inenglishplease;60;"Can you explain that without the big words"
 inertgas;50
 inerts;20
@@ -25476,6 +25520,9 @@ intendingto;40
 intendsto;40
 intendto;40
 intens;30
+intentionalgrounding;60;Football penalty
+intentionalgroundingpenalties;60
+intentionalgroundingpenalty;60
 intercalation;30
 interchanged;30
 interestpayment;50
@@ -34182,6 +34229,8 @@ neutralcorners;50
 neutralevil;60;D&D alignment
 neutralgood;60;D&D alignment
 neutralground;50
+neutralzoneinfraction;60;Football penalty
+neutralzoneinfractions;60
 neutrino;50
 neutrinos;50
 neutrois;40;Null gender identity
@@ -37978,6 +38027,9 @@ passingon;40
 passings;40;Weird plural
 passingthebaton;50
 passingto;40
+passinterference;60;Football penalty
+passinterferencepenalties;60
+passinterferencepenalty;60
 passline;50
 passlinebet;50
 passmuster;50
@@ -44477,6 +44529,12 @@ roughcut;50
 roughcuts;50
 roughdraft;50
 roughdrafts;50
+roughingthepasser;60;Football penalty
+roughingthepasserpenalties;60
+roughingthepasserpenalty;60
+roughingthesnapper;60;Football penalty
+roughingthesnapperpenalties;60
+roughingthesnapperpenalty;60
 roughit;60
 roughoutline;50
 roughoutlines;50
@@ -56744,8 +56802,10 @@ unspool;50
 unspooled;50
 unspooling;50
 unspools;50
-unsportsmanlike;50
-unsportsmanlikeconduct;50
+unsportsmanlike;60
+unsportsmanlikeconduct;60;Football penalty
+unsportsmanlikeconductpenalties;60
+unsportsmanlikeconductpenalty;60
 unstagy;30
 unstow;40
 unstowed;40
