@@ -2832,9 +2832,9 @@ arenose;20;Gritty
 arenot;40;Playground retort
 arent;50
 arenti;50
-areola;40;Nipple ring
-areolae;40;Equally popular as areolas
-areolas;40
+areola;50;Nipple ring
+areolae;50;Equally popular as areolas
+areolas;50
 areoles;30
 arepa;40;Colombian corncake
 arepas;40
@@ -5310,6 +5310,7 @@ benedictxvi;30;???
 benefitspackage;50
 benelux;40;E.U. precursor: Belgium + Netherlands + Luxembourg
 benes;40;Elaine Benes on "Seinfeld"
+benet;40
 bengaltiger;50
 bengaltigers;50
 benice;60
@@ -6658,6 +6659,7 @@ boxesofpopcorn;50
 boxesofwine;50
 boxholder;50
 boxholders;50
+boxingsite;1
 boxjellyfish;50
 boxofcandy;50
 boxofchocolate;40
@@ -7452,6 +7454,7 @@ byzantineempire;50
 c;40
 ca;40
 caa;20;Talent agency
+caan;40;Actor James Caan
 cab;50
 cabala;40;Jewish mysticism
 cabalas;40
@@ -10179,6 +10182,7 @@ colgate;50
 colgates;40;Weird plural
 collab;60
 collabs;60
+collarstain;1
 collectionbox;50
 collectionboxes;50
 collectorsitem;50
@@ -11288,6 +11292,7 @@ crimedog;50
 crimefighter;60
 crimefighters;60
 crimefighting;60
+crimegroup;1
 crimelab;50
 crimelabs;50
 crimenovelist;50
@@ -18780,7 +18785,16 @@ fouriron;50
 fourirons;50
 fourpm;50
 fourthrees;20
-fouryearcollege;50
+fourwheeldrive;60
+fourwheeled;50
+fourwheeler;50
+fourwheelers;50
+fourwheeling;50
+fourwheels;50
+fouryearcollege;60
+fouryearcolleges;60
+fouryearterm;50
+fouryearterms;50
 fovea;50
 foveae;40
 foveate;40
@@ -18899,6 +18913,9 @@ freetrials;50
 freetv;30;Green paint
 freewaytoll;50
 freewaytolls;50
+freewheeler;60
+freewheelers;60
+freewheeling;60
 freez;30;Tastee-Freez restaurant, practically defunct
 freezeray;60
 freezerays;60
@@ -20599,7 +20616,7 @@ goespfft;40
 goespitapat;60
 goespro;50
 goespublic;50
-goesrogue;50
+goesrogue;60
 goessoft;50
 goessolo;50
 goessour;50
@@ -20699,6 +20716,7 @@ goingoutwith;50
 goingpfft;40
 goingpro;50
 goingpublic;50
+goingrogue;60
 goingsoft;50
 goingsolo;50
 goingsour;50
@@ -20825,7 +20843,7 @@ goneovertheline;40
 gonepast;40
 gonepro;40
 gonerilandregan;1
-gonerogue;50
+gonerogue;60
 gonesenile;50
 gonesoft;50
 gonewrong;40
@@ -20982,7 +21000,7 @@ gormandizes;40
 gormandizing;40
 gormands;20
 gorme;40;Singer Eydie Gormé
-gorogue;50
+gorogue;60
 gorp;40;Trail mix
 gos;20
 gosee;30
@@ -43927,6 +43945,7 @@ ringdings;50
 ringedseal;50
 ringedseals;50
 ringfor;40
+ringgit;40;Malaysian currency
 ringin;40
 ringingabell;60
 ringingaround;30;Call around
@@ -54512,7 +54531,7 @@ timreid;30;Actor
 tims;30
 timwalz;50;Kamala Harris's VP candidate
 tin;50
-tinafey;50
+tinafey;60
 tinamarie;40;Perry Como song? Not singer Teena Marie
 tinashe;20;Singer
 tinct;40;Coloring
@@ -56299,6 +56318,8 @@ twototango;30
 twoxtwo;20
 twoyear;40
 twoyears;40
+twoyearterm;50
+twoyearterms;50
 twp;20;Township
 twps;20;Townships
 twyla;40
@@ -56948,6 +56969,8 @@ ural;40;Ural River/Mountains
 uralic;30;Languages of the Urals
 uralriver;50
 urania;40;Muse of astronomy
+uranianmoon;50
+uranianmoons;50
 uranic;40
 uranus;50
 uranyl;30
@@ -58555,7 +58578,7 @@ wentoutwith;50
 wentpfft;40
 wentpro;50
 wentpublic;50
-wentrogue;50
+wentrogue;60
 wentsoft;50
 wentsolo;50
 wentsour;50
