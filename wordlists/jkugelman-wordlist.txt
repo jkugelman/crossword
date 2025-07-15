@@ -3843,6 +3843,11 @@ automaticweapon;50
 automaton;50
 automatons;50
 autopia;40;Disneyland car ride
+autorenew;50
+autorenewal;50
+autorenewed;50
+autorenewing;50
+autorenews;50
 autorotation;50;Helicopter technique for landing w/o power
 autoshow;60
 autoshows;60
@@ -13653,7 +13658,7 @@ doestheconga;60
 doesthesplits;50
 doesthissparkjoy;60;Marie Kondo-ism
 doestime;50
-doesto;40;Inflicts upon ("what my boss does to me...")
+doesto;30;Inflicts upon ("what my boss does to me...")
 doestoat;40
 doestoatee;40
 doestoo;40;Playground retort
@@ -13780,7 +13785,7 @@ doingshots;50
 doingtheconga;50
 doingthesplits;50
 doingtime;50
-doingto;40;Inflicting upon
+doingto;30;Inflicting upon
 doingtoat;40
 doingtoatee;40
 doingup;40
@@ -34123,6 +34128,7 @@ nehisi;40;Author Ta-Nehisi Coates
 nehru;40;Jawaharlal Nehru, first prime minister of independent India (1947-64)
 nehrus;20
 nei;20
+neill;40
 neimans;1
 nein;40
 neins;30
@@ -41913,7 +41919,7 @@ ranupto;40
 ranvier;30;Physician Louis-Antoine Ranvier
 ranwithit;50
 rao;20
-raos;30;Tomato sauce brand
+raos;40;Tomato sauce brand
 rap;50
 rapace;40;Actress Noomi Rapace
 rapartist;50
@@ -49421,6 +49427,8 @@ sparksjoy;60
 sparksnv;20
 sparky;40;Lively and high-spirited: Br.
 sparredwith;40
+sparrer;40
+sparrers;40
 sparringwith;40
 sparswith;40
 spartanrace;50
