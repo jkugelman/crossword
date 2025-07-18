@@ -19902,6 +19902,7 @@ getcredit;50
 getcute;60
 getdark;30
 getdirton;50
+getdowntobrasstacks;60
 getem;30
 geterdone;50
 getfat;5
@@ -19976,6 +19977,7 @@ getscredit;50
 getscute;60
 getsdark;30
 getsdirton;50
+getsdowntobrasstacks;60
 getsfat;5
 getshitched;50
 getsickedout;60
@@ -20059,6 +20061,7 @@ gettingcredit;50
 gettingcute;60
 gettingdark;30
 gettingdirton;50
+gettingdowntobrasstacks;60
 gettingfat;5
 gettingforasong;60
 gettinghitched;50
@@ -21068,6 +21071,7 @@ gotcredit;50
 gotcute;60
 gotdark;30
 gotdirton;50
+gotdowntobrasstacks;60
 goteamgo;60
 gotfat;5
 gotgame;50
@@ -34714,6 +34718,7 @@ nitrogenoxide;30
 nitrousacid;30
 nitrousoxide;30
 nitti;30
+nittygritty;60
 nivea;40;Skin care brand
 niven;40
 nivens;20
