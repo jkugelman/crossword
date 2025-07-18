@@ -25702,6 +25702,7 @@ inutile;40
 inv;20
 invacuo;30;In a vacuum
 invalidid;40;Green paint???
+invalidids;40
 invalidusername;50
 invalue;30
 invasivespecies;60
@@ -57346,8 +57347,8 @@ valhalla;60
 valhallas;40;Weird plural
 valiancies;40
 valiancy;40
-validid;20
-validids;20
+validid;40
+validids;40
 valine;40;Amino acid
 vallate;40;???
 valse;40
