@@ -1355,6 +1355,7 @@ albumsleeve;50
 albumsleeves;50
 albumtitle;50
 albumtitles;50
+albus;5;Harry Potter
 alc;20
 alcaide;20;Prison warden: Sp.
 alcaldes;30
@@ -3806,9 +3807,9 @@ auricula;20;Flower
 auricular;40
 auroch;20;Extinct cattle
 aurochs;20;Extinct cattle
-auror;40
+auror;5;Harry Potter
 auroraco;30;Aurora, CO
-aurors;40
+aurors;5;Harry Potter
 aus;40
 ausable;30;???
 auscultate;30;Examine a patient with a stethoscope
@@ -12673,10 +12674,10 @@ demandsrespect;50
 demarest;20;NJ town, unremarkable actor
 dement;30
 dementing;30
-dementor;50
-dementors;50
-dementorwasp;50
-dementorwasps;50
+dementor;5;Harry Potter
+dementors;5;Harry Potter
+dementorwasp;5;Harry Potter
+dementorwasps;5;Harry Potter
 dements;30
 demigod;60
 demigods;60
@@ -14169,6 +14170,7 @@ drachma;50;Greek coin 1833-2002
 drachmae;30
 drachmas;50
 drachms;30
+dracomalfoy;5;Harry Potter
 draconids;50;Meteor shower
 dracula;60
 draftcard;50
@@ -21895,6 +21897,7 @@ hagglewith;40
 haggling;50
 hagglingwith;40
 hagia;30
+hagrid;5;Harry Potter
 hah;40
 hahaha;40
 hahahaha;20
@@ -31089,6 +31092,7 @@ malenurse;50
 malenurses;50
 maleprivilege;60
 malesex;50
+malfoy;5;Harry Potter
 malices;30
 malik;30;Zayn Malik, formerly of One Direction
 malison;20
@@ -48649,6 +48653,7 @@ snapbrimhats;50
 snapbrims;50
 snapdragon;60
 snapdragons;60
+snape;5;Harry Potter
 snapless;50
 snapline;50;Chalked string used in construction
 snaplines;50
