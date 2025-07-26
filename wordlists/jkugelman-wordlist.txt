@@ -1,6 +1,8 @@
 a;50
 aa;40
 aaa;40
+aaabond;50
+aaabonds;50
 aaamap;30
 aaamaps;30
 aaas;40;Batteries
@@ -1790,6 +1792,7 @@ alttab;50
 alttext;50
 aludel;20
 aluminate;30
+aluminium;60
 alumna;40;Female grad
 alumnal;40
 alumnimagazines;50
@@ -2745,6 +2748,7 @@ arachnology;50
 arachnophobia;50
 arachnophobic;50
 araft;20
+aragones;40;Soccer player Luis Aragonés (1938-2014)
 aragonese;40;???
 aragonite;30;Mineral
 aragorn;50
@@ -4589,13 +4593,17 @@ barra;20;Scottish island
 barratry;30;Legal term, vexatious litigation
 barredthedoor;50
 barredthedoors;50
+barrelalong;50
 barrelcacti;50
 barrelcactus;60
 barrelcactuses;60
+barreledalong;50
 barrelhouse;60;Cheap drinking and dancing establishment, or strident style of jazz or blues
 barrelhouses;60
+barrelingalong;50
 barrelorgan;50
 barrelorgans;50
+barrelsalong;50
 barrenwasteland;50
 barrenwastelands;50
 barrie;40;Peter Pan author J. M. Barrie
@@ -7818,8 +7826,11 @@ candelas;50
 candh;20
 candida;40;Shaw play or a fungus
 candidate;50
+candidcamera;60
 candiedfruit;50
 candiedfruits;50
+candiedyam;60
+candiedyams;60
 candle;50
 candleholder;50
 candleholders;50
@@ -7923,6 +7934,8 @@ cansofcorn;50
 cansofsardines;40
 cansoftomatoes;40
 cansoftuna;50
+cantab;40;Demonym for person from Cambridge or Harvard
+cantabs;40
 cantcatchabreak;60
 cantcook;30;???
 cantdo;40
@@ -10197,8 +10210,12 @@ coles;40;Nat and Natalie
 coleslaws;30
 colgate;50
 colgates;40;Weird plural
-collab;60
-collabs;60
+collab;50
+collabbed;30
+collabbing;30
+collabed;50
+collabing;50
+collabs;50
 collarstain;1
 collectionbox;50
 collectionboxes;50
@@ -11127,6 +11144,8 @@ crabwalks;50
 crack;50
 crackandpeel;50
 crackedandpeeled;50
+crackerbarrel;60
+crackerbarrels;60
 crackingandpeeling;50
 cracklinoatbran;50
 cracks;50
@@ -13008,6 +13027,7 @@ diamondearring;50
 diamondearrings;50
 diamondfaceshape;60
 diamondfaceshapes;60
+diamondhead;60;Hawaiian volcano, or heavy metal band
 diamondheist;50
 diamondheists;50
 diamondjim;50
@@ -20398,6 +20418,7 @@ glasstumblers;50
 glassyeyed;50
 glau;40;Actress Summer Glau
 glaucous;40;Dull grayish-green color
+glaxo;40;GlaxoSmithKline pharmaceutical company
 glazedham;50
 glazedhams;50
 glazunov;40;Russian composer Alexander Glazunov
@@ -20637,7 +20658,7 @@ goesokay;50
 goesonadate;50
 goesonadiet;50
 goesonaspree;50
-goesonatear;50
+goesonatear;60
 goesonleave;50
 goesonrecord;50
 goesonrecordas;40
@@ -20739,7 +20760,7 @@ goingoffwithoutahitch;60
 goingonadate;50
 goingonadiet;50
 goingonaspree;50
-goingonatear;50
+goingonatear;60
 goingonleave;50
 goingonrecord;50
 goingonrecordas;40
@@ -20980,7 +21001,7 @@ goombas;60
 goonadate;50
 goonadiet;50
 goonaspree;50
-goonatear;50
+goonatear;60
 gooney;20
 gooneys;20
 goonleave;50
@@ -23518,6 +23539,8 @@ homophobic;40
 homos;5
 homs;20
 hon;50
+hondalegend;50
+hondalegends;50
 hondo;40
 honedin;40
 honedinon;40
@@ -25221,10 +25244,10 @@ indicatorstrip;50
 indicatorstrips;50
 indicia;30;Signs, indications, or distinguishing marks
 indicium;20;Sign, indication, or distinguishing mark
-indieband;50
-indiebands;50
-indiefilm;50
-indiefilms;50
+indieband;60
+indiebands;60
+indiefilm;60
+indiefilms;60
 indigodye;50
 indigodyes;50
 indigos;30
@@ -29191,6 +29214,7 @@ liafail;40;Lia Fáil, Irish "Speaking Stone" or "Coronation Stone"
 liana;20;Vine
 lianas;20;Vines
 liane;30;Author Moriarty, NPR's Hansen, woody vine
+lianehansen;50;NPR host 1989-2011
 lianes;20
 liarsparadox;60
 lib;40
@@ -29518,6 +29542,7 @@ lionelmessi;60
 lionels;30;Plural name, or toy train brand
 lionet;40;Young lion
 lionets;40
+lionhearted;60
 lionsdens;50
 lionsgate;50
 liontamer;50
@@ -29804,9 +29829,11 @@ localtv;40
 locarno;40;Swiss treaty city after W.W.I
 loccit;40;Loc. cit. footnote term
 loci;40
+lockandload;60
 lockaway;40
 lockdown;50
 lockdowns;50
+lockedandloaded;60
 lockedaway;40
 lockedinto;40
 lockeditup;50
@@ -32331,6 +32358,7 @@ microtone;50
 microtones;50
 microtransaction;60
 microtransactions;60
+micturation;5;Urination
 mid;50
 midapril;30
 midden;20;Domestic waste dump
@@ -33107,6 +33135,9 @@ mornin;50
 morningroutine;60
 morningroutines;60
 morningsickness;60
+morningstar;60
+morningstars;60
+morningwood;5
 moro;40
 moroccos;40;Goatskin leathers
 moroni;30
@@ -39059,6 +39090,8 @@ picaros;40
 picasa;30;Defunct photo sharing site
 picasso;60
 picayune;60
+pickacard;60
+pickacardanycard;60
 pickanit;50
 pickapart;50
 pickat;40
@@ -48566,6 +48599,7 @@ smiler;40
 smilers;40
 smilesat;40
 smileson;40
+smileyoureoncandidcamera;60
 smilin;20
 smilingat;40
 smilingon;40
@@ -49147,6 +49181,7 @@ songparodies;50
 songparody;50
 songz;50;Rapper Trey
 soni;20
+sonia;40
 soniabraga;50
 sonics;50
 sonicthehedgehog;60
@@ -51995,11 +52030,15 @@ tafts;30
 tag;50
 tagalog;50;Girl Scout cookie
 tagalogs;50;Girl Scout cookies
+tagalong;50
 tagboard;30
+taggedalong;50
+taggingalong;50
 tagine;40
 tagline;50
 taglines;50
 tagore;30;1913 Literature Nobelist
+tagsalong;50
 tagteam;60
 tagteamed;60
 tagteaming;60
@@ -52072,6 +52111,7 @@ takecreditfor;40
 takefive;60
 takeflak;50
 takehimawayboys;60
+takein;40
 takeinvain;50
 takeiteasy;60
 takeitslow;50
@@ -52089,6 +52129,7 @@ takenthewheel;50
 takento;40
 takentoitslogicalconclusion;60
 takentothegrave;50
+takeon;40
 takeorders;50
 takeout;50
 takeoutjoint;60
@@ -52126,9 +52167,11 @@ takesfive;60
 takesflak;50
 takeshowers;50
 takesign;50
+takesin;40
 takesinvain;50
 takesittothegrave;50
 takesliberties;50
+takeson;40
 takesorders;50
 takesout;40
 takespains;50
@@ -52185,6 +52228,7 @@ takingflak;50
 takinginvain;50
 takingittothegrave;50
 takingliberties;50
+takingon;40
 takingorders;50
 takingout;40
 takingpains;50
@@ -55061,10 +55105,12 @@ tookaswig;50
 tookcreditfor;40
 tookfive;60
 tookflak;50
+tookin;40
 tookinvain;50
 tookiteasy;60
 tookittothegrave;50
 tookliberties;50
+tookon;40
 tookorders;50
 tookout;40
 tookpains;50
@@ -56154,6 +56200,7 @@ turnedonto;40
 turnedpale;50
 turnedpro;50
 turnedsour;50
+turnedtail;60
 turnedto;40
 turnedtodust;60
 turnedtogold;50
@@ -56171,6 +56218,7 @@ turningonto;40
 turningpale;50
 turningpro;50
 turningsour;50
+turningtail;60
 turningto;40
 turningtodust;60
 turningtogold;50
@@ -56199,6 +56247,7 @@ turnsour;50
 turnspale;50
 turnspro;50
 turnssour;50
+turnstail;60
 turnsto;40
 turnstodust;60
 turnstogold;50
@@ -56207,6 +56256,7 @@ turnstotheright;50
 turnstraitor;50
 turnstwo;30
 turnsupsidedown;50
+turntail;60
 turnthatfrownupsidedown;60
 turnto;40
 turntodust;60
@@ -58357,6 +58407,7 @@ wearawire;60
 wearenotalone;60
 wearer;30
 wearers;30
+wearesodead;60
 wearetoast;50
 wearin;40;More commonly "break in"
 wearingawire;60
@@ -58651,7 +58702,7 @@ wentoffwithoutahitch;60
 wentonadate;50
 wentonadiet;50
 wentonaspree;50
-wentonatear;50
+wentonatear;60
 wentonleave;50
 wentonrecord;50
 wentonrecordas;40
