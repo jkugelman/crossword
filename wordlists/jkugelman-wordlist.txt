@@ -21971,10 +21971,10 @@ hairyballtheorem;60
 hairychest;60
 hairyleg;50
 hairylegs;50
-haj;40
+haj;40;Variant of hajj
 haji;30;Muslim who has made it to Mecca
 hajis;30
-hajj;30;Islamic pilgrimage mandatory for all Muslims
+hajj;50;Islamic pilgrimage mandatory for all Muslims
 haka;40;Maori dance
 hakim;20;Muslim judge
 hakuna;60
@@ -26756,6 +26756,7 @@ jerkwad;60;Obnoxious person
 jerkwads;60
 jerky;50
 jerri;40;???
+jerries;5
 jerrybrown;50
 jerrywest;50
 jerseyboys;50
@@ -38797,6 +38798,7 @@ peroration;40
 perorations;40
 perot;40;Ross Perot
 perots;20
+perries;40;Fermented pear drinks
 perro;40
 perros;40
 perrot;30
