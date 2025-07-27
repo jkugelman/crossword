@@ -849,7 +849,7 @@ aerobes;50;Breathtaking creatures
 aerobicsclasses;50
 aerocar;40;Flying car of 1949
 aeroflot;30;Russia's largest airline
-aerogel;50
+aerogel;60
 aerogram;40;Air letter
 aerograms;40
 aerolite;30;Type of meteorite
@@ -15156,6 +15156,8 @@ ecig;40
 ecigs;40
 eck;20
 eclats;20
+eclogue;40;Pastoral poem
+eclogues;40
 ecnuoeno;1
 eco;40
 ecocar;20
@@ -38006,6 +38008,7 @@ parens;40
 parentaladvisories;60
 parentaladvisory;60
 parentals;60
+parentalunit;60
 parentalunits;60
 parenthetically;50
 parentingtip;50
@@ -50942,6 +50945,14 @@ strangeisntit;60
 strangeordeal;60
 strangequark;60
 strangequarks;60
+strangle;40
+strangled;40
+stranglehold;60
+strangleholds;60
+strangler;40
+stranglers;40
+strangles;40
+strangling;40
 strangs;20;Rare last name plural
 strangulate;30
 strangulated;30
@@ -53927,6 +53938,7 @@ thereitis;60
 theremustbeamistake;60
 theremustbesomemistake;60
 therent;20
+therents;60
 theresalottounpack;60
 theresalottounpackthere;60
 theresalwayssomething;60
