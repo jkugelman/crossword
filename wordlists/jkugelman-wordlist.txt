@@ -7136,6 +7136,8 @@ bueno;40
 buenos;40
 buffalocalf;50
 buffalocalves;50
+buffalowing;60
+buffalowings;60
 bufferzone;50
 bufferzones;50
 bug;50
@@ -9167,14 +9169,22 @@ chewat;40
 chewbacca;60
 chewedat;40
 chewedon;40
+chewedthescenery;60
+chewedupthescenery;60
 chewer;40
 chewers;40
 chewie;50
 chewingat;40
 chewingon;40
+chewingthescenery;60
+chewingupthescenery;60
 chewon;40
 chewsat;40
 chewson;40
+chewsthescenery;60
+chewsupthescenery;60
+chewthescenery;60
+chewupthescenery;60
 chewygranolabar;20
 cheyennewy;30
 chg;20
@@ -21703,6 +21713,8 @@ gulfofamerica;60
 gulfstate;50
 gulfstates;50
 gulliver;50
+gullwingdoor;60
+gullwingdoors;60
 gulper;30
 gulpers;30
 gum;50
@@ -28836,6 +28848,8 @@ leetspeak;50
 leftfor;40
 leftfordead;60
 leftin;40
+leftistelement;60
+leftistelements;60
 leftjustified;50
 leftjustify;50
 leftlanes;30
@@ -28845,6 +28859,13 @@ leftover;50
 leftovers;50
 leftto;40
 leftturnatalbuquerque;60
+leftwinggroup;50
+leftwinggroups;50
+leftwingparties;50
+leftwingparty;50
+leftwingpolitician;50
+leftwingpoliticians;50
+leftwingpolitics;50
 leg;50
 legalese;50
 legalguardian;50
@@ -40275,6 +40296,8 @@ porcelaingod;60
 porchpirate;60
 porchpirates;60
 porchsac;1
+porchswing;50
+porchswings;50
 porer;30
 porkadobo;60;Phillippine's national dish
 porkbarrel;60
@@ -43708,6 +43731,7 @@ revealthering;1
 reveirter;1
 revell;40;Model car company
 revenge;50
+revengebedtimeprocrastination;60
 revenged;40
 revengeofthesith;60
 revengeon;30
@@ -44019,6 +44043,11 @@ rightplaceatthewrongtime;60
 rightplacerighttime;60
 rightplacewrongtime;60
 righttobeararms;60
+rightwinggroup;50
+rightwinggroups;50
+rightwingparties;50
+rightwingparty;50
+rightwingpolitics;50
 righty;50
 rigmarole;50
 rigueur;30
@@ -45862,6 +45891,7 @@ sceneiv;20
 sceneix;20
 sceneone;20
 sceneries;40;Bad plural
+scenerychewing;60
 scenethree;20
 scenetwo;20
 scenev;20
@@ -52228,6 +52258,7 @@ takestime;50
 takesto;40
 takestothegrave;50
 takestwototango;30
+takesunderoneswing;60
 takeswing;60
 takethebait;60
 takethefall;60
@@ -52238,6 +52269,7 @@ takethewheel;50
 taketime;50
 taketo;40
 taketothegrave;50
+takeunderoneswing;60
 takewing;60
 taki;20
 takingabus;30
@@ -52283,6 +52315,7 @@ takingthewheel;50
 takingtime;50
 takingto;40
 takingtothegrave;50
+takingunderoneswing;60
 takingwing;50
 takis;40;Tortilla chips
 tal;20
@@ -55167,6 +55200,7 @@ tookthewheel;50
 tooktime;50
 tookto;40
 tooktothegrave;50
+tookunderoneswing;60
 tookwing;60
 toolate;50
 toolatenow;60
@@ -59324,7 +59358,8 @@ winevault;50
 winevaults;50
 winewhinemerger;50
 wing;50
-wingcollar;30
+wingcollar;50
+wingcollars;50
 wingeddeath;60;Lovecraft story about a scientist who discovers a deadly species of fly in Africa
 wingedhorse;50
 wingedhorses;50
