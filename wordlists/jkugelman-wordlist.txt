@@ -2268,6 +2268,13 @@ animalpreserve;50
 animalpreserves;50
 animalprint;50
 animalprints;50
+animalrights;60
+animalrightsactivist;60
+animalrightsactivists;60
+animalrightsgroup;60
+animalrightsgroups;60
+animalrightsprotest;60
+animalrightsprotests;60
 animals;50
 animaltrainer;50
 animaltrainers;50
@@ -8085,6 +8092,7 @@ carbomb;5
 carbombs;5
 carbonaroeffect;50
 carboncapture;60
+carbone;40;???
 carbonemissions;50
 carbonfiber;60
 carbonpaper;50
@@ -23441,7 +23449,9 @@ holily;30;Weird adverb
 holist;40
 holists;40
 hollaatchaboy;60
-hollander;30
+hollander;50;Tom Hollander
+hollanders;50;Dutchmen, old-fashioned
+hollands;30
 hollerat;40
 holleredat;40
 holleringat;40
@@ -28148,6 +28158,7 @@ lalala;30
 lalaland;60
 laleche;1
 laliga;30;Spanish soccer league
+lallorona;60
 lallygag;40;Variant of lollygag
 lallygagged;40
 lallygagging;40
@@ -55961,6 +55972,8 @@ troilus;40
 trois;40;French three
 trojanwar;50
 troll;50
+trollarmies;60
+trollarmy;60
 trolldoll;60
 trolldolls;60
 trolled;60
