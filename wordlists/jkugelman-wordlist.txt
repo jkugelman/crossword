@@ -10357,6 +10357,7 @@ comefrom;40
 comefullcircle;60
 comegetme;50
 comegetsome;60
+comehereoften;60
 comeinfirst;50
 comeinlast;50
 comeinto;40
@@ -14195,6 +14196,7 @@ dox;40
 doxx;50
 doya;30;ELO song
 doyoudareme;60
+doyougetthatalot;60
 doyouknowwhatyouvedone;60
 doyoumindimeating;60;"Gross!"
 doyoumindimeatinghere;60;"Gross!"
@@ -24573,6 +24575,8 @@ igby;30;"___ Goes Down"
 igetaround;50;Beach Boys song
 igetlonely;60
 igetno;20
+igetthat;60
+igetthatalot;60
 iggins;40
 iglesia;30
 ign;20
@@ -26223,6 +26227,9 @@ ithelp;30
 ithelpdesk;30
 ithelpdesks;30
 ithinkican;60
+ithinkillmanage;60
+ithinkillpass;60
+ithinkyoullmanage;60
 ithoughtyoudsaythat;60
 ithoughtyouknew;60
 iti;20
@@ -58675,6 +58682,7 @@ weevillily;50;Herb
 wefie;20;Group selfie
 wefies;20;Group selfies
 wegetit;60
+wegetthatalot;60
 wegotitmade;60
 wei;20
 weibo;40;Chinese social media site
@@ -60286,6 +60294,7 @@ youcantmeanthat;60
 youcantmissit;60
 youcantteachheight;60;N.B.A. draft saying
 youcantwin;60
+youcomehereoften;60
 youcouldsaythat;60
 youdareme;60
 youdbetternot;60;"Be warned— that's a bad idea!"
@@ -60298,6 +60307,7 @@ youdontsay;60
 youdothetalking;60
 youdoyou;60
 yougame;60
+yougetthatalot;60
 yougoingtoeatthat;60
 yougonnaeatthat;60
 yougood;60
@@ -60321,6 +60331,8 @@ youknowtheone;60
 youllcomearound;60
 youllfitrightin;60
 youllgofar;60
+youlllive;60
+youllmanage;60
 youllnevertakemealive;60
 youllregretthis;60
 youlookgoodenoughtoeat;60
