@@ -8301,6 +8301,7 @@ cartrunks;50
 cartsin;40
 cartsoff;50
 cartwheel;50
+carvedinstone;60
 carvedpumpkin;50
 carvedpumpkins;50
 carvingfork;50
@@ -26234,6 +26235,7 @@ itishightime;60
 itisnot;50
 itisntover;60
 itisntright;60
+itisntsetinstone;60
 itjustsohappens;60
 itlays;20
 itll;50
@@ -26357,6 +26359,7 @@ itsnotmuchtolookat;60
 itsnotmydepartment;60
 itsnotmyfinestwork;60
 itsnotright;60
+itsnotsetinstone;60
 itsnotthatdeep;60;"Stop taking this so seriously!"
 itsnouse;60
 itsodd;50
@@ -29238,6 +29241,7 @@ levar;40;Levar Burton
 levator;30;Muscle that raises a body part
 levators;30
 levela;20
+levelbest;60
 levene;30;Old time actor Sam Levene
 levier;40;Levier of taxes
 leviers;40
@@ -35281,7 +35285,9 @@ nothingbeatsnewhellmannsdijonnaise;50
 nothingbutnet;60
 nothingincommon;50
 nothingissacred;60
+nothingissetinstone;60
 nothingnew;50
+nothingssetinstone;60
 noti;40
 noticer;40
 noticers;40
@@ -42583,10 +42589,10 @@ recane;30
 recaned;30
 recanes;30
 recaning;30
-recarve;20
-recarved;20
-recarves;20
-recarving;20
+recarve;30
+recarved;30
+recarves;30
+recarving;30
 recce;20;Recon mission
 recces;20;Recon missions
 receivinglines;50
@@ -47076,6 +47082,7 @@ sfish;20
 sfmoma;20
 sfo;40
 sfumato;40
+sfw;40;Safe for work
 sgls;20
 sgs;20
 sgt;40
