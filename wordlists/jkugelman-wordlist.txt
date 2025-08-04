@@ -6651,6 +6651,7 @@ bouncingball;50
 bouncingballs;50
 bouncycastle;60
 bouncycastles;60
+boundarysetting;50
 bounden;20
 boundfor;40
 boundto;40
@@ -46917,6 +46918,7 @@ setacoursefor;50
 setae;20
 setat;40
 setatop;40
+setboundaries;50
 setenta;40
 seteyeson;50
 setfireto;40
@@ -46937,6 +46939,7 @@ setsacourse;50
 setsacoursefor;50
 setsapr;1
 setsat;40
+setsboundaries;50
 setseyeson;50
 setsfireto;40
 setshot;50
@@ -46953,6 +46956,7 @@ settheclockback;50
 setthetone;50
 settingacourse;50
 settingacoursefor;50
+settingboundaries;50
 settingeyeson;50
 settingfireto;40
 settingoneshouseinorder;60
