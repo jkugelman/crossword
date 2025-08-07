@@ -34,7 +34,7 @@ normalize() {
 }
 
 remove() {
-    grep -Fvf <(cat <<-REMOVE
+    grep -Fxvf <(cat <<-REMOVE
 	air
 	al
 	arm
