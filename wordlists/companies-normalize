@@ -1,0 +1,84 @@
+#!/bin/bash
+
+main() {
+    csv-names | asciify | normalize | remove | add
+}
+
+csv-names() {
+    csvtool namedcol Name CompaniesMarketCap.csv | sed 1d
+}
+
+asciify() {
+    uconv -x any-latin -x latin-ascii -c | sed 's/&amp;/\&/g' | sed 's/&/and/g'
+}
+
+normalize() {
+    while IFS= read -r line; do
+        # Convert to lowercase and remove non-alphanumeric characters (Bash-only way)
+        # 1. Convert to lowercase using parameter expansion
+        lower=${line,,}
+
+        # 2. Remove all non-alphanumeric characters (Bash pattern matching)
+        cleaned_full=${lower//[^a-z0-9]/}
+
+        echo "$cleaned_full"
+
+        # Split line into words using Bash array
+        read -a words <<< "$line"
+        if (( ${#words[@]} > 1 )); then
+            first_word=${words[0],,}                      # lowercase first word
+            cleaned_first=${first_word//[^a-z0-9]/}       # remove non-alphanumerics
+            echo "$cleaned_first"
+        fi
+    done
+}
+
+remove() {
+    grep -Fvf <(cat <<-REMOVE
+	air
+	al
+	arm
+	bank
+	berkshire
+	booking
+	boston
+	capital
+	charles
+	china
+	deere
+	deutsche
+	eli
+	g
+	general
+	goldman
+	home
+	international
+	johnson
+	morgan
+	novo
+	philip
+	ping
+	procter
+	saudi
+	schneider
+	sk
+	texas
+	thermo
+	union
+	walt
+	wells
+	REMOVE
+    )
+}
+
+add() {
+    cat
+    cat <<-ADD
+	chase
+	mobil
+	philipmorris
+	johndeere
+	ADD
+}
+
+main "$@"
