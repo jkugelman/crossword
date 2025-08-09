@@ -7674,6 +7674,7 @@ calledfor;40
 calledfoulon;50
 calledin;40
 calledit;60
+calleditawrap;60
 calleditintheair;50
 calledon;40
 calledto;40
@@ -7691,6 +7692,7 @@ callingbullshiton;5
 callingfor;40
 callingfoulon;50
 callingin;40
+callingitawrap;60
 callingitintheair;50
 callingon;40
 callingstation;60
@@ -7699,6 +7701,7 @@ callingto;40
 callingup;40
 calliope;50
 calliopes;50
+callitawrap;60
 callitintheair;60
 calllog;50
 calllogs;50
@@ -7711,6 +7714,7 @@ callsfor;40
 callsfoulon;50
 callsignals;20
 callsin;40
+callsitawrap;60
 callsitintheair;50
 callson;40
 callsto;40
@@ -29171,6 +29175,7 @@ letsat;40
 letsbackin;40
 letsbe;50
 letsbehonest;60
+letscallitawrap;60
 letsee;20
 letsfree;0
 letsgetcracking;60
@@ -32486,6 +32491,7 @@ mieles;20;Certain appliances
 mig;40
 mightaswell;60
 mightiadd;60
+mightmakesright;60
 mights;40;Bad plural
 mii;20
 miii;20
