@@ -7701,7 +7701,12 @@ callingto;40
 callingup;40
 calliope;50
 calliopes;50
+callitaday;50
+callitadraw;60
+callitanight;50
+callitatie;60
 callitawrap;60
+calliteven;60
 callitintheair;60
 calllog;50
 calllogs;50
@@ -29176,6 +29181,8 @@ letsat;40
 letsbackin;40
 letsbe;50
 letsbehonest;60
+letscallitanight;60
+letscallitatie;60
 letscallitawrap;60
 letsee;20
 letsfree;0
@@ -55162,6 +55169,7 @@ tomizzo;40;Tom Izzo, Michigan State basketball coach in the Hall of Fame
 tomlin;40;Lily Tomlin
 tommarvoloriddle;60
 tommieagee;50;Baseball player, one of the "Miracle Mets"
+tommywiseau;60;"The Room" creator
 tomoooooooo;0
 tomriddle;60
 tomripley;60
@@ -59505,6 +59513,7 @@ wisdomtrees;50
 wiseass;60
 wiseasses;60
 wiseassolomon;60
+wiseau;40;Tommy Wiseau, creator of "The Room"
 wisechoice;50
 wisechoices;50
 wisecracker;60
