@@ -7937,6 +7937,7 @@ cannoli;50
 cannolis;50
 cannonarm;50
 cannonarms;50
+cannotholdacandleto;60
 cannotstaystill;50
 cannotunsee;50
 cannula;30;Medicine tube
@@ -7978,6 +7979,7 @@ cantdo;40
 canteen;50
 canteens;50
 canthelpyouthere;60
+cantholdacandleto;60
 canticleforleibowitz;50
 cantle;30
 cantles;30
@@ -11034,6 +11036,7 @@ couchforts;60
 couldbefun;60
 couldhebetheone;60
 coulditbetrue;60
+couldntholdacandleto;60
 couldntstickaround;50
 couldshebetheone;60
 couldyoufillmein;60
@@ -14042,6 +14045,7 @@ doodads;60
 doodlebug;60
 doodlebugs;60
 doofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
+doogiehowsermd;50
 dooku;50
 doolie;20
 doolies;20
@@ -31446,6 +31450,7 @@ marchingon;40
 marchon;40
 marcopolo;50
 marcs;30;Plural name
+marcuswelbymd;50
 marcy;50;Marcy Playground, Al Bundy's neighbor
 marcyplayground;50
 mardi;40;Mardi Gras
@@ -59170,6 +59175,8 @@ whitesmoke;50;Vatican signal
 whitezin;50
 whitezinfandels;50
 whitezins;50
+whitsun;40;British name for the Christian holy day of Pentecost
+whitsuntide;40;Week following Whitsun
 who;50
 whoami;60
 whoanellie;60
