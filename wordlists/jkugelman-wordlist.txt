@@ -30428,6 +30428,12 @@ lowercasew;40
 lowercasex;40
 lowercasey;40
 lowercasez;40
+lowerclassfamilies;50
+lowerclassfamily;50
+lowerclasshome;50
+lowerclasshomes;50
+lowerclasshousehold;50
+lowerclasshouseholds;50
 lowercourt;50
 lowercourts;50
 lowerjaw;50
@@ -32480,6 +32486,12 @@ mid;50
 midapril;30
 midden;20;Domestic waste dump
 middens;20;Domestic waste dumps
+middleclassfamilies;50
+middleclassfamily;50
+middleclasshome;50
+middleclasshomes;50
+middleclasshousehold;50
+middleclasshouseholds;50
 middleearth;60
 middlefinger;60
 middlerhyme;60
@@ -57239,6 +57251,12 @@ uppercasew;20
 uppercasex;20
 uppercasey;20
 uppercasez;20
+upperclassfamilies;50
+upperclassfamily;50
+upperclasshome;50
+upperclasshomes;50
+upperclasshousehold;50
+upperclasshouseholds;50
 uppercourt;50
 uppercourts;50
 uppercrust;60
