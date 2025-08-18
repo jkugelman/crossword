@@ -24651,6 +24651,7 @@ ihaveaquestion;60
 ihaveeyes;60
 ihavejustthething;60
 ihavemixedfeelings;60
+ihavemyreasons;60
 ihavenoidea;60
 ihaventgotallday;60
 ihaventthefoggiest;60
@@ -26416,6 +26417,8 @@ itsover;60
 itsoveralready;60;"That was fast..."
 itspecialist;50
 itspecialists;50
+itspersonal;60
+itsprivate;60
 itsquiteastretch;60
 itsreallyinthere;60
 itsselfexplanatory;60
@@ -53523,6 +53526,8 @@ thatsoundsinteresting;60
 thatsoundslikeayouproblem;60
 thatsoundsperfect;60
 thatsoundsreasonable;60
+thatspersonal;60
+thatsprivate;60
 thatsquiteapickle;60
 thatsquiteastretch;60
 thatsrough;60;"You're in a sucky situation"
