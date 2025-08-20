@@ -6443,12 +6443,14 @@ booboo;50
 booboos;50
 boobtube;60
 booedat;40
+booedoffstage;60
 booer;40
 booers;40
 boogaloo;60
 boohoo;60
 boohooed;60
 booingat;40
+booingoffstage;60
 bookburning;50
 bookclub;50
 bookclubs;50
@@ -6494,8 +6496,10 @@ boommic;50
 boommics;50
 boomroasted;60
 boomtackle;50
+boooffstage;60
 boosat;40
 boosler;40;70s/80s comedian Elayne Boosler
+boosoffstage;60
 bootdisk;50
 bootdisks;50
 bootdrive;50
@@ -10326,6 +10330,18 @@ colonialwar;50
 colonialwarfare;50
 colonialwars;50
 colonna;20
+colorblind;60
+colorblindness;60
+colorbynumber;60
+colorbynumbers;60
+colorcast;60
+colorcasts;60
+colorcombination;60
+colorcombinations;60
+colorcommentary;60
+colorcommentator;60
+colorcommentators;60
+colorcoordinated;60
 coloredpencil;50
 coloredpencils;50
 coloreds;5
@@ -18186,6 +18202,10 @@ fishoils;40
 fishorcutbait;60
 fishpump;50
 fishpumps;50
+fishstick;60
+fishsticks;60
+fishstories;60
+fishstory;60
 fishtail;50
 fishtailed;50
 fishtailing;50
@@ -21461,7 +21481,9 @@ greaten;30
 greatestgeneration;60
 greatfallsmt;30
 greatidea;60
-greatlakesstate;50
+greatlake;60
+greatlakes;60
+greatlakesstate;60
 greatlie;20
 greatoldone;60;Cthulhu, e.g.
 greatoldones;60
@@ -48890,6 +48912,8 @@ snappingto;40;Snapping to (attention)
 snapples;40
 snapsat;50
 snapsto;40;Snaps to (attention)
+snapstories;60
+snapstory;60
 snapto;40;Snap to (attention)
 snarer;40
 snarers;40
@@ -53842,6 +53866,8 @@ thegrammys;40
 thegreatbrain;30;Children's book series
 thegreatest;60
 thegreatestgeneration;60
+thegreatlakes;60
+thegreatlakesstate;60
 thegreatoldones;60;Cthulhu, etc.
 thegreenarrow;40
 thegreenfairy;60;Absinthe
@@ -53965,8 +53991,8 @@ themedia;40
 themeg;50;Shark movie
 themepark;50
 themeparks;50
-themesong;50
-themesongs;50
+themesong;60
+themesongs;60
 themessage;0
 themessiah;50
 themets;40
