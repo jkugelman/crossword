@@ -1999,6 +1999,7 @@ aminus;40
 amion;20
 amioolate;0
 amiright;60
+amirightoramiright;60
 amirite;60
 amis;40
 amities;30
@@ -2916,6 +2917,7 @@ areweclear;60
 arewelive;60;"Is this thing on?"
 arewenot;20
 arewethereyet;60
+areyouamanoramouse;60
 areyouasleep;50
 areyoublind;60
 areyoubuyingit;60
@@ -2933,6 +2935,7 @@ areyoumad;60
 areyounuts;60
 areyouopen;60
 areyououtofyourmind;60
+areyourearsburning;60
 areyouserious;60
 areyousleeping;50
 areyousureaboutthat;60
@@ -13900,6 +13903,7 @@ doesthatchangeanything;60
 doesthatmakesense;60
 doesthatsoundright;60
 doestheconga;60
+doesthepopewearafunnyhat;60
 doesthesplits;50
 doesthissparkjoy;60;Marie Kondo-ism
 doestime;50
@@ -26532,6 +26536,7 @@ isthatclear;60
 isthatso;60
 isthatyou;60
 isthereanyonehome;60
+istheskyblue;60
 isthisabadtime;60
 isthisbetter;60;"Seem like an improvement?"
 isthisyourcard;60
@@ -41341,6 +41346,7 @@ prgurus;30
 pri;40
 priam;30;Trojan king
 pricelinecom;0
+priceofteainchina;60
 pricepoint;50
 pricepoints;50
 pricewar;50
@@ -59735,11 +59741,13 @@ whatahoot;60
 whatamess;60
 whatanightmare;60
 whatapal;60
+whataretheysmoking;60
 whatarewe;60
 whatareweeventalkingabout;60
 whatareyoudoing;50
 whatareyounuts;60
 whatareyouon;60
+whatareyousmoking;60
 whatareyoutalkingabout;60
 whatareyouupto;60
 whatarip;60
@@ -59750,9 +59758,14 @@ whatcanido;60
 whatchagotthere;60
 whatchanged;60;"Why are you like this now?"
 whatcouldhavebeen;60;Trope
+whatdoesitmatter;60
 whatdoesthatevenmean;60
+whatdoesthathavetodowiththepriceofteainchina;60
 whatdoesthatmean;60
 whatdoyouthinkyouredoing;60
+whatdoyouwantabiscuit;60
+whatdoyouwantacookie;60
+whatdoyouwantamedal;60
 whatexactlyisthepoint;60
 whatfor;60
 whathappensnext;60
@@ -59760,6 +59773,8 @@ whathaveibecome;60
 whathogwash;60
 whatinblazes;60
 whatisdeadmayneverdie;60
+whatishesmoking;60
+whatisshesmoking;60
 whatisthatsupposedtomean;60
 whatjusthappened;60
 whatnotevenathankyou;60
@@ -59794,6 +59809,7 @@ whatsyourexcuse;60
 whatsyourproblem;60
 whatthehey;60
 whatwasthatfor;60
+whatwouldjesusdo;60
 wheals;30;Hives
 wheatchex;50
 wheaten;30;Containing wheat
@@ -59906,10 +59922,12 @@ whitsun;40;British name for the Christian holy day of Pentecost
 whitsuntide;40;Week following Whitsun
 who;50
 whoami;60
+whoamikidding;60
 whoanellie;60
 whoanelly;60
 whocansay;60
 whodidwhatnow;60
+whodiedandleftyouincharge;60
 whodiedandmadeyouking;60
 whodoeshethinkheis;60
 whodoesshethinksheis;60
@@ -59944,7 +59962,10 @@ whoopsydaisy;60
 whoopsydoodle;60
 whoredoms;5
 whosagoodboy;60
+whosagoodgirl;60
+whosaidthat;60
 whosasking;60
+whosays;60
 whosgonnamakeme;60
 whoshuffledthese;60
 whosis;20
@@ -59956,6 +59977,7 @@ whoswho;60
 whowasit;60
 whowouldathought;60
 whowouldathoughtit;60
+whowouldhaveknown;60
 whowouldnt;60;"Anyone would say yes to that!"
 whowouldvethought;60
 whowouldvethoughtit;60
@@ -59969,6 +59991,7 @@ whyelse;50
 whyinever;60
 whyisit;50
 whyisthat;60
+whyistheoceanneartheshore;60
 whyme;60
 whyso;50
 whysthat;60
@@ -60440,6 +60463,7 @@ workhusband;60
 workhusbands;60
 workingaroom;50
 workingforpeanuts;60
+workinghardorhardlyworking;60
 workinghours;50
 workinglate;50
 workingtheories;50
@@ -60508,6 +60532,10 @@ worths;30
 worts;40
 wot;20
 wouldassoon;50
+woulditkillher;60
+woulditkillhim;60
+woulditkillthem;60
+woulditkillyou;60
 wouldjustassoon;50
 wouldntitbenice;60
 woundtoaclose;60
@@ -61082,6 +61110,8 @@ yoteamo;30
 you;50
 youandme;50
 youandmeagainsttheworld;60
+youandwhatarmy;60
+youandwhosearmy;60
 youareexcused;60
 youarewhatyoueat;60
 youawake;60
@@ -61132,6 +61162,7 @@ youhearme;60
 youidiot;60
 youknowmetoowell;60
 youknowtheone;60
+youknowwhat;60
 youllcomearound;60
 youllfitrightin;60
 youllgofar;60
