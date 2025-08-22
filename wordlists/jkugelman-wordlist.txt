@@ -4520,6 +4520,8 @@ bangkokthailand;20
 bangsinto;40
 bangui;30;???
 banh;40
+banhammer;60
+banhammers;50
 banhmi;50
 banker;50
 bankers;50
@@ -14732,6 +14734,8 @@ droppedahint;50
 droppedlikeflies;60
 droppedtheax;50
 droppedtheaxe;50
+droppedthebanhammer;60
+droppedthebanhammeron;60
 droppedtrou;60
 droppingabeat;50
 droppingacid;50
@@ -14739,6 +14743,8 @@ droppingahint;50
 droppinglikeflies;60
 droppingtheax;50
 droppingtheaxe;50
+droppingthebanhammer;60
+droppingthebanhammeron;60
 droppingtrou;60
 dropsabeat;50
 dropsacid;50
@@ -14753,10 +14759,14 @@ dropshipping;60
 dropslikeflies;20;Not grammatical
 dropstheax;50
 dropstheaxe;50
+dropsthebanhammer;60
+dropsthebanhammeron;60
 dropstrou;60
 dropsy;20;Old term for swelling (edema)
 droptheax;50
 droptheaxe;50
+dropthebanhammer;60
+dropthebanhammeron;60
 droptrou;60
 drosera;30;Sundew genus
 drosophila;30;Fruit fly genus
