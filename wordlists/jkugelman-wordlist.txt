@@ -16469,6 +16469,8 @@ entrain;30
 entrained;30
 entraining;30
 entrains;30
+entranceramp;50
+entranceramps;50
 entre;40
 entremet;30;French dessert
 entremets;30
@@ -21764,6 +21766,7 @@ graving;40
 gravity;50
 gravyboat;50
 gravyboats;50
+gravytrainwithbiscuitwheels;60
 grayarea;60
 grayareas;60
 grayfox;50
@@ -61482,6 +61485,7 @@ yourenotsotough;60
 yourenotwrong;60
 youreokay;60
 youreon;60
+youreonagravytrainwithbiscuitwheels;60
 youreonlyoldonce;60;Dr. Seuss book
 youreonmute;60
 youreoutofline;60
