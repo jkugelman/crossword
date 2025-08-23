@@ -10026,6 +10026,8 @@ cloutchasing;60
 clovenhoof;50
 clovenhoofs;40
 clovenhooves;50
+cloverfield;60
+cloverfieldparadox;60
 clowncore;60
 clowndoctor;60;Entertainer who cheers up patients at hospitals
 clowndoctors;60
@@ -15274,6 +15276,7 @@ easingout;40
 easingupto;40
 eastasia;50
 easterbunny;60
+eastercandy;60
 easternseaboard;50
 easters;40
 eastham;40;???
@@ -30372,6 +30375,8 @@ loadbearingwalls;50
 loadedgun;50
 loadedguns;50
 loadedin;40
+loadedword;60
+loadedwords;60
 loadin;40
 loadingin;40
 loadings;40;Weird plural
@@ -48416,8 +48421,12 @@ showa;20;20th century Japanese era
 showbill;50
 showbills;50
 shower;50
+showerbeer;60
+showerbeers;60
 showered;50
 showers;50
+showerscene;60
+showerscenes;60
 showgirl;60
 showgirls;60
 showhorse;50
@@ -49417,14 +49426,19 @@ sloughy;40
 slowandsteady;60
 slowandsteadywinstherace;60
 slowasmolasses;60
+slowboattochina;60
 slowburn;60
 slowburns;60
+slowcooked;60
 slowcooker;60
 slowcookers;60
+slowcooking;60
 slowdance;60
 slowdanced;60
 slowdances;60
 slowdancing;60
+slowdriver;60
+slowdrivers;60
 slowfashion;60
 slowfood;60
 slowgrind;60
@@ -50408,6 +50422,7 @@ spacealien;60
 spacecase;50
 spacecases;50
 spacecity;60
+spacedebris;60
 spaceinvaders;60
 spacejam;60
 spacelab;60
@@ -54025,6 +54040,7 @@ tenantry;40
 tenarmed;30
 tenbest;20
 tencendur;40;Warhorse of King Charlemagne
+tencloverfieldlane;60
 tenday;40
 tendays;20
 tendedto;40
@@ -54561,6 +54577,7 @@ theclock;0
 theclocksticking;60;"Hurry up!"
 theclonewars;60
 thecloud;40
+thecloverfieldparadox;60
 thecoast;40
 thecoastisclear;60
 thecolonel;30;???
@@ -56555,8 +56572,12 @@ trackstars;50
 tracthome;50
 tracthomes;50
 trad;40
+tradebarbs;60
+tradebarbswith;50
 tradebook;50
 tradebooks;50
+tradedbarbs;60
+tradedbarbswith;50
 tradedfor;40
 tradedinsults;50
 tradedon;40
@@ -56566,12 +56587,16 @@ tradefor;40
 tradeinsults;50
 tradeon;40
 tradervics;50;Tiki bar restaurant chain
+tradesbarbs;60
+tradesbarbswith;50
 tradesfor;40
 tradeson;40
 tradesto;40
 tradeswith;40
 tradeto;40
 tradewith;40
+tradingbarbs;60
+tradingbarbswith;50
 tradingfor;40
 tradinginsults;50
 tradingon;40
