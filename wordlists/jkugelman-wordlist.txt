@@ -2494,6 +2494,8 @@ antivenom;50
 antiwarprotest;50
 antiwarprotests;50
 antlike;30
+antoccino;40;Espresso drink
+antoccinos;40
 antone;40;San Antone, TX
 antons;30;Plural name
 antpaste;30
@@ -8479,6 +8481,16 @@ casque;30;Helmet
 casques;30;Helmets
 cassatt;40;Impressionist painter Mary Cassatt
 cassatts;30;Mary Cassatt paintings
+casseroledish;60
+casseroledishes;60
+cassettedeck;60
+cassettedecks;60
+cassetteplayer;60
+cassetteplayers;60
+cassetterecorder;60
+cassetterecorders;60
+cassettetape;60
+cassettetapes;60
 cassia;40;Chinese cinnamon
 cassias;40
 cassie;40
@@ -13668,6 +13680,8 @@ dist;30
 distal;40
 distantfuture;60
 distantgalaxies;50
+distantstar;60
+distantstars;60
 distemper;50
 distempered;50
 distention;40
@@ -18168,6 +18182,7 @@ fiftyninth;40;???
 fiftypointbonus;30
 fig;50
 fightagainst;40
+fightalosingbattle;60
 fightcrime;60
 fighterjet;60
 fighterjets;60
@@ -18175,12 +18190,14 @@ fighterkite;60
 fighterkites;60
 fightfor;40
 fightingagainst;40
+fightingalosingbattle;60
 fightingcrime;60
 fightingfor;40
 fightingwith;40
 fightorflight;60
 fightorflightresponse;60
 fightsagainst;40
+fightsalosingbattle;60
 fightscrime;60
 fightsfor;40
 fightswith;40
@@ -19142,6 +19159,7 @@ foto;40
 fotos;30
 fou;20
 foughtagainst;40
+foughtalosingbattle;60
 foughtcrime;60
 foughtfor;40
 foughtwith;40
@@ -26722,6 +26740,7 @@ itsallalie;60
 itsallgood;60
 itsallgoodinthehood;60
 itsallinthegame;60
+itsalosingbattle;60
 itsalottounpack;60
 itsalwayssunnyinphiladelphia;60
 itsamatterofpublicrecord;60
@@ -30681,8 +30700,8 @@ loseto;40
 losetouchwith;40
 losinganhour;50
 losingastep;50
-losingbattle;50
-losingbattles;50
+losingbattle;60
+losingbattles;60
 losingface;50
 losingonesmarbles;60
 losingouton;40
@@ -32075,6 +32094,8 @@ maser;40
 masers;40
 maseru;40;Capital of Lesotho
 mashedin;40
+mashedpotato;60
+mashedpotatoes;60
 mashesin;40
 mashie;30;Five-iron
 mashies;30
