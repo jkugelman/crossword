@@ -33251,6 +33251,7 @@ missme;60
 missmississippi;60
 missoulamontana;30
 missoulamt;30
+misspelled;60
 missrona;20
 misssaigon;60
 missthang;60
@@ -39729,8 +39730,11 @@ pianobar;50
 pianobars;50
 pianoduet;50
 pianoduets;50
+pianoforte;60
 pianolesson;50
 pianolessons;50
+pianomover;60
+pianomovers;60
 pianoplayer;50
 pianoplayers;50
 pianosolo;50
@@ -48423,23 +48427,25 @@ sideswipe;50
 sideswiped;50
 sideswipes;50
 sidney;50
+sidneybechet;50
 sidra;30;Gulf of Sidra
 sie;40;"Sprechen sie Deutsch?"
 siecle;30
 sieg;20
 siegeengine;50
 siegeengines;50
-siegetower;50
-siegetowers;50
-siegewarfare;50
-siegeweapon;50
-siegeweapons;50
-siegfriedandroy;50
+siegetower;60
+siegetowers;60
+siegewarfare;60
+siegeweapon;60
+siegeweapons;60
+siegfriedandroy;60
 siemens;30
 siena;20;Italian city
 sienese;20;Renaissance school of painting
 siepi;20
 sierraclub;50
+sierramist;60
 siesta;50
 siete;40
 sig;20
@@ -48450,12 +48456,27 @@ sigher;30
 sighers;30
 sighingat;40
 sighsat;40
+sightforsoreeyes;60
+sightgag;60
+sightgags;60
 sightofblood;50
-sightread;50
-sightreader;50
-sightreaders;50
-sightreading;50
-sightreads;50
+sightread;60
+sightreader;60
+sightreaders;60
+sightreading;60
+sightreads;60
+sightrhyme;60
+sightrhymes;60
+sightseeing;60
+sightseeingbus;60
+sightseeingbuses;60
+sightseeingtour;60
+sightseeingtours;60
+sightseeingtrip;60
+sightseeingtrips;60
+sightseer;60
+sightseers;60
+sightsees;60
 sightunseen;60
 signapact;50
 signapetition;50
