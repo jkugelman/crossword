@@ -8875,8 +8875,10 @@ celticharps;50
 cem;20
 cembalo;20;Harpsichord
 cementer;30
-cementnail;30
-cementnails;30
+cementmixer;60
+cementmixers;60
+cementnail;20;Doesn't google well, concrete nail is the term
+cementnails;20
 cementum;40;Calcified tooth substanceo
 cemeteries;50
 cemetery;50
@@ -10750,6 +10752,8 @@ conciliations;20
 concordances;40;Weird plural
 concrete;50
 concreted;40
+concretenail;50
+concretenails;50
 concretes;50
 concreting;40
 conde;40
@@ -25953,6 +25957,8 @@ innercircle;50
 innerears;30
 innergeek;60
 innerlight;50
+innerplanet;60
+innerplanets;60
 inners;30;Inside parts
 innervate;30
 innervated;30
@@ -27374,6 +27380,7 @@ joakim;20;Bibilical king of Judah
 joao;30
 job;50
 jobapplications;50
+jobeth;40
 jobmarket;50
 jobmarkets;50
 joboffer;50
@@ -31330,6 +31337,7 @@ madepossiblebyviewerslikeyou;60
 madeproud;50
 maderoom;50
 madesense;50
+madesenseof;50
 madeshortworkof;60
 madethebigbucks;60
 madethescene;60
@@ -31616,6 +31624,7 @@ makesbail;50
 makesbiscuits;60
 makesdowith;40
 makesense;50
+makesenseof;50
 makesfaces;50
 makesgood;50
 makesgoodon;50
@@ -31636,6 +31645,7 @@ makesplans;50
 makesproud;50
 makesroom;50
 makessense;50
+makessenseof;50
 makesshortworkof;60
 makesthebigbucks;60
 makesthescene;60
@@ -31695,6 +31705,7 @@ makingplans;50
 makingproud;50
 makingroom;50
 makingsense;50
+makingsenseof;50
 makingshortworkof;60
 makingthebigbucks;60
 makingthescene;60
@@ -32146,6 +32157,8 @@ masoniclodges;50
 masonicorder;50
 masonicorders;50
 masonite;30;Pressure-molded wood
+masonrynail;50
+masonrynails;50
 maspeth;30;Queens community
 masquer;40
 masquers;40
@@ -32487,6 +32500,8 @@ meatbag;60
 meatbags;60
 meatballsub;50
 meatballsubs;50
+meateater;60
+meateaters;60
 meatfork;50
 meatforks;50
 meathead;60
@@ -35897,6 +35912,8 @@ notedly;30
 notelet;30
 notelets;30
 notell;40;No tell motel
+notellmotel;60
+notellmotels;60
 noteof;20
 noter;40
 noters;40
@@ -36543,6 +36560,8 @@ odor;50;Air offensive?
 odorama;60
 odorant;40
 odorants;40
+odoreater;60
+odoreaters;60
 odored;40
 odorization;40
 odorize;40
@@ -37687,6 +37706,7 @@ oratorios;50
 orators;50
 oratrix;30
 orb;50
+orbach;40
 orbed;30
 orbi;40;Name for the Las Vegas sphere
 orbitty;40;Little white alien on "The Jetsons"
@@ -38069,6 +38089,8 @@ outerarms;50
 outergod;60;From Lovecraft
 outergods;60;From Lovecraft
 outermongolia;50
+outerplanet;60
+outerplanets;60
 outfield;50
 outfielder;50
 outfielders;50
@@ -39598,6 +39620,7 @@ petergunn;50
 peteri;30
 peterii;30
 peterpansyndrome;60;Pop psychology term for men who have never grown up
+petersellers;60
 petewentz;40
 petflap;50
 petflaps;50
@@ -46527,6 +46550,7 @@ sausagefests;60
 sauteedonions;50
 sautepan;50
 sautepans;50
+sauternes;40;French sweet wine
 sauvignonblanc;50
 sauvignonblancs;50
 sav;20
@@ -50307,6 +50331,7 @@ souptonuts;60
 sourapple;60
 sourish;30
 sournote;60
+sournotes;60
 sourpickle;50
 soursop;40
 soursops;30;Is plural legit???
@@ -53161,6 +53186,8 @@ takespains;50
 takesthebait;60
 takesthecake;60
 takesthefall;60
+takesthefield;60
+takestheheat;60
 takesthel;60
 takestheoath;50
 takesthescenicroute;50
@@ -53173,6 +53200,8 @@ takesunderoneswing;60
 takeswing;60
 takethebait;60
 takethefall;60
+takethefield;60
+taketheheat;60
 takethel;60
 taketheoath;50
 takethescenicroute;50
@@ -53220,6 +53249,8 @@ takingout;40
 takingpains;50
 takingthebait;60
 takingthefall;60
+takingthefield;60
+takingtheheat;60
 takingthel;60
 takingtheoath;50
 takingthescenicroute;50
@@ -56139,6 +56170,8 @@ tookout;40
 tookpains;50
 tookthebait;60
 tookthefall;60
+tookthefield;60
+tooktheheat;60
 tookthel;60
 tooktheoath;50
 tookthescenicroute;50
@@ -59047,6 +59080,7 @@ wa;40
 waac;30
 waacs;30
 waah;30
+wabash;40
 wac;30
 wack;30
 wackadoodle;60
