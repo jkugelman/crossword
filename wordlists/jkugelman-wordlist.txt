@@ -6063,6 +6063,7 @@ blewoff;50
 blewon;40
 blewonesownhorn;50
 blewsmoke;50
+blewuponesspot;60
 blindblindstudy;0
 blindcarboncopies;50
 blindcarboncopy;50
@@ -6157,6 +6158,7 @@ blowingoff;50
 blowingon;40
 blowingonesownhorn;50
 blowingsmoke;50
+blowinguponesspot;60
 blowinto;40
 blownaway;60
 blowntire;50
@@ -6176,8 +6178,12 @@ blowsoff;50
 blowson;40
 blowsonesownhorn;50
 blowssmoke;50
+blowsuponesspot;60
 blowtorch;50
 blowtorches;50
+blowupdoll;60
+blowupdolls;60
+blowuponesspot;60
 blowyourownhorn;50
 blt;50
 blts;50
@@ -55291,6 +55297,7 @@ throe;40;Usually plural
 throstle;30;Song thrush, or wool spinning machine
 throstles;30
 throughthelookingglass;60
+throwapot;50
 throwascareinto;50
 throwat;40
 throwatantrum;50
@@ -55299,6 +55306,7 @@ thrower;40
 throwers;40
 throwforaloop;60
 throwgames;20;???
+throwingapot;50
 throwingascareinto;50
 throwingat;40
 throwingatantrum;50
@@ -55306,6 +55314,7 @@ throwingdarts;50
 throwingforaloop;60
 throwinggames;20;???
 throwinginthediscardpile;50
+throwingpots;50
 throwingto;40
 throwingunderthebus;60
 throwinthediscardpile;50
@@ -55314,6 +55323,8 @@ thrownat;40
 thrownforaloop;60
 throwninthediscardpile;50
 thrownunderthebus;60
+throwpots;50
+throwsapot;50
 throwsascareinto;50
 throwsat;40
 throwsatantrum;50
