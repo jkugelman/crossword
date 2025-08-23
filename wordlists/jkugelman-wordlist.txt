@@ -4720,6 +4720,8 @@ baseballhats;50
 baseballplayers;50
 baseballpurist;50
 baseballpurists;50
+baseballteam;60
+baseballteams;60
 baseballtonight;50
 baseballuniform;50
 baseballuniforms;50
@@ -4749,6 +4751,8 @@ basilseeds;50
 basined;40
 basinet;30
 basinets;30
+basketballteam;60
+basketballteams;60
 basketcase;60
 basketcases;60
 basotho;20;People of South Africa
@@ -10246,11 +10250,11 @@ codded;30
 codding;30
 codebase;60
 codebases;60
-codebreaker;50
-codebreakers;50
-codecracker;50
-codecrackers;50
-codeofconduct;50
+codebreaker;60
+codebreakers;60
+codecracker;60
+codecrackers;60
+codeofconduct;60
 codepink;60
 codesmell;60
 codesmells;60
@@ -11546,6 +11550,15 @@ cri;20
 cria;20;Baby alpaca
 crib;50
 cribs;50
+cricketflour;60
+cricketmatch;60
+cricketmatches;60
+cricketpitch;60
+cricketpitches;60
+cricketplayer;60
+cricketplayers;60
+cricketteam;60
+cricketteams;60
 criedoutto;40
 cries;50
 criesofderision;50
@@ -11801,6 +11814,7 @@ cscale;40
 cscales;30
 csection;50
 csforester;50
+csgetdegrees;60;"C's get degrees"
 cshape;30
 cshaped;30
 cshapes;30
@@ -15195,6 +15209,8 @@ earlybirds;60
 earlychildhood;50
 earlylead;50
 earlyman;50
+earlyriser;60
+earlyrisers;60
 earlyteens;50
 earmark;50
 earmarks;50
@@ -19010,6 +19026,8 @@ footballhelmets;50
 footballplayers;50
 footballstadium;50
 footballstadiums;50
+footballteam;60
+footballteams;60
 footballuniform;50
 footballuniforms;50
 footbook;50;Dr. Seuss book, with "The"
@@ -23715,10 +23733,12 @@ hitsnooze;50
 hitsout;30
 hitssnooze;50
 hitsthepavement;60
+hitsthescene;60
 hitsthetop;20
 hitter;50
 hitters;50
 hitthepavement;60
+hitthescene;60
 hitthetop;20
 hittinganerve;50
 hittingapaywall;20
@@ -23726,6 +23746,7 @@ hittingat;40
 hittingawall;60
 hittingsnooze;50
 hittingthepavement;60
+hittingthescene;60
 hittingthetop;20
 hittite;30;Ancient Turkish empire
 hittites;30
@@ -23763,6 +23784,8 @@ hobocamp;50
 hobocamps;50
 hobostew;50
 hoc;40
+hockeyteam;60
+hockeyteams;60
 hockney;40;Pop artist David Hockney
 hocus;40;Hocus pocus
 hocusses;20
@@ -28953,6 +28976,8 @@ latergrams;50
 laterinlife;50
 laterite;40;Soil type
 laterman;60
+latesleeper;60
+latesleepers;60
 latestfad;50
 latestfads;50
 lateto;40
@@ -31307,6 +31332,7 @@ maderoom;50
 madesense;50
 madeshortworkof;60
 madethebigbucks;60
+madethescene;60
 madetime;50
 madetimefor;50
 madeupof;40
@@ -31612,11 +31638,13 @@ makesroom;50
 makessense;50
 makesshortworkof;60
 makesthebigbucks;60
+makesthescene;60
 makestime;50
 makestimefor;50
 makeswar;30
 makeswaves;60
 makethebigbucks;60
+makethescene;60
 maketime;50
 maketimefor;50
 makeup;50
@@ -31669,6 +31697,7 @@ makingroom;50
 makingsense;50
 makingshortworkof;60
 makingthebigbucks;60
+makingthescene;60
 makingtime;50
 makingtimefor;50
 makingwar;40
@@ -33615,6 +33644,8 @@ money;50
 moneyer;30
 moneyfornothing;60
 moneylaunderers;50
+moneyplayer;60;Competitor who performs best under pressure
+moneyplayers;60
 moneys;40
 mongo;40
 mongolianbeef;50
@@ -45650,6 +45681,8 @@ rugbyplayer;50
 rugbyplayers;50
 rugbyshirt;50
 rugbyshirts;50
+rugbyteam;60
+rugbyteams;60
 ruggeder;30
 ruggedest;30
 rugmaker;50
@@ -50465,6 +50498,7 @@ spedby;40
 spedto;40
 speechbubble;60
 speechbubbles;60
+speechtotext;60
 speedbag;50
 speedbags;50
 speedby;40
