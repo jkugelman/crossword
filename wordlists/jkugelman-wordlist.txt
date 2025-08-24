@@ -4535,16 +4535,16 @@ bankersboxes;50
 bankershours;50
 bankmanfried;50;Cryptobro Sam Bankman-Fried
 bankofmomanddad;60;Source of financial assistance for young adults relying on their parents
-bankrobberies;50
-bankrobbery;50
+bankrobberies;60
+bankrobbery;60
 bankteller;50
 banktellers;50
-bannedbook;50
-bannedbooks;50
-bannerday;50
-bannerdays;50
-banneryear;50
-banneryears;50
+bannedbook;60
+bannedbooks;60
+bannerday;60
+bannerdays;60
+banneryear;60
+banneryears;60
 bano;40
 banting;30
 bantu;40;Nigerian people/language
@@ -5088,6 +5088,7 @@ beasley;20;Athlete Michael or Cole or Malik...?
 beasport;60
 beassured;50
 beastar;40
+beastieboys;60
 beastmode;60
 beastwars;60;Classic Transformers storyline in the 90s, later adapted into a 2023 blockbuster
 beastwithin;50
@@ -7050,6 +7051,7 @@ broasters;30;Broil + roast
 broasting;30;Broil + roast
 broasts;30;Broil + roast
 broca;40;Broca area, part of the brain
+brocasbrain;50;Carl Sagan book
 brocket;20;Type of deer
 brocode;50
 brodate;50
@@ -7148,6 +7150,8 @@ brownreclusespider;50
 brownreclusespiders;50
 brownshirt;20
 brownshirts;20
+brownvboard;60
+brownvboardofeducation;60
 browsertab;60
 browsertabs;60
 browserwindow;60
@@ -16218,6 +16222,7 @@ encroachedon;40
 encroacheson;40
 encroachingon;40
 encroachon;40
+encrypted;50
 encyst;30
 encysted;30
 encysting;30
@@ -21355,6 +21360,7 @@ goobsolete;50
 goodaguessasany;60
 goodaim;50
 goodas;20
+goodasgrits;60
 goodat;40
 goodby;30
 goodcause;50
@@ -23625,6 +23631,7 @@ hightops;50
 hightraffic;50
 highwayhypnosis;60
 hiho;40
+hihoneyimhome;60
 hihos;20
 hihowareyou;50
 hihungryimdad;60
@@ -23689,6 +23696,8 @@ hipreplacements;50
 hipsocket;50
 hipsockets;50
 hipster;50
+hipsterdoofus;60
+hipsterdoofuses;60
 hipsters;50
 hiq;20
 hirable;50
@@ -30585,7 +30594,9 @@ londontimes;50
 lonegunmen;60
 lonelily;30;Weird adverb
 loneness;30
-lonestarstate;50
+lonestarstate;60
+lonesurvivor;60
+lonesurvivors;60
 lonevoice;50
 longa;40
 longan;20;Tropical fruit
@@ -34056,26 +34067,43 @@ movesinon;40
 movesinto;40
 movesto;40
 moveto;40
-movieagent;50
-movieagents;50
-moviedeal;50
-moviedeals;50
+movieagent;60
+movieagents;60
+moviedeal;60
+moviedeals;60
+moviefranchise;60
+moviefranchises;60
+movieindustry;60
 moviemarathon;60
 moviemarathons;60
-moviemogul;50
-moviemoguls;50
+moviemogul;60
+moviemoguls;60
 moviemontage;60
 moviemontages;60
-movieprop;50
-movieprops;50
-moviereel;50
-moviereels;50
+moviepalace;60
+moviepalaces;60
+movieposter;60
+movieposters;60
+moviepremiere;60
+moviepremieres;60
+movieproducer;60
+movieproducers;60
+movieprop;60
+movieprops;60
+moviequote;60
+moviequotes;60
+movierating;60
+movieratings;60
+moviereel;60
+moviereels;60
 movierental;50
 movierentals;50
-movieset;50
-moviesets;50
-moviestill;50
-moviestills;50
+moviescript;50
+moviescripts;50
+movieset;60
+moviesets;60
+moviestill;60
+moviestills;60
 movietrope;60
 movietropes;60
 moviewithinamovie;60
@@ -45186,6 +45214,8 @@ roadrash;50
 roadrunnerlasso;60;Acme invention
 roadshow;50
 roadshows;50
+roadsidediner;60
+roadsidediners;60
 roadtohell;60
 roadtoruin;60
 roadtrip;50
@@ -46917,6 +46947,7 @@ scoochover;60
 scoopseat;50
 scoopseats;50
 scopecreep;60
+scopestrial;60
 scorcher;60
 scorchers;60
 scoredon;40
@@ -47651,6 +47682,10 @@ seniormoment;50
 seniormoments;50
 seniorpartner;50
 seniorpartners;50
+seniorprank;60
+seniorpranks;60
+seniorproject;50
+seniorprojects;50
 seniorstaffer;50
 seniorstaffers;50
 seniortheses;50
@@ -48081,17 +48116,18 @@ shanksspony;40
 shannen;40;Shannen Doherty
 shannontweed;50
 shanter;40
-shaolinkungfu;50
-shaolinmaster;50
-shaolinmasters;50
-shaolinmonk;50
-shaolinmonks;50
-shaolintemple;50
-shaolintemples;50
-shaolinwushu;50
+shaolinkungfu;60
+shaolinmaster;60
+shaolinmasters;60
+shaolinmonk;60
+shaolinmonks;60
+shaolintemple;60
+shaolintemples;60
+shaolinwushu;60
 shapelier;50
 shapeliest;50
 shapen;40;Ill-shapen
+shaquilleoneal;60
 shardofglass;50
 shardsofglass;50
 shareacab;50
@@ -48218,6 +48254,7 @@ sherlock;50
 sherlockjr;50
 sherlocks;50
 sherri;40
+sherrishepherd;50;Daytime talk show host
 sherryglass;50
 sherryglasses;50
 shesakeeper;60
@@ -48364,7 +48401,7 @@ shoosin;20
 shootat;40
 shootblanks;50
 shootby;40
-shootcraps;50
+shootcraps;60
 shootee;30
 shootees;30
 shootemup;60
@@ -48374,7 +48411,7 @@ shoothoops;50
 shootingat;40
 shootingblanks;50
 shootingby;40
-shootingcraps;50
+shootingcraps;60
 shootinggallery;60
 shootinghoops;50
 shootingpool;50
@@ -48387,7 +48424,7 @@ shootpool;50
 shootsat;40
 shootsblanks;50
 shootsby;40
-shootscraps;50
+shootscraps;60
 shootshoops;50
 shootskeet;50
 shootspool;50
@@ -48433,9 +48470,9 @@ shotblanks;50
 shotblocker;50
 shotblockers;50
 shotby;40
-shotclock;50
-shotclocks;50
-shotcraps;50
+shotclock;60
+shotclocks;60
+shotcraps;60
 shotglass;50
 shotglasses;50
 shothoops;50
@@ -53043,6 +53080,7 @@ synods;40;Church councils
 synonymouswith;40
 synovial;20;Type of bone joint
 syns;30
+synthetical;40
 syntheticsnow;50
 synthwave;60;Electronic music microgenre inspired by '80s nostalgia
 syosset;30;Long Island town
@@ -53518,6 +53556,8 @@ tapdances;50
 tapdancing;50
 tapedelay;60
 tapedelays;60
+tapedispenser;50
+tapedispensers;50
 tapedon;40
 tapedto;40
 tapedup;40
@@ -53775,8 +53815,8 @@ tbond;40
 tbonds;40
 tbone;50
 tbones;50
-tbonesteak;50
-tbonesteaks;50
+tbonesteak;60
+tbonesteaks;60
 tbonewalker;50
 tboone;20;Businessman ___ Pickens
 tboonepickens;50
@@ -53878,6 +53918,7 @@ tearjerkers;60
 tearjerkingscene;60
 tearoneshairout;60
 tearsat;40
+tearsforfears;60
 tearsinto;40
 tearsofjoyemoji;60
 tearsofjoyemojis;60
@@ -54567,6 +54608,7 @@ thebattleofbunkerhill;50
 thebbc;20
 thebeard;60
 thebearerofbadnews;20
+thebeastieboys;60
 thebeastwithin;50
 thebeat;20
 thebeatenpath;60
@@ -55264,6 +55306,7 @@ thewholeshootingmatch;60
 thewickedwitchoftheeast;60
 thewickedwitchofthewest;60
 thewickerman;50
+thewinterstale;60
 thewisemen;30
 thewool;40
 thewtatour;30
@@ -57975,6 +58018,7 @@ uneasier;30;More uneasy is more common
 uneasiest;30
 uneatable;40
 uneeda;30;Biscuit brand
+unencrypted;50
 unended;40;Unfinished
 unerect;40
 unes;40
@@ -60608,6 +60652,7 @@ winterolympics;50
 winterpear;50
 winterpears;50
 wintersolstice;50
+winterstale;60
 winterxgames;50
 wintery;20;Less common spelling
 winthewar;50
