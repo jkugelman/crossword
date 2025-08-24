@@ -20321,9 +20321,9 @@ getallbutthurt;60
 getallthebreaks;50
 getalockon;50
 getamatch;50
-getana;40
+getana;50
 getanedge;50
-getanf;40
+getanf;50
 getapass;50
 getaroundto;40
 getarun;30;Eat a sandwich
@@ -20403,9 +20403,9 @@ getsajumpon;60
 getsallbutthurt;60
 getsalockon;50
 getsamatch;50
-getsana;40
+getsana;50
 getsanedge;50
-getsanf;40
+getsanf;50
 getsapass;50
 getsaroundto;40
 getsarun;30
@@ -20492,6 +20492,8 @@ gettingajumpon;60
 gettingallbutthurt;60
 gettingalockon;50
 gettingamatch;50
+gettingana;50
+gettinganf;50
 gettingapass;50
 gettingaroundto;40
 gettingarun;30
@@ -21503,9 +21505,9 @@ gotallbutthurt;60
 gotalockon;50
 gotamatch;50
 gotaminute;60
-gotana;40
+gotana;50
 gotanedge;50
-gotanf;40
+gotanf;50
 gotapass;50
 gotaroundto;40
 gotarun;30
@@ -21537,9 +21539,9 @@ gotgame;50
 gothard;20
 gothband;50
 gothbands;50
-gothicart;50
+gothicart;60
 gothichorror;60
-gothitched;50
+gothitched;60
 gotickedout;60
 gotickedoutby;50
 gotideas;50
