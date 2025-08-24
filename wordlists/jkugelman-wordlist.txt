@@ -9435,9 +9435,18 @@ chinchin;50;???
 chine;20
 chines;20
 chineseamerican;50
+chinesefoodbox;60
+chinesefoodboxes;60
 chineselantern;50
 chineselanterns;50
+chinesepuzzle;60
+chinesepuzzles;60
+chineserestaurant;60
+chineserestaurants;60
+chineserestaurantsyndrome;60
 chinesetakeout;60
+chinesetakeoutcontainer;60
+chinesetakeoutcontainers;60
 chinet;40;Paper goods company (plates, bowls, napkins)
 chinfest;60
 chinfests;60
@@ -38414,6 +38423,8 @@ oysterbars;60
 oystercrab;50
 oystercrabs;50
 oystermushrooms;50
+oysterpail;60;Chinese takeout container
+oysterpails;60
 oz;50
 ozarker;30
 ozarkers;30
@@ -38723,6 +38734,8 @@ papercranes;50
 paperlaunch;60;Release of a hotly anticipated product that ends up having extremely limited availability
 paperlaunches;60
 paperorplastic;60
+paperpail;60;Chinese takeout container
+paperpails;60
 papertown;60;Copyright trap
 papertowns;60
 paperweight;50
