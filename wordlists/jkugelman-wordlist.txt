@@ -27949,6 +27949,8 @@ keepmeintheloop;60
 keepmum;50
 keepon;40
 keeponescool;50
+keepoutsign;60
+keepoutsigns;60
 keeppace;50
 keeppacewith;50
 keepsake;50
@@ -39523,16 +39525,20 @@ peerce;30;Tenor Jan Peerce (1904-1984)
 peeredat;40
 peeredin;40
 peeredinto;40
+peeredoutat;40
 peeress;30
 peeresses;30
 peerin;40
 peeringat;40
 peeringin;40
 peeringinto;40
+peeringoutat;40
 peerinto;40
+peeroutat;40
 peersat;40
 peersin;40
 peersinto;40
+peersoutat;40
 peersupport;60
 pees;5
 peet;40;Actress Amanda Peet
@@ -43885,6 +43891,7 @@ reekedof;40
 reekingof;40
 reekof;40
 reeksof;40
+reelbigfish;60
 reeledin;40
 reeledout;40
 reeler;40
