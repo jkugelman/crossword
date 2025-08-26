@@ -1039,6 +1039,7 @@ aghas;40
 agi;20;Will Shortz won't accept it
 aginglikefinewine;60
 aginglikemilk;60
+agirlcandream;60
 agita;50
 agleam;40
 aglet;50
@@ -1097,6 +1098,7 @@ aguafrescas;40
 aguarico;30;River in Ecuador
 ague;40;Fever
 agues;40
+aguycandream;60
 aguything;60
 ah;40
 aha;50
@@ -1630,8 +1632,9 @@ allonred;30;Green paint
 allosaur;50
 allosaurus;50
 allosauruses;50
-allottee;30
-allottees;30
+allotee;20;Variant spelling of allottee
+allottee;40
+allottees;40
 alloutresponse;50
 alloutresponses;50
 alloutwar;30
@@ -4490,6 +4493,7 @@ ban;50
 bana;40;Actor Eric Bana
 bananaboat;60
 bananaboatsong;60
+bananabread;60
 bananacream;60
 bananacreampie;60
 bananacreampies;60
@@ -7251,6 +7255,7 @@ bueno;40
 buenos;40
 buffalocalf;50
 buffalocalves;50
+buffalomeat;50
 buffalowing;60
 buffalowings;60
 bufferzone;50
@@ -18668,6 +18673,7 @@ fleesto;40
 fleeted;30;Flitted
 fleethescene;60
 fleeto;40
+fleetstreet;60
 fleiss;40
 flense;40;Strip of blubber or skin, as a whale
 flensed;40
@@ -21239,8 +21245,8 @@ golconda;40
 golcondas;40
 golddigger;60
 golddiggers;60
-golddoubloon;50
-golddoubloons;50
+golddoubloon;60
+golddoubloons;60
 goldducat;50
 goldducats;50
 golddust;50
@@ -21253,14 +21259,15 @@ goldencalves;50
 goldencanepalm;50
 goldencanepalms;50
 goldenco;30
-goldeneye;50
-goldengirl;50
+goldeneye;60
+goldengirl;60
+goldengirls;60
 goldenhair;50
 goldenhind;50;Sir Francis Drake's ship, first to circumnavigate the world
 goldenlab;50
 goldenlabs;50
-goldenoreo;50
-goldenoreos;50
+goldenoreo;60
+goldenoreos;60
 goldenshower;5
 goldenshowers;5
 goldfishbowl;50
@@ -25786,6 +25793,7 @@ indianapa;20
 indianapoliscolt;50
 indianapoliscolts;50
 indianapolisin;30
+indianbread;50
 indiancorn;50
 indicant;40
 indicants;40
@@ -28539,6 +28547,11 @@ kummels;30;Kummel's disease
 kumyz;30;Fermented dairy product
 kundalini;40;Concept in Hinduism
 kung;40;Kung fu, kung pao
+kungpaobeef;60
+kungpaochicken;60
+kungpaopork;60
+kungpaoshrimp;60
+kungpaotofu;60
 kuntakinte;60
 kupe;40;Legendary Polynesian explorer foundational to Maori cultural history, playable in Civ VI as a leader
 kurta;30;Indian shirt
@@ -29340,6 +29353,7 @@ learnof;40
 learnsof;40
 learnsto;30
 learnto;30
+learntoread;60
 leas;40
 leasedto;40
 leaser;40
@@ -33759,6 +33773,7 @@ monism;40
 monisms;20;Valid plural???
 monist;40
 monists;40
+monkeybread;60
 monkeymind;60
 monkeypaw;60
 monkeyspaw;60
@@ -37273,6 +37288,7 @@ onebetter;0
 onebit;40
 onecall;30
 onecalorie;30
+onecandream;60
 onecar;50;Like a small garage
 onecarat;30
 onecase;20
@@ -60251,6 +60267,7 @@ whelming;30
 whelms;30
 when;50
 whendoesitend;60
+whendoweeat;60
 whenisenoughenough;60
 whenisit;50
 whentheshoefits;60
