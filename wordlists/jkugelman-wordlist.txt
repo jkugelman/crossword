@@ -9661,6 +9661,7 @@ churningout;50
 churnout;50
 churnsout;50
 chuted;30
+chutesandladders;60
 chyna;30
 ci;40
 cia;50
@@ -42535,8 +42536,8 @@ raccooncub;50
 raccooncubs;50
 raccoonfur;50
 raceagainsttime;60
-racebib;50
-racebibs;50
+racebib;60
+racebibs;60
 raceby;40
 racedby;40
 racedin;40
@@ -46257,7 +46258,8 @@ sainttropez;50
 saintvitus;40
 saipan;30;Marianas island
 sais;30
-saison;20;French season
+saison;40;French season, type of alt
+saisons;40
 saith;30
 sajak;50
 sak;20
@@ -49784,6 +49786,7 @@ snakeplant;50
 snakeplants;50
 snaker;30
 snakeriver;60
+snakesandladders;60
 snapat;50
 snapbrim;50
 snapbrimhat;50
