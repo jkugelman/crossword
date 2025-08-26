@@ -5062,6 +5062,7 @@ beansprouts;50
 beanstalk;60
 beanstalks;50
 beantomeatratio;20
+beapal;60
 bearbait;50
 bearcrawl;50
 bearcrawls;50
@@ -11702,6 +11703,7 @@ crossers;40
 crossespartylines;60
 crossest;50
 crossesthepicketline;60
+crossestobear;60
 crossfade;50
 crossfaded;50
 crossfader;50
@@ -11749,6 +11751,7 @@ crosssectioned;50
 crosssectioning;50
 crosssections;50
 crossthepicketline;60
+crosstobear;60
 crossword;60
 crosswordconstructor;50
 crosswordconstructors;60
@@ -17790,26 +17793,33 @@ fas;30;Scale notes [occasional]
 fasciae;30
 fascicle;30
 fascicles;30
-fashionmag;50
-fashionmagazine;50
-fashionmagazines;50
-fashionmags;50
-fashionreporter;50
-fashionreporters;50
+fashionmag;60
+fashionmagazine;60
+fashionmagazines;60
+fashionmags;60
+fashionreporter;60
+fashionreporters;60
+fashiontip;60
+fashiontips;60
+fashionvictim;60
+fashionvictims;60
+fashionweek;60
 faso;40
 fastandfurious;60
 fastball;50
-fastballpitcher;50
-fastballpitchers;50
+fastballpitcher;60
+fastballpitchers;60
 fastballs;50
-fastcar;40
-fastcars;40
+fastcar;50
+fastcars;50
 fastcasual;60
 fasteddie;50
 fastenedonto;40
 fasteningonto;40
 fastenonto;40
-fastenseatbelts;20
+fastenseatbelts;50
+fastenseatbeltssign;60
+fastenseatbeltssigns;60
 fastensonto;40
 fastenyourseatbeltitsgoingtobeabumpyride;60
 fastenyourseatbeltitsgonnabeabumpyride;60
@@ -20356,6 +20366,7 @@ getana;50
 getanedge;50
 getanf;50
 getapass;50
+getarawdeal;60
 getaroundto;40
 getarun;30;Eat a sandwich
 getasay;50
@@ -20438,6 +20449,7 @@ getsana;50
 getsanedge;50
 getsanf;50
 getsapass;50
+getsarawdeal;60
 getsaroundto;40
 getsarun;30
 getsasay;50
@@ -20526,6 +20538,7 @@ gettingamatch;50
 gettingana;50
 gettinganf;50
 gettingapass;50
+gettingarawdeal;60
 gettingaroundto;40
 gettingarun;30
 gettingasay;50
@@ -21544,6 +21557,7 @@ gotana;50
 gotanedge;50
 gotanf;50
 gotapass;50
+gotarawdeal;60
 gotaroundto;40
 gotarun;30
 gotasay;50
@@ -36810,6 +36824,7 @@ ohairs;20
 ohana;40;Hawaiian for family
 oharas;40
 ohawiseguy;60
+ohbeapal;60
 ohbother;60
 ohbtw;40
 ohcomenow;60
@@ -38746,6 +38761,7 @@ pandit;30
 pandl;20;Profit and loss
 paneity;30;Quality of being bread
 panem;40;Hunger Games nation
+panerabread;60
 panflute;50
 panflutes;50
 panforgold;50
@@ -50467,6 +50483,8 @@ souljaboy;60;Soulja Boy, pioneering Grammy-nominated rapper
 soulmate;60
 soulmates;60
 soulonice;60;Acclaimed Black prison memoir
+soundadvice;50
+soundasleep;50
 sounds;50
 soundsawful;60
 soundsdangerous;60
