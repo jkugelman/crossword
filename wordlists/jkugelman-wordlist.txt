@@ -26737,12 +26737,14 @@ isthatano;60
 isthataquestion;60
 isthatayes;60
 isthatclear;60
+isthatit;60
 isthatso;60
 isthatyou;60
 isthereanyonehome;60
 istheskyblue;60
 isthisabadtime;60
 isthisbetter;60;"Seem like an improvement?"
+isthisit;60
 isthisyourcard;60
 isthmi;30
 istilldobutiusedtotoo;60
@@ -31473,7 +31475,8 @@ madethescene;60
 madetime;50
 madetimefor;50
 madeupof;40
-madewar;30
+madewar;40
+madewaron;40
 madewaves;60
 madhouse;60
 madhouses;60
@@ -31780,7 +31783,8 @@ makesthebigbucks;60
 makesthescene;60
 makestime;50
 makestimefor;50
-makeswar;30
+makeswar;40
+makeswaron;40
 makeswaves;60
 makethebigbucks;60
 makethescene;60
@@ -31793,7 +31797,8 @@ makeupbrush;50
 makeupbrushes;50
 makeupcase;60
 makeupcases;60
-makewar;30
+makewar;40
+makewaron;40
 makewaves;60
 makin;40;"Makin' Whoopee"
 makingabundle;60
@@ -38162,6 +38167,8 @@ ostend;20;Belgian port
 ostende;20;City
 osteoid;20;Unmineralized bone tissue
 osteotomy;40
+osteria;40
+osterias;40
 osters;40
 ostia;20;Anatomical openings
 ostinato;50
