@@ -5976,6 +5976,8 @@ blackbagoperation;50
 blackbagoperations;50
 blackbart;50
 blackbeauty;50
+blackbelt;60
+blackbelts;60
 blackbodyradiation;60
 blackbottom;50;Jazz Age dance
 blackbox;60
@@ -6212,6 +6214,8 @@ blu;20
 bluebeard;50
 bluebeetle;50;D.C. superhero movie
 bluebells;50
+bluebelt;60
+bluebelts;60
 blueberries;50
 blueberry;50
 blueblazes;50
@@ -7131,8 +7135,8 @@ broughtonesagame;60
 brownbagged;50
 brownbaglunch;50
 brownbaglunches;50
-brownbelt;50
-brownbelts;50
+brownbelt;60
+brownbelts;60
 brownbetty;60
 brownbettys;60
 brownbomber;50;Nickname for boxer Joe Louis
@@ -17066,6 +17070,7 @@ euchred;30;Exhausted, or got the better of in a card game
 euchres;30
 euclase;20;Mineral
 eucre;20
+eudaemon;40;Greek daemon
 eudaemonia;30;Happiness
 eugeneonegin;50;Pushkin novel
 eugeneor;30
@@ -19950,6 +19955,7 @@ garbageday;50
 garbagepeople;50
 garbageperson;50
 garbages;30;Weird plural
+gardasil;40;HPV vaccine
 garde;40
 gardenbox;50
 gardenboxes;50
@@ -21912,6 +21918,8 @@ greekolive;50
 greekolives;50
 greenash;30;Tree
 greenbaywi;30
+greenbelt;60
+greenbelts;60
 greenbusinesses;50
 greencabbage;50
 greencabbages;50
@@ -37447,6 +37455,8 @@ oneseeds;50
 oneset;30
 onesgoldenyears;0
 oneshare;30
+oneshotdeal;60
+oneshotdeals;60
 onesickpuppy;60
 oneside;30
 onesock;30
@@ -39456,14 +39466,18 @@ peeing;5
 peekat;40
 peekedat;40
 peekedin;40
+peekedinon;40
 peekedinto;40
 peekin;40
 peekingat;40
 peekingin;40
+peekinginon;40
 peekinginto;40
+peekinon;40
 peekinto;40
 peeksat;40
 peeksin;40
+peeksinon;40
 peeksinto;40
 peeledrubber;60
 peelingrubber;60
@@ -42253,6 +42267,8 @@ purled;40
 purlie;20;Musical
 purling;40
 purls;40
+purplebelt;60
+purplebelts;60
 purpledye;20;Green paint, right???
 purpledyes;20
 purplegallinule;50;Bird that Matthew Stock likes
@@ -43674,6 +43690,10 @@ redates;20
 redbarns;20
 redbaron;60
 redbeansandrice;50
+redbelt;60
+redbelts;60
+redberet;60
+redberets;60
 redbird;50
 redbirds;50
 redcape;50
@@ -48697,15 +48717,15 @@ sid;50
 sidearming;30
 sidebangs;60
 sideburns;60
-sideeffect;50
-sideeffects;50
+sideeffect;60
+sideeffects;60
 sideeye;50
 sidehustle;60
 sidehustles;60
 sidenote;50
 sidenotes;50
-sidepiece;50
-sidepieces;50
+sidepiece;60
+sidepieces;60
 sidequest;60
 sidequests;60
 sider;40
@@ -48733,8 +48753,8 @@ sidra;30;Gulf of Sidra
 sie;40;"Sprechen sie Deutsch?"
 siecle;30
 sieg;20
-siegeengine;50
-siegeengines;50
+siegeengine;60
+siegeengines;60
 siegetower;60
 siegetowers;60
 siegewarfare;60
@@ -51330,7 +51350,7 @@ standtrial;50
 standupguy;60
 standupguys;60
 standupto;40
-stanfor;40
+stanfor;50
 stang;40;Ford Mustang, familiarly
 stangs;40
 stankat;40
@@ -51338,15 +51358,15 @@ stanky;20;Baseball player Eddie Stanky
 stanlee;60
 stanleys;30
 stanmusial;50
-stannedfor;40
+stannedfor;50
 stannic;30;Of tin
-stanningfor;40
+stanningfor;50
 stannis;30
 stanno;20;Tin: Prefix
 stannous;40;Of tin
 stannum;30;Latin for tin, source of "Sn"
 stans;50;Bad plural, fine as superfans (or verb)
-stansfor;40
+stansfor;50
 stantheman;60
 stapedes;30;Middle ear bone
 stapes;30;???
@@ -58081,6 +58101,8 @@ understudy;50
 underthewire;60
 underwaterbase;60
 underwaterbases;60
+undierun;60
+undieruns;60
 undimmed;30
 undine;30;Water nymph
 undoings;40
@@ -61443,6 +61465,11 @@ yellen;40;Treasure Secretary Janet Yellen
 yellingat;40
 yellingto;40
 yello;40;Mello Yello
+yellowbellied;60
+yellowbellies;60
+yellowbelly;60
+yellowbelt;60
+yellowbelts;60
 yellowcard;60
 yellowcarded;60
 yellowcards;60
