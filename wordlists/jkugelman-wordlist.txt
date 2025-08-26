@@ -25706,6 +25706,7 @@ inapanic;50
 inapet;40
 inapie;20
 inapile;40
+inapoke;40
 inapother;40
 inapposite;30
 inappositeness;30
@@ -27928,6 +27929,7 @@ keepingat;40
 keepingcloseto;40
 keepingin;40
 keepinginline;50
+keepingitpg;60
 keepingkosher;50
 keepingmum;50
 keepingon;40
@@ -27939,6 +27941,8 @@ keepingtabson;50
 keepingto;40
 keepinline;50
 keepitlight;60;"Woah, positive vibes only here!"
+keepitpg;60
+keepitshort;60
 keepittoyourself;60
 keepkosher;50
 keepmeintheloop;60
@@ -27954,6 +27958,7 @@ keepsat;40
 keepscloseto;40
 keepsin;40
 keepsinline;50
+keepsitpg;60
 keepskosher;50
 keepsmum;50
 keepson;40
@@ -28021,6 +28026,7 @@ keptat;40
 keptcloseto;40
 keptin;40
 keptinline;50
+keptitpg;60
 keptkosher;50
 keptmum;50
 kepton;40
