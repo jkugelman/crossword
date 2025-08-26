@@ -2562,7 +2562,7 @@ apapsis;30;Astronomy word
 apapsises;30
 aparade;20
 aparicio;40;Yalitza Aparicio, Best Actress nominee from "Roma" in 2018
-aparthistory;30
+aparthistory;40
 apartotel;20;Apartment hotel
 apathies;30
 apatite;30;Mineral
@@ -2583,14 +2583,14 @@ apelet;20
 apelets;20
 apenglish;40
 apennysavedisapennyearned;60
-aper;30
+aper;40
 apercu;50;Clever summation
 apercus;50;Clever summations
 aperient;30;Laxative
 aperies;30;Bad plural???
 aperol;40;Italian bitter apéritif
-apers;30
-aperson;30;Each
+apers;40
+aperson;40;Each
 apery;40
 apeshit;5
 apesuit;50
@@ -2599,29 +2599,29 @@ apewoman;50
 apewomen;50
 apfrench;40
 apgerman;40
-apgov;30
+apgov;40
 aphanite;20;Igneous rock
 aphanites;20;Igneous rocks
-aphasia;30;Language disorder caused by brain damage
-aphasic;30;Language disorder caused by brain damage
-aphelia;30;Highest orbital points
-aphesis;30;Linguistics term for loss of an unstressed first syllable, e.g. 'Merican
+aphasia;40;Language disorder caused by brain damage
+aphasic;40;Language disorder caused by brain damage
+aphelia;40;Highest orbital points
+aphesis;40;Linguistics term for loss of an unstressed first syllable, e.g. 'Merican
 aphetic;30
 aphistory;40
-aphotic;30;Ocean zone where there's no light
+aphotic;40;Ocean zone where there's no light
 api;20
 apiano;0
 apis;20;Roman bull god
 apish;50
-apitalian;30
-apjapanese;30
+apitalian;40
+apjapanese;40
 apl;20
 aplasia;30;Missing organ or limb birth defect
-aplatin;30
+aplatin;40
 aplaywithinaplay;60
-aplit;30
+aplit;40
 aplus;40
-apmacro;30
+apmacro;40
 apmusictheory;40
 apneal;40
 apneas;30
@@ -2638,18 +2638,18 @@ apojove;30;Astronomy word
 apojoves;30
 apolar;30;Nonpolar is preferred
 apolloi;40
-apolloii;30
-apolloix;30
+apolloii;40
+apolloix;40
 apollos;30
-apollovi;30
-apollovii;30;First successful manned flight
-apolloviii;30;First to reach moon's orbit
-apollox;30;Dress rehearsal for moon landing
+apollovi;40
+apollovii;40;First successful manned flight
+apolloviii;40;First to reach moon's orbit
+apollox;40;Dress rehearsal for moon landing
 apolloxi;40;First moon landing
-apolloxii;30;Second moon landing
+apolloxii;40;Second moon landing
 apolloxiii;40;Movie
 apolo;40;Skater Ohno
-apologue;30
+apologue;40;Fable with animals as characters
 apologycard;60
 apologycards;60
 apologytour;60
@@ -2686,8 +2686,8 @@ appearsin;40
 appearson;40
 appenines;40;???
 appii;20
-applauder;30
-applauders;30
+applauder;40
+applauders;40
 applause;50
 applausemeter;60
 applausemeters;60
@@ -2719,14 +2719,14 @@ appletinis;60
 applevisionpro;60;Apple mixed-reality headset
 applicablelaws;60
 appliedresearch;50
-applier;30
-appliers;30
+applier;40
+appliers;40
 applyforcollege;50
-apposable;30
-appose;30
-apposed;30
-apposes;30
-apposing;30
+apposable;40
+appose;40
+apposed;40
+apposes;40
+apposing;40
 apposite;40
 appositely;40
 appositeness;40
@@ -2743,7 +2743,7 @@ approveof;40
 approvesof;40
 approvingof;40
 appsharing;60
-appsych;30
+appsych;40
 appt;40
 appts;40
 apr;40
@@ -2769,8 +2769,8 @@ apsides;20;Nearest and farthest points of an orbit
 apsis;20;Nearest or furthest point of an orbit
 apso;40;Lhasa apso dog
 apspanish;40
-apstatistics;30
-apstats;30
+apstatistics;40
+apstats;40
 apt;50
 apted;20;Bond Director Michael
 apteral;30;Lacking columns, as a church
@@ -2782,7 +2782,7 @@ apts;40
 aptto;40
 apu;50
 apulian;20
-apusgov;30
+apusgov;40
 aqaba;40;Jordanian port
 aqi;40
 aquacade;30
@@ -4394,6 +4394,7 @@ bajablast;60
 bakedbrie;50
 bakedin;50
 bakedziti;50
+bakerstreet;60
 bakingsheet;50
 bakingsheets;50
 bakkers;30
@@ -12497,6 +12498,7 @@ daylightsavingtime;50
 dayne;30;'80s singer Taylor Dayne
 dayofthedead;60
 dayofthelord;60;Apocalyptic event considered by the prophets in the Hebrew Bible
+dayoldbread;60;French toast ingredient
 daysend;50
 daystocome;50
 daytrade;50
@@ -21845,6 +21847,8 @@ greasingthepalm;50
 greasyneale;50
 greatape;50
 greatapes;50
+greatballsoffire;60
+greatbambino;60
 greatdanger;50
 greatdayforup;60;Dr. Seuss book
 greateagle;60;Massive bird from "The Lord of the Rings"
@@ -22625,7 +22629,10 @@ hangsoutwith;40
 hangstough;50
 hangswith;40
 hangthecost;60
-hangtough;50
+hangtight;60
+hangtime;60
+hangtimes;60
+hangtough;60
 hangwith;40
 hanif;20
 hankhill;60
@@ -25222,6 +25229,7 @@ illbeokay;60
 illbet;60;"Of course"
 illbethere;60
 illbite;60
+illchanceit;60
 illeatyoualive;60
 illeatyouforbreakfast;60
 illegalactivity;60
@@ -41717,8 +41725,8 @@ prises;30;Forces two things apart
 prising;30;Forcing two things apart
 prismoid;30
 prismoids;30
-prisonbreak;50
-prisonbreaks;50
+prisonbreak;60
+prisonbreaks;60
 prisoncell;50
 prisoncells;50
 prisoning;40
@@ -58390,8 +58398,8 @@ uranus;50
 uranyl;30
 urb;20
 urbanart;50
-urbaner;30
-urbanest;30
+urbaner;40;Listed first in dictionary, but more urbane is better in ngram
+urbanest;40
 urbani;20;Pope
 urbanii;20
 urbaniv;20
@@ -61511,6 +61519,8 @@ yogamats;60
 yogapants;60
 yogapose;60
 yogaposes;60
+yogaretreat;60
+yogaretreats;60
 yogasession;50
 yogasessions;50
 yogastudio;60
