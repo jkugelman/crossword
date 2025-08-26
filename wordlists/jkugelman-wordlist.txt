@@ -1271,6 +1271,7 @@ airquality;50
 airqualityindex;50
 airqualityindexes;50
 airrace;50
+airraces;50
 airraidwarden;50
 airraidwardens;50
 airsafety;50
@@ -2567,26 +2568,26 @@ apapsis;30;Astronomy word
 apapsises;30
 aparade;20
 aparicio;40;Yalitza Aparicio, Best Actress nominee from "Roma" in 2018
-aparthistory;40
+aparthistory;50
 apartotel;20;Apartment hotel
 apathies;30
 apatite;30;Mineral
 apatites;30;Minerals
 apb;40
 apbio;50
-apbiology;40
+apbiology;50
 apbs;40
 apc;20
-apcalc;40
-apcalculus;40
+apcalc;50
+apcalculus;50
 apcarter;40;Country musician A. P. Carter (1891-1960)
-apchinese;40
+apchinese;50
 apcs;20
 ape;50
 apedom;50
 apelet;20
 apelets;20
-apenglish;40
+apenglish;50
 apennysavedisapennyearned;60
 aper;40
 apercu;50;Clever summation
@@ -2602,9 +2603,10 @@ apesuit;50
 apesuits;50
 apewoman;50
 apewomen;50
-apfrench;40
-apgerman;40
+apfrench;50
+apgerman;50
 apgov;40
+apgovernment;50
 aphanite;20;Igneous rock
 aphanites;20;Igneous rocks
 aphasia;40;Language disorder caused by brain damage
@@ -2612,20 +2614,20 @@ aphasic;40;Language disorder caused by brain damage
 aphelia;40;Highest orbital points
 aphesis;40;Linguistics term for loss of an unstressed first syllable, e.g. 'Merican
 aphetic;30
-aphistory;40
+aphistory;50
 aphotic;40;Ocean zone where there's no light
 api;20
 apiano;0
 apis;20;Roman bull god
 apish;50
-apitalian;40
-apjapanese;40
+apitalian;50
+apjapanese;50
 apl;20
 aplasia;30;Missing organ or limb birth defect
 aplatin;40
 aplaywithinaplay;60
 aplit;40
-aplus;40
+aplus;50
 apmacro;40
 apmusictheory;40
 apneal;40
@@ -2748,7 +2750,8 @@ approveof;40
 approvesof;40
 approvingof;40
 appsharing;60
-appsych;40
+appsych;50
+appsychology;50
 appt;40
 appts;40
 apr;40
@@ -2773,8 +2776,8 @@ apses;40
 apsides;20;Nearest and farthest points of an orbit
 apsis;20;Nearest or furthest point of an orbit
 apso;40;Lhasa apso dog
-apspanish;40
-apstatistics;40
+apspanish;50
+apstatistics;50
 apstats;40
 apt;50
 apted;20;Bond Director Michael
@@ -8213,6 +8216,7 @@ captcha;60
 captchaimage;60
 captchaimages;60
 captchas;60
+capuchon;40;Mardis grat hat
 caputo;20
 capvisor;50;???
 capybara;60
@@ -8392,10 +8396,11 @@ carpsat;40
 carputer;50
 carputers;50
 carr;40
-carrace;30
-carracer;30
-carraces;30
-carracing;30
+carrace;50
+carracer;40
+carracers;40
+carraces;50
+carracing;50
 carrells;30;???
 carriagepainter;0
 carriagereturn;60
@@ -17836,6 +17841,7 @@ fastenyourseatbeltitsgoingtobeabumpyride;60
 fastenyourseatbeltitsgonnabeabumpyride;60
 fasterthangreasedlightning;60
 fastfive;50
+fastfood;60
 fastgrowing;50
 fastlearner;50
 fastlearners;50
@@ -18179,6 +18185,8 @@ ferretkit;50
 ferretkits;50
 ferretout;50
 ferretsout;50
+ferriage;40;Transportation by ferry
+ferriages;30
 ferrigno;50
 ferro;40;Iron-
 ferule;30;Ruler for slapping children on the hand
@@ -34204,7 +34212,10 @@ mrandmrs;50
 mrapril;20
 mrb;20
 mrbeast;60
+mrblonde;60;From "Reservoir Dogs"
+mrblue;50;From "Reservoir Dogs"
 mrbojangles;60
+mrbrown;50;From "Reservoir Dogs"
 mrbrowncanmoocanyou;60;Dr. Seuss book
 mrbungle;60
 mrc;20
@@ -34233,8 +34244,10 @@ mrn;20
 mrna;40
 mrnoodle;40;"Sesame Street" character
 mrnovak;30;1963-65 TV series
+mrorange;60;From "Reservoir Dogs"
 mrouch;60;Mr. Ouch, electrical hazard symbol for kids
 mrpeanut;50
+mrpink;60;From "Reservoir Dogs"
 mrred;40;Cincinatti Reds mascot
 mrree;30;Captain Underpants janitor, first name Toilette
 mrroarke;50
@@ -34255,6 +34268,7 @@ mrspeel;40;Emma Peel of "The Avengers", as she was known
 mrssmith;50
 mrswho;50;Character in "A Wrinkle in Time"
 mrt;40
+mrwhite;50;From "Reservoir Dogs" or "Breaking Bad"
 mrwilson;50
 mrx;20
 ms;40
@@ -34899,8 +34913,8 @@ nbamvp;50
 nbamvps;50
 nbaref;50
 nbarefs;50
-nbaring;50
-nbarings;50
+nbaring;60
+nbarings;60
 nbastar;40
 nbastars;40
 nbasummerleague;50
@@ -45321,7 +45335,7 @@ roarer;40
 roarers;40
 roarin;20
 roaringat;40
-roarings;30
+roarings;40;Weird plural
 roarsat;40
 roastbeast;50;Whoville meal
 roastchicken;50
@@ -51519,15 +51533,15 @@ statesenates;50
 statesenator;50
 statesenators;50
 statetelevision;60
-staticip;30
-staticips;30
+staticip;50
+staticips;50
 statin;50;Cholesterol-lowering drug
 statins;50
 stationhouse;60
 stationhouses;50
-statism;40
-statist;40
-statists;40
+statism;50
+statist;50
+statists;50
 statler;40;Old country group The Statler Brothers
 statlerandwaldorf;60
 stator;40
@@ -55217,6 +55231,7 @@ thereviewsarein;60
 therewasanattempt;60
 therewasnotadryeyeinthehouse;60
 therewasntadryeyeinthehouse;60
+therewego;60
 thereyougo;60
 thereyouhaveit;60
 thericebelt;40
