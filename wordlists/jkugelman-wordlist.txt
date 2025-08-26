@@ -2469,6 +2469,7 @@ antidotes;50
 antihero;60
 antiheroes;60
 antihumor;60
+antilice;50
 antilog;40
 antilogs;30
 antimatter;50
@@ -3653,8 +3654,8 @@ ateitup;50
 atekosher;50
 atelate;0
 ateless;40
-atelier;30;Art workshop
-ateliers;30
+atelier;40;Art workshop
+ateliers;40
 atelikeananimal;60
 atelunch;30
 ateof;40
@@ -5185,6 +5186,10 @@ bedim;30
 bedimmed;30
 bedimming;30
 bedims;30
+bedizen;40;Decorate gaudily
+bedizened;40
+bedizening;40
+bedizens;40
 bedless;30
 bedmate;50
 bedmates;50
@@ -9141,8 +9146,8 @@ chas;40
 chasmal;30
 chasse;30;Dance step
 chassed;30;Performed a chassé
-chaster;30
-chastest;30
+chaster;50
+chastest;50
 chastiser;40
 chastisers;40
 chatarea;20
@@ -15349,7 +15354,8 @@ easyway;50
 easywin;50
 easywins;50
 eat;50
-eatable;30;Not just edible, but also palatable
+eatable;40;Not just edible, but also palatable
+eatables;40
 eatalone;40
 eatameal;30
 eatandrun;50
@@ -17256,6 +17262,8 @@ exally;30
 exalts;50
 examinationroom;50
 exante;40;Ex-ante or notional demand refers to the desire for goods and services that is not backed by the ability to pay for those goods and services
+exarch;30;Ancient governor
+exarchs;30
 exarmy;30
 exc;20
 excathedra;60;How the Pope speaks "from the chair"
@@ -19871,6 +19879,8 @@ gamblingon;40
 gameact;20;1831 UK law
 gameapp;20
 gameapps;20
+gameboy;60
+gameboys;60
 gameconsole;60
 gameconsoles;60
 gamedemo;60
@@ -20202,6 +20212,7 @@ geegaw;20;Variant of gewgaw
 geegaws;20
 geeiwonderwhy;60
 geekedout;50
+geekgirlcon;60
 geekier;50
 geekiest;50
 geeking;50
@@ -26466,8 +26477,8 @@ irade;20;Muslim decree
 irades;20;Muslim decrees
 irae;40
 iraglass;60
-irail;30;Train track part
-irails;30;Train track parts
+irail;40;Train track part
+irails;40;Train track parts
 irak;20
 irakaplan;30
 iraki;20
@@ -27167,6 +27178,7 @@ jackthegiantslayer;50;Movie
 jacktorrance;60;From "The Shining"
 jackwebb;50
 jacobeanera;50
+jacobian;40
 jacobin;40
 jacobins;40
 jacobs;50;Marc Jacobs
@@ -28742,6 +28754,7 @@ lagered;30;???
 lagerphone;50;Percussion instrument
 lagers;50
 lah;20
+lahabana;40;Havana, in Spanish
 lahaina;40;Hawaiian town
 lahiri;40;Jhumpa Lahiri, Pulitzer winner for "Interpreter of Maladies" (1999)
 lahore;40;Second largest city in Pakistan
@@ -35021,7 +35034,7 @@ necropolis;60
 necrose;40
 ned;50
 nedicks;30;Old defunct fast food chain
-nedkelly;50
+nedkelly;60
 neds;30
 nee;40
 needahand;60
@@ -37203,6 +37216,7 @@ omakase;40;Japanese phrase, used when ordering food in restaurants, that means "
 oman;50;Where you'll find the Land of Frankincense
 omarbongo;40;President of Gabon for 42 years
 omari;20
+omarosa;40
 omars;30
 omarsy;40;"Lupin" actor Omar Sy
 omasum;30;Third stomach of a ruminant
@@ -38165,6 +38179,7 @@ ossicles;30
 ossie;40
 ossies;20
 ossifrage;40;Bearded vulture
+ossining;30;New York village
 ossipee;20
 osso;40;___ buco
 ost;40;East: Ger. [common]
@@ -46374,6 +46389,8 @@ saith;30
 sajak;50
 sak;20
 sakall;30;Actor S. Z. Sakall, head waiter in "Casablanca"
+sakebar;60
+sakebars;60
 sakebomb;50
 sakebombs;50
 sakecup;40
@@ -46620,6 +46637,7 @@ sansserif;50
 sanssouci;40;Palace in Potsdam, Germany
 sansui;30;Japanese electronics company
 santaclaus;60
+santaclause;60
 santacon;50
 santafenewmexico;50
 santahat;50
@@ -47785,6 +47803,7 @@ sendsout;40
 sendsto;40
 sendto;40
 senecan;40;Of the Roman Seneca
+senecas;40;Is plural legit? Used many times in NYT
 senecio;30;Plant genus
 senesce;40
 senesced;40
@@ -52469,6 +52488,8 @@ styli;40;Ugly plural of stylus
 stylinggel;50
 stylinggels;50
 stylish;50
+stylite;30;Ancient ascetic living on top of a pillar
+stylites;30
 styluses;50;Technically styli is more correct
 stymie;50
 stymied;50
@@ -53276,6 +53297,8 @@ tacket;20
 tackets;20
 tacklebox;50
 tackleboxes;50
+tacobar;60
+tacobars;60
 tacoemoji;50
 tacoemojis;50
 tacomas;40;Some Toyotas
@@ -55282,6 +55305,7 @@ therussianmob;40
 therussobrothers;60;Directing duo notable for their work on the Avengers franchise
 thesack;40
 thesaints;30
+thesantaclause;60
 thesarge;40
 thesatanicverses;50
 thescales;20
@@ -55432,6 +55456,7 @@ theweimarrepublic;40
 thewest;40
 thewestbank;40
 thewestwind;40
+thewestwing;60
 thewhale;60
 thewhiskeyrebellion;40
 thewhitelotus;60
@@ -57261,6 +57286,8 @@ troth;40
 troths;40
 trotline;30;Fishing line
 trotskyism;50
+trotter;40;One that trots, or a pig's foot used as food
+trotters;40
 trou;40
 troubler;30
 troublers;30
@@ -57511,6 +57538,10 @@ tulsasound;50;Blues rock musical style
 tulsi;20;Holy Basil
 tum;20
 tumbleweep;0
+tumbrel;30;Horse cart
+tumbrels;30
+tumbril;30;Horse cart
+tumbrils;30
 tumid;40;Swollen
 tumor;20
 tumornecrosisfactor;20
@@ -59664,7 +59695,7 @@ wasonadate;30;Green paint???
 waspy;50
 wasrun;30
 wassail;30
-wasser;30;Water: Ger.
+wasser;40;Water: Ger.
 wassweeton;50
 wast;20
 wastednotime;60
@@ -60201,7 +60232,7 @@ westers;40
 westpointcadet;50
 westpointcadets;50
 wests;30
-westwing;50
+westwing;60
 wet;50
 wetcell;50
 wetcells;50
