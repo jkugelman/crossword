@@ -5640,11 +5640,11 @@ bibless;30
 biblestories;50
 biblestory;50
 biblike;20
-biblioklept;50
-bibliokleptomania;50
-bibliokleptomaniac;50
-bibliokleptomaniacs;50
-biblioklepts;50
+biblioklept;60
+bibliokleptomania;60
+bibliokleptomaniac;60
+bibliokleptomaniacs;60
+biblioklepts;60
 bibliothecarial;40
 bibliothecarius;40
 bic;50
@@ -46765,6 +46765,7 @@ sarcomas;30
 sarcomata;30
 sarcophagi;50
 sarcophagus;50
+sardis;40;Famous Manhattan eatery
 sardou;30;French playwright Victorien Sardou, or singer Michel Sardou
 saree;20
 sarees;20
@@ -58417,7 +58418,8 @@ unrep;30;U.N. rep.
 unreps;30
 unrests;30
 unrip;40;Rip open
-unripest;40
+unriper;30
+unripest;30
 unripped;40;Ripped open
 unripping;40;Ripping open
 unrips;40;Rips open
