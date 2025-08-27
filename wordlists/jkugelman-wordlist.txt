@@ -4441,9 +4441,13 @@ balesofhay;50
 balihai;50
 baliindonesia;50
 balkanpeninsula;50
+balkat;40
+balkedat;40
 balker;30;???
 balkers;30;???
 balkiness;40
+balkingat;40
+balksat;40
 balky;40
 ballantrae;20;Scottish town
 ballclub;50
@@ -8892,6 +8896,10 @@ celinedion;60
 cellardoor;60
 cellarer;40;Person in charge of a cellar or provisions, usually in a monastery
 cellarers;40
+cellaret;30;Small liquor cabinet
+cellarets;30
+cellarette;30;Small liquor cabinet
+cellarettes;30
 celli;50;Cellos
 cellie;40
 cellies;40
@@ -17654,6 +17662,8 @@ faketrees;50
 falafel;50
 falafels;40
 falala;30
+falderal;30;Variant spelling of folderol
+falderals;30
 fallalloveroneself;50
 fallalloveroneselfapologizing;50
 fallbackplan;50
@@ -19031,6 +19041,8 @@ foldedlikeacheapsuitcase;60
 foldedlikeacheaptent;60
 foldedlikealawnchair;60
 foldedup;40
+folderol;50;Nonsensical fuss
+folderols;50
 foldin;40
 foldingin;40
 foldinglikeacheapsuit;60
@@ -52692,7 +52704,8 @@ sukiyakis;30;???
 sukkoth;30;Jewish holiday
 sul;20
 sulcate;20;Marked with grooves
-suleiman;50
+suleiman;40;Longest-reigning sultan of the Ottoman Empire
+suleimanthemagnificent;60
 sulfa;40;Antibacterial drug
 sulfo;20
 sulker;30
