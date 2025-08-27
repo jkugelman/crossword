@@ -7699,6 +7699,7 @@ caducei;20
 caduceus;30;Medical symbol with snakes
 cady;30;Suffragist Elizabeth Cady Stanton
 caen;30;Battle of Normandy city
+caesium;40
 caesura;30;Metrical pause
 caesurae;30
 caesural;30
@@ -9252,6 +9253,7 @@ checkswith;40
 checkwith;40
 checkyouregoatthedoor;60
 checkyourprivilege;60
+cheerapparel;60
 cheeredon;40
 cheeredup;50
 cheeringon;40
@@ -9263,10 +9265,14 @@ cheerlead;50
 cheerleader;50
 cheerleaders;50
 cheerleading;50
+cheerleadinguniform;60
+cheerleadinguniforms;60
 cheeron;40
 cheerson;40
 cheersup;50
 cheerup;50
+cheerydisposition;60
+cheerydispositions;60
 cheeseburger;50
 cheeseburgers;50
 cheesecloth;50
@@ -52832,6 +52838,8 @@ sunkentreasures;60
 sunlounge;40
 sunlounges;40
 sunniled;30;???
+sunnydisposition;60
+sunnydispositions;60
 sunnyskies;50
 sunnysky;50
 sunobdedda;0
