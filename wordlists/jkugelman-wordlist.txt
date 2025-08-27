@@ -568,8 +568,8 @@ actuarialtables;50
 actupon;40
 actv;40
 acu;20
-acunit;40
-acunits;40
+acunit;50
+acunits;50
 acup;50
 acupbra;50
 acupbras;50
@@ -798,8 +798,8 @@ adultsite;60
 adultsites;60
 adultsupervision;60
 adultswim;60
-adunit;40
-adunits;40
+adunit;50
+adunits;50
 adv;40
 advancedformula;50
 advancedsearch;60
@@ -1834,6 +1834,7 @@ alumna;40;Female grad
 alumnal;40
 alumnimagazines;50
 alundum;20;Fused alumina used as abrasive/refractory
+alunser;40
 alva;40;Thomas Alva Edison
 alvinbragg;50;Trump prosecutor
 alvins;30;Plural name
@@ -15625,6 +15626,7 @@ edsheeran;60
 edt;40
 edtv;30
 edu;40
+eduardo;40
 educationsystem;60
 educe;40
 educed;40
