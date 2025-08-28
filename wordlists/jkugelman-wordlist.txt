@@ -2358,7 +2358,7 @@ anitamui;40;Anita Mui, Cantopop diva "daughter of Hong Kong"
 anitem;30
 anitra;30;"Peer Gynt" dancer
 anka;40
-anke;30;Tennis player Anke Huber
+anke;40;1990s tennis great Anke Huber
 anklebiter;60
 anklebiters;60
 anklebrace;50
@@ -5195,10 +5195,10 @@ bedewing;40
 bedews;40
 bedfast;40;Bedridden
 bedight;20;Adorned
-bedim;30
-bedimmed;30
-bedimming;30
-bedims;30
+bedim;40
+bedimmed;40
+bedimming;40
+bedims;40
 bedizen;40;Decorate gaudily
 bedizened;40
 bedizening;40
@@ -7561,6 +7561,13 @@ buttdial;60
 buttdialing;60
 buttdials;60
 butterbattlebook;60;Dr. Seuss book, with "The"
+butterchicken;60
+buttercream;60
+buttercreamfrosting;60
+buttercroissant;60
+buttercroissants;60
+butterfinger;60
+butterfingers;60
 butterflyeffect;60
 butterflykiss;60
 butterflykisses;60
@@ -8165,6 +8172,7 @@ canyourepeatthat;60;"Sorry, I didn't catch what you said"
 canyousee;50
 canyoutell;50
 canzone;30;Italian ballad
+caoxuepin;50;Cao Xueqin, author of "Dream of the Red Chamber"
 cap;50
 capacitate;30
 capacitated;30
@@ -8619,10 +8627,12 @@ catcha;20
 catchabus;50
 catchall;50
 catchashow;50
+catchastray;60
 catcher;50
 catchers;50
 catchesabus;50
 catchesashow;50
+catchesastray;60
 catchesfeelings;60
 catchesfeelingsfor;60
 catchesfire;50
@@ -8637,6 +8647,7 @@ catchfire;50
 catchhell;60
 catchingabus;50
 catchingashow;50
+catchingastray;60
 catchingfeelings;60
 catchingfeelingsfor;60
 catchingfire;50
@@ -8741,6 +8752,7 @@ caudices;30
 caudillo;30;Spanish or Latin American military dictator
 caughtabus;50
 caughtashow;50
+caughtastray;60
 caughtfeelings;60
 caughtfeelingsfor;60
 caughtfire;50
@@ -10356,7 +10368,7 @@ coe;40;Runner and British MP Sebastian Coe
 coed;50
 coeds;50
 coel;30;Actress Michaela
-coelho;30;Author Paulo
+coelho;40;"The Alchemist" author Paulo Coelho
 coeliac;40;British version of celiac (disease)
 coenact;30
 cofactor;50
@@ -11591,6 +11603,8 @@ creedal;30;Relating to a creed
 creedii;40
 creel;30;Wicker basket or cage
 creels;30;Wicker baskets or cages
+creeper;60;Minecraft baddie
+creepers;60
 creepinginto;40
 creepinto;40
 creepsinto;40
@@ -12919,6 +12933,8 @@ defenselawyers;50
 defenseman;50
 defensemechanism;60
 defensemen;50
+defenseteam;50
+defenseteams;50
 deferredto;40
 deferringto;40
 defersto;40
@@ -15661,6 +15677,7 @@ edm;40;Electronic dance music
 edmeese;30;A.G. under Reagan, not very notable
 edmontonalberta;30;???
 edmundi;30
+edmundii;30
 ednamillay;50;???
 edo;40;Tokyo, formerly
 edocastle;50
@@ -16340,6 +16357,7 @@ endingupat;40
 endingupontop;50
 endingwith;40
 endo;40
+endocarp;40;Seed layer
 endogamous;40
 endogamy;40
 endogenous;40
@@ -20433,6 +20451,7 @@ germanlit;50
 germaphobe;50
 germaphobes;50
 geronimo;60
+gerontic;40;Relating to old age
 gerontion;30;T.S. Eliot poem
 gerrymander;60
 gerrymandering;60
@@ -20791,6 +20810,7 @@ gibberish;50
 gibbler;40;Kimmy Gibbler from "Full House"
 gibbousmoon;50
 gibingly;40
+gibran;40;"The Prophet" author Kahlil Gibran (1883-1931), one of the best selling books of all time
 gide;30;French novelist Andre
 gidget;40;Character in a series of movies in the '60s
 gie;20
@@ -21129,6 +21149,8 @@ gob;50
 gobackto;40
 gobacktosleep;50
 gobag;50
+gobbet;40;Lump of flesh, spit, etc.
+gobbets;40
 gobidessert;0
 gobies;20
 gobig;50
@@ -27851,7 +27873,8 @@ kafirs;5
 kaftan;40;Middle Eastern garment
 kaftans;40
 kahan;40;Noah Kahan, Grammy-nominated folk-pop artist famous for his 2023 album "Stick Season"
-kahlil;30;Writer Kahlil Gibran
+kahlil;40;"The Prophet" author Kahlil Gibran (1883-1931), one of the best selling books of all time
+kahlilgibran;50;"The Prophet" author Kahlil Gibran (1883-1931), one of the best selling books of all time
 kahn;40
 kahoot;50;Online learning game
 kahoots;50;Online learning games
@@ -32815,6 +32838,8 @@ medicalrecords;50
 medicalresearch;60
 medicalservices;50
 medicalstaff;50
+medicalteam;50
+medicalteams;50
 medicinecabinet;50
 medicinedropper;50
 medicis;50
@@ -33098,6 +33123,7 @@ mesabi;20;Minnesota iron mining range
 mesamis;40
 mescal;50;The drug peyote, or the agave drink mezcal
 mescals;50
+meseems;40
 meshach;30;Shadrach, Meshach, and Abednego: biblical figures thrown into a fiery furnace
 meshuggah;60
 meshugge;60;Senseless, in Yiddish
@@ -33386,6 +33412,12 @@ mindonespsandqs;60
 mindpalace;60
 mindpalaces;60
 mindsonespsandqs;60
+minecraftserver;60
+minecraftservers;60
+minecraftstream;60
+minecraftstreamer;60
+minecraftstreamers;60
+minecraftstreams;60
 minefield;60
 minefields;60
 minella;20;Tennis player, wine grape, Irish racehorse
@@ -34230,6 +34262,7 @@ mountainstates;50
 mountainview;60
 mounterebus;50
 mounthoodoregon;50
+mountpinatubo;40;Philippine volcano
 mountpleasant;60
 mountrainier;60
 mountrainiernationalpark;60
@@ -35557,6 +35590,7 @@ nicetry;60
 nichearea;40
 nicheareas;40
 nicholashoult;50;Actor
+nickadams;40;???
 nicker;40;Whinny
 nickered;40;Whinnied
 nickering;40;Whinnying
@@ -36599,6 +36633,7 @@ oakiest;40
 oaklawn;30;Chicago suburb
 oakleaf;50
 oakleaves;50
+oalquimista;50;"The Alchemist", one of the bestselling books of all time
 oap;20
 oar;50
 oarage;30
@@ -39822,6 +39857,7 @@ pergola;40;Gazebo relative
 pergolas;40
 peri;30
 perianth;30;Flower part
+pericarp;40;Seed layer
 perigeal;40;Related to the perigee
 perigean;40;Perigean spring tide
 perigee;50
@@ -39855,6 +39891,7 @@ pernil;30;Latin American pork dish
 peron;40
 peroneal;30
 peroni;40;Italian beer
+perons;40
 peroral;20;Administered orally
 perorate;40;Speak at length
 perorated;40
@@ -39914,6 +39951,7 @@ pescara;40;???
 pescetaranism;0
 pescetarian;50
 pescetarians;50
+pesosign;50
 pessl;20
 pesterer;40
 pesterers;40
@@ -40369,6 +40407,7 @@ pinacoladas;50
 pinamedalon;50
 pinata;50
 pinatas;50
+pinatubo;40;Philippine volcano
 pinballflipper;60
 pinballflippers;60
 pinboy;40;Old bowling alley worker
@@ -40507,8 +40546,8 @@ pistillate;30
 pistola;40;Spanish gun
 pit;50
 pitapat;50
-pitboss;50
-pitbosses;50
+pitboss;60
+pitbosses;60
 pitbull;50
 pitbulls;50
 pitch;50
@@ -40540,10 +40579,10 @@ pitorgan;40;Snake's infrared sensing organ
 pitorgans;40
 pitots;20
 pitrows;30;???
-pitstop;50
-pitstops;50
-pittrader;50
-pittraders;50
+pitstop;60
+pitstops;60
+pittrader;60
+pittraders;60
 pitts;30;Early actress ZaSu Pitts
 pitviper;60
 pitvipers;60
@@ -41266,11 +41305,11 @@ pooltables;50
 pooltoy;50
 pooltoys;50
 poona;30;Indian city
-poopdeck;50
-poopdecks;50
+poopdeck;60
+poopdecks;60
 poopemoji;60
 poopemojis;60
-pooping;30
+pooping;5
 poor;50
 poorat;40
 poorbox;50
@@ -41697,6 +41736,8 @@ preflightannouncements;50
 pregame;60
 pregamed;60
 pregames;60
+pregameshow;60
+pregameshows;60
 pregaming;60
 preggers;50
 preggo;50
@@ -42547,6 +42588,7 @@ putyourbiggirlpantieson;60
 putyourbiggirlpantson;60
 putyourheadstogether;60
 putyourhouseinorder;60
+puzfile;20
 puzzlebox;50
 puzzleboxes;50
 pvc;40
@@ -45614,6 +45656,14 @@ rokers;20
 rold;40;Rold Gold pretzels
 roleo;30
 roleos;30
+roleplay;60
+roleplayed;60
+roleplayer;60
+roleplayers;60
+roleplaying;60
+roleplayinggame;60
+roleplayinggames;60
+roleplays;60
 rolette;20;Unnotable ND town
 rolf;30;Massage
 rolfe;30;John Rolfe, husband of Pocahontas
@@ -48491,6 +48541,7 @@ shelovesme;50
 shelovesmenot;50
 shem;20
 shenzi;40;"The Lion King" hyena
+shep;40
 shepherdscrook;50
 shepherdscrooks;50
 shera;40
@@ -53773,6 +53824,14 @@ tanagers;40
 tanagra;30;???
 tanakh;30;Hebrew Bible
 tandems;50;Tandem bikes
+tandoorichicken;60
+tandoorioven;60
+tandooriovens;60
+tandooristyle;60
+tandoornaan;60
+tandooroven;60
+tandoorovens;60
+tandoorroti;60
 tandys;20
 tanehisi;40;Author Ta-Nehisi Coates
 tanehisicoates;50
@@ -55228,6 +55287,7 @@ themile;20
 themilerun;20
 theminesofmoria;50
 theministryofmagic;60
+theminotaur;40
 themiracles;40;???
 themiracleworker;40;???
 themob;40
@@ -56065,6 +56125,7 @@ tilefishes;30
 tiler;40
 tilers;40
 tilery;30
+tillages;40;Plural?
 tillamook;40;Oregon city/tribe
 tillered;40
 tillering;40
@@ -59726,33 +59787,35 @@ warbond;50
 warbonds;50
 warbonnet;50
 warbonnets;50
-warbow;50
-warbows;50
-warchest;50
-warchests;50
+warbow;60
+warbows;60
+warbride;60
+warbrides;60
+warchest;60
+warchests;60
 warcries;60
 warcry;60
 wardance;50
 wardances;50
 warder;40
 warders;40
-wardrum;50
-wardrums;50
+wardrum;60
+wardrums;60
 warehouseoutlet;50
 warepic;50;War epic
 warepics;50
-warhammer;50
-warhammers;50
+warhammer;60
+warhammers;60
 warhero;50
 warheroes;50
 wario;60
 warlord;50
 warlords;50
-warmachine;50
-warmachines;50
+warmachine;60
+warmachines;60
 warmedto;40
 warmingto;40
-warmreception;50
+warmreception;60
 warmspell;50
 warmspells;50
 warmsto;40
@@ -61239,7 +61302,7 @@ wovein;40
 woveinto;40
 wovenfabric;50
 wow;50
-wowedem;60
+wowedem;50
 wowem;40;Green paint?
 wowwhat;60
 wowza;60
@@ -61467,6 +61530,7 @@ xtimesy;0
 xtina;40
 xtra;40
 xts;20
+xuepin;40;Cao Xueqin, author of "Dream of the Red Chamber"
 xvi;20
 xvii;20
 xxi;20
@@ -61619,6 +61683,9 @@ yeahimfine;60
 yeahno;60
 yeahyeahyeah;50
 yearabroad;50
+yearendreview;50
+yearendreviews;50
+yearinreview;60
 yearlies;30;???
 yearling;40;Year-old animal
 yearlings;40
