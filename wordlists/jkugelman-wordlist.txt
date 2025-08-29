@@ -21968,6 +21968,7 @@ graver;40;Engraving tool
 gravers;40
 graveyard;50
 graveyards;50
+gravida;40;Pregnancy stat
 graving;40
 gravity;50
 gravyboat;50
@@ -46019,16 +46020,19 @@ roughcut;50
 roughcuts;50
 roughdraft;50
 roughdrafts;50
+roughedit;50
+roughingit;50
 roughingthepasser;60;Football penalty
 roughingthepasserpenalties;60
 roughingthepasserpenalty;60
 roughingthesnapper;60;Football penalty
 roughingthesnapperpenalties;60
 roughingthesnapperpenalty;60
-roughit;60
+roughit;50
 roughoutline;50
 roughoutlines;50
 roughshod;50
+roughsit;50
 roughsketch;50
 roughsketches;50
 rouleau;30;Packet of coins
@@ -47507,6 +47511,7 @@ seafish;50
 seafoodrestaurant;50
 seafoodrestaurants;50
 seagal;50
+seagirt;30;Surrounded by the sea
 seaglass;50
 seagoat;40
 seahare;40;Marine snail
@@ -54781,6 +54786,8 @@ tetrarch;40
 tetrarchs;40
 tetras;40
 tetris;50
+tetrode;30;Vacuum tube with four electrodes
+tetrodes;30
 teuton;40
 teva;30;Sandal brand
 tevere;20;Rome river
