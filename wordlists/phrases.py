@@ -8,7 +8,7 @@ from lib import *
 
 if __name__ == '__main__':
     parser = ArgumentParser()
-    parser.add_argument('-m', '--min_score', type=int, default=2)
+    parser.add_argument('-m', '--min_score', type=int, default=30)
     args = parser.parse_args()
 
     words = load_words(min_score=args.min_score)

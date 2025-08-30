@@ -115,9 +115,11 @@ def grouped_by_multi(items, keys):
     Returns a dictionary where the `items` are grouped by potentially multiple keys.
     """
     grouped = defaultdict(set)
+
     for item in items:
         for key in keys(item):
             grouped[key].add(item)
+
     return grouped
 
 def phrases(entry, words, ignore_short=True):
@@ -128,18 +130,21 @@ def phrases(entry, words, ignore_short=True):
     If `ignore_short` is true (the default), 1- and 2-letter words with score < 50 are ignored.
     This way "a" and "I" and "of/we/it" can be used, but not abbreviations like "ep" and "rd".
     """
-
-    # Filter out 1- and 2-letter words under 50.
-    if isinstance(words, dict) and ignore_short:
-        words = {word: score for word, score in words.items() if len(word) >= 3 or score >= 50}
-
     for i in range(1, len(entry)):
         prefix, suffix = entry[:i], entry[i:]
-        if prefix in words:
-            for phrase in phrases(suffix, words):
-                yield [prefix] + phrase
-    if entry in words:
-        yield [entry]
+
+        if prefix not in words:
+            continue
+        if ignore_short and len(prefix) <= 2 and words[prefix] < 50:
+            continue
+        for phrase in phrases(suffix, words):
+            yield [prefix] + phrase
+
+    if entry not in words:
+        return
+    if ignore_short and len(entry) <= 2 and words[entry] < 50:
+        return
+    yield [entry]
 
 def synonyms(word):
     """
