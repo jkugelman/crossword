@@ -8043,6 +8043,8 @@ candleholder;50
 candleholders;50
 candlewax;50
 candream;20;???
+candyapple;60
+candyapples;60
 candyass;60
 candyassed;60
 candycane;60
@@ -14424,10 +14426,15 @@ doorcrasherdeals;60
 doorcrashers;60
 doormat;50
 doormats;50
-doorone;30
+doornumberone;50
+doornumberthree;50
+doornumbertwo;50
+doorone;40
 dooropener;50
 dooropeners;50
+doorthree;40
 doortodoorsales;50
+doortwo;40
 doover;50
 doovers;50
 dopant;30
@@ -20883,7 +20890,7 @@ gingerbreadmen;50
 gingerroot;50
 gingersnap;60
 gingersnaps;60
-gingerspice;50
+gingerspice;60
 gingivae;30
 ginmartini;50
 ginmartinis;50
@@ -27761,6 +27768,7 @@ journeyman;50
 journeymen;50
 jovi;40
 joy;50
+joyofsex;60
 jpaulgetty;50
 jpegfile;40
 jpegfiles;40
@@ -32660,6 +32668,7 @@ mayoralrace;50
 mayoralraces;50
 mayoress;40
 mayoresses;40
+mayormaynot;50
 mayormccheese;60
 mayos;40
 maypo;30;Old cereal brand
@@ -47201,7 +47210,7 @@ scarne;30;Card expert John Scarne, "Scarne on Cards"
 scarpa;20;Shoe, in Italian
 scarpia;30;Villain of the Puccini opera "Tosca"
 scarygood;60
-scaryspice;50
+scaryspice;60
 scatsinger;50
 scatsingers;50
 scattier;40
@@ -55304,6 +55313,7 @@ thejackofdiamonds;40
 thejackofhearts;40
 thejackofspades;40
 thejob;40
+thejoyofsex;60
 thejuice;40;O.J. Simpson
 thekeeblerelves;40
 thekennedycenter;50
