@@ -44114,9 +44114,13 @@ reefshark;50
 reefsharks;50
 reege;20
 reekedof;40
+reekedofdesperation;60
 reekingof;40
+reekingofdesperation;60
 reekof;40
+reekofdesperation;60
 reeksof;40
+reeksofdesperation;60
 reelbigfish;60
 reeledin;40
 reeledout;40
@@ -48807,12 +48811,14 @@ shootingby;40
 shootingcraps;60
 shootinggallery;60
 shootinghoops;50
+shootingoff;50
 shootingpool;50
 shootingrange;50
 shootingranges;50
 shootingskeet;50
 shootingstar;50
 shootingstars;50
+shootoff;50
 shootpool;50
 shootsat;40
 shootsblanks;50
@@ -48820,6 +48826,7 @@ shootsby;40
 shootscraps;60
 shootshoops;50
 shootskeet;50
+shootsoff;50
 shootspool;50
 shootsskeet;50
 shootyourshot;60
@@ -48872,6 +48879,7 @@ shothoops;50
 shotlength;50
 shotlengths;50
 shotofespresso;50
+shotoff;50
 shotoftequila;50
 shotofwhiskey;50
 shotokan;40;Style of karate
