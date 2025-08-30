@@ -1194,6 +1194,7 @@ airbubbles;50
 aircannon;50
 aircannons;50
 aircav;30
+aircavalry;50
 aircon;40;A.C.
 aircraftcarrier;60
 aircraftcarriers;60
@@ -6018,6 +6019,7 @@ blackbart;50
 blackbeauty;50
 blackbelt;60
 blackbelts;60
+blackberry;60
 blackbodyradiation;60
 blackbottom;50;Jazz Age dance
 blackbox;60
@@ -6614,6 +6616,10 @@ bookworms;60
 boola;20;Part of a Yale cheer
 boolaboola;30;Yale cheer
 boole;40
+boomandbust;60
+boomandbustcycle;60
+boombust;60
+boombustcycle;60
 boomer;60
 boomers;60
 boomin;40;Metro Boomin, influential hip-hop & trap music producer
@@ -8548,8 +8554,11 @@ cashedinon;40
 cashesinon;40
 cashewnut;50
 cashewnuts;50
+cashgrab;60
+cashgrabs;60
 cashinginon;40
 cashinon;40
+cashlesssociety;60
 cashpoor;60
 cashvalue;50
 casingout;40
@@ -9988,6 +9997,7 @@ clementmoore;50
 clemenza;40;Peter Clemenza, "The Godfather" character
 clemons;40
 cleon;30;Pericles rival, or baseballer
+cleopatra;60
 clergy;50
 clergyman;50
 clergymen;50
@@ -13785,6 +13795,8 @@ disannuls;30
 disbeliefs;30
 discgolf;50
 disci;40;Discuses
+discjockey;60
+discjockeys;60
 discmans;30
 discobar;50
 discobars;50
@@ -20057,6 +20069,10 @@ gammon;20;British pork, or insult
 gammons;20;British pork, or insult
 gams;30
 gamuts;40;Bad plural
+gangbang;5
+gangbanged;5
+gangbanging;5
+gangbangs;5
 gangbuster;50
 gangedupon;50
 gangingupon;50
@@ -21856,6 +21872,7 @@ grabsacab;50
 grabsat;40
 grabson;40
 grabthebullbythehorns;60
+gracekelly;60
 gracile;30;Slender
 grackle;30;Kind of bird
 grackles;30
@@ -25619,6 +25636,7 @@ imgoing;50
 imgoingtoeatyouforbreakfast;60
 imgonnabounce;60
 imgonnaeatyouforbreakfast;60
+imhavingablast;60
 imhere;50
 imhereforit;60
 imhit;50
@@ -28428,6 +28446,7 @@ kino;40;Highest tier of film (memey)
 kinsella;40
 kinseyinstitute;60
 kinseyscale;60
+kinte;40
 kiowa;30;Great Plains tribe
 kiowan;30
 kiowas;30
@@ -32672,6 +32691,7 @@ mayim;40;Actress Mayim Bialik
 mayimbialik;60
 maynard;40
 mayonest;20;???
+mayoracha;60;Sriracha mayo
 mayoralelection;50
 mayoralrace;50
 mayoralraces;50
@@ -34874,8 +34894,8 @@ nailup;40
 nainsook;30;???
 naipaul;40;Trinidadian writer V.S. Naipaul (Nobel Prize in 2001)
 nair;40;Hair removal brand
-naira;40;Nigerian currency
-nairas;40
+naira;30;Nigerian currency
+nairas;30
 naiver;40;It's more naive
 naivest;40;It's most naive
 nakedape;50;Book
@@ -35750,6 +35770,7 @@ nincom;20
 nincompoop;60
 nineam;40
 ninebc;20
+nineeleven;5
 nineinchnails;60
 nineiron;50
 nineirons;50
@@ -37407,6 +37428,10 @@ olympicpodia;50
 olympicpodium;50
 olympicpool;50
 olympicpools;50
+olympicstorchrelay;60
+olympicstorchrelays;60
+olympictorchrelay;60
+olympictorchrelays;60
 olyphant;50
 om;40
 oma;20
@@ -39002,6 +39027,7 @@ panatella;40;Type of cigar
 panatellas;40
 panay;40;Phillipine island
 pancake;50
+pancakeday;60
 pancakemakeup;60
 pancakemix;50
 pandacar;40;British slang for a police car
@@ -42485,6 +42511,7 @@ pumpsiron;50
 pun;50
 punchbuggies;60
 punchbuggy;60
+punchbuggynopunchbacks;60
 punchcard;50
 punchcards;50
 punchingbag;50
@@ -52484,6 +52511,7 @@ strangulating;30
 strangulation;30
 straplessbra;50
 straplessbras;50
+strappedforcash;60
 strasse;30;German street
 stratagem;50
 stratagems;50
@@ -54653,6 +54681,8 @@ tenones;30
 tenons;40;Mortise inserts
 tenonsaw;30
 tenonsaws;30
+tenoraria;50
+tenorarias;50
 tenorite;30;Black copper
 tenorsax;50
 tenorsaxes;50
@@ -55902,6 +55932,7 @@ thisisactuallyhappening;60
 thisisadillyofapickle;60
 thisisarightpickle;60
 thisisasafespace;60
+thisisastickup;60
 thisisatotalnightmare;60
 thisisbig;60
 thisiseasy;60
@@ -56923,8 +56954,8 @@ tora;40
 toramona;40;Dylan song
 torchiere;40;???
 torchieres;40
-torchrelay;50
-torchrelays;50
+torchrelay;60
+torchrelays;60
 torchwood;60;"Doctor Who" spinoff
 toreat;40
 torecap;50
@@ -58381,6 +58412,8 @@ ululations;50
 ulyanov;40;Lenin's real last name
 um;40
 uma;50
+umackshually;60
+umactually;60
 umass;40
 umbel;20;Flower cluster
 umbellifer;40;Type of flower
@@ -60058,6 +60091,8 @@ watchfobs;50
 watchit;60
 watchlist;50
 watchlists;50
+watchparties;60
+watchparty;60
 watchstand;50
 watchstands;50
 watchstem;50
@@ -60621,6 +60656,7 @@ whang;30;Clang
 whangs;30
 whassup;50
 what;50
+whatablast;60
 whatabore;60
 whataboutism;60
 whataboutit;60
