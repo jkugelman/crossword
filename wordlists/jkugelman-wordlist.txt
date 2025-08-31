@@ -19299,7 +19299,8 @@ forerunners;50
 forestbath;50
 forestbathing;50
 forestbaths;50
-foretop;30
+foretop;40;Ship platform
+foretops;40
 foreverhome;60
 foreverhomes;60
 forex;40;Froeign exchange market
@@ -19346,7 +19347,7 @@ forreals;60
 forrealsies;60
 forrealthistime;60
 forreasons;60
-forrestgump;50
+forrestgump;60
 forrests;20
 fors;20
 forsalead;50
@@ -26631,6 +26632,7 @@ ipodtouches;40
 ipos;40
 ips;40
 ipso;40
+ipsofacto;60
 ipswich;40
 iq;50
 iqs;50
@@ -32452,6 +32454,7 @@ marv;30
 marvelat;40
 marveledat;40
 marvelingat;40
+marveloustoy;50
 marvelsat;40
 marvinkmooneywillyoupleasegonow;60;Dr. Seuss book
 marvintheparanoidandroid;60
@@ -33679,7 +33682,8 @@ misleader;40
 misleaders;40
 mismatchedsocks;50
 misogamy;40;Hatred of marriage
-misopaste;50
+misopaste;60
+misoramen;60
 misos;30;Bad plural
 missa;40
 missacue;40
@@ -42492,6 +42496,7 @@ pullsthegoalie;50
 pullsupbytheroots;50
 pullthegoalie;50
 pullupbytheroots;50
+pulpfiction;60
 pulserate;50
 pumicestone;50
 pumicestones;50
@@ -42823,6 +42828,7 @@ queericon;60
 queericons;60
 queerprom;60
 queers;5
+quentintarantino;60
 queso;40
 quesodip;50
 quesodips;50
@@ -55436,6 +55442,7 @@ themanofthepeople;40
 themap;20
 themarines;40
 themarsvolta;50
+themarveloustoy;50
 themasters;50
 themathaintmathing;60
 themathisnotmathing;60
@@ -55529,6 +55536,7 @@ theos;40;The Orioles
 theoscars;40
 theoval;50;Tyler Perry series set in the White House
 theoverlookhotel;60;From "The Shining"
+theozarks;40
 theozonelayer;40
 thepacers;40
 thepack;30
