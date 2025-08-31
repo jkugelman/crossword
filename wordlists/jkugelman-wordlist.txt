@@ -10392,6 +10392,7 @@ coeliac;40;British version of celiac (disease)
 coenact;30
 cofactor;50
 cofactors;50
+coffeebadging;60
 coffeecart;50
 coffeecarts;50
 coffeemilk;50
@@ -10922,6 +10923,7 @@ congames;50
 congener;30;Substance produced during fermentation aside from the desired alcohol
 congeneric;30
 congeners;30
+congestionpricing;60
 congrats;50
 congressionalstaffer;50
 congressionalstaffers;50
@@ -20471,6 +20473,11 @@ geoid;30
 geoidal;30
 geoids;30
 geol;40
+geolocate;50
+geolocated;50
+geolocates;50
+geolocating;50
+geolocation;50
 geom;40
 geomancer;50
 geomancers;50
@@ -28473,8 +28480,11 @@ kishkes;40
 kislev;20;Hebrew month
 kismets;30
 kissandcry;60;Where figure skaters wait for their scores
+kissarmy;60
 kissass;60
 kissasses;60
+kisscam;60
+kisscams;60
 kissedme;20
 kissedupto;50
 kissesare;0
@@ -46896,6 +46906,10 @@ sandwedges;50
 sandwichartist;60
 sandwichartists;60
 saneness;50
+sanewash;60
+sanewashed;60
+sanewashes;60
+sanewashing;60
 sangaree;40;Cocktail
 sangeet;40;Indian wedding celebration
 sangfor;20
@@ -53126,6 +53140,8 @@ superegos;30
 superfood;60
 superfoods;60
 superhenge;50
+superintelligence;60
+superintelligent;50
 superintendentchalmers;50
 superiorcourt;50
 superioritycomplex;60
@@ -53168,6 +53184,8 @@ supervolcano;60
 supervolcanoes;60
 superweapon;50;Death Star, e.g.
 superweapons;50
+superyacht;60
+superyachts;60
 supinator;30
 supple;50
 suppled;40;Made supple
@@ -58416,6 +58434,7 @@ ultramodernism;50
 ultramodernist;50
 ultramodernists;50
 ultrarich;60
+ultrawide;60
 ulu;20
 ululate;50
 ululated;50
