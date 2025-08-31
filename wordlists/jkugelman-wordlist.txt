@@ -320,6 +320,7 @@ accepter;30
 accepters;30
 accidentaltourist;50
 accidie;20;Mental sloth
+accismus;40;Ironic rhetorical device
 accomplice;50
 accordingtowho;50
 accordingtowhom;50
@@ -1128,6 +1129,8 @@ ahwell;60
 ahwellwhatcanyoudo;60
 ai;40
 aiart;60
+aichatbot;60
+aichatbots;60
 aid;50
 aida;40
 aidedecamp;50
@@ -1907,6 +1910,7 @@ amberbock;50
 amberglasswings;30;Butterflies
 ambertamblyn;30
 ambi;40
+ambienttemperature;60
 ambivert;50
 ambiverts;50
 ambledin;40
@@ -3723,6 +3727,8 @@ atme;20
 atminside;50
 atmmachine;50
 atmmachines;50
+atmosphericriver;60
+atmosphericrivers;60
 atms;50
 atmyage;50
 atnight;30
@@ -4170,6 +4176,8 @@ babydoes;50
 babyfat;60
 babyfever;60
 babyfoods;30
+babygeniuses;60
+babygirl;60
 babyjogger;50
 babyjoggers;50
 babymama;60
@@ -5753,6 +5761,7 @@ bigotries;40
 bigotry;40
 bigots;40
 bigpawn;60;Bad bishop which is only protecting a few squares
+bigpharma;60
 bigscene;60
 bigsleep;60
 bigslick;60;Ace-king in poker
@@ -6314,7 +6323,7 @@ blunger;40;Pottery machine
 blungers;40
 bluntwords;60
 blurrier;50
-blursday;50
+blursday;60;Day not easily distinguished from other days
 blush;50
 blushful;30
 blvd;30
@@ -9078,6 +9087,7 @@ chafingat;40
 chafingdish;50
 chafingdishes;50
 chainmail;60
+chainmigration;60
 chainreaction;60
 chainreactions;60
 chainreactor;50
@@ -9217,6 +9227,8 @@ chastiser;40
 chastisers;40
 chatarea;20
 chatareas;20
+chatbot;60
+chatbots;60
 chatgpg;60
 chatshow;30
 chatshows;30
@@ -9363,6 +9375,7 @@ chemisorbs;40
 chemisorption;40
 chemistrysymbol;20
 chemo;50
+chemobrain;50
 chemtrail;60
 chemtrails;60
 chen;40;Skater Nathan Chen, TV personality Julie Chen, and others
@@ -10036,6 +10049,14 @@ climatarian;50
 climateactivism;60
 climateactivist;60
 climateactivists;60
+climatechange;60
+climatecontrol;60
+climatecrime;60
+climatecrimes;60
+climatecriminal;60
+climatecriminals;60
+climaterefugee;60
+climaterefugees;60
 climaxat;40
 climaxedat;40
 climaxesat;40
@@ -10399,6 +10420,8 @@ coffeemilk;50
 coffeemilks;50
 coffeemug;50
 coffeemugs;50
+coffeenap;60;Nap after coffee, claimed to be extra energizing
+coffeenaps;60
 coffeeortea;50
 coffeeshop;50
 coffeeshops;50
@@ -11043,6 +11066,8 @@ coolhunters;60
 coolhunting;60
 coolie;5
 coolies;5
+coolingcenter;60;Air-conditioned facility open to the public
+coolingcenters;60
 coolingfan;50
 coolingfans;50
 coolingonesheels;60
@@ -11762,6 +11787,7 @@ crocus;50;Flower
 cromulent;60
 cronin;30;Last name, various
 cronus;30;Titan, also spelled Kronos
+cronycapitalism;60
 cronyn;30;Old actor Hume Cronyn
 crookednose;50
 crooklyn;60
@@ -11934,6 +11960,9 @@ crypticcrosswords;60
 crypto;50
 cryptobro;60
 cryptobros;60
+cryptofascism;60
+cryptofascist;60
+cryptofascists;60
 cryptomare;40;Lunar volcanic deposit obscured by basin impact ejecta
 cryptomares;40
 cryptomaria;40
@@ -13895,6 +13924,7 @@ diveinto;40
 diver;50
 diverightin;50
 divers;50
+diverseowned;60
 divesinto;40
 divesrightin;50
 dividendcheck;50
@@ -14039,6 +14069,10 @@ doctoredfigures;60
 doctorfrankenstein;60
 doctoroctopus;60
 doctorquinn;50
+doctorshop;60
+doctorshopped;60
+doctorshopping;60
+doctorshops;60
 doctorsleep;60
 doctorstrangeinthemultiverseofmadness;60
 dod;40
@@ -15130,6 +15164,7 @@ ducttape;50
 dud;50
 duddy;40;Fuddy duddy
 dudebro;60
+dudebros;60
 duded;40
 dudedup;50
 dudenotfunny;60
@@ -15612,6 +15647,9 @@ ecocar;20
 ecocars;20
 ecofreak;40
 ecofreaks;40
+ecofriendliness;60
+ecofriendly;60
+ecohazardous;60
 ecohorror;60
 ecohorrorfilm;60
 ecohorrorfilms;60
@@ -20212,6 +20250,7 @@ gastap;30
 gastaps;30
 gastly;50;Pokeyman
 gastro;40
+gastrodiplomacy;60
 gaswar;20
 gaswars;20
 gat;40
@@ -20280,6 +20319,10 @@ gayborhood;60
 gayborhoods;60
 gaydar;60
 gayer;5
+gaymarried;60
+gaymarries;60
+gaymarry;60
+gaymarrying;60
 gaymecca;60
 gaymer;60
 gaymers;60
@@ -21858,6 +21901,7 @@ gpa;50
 gpas;50
 gpo;20
 gps;50
+gpt;40
 gpu;30;NYT debut
 gpus;30
 grababite;50
@@ -21919,6 +21963,7 @@ grandcanal;50
 grandcru;50
 grandee;30
 grandees;30
+grandfamily;60;Family where children are raised by their grandparents
 grandfatherclock;50
 grandin;20;Animal rights activist Temple ___
 grandjete;50;Ballet movement
@@ -22115,6 +22160,10 @@ greenshell;60;Mario Kart powerup
 greenshells;60
 greenspace;50
 greenspaces;50
+greenwash;60
+greenwashed;60
+greenwashes;60
+greenwashing;60;Promoting a brand with environmentalism to divert attention from anti-environmental activities
 greer;40
 greetingsearthlings;60
 gregorclegane;50;The Mountain in "Game of Thrones"
@@ -22210,6 +22259,7 @@ grossmisdemeanors;60
 grosso;40
 grossup;40
 grossweight;50
+grosszero;60;Theoretical elimination of all greenhouse gas emissions
 grosz;30;George Grosz, Dadaist
 grotesque;60
 grotesquely;60
@@ -24506,6 +24556,7 @@ hostess;50
 hostesses;50
 hostesswiththemostess;60
 hostesswiththemostest;60
+hostilearchitecture;60
 hostler;20;Stableman
 hostlers;20;Stablemen
 hosts;50
@@ -28447,6 +28498,7 @@ kingsstilts;60;Dr. Seuss book, with "The"
 kingwenceslas;50
 kinkajou;40;Rainforest mammal "honey bear"
 kinkajous;40
+kinkeeping;60;Labor involved in maintaining family ties
 kinkshame;60
 kinkshamed;60
 kinkshames;60
@@ -35355,6 +35407,8 @@ nene;40
 neneh;20
 nenes;40
 neo;50
+neobank;60;Online only bank
+neobanks;60
 neobop;40;1980s jazz style pioneered by Wynton Marsalis
 neocene;20;Variant spelling of neogene
 neologism;60
@@ -39183,6 +39237,9 @@ paraphrasing;50
 parappatherapper;60
 paraprosdokian;60;Figure of speech used in jokes
 paraprosdokians;60
+parapsychologist;60
+parapsychologists;60
+parapsychology;60
 paras;20;Not short for paralegals IRL, according to many legal professionals
 parasail;50
 parasailed;50
@@ -40069,6 +40126,11 @@ pescetaranism;0
 pescetarian;50
 pescetarians;50
 pesosign;50
+pessimization;60
+pessimize;60;Opposite of optimize
+pessimized;60
+pessimizes;60
+pessimizing;60
 pessl;20
 pesterer;40
 pesterers;40
@@ -41900,6 +41962,7 @@ presences;50
 presentcompanyexcluded;60
 presentee;40
 presentees;40
+presentism;60
 presernce;50
 presidentialbid;50
 presidentialbids;50
@@ -42075,6 +42138,7 @@ prisonbreak;60
 prisonbreaks;60
 prisoncell;50
 prisoncells;50
+prisonindustrialcomplex;60
 prisoning;40
 prisonriot;50
 prisonriots;50
@@ -48985,6 +49049,8 @@ shower;50
 showerbeer;60
 showerbeers;60
 showered;50
+showerorange;60
+showeroranges;60
 showers;50
 showerscene;60
 showerscenes;60
@@ -52607,6 +52673,11 @@ stregis;40;N.Y.C. luxury hotel, quite notable
 strep;50
 streps;20
 strepthroat;50
+stresseat;60
+stresseater;60
+stresseaters;60
+stresseating;60
+stresseats;60
 stressmark;50
 stressmarks;50
 stretchgoal;60
@@ -58530,6 +58601,7 @@ unclesam;50
 unconcern;30
 uncordial;30
 uncousinly;30
+uncrewed;50
 unction;50
 unctions;30
 unctuous;50
@@ -58583,6 +58655,7 @@ unessential;40
 unetire;20
 unevie;20;Novel
 unfairpractices;50
+unfalsifiable;50
 unfetter;30
 unfetters;30
 unfilial;30
@@ -58753,6 +58826,10 @@ unsched;30;???
 unscripted;50
 unseams;30
 unseld;30
+unsend;50
+unsending;50
+unsends;50
+unsent;50
 unser;40
 unserious;50
 unsewed;30
@@ -61452,7 +61529,7 @@ worksaroom;50
 worksforpeanuts;60
 workslate;50
 workslikeawelloiledmachine;60
-worktorule;50
+worktorule;60;The act of working only according to the strictest interpretation of written requirements and regulations
 workwife;60
 workwives;60
 worldaffairs;50
@@ -62397,6 +62474,7 @@ zer;20
 zero;50
 zerocalorie;50
 zerocalories;50
+zerocarbon;60
 zerodarkthirty;60
 zeroedin;50
 zeroedinon;50
