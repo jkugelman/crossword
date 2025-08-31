@@ -1,11 +1,17 @@
 #!/bin/bash
 
 main() {
-    local word="$1"
+    local min_score=30
+    if [[ $1 == -m || $1 == --min || $1 == --min_score ]]; then
+        min_score=$2
+        shift 2
+    fi
+
+    local word=$1
     local wordlist="${2:-wordlist.txt}"
 
     rg "$word" "$wordlist" |
-        ./phrases.py --min 30 |
+        ./phrases.py --min_score "$min_score" |
         rg -w "$word" |
         sed 's/ //g' |
         uniq |
