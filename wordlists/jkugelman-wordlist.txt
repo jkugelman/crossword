@@ -989,9 +989,12 @@ agedness;40
 agee;40;Pulitzer-winning writer James Agee
 ageeight;40
 ageeighteen;40
+ageeighty;40
 ageeleven;40
 agefifteen;40
+agefifty;40
 agefive;40
+ageforty;40
 agefour;40
 agefourteen;40
 agegap;50
@@ -1008,27 +1011,36 @@ agelikemilk;60
 agemate;40
 agemates;40
 agenine;40
+agenineteen;40
+ageninety;40
 agent;50
 agentj;40;Will Smith's "Men in Black" character
 agentk;40;Tommy Lee Jones's "Men in Black" character
+agentp;50;Codename for Perry the Platypus
 agentry;30
 agents;50
 agentsoffortune;50;Blue Öyster Cult song/album
 ageone;40
+ageonehundred;40
 ager;40;OK as a partial
 ageratum;30;Flower genus
 agers;40
 ageseven;40
 ageseventeen;40
+ageseventy;40
 agesix;40
 agesixteen;40
+agesixty;40
 ageslikefinewine;60
 ageslikemilk;60
 agesold;40;Ancient
 ageten;40
 agethirteen;40
+agethirty;40
 agethree;40
 agetwelve;40
+agetwenty;40
+agetwentyone;40
 agetwo;40
 ageusia;20;Loss of sense of taste
 ageverificationsystem;60
@@ -11807,6 +11819,8 @@ crosier;40;Bishop's staff
 crosiers;40
 crossat;40
 crossatthegreen;0
+crossbearer;50
+crossbearers;50
 crossborder;50
 crosscountryflight;50
 crosscountryflights;50
@@ -25227,6 +25241,9 @@ idiolect;50
 idiolects;50
 idiotlight;50
 idiotlights;50
+iditarod;60
+iditarods;60
+iditarodtrail;60
 idk;40
 idknow;60
 idlabel;40
@@ -48459,6 +48476,7 @@ sevencent;20
 sevencs;0
 seveniron;50
 sevenirons;50
+sevenletterword;20
 sevenofdiamonds;20
 sevenout;60
 sevenpm;40
