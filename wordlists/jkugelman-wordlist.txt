@@ -4137,7 +4137,7 @@ azodye;30
 azodyes;30
 azoth;30;Mercury, to alchemists
 azov;30;Russian sea
-azt;40
+azt;30
 aztecruins;50
 azul;40
 azur;40
@@ -5383,6 +5383,9 @@ befooling;20
 befools;30
 befor;20
 beforeigo;60
+beforeyouanswer;60
+beforeyourushtojudgment;60
+beforeyousayanything;60
 beg;50
 begetter;30
 begetters;30
@@ -22942,6 +22945,10 @@ hangingwith;40
 hangman;50
 hangon;50
 hangonaminute;60
+hangonbeforeyouanswer;60
+hangonbeforeyourushtojudgment;60
+hangonbeforeyousayanything;60
+hangonhearmeout;60
 hangoutwith;40
 hangry;60
 hangsauie;30
@@ -23428,6 +23435,7 @@ hearkenedto;40
 hearkeningto;40
 hearkensto;40
 hearkento;40
+hearmeout;60
 hearmeroar;60
 hearn;40;Broadway actor George Hearn
 hearnoevil;60
@@ -24242,6 +24250,10 @@ holdingvigil;50
 holditasec;50
 holdmybeer;60
 holdon;60
+holdonbeforeyouanswer;60
+holdonbeforeyourushtojudgment;60
+holdonbeforeyousayanything;60
+holdonhearmeout;60
 holdononesecond;60
 holdontoyourbutts;60
 holdsback;50
@@ -36649,8 +36661,11 @@ now;50
 nowavailable;60
 nowave;40;Avant-garde music genre, opposite of new wave [never used]
 noway;60
+nowbeforeyouanswer;60
+nowbeforeyousayanything;60
 nowdontfreakout;60
 nowdontgetallbutthurt;60
+nowhearmeout;60
 nowheres;40
 nowifeelsilly;60
 nowise;30
