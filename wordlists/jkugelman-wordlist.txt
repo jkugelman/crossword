@@ -1392,9 +1392,9 @@ albemarle;40;Albemarle Sound, NC - site of Kitty Hawk
 alberti;40;Alberti bass
 albom;40
 albs;20;Priestly robes
-albumart;50
-albumsleeve;50
-albumsleeves;50
+albumart;60
+albumsleeve;60
+albumsleeves;60
 albumtitle;50
 albumtitles;50
 albus;5;Harry Potter
@@ -7207,6 +7207,7 @@ brotherinlaw;50
 brotherrat;50
 brothersinarms;60
 brothersinlaw;50
+brotox;60;Botox for men, slangily
 broughton;40
 broughtonesagame;60
 brownbagged;50
@@ -7423,6 +7424,8 @@ bullpen;50
 bullpencoach;50
 bullpencoaches;50
 bullpens;50
+bullrun;50
+bullruns;50
 bulls;50
 bullshit;5
 bullshitter;5
@@ -12521,6 +12524,7 @@ darkknightrises;60
 darkle;30
 darkled;30
 darkles;30
+darkmeat;60
 darkmoney;60
 darkpattern;60
 darkpatterns;60
@@ -23059,6 +23063,7 @@ harrierjumpjet;50
 harrierjumpjets;50
 harriman;30;Old politician W. Averell Harriman
 harrymack;60;Freestyle rapper
+harryo;30;Harry O, ABC detective series 1974-76
 harshlightofday;60
 harte;30;19th century writer Bret Harte
 hartebeest;40;Antelope
@@ -23926,6 +23931,7 @@ highjumper;50
 highjumpers;50
 highjumping;50
 highjumps;50
+highlife;60
 highlyeffective;50
 highlyqualified;50
 highlyrespected;60
@@ -25060,7 +25066,7 @@ icallbullshit;5
 icallshotgun;60
 icame;40
 ican;50
-icanadd;50;They Might Be Giants song for kids
+icanadd;30;They Might Be Giants song for kids
 icandoit;60
 icanfeelit;60
 icanfeelitinmybones;60
@@ -25342,7 +25348,7 @@ idontunderstand;60
 idoodit;30;Red Skelton movie
 idoso;40;Playground retort
 idothat;60
-idotoo;40;Playground retort
+idotoo;50;Playground retort
 idotter;50
 idotters;50
 idoubtit;60
@@ -28823,6 +28829,7 @@ koreanamerican;50
 koreanamericans;50
 koreanspa;50
 koreanspas;50
+korma;40;Creamy Indian curry
 korner;30;???
 korra;40;Aang's successor on Avatar, lead character of The Legend of Korra
 kors;40
@@ -30473,6 +30480,7 @@ lilmissthing;60
 lilmo;40;Singer Lil' Mo, unclear notability
 lilo;50
 lilolme;50
+lilongwe;40;Capital of Malawi
 lilter;40
 lilters;40
 lilyachty;50;Rapper
@@ -30490,6 +30498,7 @@ limbopole;60
 limbopoles;60
 limbostick;60
 limbosticks;60
+limerence;60
 limier;30
 limiest;30
 liminalspace;60
@@ -30759,6 +30768,7 @@ livedhighonthehog;60
 livedin;40
 liveditup;60
 livedon;40
+livedthehighlife;60
 livedto;40
 liveeight;40;Live 8 concert
 livefreeordie;60
@@ -30788,7 +30798,9 @@ livesitup;60
 liveson;40
 livesports;50
 livest;30
+livesthehighlife;60
 livesto;40
+livethehighlife;60
 liveto;40
 liveupdates;60
 livia;40;Wife of Augustus, or Livia Soprano
@@ -30805,6 +30817,7 @@ livingitup;60
 livingon;40
 livingonborrowedtime;60
 livingright;50
+livingthehighlife;60
 livingto;40
 livy;40;Roman historian
 lix;20
@@ -33587,6 +33600,8 @@ milfoils;30
 militaryaid;50
 militaryservice;60
 militaryuniform;50
+milkbone;60
+milkbones;60
 milkchocolate;50
 milker;30
 milkers;30
@@ -33666,6 +33681,8 @@ minibat;50
 minibats;50
 minicooper;60
 minicoopers;60
+minidonut;60
+minidonuts;60
 minifig;50
 minifigs;50
 minifridge;50
@@ -34989,6 +35006,7 @@ nadu;20;Tamil Nadu, India
 nadya;30;???
 nae;40
 naes;40
+naff;40;Tasteless: Br.
 nafta;40
 nag;50
 nagasaki;50
@@ -40160,6 +40178,7 @@ perries;40;Fermented pear drinks
 perro;40
 perros;40
 perrot;30
+perrys;30;Plural name
 perrytheplatypus;60
 perseid;40
 persiancat;50
@@ -40627,18 +40646,22 @@ pilcrows;30;¶¶¶
 piledin;40
 piledinto;40
 piledon;40
+piledonto;40
 piledriver;50
 piledrivers;50
 pilein;40
 pileinto;40
 pileon;50
+pileonto;40
 pilesin;40
 pilesinto;40
 pileson;40
+pilesonto;40
 pileus;20
 pilingin;40
 pilinginto;40
 pilingon;40
+pilingonto;40
 pillmills;50
 pillow;50
 pillowfort;60
@@ -40807,6 +40830,8 @@ piste;40;Ski trail
 pistes;40
 pistillate;30
 pistola;40;Spanish gun
+pistoleer;50
+pistoleers;50
 pit;50
 pitapat;50
 pitboss;60
@@ -42688,7 +42713,9 @@ punchlist;50
 punchlists;50
 punicwar;50
 punicwars;50
+punka;20
 punkah;20;Indian fan
+punkas;20
 punnumbers;50
 punta;40;Various towns, Punta Cana
 puntedon;40
@@ -44701,6 +44728,7 @@ reniform;40;Kidney-shaped, in botany
 renin;30;Kidney secretion
 renins;20
 rennes;30;French city
+rennie;30;"The Day the Earth Stood Still" actor Michael Rennie
 rennin;20
 renonevada;20
 renonv;30
@@ -54858,6 +54886,7 @@ tendollarword;60
 tendollarwords;60
 tendsto;40
 tendto;40
+tenebrae;40;Pre-Easter service
 tenebrous;30;Dark, shadowy
 tenens;30;Locum tenens: fill-in for an absent doctor or priest
 tenfeet;40
@@ -55007,6 +55036,7 @@ terroristattack;5
 terroristattacks;5
 terrorists;5
 terrygross;50
+terrys;30;Plural name
 tertial;30;Feather adjective
 tertian;30
 terzarima;40;Poetic form used in the Divine Comedy
@@ -55545,6 +55575,7 @@ theheisman;30
 theherd;30
 thehermit;60;Tarot card
 thehierophant;60;Tarot card
+thehighlife;60
 thehighpriestess;60;Tarot card
 thehitchhikersguidetothegalaxy;60
 thehobbit;50
@@ -56570,6 +56601,7 @@ timesup;60
 timetable;50
 timetables;50
 timetested;60
+timetogo;60
 timetokill;20
 timetravelerswife;50
 timevortex;60;What the Tardis travels through in "Doctor Who"
@@ -58427,6 +58459,7 @@ tx;40
 txt;40
 txtspk;20
 txttalk;20
+tycho;40;Astronomer Tycho Brahe
 tyco;40;Legacy Mattel brand
 tyd;20
 tye;20
@@ -60844,6 +60877,7 @@ wetmartini;50
 wetmartinis;50
 wetnurse;50
 wetnurses;50
+wetonwet;60;Painting technique
 wetpaint;50
 wettig;30;Patricia Wettig from "City Slickers" or TV's "Thirtysomething"
 wetv;40
@@ -61327,32 +61361,33 @@ winebox;50
 wineboxes;50
 winecarafe;50
 winecarafes;50
-winecellar;50
-winecellars;50
+winecellar;60
+winecellars;60
 wineclub;50
 wineclubs;50
-wineconnoisseur;50
-wineconnoisseurs;50
+wineconnoisseur;60
+wineconnoisseurs;60
 winecooler;50
 winecoolers;50
-winecritic;50
-winecritics;50
+winecritic;60
+winecritics;60
 winedanddined;60
 winedecanter;50
 winedecanters;50
 winefridge;50
 winefridges;50
 winegoblet;50
-winegrape;50
-winegrapes;50
+winegoblets;50
+winegrape;60
+winegrapes;60
 winejug;50
 winejugs;50
-winelist;50
-winelists;50
-winelover;50
-winelovers;50
-winemenu;50
-winemenus;50
+winelist;60
+winelists;60
+winelover;60
+winelovers;60
+winemenu;60
+winemenus;60
 winepress;50
 winepresses;50
 winerack;50
@@ -61458,8 +61493,8 @@ wisemove;60
 wisent;20
 wisesupto;50
 wiseupto;50
-wishbone;50
-wishbones;50
+wishbone;60
+wishbones;60
 wisher;40
 wishers;40
 wishy;40
