@@ -5772,6 +5772,8 @@ bigif;60
 bigiftrue;60
 bigload;30;???
 bigloser;20;???
+bigmac;60
+bigmacs;60
 bigmood;50
 bigness;30
 bigno;40;Green paint?
@@ -8523,6 +8525,7 @@ cartab;30
 cartabs;30
 cartage;40;Rate charged for carting
 cartages;20;Bad plural???
+carte;40
 cartedin;40
 cartedoff;50
 carteret;20;New Jersey town
@@ -22512,6 +22515,7 @@ gunfights;50
 gunfire;50
 gunfor;40
 gunforhire;60
+gung;40;Gung ho
 gunmount;50
 gunmounts;50
 gunn;40;Various people
@@ -36231,6 +36235,7 @@ noisette;40;Lean cut of lamb
 noisettes;40
 noisome;50;Smelly (not noisy)
 nojeans;40
+nojoke;60
 nojustno;60
 nokia;50
 nokias;50
