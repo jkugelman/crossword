@@ -3669,6 +3669,7 @@ atealittle;20
 atealone;40
 atealot;30;Green paint
 ateam;50
+ateams;40
 ateandran;50
 ateat;40
 ateathome;20
@@ -7291,6 +7292,8 @@ bso;20
 bss;20
 bstar;20
 bstars;20
+bteam;50
+bteams;40
 btes;20
 btry;20
 bts;40
@@ -12037,7 +12040,7 @@ cstore;20;Convenience store
 cstores;20
 csu;20
 cta;20
-cteam;40
+cteam;50
 cteams;40
 cthulhu;60
 ctn;20
@@ -13118,6 +13121,7 @@ delicounter;50
 delicounters;50
 deliria;40
 deliriums;40
+delish;60
 delislicer;50
 delislicers;50
 deliverablow;50
@@ -23929,6 +23933,7 @@ highestrankingmembers;50
 highfade;50;Haircut
 highfades;50
 highfantasy;60
+highhonor;50
 highhorse;60
 highjump;50
 highjumper;50
@@ -28971,7 +28976,7 @@ kwon;40
 kyd;20
 kyl;20
 kyler;40;Cardinals quarterback Kyler Murray (2023-)
-kyles;30
+kyles;30;Plural name
 kylian;30;???
 kylie;50;Kylie Jenner or Minogue
 kyloren;60
@@ -31952,6 +31957,7 @@ magwheels;50
 magyar;30;Native Hungarian
 magyars;30
 mah;20
+mahal;40
 mahalia;40;Mononymous R&B singer
 maharanee;20;Maharaja's wife or widow
 maharanees;20
@@ -34730,6 +34736,8 @@ muchogusto;60
 muchos;40
 muchsimpler;50
 muchtomychagrin;60
+mucker;40;Person who cleans a horse stall
+muckers;40
 mud;50
 mudcat;50
 mudcats;50
@@ -37273,6 +37281,7 @@ oh;50
 ohairs;20
 ohana;40;Hawaiian for family
 oharas;40
+ohashi;40;Gymnast Katelyn Ohashi
 ohawiseguy;60
 ohbeapal;60
 ohbother;60
@@ -48173,6 +48182,8 @@ selenates;30
 selenator;50;Fan of Selena Gomez
 selenators;50;Fans of Selena Gomez
 selenic;40;???
+selenide;40;Selenium compound
+selenides;40
 selenite;30;Gypsum mineral
 selenites;20;Gypsum minerals
 seles;40;Monica Seles
@@ -53125,16 +53136,20 @@ succorer;30
 succour;30;???
 suchet;40;Actor David Suchet, Poirot portrayer
 sucka;40
+suckat;40
+suckedat;40
 suckedinto;50
 suckedout;60
 suckedouton;40
 suckiness;60
+suckingat;40
 suckingout;50
 suckingouton;40
 suckitude;60
 suckout;60
 suckouton;40
 suckouts;60
+sucksat;40
 sucksout;60
 sucksouton;40
 suckstobeyou;60
@@ -57389,6 +57404,8 @@ towncrier;50
 towncriers;50
 towndrunk;40
 towndrunks;40
+townee;20;Townie
+townees;20
 towsin;40
 towtruck;50
 towtrucks;50
