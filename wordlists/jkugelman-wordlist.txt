@@ -1206,8 +1206,8 @@ airblade;60;Dyson hand dryer
 airblades;60
 airbubble;50
 airbubbles;50
-aircannon;50
-aircannons;50
+aircannon;60
+aircannons;60
 aircav;30
 aircavalry;50
 aircon;40;A.C.
@@ -1611,6 +1611,7 @@ allfiredup;60
 allflashnocash;60
 allforfree;50
 allforms;60
+allfours;60
 allgood;60
 allgoodthingsmustcometoanend;60
 allhandsmeeting;50
@@ -3732,7 +3733,7 @@ atlantaga;30
 atlantahawk;50
 atlantahawks;50
 atlantes;20
-atlantis;50
+atlantis;60
 atlascarry;50
 atle;20;Skier
 atliens;20;???
@@ -7207,7 +7208,7 @@ brotherinlaw;50
 brotherrat;50
 brothersinarms;60
 brothersinlaw;50
-brotox;60;Botox for men, slangily
+brotox;50;Botox for men, slangily
 broughton;40
 broughtonesagame;60
 brownbagged;50
@@ -22179,6 +22180,8 @@ greekmythology;50
 greekmyths;50
 greekolive;50
 greekolives;50
+greekvase;50
+greekvases;50
 greenash;30;Tree
 greenbaywi;30
 greenbelt;60
@@ -22234,6 +22237,7 @@ greyeagle;50;???
 greyed;40
 greyer;40
 greyest;40
+greygoose;60;Vodka
 greyheron;50
 greyherons;50
 greylock;30;VC firm, or Massachusetts mountain
@@ -30417,6 +30421,8 @@ ligeti;40;20th century composer György Ligeti
 lightair;50;1 on the Beaufort wind force scale
 lightbreeze;50;2 on the Beaufort wind force scale
 lightecho;50
+lightenup;60
+lightenupfrancis;60
 lighthorseharry;50
 lightinginto;50
 lightingtheway;50
@@ -37367,6 +37373,7 @@ oilrig;50
 oilrigs;50
 oilrigworker;50
 oilrigworkers;50
+oilsands;60
 oiltanker;50
 oiltankers;50
 oiltube;40
@@ -37410,7 +37417,7 @@ okbut;50;"Yeah, except..."
 okc;20
 okcupid;50
 okd;40
-okdear;60
+okdear;50
 oke;20
 okehs;20
 okemah;20;Oklahoma city
@@ -39507,6 +39514,7 @@ passedmuster;50
 passedoffas;40
 passedon;40
 passedthebaton;50
+passedthesmelltest;60
 passedto;40
 passesas;40
 passesby;40
@@ -39516,6 +39524,7 @@ passesmuster;50
 passesoffas;40
 passeson;40
 passesthebaton;50
+passesthesmelltest;60
 passesto;40
 passeul;30
 passfor;40
@@ -39534,6 +39543,7 @@ passingoffas;40
 passingon;40
 passings;40;Weird plural
 passingthebaton;50
+passingthesmelltest;60
 passingto;40
 passinterference;60;Football penalty
 passinterferencepenalties;60
@@ -39551,6 +39561,7 @@ passrusher;50
 passrushers;50
 passrushing;50
 passthebaton;50
+passthesmelltest;60
 passto;40
 passwordhint;60
 passwordhints;60
@@ -61221,18 +61232,23 @@ wienerdogs;50
 wiest;40;Dianne Wiest
 wiffleballbat;50
 wiffleballbats;50
-wificonnection;50
-wificonnections;50
-wifihotspot;50
-wifihotspots;50
-wifinetwork;50
-wifinetworks;50
-wifipassword;50
-wifipasswords;50
-wifirouter;50
-wifirouters;50
-wifisignal;50
-wifisignals;50
+wificonnection;60
+wificonnections;60
+wifihotspot;60
+wifihotspots;60
+wifinetwork;60
+wifinetworks;60
+wifipassword;60
+wifipasswords;60
+wifirouter;60
+wifirouters;60
+wifisignal;60
+wifisignals;60
+wifisquatter;60
+wifisquatters;60
+wifisquatting;60
+wifizone;60
+wifizones;60
 wig;50
 wigeon;20;Duck
 wigeons;20;Ducks
