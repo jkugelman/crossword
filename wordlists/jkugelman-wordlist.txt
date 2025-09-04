@@ -1946,7 +1946,8 @@ amcrunchwrap;20
 amcrunchwraps;20
 amcs;30
 amd;40
-amdial;40
+amdial;50
+amdials;50
 ame;20
 ameba;20
 amebae;20
@@ -2307,7 +2308,7 @@ angstiest;50
 angsty;50
 anhedonia;50
 anhonestmistake;60
-ani;50
+ani;40
 anika;30;Singer, not super notable?
 anil;40;Dye, or first name
 anilide;20;Fungicide compound
@@ -4830,6 +4831,10 @@ bassdrop;60
 bassdrops;60
 bassey;40;"Goldfinger" singer Shirley Bassey
 bassfishing;60
+bassguitar;60
+bassguitarist;60
+bassguitarists;60
+bassguitars;60
 bassi;40;Operatic bass singers
 bassinet;50
 bassinets;50
@@ -4838,8 +4843,8 @@ basslines;50
 basso;40;Operatic bass singer
 bassos;40
 basspaleale;50
-bassplayer;50
-bassplayers;50
+bassplayer;60
+bassplayers;60
 basssolo;60
 basssolos;60
 bast;30
@@ -6368,7 +6373,7 @@ bmovie;60
 bmovies;60
 bmt;20
 bmw;50
-bmws;40
+bmws;50
 bmx;50
 bnai;30
 bnatural;40
@@ -9989,6 +9994,9 @@ claros;40
 classa;40
 classclown;60
 classclowns;60
+classicalguitar;60
+classicalguitarist;60
+classicalguitarists;60
 classicmovie;50
 classicmovies;50
 classicnovel;50
@@ -15325,7 +15333,7 @@ durer;30;Renaissance artist Albrecht Durer
 durers;20
 durex;40;Condom brand
 durhamnc;30
-durn;50
+durn;40;Drat
 durocher;30;Baseball player Leo
 dustgun;50
 dustguns;50
@@ -19166,6 +19174,8 @@ flyingsaucer;60
 flyingsaucers;60
 flyingto;40
 flyingv;60
+flyingvguitar;60
+flyingvguitars;60
 flyinthe;0
 flyintheface;20
 flyintheointment;60
@@ -19184,7 +19194,8 @@ flywheel;50
 flywheels;50
 fm;40
 fmajor;40
-fmdial;40
+fmdial;50
+fmdials;50
 fminor;40
 fmri;40
 fms;20
@@ -19279,6 +19290,9 @@ folivore;40;Herbivore that eats primarily leaves, e.g. a panda
 folivores;40
 folkartist;50
 folkartists;50
+folkguitar;60
+folkguitarist;60
+folkguitarists;60
 folkhero;60
 folklore;60
 folklores;50
@@ -22252,6 +22266,8 @@ grewoldtogether;60
 grewon;40
 grewrich;20
 grewupon;40
+greyarea;40
+greyareas;40
 greyeagle;50;???
 greyed;40
 greyer;40
@@ -22261,14 +22277,16 @@ greyheron;50
 greyherons;50
 greylock;30;VC firm, or Massachusetts mountain
 greymalkin;20;Archaic term for cat
+greymatter;40
+greynoise;40
 greynomad;50;???
 greynomads;50
-greypoupon;50
-greyrock;60
-greyrocked;60
-greyrocking;60
-greyrockmethod;60
-greyrocks;60
+greypoupon;60
+greyrock;40
+greyrocked;40
+greyrocking;40
+greyrockmethod;40
+greyrocks;40
 grf;20
 gridlock;50
 gridlocked;50
@@ -27654,6 +27672,9 @@ jazzesuptheplace;60
 jazzfestival;50
 jazzfestivals;50
 jazzfusion;60
+jazzguitar;60
+jazzguitarist;60
+jazzguitarists;60
 jazzingupthejoint;60
 jazzinguptheplace;60
 jazzmix;50
@@ -29697,6 +29718,9 @@ leaddogs;50
 leadershipteam;50
 leadershipteams;50
 leadeth;30
+leadguitar;60
+leadguitarist;60
+leadguitarists;60
 leadier;30
 leadiest;30
 leadinginto;40
@@ -34548,6 +34572,7 @@ mountainstate;50
 mountainstates;50
 mountainview;60
 mounterebus;50
+mounteverest;60
 mounthoodoregon;50
 mountpinatubo;40;Philippine volcano
 mountpleasant;60
@@ -34729,6 +34754,7 @@ mswati;30;King Mswati of Swwatini
 mt;40
 mta;40
 mtdana;40
+mteverest;60
 mtg;20
 mthatha;30;South Africa city formerly known as Umtata where Nelson Mandela comes from
 mthope;40;???
@@ -34838,6 +34864,7 @@ mumpsimus;40;One who clings to tradition
 mumpsimuses;30
 mun;20
 munchlax;50;Pokeyman
+muncie;40
 muni;40;Municipal bond
 munis;40
 munition;40
@@ -34845,6 +34872,7 @@ munitioned;40
 munitioning;40
 munitions;50
 munro;40
+munshi;30;???
 muon;40;Subatomic particle
 muonneutrino;50
 muonneutrinos;50
@@ -38194,6 +38222,9 @@ openest;30
 openfire;50
 openfireon;40
 opengrill;50
+openheartsurgery;60
+openhouse;60
+openhouses;60
 openingbid;50
 openingbids;50
 openingfire;50
@@ -42152,13 +42183,13 @@ presorting;30
 presorts;30
 pressclub;50
 pressclubs;50
-presscorps;50
-presscoverage;50
+presscorps;60
+presscoverage;60
 pressedham;50
 pressevent;50
 pressevents;50
-pressjunket;50
-pressjunkets;50
+pressjunket;60
+pressjunkets;60
 presskit;50
 presskits;50
 pressman;40;Journalist or printing press operator
@@ -42170,12 +42201,12 @@ pressor;30;Physiological response, increase in blood pressure
 pressors;30
 pressparties;50
 pressparty;50
-presspass;50
-presspasses;50
-pressrelease;50
-pressreleases;50
-presssecretaries;50
-presssecretary;50
+presspass;60
+presspasses;60
+pressrelease;60
+pressreleases;60
+presssecretaries;60
+presssecretary;60
 presstime;50
 presstimes;50
 prestir;30
@@ -42204,6 +42235,7 @@ prettymuch;60
 prettypickle;60
 prettysimple;60
 prettysure;50
+prettywoman;60
 pretzelloop;50
 pretzelloops;50
 prev;40
@@ -45481,6 +45513,9 @@ rhymers;30
 rhymingcouplet;50
 rhymingcouplets;50
 rhys;40
+rhythmguitar;60
+rhythmguitarist;60
+rhythmguitarists;60
 ria;30;Narrow inlet
 riaa;40
 riaehtni;0
@@ -53368,6 +53403,7 @@ suntanoil;50
 suntanoils;50
 suntea;40
 sunteas;40
+sunyat;20;???
 sup;50
 supbro;60
 supdude;60
@@ -58216,6 +58252,7 @@ tumbrels;30
 tumbril;30;Horse cart
 tumbrils;30
 tumid;40;Swollen
+tumidity;40
 tumor;20
 tumornecrosisfactor;20
 tumorous;20
