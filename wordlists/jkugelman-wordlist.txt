@@ -3505,8 +3505,8 @@ assessedas;40
 assessee;30
 assessees;30
 assessingas;40
-assessor;30
-assessors;30
+assessor;40
+assessors;40
 assetless;30
 asseverate;30;Solemnly declare
 asseverated;30;Solemnly declared
@@ -20543,7 +20543,9 @@ generalpershing;50
 generalpublic;50
 generalrule;60
 generalsherman;50
-generaltsoschicken;50
+generaltso;60
+generaltsos;60
+generaltsoschicken;60
 generalusgrant;50
 generativeai;60
 generis;40;Sui generis
