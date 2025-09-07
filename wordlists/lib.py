@@ -289,6 +289,26 @@ def spellable_metas(themers, words, min_count=None, max_count=None, filter=is_sy
         if spellings:
             yield word, spellings
 
+def nested_words(words, outers, inners):
+    """
+    Yields strings like 'mari(juan)a' whenever a word from `words` can be formed by inserting one
+    string from `inners` inside one string from `outers`.
+    """
+    for word in words:
+        for i in range(1, len(word)):
+            for j in range(i + 1, len(word)):
+                inner = word[i:j]
+                if inner not in inners:
+                    continue
+
+                left = word[:i]
+                right = word[j:]
+                outer = left + right
+                if outer not in outers:
+                    continue
+
+                yield f"{left}({inner}){right}"
+
 def is_palindrome(word):
     return word == word[::-1]
 
