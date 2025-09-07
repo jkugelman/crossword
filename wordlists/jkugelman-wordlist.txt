@@ -6669,6 +6669,7 @@ boomandbustcycle;60
 boombust;60
 boombustcycle;60
 boomer;60
+boomerangeffect;60
 boomers;60
 boomin;40;Metro Boomin, influential hip-hop & trap music producer
 boomingbusiness;40
@@ -7533,6 +7534,8 @@ burnward;50
 burnwards;50
 burpee;60
 burpees;60
+burrowingowl;60;Ground-based bird (via Kathy Simonson)
+burrowingowls;60
 bursitis;40;Joint inflammation
 burstedinon;40
 burster;30
@@ -9177,16 +9180,20 @@ chancres;5
 chancroid;5;STD
 chancroids;5
 chandlerarizona;30
+changearound;50
+changedaround;50
 changedto;40
 changeofperspective;50
 changeofstate;50
 changer;40
 changers;40
 changesare;0
+changesaround;50
 changesofperspective;50
 changesofstate;50
 changesto;40
 changeto;40
+changingaround;50
 changingto;40
 chanson;30;French song style
 chansons;30
@@ -17743,6 +17750,7 @@ facecams;60
 facedit;30
 facedout;40
 facedtherap;20
+facedthewrongway;50
 facedup;40
 facedupto;40
 faceid;50
@@ -17762,6 +17770,7 @@ faceshapes;50
 facesit;30
 facesout;40
 facestherap;20
+facesthewrongway;50
 facesup;40
 facesupto;40
 faceswap;60
@@ -17773,6 +17782,7 @@ facetats;60
 facetattoo;60
 facetattoos;60
 facetherap;20
+facethewrongway;50
 facetime;50
 facetimed;50
 facetimes;50
@@ -17784,6 +17794,7 @@ facingit;30
 facingout;40
 facings;30
 facingtherap;20
+facingthewrongway;50
 facingup;40
 facingupto;40
 factis;60
@@ -60982,6 +60993,7 @@ wessex;30
 wester;40
 westerncanon;60;Collection of creative works defining European and American culture
 westerneurope;60
+westernfront;50
 westernworld;60
 westeros;60
 westers;40
