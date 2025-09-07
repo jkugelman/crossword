@@ -195,6 +195,10 @@ aboundedin;30
 aboundin;30
 aboundingin;30
 aboundsin;30
+aboutface;50
+aboutfaced;50
+aboutfaces;50
+aboutlastnight;60
 aboutschmidt;50
 aboutto;40
 aboutturn;50
@@ -26722,6 +26726,8 @@ inveiglers;30
 inventhim;60
 inversed;30
 invertase;40;Baking enzyme
+invertedcomma;60
+invertedcommas;60
 invesco;40;Investment management company
 investmentbanks;50
 investmentvalue;50
@@ -30035,8 +30041,8 @@ leisures;30
 leisuretime;50
 leitch;40;David Leitch, Bullet Train/Fall Guy/Deadpool director
 leiter;40;All-Star pitcher Al Leiter
-leitmotif;50
-leitmotifs;50
+leitmotif;60
+leitmotifs;60
 leitmotiv;40
 leitmotivs;40
 lek;20;Albanian coin
