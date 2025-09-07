@@ -24359,6 +24359,7 @@ holdingback;50
 holdingto;40
 holdingvigil;50
 holditasec;50
+holdmusic;60
 holdmybeer;60
 holdon;60
 holdonbeforeyouanswer;60
@@ -24761,6 +24762,9 @@ hotbed;50
 hotbeds;50
 hotblooded;50
 hotbloodedness;50
+hotbutton;60
+hotbuttonissue;60
+hotbuttonissues;60
 hotcakes;60
 hotcar;20;Green painty
 hotchili;50
@@ -27879,20 +27883,20 @@ jetes;40
 jetpropelledpogostick;60;Acme invention
 jetpropelledskis;60;Acme invention
 jetpropelledunicycle;60;Acme invention
-jetset;50
-jetsetcrowd;50
-jetsets;50
-jetsetter;50
-jetsetters;50
-jetsetting;50
-jetski;50
-jetskied;50
-jetskier;50
-jetskiers;50
-jetskiing;50
-jetskis;50
-jetstream;50
-jetstreams;50
+jetset;60
+jetsetcrowd;60
+jetsets;60
+jetsetter;60
+jetsetters;60
+jetsetting;60
+jetski;60
+jetskied;60
+jetskier;60
+jetskiers;60
+jetskiing;60
+jetskis;60
+jetstream;60
+jetstreams;60
 jett;40;Joan Jett
 jeu;20
 jew;50
@@ -30265,7 +30269,7 @@ letches;5
 letem;30
 letemhaveit;60
 letemin;40;1976 Wings song
-leterrip;50
+leterrip;60
 letgoofme;60
 lethe;30;River in Hades whose waters cause drinkers to forget their past
 lethem;40;Novelist Jonathan Lethem, "Motherless Brooklyn", MacArthur Fellowship
@@ -40454,6 +40458,7 @@ petercottontail;60
 petergunn;50
 peteri;30
 peterii;30
+peterpan;60
 peterpansyndrome;60;Pop psychology term for men who have never grown up
 peterpeterpumpkineater;60
 peterpiper;60
@@ -53850,7 +53855,7 @@ sweetcheeks;60
 sweetchildomine;60
 sweetchinmusic;60
 sweetemotion;60
-sweetgig;50
+sweetgig;60
 sweetiepie;60
 sweeting;40;???
 sweetnlow;50
@@ -53873,7 +53878,7 @@ sweettalker;60
 sweettalkers;60
 sweettalking;60
 sweettalks;60
-sweettea;50
+sweettea;60
 sweettooth;60
 sweetvalley;50
 sweetvalleyhigh;60
@@ -54671,11 +54676,12 @@ tatar;40
 tatars;40
 tatary;40;???
 tatas;40
-tategallery;50
-tatemodern;50
-tatemuseum;50
-tatertot;50
-tatertots;50
+tategallery;60
+tatemodern;60
+tatemuseum;60
+tatertot;60
+tatertotnachos;60
+tatertots;60
 tates;30
 tati;40;Director Jacques Tati (he's notable!)
 tatler;30;British magazine
@@ -60631,6 +60637,7 @@ watchstand;50
 watchstands;50
 watchstem;50
 watchstems;50
+watchthis;60
 watchyourform;60
 waterbag;50
 waterbags;50
@@ -60672,6 +60679,8 @@ watersnake;50
 watersnakes;50
 watersport;50
 watersports;50
+watertaxi;60
+watertaxis;60
 watervole;50
 watervoles;50
 waterwater;0
