@@ -21518,7 +21518,7 @@ goessour;50
 goesstag;50
 goest;30
 goesto;40
-goestoseed;50
+goestoseed;60
 goesupto;40
 goeswest;40;Green paint???
 goeswith;40
@@ -21618,7 +21618,7 @@ goingsour;50
 goingstag;50
 goingthroughsomestuff;60
 goingto;40
-goingtoseed;50
+goingtoseed;60
 goingupto;40
 goingwith;40
 goinon;50
@@ -21744,6 +21744,7 @@ gonerilandregan;0
 gonerogue;60
 gonesenile;50
 gonesoft;50
+gonetoseed;60
 gonewrong;40
 gongongongongon;0
 gonococci;5;Gonorrhea bacteria
@@ -22000,7 +22001,7 @@ gotonesgoat;60
 gotonto;40
 gotoofar;60
 gotos;50
-gotoseed;50
+gotoseed;60
 gotosleep;50
 gotquiet;50
 gotready;50
@@ -27246,6 +27247,7 @@ items;50
 iterant;40
 itfactor;60
 itgirl;60
+itgoestoshow;60
 itguy;50
 itguys;50
 ithadtobedone;60;"Sorry but that was necessary"
@@ -27272,6 +27274,7 @@ itisnot;50
 itisntover;60
 itisntright;60
 itisntsetinstone;60
+itjustgoestoshow;60
 itjustsohappens;60
 itlays;20
 itll;50
@@ -28191,6 +28194,7 @@ justcoolitwouldyou;60
 justdoingmyjob;60
 justdont;60
 justforfunsies;60
+justgoestoshow;60
 justicesystem;60
 justimagine;60
 justincase;60
@@ -61056,7 +61060,7 @@ wentsolo;50
 wentsour;50
 wentstag;50
 wentto;40
-wenttoseed;50
+wenttoseed;60
 wentupto;40
 wentwith;40
 wentwithit;50
