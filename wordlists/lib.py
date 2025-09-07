@@ -289,20 +289,20 @@ def spellable_metas(themers, words, min_count=None, max_count=None, filter=is_sy
         if spellings:
             yield word, spellings
 
-def nested_words(words, outers, inners):
+def nested_words(fulls, outers, inners):
     """
-    Yields strings like 'mari(juan)a' whenever a word from `words` can be formed by inserting one
+    Yields strings like 'mari(juan)a' whenever a word from `fulls` can be formed by inserting one
     string from `inners` inside one string from `outers`.
     """
-    for word in words:
-        for i in range(1, len(word)):
-            for j in range(i + 1, len(word)):
-                inner = word[i:j]
+    for full in fulls:
+        for i in range(1, len(full)):
+            for j in range(i + 1, len(full)):
+                inner = full[i:j]
                 if inner not in inners:
                     continue
 
-                left = word[:i]
-                right = word[j:]
+                left = full[:i]
+                right = full[j:]
                 outer = left + right
                 if outer not in outers:
                     continue
