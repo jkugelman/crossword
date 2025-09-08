@@ -294,7 +294,7 @@ def nested_words(fulls, outers, inners):
     Yields strings like 'mari(juan)a' whenever a word from `fulls` can be formed by inserting one
     string from `inners` inside one string from `outers`.
     """
-    for full in fulls:
+    for full in sorted(fulls):
         for i in range(1, len(full)):
             for j in range(i + 1, len(full)):
                 inner = full[i:j]
