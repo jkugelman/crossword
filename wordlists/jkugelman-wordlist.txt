@@ -6051,6 +6051,7 @@ bitplayer;60
 bitplayers;60
 bitrole;50
 bitroles;50
+bitsof;40
 bitte;40;Thanks: Ger.
 bitted;30
 bittern;40;Marsh bird
@@ -7190,6 +7191,7 @@ brocket;20;Type of deer
 brocode;50
 brodate;50
 brodates;50
+brodeur;40;Martin Brodeur in the NHL Hall of Fame
 brodown;30
 brokebread;60
 brokebreadwith;50
@@ -11791,6 +11793,7 @@ cresc;40
 cresse;20
 cresset;30;Metal cup on a pole containing oil, burned as a light/beacon
 cressets;30
+crestor;40;Cholesterol medicine
 cretan;40;Someone from Crete
 cretans;40
 cretonne;30;???
@@ -15152,8 +15155,8 @@ drugsniffingdog;50
 drugsniffingdogs;50
 drugtrial;50
 drugtrials;50
-druguse;30
-drugwar;50
+druguse;40
+drugwar;60
 drugwars;50
 drumhead;50
 drumheads;50
@@ -21903,6 +21906,7 @@ gopfft;30
 gopublic;50
 gor;20
 goran;40;Tennis star Ivanisevic Goran
+gorby;40;Nickname for Mikhail Gorbachev
 goren;40;Bridge writer Charles Goren
 gorgedon;40
 gorgeon;40
@@ -34084,7 +34088,7 @@ misterchristian;30
 mistered;50
 misterfantastic;60
 misterknowitall;60
-misterpresident;50
+misterpresident;60
 mistertoad;50;"The Wind in the Willows" character
 mistico;40;???
 mistral;30;Cold wind of France
@@ -34828,6 +34832,7 @@ mristudies;50
 mristudy;50
 mrknowitall;60
 mrlee;30;From Bobbettes song "I Shot Mr. Lee"
+mrmayor;60
 mrmime;50;Pokeyman
 mrmoto;50
 mrn;20
@@ -41838,6 +41843,7 @@ pooryou;60
 pop;50
 popartist;50
 popartists;50
+popawheelie;60
 popcan;50
 popcans;50
 popcorns;40
@@ -41903,21 +41909,33 @@ popolvuh;30;Mayan text
 popon;40
 poppa;20;Papa variant
 poppas;20;Papas variant
+poppedawheelie;60
 poppedinamovie;50
 poppedinto;40
 poppedoff;60
 poppedon;40
 poppedpills;40
+poppedtheclutch;60
+poppedthehood;60
+poppedwheelies;60
 poppills;40
+poppingawheelie;60
 poppinginamovie;50
 poppinginto;40
 poppingoff;60
 poppingon;40
 poppingpills;40
+poppingtheclutch;60
+poppingthehood;60
+poppingwheelies;60
 poppop;50
 poppunk;50
+popsawheelie;60
 popscene;50
+popsecret;60
 popsinamovie;50
+popsinger;60
+popsingers;60
 popsinto;40
 popsoff;60
 popson;40
@@ -41925,13 +41943,23 @@ popsong;60
 popsongs;60
 popspill;30
 popspills;30
+popstheclutch;60
+popsthehood;60
+popswheelies;60
+poptab;40;Real phrase?
+poptabs;40
 poptart;50
 poptarts;50
+poptheclutch;60
+popthehood;60
 popularculture;60
+popularitycontest;60
+popularitycontests;60
 popularizer;50
 popularscience;60
 popupbook;50
 popupbooks;50
+popwheelies;60
 por;40
 porcelaingod;60
 porchpirate;60
@@ -42201,12 +42229,16 @@ pratfalls;60
 pratique;40;Clearance given an incoming ship by the health authority of a port
 prau;20
 praydo;50
+prayedfor;40
 prayedto;40
 prayedtotheporcelaingod;60
 prayercandle;50
 prayercandles;50
+prayfor;40
+prayingfor;40
 prayingto;40
 prayingtotheporcelaingod;60
+praysfor;40
 praysto;40
 praystotheporcelaingod;60
 prayto;40
@@ -60574,6 +60606,7 @@ warningsigns;50
 warnme;20
 warnof;40
 warnsof;40
+warondrugs;60
 warpath;60
 warpaths;50
 warpfactor;50
