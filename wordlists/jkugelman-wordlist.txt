@@ -615,6 +615,7 @@ add;50
 addacoatofpaint;30
 addams;50
 adddddddddd;0
+addedaroom;20;Green paint
 addedfiber;50
 addedin;40
 addedinto;40;Why is this in the XWI list???
@@ -16852,6 +16853,10 @@ eph;20
 ephedra;20
 ephedras;20
 ephemerae;40
+ephemerides;40
+ephemerids;40
+ephemeris;40
+ephemeron;40
 ephesian;30
 ephesians;40;New Testament book
 ephesus;30;Ancient Greek city
@@ -26361,7 +26366,7 @@ ineedahand;60
 ineedahint;60
 ineedalift;60
 ineedanap;60
-ineedaride;50
+ineedaride;60
 ineedavolunteer;60
 ineededthat;60
 ineedit;50
@@ -26821,6 +26826,7 @@ invertedcommas;60
 invesco;40;Investment management company
 investmentbanks;50
 investmentvalue;50
+inveteracy;40
 invisiblepaint;60;Acme invention
 invitrofertilization;50
 invitrofertilizations;40
@@ -33773,6 +33779,8 @@ mila;40
 milady;50
 milchcow;40;Cow kept for milk
 mildbreeze;50
+milemarker;60
+milemarkers;60
 miler;50;One that competes in mile races, or ___-miler
 milers;50
 milesaway;50
@@ -38531,6 +38539,7 @@ orcinus;30;Dolphin genus
 ord;40
 ordainer;30
 ordainers;30
+orderaride;20;Green paint
 orderaround;50
 orderedaround;50
 orderingaround;50
@@ -44657,6 +44666,7 @@ reg;40
 regaler;50
 reganandgoneril;20
 regave;30
+regeneracy;40
 regift;50
 regifted;50
 regifting;50
