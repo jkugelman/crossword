@@ -11443,6 +11443,7 @@ cotija;40;Mexican cheese
 cotonou;30;Largest city in Benin
 cotrustee;30
 cotta;40;Terra cotta
+cottagecore;60
 cottageindustries;60
 cottageindustry;60
 cotter;30;Type of pin
@@ -23941,8 +23942,9 @@ hep;40
 hepa;40
 hepafilter;50
 hepafilters;50
-hepatic;30;Relating to the liver
+hepatic;40;Relating to the liver, or liverwort
 hepatica;30;Flower genus
+hepatics;30;Liverworts
 heptad;30
 heptads;30
 heptagon;40
@@ -24748,6 +24750,7 @@ hootsat;40
 hop;50
 hopacab;30
 hopeagainsthope;60
+hopecore;60
 hopedagainsthope;60
 hopedfor;40
 hopedforarematch;60
@@ -32568,6 +32571,7 @@ malaprop;60
 malapropism;60
 malaprops;60
 malarias;0
+malathion;40;Pesticide
 malayalam;30;South Indian language
 malbec;30;Wine grape
 malbecs;30;Wine grapes
@@ -51311,25 +51315,28 @@ solano;20;California county
 solans;20
 solararray;50
 solararrays;50
-solarcar;30
-solarcars;30
+solarcar;40
+solarcars;40
 solarcell;50
 solarcells;50
-solareclipse;50
-solareclipses;50
-solarfarm;50
-solarfarms;50
-solarflare;50
-solarflares;50
-solarpanel;50
-solarpanels;50
-solarplexus;50
-solarpower;50
-solarroad;50
-solarroads;50
-solarsail;50
-solarsails;50
-solarsystem;50
+solareclipse;60
+solareclipses;60
+solarfarm;60
+solarfarms;60
+solarflare;60
+solarflares;60
+solarhalo;60;Optical phenomenon
+solarhalos;60
+solarpanel;60
+solarpanels;60
+solarplexus;60
+solarpower;60
+solarroad;60
+solarroads;60
+solarsail;60
+solarsails;60
+solarsystem;60
+solarsystems;60
 solastyear;60;Old hat
 solate;20;Turn from a gel into a liquid
 solates;20;Turns from a gel into a liquid
