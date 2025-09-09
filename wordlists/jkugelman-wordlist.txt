@@ -3307,6 +3307,8 @@ arya;40
 aryan;5
 aryans;5
 arye;20;Actor Gross
+aryna;40;World #1 women's tennis player Aryna Sabalenka
+arynasabalenka;50;World #1 women's tennis player Aryna Sabalenka
 as;50
 asa;40
 asada;40
@@ -6225,6 +6227,7 @@ blm;40
 blo;20
 bloater;30
 bloaters;30
+bloatware;60
 blockader;30
 blockaders;30
 blockbuster;60
@@ -6446,6 +6449,7 @@ bocci;30;Variant of bocce
 boccie;20;Variant of bocce
 bochco;40;Steven Bochco, creator of Hill Street Blues, NYPD Blue, Doogie Howser, and other shows
 bod;50
+bodacious;60
 boddy;40;Mr. Boddy from Clue
 bodedwellfor;40
 bodegacat;60
@@ -17810,6 +17814,8 @@ facepainting;60
 facerecognition;60
 faceshape;50
 faceshapes;50
+faceshield;60
+faceshields;60
 facesit;30
 facesout;40
 facestherap;20
@@ -17882,10 +17888,14 @@ fahy;40;"White Lotus" actress Meghann Fahy
 faience;30;Fine tin-glazed pottery
 failat;40
 failedat;40
+failedtosee;60
 failingat;40
+failingtosee;60
 failsafe;50
 failsafes;50
 failsat;40
+failstosee;60
+failtosee;60
 failureofimagination;60
 failuresofimagination;60
 failuretolaunch;60
@@ -17947,6 +17957,7 @@ fallinginto;40
 fallingon;40
 fallingoutoflove;50
 fallingshy;50
+fallingshyof;40
 fallingto;40
 fallingupon;40
 fallinto;40
@@ -17960,6 +17971,7 @@ falloutshelters;60
 fallsale;50
 fallsales;50
 fallshy;50
+fallshyof;40
 fallsin;40
 fallsinto;40
 fallsoffthebone;60
@@ -17968,6 +17980,7 @@ fallsononesface;60
 fallsononesfeet;0
 fallsoutoflove;50
 fallsshy;50
+fallsshyof;40
 fallsto;40
 fallstreak;50;
 fallstreakhole;50;Cloud phenomenon
@@ -18082,8 +18095,14 @@ farinas;20
 farmbelt;50
 farmed;50
 farmerstan;50;???
+farmstand;60
+farmstands;60
+farmstore;60
+farmstores;60
 farmsystem;60
 farmsystems;60
+farmteam;60
+farmteams;60
 farnese;20;Influential family in Renaissance Italy
 farness;30
 faro;40;Card game
@@ -18400,6 +18419,7 @@ fellon;40
 felloutoflove;50
 fellowcitizens;60
 fellshy;50
+fellshyof;40
 fellto;40
 fellupon;40
 felodese;20;Felo-de-se, felon of himself: suicide
@@ -18529,6 +18549,8 @@ fiancee;50
 fib;50
 fibonacciseries;50
 fibrinous;40
+ficascore;60
+ficascores;60
 fictitiousentries;60;Plagiarism trap
 fictitiousentry;60;Plagiarism trap
 fiddledwith;40
@@ -18632,8 +18654,16 @@ filmgoer;50
 filmgoers;50
 filmprop;50
 filmprops;50
-filmschool;50
-filmschools;50
+filmschool;60
+filmschools;60
+filmscore;60
+filmscores;60
+filmscript;60
+filmscripts;60
+filmshoot;60
+filmshoots;60
+filmstudio;60
+filmstudios;60
 filmtrope;60
 filmtropes;60
 filmy;50
@@ -19084,21 +19114,25 @@ flipbooks;50
 flipofaswitch;50
 flipoff;60
 flipon;40
+flipouton;40
 flippedacoin;50
 flippedahouse;40
 flippedoff;60
 flippedon;40
+flippedouton;40
 flippedthebird;60
 flippest;50
 flippingacoin;50
 flippingahouse;40
 flippingoff;60
 flippingon;40
+flippingouton;40
 flippingthebird;60
 flipsacoin;50
 flipsahouse;40
 flipsoff;60
 flipson;40
+flipsouton;40
 flipsthebird;60
 flipthebird;60
 fliptop;50
@@ -19290,12 +19324,16 @@ foamrolls;60
 fob;50
 focsle;40;Forward part of a ship
 focsles;40
+focusedin;40
 focusedinon;40
 focusedon;40
+focusesin;40
 focusesinon;40
 focuseson;40
 focusgroup;50
 focusgroups;50
+focusin;40
+focusingin;40
 focusinginon;40
 focusingon;40
 focusinon;40
@@ -19401,6 +19439,8 @@ foodporn;60
 foodprep;60
 foodprocessing;50
 foodquality;50
+foodstamp;60
+foodstamps;60
 foodstand;60
 foodstands;60
 foodsupplies;50
@@ -19418,36 +19458,40 @@ foolproof;60
 foolsaround;50
 foolscap;50
 foolserrand;60
+foolsmate;60
+foolsmates;60
 foolto;0
-footballhelmets;50
-footballplayers;50
-footballstadium;50
-footballstadiums;50
+footballhelmet;60
+footballhelmets;60
+footballplayer;60
+footballplayers;60
+footballstadium;60
+footballstadiums;60
 footballteam;60
 footballteams;60
-footballuniform;50
-footballuniforms;50
+footballuniform;60
+footballuniforms;60
 footbook;50;Dr. Seuss book, with "The"
 footbrake;50
 footbrakes;50
-footfault;50
-footfaults;50
+footfault;60
+footfaults;60
 footfetish;60
 footfetishes;60
-footlocker;50
-footlockers;50
+footlocker;60
+footlockers;60
 footman;50
-footmassage;50
-footmassages;50
+footmassage;60
+footmassages;60
 footmen;50
 footmodel;50
 footmodels;50
 footpedal;50
 footpedals;50
-footrub;50
-footrubs;50
-footscrub;50
-footscrubs;50
+footrub;60
+footrubs;60
+footscrub;60
+footscrubs;60
 footsie;60
 footslogger;40
 footsloggers;40
@@ -19486,9 +19530,15 @@ forenoons;30;Mornings
 foreplay;60
 forerunner;50
 forerunners;50
+foreshadow;60
+foreshadowed;60
+foreshadowing;60
+foreshadows;60
 forestbath;50
 forestbathing;50
 forestbaths;50
+forestfire;60
+forestfires;60
 foretop;40;Ship platform
 foretops;40
 foreverhome;60
@@ -19965,6 +20015,8 @@ fuckmeshoes;5
 fuddy;40;Fuddy duddy
 fuddyduddies;60
 fuddyduddy;60
+fudgsicle;60
+fudgsicles;60
 fudgy;30
 fuego;40
 fuelcell;50
@@ -31929,6 +31981,10 @@ macaber;20;Variant of macabre
 macaco;20;Monkey
 macadam;30;Driving surface
 macadams;30;Driving surfaces
+macaronic;40;Any expression using a mixture of languages
+macaronicexpression;50
+macaronicexpressions;50
+macaroniclanguage;50
 macaronies;40
 macassar;20;1800s hair oil
 macer;20
@@ -46981,6 +47037,7 @@ saaremaa;30;Estonian island
 saatchi;30;Ad agency Saatchi & Saatchi
 sab;20
 sabado;40
+sabalenka;40;World #1 women's tennis player Aryna Sabalenka
 saban;40;Alabama football coach and ESPN sportscaster Nick Saban
 sabato;20;Actor Antonio, or Saturday: Ital.
 sabbathstheater;50;Philip Roth novel
@@ -51618,6 +51675,10 @@ spearheading;60
 spearheads;60
 spearman;50
 spearmen;50
+spearmint;60
+spearmintgum;60
+spearmintoil;60
+spearmints;50
 specialk;50
 specialmentions;50
 specialoccasion;50
@@ -55438,6 +55499,7 @@ tex;50
 texanaccent;50
 texanaccents;50
 texandrawl;50
+texarkana;60
 texasaandm;40
 texasbbq;50
 texasdip;50
