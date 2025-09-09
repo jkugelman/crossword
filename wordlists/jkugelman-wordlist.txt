@@ -25,8 +25,8 @@ aahs;40
 aahsat;30
 aalarge;40
 aam;20
-aameeting;50
-aameetings;50
+aameeting;60
+aameetings;60
 aamilne;50
 aand;20
 aande;30
@@ -762,6 +762,7 @@ adorners;40
 adoseof;20
 adp;30
 adreamwithinadream;60
+adrenaline;60
 adriana;40;Model Adriana Lima
 adriani;40
 adrianii;30;Pope
@@ -9255,6 +9256,10 @@ chaplets;20
 chappellroan;60
 chapterii;40
 chapterone;50
+characteractor;60
+characteractors;60
+characterarc;60
+characterarcs;60
 characterassassination;60
 characterbuilding;60
 characterdevelopment;60
@@ -12460,6 +12465,7 @@ dairycooler;50
 dairymaid;50
 dairymaids;50
 daiso;20;???
+daisyad;30
 dak;20
 dakar;40;Capital of Senegal
 dakarrally;50;???
@@ -12892,6 +12898,7 @@ dearfriends;50
 dearica;40;Dearica Hamby in the WNBA
 dearjohn;60
 dearjohns;50
+dearlydeparted;50
 dearness;40
 dearsir;50
 dearsirs;50
@@ -14603,6 +14610,8 @@ doortodoorsales;50
 doortwo;40
 doover;50
 doovers;50
+dopamine;60
+dopaminerush;60
 dopant;30
 dopants;30
 dopeness;30
@@ -17745,10 +17754,10 @@ eyeless;40
 eyelid;50
 eyeliner;50
 eyeliners;50
-eyemask;50
-eyemasks;50
+eyemask;60
+eyemasks;60
 eyeofnewt;60;Witches' brew ingredient in Macbeth
-eyeofra;50
+eyeofra;60
 eyepatch;50
 eyepatches;50
 eyepit;30;Eye socket, wordlist spam
@@ -21193,6 +21202,8 @@ ginny;40
 ginos;30
 ginza;40;Tokyo shopping district
 gio;20
+gioachino;40;Composer Gioachino Rossini
+gioachinorossini;50;Composer Gioachino Rossini
 giotto;40;Renaissance painter
 gip;5
 gipp;30;The Gipper
@@ -21357,6 +21368,7 @@ glogg;30;Swedish spiced wine
 glomeruli;20
 glomerulus;20
 gloomygus;60
+gloriana;40;Country music band 2008-17
 glorydays;60
 glossa;30;Tongue-like structure in an insect's mouth
 glossae;30
@@ -21578,6 +21590,7 @@ goesonatear;60
 goesonleave;50
 goesonrecord;50
 goesonrecordas;40
+goesonsale;60
 goesontour;50
 goesout;50
 goesoutwith;50
@@ -21680,6 +21693,7 @@ goingonatear;60
 goingonleave;50
 goingonrecord;50
 goingonrecordas;40
+goingonsale;60
 goingontour;50
 goingoutwith;50
 goingpfft;30
@@ -21936,6 +21950,7 @@ goonleave;50
 goonrecord;50
 goonrecordas;40
 goonsafari;50
+goonsale;60
 goonthelam;60
 goontherun;60
 goontour;50
@@ -22626,6 +22641,7 @@ guessedat;40
 guesses;50
 guessesat;40
 guessingat;40
+guessnot;60
 guesstimate;60
 guesstimated;60
 guesstimates;60
@@ -23077,6 +23093,8 @@ handdryer;50
 handdryers;50
 handeddown;50
 handedto;40
+handeye;50
+handeyecoordination;60
 handforged;50
 handgrenade;50
 handgrenades;50
@@ -23334,6 +23352,7 @@ hasnotime;50
 hasntgottime;50
 hason;40
 hasonetoomany;60
+hassan;40
 hassium;40;Element 108
 hasta;40
 hastate;20
@@ -23896,6 +23915,7 @@ hepa;40
 hepafilter;50
 hepafilters;50
 hepatic;30;Relating to the liver
+hepatica;30;Flower genus
 heptad;30
 heptads;30
 heptagon;40
@@ -23967,6 +23987,8 @@ heroizing;30
 heronchick;50
 heronchicks;50
 heros;50;Plural sandwiches, not brave people
+herosjourney;60
+herosquest;60
 herpes;30
 herpetic;20
 herr;40
@@ -24700,11 +24722,13 @@ hop;50
 hopacab;30
 hopeagainsthope;60
 hopedagainsthope;60
+hopedfor;40
 hopedforarematch;60
 hopedto;40
 hopefor;40
 hopeforarematch;60
 hopesagainsthope;60
+hopesfor;40
 hopesforarematch;60
 hopesto;40
 hopeto;40
@@ -24712,6 +24736,7 @@ hopetogod;60
 hopeyouenjoy;60
 hopin;50
 hopingagainsthope;60
+hopingfor;40
 hopingforarematch;60
 hopingto;40
 hopinto;40
@@ -26547,6 +26572,7 @@ inigo;40;Inigo Montoya
 inink;50
 initialreaction;50
 initialreactions;50
+initio;40
 injars;40
 injectionsite;50
 injeopardy;50
@@ -27189,6 +27215,7 @@ isitdoneyet;60
 isithotinhere;60;Tie-puller's complaint
 isitme;50;"Am I the problem?"
 isitmeor;40;Partial?
+isitso;40;???
 isixteen;20
 isl;20
 isla;40
@@ -28356,8 +28383,8 @@ kangandkodosjohnson;60;Simpsons aliens
 kangaroomeat;60
 kangatarianism;60;Australian eco-friendly diet (vegetarian + kangaroos)
 kannada;30;South Indian language
-kansan;40
-kansans;40
+kansan;50
+kansans;50
 kansascitychief;50
 kansascitychiefs;50
 kansascitymo;40
@@ -28851,6 +28878,7 @@ kissedme;20
 kissedupto;50
 kissesare;0
 kissesupto;50
+kissin;30;Elvis film "Kissin' Cousins"
 kissingupto;50
 kissme;50
 kissmedeadly;60
@@ -30127,6 +30155,7 @@ legalguardian;50
 legalguardians;50
 legalid;50
 legalids;50
+legalizeit;40;Debut Peter Tosh album, and a rallying cry for pot smokers
 legallimit;50
 legalmumbojumbo;60
 legalthriller;60;Type of crime fiction that focuses on the proceedings of the investigation
@@ -34501,6 +34530,8 @@ monocots;20
 monocotyledon;20
 monocotyledonous;20
 monocotyledons;20
+monocyte;40;Type of white blood cell
+monocytes;40
 monodrama;40;One-person play
 monody;30;Ode sung by one voice
 monogamish;60
@@ -34512,15 +34543,18 @@ monolog;20
 monometer;40
 monomial;40
 monomials;40
-mononym;50
+monomyth;60;The hero's journey
+mononym;60
+mononymic;60
+mononymous;60
 mononyms;50
 monopoly;50
 monorail;60
 monorails;60
 monotones;40
 monroes;30
-monsoonseason;50
-monsoonseasons;50
+monsoonseason;60
+monsoonseasons;60
 monstera;40;Monstera deliciosa plant, "delicious monster"
 monstrance;20;Catholic bread vessel
 montag;40;Guy ___, main character of Fahrenheit 451
@@ -35800,6 +35834,8 @@ neopagan;60
 neopaganism;60
 neopagans;60
 neoplasia;30;Tumor growth
+neoplasm;40;Tumor
+neoplasms;40
 neoroman;50
 neosoul;60
 neoteny;30;Juvenilization, delaying of development
@@ -39576,6 +39612,8 @@ paparazzo;60
 papaw;40
 papaws;40
 papeete;40;Capital of French Polynesia
+paperboy;60
+paperboys;60
 paperchain;50
 paperchains;50
 paperchaser;50
@@ -41010,8 +41048,8 @@ pinchofsalt;50
 pinchrunfor;40
 pinchrunsfor;40
 pineal;40;Gland
-pinedfor;40
-pinefor;40
+pinedfor;50
+pinefor;50
 pinelog;50
 pinelogs;50
 piner;40
@@ -41020,12 +41058,12 @@ pineries;40
 pinero;40;Playwright Miguel Piñero
 piners;40
 pinery;40;Where pineapples are grown
-pinesfor;40
+pinesfor;50
 pineta;20
 piney;40
 pinier;30
 piniest;30
-piningfor;40
+piningfor;50
 pinit;20;???
 pinkerton;50
 pinkertons;50
@@ -41876,6 +41914,8 @@ poolcovers;50
 poolcue;50
 poolcues;50
 pooler;30
+poolhall;60
+poolhalls;60
 poolman;50
 poolmen;40
 poolnoodle;50
@@ -41974,6 +42014,8 @@ popgun;50
 popguns;50
 pophit;50
 pophits;50
+popicon;60
+popicons;60
 popidol;50
 popidols;50
 popinamovie;50
@@ -42020,6 +42062,8 @@ popsong;60
 popsongs;60
 popspill;30
 popspills;30
+popstar;60
+popstars;60
 popstheclutch;60
 popsthehood;60
 popswheelies;60
@@ -42034,8 +42078,10 @@ popularitycontest;60
 popularitycontests;60
 popularizer;50
 popularscience;60
-popupbook;50
-popupbooks;50
+popupad;60
+popupads;60
+popupbook;60
+popupbooks;60
 popwheelies;60
 por;40
 porcelaingod;60
@@ -43180,6 +43226,7 @@ putsbuttsinseats;60
 putsdowninwords;50
 putsdowninwriting;50
 putsdownonpaper;50
+putsin;40
 putsinagoodwordfor;50
 putslipstickonapig;60
 putsoneoveron;50
@@ -43904,6 +43951,8 @@ rapsession;60
 rapsessions;60
 rapsheet;60
 rapsheets;60
+rapsong;60
+rapsongs;60
 rapvideo;60
 rapvideos;60
 rara;40;___ avis
@@ -48802,6 +48851,7 @@ sermon;50
 sermons;50
 serosa;20;Internal tissue
 serotine;20;Late in developing, or a Eurasian bat
+serotonin;60
 serous;30;Of, resembling, or producing serum
 serpens;40;Constellation "The Snake"
 serpentinewall;60
@@ -51879,6 +51929,8 @@ spititout;60
 spititoutalready;60
 spitsat;40
 spittingat;40
+spittoon;60
+spittoons;60
 splayedout;50
 splayingout;50
 splayout;50
@@ -53034,16 +53086,17 @@ storiette;30;Brief story
 storiettes;30
 storingin;40
 stork;50
-stormalert;50
+stormalert;60
+stormalerts;60
 stormin;50
 storrs;30;UConn city
-storyarc;50
-storyarcs;50
-storyline;50
-storylines;50
+storyarc;60
+storyarcs;60
+storyline;60
+storylines;60
 storymode;60
-storytime;50
-storytimes;50
+storytime;60
+storytimes;60
 storywithinastory;60
 stotinka;30;???
 stouening;30
@@ -54955,8 +55008,8 @@ tcrossers;50
 tcu;30;Texas Christian University
 td;40
 tdk;20;Cassette maker
-tdpass;40
-tdpasses;40
+tdpass;50
+tdpasses;50
 tds;40
 tea;50
 teaact;50
@@ -56843,6 +56896,7 @@ tiedaknot;30
 tiedback;40
 tiedbackto;40
 tieddown;50
+tiedin;40
 tiedinto;40
 tiedon;40
 tiedoneon;50
@@ -56874,6 +56928,7 @@ tiesback;40
 tiesbackto;40
 tiescore;50
 tiescores;50
+tiesin;40
 tiesinto;40
 tieson;40
 tiesoneon;50
@@ -58264,6 +58319,7 @@ trivet;40;Wooden object under a serving dish
 trivets;40
 trl;20
 trocadero;40
+trochaic;40;Poetry word
 troche;30;Lozenge
 trochee;30;Iamb opposite (stress + unstress)
 trochees;30;Iamb opposites (stress + unstress)
@@ -59920,6 +59976,7 @@ vapehit;50
 vapehits;50
 vapepen;60
 vapepens;60
+vaporish;40;Prone to fainting, archaic
 vaporizer;50
 vaporizers;50
 var;40
@@ -61231,6 +61288,7 @@ wentonatear;60
 wentonleave;50
 wentonrecord;50
 wentonrecordas;40
+wentonsale;60
 wentontour;50
 wentout;50
 wentoutlikealight;60
@@ -61543,6 +61601,8 @@ whitelotus;60
 whitemagic;60
 whitemencantjump;60
 whitenoise;60
+whiteout;60
+whiteouts;60
 whiteprivilege;60
 whiterat;50
 whiterhino;50
