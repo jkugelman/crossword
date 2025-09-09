@@ -1561,6 +1561,7 @@ alittlelearning;60
 alittletooquiet;60;Suspiciously inactive
 alive;50
 aliveandkicking;60
+aliveto;40;Aware of
 alizarin;30;Red dye
 alk;20
 alka;40
@@ -8538,6 +8539,7 @@ carpettreatment;50
 carpettreatments;50
 carpi;20;Wrist bones
 carpingat;40
+carpoolkaraoke;60
 carpoollane;50
 carpoollanes;50
 carpsat;40
@@ -10235,6 +10237,7 @@ closestheloop;50
 closetalker;60
 closetalkers;60
 closetheloop;50
+closeto;40
 closetorganizer;50
 closeup;50
 closeups;50
@@ -23926,6 +23929,7 @@ henryviii;50
 hensegg;50
 henseggs;50
 hensteeth;60;Rare things
+hentoff;40;Columnist/music critic Nat Hentoff (1925-2017)
 hep;40
 hepa;40
 hepafilter;50
@@ -28423,6 +28427,23 @@ karaites;30
 karakoram;40;K2's mountain range
 karakul;20;Asian sheep
 karan;40;Donna Karan of DKNY
+karaoke;60
+karaokebar;60
+karaokebars;60
+karaokebox;60
+karaokeboxes;60
+karaokecontest;60
+karaokecontests;60
+karaokedj;60
+karaokedjs;60
+karaokemachine;60
+karaokemachines;60
+karaokenight;60
+karaokenights;60
+karaokescreen;60
+karaokescreens;60
+karaokesinger;60
+karaokesingers;60
 karasea;40
 karate;50
 karatedojo;50
@@ -32041,6 +32062,8 @@ macaronicexpression;50
 macaronicexpressions;50
 macaroniclanguage;50
 macaronies;40
+macaroon;60
+macaroons;60
 macassar;20;1800s hair oil
 macer;20
 macerate;40
@@ -33732,6 +33755,7 @@ metaluna;40;???
 metameric;30;Zoology thing
 metamerism;30;Zoology thing
 metat;40
+metaverse;60
 metgala;60
 meth;40
 methamphetamine;50
@@ -34447,6 +34471,7 @@ moisturewicking;50
 mojito;60
 mojitos;60
 mojo;60
+mokatines;40;Little French coffee cakes
 mol;20
 molcajete;40;Mexican mortar and pestle
 molcajetes;40
@@ -36822,6 +36847,7 @@ notarise;30
 notaro;40;Comedian Tig Notaro
 notasido;40
 notasirecall;60
+notasound;60
 notatoy;50
 notax;40
 notbataneye;60
@@ -58169,8 +58195,8 @@ treedweller;50
 treedwellers;50
 treefarm;60
 treefarms;60
-treefort;50
-treeforts;50
+treefort;60
+treeforts;60
 treefrog;50
 treefrogs;50
 treehouse;60
@@ -62101,6 +62127,7 @@ wolfpups;50
 wolframite;40
 wolfsbane;50
 wolverine;60
+womanlike;40
 womans;40
 wombocombo;60
 womenomics;50
