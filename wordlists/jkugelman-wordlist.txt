@@ -6711,6 +6711,10 @@ boooffstage;60
 boosat;40
 boosler;40;70s/80s comedian Elayne Boosler
 boosoffstage;60
+bootcamp;60
+bootcamps;60
+bootcut;60
+bootcutjeans;60
 bootdisk;50
 bootdisks;50
 bootdrive;50
@@ -14085,7 +14089,7 @@ djin;30
 djjazzyjeff;60
 djmic;20
 djokovic;60
-djs;40
+djs;50
 dkeewk;0
 dkny;40
 dknys;40
@@ -16967,7 +16971,7 @@ erdoctor;40
 erdoctors;40
 erdos;40
 erdrich;40;Author Louise Erdrich, 2021 Pultizer winner
-ere;40
+ere;50
 ereader;50
 ereaders;50
 erebus;40;Greek god, Antarctic volcano
@@ -21876,6 +21880,7 @@ goodas;20
 goodasgrits;60
 goodat;40
 goodby;30
+goodcall;60
 goodcause;50
 goodchoice;60
 goodcook;50
@@ -27028,10 +27033,10 @@ ipo;40
 ipodadapter;40
 ipodcase;40
 ipodcases;40
-ipodmini;40
-ipodminis;40
-ipodnano;40
-ipodnanos;40
+ipodmini;50
+ipodminis;50
+ipodnano;50
+ipodnanos;50
 ipodshuffle;40
 ipodshuffles;40
 ipodtouch;40
@@ -29859,6 +29864,7 @@ lawfulneutral;60;D&D alignment
 lawnedger;50
 lawnedgers;50
 lawofattraction;50
+lawofmoses;60
 lawprofessor;60
 lawprofessors;60
 lawrencewelk;50
@@ -32552,6 +32558,7 @@ malabar;30;???
 malabo;40;Capital of Equitoreal Guinea
 malacca;30;Malaysian state
 malade;30;Sick: Fr.
+maladroit;60;Fun vocab word
 maladroitness;30
 malafide;50
 malagasy;40;People/language of Madagascar
@@ -33749,6 +33756,7 @@ metaling;40;Covering in metal
 metallica;60
 metallicelement;40
 metallicelements;40
+metalline;40;Metallic
 metalmusic;50
 metalprojectile;0
 metalriff;60
@@ -34678,6 +34686,10 @@ mophandle;50
 mophandles;50
 moptop;60
 mor;20
+moralcode;60
+moralcodes;60
+moralcompass;60
+moralcompasses;60
 moralimperative;50
 moralimperatives;50
 moralities;30
@@ -34764,6 +34776,8 @@ mortises;40
 mortising;40
 morty;50
 mos;40
+mosaicart;60
+mosaiclaw;60;Law of Moses
 mosasaur;40;Extinct aquatic reptile
 mosasaurs;40
 moscone;30;San Francisco mayor George
@@ -35773,7 +35787,7 @@ ned;50
 nedicks;30;Old defunct fast food chain
 nedkelly;60
 neds;30
-nee;40
+nee;50
 needahand;60
 needair;50
 needalift;60
@@ -38939,7 +38953,7 @@ osmosing;40
 osmosis;50
 oso;20
 osric;40;"Hamlet" character
-oss;40;WWII spy grp.
+oss;30;WWII spy grp.
 ossa;20;Greek mountain
 ossein;20;Bone collagen
 osseous;40;Bone-related
@@ -43961,6 +43975,8 @@ rao;20
 raos;40;Tomato sauce brand
 rap;50
 rapace;40;Actress Noomi Rapace
+rapalbum;60
+rapalbums;60
 rapanui;40;Easter Island
 rapartist;50
 rapartists;50
@@ -53752,12 +53768,16 @@ sundance;50
 sundancefilmfestival;50
 sundayfinest;60
 sunderance;40
+sundog;60;Optical phenomenon
+sundogs;60
 sundown;50
 sunevfohtribeht;0
 sunglassesemoji;60
 sunglassesemojis;60
 sunglasslens;50
 sungto;40
+sunhalo;60
+sunhalos;60
 suni;40;Gymnast Suni Lee, astronaut Suni Williams
 sunimrosulp;0
 sunin;40;Sun In hair lightener
@@ -53779,6 +53799,8 @@ sunnyskies;50
 sunnysky;50
 sunobdedda;0
 sunoco;50
+sunpillar;60;Optical phenomenon
+sunpillars;60
 sunra;40;Jazz great
 sunray;40;Green paint?
 sunrays;40
@@ -58413,6 +58435,12 @@ troopin;30
 troopingin;30
 troopsin;30
 trooptransports;50
+trophyhunt;60
+trophyhunted;60
+trophyhunter;60
+trophyhunters;60
+trophyhunting;60
+trophyhunts;60
 tropicalbeach;50
 tropicalbeaches;50
 tropicaldrink;50
@@ -60470,8 +60498,14 @@ vocabularytests;50
 vocabularywords;50
 vocabword;50
 vocabwords;50
-vocalcord;50
-vocalcords;50
+vocalcoach;60
+vocalcoaches;60
+vocalcord;60
+vocalcords;60
+vocalexercise;60
+vocalexercises;60
+vocalfry;60
+vocalfryregister;60
 vocalminorities;50
 vocalminority;50
 voce;40;Sotto voce
