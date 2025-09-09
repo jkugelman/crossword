@@ -10082,8 +10082,10 @@ cleanhouse;60
 cleaninghouse;60
 cleanlily;30;Weird adverb
 cleanliving;50
-cleanroom;50
-cleanrooms;50
+cleanroom;60
+cleanrooms;60
+cleanroomsuit;60
+cleanroomsuits;60
 cleansheet;60
 cleansheets;50
 cleanshouse;60
@@ -16687,6 +16689,7 @@ enplanes;50
 enplaning;50
 enravish;30
 enricos;20;Plural name
+enriquepenanieto;50;President of Mexico 2012-18 Enrique Peña Nieto
 enrol;20;British spelling
 enrolledin;40
 enrollee;30
@@ -22820,6 +22823,7 @@ hadablast;50
 hadacouple;60
 hadacow;50
 hadadrink;50
+hadaheart;60
 hadahunch;50
 hadalegupon;60
 hadaline;20
@@ -23282,6 +23286,7 @@ hasablast;50
 hasacouple;60
 hasacow;50
 hasadrink;50
+hasaheart;60
 hasahunch;50
 hasalisp;40
 hasalook;50
@@ -23448,6 +23453,7 @@ havingabite;50
 havingablast;50
 havingacow;50
 havingadrink;50
+havingaheart;60
 havingahunch;60
 havingalook;50
 havingalookat;40
@@ -31154,6 +31160,7 @@ localcolor;50
 localdive;50
 localdives;50
 localfood;50
+localhero;60
 localpride;50
 localtv;40
 locarno;40;Swiss treaty city after W.W.I
@@ -34288,6 +34295,7 @@ mmxl;20
 mmxvi;20
 mn;40
 mneme;20
+mnightshyamalan;60
 mno;20
 mnop;20
 mnopqr;20
@@ -40310,6 +40318,7 @@ penaltyshot;50
 penaltyshots;50
 penaltystroke;50
 penaltystrokes;50
+penanieto;40;President of Mexico 2012-18 Enrique Peña Nieto
 penate;20;Roman household god
 penates;20
 pencap;50
@@ -49602,6 +49611,7 @@ shuttleservice;50
 shuttleservices;50
 shutupandkissme;60
 shy;50
+shyamalan;60
 shydi;30;???
 shyof;50
 shypooper;5
@@ -57697,9 +57707,11 @@ tossitinthediscardpile;50
 tossto;40
 tot;50
 totaledup;40
+totaledupto;40
 totalhorrowshow;60
 totalidiot;50
 totalingup;40
+totalingupto;40
 totalitarian;50
 totalitarians;50
 totalities;30
@@ -57708,7 +57720,9 @@ totalmess;60
 totalnightmare;60
 totalrecall;60
 totalsup;40
+totalsupto;40
 totalup;40
+totalupto;40
 totalwar;50
 totalzoo;60
 totchos;40;Tater tot nachos
