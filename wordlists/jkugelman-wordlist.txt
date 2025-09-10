@@ -1285,10 +1285,13 @@ airplanelanding;50
 airplanelandings;50
 airpod;60
 airpods;60
+airpodsmax;60
+airpodspro;60
 airportbar;60
 airportbars;60
 airportcode;50
 airportcodes;50
+airportsecurity;60
 airportwifi;60
 airproof;30;Make airtight
 airpurifier;50
@@ -1895,6 +1898,7 @@ amanapart;50
 amanaplanacanal;60
 amanas;40
 amanita;40;Mushroom genus
+amanoramouse;60
 amapola;20;1920 song, poppy in Spanish
 amarelle;30;Sour cherry
 amaretti;40;Cookies made with amaretto
@@ -2773,6 +2777,8 @@ applestrudels;50
 appletini;60
 appletinis;60
 applevisionpro;60;Apple mixed-reality headset
+applewatch;60
+applewatches;60
 applicablelaws;60
 appliedresearch;50
 applier;40
@@ -27031,10 +27037,23 @@ ipadkid;60
 ipadkids;60
 ipadmini;50
 ipadminis;50
+ipanicked;60
 ipas;40
 ipcress;30;"The ___ File"
 ipecacs;40;Weird plural
 iphigenia;40;Figure in Greek myth
+iphone;60
+iphoneair;60
+iphoneapp;60
+iphoneapps;60
+iphonecase;60
+iphonecases;60
+iphonecharger;60
+iphonechargers;60
+iphonepro;60
+iphonepromax;60
+iphones;60
+iphonex;40
 ipitythefool;60
 ipo;40
 ipodadapter;40
@@ -32080,6 +32099,12 @@ macaronies;40
 macaroon;60
 macaroons;60
 macassar;20;1800s hair oil
+macbethwitches;60
+macbook;60
+macbookair;60
+macbookairs;60
+macbookpro;60
+macbookpros;60
 macer;20
 macerate;40
 macerated;40
@@ -41728,6 +41753,7 @@ poboxnumber;40
 poboxnumbers;40
 poc;40
 pocahontas;50
+pocatello;30;Idaho city of 58,231
 pocatelloid;20;Idaho town
 pochard;20;Diving duck
 poches;20
