@@ -4350,6 +4350,7 @@ bad;50
 bada;40
 badactor;60
 badactors;60
+badadvice;60
 badankle;50
 badapple;60
 badapples;60
@@ -6264,6 +6265,10 @@ blockoff;50
 blockout;50
 blocksoff;50
 blocksout;50
+blogcast;50
+blogcasts;50
+blogentries;60
+blogentry;60
 blogpost;60
 blogposts;60
 blogroll;50
@@ -13935,9 +13940,11 @@ dirigiste;40
 dirndl;20
 dirndls;20
 dirs;30
+dirtandworms;60;Chocolate pudding + gummy worms
 dirtclod;50
 dirtclods;50
 dirtpoor;60
+dirtpudding;60;Chocolate pudding + gummy worms
 dirtstain;50
 dirtstains;50
 dirtycop;50
@@ -15106,6 +15113,8 @@ dropacid;50
 dropahint;50
 dropbehind;50
 dropbydrop;50
+dropcap;60
+dropcaps;60
 dropdead;60
 dropdeaddate;60
 dropdeaddates;60
@@ -21885,6 +21894,7 @@ gonzo;60
 goo;50
 gooberpyle;50
 goobsolete;50
+goodadvice;60
 goodaguessasany;60
 goodaim;50
 goodas;20
@@ -27057,6 +27067,7 @@ iphonex;40
 ipitythefool;60
 ipo;40
 ipodadapter;40
+ipodadapters;40
 ipodcase;40
 ipodcases;40
 ipodmini;50
@@ -27758,6 +27769,7 @@ jabroni;60
 jabronies;60
 jabronis;60
 jabsat;40
+jacaranda;30;Flower genus
 jacinda;40;New Zealand PM Jacinda Ardern 2017-23
 jacinto;40;San Jacinto, CA (research required)
 jackal;50
@@ -35130,6 +35142,7 @@ muchtomychagrin;60
 mucker;40;Person who cleans a horse stall
 muckers;40
 mud;50
+mudandworms;60;Chocolate pudding + gummy worms
 mudcat;50
 mudcats;50
 mudd;40;Harvey Mudd College, or newsman Roger Mudd
@@ -36894,6 +36907,7 @@ notar;40;Cigarette claim
 notarial;30;???
 notarise;30
 notaro;40;Comedian Tig Notaro
+notasable;20;Green paint
 notasido;40
 notasirecall;60
 notasound;60
@@ -39715,6 +39729,8 @@ paperchains;50
 paperchaser;50
 papercrane;50
 papercranes;50
+papercut;60
+papercuts;60
 paperjam;60
 paperjams;60
 paperlaunch;60;Release of a hotly anticipated product that ends up having extremely limited availability
@@ -39735,6 +39751,8 @@ papillae;20;Tongue bumps
 papist;5;Roman Catholic, offensive
 papistry;5
 papists;5
+papoose;5
+papooses;5
 pappas;30;???
 papular;40
 par;50
@@ -40671,6 +40689,7 @@ pesterers;40
 pet;50
 peta;40
 petaloid;40
+petalpink;60;Shade of pink
 petaluma;40;California city
 petaversion;40
 petaversions;40
@@ -42057,6 +42076,7 @@ poorsports;50
 poorthings;50
 pooryou;60
 pop;50
+popaganda;50;Ron English's street art coinage
 popartist;50
 popartists;50
 popawheelie;60
@@ -47402,6 +47422,7 @@ salable;40;Sellable
 salacia;30;Roman female divinity of the sea
 salacity;30;???
 salada;30
+saladatea;40;Canadian tea brand
 saladdressing;50
 salade;30;French salad
 saladingredient;20
@@ -54825,6 +54846,8 @@ taormina;30;Expensive Sicilian tourist town
 taos;50;New Mexico town
 tap;50
 tapa;40
+tapabar;40;Tapa singular?
+tapabars;40
 tapasbar;60
 tapasbars;60
 tapdance;60
@@ -60912,6 +60935,7 @@ warworn;30
 waryof;40
 was;50
 wasabimayo;60
+wasabioli;60;Heinz wasabi/aioli blend
 wasabipea;50
 wasabipeas;50
 wasanangel;50
@@ -62353,8 +62377,11 @@ wormiest;30
 wormingoneswayinto;50
 wormoneswayin;60
 wormoneswayinto;60
+wormsanddirt;60;Chocolate pudding + gummy worms
+wormsandmud;60;Chocolate pudding + gummy worms
 wormscrew;50
 wormscrews;50
+wormsindirt;60;Chocolate pudding + gummy worms
 wormsoneswayinto;50
 wormy;30
 worntire;50
