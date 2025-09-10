@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Sound shift script inspired by Adam Wagner's FIRETRUCK / FRIAR TUCK find.
+# Finds phrase pairs where one phoneme has been phonetically moved.
+
 from collections import defaultdict
 from itertools import combinations, product
 from lib import load_words, phrases
@@ -71,7 +74,7 @@ def sound_shift_pairs(phones_for_entries):
             word_pairs.add(tuple(sorted((w1, w2))))
 
     # Sort the results by length descending, then alphabetically ascending
-    return sorted(word_pairs, key=lambda pair: (-len(pair[0]) - len(pair[1]), pair))
+    return word_pairs
 
 if __name__ == '__main__':
     main()
