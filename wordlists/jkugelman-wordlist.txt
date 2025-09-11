@@ -4665,7 +4665,43 @@ bar;50
 barak;40;Israeli PM Ehud Barak 1999-2001
 barassociations;50
 barbarella;60
-barbecuedribs;50
+barbecue;50
+barbecueapron;60
+barbecueaprons;60
+barbecuebeef;60
+barbecuebrisket;60
+barbecueburger;60
+barbecueburgers;60
+barbecuechicken;60
+barbecuechips;60
+barbecuedribs;60
+barbecuegrill;60
+barbecuegrills;60
+barbecueing;60
+barbecuejoint;60
+barbecuejoints;60
+barbecuelighter;60
+barbecuelighters;60
+barbecuepit;60
+barbecuepits;60
+barbecueplatter;60
+barbecueplatters;60
+barbecuepork;60
+barbecueporkbun;60
+barbecueporkbuns;60
+barbecuerib;60
+barbecueribs;60
+barbecuerub;60
+barbecuerubs;60
+barbecues;50
+barbecuesandwich;60
+barbecuesandwiches;60
+barbecuesauce;60
+barbecuesauces;60
+barbecuestand;60
+barbecuestands;60
+barbecuewing;60
+barbecuewings;60
 barbel;20;Fish
 barbels;20;Fish
 barbequechicken;50
@@ -4867,7 +4903,7 @@ bassackward;60
 bassackwards;60
 bassale;50
 bassales;50
-bassanio;40;"The Merchant of Venice" character
+bassanio;50;Major "The Merchant of Venice" character
 bassdrop;60
 bassdrops;60
 bassey;40;"Goldfinger" singer Shirley Bassey
@@ -5066,35 +5102,41 @@ bbl;20
 bboy;40
 bboys;40
 bbq;50
-bbqapron;50
-bbqbeef;50
-bbqbrisket;50
-bbqburger;50
-bbqburgers;50
-bbqchicken;50
-bbqchips;50
-bbqgrill;50
-bbqgrills;50
-bbqjoint;50
-bbqjoints;50
-bbqpit;50
-bbqpits;50
-bbqplatter;50
-bbqplatters;50
-bbqpork;50
-bbqporkbun;50
-bbqporkbuns;50
-bbqrib;50
-bbqribs;50
-bbqrub;50
-bbqrubs;50
+bbqapron;60
+bbqaprons;60
+bbqbeef;60
+bbqbrisket;60
+bbqburger;60
+bbqburgers;60
+bbqchicken;60
+bbqchips;60
+bbqgrill;60
+bbqgrills;60
+bbqing;60
+bbqjoint;60
+bbqjoints;60
+bbqlighter;60
+bbqlighters;60
+bbqpit;60
+bbqpits;60
+bbqplatter;60
+bbqplatters;60
+bbqpork;60
+bbqporkbun;60
+bbqporkbuns;60
+bbqrib;60
+bbqribs;60
+bbqrub;60
+bbqrubs;60
 bbqs;50
-bbqsandwich;50
-bbqsandwiches;50
-bbqsauce;50
-bbqsauces;50
-bbqwing;50
-bbqwings;50
+bbqsandwich;60
+bbqsandwiches;60
+bbqsauce;60
+bbqsauces;60
+bbqstand;60
+bbqstands;60
+bbqwing;60
+bbqwings;60
 bbs;50;Ammo, or BBS
 bc;40
 bcc;40
@@ -6232,6 +6274,10 @@ blindtest;50
 blindtests;50
 blindto;40
 blindwormssting;60;Witches' brew ingredient in Macbeth
+blinkat;40
+blinkedat;40
+blinkingat;40
+blinksat;40
 blintze;30;Variant spelling of blintz
 blissedout;60
 blissesout;50
@@ -9136,6 +9182,10 @@ ceos;50
 cepeda;20;Baseballer Orlando
 cer;20
 cera;40;Michael Cera
+ceramicart;60
+ceramicartist;60
+ceramicartists;60
+ceramicarts;60
 ceramicmug;50
 ceramicmugs;50
 ceraste;20
@@ -22311,6 +22361,7 @@ grantor;30
 grantsamnesty;50
 grapeskin;50
 grapeskins;50
+graphicart;60
 graphicdesign;60
 graphicdesigner;60
 graphicdesigners;60
@@ -27304,6 +27355,7 @@ isixteen;20
 isl;20
 isla;40
 islaer;0
+islamicart;60
 islandair;60
 islas;40
 islate;20
@@ -30776,6 +30828,8 @@ lifestage;50
 lifestages;50
 lifestory;50
 lifetheuniverseandeverything;60
+liftticket;60
+lifttickets;60
 liftwithyourlegs;60
 ligand;30;Chemistry word
 ligands;30
@@ -30862,6 +30916,7 @@ lilolme;50
 lilongwe;40;Capital of Malawi
 lilter;40
 lilters;40
+liluzivert;60
 lilyachty;50;Rapper
 lilypad;60
 lilypads;60
@@ -34102,6 +34157,8 @@ minifridges;50
 minigolf;50
 minigolfcourse;50
 minigolfcourses;50
+minikitkat;60
+minikitkats;60
 minilot;40;???
 minilots;40;???
 minim;40;Something tiny, or half note: Br.
@@ -37498,6 +37555,8 @@ oceanstwelve;50
 oceantrench;50
 oceantrenches;50
 oceanus;30;Greek titan
+oceanview;60
+oceanviews;60
 ocedar;30;Mop brand
 ocellar;20
 ocelli;40;Peacock "eyes"
@@ -41504,6 +41563,8 @@ plasm;30
 plasmin;40;Blood enzyme that breaks down plasma proteins
 plasmon;40;???
 plasms;30
+plasticart;60
+plasticarts;60
 plastichandcuffs;50
 plasticsurgeon;50
 plasticsurgeons;50
@@ -45051,6 +45112,7 @@ reice;20
 reiced;20
 reices;20
 reichen;20;???
+reichl;40;Food writer Ruth Reichl
 reichstag;50
 reicing;20
 reigate;20;England town
@@ -60534,6 +60596,8 @@ visitswith;40
 visitwith;40
 vistaed;20
 vistula;30;Longest river in Poland
+visualart;60
+visualarts;60
 visualbasic;60
 visualnovel;60
 visualnovels;60
