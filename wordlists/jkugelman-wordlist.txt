@@ -6441,6 +6441,10 @@ boardmeeting;50
 boardmeetings;50
 boardoftrustees;50
 boarshead;50
+boastedof;40
+boastingof;40
+boastof;40
+boastsof;40
 boatload;50
 boatloads;50
 boatpose;60;Seated yoga asana with arms and legs extended
@@ -7280,6 +7284,8 @@ brothersinlaw;50
 brotox;50;Botox for men, slangily
 broughton;40
 broughtonesagame;60
+brouhaha;60;Fun word
+brouhahas;60
 brownbagged;50
 brownbaglunch;50
 brownbaglunches;50
@@ -8183,6 +8189,7 @@ candyshops;50
 candystore;50
 candystores;50
 caniaskyousomething;60
+canicome;60
 canid;50
 canids;50;Wolves, jackals, etc.
 canifinish;60
@@ -9092,6 +9099,7 @@ cementum;40;Calcified tooth substanceo
 cemeteries;50
 cemetery;50
 cen;20
+cenac;40;Comic Wyatt Cenac
 cenacle;30;Last Supper room
 cenobite;60;Hellraiser demon
 cenobites;60
@@ -14625,8 +14633,8 @@ doorcrasher;60
 doorcrasherdeal;60
 doorcrasherdeals;60
 doorcrashers;60
-doormat;50
-doormats;50
+doormat;60
+doormats;60
 doornumberone;50
 doornumberthree;50
 doornumbertwo;50
@@ -15112,6 +15120,7 @@ droolson;40
 dropabeat;50
 dropacid;50
 dropahint;50
+dropbars;60;Rap well
 dropbehind;50
 dropbydrop;50
 dropcap;60
@@ -15128,6 +15137,7 @@ droponesaitches;30
 droppedabeat;50
 droppedacid;50
 droppedahint;50
+droppedbars;60
 droppedlikeflies;60
 droppedtheax;50
 droppedtheaxe;50
@@ -15137,6 +15147,7 @@ droppedtrou;60
 droppingabeat;50
 droppingacid;50
 droppingahint;50
+droppingbars;60
 droppinglikeflies;60
 droppingtheax;50
 droppingtheaxe;50
@@ -15148,6 +15159,7 @@ droppoints;60
 dropsabeat;50
 dropsacid;50
 dropsahint;50
+dropsbars;60
 dropsbombs;50
 dropset;60
 dropsets;60
@@ -17181,6 +17193,7 @@ esiotrot;0
 esk;20
 esl;40
 eso;40
+esobeso;40;Paul Anka song, dated
 esophagus;50
 esos;40
 esoterica;60
@@ -19472,6 +19485,8 @@ fonteyn;40;???
 foo;40
 food;50
 foodandbeverage;50
+foodbank;60
+foodbanks;60
 foodcart;60
 foodcarts;60
 foodcrisis;60
@@ -21943,6 +21958,7 @@ goodsport;50
 goodsports;50
 goodsportsmanship;50
 goodstart;60
+goodtalk;60
 goodtaste;50
 goodthinking;60
 goodtip;50
@@ -34620,6 +34636,7 @@ monkeyspaw;60
 monkeystick;60;Percussion instrument
 monkeysuit;60;Tuxedo
 monkeysuncle;60
+monkmode;60;Lifestyle choice
 monobrow;40
 monobrows;40
 monocle;60
@@ -46177,7 +46194,9 @@ ringingaround;30;Call around
 ringingfor;40
 ringingin;40
 ringos;0
-ringring;50
+ringpop;60
+ringpops;60
+ringring;60
 ringsabell;60
 ringsaround;30;Call around
 ringsfor;40
@@ -46185,7 +46204,9 @@ ringsin;40
 ringsize;50
 ringtoe;50
 ringtoes;50
-ringtoss;50
+ringtone;60
+ringtones;60
+ringtoss;60
 ringwraith;60
 ringwraiths;60
 ringy;30
@@ -47022,6 +47043,7 @@ runaclosesecond;50
 runafoul;50
 runalight;50
 runalong;50
+runalongnow;60
 runascam;50
 runat;40
 runatab;50
@@ -51389,6 +51411,8 @@ solarroad;60
 solarroads;60
 solarsail;60
 solarsails;60
+solarstorm;60
+solarstorms;60
 solarsystem;60
 solarsystems;60
 solastyear;60;Old hat
@@ -54815,6 +54839,8 @@ tanka;30;Japanese poem
 tankas;30
 tankgirl;60
 tankian;40;Serj Tankian of System of a Down
+tanktop;60
+tanktops;60
 tanmandm;50
 tanmandms;50
 tannate;20;Chemical salt used in ink
@@ -56736,6 +56762,7 @@ thinkpiece;60
 thinksahead;50
 thinksheboughtit;60
 thinkshesbuyingit;60
+thinkso;60;"Think so?"
 thinksof;40
 thinkson;40
 thinksoutsidethebox;60
@@ -57271,7 +57298,7 @@ tinyhouse;60
 tinyhouses;60
 tinytim;50
 tinytot;50
-tinytots;50
+tinytots;60;Common childcare business name
 tio;40
 tios;40
 tip;50
@@ -58947,6 +58974,10 @@ tvgames;30
 tvidol;40;Green paint?
 tvidols;40
 tvland;50
+tvpilot;60
+tvpilots;60
+tvproducer;60
+tvproducers;60
 tvremote;50
 tvremotes;50
 tvs;50
@@ -63149,6 +63180,7 @@ youthacademy;50
 youthere;60
 youthinkimplaying;60
 youthinkitsagame;60
+youthinkso;60
 youthinkthisisagame;60
 youthinkyourebetterthanme;60
 youtotallyreadmymind;60
