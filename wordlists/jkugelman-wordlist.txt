@@ -9307,7 +9307,11 @@ chancroid;5;STD
 chancroids;5
 chandlerarizona;30
 changearound;50
+changeback;50
+changebackinto;40
 changedaround;50
+changedback;50
+changedbackinto;40
 changedto;40
 changeofperspective;50
 changeofstate;50
@@ -9315,11 +9319,15 @@ changer;40
 changers;40
 changesare;0
 changesaround;50
+changesback;50
+changesbackinto;40
 changesofperspective;50
 changesofstate;50
 changesto;40
 changeto;40
 changingaround;50
+changingback;50
+changingbackinto;40
 changingto;40
 chanson;30;French song style
 chansons;30
@@ -32520,6 +32528,9 @@ mainlandchina;50
 mainlot;0
 mainpoint;50
 mainpoints;50
+mainsequence;60;Astrononomy classification
+mainsequencestar;60
+mainsequencestars;60
 mainst;40
 mainstream;60
 mainstreet;60
@@ -59019,9 +59030,13 @@ turkeybreast;50
 turkeywing;50
 turkeywings;50
 turkishrose;60;Type of rose grown for rose oil
+turnback;50
+turnbackinto;40
 turncard;50
 turncards;50
 turndown;50
+turnedback;50
+turnedbackinto;40
 turnedheads;60
 turnedinsideout;50
 turnedinto;40
@@ -59042,6 +59057,8 @@ turnedtwo;30
 turnedupsidedown;50
 turnery;30
 turnheads;60
+turningback;50
+turningbackinto;40
 turningheads;60
 turninginsideout;50
 turninginto;40
@@ -59071,6 +59088,8 @@ turnonthewaterworks;60
 turnonto;40
 turnpale;50
 turnpro;50
+turnsback;50
+turnsbackinto;40
 turnsheads;60
 turnsinsideout;50
 turnsinto;40
