@@ -2492,6 +2492,8 @@ answerthecallofnature;60
 answerto;40
 ant;50
 antae;20
+antarctica;60
+antarcticite;60
 antcow;40;An aphid from which ants obtain honeydew
 antcows;40
 anteaterpup;50
@@ -6908,6 +6910,10 @@ botchup;40;Noun
 botchups;40
 botero;40;Fernando Botero, Fat Mona Lisa painter
 botha;30;Louis Botho, South African PM
+botherabout;40
+botheredabout;40
+botheringabout;40
+bothersabout;40
 bothnia;30;Gulf of the Baltic Sea
 bothsidesing;60
 bothsidesism;60
@@ -8519,6 +8525,8 @@ carebears;60
 caredalot;40
 caredto;40
 caredtoomuch;60
+careercriminal;60
+careercriminals;60
 careerfair;50
 careerfairs;50
 careergrandslam;50
@@ -8652,6 +8660,7 @@ carrottops;60
 carroty;40
 carryonitem;50
 carryonitems;50
+carryonwaywardson;60
 carsale;50
 carsales;50
 carservice;50
@@ -11963,10 +11972,27 @@ crimesyndicate;50
 crimesyndicates;50
 crimewave;50
 crimewaves;50
+criminalactivies;50
+criminalactivity;50
+criminalconspiracy;60
+criminalcourt;50
+criminalcourts;50
+criminaldamage;50
 criminaldefense;50
 criminaldefenseattorney;60
 criminaldefenseattorneys;60
+criminalinvestigationdepartment;60
+criminalistics;50
+criminalization;50
 criminalness;30
+criminalorganization;60
+criminalorganizations;60
+criminalprofiler;60
+criminalprofilers;60
+criminalprofiling;60
+criminalpsychologist;60
+criminalpsychologists;60
+criminalpsychology;60
 cringe;50
 cringed;50
 cringes;50
@@ -12470,6 +12496,10 @@ cyanobacteria;50
 cyanosed;30
 cyanosis;30;Skin discoloration
 cyans;40
+cybercrime;60
+cybercrimes;60
+cybercriminal;60
+cybercriminals;60
 cybernetic;60
 cybernetician;60
 cyberneticians;60
@@ -15030,6 +15060,7 @@ drdoofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 drdoolittle;0
 dre;50
 drea;40;Actress de Matteo
+dreadpirateroberts;60
 dreamboat;60
 dreamboats;60
 dreamgirl;60
@@ -17849,6 +17880,8 @@ extraspicy;50
 extremelongshot;60
 extremelongshots;60
 extremelyonline;60
+extrememakeover;60
+extrememakeoverhomeedition;60
 exurbias;30
 exuviae;40;Insect remains (cool word?)
 exxon;50
@@ -30953,6 +30986,7 @@ likeacheaprug;60
 likeacheapsuit;60
 likeacheapsuitcase;60
 likeacheaptent;60
+likeadogwithtwotails;60;Delighted
 likeaglove;50
 likeakidinacandystore;60
 likealawnchair;60
@@ -41433,6 +41467,9 @@ piracies;40;Odd plural
 pirana;20
 piranas;20
 pirandello;40;Playwright Luigi Pirandello, 1934 Nobel Prize in Literature
+piratecaptain;60
+piratecaptains;60
+piratedsoftware;60
 piratehat;60
 piratehats;60
 piratic;30
@@ -48564,6 +48601,7 @@ seances;50
 seancombs;5
 seaoak;40
 seaofcortez;50
+seaoftroubles;60
 seaooze;30
 seaotter;50
 seaotters;50
@@ -51657,6 +51695,8 @@ soma;30
 somad;20
 somalian;20;Wrong, Somali is preferred
 somalians;20
+somalipirate;50
+somalipirates;50
 somata;20
 sombre;20
 somean;50
@@ -51950,6 +51990,8 @@ spaceinvaders;60
 spacejam;60
 spacelab;60
 spaceoddity;60
+spacepirate;60
+spacepirates;60
 spacesagas;20
 spaceshuttle;60
 spaceshuttles;60
@@ -54939,6 +54981,8 @@ talkingto;50
 talkingupastorm;60
 talkinto;40
 talklikeabook;60;Speak in flowery language
+talklikeapirate;60
+talklikeapirateday;60
 talksat;40
 talksback;50
 talksbackto;40
