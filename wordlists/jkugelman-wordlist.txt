@@ -24929,7 +24929,7 @@ hootedat;40
 hootingat;40
 hootsat;40
 hop;50
-hopacab;30
+hopacab;50
 hopeagainsthope;60
 hopecore;20;Too trendy for my taste (2025)
 hopedagainsthope;60
@@ -24954,19 +24954,19 @@ hopinto;40
 hopon;40
 hoponpop;60;Dr. Seuss book
 hoponto;40
-hoppedacab;30
+hoppedacab;50
 hoppedin;40
 hoppedinto;40
 hoppedon;40
 hoppedonto;40
 hoppedupongoofballs;60
-hoppingacab;30
+hoppingacab;50
 hoppingin;40
 hoppinginto;40
 hoppingmad;60
 hoppingon;40
 hoppingonto;40
-hopsacab;40
+hopsacab;50
 hopsack;40;Fabric
 hopsacking;40;Fabric
 hopsacks;40
@@ -33625,6 +33625,18 @@ meddlewith;40
 meddlingwith;40
 medea;40
 medeas;20;2013 movie
+medevac;60
+medevacchopper;60
+medevacchoppers;60
+medevacflight;60
+medevacflights;60
+medevachelicopter;60
+medevachelicopters;60
+medevacked;60
+medevacking;60
+medevacmission;60
+medevacmissions;60
+medevacs;60
 medflies;30
 medfly;30;Mediterranean fruit fly
 medford;30
