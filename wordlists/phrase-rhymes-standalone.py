@@ -5,6 +5,7 @@
 from itertools import product
 from pronouncing import phones_for_word
 import re
+import readline
 from sys import argv, stderr
 
 def main():
