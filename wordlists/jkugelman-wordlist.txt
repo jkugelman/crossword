@@ -6189,6 +6189,10 @@ blackjackdealer;50
 blackjackdealers;50
 blackjackplayer;50
 blackjackplayers;50
+blacklight;60
+blacklights;60
+blacklighttattoo;60
+blacklighttattoos;60
 blacklist;60
 blacklisted;60
 blacklisting;60
@@ -55349,11 +55353,12 @@ tauter;40
 tautest;40
 tautog;30;Blackfish
 tautogs;30
-tautonym;30;Scientific name in which the same word is used for both genus and species
-tautonyms;30;Scientific names in which the same word is used for both genus and species
+tautonym;50;Scientific name in which the same word is used for both genus and species
+tautonyms;50;Scientific names in which the same word is used for both genus and species
 tav;20
 taverna;40;Greek restaurant
-tavernes;40;Greek restaurant
+tavernas;40
+tavernes;40;French commune
 tavissmiley;50
 taw;30;Marble, or Tweety Bird word
 tawana;20
@@ -57950,6 +57955,7 @@ tonynom;50
 tonynoms;50
 tonyrandall;50
 tonys;50
+tonysnow;40;Press secretary for George W. Bush
 tonysoprano;60
 tonystark;60
 too;50
@@ -60372,6 +60378,9 @@ uvlight;50
 uvlightbulb;50
 uvlightbulbs;50
 uvlights;50
+uvtattoo;60
+uvtattooink;60
+uvtattoos;60
 uvula;50
 uvulae;40
 uvular;40
