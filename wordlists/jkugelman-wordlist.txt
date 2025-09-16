@@ -2561,6 +2561,8 @@ antivenom;50
 antiwarprotest;50
 antiwarprotests;50
 antlike;30
+antmill;50;Ant death spiral
+antmills;50
 antoccino;40;Espresso drink
 antoccinos;40
 antone;40;San Antone, TX
@@ -13621,6 +13623,7 @@ detesters;30
 dethorn;30
 detlef;20
 detoo;40
+detrital;40;Made of detritus
 detroitmi;30
 detroitpiston;50
 detroitpistons;50
@@ -14437,6 +14440,7 @@ dogbed;50
 dogbeds;50
 dogbiscuit;50
 dogbiscuits;50
+dogboarding;60
 dogbone;50
 dogbones;50
 dogcarrier;50
@@ -30731,6 +30735,7 @@ letsoff;40
 letsparty;50
 letsputourheadstogether;60
 letsrip;50
+letsroll;60
 letssee;50
 letsseeit;60
 letsseenow;60
@@ -38538,7 +38543,7 @@ onepager;40
 oneper;30
 onepiecer;30
 onepin;40
-oneplusone;20
+oneplusone;0
 onepm;40
 onepotato;50
 onepound;30
@@ -40975,6 +40980,8 @@ petgroomer;50
 petgroomers;50
 pethate;40
 pethates;40
+pethotel;60
+pethotels;60
 petiole;30;Leaf stem
 petioles;30;Leaf stems
 petipa;30;Ballet choreographer Marius Petipa (1818-1910)
