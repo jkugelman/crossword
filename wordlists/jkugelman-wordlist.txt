@@ -680,7 +680,7 @@ adenoma;30;Non-cancerous tumor
 adepo;20;Actor Jovan
 adeptat;40
 adepts;40
-ades;40
+ades;30
 adeste;40;Adeste Fideles (O Come, All Ye Faithful)
 adexec;50
 adexecs;50
@@ -1543,6 +1543,7 @@ alightintheattic;60
 alignmentchart;60
 alignmentcharts;60
 alii;30
+alikeness;40
 aliment;30
 alimentary;30;Nourishing
 alimentation;30
@@ -5685,7 +5686,7 @@ bestir;50
 bestirred;50
 bestirring;50
 bestirs;50
-bestman;50
+bestman;60
 bestofseven;50
 bestone;30;Green paint
 bestowedon;50
@@ -6774,6 +6775,7 @@ bookingfees;50
 bookit;50
 bookmobile;50
 bookmobiles;50
+bookofeli;60
 bookofmatches;50
 bookoncd;30
 bookrec;50
@@ -13418,6 +13420,7 @@ demit;30
 demits;30
 demitted;30
 demittting;30
+demme;40
 demob;20;Demobilize: Br.
 demobbed;20
 demobbing;20
@@ -13588,6 +13591,7 @@ desmoinesia;30
 desmoinesiowa;30
 despacito;60
 despatch;20;Dispatch: Var.
+despina;40;Moon of Neptune
 desree;40;One-named "You Gotta Be" singer (1994)
 dessen;40;YA author Sarah Dessen
 dessertbar;50
@@ -13601,6 +13605,7 @@ dessertwines;50
 destael;30;Madame ___ in the French Revolution, author of "Delphine"
 destijl;30;1917 art movement De Stijl
 destination;50
+destino;30;Verdi opera "La Forza del Destino"
 destro;20;G.I. Joe character
 destry;30;1954 western
 desuetude;40;State of disuse
@@ -18524,6 +18529,8 @@ feedingto;40
 feedingupon;50
 feedinto;40
 feedon;40
+feedsackdress;60
+feedsackdresses;60
 feedsin;40
 feedsinto;40
 feedson;40
@@ -19416,6 +19423,8 @@ floridasunshine;50
 florifetum;30;Ancient Roman festival
 flosssugar;50
 floured;40
+floursackdress;60
+floursackdresses;60
 flowage;40
 flowages;40
 flower;50
@@ -27172,6 +27181,8 @@ involute;40
 involuted;40
 involution;40
 involutions;40
+inwale;30;Internal gunwale
+inwales;30
 inwalkingdistance;50
 inwant;30;In want of
 inwantof;50
@@ -28026,6 +28037,7 @@ jalapenopeppers;60
 jalapenopopper;60
 jalapenopoppers;60
 jalapenos;60
+jaleel;40
 jalen;40;Various athletes
 jam;50
 jama;30;Journal of the A.M.A.
@@ -32563,7 +32575,7 @@ maidens;50
 maidenvoyage;50
 maidenvoyages;50
 maidof;20
-maidofhonor;50
+maidofhonor;60
 maidsofhonor;50
 maier;40;Skier Hermann Maier
 maigre;20;Day on which the eating of flesh is forbidden by the Roman Catholic Church
@@ -47531,8 +47543,12 @@ sacamaindevoyage;50;Hermès's Kelly bag, formerly (sac à main de Voyage)
 saccule;30;Inner ear organ
 sacha;40;Sacha Baron Cohen
 sachar;40;"Holes" novelist Louis Sachar
+sackbackgown;50
+sackbackgowns;50
 sackbut;30;Trombone precursor
 sackbuts;30
+sackdress;60
+sackdresses;60
 sacker;50
 sackers;50
 saclike;30
@@ -50310,6 +50326,7 @@ silicosis;40;Miners' affliction from breathing in silica
 silkascot;50
 silkascots;50
 silkboxers;50
+silkdress;60
 silkhat;50;A la Frosty
 silkhats;50
 silkmoth;50
@@ -52291,7 +52308,8 @@ spiedon;40
 spies;50
 spieson;40
 spikelee;50
-spikelet;30
+spikelet;40;Plant part
+spikelets;40
 spikenard;40;Oil mentioned in the New Testament
 spikepit;60
 spikepits;60
@@ -55364,7 +55382,8 @@ tattooists;50
 tatums;20
 tau;50
 taupin;40;Elton John's lyricist Bernie Taupin
-taurids;30;Meteor shower
+taurid;40;Meteor shower
+taurids;40;Meteor shower
 tauromachies;30
 tauromachy;30;Art of bullfighting
 tauten;30
@@ -56298,6 +56317,7 @@ thebluelagoon;50
 thebodyshop;50;???
 thebolts;40;???
 thebomb;60
+thebookofeli;60
 theboot;40
 theboss;50
 thebottle;40;???
@@ -63135,6 +63155,7 @@ yarr;50
 yas;40
 yashmak;30;Muslim veil
 yashmaks;30;Muslim veils
+yasir;40
 yasser;40
 yassir;40
 yat;20
