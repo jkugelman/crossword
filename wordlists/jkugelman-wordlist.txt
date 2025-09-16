@@ -2569,6 +2569,8 @@ antone;40;San Antone, TX
 antons;30;Plural name
 antpaste;30
 antpolly;0
+anttrail;60
+anttrails;60
 anttree;40
 anttrees;40
 anu;20
@@ -12429,9 +12431,9 @@ customervalue;50
 customfont;50
 customfonts;50
 cut;50
-cutadeal;50
+cutadeal;60
 cutagainstthegrain;60
-cutarug;50
+cutarug;60
 cutbothways;60
 cutclass;50
 cutco;30;Kitchen brand
@@ -12448,8 +12450,8 @@ cutman;50;Fighter's corner person
 cutmen;50
 cutnoice;30
 cutonesteethon;60
-cutsadeal;50
-cutsarug;50
+cutsadeal;60
+cutsarug;60
 cutsbothways;60
 cutscene;50
 cutscenes;50
@@ -12467,8 +12469,8 @@ cutstothebone;60
 cutstothequick;60
 cutthechitchat;60
 cutthroattactic;60
-cuttingadeal;50
-cuttingarug;50
+cuttingadeal;60
+cuttingarug;60
 cuttingbothways;60
 cuttingclass;50
 cuttingcorners;50
