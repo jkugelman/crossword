@@ -3446,6 +3446,7 @@ asiseeit;60
 asisuspected;60
 asivesaid;60
 ask;50
+askdad;60
 askedfor;40
 askedin;40
 askedof;40
@@ -3463,6 +3464,7 @@ askmarilyn;50
 askmeificare;60
 askmenoquestions;60
 askmenoquestionsandilltellyounolies;60
+askmom;60
 asknow;20
 askof;40
 asksfor;40
@@ -27013,8 +27015,13 @@ insidescoop;60
 insidestories;50
 insidestory;50
 insincerities;30
+insistedupon;40
 insister;40
 insisters;40
+insistingupon;40
+insistsupon;40
+insistsuponitself;60
+insistupon;40
 inslee;20;Governor of Washington
 insolate;20;Expose to the sun's rays (as for curing, drying, ripening)
 insolation;20;Exposure to the sun's rays (as for curing, drying, ripening)
@@ -27451,7 +27458,7 @@ ironists;40
 ironlaw;50
 ironmaiden;60
 ironmaidens;60
-ironmask;60
+ironmask;50
 ironmike;60
 ironmine;50
 ironminer;50
@@ -27716,6 +27723,7 @@ iti;20
 itihat;0
 itina;30
 itinerated;40
+itinsistsuponitself;60
 itis;40
 itisdone;60
 itishightime;60
@@ -58040,6 +58048,7 @@ toldno;50
 toldof;40
 toldon;40
 toldtalesofschool;60
+toldya;60
 toldyou;60
 toldyouso;60
 tolease;50
@@ -61316,6 +61325,7 @@ walkedonthinice;60
 walkedouton;40
 walkedwithpurpose;60
 walkingandtalking;50
+walkingaroundmoney;60
 walkingdistance;50
 walkingonthinice;60
 walkingouton;40
@@ -62125,7 +62135,7 @@ whataremyoptions;60
 whataretheysmoking;60
 whatarewe;60
 whatareweeventalkingabout;60
-whatareyoudoing;50
+whatareyoudoing;60
 whatareyounuts;60
 whatareyouon;60
 whatareyousmoking;60
@@ -62172,6 +62182,8 @@ whatscookinggoodlooking;60
 whatscookingoodlookin;60
 whatseemstobetheissue;60
 whatseemstobetheproblem;60
+whatshould;20
+whatshouldistay;50;Cleopatra's dying words in Shakespeare's "Antony and Cleopatra"
 whatsinitforme;60
 whatsnewpussycat;60
 whatsonyourmind;60
