@@ -5933,6 +5933,8 @@ bikerace;50
 bikeraces;50
 bikerchick;60
 bikerchicks;60
+biketrail;60
+biketrails;60
 bikinibottom;60
 bikinibottoms;60
 bikinitan;60
@@ -15981,7 +15983,7 @@ eclecticmix;60
 eclogue;40;Pastoral poem
 eclogues;40
 ecnuoeno;0
-eco;40
+eco;50
 ecocar;20
 ecocars;20
 ecofreak;40
@@ -20141,6 +20143,7 @@ fretsaw;30
 fretsaws;30
 fretter;40
 fretters;40
+frey;40
 fri;40
 friarsclub;50
 frick;50
@@ -55986,6 +55989,7 @@ tentpole;50
 tentpolemovie;60
 tentpolemovies;60
 tentpoles;50
+tentwo;20
 tenurable;30
 tenuta;30
 tenyards;30
@@ -61276,6 +61280,8 @@ walkingandtalking;50
 walkingdistance;50
 walkingonthinice;60
 walkingouton;40
+walkingtrail;50
+walkingtrails;50
 walkingwithpurpose;60
 walkoffhr;40
 walkonthinice;60
