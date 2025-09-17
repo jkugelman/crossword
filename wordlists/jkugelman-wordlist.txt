@@ -1164,6 +1164,8 @@ aiders;20
 aidesdecamp;50
 aidless;30
 aids;50
+aidstation;60
+aidstations;60
 aidsvaccine;50
 aidsvaccines;50
 aidworkers;50
@@ -10855,6 +10857,8 @@ coloreds;10
 colorpencil;50
 colorpencils;50
 colorpurple;50
+colorwheel;60
+colorwheels;60
 colour;40
 colours;40
 colter;30;Plow cutting tool
@@ -13832,6 +13836,7 @@ didja;50
 didlaps;50
 didlunch;50
 didnot;40;Playground retort
+didntclick;60
 didnthave;20
 didnthaveaprayer;50
 didnthavetime;50
@@ -33270,6 +33275,8 @@ mascara;50
 mascarameltdown;50
 mascaras;40
 mascot;50
+mascotrace;60
+mascotraces;60
 mascots;50
 masculines;40
 maser;40
@@ -34237,6 +34244,7 @@ mightaswell;60
 mightiadd;60
 mightmakesright;60
 mights;40;Bad plural
+mightyfine;60
 mii;20
 miii;20
 mika;40
@@ -36664,13 +36672,18 @@ nineteenths;40
 ninetieth;40
 ninetieths;40
 nineto;20
+ninetofive;60
+ninetofivejob;60
+ninetofivejobs;60
+ninetofiver;60
+ninetofivers;60
 ninetoone;20
 ninetosix;20;Work hours
-ninetyfive;20
-ninetynine;20
-ninetyone;20
+ninetyfive;40
+ninetynine;40
+ninetyone;30
 ninetysix;20
-ninetytwo;20
+ninetytwo;30
 nineveh;30;Ancient cultural center
 nineyards;40
 ningbo;30;Historic Chinese city, population 8 million
@@ -41565,6 +41578,7 @@ piratecaptains;60
 piratedsoftware;60
 piratehat;60
 piratehats;60
+pirateking;60;???
 piratic;30
 pis;40
 pisaitaly;20
@@ -46424,6 +46438,7 @@ rightplaceattherighttime;60
 rightplaceatthewrongtime;60
 rightplacerighttime;60
 rightplacewrongtime;60
+rightquick;60
 righttobeararms;60
 rightwinggroup;50
 rightwinggroups;50
@@ -46808,6 +46823,7 @@ roes;40;Roe deer
 rofl;40
 rog;20
 rogerbacon;50
+rogerebert;60
 rogerwaters;60
 rogerwilco;60
 roguestate;50
@@ -51658,6 +51674,9 @@ softmoney;50
 softon;40
 softpretzel;50
 softpretzels;50
+softreset;60
+softresets;60
+softrock;60
 softsell;60
 softselling;60
 softsells;60
@@ -51804,6 +51823,8 @@ somalipirate;50
 somalipirates;50
 somata;20
 sombre;20
+sombrely;20
+sombreness;20
 somean;50
 somebodyfinallysaidit;60
 somebodyoncetoldme;60
@@ -58885,6 +58906,7 @@ trompes;40
 trompin;40
 trompingin;40
 trompsin;40
+tronares;50;"Tron: Ares"
 troopedin;30
 troopin;30
 troopingin;30
@@ -63421,6 +63443,7 @@ youandmeagainsttheworld;60
 youandwhatarmy;60
 youandwhosearmy;60
 youareexcused;60
+youarehere;60
 youarewhatyoueat;60
 youawake;60
 youbet;60
