@@ -1879,7 +1879,12 @@ aluminate;30
 aluminium;60
 alumna;40;Female grad
 alumnal;40
+alumnilist;50
+alumnilists;50
+alumnimag;50
+alumnimagazine;50
 alumnimagazines;50
+alumnimags;50
 alundum;20;Fused alumina used as abrasive/refractory
 alunser;40
 alva;40;Thomas Alva Edison
@@ -18959,6 +18964,8 @@ fios;30
 fir;50
 firealarm;50
 fireandice;60
+fireant;60
+fireants;60
 fireashot;50
 fireat;40
 fireaway;50
@@ -21436,6 +21443,7 @@ ginmartinis;50
 ginnie;40
 ginny;40
 ginos;30
+ginsengs;40
 ginza;40;Tokyo shopping district
 gio;20
 gioachino;40;Composer Gioachino Rossini
@@ -51452,8 +51460,15 @@ snitcheson;40
 snitchingon;40
 snitchon;40
 snl;50
-snlhost;50
-snlhosts;50
+snlalum;60
+snlalumni;60
+snlalumnus;60
+snlalums;60
+snlhost;60
+snlhosts;60
+snlsketch;60
+snlskit;60
+snlskits;60
 sno;40
 snobappeal;60
 snocone;50
