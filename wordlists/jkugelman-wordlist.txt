@@ -34118,7 +34118,9 @@ metalmusic;50
 metalprojectile;0
 metalriff;60
 metalriffs;60
-metaluna;40;???
+metaluna;30
+metalunan;30;Alien from "This Island Earth" (1955)
+metalunans;30
 metameric;30;Zoology thing
 metamerism;30;Zoology thing
 metat;40
@@ -63824,6 +63826,7 @@ zerostar;60
 zerostarreview;60
 zerostarreviews;60
 zerostars;60
+zerosum;60
 zerowaste;50
 zerozero;50
 zesta;40;Cracker brand
