@@ -7227,10 +7227,12 @@ breezesrightpast;50
 breezingrightpast;50
 breitbart;10
 breitbartnews;10
+bremen;40;German city
 brene;40;Author Brené Brown
 brenebrown;50;Author and popular TEDx speaker
 breslau;20;Polish city
 breteastonellis;60
+breton;40;Native of northwest France
 breve;40
 breves;40
 brevet;30;Military reward
@@ -12344,8 +12346,12 @@ cueball;50
 cueballs;50
 cuecard;50
 cuecards;50
+cuedin;40
+cuein;40
+cueingin;40
 cuellar;30;Rep. Henry Cuellar (R-TX)
 cues;50
+cuesin;40
 cuesta;40
 cuestas;20
 cuestick;50
@@ -13888,13 +13894,17 @@ diecast;50
 diecasting;50
 diecasts;50
 diedadeath;50
+diedon;30;Awkward to clue
+diegan;40;San Diegan
 dieharder;50
 diein;20
 dielorelei;50
 diem;40
+dieon;30
 diesadeath;50
 diesirae;60
 diesnon;30;Day when courts are off
+dieson;30
 dietcoke;60
 dieth;20
 dietorangesodas;20
@@ -15138,7 +15148,7 @@ dreamteams;60
 dreamtheater;60
 dreamtof;40
 dreamwithinadream;60
-drebin;50
+drebin;40;Frank Drebin from "Naked Gun"
 dreck;50
 dred;40
 dreday;50;Dr. Dre song
@@ -15668,6 +15678,7 @@ dyejobs;60
 dyer;40
 dyers;40
 dyingadeath;50
+dyingon;30
 dyingto;40;"Heck yeah"
 dyke;10;Dick Van Dyke
 dykes;10
@@ -18583,6 +18594,7 @@ feelfor;50
 feelfreetosayno;60
 feelfunny;50
 feelheard;60
+feelin;40;"Feelin' Groovy"
 feelingcutemightdeletelater;60
 feelingdown;50
 feelingfor;50
@@ -21842,6 +21854,7 @@ goesgold;50
 goesgreen;50
 goesham;60
 goeshard;50
+goesin;40
 goesinon;50
 goesinsane;50
 goesinto;40
@@ -21918,6 +21931,7 @@ goham;60
 gohard;50
 gohome;50
 goi;20
+goin;40
 goingallin;50
 goingallout;50
 goingape;50
@@ -21947,6 +21961,7 @@ goinggold;40
 goinggreen;50
 goingham;60
 goinghard;50
+goingin;40
 goinginon;50
 goinginpeace;50
 goinginsane;50
@@ -22710,6 +22725,7 @@ greprepbook;50
 gres;40
 gretna;30;___ Green, Scottish wedding destination
 grewdim;30
+grewin;30
 grewinto;40
 grewoldtogether;60
 grewon;40
@@ -22815,7 +22831,9 @@ groupchats;50
 grouptext;50
 grovers;40;Grover's Corner, "Our Town" setting
 growdim;30;Green paint
+growin;30;Contrived
 growingdim;30
+growingin;30
 growinginto;40
 growingoldtogether;60
 growingon;40
@@ -22829,6 +22847,7 @@ grownupon;40
 growoldtogether;60
 growon;40
 growsdim;30
+growsin;30
 growsinto;40
 growson;40
 growsupon;40
@@ -28409,6 +28428,7 @@ jodeci;40;'90s R&B duo
 joe;50
 joecamel;60
 joedepre;20;Unnotable basketball player
+joedon;30;Actor Joe Don Baker
 joefriday;50
 joegaragiola;40;NBC baseball announcer Joe Garagiola in the '60s-'80s
 joegirardi;50
@@ -38924,6 +38944,7 @@ opengrill;50
 openheartsurgery;60
 openhouse;60
 openhouses;60
+openin;40
 openingbid;50
 openingbids;50
 openingfire;50
@@ -43029,6 +43050,7 @@ pretzelloops;50
 prev;40
 prevent;50
 prevents;50
+previn;40;Film composer André Previn
 prevost;50;Robert Prevost aka Pope Leo XIV
 prevote;50
 prevoted;50
@@ -49786,7 +49808,10 @@ sheave;40
 sheaved;30
 shebeen;20;Illicit bar
 shecanonlyblameherself;60
-shedson;20;???
+sheddedon;30
+sheddingon;30
+shedon;30;Contrived
+shedson;30
 sheenier;30
 sheeniest;30
 sheepdog;50
@@ -50269,6 +50294,7 @@ sidney;50
 sidneybechet;50
 sidra;30;Gulf of Sidra
 sie;40;"Sprechen sie Deutsch?"
+sieben;30;Seven: German
 siecle;30
 sieg;20
 siegeengine;60
@@ -53330,6 +53356,7 @@ stephenfry;50
 stepin;40
 stepinshit;10
 stepinto;40
+stepon;40
 steponit;60
 steponto;40
 stepoutof;40
@@ -53337,17 +53364,20 @@ steppedin;40
 steppedinshit;10
 steppedinto;40
 steppeditup;60
+steppedon;40
 steppedonit;60
 steppedonto;40
 steppedoutof;40
 steppingin;40
 steppinginshit;10
 steppinginto;40
+steppingon;40
 steppingonto;40
 steppingoutof;40
 stepsin;40
 stepsinshit;10
 stepsinto;40
+stepson;40
 stepsonto;40
 stepsoutof;40
 stepto;30
@@ -56475,6 +56505,7 @@ thecoast;40
 thecoastisclear;60
 thecolonel;30;???
 thecolts;40
+thecon;40;???
 theconga;30
 thecongo;30
 thecontinentalarmy;40
@@ -56610,6 +56641,7 @@ thegreenarrow;40
 thegreenfairy;60;Absinthe
 thegrownupsaretalking;60
 thegulfofamerica;60
+thegun;30;Partial
 thehague;50
 thehangedman;60;Tarot card
 thehat;20
@@ -56720,7 +56752,7 @@ themagician;60;Tarot card
 themainact;40
 themajors;30
 themambo;30
-theman;50
+theman;60
 themanilove;50
 themanintheironmask;60
 themanofthehour;60
@@ -56988,6 +57020,7 @@ thesmokies;50
 thesneetches;50;Dr. Seuss characters
 thesneetchesandotherstories;50;Dr. Seuss book
 thesocialcontract;40
+theson;40;Trinity member
 thesonics;30
 thesopwithcamel;30
 thesox;20
@@ -60586,6 +60619,7 @@ validid;40
 validids;40
 valine;40;Amino acid
 vallate;40;???
+vallone;30;Raf Vallone of "The Italian Job" (1969)
 valse;40
 valueat;40
 valuedat;50
@@ -61925,6 +61959,7 @@ wentgold;50
 wentgreen;50
 wentham;60
 wenthard;50
+wentin;40
 wentinon;50
 wentinpeace;50
 wentinsane;50
