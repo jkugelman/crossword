@@ -10714,7 +10714,14 @@ coibot;20;???
 coiner;50
 coiners;50
 coinop;60
-coinops;50
+coinoperated;60
+coinopgame;60
+coinopgames;60
+coinopmachine;60
+coinopmachines;60
+coinops;60
+coinpurse;50
+coinpurses;50
 coinreturn;50
 coinreturns;50
 coinslots;50
