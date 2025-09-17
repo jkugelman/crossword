@@ -6793,6 +6793,8 @@ bookofmatches;50
 bookoncd;30
 bookrec;50
 bookrecs;50
+booksale;60
+booksales;60
 bookshop;50
 bookshops;50
 booksofmatches;50
@@ -19709,6 +19711,9 @@ foolserrand;60
 foolsmate;60
 foolsmates;60
 foolto;0
+foosball;60
+foosballtable;60
+foosballtables;60
 footballhelmet;60
 footballhelmets;60
 footballplayer;60
@@ -28759,6 +28764,7 @@ karsts;40
 kart;40
 karts;40
 kas;20
+kasdan;40;Filmmaker Lawrence Kasdan
 kasem;40
 kasha;30;Buckwheat cereal
 kashas;20
@@ -35917,6 +35923,7 @@ natalies;30
 natalities;30
 natality;30
 natan;30
+natant;40;Swimming or floating
 natation;30;Swimming
 natator;30;Swimmer
 natatoria;40
@@ -36260,6 +36267,8 @@ nepotic;40;Nepotistic
 neptune;50
 ner;20
 nerdcore;60
+nerdgasm;60
+nerdgasms;60
 nerdprom;60;San Diego Comic-Con, or the White House Correspondents' Dinner
 nerdrap;50
 nerdsnipe;60
@@ -39181,6 +39190,7 @@ originalartwork;60
 originalcontent;60
 oriley;50;Song "Baba O'Riley"
 orinda;20;California town
+orinoco;40
 orinocoflow;60
 orisit;60
 orisitme;20;Follow-up to "Has the world gone crazy..."
@@ -42613,17 +42623,21 @@ postbond;50
 postcreditscene;50
 postcreditscenes;50
 postedbond;50
+postedon;40
 postergirl;50
 postergirls;50
 posteriority;30
 postgamecontent;60;Gameplay in a videogame that is unlocked after beating a main storyline
 postingbond;50
+postingon;40
 postitnote;50
 postitnotes;50
 postmastergeneral;50
 postmastersgeneral;50
 postoffice;50
+poston;40
 postsbond;50
+postson;40
 postulant;40
 postulants;40
 postwarera;50
@@ -43225,8 +43239,8 @@ prolifers;50
 prolog;40;The programming language
 prologs;30;Uncommon variant of prologues
 promcourt;60
-promdate;50
-promdates;50
+promdate;60
+promdates;60
 promethean;50
 promisee;40
 promisees;40
@@ -43347,9 +43361,9 @@ prstrategy;50
 prtactic;50
 prtactics;50
 prtag;0
-prtalk;30
-prteam;40
-prteams;40
+prtalk;40
+prteam;50
+prteams;50
 pru;20
 prue;30;Celebrity chef Prue Leith
 prunedanish;50
@@ -45031,8 +45045,8 @@ red;50
 redadair;40;Firefighter
 redale;40;Legit thing (amber ale)
 redales;40;Legit thing (amber ales)
-redape;40
-redapes;40
+redape;50
+redapes;50
 redare;0
 redares;0
 redate;20
@@ -47713,6 +47727,7 @@ saguarocacti;50
 saguarocactus;60
 saguarocactuses;60
 sahib;40;Arabic "companion"
+sahibs;40
 sahl;40;Comedian Mort Sahl
 sahm;30
 sahni;30;Indian last name, not sure if anyone is notable??? Never used in NYT
@@ -58256,6 +58271,7 @@ toreoneshairout;60
 torero;40
 toreros;40
 torest;30
+tori;40
 toric;30
 torii;20;Japanese gate
 torme;40
@@ -58885,6 +58901,7 @@ triskelia;40
 triskelion;40;Ancient triple spiral symbol
 triskelions;40
 triste;40
+tritons;40;Spiral seashells
 tritt;40;Country singer Travis Tritt
 triturate;30
 triturated;30
