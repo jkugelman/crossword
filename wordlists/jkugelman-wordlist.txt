@@ -252,6 +252,7 @@ abseiling;50;Synonym of rappelling
 abseils;50
 absinthe;50
 absit;20
+absolutecinema;60
 absolutemonarchs;50
 absolvedof;30
 absolveof;30
@@ -1973,7 +1974,7 @@ ambuscaded;30;Ambushed, archaic
 ambuscades;30;Ambushes, archaic
 ambuscading;30;Ambushing, archaic
 amc;40
-amcgremlin;50
+amcgremlin;60
 amchitka;20;Aleutian island
 amcrunchwrap;20
 amcrunchwraps;20
@@ -5077,9 +5078,9 @@ battleofverdun;50
 battleofwaterloo;50
 battleofwills;60
 battleofwits;60
-battleplan;50
+battleplan;60
 battleplanning;50
-battleplans;50
+battleplans;60
 battlerope;50;Exercise rope
 battleropes;50
 battleroyale;60
@@ -7495,7 +7496,11 @@ buckaroo;60
 buckedforapromotion;50
 buckforapromotion;50
 buckingforapromotion;50
+buckleddown;60
+buckledown;60
+bucklesdown;60
 buckleupitsthelaw;60
+bucklingdown;60
 bucksaw;50
 bucksaws;50
 bucksforapromotion;50
@@ -7882,6 +7887,8 @@ byliner;40;Reporter important enough to earn a byline
 byliners;40
 bynight;20
 byo;30
+bypurechance;60
+bypureluck;60
 byrail;40
 byronic;40
 byronnelson;40;Legendary golfer
@@ -10948,6 +10955,7 @@ comeonimeating;60;"Gross!"
 comeonimeatinghere;60;"Gross!"
 comeonimtryingtoeat;60;"Gross"
 comeonletsbereal;60
+comeonman;60
 comeonto;40
 comeoutahead;50
 comeoutandplay;60
@@ -14815,6 +14823,9 @@ doorcrasher;60
 doorcrasherdeal;60
 doorcrasherdeals;60
 doorcrashers;60
+doordash;60
+doordasher;60
+doordashers;60
 doormat;60
 doormats;60
 doornumberone;50
@@ -15819,10 +15830,12 @@ easinginto;40
 easingout;40
 easingupto;40
 eastasia;50
+eastberlin;60
 easterbunny;60
 eastercandy;60
 easternseaboard;50
 easters;40
+eastgermany;60
 eastham;40;???
 eastorange;40;New Jersey city
 easya;50
@@ -18931,8 +18944,11 @@ finable;40;Subject to a fine, fineable is the less common variant spelling surpr
 finalboss;60
 finalcheck;50
 finalchecks;50
-finalcut;50
+finalcut;60
+finalcutprivilege;60
+finalcutright;60
 finaldecision;60
+finaledit;60
 finalfantasy;60
 finallysomebodysaidit;60
 finaloffer;50
@@ -19248,6 +19264,9 @@ flameretardant;50
 flamesout;50
 flamewar;60
 flamingout;50
+flaminhot;60
+flaminhotcheeto;60
+flaminhotcheetos;60
 flanerie;40;Flânerie, aimless strolling
 flaneur;20;Stroller: Fr.
 flaneurs;20
@@ -21094,6 +21113,7 @@ getanedge;50
 getanf;50
 getapass;50
 getarawdeal;60
+getareadon;60
 getaroundto;40
 getarun;30;Eat a sandwich
 getasay;50
@@ -21178,6 +21198,7 @@ getsanedge;50
 getsanf;50
 getsapass;50
 getsarawdeal;60
+getsareadon;60
 getsaroundto;40
 getsarun;30
 getsasay;50
@@ -21268,6 +21289,7 @@ gettingana;50
 gettinganf;50
 gettingapass;50
 gettingarawdeal;60
+gettingareadon;60
 gettingaroundto;40
 gettingarun;30
 gettingasay;50
@@ -21389,10 +21411,10 @@ ghostintheshell;60
 ghostkitchen;60;Virtual restaurant
 ghostkitchens;60
 ghostlily;30;Weird adverb
-ghostmoth;50
-ghostmoths;50
-ghostnote;50
-ghostnotes;50
+ghostmoth;60
+ghostmoths;60
+ghostnote;60
+ghostnotes;60
 ghostpepper;60
 ghostpeppers;60
 ghostrider;60
@@ -22321,6 +22343,7 @@ gotanedge;50
 gotanf;50
 gotapass;50
 gotarawdeal;60
+gotareadon;60
 gotaroundto;40
 gotarun;30
 gotasay;50
@@ -22722,6 +22745,8 @@ gregorianchant;50
 gregorianchants;50
 gregormendel;50
 greisen;30;???
+gremlin;60
+gremlins;60
 grenadilla;40;African blackwood
 greninja;50;Pokeyman
 greprepbook;50
@@ -23342,6 +23367,7 @@ hamantashen;40
 hamartia;30;Hero's fatal flaw
 hamer;30;Civil rights activist Fannie Lou Hamer, or Frank Hamer who tracked down Bonnie and Clyde
 hamidkarzai;50
+hamilton;60
 hamingwaychampagne;60;Cocktail
 hamite;20
 hamites;20
@@ -23405,6 +23431,8 @@ handlebarmustache;50
 handlebarmustaches;50
 handless;40;Clumsy/awkward, hands-free
 handm;30
+handmedown;60
+handmedowns;60
 handmirror;50
 handmirrors;50
 handmodel;50
@@ -27096,6 +27124,7 @@ intendingto;40
 intendsto;40
 intendto;40
 intens;30
+intenths;20;Green paint
 intentionalgrounding;60;Football penalty
 intentionalgroundingpenalties;60
 intentionalgroundingpenalty;60
@@ -27691,6 +27720,7 @@ itband;50
 itbands;50
 itbeatsme;60
 itbeatsthealternative;60
+itcantbe;60
 itcantbethatbad;60
 itcanwait;60
 itcomesandgoes;50
@@ -27754,6 +27784,8 @@ itmeansalottome;60
 itn;20
 ito;40;Skater Midori Ito or Judge Lance Ito
 itoldya;60
+itoldyou;60
+itoldyouso;60
 itonya;30
 itoo;40;Langston Hughes poem
 itpaidforitself;60
@@ -28064,6 +28096,7 @@ jackasses;60
 jacketcopy;50
 jackhammer;60
 jackhandey;60
+jackiechan;60
 jackjohnson;50
 jackkennedy;50
 jacklord;40;"Hawaii Five-O" star
@@ -29851,12 +29884,16 @@ lancinated;30
 lancinates;30
 lancinating;30;Stabbing, as pain
 lancination;30
+landagent;50
+landagents;50
+landahoy;60
 landedon;40
 landedup;40
 landform;50
 landforms;50
 landgrab;50
 landgrabs;50
+landho;60
 landingon;40
 landingup;40
 landline;50
@@ -32585,6 +32622,7 @@ mag;40
 maga;40
 magdalen;40;Less common spelling of Magdalene
 magdas;20
+magentas;40
 maggot;40
 maggots;40
 maggoty;40
@@ -33853,9 +33891,9 @@ meetcute;60
 meetcutes;60
 meeter;20;One meeting
 meeters;20
-meetheadon;50
+meetheadon;60
 meetingat;40
-meetingheadon;50
+meetingheadon;60
 meetinglink;50
 meetinglinks;50
 meetingofminds;60
@@ -33867,7 +33905,7 @@ meetme;20
 meetonesmaker;60
 meetpayroll;50
 meetsat;40
-meetsheadon;50
+meetsheadon;60
 meetsonesmaker;60
 meetspayroll;50
 meg;50
@@ -34160,7 +34198,7 @@ metgala;60
 meth;40
 methamphetamine;50
 methamphetamines;50
-metheadon;50
+metheadon;60
 metheglin;40;Spiced mead
 methene;30
 methree;60
@@ -34623,6 +34661,7 @@ missis;30
 missm;30
 missme;60
 missmississippi;60
+missotis;40;Cole Porter song "Miss Otis Regrets"??
 missoulamontana;30
 missoulamt;30
 misspelled;60
@@ -35037,6 +35076,7 @@ moonbounces;60
 mooncake;60;Chinese pastry eaten during Mid-Autumn Festival
 mooncakes;60
 moondog;50;Composer
+mooneyed;60;Wide-eyed
 moonglow;50
 moonlight;50
 moonlighted;50
@@ -38772,7 +38812,7 @@ onnotice;50
 ono;40
 onomastic;40
 onomastics;40;Study of proper names
-onondaga;40;???
+onondaga;40;New York tribe / county
 ononeknee;50
 ononeshighhorse;60
 onos;20
@@ -39929,6 +39969,8 @@ pajitnov;40;Alexey Pajitnov, creator of Tetris
 pak;40
 pal;50
 pala;20
+palacegate;60
+palacegates;60
 palade;20;1974 Nobelist
 palaestra;30;Ancient Greek wrestling school
 palaestrae;30
@@ -40384,6 +40426,7 @@ passwordmanager;60
 passwordmanagers;60
 passwordreset;60
 passwordresets;60
+pastcaring;60
 pastedin;40
 pastedon;40
 pastein;40
@@ -40663,6 +40706,10 @@ peafowlchicks;50
 peakcinema;60
 peakier;30;???
 peakiest;30;???
+peakseason;60
+peakseasons;60
+peaktime;60
+peaktimes;60
 peale;40;Norman Vincent Peale, author of "The Power of Positive Thinking"
 peales;20
 peanutbutterand;0
@@ -40796,6 +40843,8 @@ peewit;30;Bird
 peewits;30
 peg;50
 pegg;40
+pegleg;60
+peglegs;60
 pegtop;40;Spinning toy
 pegtops;40
 pei;40
@@ -41427,14 +41476,14 @@ piejesu;50
 pielike;40
 pieman;40
 piemen;40
-piercedbellybutton;50
-piercedbellybuttons;50
-piercedear;50
-piercedears;50
-piercedlip;50
-piercedlips;50
-piercednose;50
-piercednoses;50
+piercedbellybutton;60
+piercedbellybuttons;60
+piercedear;60
+piercedears;60
+piercedlip;60
+piercedlips;60
+piercednose;60
+piercednoses;60
 pieris;30;Flower genus
 pierres;30;Plural name
 pierresd;30
@@ -42248,7 +42297,10 @@ poiser;30
 poisers;30
 poisondart;60
 poisondarts;60
+poisonivy;60
+poisonoak;60
 poisonpen;60
+poisonsumac;60
 pokeabout;50
 pokeaholein;50
 pokeat;40
@@ -42307,29 +42359,35 @@ polecar;50
 polecars;50
 poledancing;60
 polentas;20
-polevault;50
-polevaulted;50
-polevaulter;50
-polevaulters;50
-polevaulting;50
-polevaults;50
+polevault;60
+polevaulted;60
+polevaulter;60
+polevaulters;60
+polevaulting;60
+polevaults;60
 policeacademies;50
 policeacademy;50
+policeband;60
+policebands;60
 policebeat;50
 policechief;60
-policechiefs;50
-policeconstable;50
-policeconstables;50
-policeinspector;50
-policeinspectors;50
+policechiefs;60
+policeconstable;60
+policeconstables;60
+policedog;60
+policedogs;60
+policeinspector;60
+policeinspectors;60
 policeraid;40
 policeraids;40
 policeslang;50
 policesting;50
 policestings;50
-policetape;50
+policetape;60
 policewomen;50
 policyresearch;50
+policywonk;60
+policywonks;60
 polios;20
 poliovirus;50
 polishedbrass;50
@@ -42751,9 +42809,13 @@ poult;30;Young fowl
 poulter;40;Actor Will Poulter
 poults;30
 pouncedon;40
+pouncedupon;40
 pounceon;40
 pounceson;40
+pouncesupon;40
+pounceupon;40
 pouncingon;40
+pouncingupon;40
 poundal;30;Unit of force
 poundals;30
 pounddog;50
@@ -43285,6 +43347,8 @@ proliferous;40
 prolifers;50
 prolog;40;The programming language
 prologs;30;Uncommon variant of prologues
+prolonge;40;Rope connected to the back of a cannon
+prolonges;40
 promcourt;60
 promdate;60
 promdates;60
@@ -43317,6 +43381,9 @@ proofreading;50
 proofreads;50
 prop;50
 propanol;40;Solvent
+propcomedy;60
+propcomic;60
+propcomics;60
 propertyistheft;60
 propertyowner;50
 propertyowners;50
@@ -43339,6 +43406,7 @@ prorogues;30
 proroguing;30
 prosandconslist;50
 prosandconslists;50
+prosciutto;60
 prosed;40;Talked tediously
 proses;40;Talks tediously
 proshop;50
@@ -43501,6 +43569,8 @@ pube;10
 pubes;10
 pubfood;50
 pubfoods;30
+pubichair;10
+pubichairs;10
 publicaffairs;50
 publicduties;50
 publicfigure;50
@@ -43652,7 +43722,8 @@ purchaseprice;60
 purdah;30;Muslim/Hindu practice of segregating women
 purdahs;30
 pureasthedrivensnow;60
-purechance;50
+purechance;60
+pureluck;60
 purex;40;Detergent brand
 puri;20
 purifications;40
@@ -43665,6 +43736,7 @@ purling;40
 purls;40
 purplebelt;60
 purplebelts;60
+purplecorn;60
 purpledye;20;Green paint, right???
 purpledyes;20
 purplegallinule;50;Bird that Matthew Stock likes
@@ -44756,7 +44828,9 @@ readersubmittedquestions;60
 reades;20
 readier;30
 readiest;30
+readinbed;60
 readingahead;50
+readinginbed;60
 readinginto;40
 readingon;40
 readingrailroad;60
@@ -44776,6 +44850,7 @@ readorned;30
 readorning;30
 readorns;30
 readsahead;50
+readsinbed;60
 readsinto;40
 readson;40
 readsto;40
@@ -56712,6 +56787,7 @@ thekingsstilts;60;Dr. Seuss book
 thekinks;60
 thekiss;50;Rodin sculpture
 thelakers;50
+thelark;30
 thelastjedi;60
 thelastunicorn;50
 thelasvegasstrip;40
@@ -62058,6 +62134,7 @@ wes;50
 wesleyan;40
 wesleyans;40
 wessex;30
+westberlin;60
 wester;40
 westerncanon;60;Collection of creative works defining European and American culture
 westerneurope;60
@@ -62065,6 +62142,7 @@ westernfront;50
 westernworld;60
 westeros;60
 westers;40
+westgermany;60
 westpointcadet;50
 westpointcadets;50
 wests;30
@@ -62827,8 +62905,8 @@ woodenclog;50
 woodenclogs;50
 woodendoll;50
 woodendolls;50
-woodenleg;50
-woodenlegs;50
+woodenleg;60
+woodenlegs;60
 woodenrollercoaster;60
 woodenrollercoasters;60
 woodenruler;50
@@ -63629,6 +63707,7 @@ youllregretthis;60
 youlookgoodenoughtoeat;60
 youlookpleasedwithyourself;60
 youlose;50
+youlostme;60
 youlove;0
 youmaybeexcused;60
 youmind;60
@@ -63739,6 +63818,7 @@ youvegottabejoking;60
 youvegottabekiddingme;60
 youvegottobejoking;60
 youvegottobekiddingme;60
+youvelostme;60
 youveonlyyourselftoblame;60
 youweresaying;60
 youwhat;60
