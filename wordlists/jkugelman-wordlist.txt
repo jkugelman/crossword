@@ -7574,6 +7574,8 @@ buildingconsensus;50
 buildingon;40
 buildingsupport;50
 buildon;40
+buildorbuy;60
+buildorbuydecision;60
 buildsaconsensus;50
 buildsafire;50
 buildsconsensus;50
