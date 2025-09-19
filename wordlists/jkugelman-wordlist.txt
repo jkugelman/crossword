@@ -9821,6 +9821,8 @@ chineserestaurant;60
 chineserestaurants;60
 chineserestaurantsyndrome;60
 chinesetakeout;60
+chinesetakeoutbox;60
+chinesetakeoutboxes;60
 chinesetakeoutcontainer;60
 chinesetakeoutcontainers;60
 chinet;40;Paper goods company (plates, bowls, napkins)
@@ -40163,9 +40165,15 @@ paperjam;60
 paperjams;60
 paperlaunch;60;Release of a hotly anticipated product that ends up having extremely limited availability
 paperlaunches;60
+papernapkin;50
+papernapkins;50
 paperorplastic;60
 paperpail;60;Chinese takeout container
 paperpails;60
+paperplane;60
+paperplanes;60
+papertiger;60
+papertigers;60
 papertown;60;Copyright trap
 papertowns;60
 paperweight;50
@@ -62450,6 +62458,7 @@ wholenewballgame;60
 wholeshootingmatch;60
 wholestory;50
 wholething;60
+wholivesinapineappleunderthesea;60
 wholovesya;60
 whomakesthisstuff;60
 whoopdedo;60
