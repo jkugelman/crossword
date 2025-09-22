@@ -41121,6 +41121,7 @@ payingretail;50
 payingthetab;50
 payingto;40
 payinto;40
+paynes;30;Plural last name
 paynim;20;Heathen, archaic
 paynims;20;Heathens, archaic
 payonesfairshare;50
@@ -44862,6 +44863,7 @@ raindelays;60
 rainedon;40
 rainer;30;Luise Rainer, 1930s Best Actress
 raines;40
+rainey;40;Blues singer "Ma" Rainey
 rainfalls;30
 rainforest;50
 rainforestcanopies;50
@@ -49800,6 +49802,7 @@ seipeipoohw;0
 seis;40
 seises;20
 seism;30;Earthquake
+seismal;40;Legit, used by scientists, but seismic is more common
 seismo;40
 seisms;30
 seitan;30
@@ -60865,6 +60868,10 @@ unlikelyhero;60
 unlikelyheroes;60
 unlimber;30
 unlimitedaccess;60
+unlive;30
+unlived;30
+unlives;30
+unliving;50
 unloosen;30
 unlooses;30
 unlv;30
