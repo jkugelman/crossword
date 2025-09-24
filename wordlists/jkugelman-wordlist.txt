@@ -28044,7 +28044,7 @@ issueless;30
 issuesto;40
 issueto;40
 issuingto;40
-issweeton;50
+issweeton;40
 ist;40;Suffix [common]
 iste;20
 isthatall;60
@@ -48909,6 +48909,8 @@ satellitedish;50
 satellitedishes;50
 satelliteimage;60
 satelliteimages;60
+satellitetown;60
+satellitetowns;60
 satellitetv;50
 saterect;20;Green paint
 satfor;40
@@ -54899,6 +54901,7 @@ subwaysandwichartists;60
 succorer;30
 succour;30;???
 suchet;40;Actor David Suchet, Poirot portrayer
+suchsweetsorrow;60
 sucka;40
 suckat;40
 suckedat;40
@@ -55428,8 +55431,9 @@ sweetride;60
 sweetrides;50
 sweetroll;50
 sweetrolls;50
+sweetsorrow;60
 sweetspot;60
-sweetspots;50
+sweetspots;60
 sweetsummerchild;60
 sweetsurrender;60
 sweettalk;60
@@ -62366,7 +62370,7 @@ waspy;50
 wasrun;30
 wassail;30
 wasser;40;Water: Ger.
-wassweeton;50
+wassweeton;40
 wast;20
 wastednotime;60
 wastedpotential;60
