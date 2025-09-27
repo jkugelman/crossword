@@ -7312,8 +7312,12 @@ breakcharacter;60
 breakfastbaconator;60
 breakfastbaconators;60
 breakfastbuffet;50
+breakfastcroissanwich;60;Burger King breakfast sandwich
+breakfastinbed;60
 breakfastitem;50
 breakfastitems;50
+breakfastsandwich;60
+breakfastsandwiches;60
 breakingbread;60
 breakingbreadwith;50
 breakingcharacter;60
@@ -12290,6 +12294,7 @@ crocket;20;Gothic decorative element
 crockets;20
 crocodiledundee;50
 crocus;50;Flower
+croissanwich;60;Burger King breakfast sandwich
 cromulent;60
 cronin;30;Last name, various
 cronus;30;Titan, also spelled Kronos
