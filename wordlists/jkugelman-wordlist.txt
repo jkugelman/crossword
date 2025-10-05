@@ -6158,6 +6158,7 @@ bingosheets;50
 binnacle;30;Housing for a ship's compass
 binnacles;30
 bio;50
+biochemistries;40;Plural?
 biodad;60
 biodads;50
 biodata;40
@@ -9887,6 +9888,7 @@ chemisorbed;40
 chemisorbing;40
 chemisorbs;40
 chemisorption;40
+chemistries;40;Plural?
 chemistrysymbol;20
 chemo;50
 chemobrain;50
@@ -13456,6 +13458,8 @@ debark;50
 debarred;40
 debarring;40
 debars;40
+debasement;50
+debasements;40
 debaser;30
 debasers;30
 debateteam;50
@@ -14168,6 +14172,7 @@ dicesup;40
 diceup;40
 dichen;40;"Severance" actor Dichen Lachman
 dichenlachman;40;"Severance" actor Dichen Lachman
+dichondra;30;Plant genus
 dicingup;40
 dickhallorann;50;"The Shining" character
 dickmove;60
@@ -14551,6 +14556,7 @@ disporting;30
 disports;30
 dispraise;40;Criticism
 diss;50
+dissentient;40
 disses;50
 dissonantchord;50
 dissonantchords;50
@@ -17090,6 +17096,8 @@ empathizeswith;40
 empathizewith;40
 empathizingwith;40
 empedocles;40
+empennage;40;Airplane tail section
+empennages;40
 emphasisadded;60
 emping;30;Indonesian cracker
 empirestatebldg;30
@@ -17800,6 +17808,7 @@ esk;20
 esl;40
 eso;40
 esobeso;50;Paul Anka song
+esophagitis;40
 esophagus;50
 esos;40
 esoterica;60
@@ -19631,7 +19640,7 @@ fistulas;10
 fistulous;10
 fit;50
 fitcheck;60;"Check out this outfit" on social media
-fitinto;50
+fitinto;40
 fitlikeaglove;60
 fitly;40
 fitnesscenter;60
@@ -19643,13 +19652,13 @@ fitnesstrackers;60
 fitnessvideo;60
 fitnessvideos;60
 fiton;40
-fitsinto;50
+fitsinto;40
 fitslikeaglove;60
 fitson;40
 fitstoat;40
 fitstoatee;40
 fittingending;60
-fittinginto;50
+fittinginto;40
 fittinglikeaglove;50
 fittingon;40
 fittingtoat;40
@@ -34259,6 +34268,7 @@ masterfile;50
 masterfiles;50
 masterkey;50
 masterkeys;50
+masterless;40
 masterlock;50
 masterlocks;50
 mastermason;50
@@ -41882,6 +41892,7 @@ peoplepleaser;60
 peoplepleasers;60
 peopleskills;60
 pep;50
+pepa;40;Salt-N-Pepa
 pepband;50
 pepbands;50
 pepe;40
