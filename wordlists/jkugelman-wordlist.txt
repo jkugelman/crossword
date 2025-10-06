@@ -4112,6 +4112,8 @@ australianopens;30
 austro;40
 aut;20
 authentications;30
+authoress;30
+authoresses;30
 authorinresidence;60
 authorsinresidence;60
 autismawareness;60
@@ -10387,6 +10389,8 @@ circleoftrust;60
 circlesoftrust;60
 circuitdiagram;60
 circuitdiagrams;60
+circulator;40
+circulators;40
 circumlocution;60
 circumlocutions;60
 circusshot;50
@@ -18964,7 +18968,7 @@ fearisthemindkiller;60
 fearlessleader;50
 fearlessleaders;50
 fearmonger;60
-fearofneedles;60
+fearofneedles;50
 fearsfor;40
 fearsto;40
 fearto;40
@@ -29159,6 +29163,7 @@ jjevans;50
 jjonahjameson;60
 jkl;20
 jklmno;20
+jkrowling;10
 jlo;40
 jnr;20
 jo;40
@@ -48427,6 +48432,7 @@ rowena;30;Ivanhoe's love
 rowingclub;50
 rowley;40;???
 rowlf;40;Muppet Rowlf the Dog
+rowling;10
 rowr;30;Should be rawr
 roy;50
 royalball;50
@@ -52822,8 +52828,8 @@ soa;20
 soakage;30;Fluid absorbed by soil
 soakedin;40
 soakedtothebone;60
-soaker;50
-soakers;50
+soaker;40;Super soaker
+soakers;40
 soakin;40
 soakingin;40
 soaksin;40
