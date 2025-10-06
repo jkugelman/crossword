@@ -1982,6 +1982,11 @@ amative;20
 amativeness;20
 amato;30;Al D'___
 amatory;40;Amorous
+amaxophile;40
+amaxophiles;40
+amaxophobe;40
+amaxophobia;40;Fear of being in a vehicle
+amaxophobic;40
 amazeballs;60
 amazedat;40
 amazingrandi;60
@@ -3737,6 +3742,7 @@ asteam;20
 astense;20
 asterism;30
 astern;50
+asteroidal;40
 astew;20
 asthenia;30;Medical condition, lack of energy
 asthickasthieves;60
@@ -11605,6 +11611,7 @@ contentcreators;60
 contentfarm;60
 contentfarms;60
 contes;20
+continence;40
 continentalarmy;50
 contingencyplan;50
 contingencyplans;50
@@ -12871,6 +12878,8 @@ cutsschool;50
 cutstothebone;60
 cutstothequick;60
 cutthechitchat;60
+cutthroatcompound;60;Verb-object instead of the normal object-verb, like scarecrow and pickpocket
+cutthroatcompounds;60
 cutthroattactic;60
 cuttingadeal;60
 cuttingarug;60
@@ -13910,6 +13919,10 @@ denimskirts;50
 denisleary;50
 denisvilleneuve;60
 dennislehane;50;"Shutter Island" author
+denominate;40
+denominated;40
+denominates;40
+denominating;40
 denovo;50
 dentals;30
 dentalxray;50
@@ -20683,6 +20696,7 @@ frenchconnection;50
 frenchcuff;50
 frenchcuffs;50
 frenchcuisine;50
+frenchdressing;60
 frenchhorn;50
 frenchhorns;50
 frenchlick;50
@@ -27433,6 +27447,10 @@ incognito;60
 incoins;40
 incomestatement;50
 incometaxrefund;50
+incontinence;40
+incontinency;40
+incontinent;40
+incontinently;40
 incorrectness;30
 increole;20
 incrust;20
@@ -28455,12 +28473,18 @@ itaintme;60
 itaintovertillitsover;60
 itaintoveruntil;20
 itaintso;50;Stilted???
-itakebackit;60
+itakeitback;60
 italiana;40
-italianice;50
-italianices;50
+italianamerican;60
+italianamericans;60
+italiandressing;60
+italianice;60
+italianices;60
+italianjob;60
 italianlit;50
 italiano;40
+italiansandwich;60
+italiansandwiches;60
 italie;40;Italy: Fr.
 italo;40;Writer Italo Calvino, notable
 itamar;40;Tony-winning playwright Itamar Moses
@@ -36897,7 +36921,9 @@ namingto;40
 nan;40
 nana;40
 nanaimo;40;Port in British Columbia, don't know if notable didn't look
-nanana;30
+nanana;20
+nananana;20
+nanananana;20
 nanas;40
 nanbobbsey;50;One of the Bobbsey Twins of kid lit
 nance;30;Jack Nance of Twin Peaks, or 1930s VP John Nance Garner (common clue, ugh!)
@@ -39220,6 +39246,7 @@ oikos;40;Greek yogurt brand
 oil;50
 oilandgasworker;50
 oilandgasworkers;50
+oilandvinegar;60
 oilbaron;60
 oilbarons;60
 oilcar;40
@@ -40647,6 +40674,8 @@ outleap;40
 outleapt;40
 outletcover;50
 outletcovers;50
+outletmall;60
+outletmalls;60
 outletpass;50
 outletpasses;50
 outlive;50
@@ -41262,6 +41291,9 @@ paraphrase;50
 paraphrased;50
 paraphrases;50
 paraphrasing;50
+paraplegia;40
+paraplegic;40
+paraplegics;40
 parappatherapper;60
 paraprosdokian;60;Figure of speech used in jokes
 paraprosdokians;60
@@ -45594,6 +45626,7 @@ ranatab;50
 ranawaywith;50
 ranbehind;50
 ranchdip;50
+ranchdressing;60
 rancho;40
 ranchos;40
 rancold;50
@@ -58134,6 +58167,7 @@ theironhorse;40
 theirs;30
 theisles;40;Nickname for the New York Islanders?
 theiss;30;Actress Brooke Theiss, not super notable
+theitalianjob;60
 theivyleague;40
 thejackofclubs;40
 thejackofdiamonds;40
@@ -61896,8 +61930,8 @@ urologist;40
 urologists;40
 urology;40
 ursa;40
-ursamajor;50
-ursaminor;50
+ursamajor;60
+ursaminor;60
 ursid;20
 ursids;20
 ursiform;40;Bear-shaped
