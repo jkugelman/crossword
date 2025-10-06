@@ -1653,6 +1653,7 @@ allegement;40
 allelic;30
 allemande;40;Baroque dance
 allemandes;40
+allenadale;50;Robin Hood minstrel
 allenfunt;50
 allentate;40;Poet / realty company
 allergan;40;Maker of Botox
@@ -3385,6 +3386,7 @@ artheist;60
 artheists;60
 arthorror;60
 arthousehorror;60
+arthurdent;60;Protagonist of "The Hitchhiker's Guide to the Galaxy"
 articlevi;40
 articular;40;Relating to a joint
 artie;40;Jazz bandleader Artie Shaw
@@ -4173,6 +4175,8 @@ avengers;60
 avengersendgame;60
 avens;20;Plant of the rose family
 avenses;20
+aventurescence;40;Shimmering effect of aventurine
+aventurine;40;Green quartz
 avenueb;20
 avenuec;20
 avenueq;60
@@ -7848,6 +7852,8 @@ bumasmoke;50
 bumble;50
 bumblingsidekick;60
 bumblingsidekicks;60
+bumboat;40;Small boat used to ferry supplies to ships
+bumboats;40
 bumknee;50
 bumknees;50
 bummedaride;50
@@ -21107,6 +21113,9 @@ galeforcewinds;60
 galen;40
 galena;30;Lead ore
 galenas;20;Lead ores
+galentine;60
+galentines;60
+galentinesday;60;Feb. 13 holiday that celebrates women's friendship, from "Parks and Rec"
 gales;50
 galette;40;French pastry
 galettes;40
@@ -24638,6 +24647,7 @@ hearsays;20
 hearsof;40
 hearsts;30
 heartache;60
+heartbreakhotel;60
 heartbreaking;60
 heartbroken;60
 heartburn;50
@@ -28136,6 +28146,7 @@ irails;40;Train track parts
 irak;20
 irakaplan;30
 iraki;20
+irancontra;60
 irani;20;Iranian is preferred
 iras;40
 irater;30
@@ -28147,6 +28158,7 @@ irecommend;50
 ireful;40
 irelander;30
 ireless;30
+ireneadler;60
 irenee;20
 irenes;30
 irenic;20
@@ -28431,6 +28443,7 @@ istoo;40;Playground retort
 istria;30;Peninsula shared by Croatia, Slovenia, and Italy
 ists;30
 isu;20
+isupposeso;60
 isurecant;60
 isuspect;30
 iswaterwet;60
@@ -28795,6 +28808,7 @@ iwantinonthat;60
 iwantmymoneyback;60
 iwantout;60
 iwanttosee;60;"Move out of the way!"
+iwantuback;20;???
 iwas;40
 iwasbornready;60
 iwascountingonit;60
@@ -38893,6 +38907,8 @@ oceanaut;40
 oceanauts;40
 oceanid;40
 oceanids;40
+oceanliner;60
+oceanliners;60
 oceano;40
 oceanseleven;60
 oceansthirteen;50
@@ -39636,10 +39652,13 @@ onechip;30
 oneclass;0
 onecolor;40
 onedance;0
-onedaypass;50
-onedaypasses;50
-onedaysale;50
-onedaysales;50
+onedayatatime;60
+onedaymore;60
+onedayonly;60
+onedaypass;60
+onedaypasses;60
+onedaysale;60
+onedaysales;60
 onederland;60;Dieter's target
 onedime;30
 onedollar;30
@@ -52311,6 +52330,9 @@ slatheringon;40
 slatheron;40
 slatherson;40
 slatings;20
+slattern;10
+slatternly;10
+slatterns;10
 slaty;30;Dark gray
 slaveaway;40
 slaveawayat;40
@@ -61635,6 +61657,7 @@ unpot;30
 unpractical;40
 unraised;50
 unreason;40
+unrebuked;40
 unrep;30;U.N. rep.
 unreps;30
 unrests;30
@@ -62246,6 +62269,8 @@ vealcutlets;50
 veallawfourchin;0
 vealparm;50
 ved;20
+vedanta;40;School of Hindu philosophy
+vedantic;40
 vee;30
 vees;30
 veet;30;Hair removal cream
@@ -62752,6 +62777,10 @@ vrgames;50
 vrheadset;60
 vrheadsets;60
 vsco;20;Photo editing app
+vscogirl;30
+vscogirls;30
+vscokid;30
+vscokids;30
 vshape;30
 vshaped;30
 vshapes;30
@@ -65409,6 +65438,7 @@ ytd;40
 yttria;30;Rare earth oxide
 ytu;30
 yucca;40;Shrub (not yuca, the food)
+yuchoy;30;Chinese leafy green
 yuk;50
 yukio;30
 yukongold;50
