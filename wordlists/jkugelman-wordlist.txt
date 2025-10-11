@@ -3104,6 +3104,7 @@ areweclear;60
 arewegettingthis;60
 arewelive;60;"Is this thing on?"
 arewenot;20
+arewethebaddies;60
 arewethereyet;60
 areyouamanoramouse;60
 areyouasleep;50
@@ -4539,6 +4540,13 @@ badfat;60
 badfats;60
 badgercub;50
 badgercubs;50
+badgrade;60
+badgrades;60
+badgrammar;60
+badguy;60
+badguys;60
+badhabit;60
+badhabits;60
 badhand;40
 badhands;40
 badimpression;50
@@ -8036,6 +8044,10 @@ busybee;60
 busybees;60
 busybodies;60
 busybody;60
+busyseason;60
+busyseasons;60
+busysignal;60
+busysignals;60
 but;50
 butadiene;30;Chemical
 butanes;40;Plural??
@@ -14051,6 +14063,9 @@ desmoinesia;30
 desmoinesiowa;30
 despacito;60
 despatch;20;Dispatch: Var.
+despatched;20
+despatches;20
+despatching;20
 despina;40;Moon of Neptune
 desree;40;One-named "You Gotta Be" singer (1994)
 dessen;40;YA author Sarah Dessen
@@ -14068,6 +14083,10 @@ destael;30;Madame ___ in the French Revolution, author of "Delphine"
 destijl;30;1917 art movement De Stijl
 destination;50
 destino;30;Verdi opera "La Forza del Destino"
+destress;50
+destressed;50
+destresses;50
+destressing;50
 destro;20;G.I. Joe character
 destry;30;1954 western
 desuetude;40;State of disuse
@@ -17430,6 +17449,7 @@ enplaned;50
 enplanes;50
 enplaning;50
 enravish;30
+enravished;30
 enricos;20;Plural name
 enriquepenanieto;50;President of Mexico 2012-18 Enrique Peña Nieto
 enrol;20;British spelling
@@ -21388,6 +21408,8 @@ gastaps;30
 gastly;50;Pokeyman
 gastro;40
 gastrodiplomacy;60
+gastropub;60
+gastropubs;60
 gaswar;20
 gaswars;20
 gat;40
@@ -22837,6 +22859,8 @@ goodforyouiguess;60
 goodgracious;60
 goodgrief;60
 goodguess;60
+goodguy;60
+goodguys;60
 goodheavens;60
 goodimpression;50
 goodimpressions;50
@@ -24654,6 +24678,7 @@ healthyasahorse;60
 healthyeating;60
 healthyfood;60
 healthyliving;60
+heandshe;40;1967 CBS sitcom
 heapedon;40
 heapingon;40
 heapon;40
@@ -31867,8 +31892,12 @@ lfo;20
 lg;40
 lga;20
 lgbtflag;60
+lgbtflags;60
+lgbticon;60
+lgbticons;60
 lgbtqia;60
 lgbtqiaplus;60
+lgbtrights;60
 lge;20
 lgs;30;Some phones/TVs [rare]
 lhasa;40;Lhasa apso dog
@@ -34393,6 +34422,7 @@ massagetherapist;60
 massagetherapists;60
 massasoit;30;Chief who helped the pilgrims
 masse;40
+masseffect;60
 massemail;50
 massemails;50
 massenet;40;French composer Jules Massenet (1842-1912)
@@ -35297,6 +35327,10 @@ microtone;50
 microtones;50
 microtransaction;60
 microtransactions;60
+micturate;10
+micturated;10
+micturates;10
+micturating;10
 micturation;10;Urination
 mid;50
 midapril;30
@@ -37386,6 +37420,8 @@ neologism;60
 neologisms;60
 neoncarrot;50;Crayon color
 neondeion;60
+neonlight;60
+neonlights;60
 neonoircrimefilm;50
 neonoircrimefilms;50
 neonoirfilm;50
@@ -37582,10 +37618,14 @@ newperspective;50
 newperspectives;50
 newpornographers;60;Indie rock band
 newportri;30
-newrelease;50
-newreleases;50
-newsalert;50
-newsalerts;50
+newrelease;60
+newreleases;60
+newsalert;60
+newsalerts;60
+newsanchor;60
+newsanchors;60
+newsateleven;60
+newsatten;60
 newscrawl;60
 newscrawls;60
 newscycle;60
@@ -43932,6 +43972,12 @@ postitnote;50
 postitnotes;50
 postmastergeneral;50
 postmastersgeneral;50
+postmodernism;60
+postmodernist;60
+postmodernists;60
+postmodernity;50
+postmortem;60
+postmortems;60
 postoffice;50
 poston;40
 postsbond;50
@@ -50016,29 +50062,33 @@ screamingat;40
 screamo;60
 screamsat;40
 scree;40
-screechowl;50
-screechowls;50
+screechowl;60
+screechowls;60
 screenager;30;Teen who likes computers
 screenagers;30
 screendooronasubmarine;60
 screenedfor;40
 screenfor;40
 screeningfor;40
-screenprotector;50
-screenprotectors;50
-screensaver;50
-screensavers;50
-screenscrape;50
-screenscraped;50
-screenscraper;50
-screenscrapers;50
-screenscrapes;50
-screenscraping;50
+screenprotector;60
+screenprotectors;60
+screensaver;60
+screensavers;60
+screenscrape;60
+screenscraped;60
+screenscraper;60
+screenscrapers;60
+screenscrapes;60
+screenscraping;60
 screensfor;40
-screenshot;50
-screenshots;50
-screentest;50
-screentests;50
+screenshare;60
+screenshared;60
+screenshares;60
+screensharing;60
+screenshot;60
+screenshots;60
+screentest;60
+screentests;60
 screes;40
 screw;50
 screwedin;40
@@ -50459,6 +50509,14 @@ seeums;20
 seeup;40
 seewhathappens;60
 seeyouallinhell;60
+seeyouaround;60
+seeyouincourt;60
+seeyouinhell;60
+seeyoulater;60
+seeyoulateralligator;60
+seeyousoon;60
+seeyouthen;60
+seeyouwheniseeyou;60
 sefer;30;Hebrew scroll
 sefers;30
 seg;20
@@ -56396,6 +56454,8 @@ tacoemoji;50
 tacoemojis;50
 tacomas;40;Some Toyotas
 taconic;30;Appalachian sub-range
+taconight;60
+taconights;60
 taconite;20;Iron ore
 tacopie;30
 tacopies;30
@@ -57482,6 +57542,8 @@ tennies;30;Tennis shoes???
 tennish;20
 tennispro;50
 tennispros;50
+tennisshoe;60
+tennisshoes;60
 tenofclubs;50
 tenofdiamonds;50
 tenofhearts;50
@@ -60460,6 +60522,10 @@ trephining;30
 tres;40
 trescool;60
 tresjolie;50
+tresleches;60
+treslechescake;60
+treslechescakes;60
+tresmagnifique;60
 tress;50
 tresse;30
 tressier;30
