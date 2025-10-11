@@ -17362,6 +17362,7 @@ engilds;40
 engine;50
 engineblock;50
 engineblocks;50
+enginery;40;Machinery
 engines;50
 engird;40
 engirded;40
@@ -27154,6 +27155,7 @@ immixing;30
 immixture;30
 immortalities;30
 immotile;30
+immuneto;40
 immuno;40
 immure;30;Incarcerate
 immured;30
@@ -37815,7 +37817,7 @@ nimbi;40
 nimbies;40
 nimbuscloud;50
 nimbusclouds;50
-nimby;40
+nimby;40;Anti-housing movement "not in my backyard"
 nimes;30;French city with Roman ruins
 nimiety;20;Overabundance
 nimoy;40
@@ -45575,6 +45577,8 @@ raita;30;Indian dip
 raitts;30;Plural family name
 raj;40
 raja;40;Indian prince
+rajah;40
+rajahs;40
 rajas;40
 rajiv;20;Indian P.M., son of Indira Gandhi
 rajput;30
@@ -56053,6 +56057,8 @@ swampgas;50
 swamppuppies;60
 swamppuppy;60;Alligator, in Florida
 swanee;40
+swanneries;40
+swannery;40;Swan breeding place
 swanns;30;"Swann's Way", Proust's most famous work, more commonly known as "In Search of Lost Time"
 swanpaddleboats;50
 swansea;40;Birthplace of Dylan Thomas, second largest city in Wales
@@ -65223,6 +65229,7 @@ yieldsto;40
 yieldto;40
 yifan;30;Women's World Chess Champion Hou Yifan
 yikes;50
+yimby;40;Pro-housing movement "yes in my backyard"
 yin;50
 yinz;60;Pittsburg y'all
 yinzer;60
