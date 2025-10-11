@@ -7187,6 +7187,10 @@ bottleshops;50
 bottlesofwine;50
 bottletop;50
 bottletops;50
+bottomdeal;60
+bottomdealer;60
+bottomdealers;60
+bottomdealing;60
 bottomline;60
 bottomquark;50
 bottomquarks;50
@@ -59633,6 +59637,7 @@ toadiesto;40
 toadying;50
 toadyingto;40
 toadyto;40
+toahair;30
 toahalt;30
 toahead;40
 toaman;40
@@ -65219,10 +65224,11 @@ yds;40
 ye;40
 yea;50
 yeabig;60
-yeahbut;50
+yeahbut;60
 yeahdude;60
 yeahigetit;60
 yeahimfine;60
+yeahman;60
 yeahno;60
 yeahnothappening;60
 yeahyeahyeah;50
