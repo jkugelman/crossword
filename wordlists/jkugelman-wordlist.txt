@@ -3741,6 +3741,7 @@ ast;20
 asta;30
 astana;40;Capital of Kazakhstan
 astar;20
+astarisborn;60
 astars;20
 astarte;30;Canaanite goddess of love, sex, war, and hunting
 astatic;30
@@ -19857,6 +19858,8 @@ flashlightbeams;50
 flashmemory;50
 flashplayer;50
 flatabs;50
+flatbroke;60
+flatbusted;60;Flat broke
 flatlet;30
 flatnine;50
 flatoutrefusal;50
@@ -35224,6 +35227,14 @@ metameric;30;Zoology thing
 metamerism;30;Zoology thing
 metat;40
 metaverse;60
+meteorcrater;60
+meteorcraters;60
+meteoricrise;60
+meteoricrises;60
+meteorite;60
+meteoritecrater;60
+meteoritecraters;60
+meteorites;60
 metgala;60
 meth;40
 methamphetamine;50
@@ -41455,6 +41466,10 @@ parle;40
 parliamentaryterm;50
 parliamentaryterms;50
 parma;40;Cheese city
+parmaceties;30
+parmacetties;30
+parmacetty;30;Obsolete spelling of parmacety
+parmacety;30;Old term for sperm whale, or whale wax
 parole;50
 paroles;50
 parotid;20;Gland
@@ -41561,6 +41576,7 @@ passedmuster;50
 passedoffas;40
 passedon;40
 passedthebaton;50
+passedthepopcorn;60
 passedthesmelltest;60
 passedto;40
 passesas;40
@@ -41571,6 +41587,7 @@ passesmuster;50
 passesoffas;40
 passeson;40
 passesthebaton;50
+passesthepopcorn;60
 passesthesmelltest;60
 passesto;40
 passeul;30
@@ -41590,6 +41607,7 @@ passingoffas;40
 passingon;40
 passings;40;Weird plural
 passingthebaton;50
+passingthepopcorn;60
 passingthesmelltest;60
 passingto;40
 passinterference;60;Football penalty
@@ -41603,11 +41621,19 @@ passon;40
 passos;40;???
 passphrase;50
 passphrases;50
-passrush;50
-passrusher;50
-passrushers;50
-passrushing;50
+passprotection;60
+passreceiver;60
+passreceivers;60
+passroute;60
+passroutes;60
+passrush;60
+passrushed;60
+passrusher;60
+passrushers;60
+passrushes;60
+passrushing;60
 passthebaton;50
+passthepopcorn;60
 passthesmelltest;60
 passto;40
 passwordhint;60
@@ -43929,6 +43955,8 @@ portablepa;40
 portablepas;40
 portage;40
 portages;40
+portapotties;60
+portapotty;60
 portered;40
 portering;40
 porthos;40
@@ -51834,6 +51862,7 @@ signapetition;50
 signedapact;50
 signedapetition;50
 signedfor;40
+signedoneslifeaway;60
 signedonto;40
 signedphoto;50
 signedphotos;50
@@ -51842,8 +51871,10 @@ signfor;40
 signingapact;50
 signingapetition;50
 signingfor;40
+signingoneslifeaway;60
 signingonto;40
 signlanguage;50
+signoneslifeaway;60
 signonto;40
 signor;50
 signori;20;Italian gentleman
@@ -51853,6 +51884,7 @@ signory;20;Territory or domain
 signsapact;50
 signsapetition;50
 signsfor;40
+signsoneslifeaway;60
 signsonto;40
 sikes;40;Dickens villain Bill Sikes
 sikkim;30;Least populous Indian state
@@ -53896,6 +53928,7 @@ spendingfreezes;60
 spendinglimit;60
 spendinglimits;60
 spendy;30;Extravagant
+spermaceti;40;Waxy substance from a sperm whale
 spewer;30
 spewers;30
 spex;30;Glasses, informally
@@ -54547,28 +54580,29 @@ starisborn;40
 starkiller;60;Luke Skywalker's original name
 starknaked;60
 starkravingmad;60
+starland;50;???
 starlet;50
 starlets;50
 starlog;50
 starlord;60
 starofstageandscreen;60
 starpose;60;Yoga asana that involves standing with legs apart and arms at shoulder-height to create a star shape
-starpupil;50
-starpupils;50
-starquarterback;50
-starquarterbacks;50
-starringjohncho;20
-starringrole;50
-starringroles;50
+starpupil;60
+starpupils;60
+starquarterback;60
+starquarterbacks;60
+starringjohncho;0
+starringrole;60
+starringroles;60
 starrs;30;Ringo, Bart, Brenda, ugh
 starryeyed;60
 starrynight;60
-starship;50
-starships;50
+starship;60
+starships;60
 starsofstageandscreen;60
-starspangledbanner;50
-starsystem;50
-starsystems;50
+starspangledbanner;60
+starsystem;60
+starsystems;60
 startallover;50
 startat;40
 startatab;50
@@ -58652,15 +58686,15 @@ theson;40;Trinity member
 thesonics;30
 thesopwithcamel;30
 thesox;20
-thespanishsteps;20
+thespanishsteps;40
 thespis;40;Ancient inventor of acting, supposedly
 thesplits;30
 thestage;40
 thestairs;20
 thestand;50
-thestanleycup;20
+thestanleycup;40
 thestar;50;Tarot card
-thestarspangledbanner;50
+thestarspangledbanner;60
 thestate;50
 thesteps;40;???
 thesteroidera;20;Why "the"?
