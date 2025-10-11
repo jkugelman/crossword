@@ -50,8 +50,8 @@ aarpcards;40
 aarpmember;50
 aarpmembers;50
 aas;40;Batteries
-aasponsor;50
-aasponsors;50
+aasponsor;60
+aasponsors;60
 aateam;40
 aateams;40
 aau;20
@@ -180,7 +180,15 @@ abled;50
 abler;40
 ablest;50
 abm;20
+abnegate;40
+abnegated;40
+abnegates;40
+abnegating;40
+abnegation;40
+abnegations;40
 abnegative;50
+abnegator;40
+abnegators;40
 abner;40
 abo;10;NYT: "It's a racial slur for Aboriginal people, and have decided to retire it"
 abomb;30
@@ -3537,6 +3545,8 @@ ashpan;40
 ashpans;40
 ashpit;40;???
 ashraf;30
+ashtoash;60
+ashtoashdusttodust;60
 ashur;20
 asi;20
 asiam;30;"Take me ___" or Alicia Keys album
@@ -9115,6 +9125,7 @@ cassias;40
 cassie;40
 cassinidivision;60
 cassio;40;Victim of Iago in "Othello"
+cassiopeia;60
 cassis;40;Liqueur
 cassoulet;40;French stew
 cassoulets;40
@@ -16147,6 +16158,7 @@ dustman;40;Garbage man: Br.
 dustmen;40
 dustmote;50
 dustmotes;50
+dusttodust;60
 dutchangle;60
 dutchangles;60
 dutchbob;50
@@ -23778,6 +23790,7 @@ gupta;40;Sanjay Gupta
 gurira;40;Actress Danai Gurira from "Black Panther" and "The Walking Dead"
 gurunanak;40;Founder of Sikhism
 gus;50
+gusgrissom;60;CSI lead
 gusherage;50;Gusher age, the Texas oil boom
 gustafv;20
 gustavus;40
@@ -28783,6 +28796,7 @@ itsquiettooquiet;60
 itsquiteastretch;60
 itsreallyinthere;60
 itsselfexplanatory;60
+itsserious;60
 itssimplereally;60
 itssoeasyachildcandoit;60
 itssoeasyachildcoulddoit;60
@@ -31749,6 +31763,8 @@ lesscommonly;50
 lessee;30
 lessees;30
 lesseps;30;Ferdinand de Lesseps, Suez Canal engineer
+lesserape;60
+lesserapes;60
 lessexpensive;50
 lessinteresting;50
 lessof;40
@@ -37074,6 +37090,8 @@ narcson;40
 nard;20
 nardin;20
 nards;20
+narges;40;2023 Nobel Peace Prize laureate Narges Mohammadi
+nargesmohammadi;50;2023 Nobel Peace Prize laureate Narges Mohammadi
 narghile;30;Hookah
 narghiles;30
 narita;40;Tokyo airport
@@ -50647,6 +50665,7 @@ selenides;40
 selenite;30;Gypsum mineral
 selenites;20;Gypsum minerals
 seles;40;Monica Seles
+selfabnegation;50
 selfabsorbed;50
 selfabsorption;50
 selfabuse;40
@@ -61233,20 +61252,22 @@ tvgames;30
 tvidol;40;Green paint?
 tvidols;40
 tvland;50
-tvpilot;60
-tvpilots;60
-tvproducer;60
-tvproducers;60
+tvpilot;50
+tvpilots;50
+tvproducer;50
+tvproducers;50
 tvremote;50
 tvremotes;50
 tvs;50
-tvscreen;50
-tvscreens;50
+tvscreen;60
+tvscreens;60
 tvsignal;50
-tvstation;50
-tvstations;50
-tvstudio;50
+tvstation;60
+tvstations;60
+tvstudio;60
+tvstudios;60
 tvtable;50
+tvtables;50
 tvtag;20
 tvtape;20
 tvtimeout;50
