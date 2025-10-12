@@ -10601,6 +10601,7 @@ cleancars;20
 cleanclothes;50
 cleancoal;60
 cleanedhouse;60
+cleanforgot;60
 cleanhouse;60
 cleaninghouse;60
 cleanlily;30;Weird adverb
@@ -17390,6 +17391,16 @@ enemyalien;0
 enemyfire;50
 enemys;20
 ener;20;Will Shortz won't accept it
+energyboost;60
+energybooster;60
+energyboosters;60
+energyboosts;60
+energycompanies;60
+energycompany;60
+energyefficiency;60
+energyefficient;60
+energylevel;60
+energylevels;60
 energypolicies;50
 energypolicy;50
 energyvampire;60
@@ -26610,6 +26621,7 @@ ickout;40
 icks;40;Disgusts (noun)
 icksout;40
 iclaudius;50
+icleanforgot;60
 iconical;30
 iconquered;40
 icosagon;40
@@ -52986,6 +52998,8 @@ smoothened;40
 smoothens;40
 smoothers;20
 smoothy;30;???
+smorgasbord;60
+smorgasbords;60
 sms;30
 smtwtfs;30
 smu;20
