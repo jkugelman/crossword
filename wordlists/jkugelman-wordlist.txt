@@ -20351,6 +20351,7 @@ foodlion;50
 foodliteracy;60;Ability to make informed and healthy eating choices
 foodmill;50
 foodmills;50
+foodnoise;60
 foodporn;60
 foodprep;60
 foodprocessing;50
@@ -35801,6 +35802,8 @@ mixedfruit;50
 mixedresults;50
 mixedreview;50
 mixedreviews;50
+mixedsignal;60
+mixedsignals;60
 mixedupatbirth;50
 mixedvegetable;50;Mixed-vegetable
 mixedvegetables;50
@@ -51896,6 +51899,17 @@ sightseer;60
 sightseers;60
 sightsees;60
 sightunseen;60
+signalfire;60
+signalfires;60
+signalflare;60
+signalflares;60
+signaljammer;60
+signaljammers;60
+signaltonoise;60
+signaltonoiseratio;60
+signaltonoiseratios;60
+signaltower;60
+signaltowers;60
 signapact;50
 signapetition;50
 signedapact;50
@@ -52928,8 +52942,14 @@ smokerboxes;50
 smokering;50
 smokerings;50
 smokesacigar;50
+smokescreen;60
 smokescreenbomb;60;Acme invention
+smokescreens;60
+smokeshop;60
+smokeshops;60
 smokeshow;60
+smokesignal;60
+smokesignals;60
 smokestack;50
 smokestacks;50
 smokeys;40
@@ -60372,6 +60392,10 @@ trae;40;Four-time NBA All-Star Trae Young
 trafficin;40
 traffickedin;40
 traffickingin;40
+trafficsign;60
+trafficsignal;60
+trafficsignals;60
+trafficsigns;60
 trafficsin;40
 tragacanth;30;Natural gum used as a thickener
 tragical;30
@@ -63689,6 +63713,7 @@ wefies;20;Group selfies
 wegetit;60
 wegetthatalot;60
 wegotitmade;60
+wegovy;60;Weight loss drug
 wehavefoodathome;60
 wei;20
 weibo;40;Chinese social media site
@@ -65791,6 +65816,7 @@ zenyatta;30;Police album "Zenyatta Mondatta"
 zenyattamondatta;40;Police album
 zeolite;30;Detergent mineral
 zeolites;30;Detergent minerals
+zepbound;60;Weight loss drug
 zer;20
 zero;50
 zerocalorie;50
