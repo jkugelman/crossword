@@ -7671,8 +7671,8 @@ brownboobies;50
 brownbooby;50
 browncow;50
 browncows;50
-browndwarf;50
-browndwarfs;50
+browndwarf;60
+browndwarfs;60
 browngravy;50
 browniemix;60
 browniemixes;60
@@ -7937,17 +7937,19 @@ bumsaride;50
 bumsasmoke;50
 bumsrush;50
 bun;50
-bundtcake;50
-bundtcakes;50
-bunnyhill;50;???
-bunnyhills;50
-bunnysuit;50
-bunnysuits;50
+bundtcake;60
+bundtcakes;60
+bunnyhill;60;Bunny slope
+bunnyhills;60
+bunnyslope;60
+bunnyslopes;60
+bunnysuit;60
+bunnysuits;60
 bunsenhoneydew;50;Muppet
 buono;40
 bupkis;60
 bur;20
-burdenofproof;50
+burdenofproof;60
 burgoo;30;Stew
 burgoos;30
 burgundywine;50
@@ -12894,6 +12896,8 @@ curledlip;50
 curlingteam;50
 curlingteams;50
 curlsin;20
+curlyfries;60
+curlyfry;60
 curlyneal;50;Harlem Globetrotter
 currentness;40
 currerbell;60;Charlotte Brontë
@@ -14584,6 +14588,8 @@ dinnerandamovie;50
 dinnerandashow;50
 dinnerbuffet;50
 dinnerbuffets;50
+dinnerdate;60
+dinnerdates;60
 dinnerfortwo;50
 dinneroccasions;50
 dinnerparties;50
@@ -26369,6 +26375,11 @@ hummock;30;Rounded hill
 hummocks;30;Rounded hills
 hummocky;20;Hilly?
 humoral;30;Relating to the four humors
+humpback;60
+humpbacked;60
+humpbacks;60
+humpbackwhale;60
+humpbackwhales;60
 humstrum;50;Musical instrument
 humus;40;Soil organic matter
 humuses;20
@@ -33453,8 +33464,12 @@ lunarrovers;50
 lunaryear;50
 lunaryears;50
 lunate;40;Crescent-shaped, or a wrist bone
+lunchbox;60
+lunchboxes;60
 lunchbreak;50
 lunchbreaks;50
+lunchdate;60
+lunchdates;60
 luncher;40
 lunchers;40
 lunchparties;50
@@ -36933,8 +36948,9 @@ musers;40
 museson;40
 musette;30;Old bagpipe or oboe
 musettes;30
-mushmouth;50
-mushmouths;50
+mushmouth;60
+mushmouthed;60
+mushmouths;60
 mushpot;40;???
 mushroomcloud;60
 mushroomclouds;60
@@ -36942,13 +36958,14 @@ mushroomgravy;50
 musial;40
 musical;50
 musicalcomedies;50
+musicalcomedy;50
 musicale;20
-musicalnumber;50
-musicalnumbers;50
+musicalnumber;60
+musicalnumbers;60
 musicals;50
-musicbiz;50
-musicbox;50
-musicboxes;50
+musicbiz;60
+musicbox;60
+musicboxes;60
 musiccity;50
 musiccollection;50
 musicgroup;50
@@ -46028,6 +46045,7 @@ ranonesmouth;60
 ranonto;40
 ranpoint;60
 ranpointfor;50
+ranragged;60
 ranrampant;50
 ranringsaround;60
 rans;30;Also-rans
@@ -46770,6 +46788,8 @@ reddawn;50
 reddeercalf;50
 reddeercalves;50
 reddiaperbabies;50
+redditama;60
+redditamas;60
 redditor;60
 redditors;60
 reddiwip;60
@@ -49194,6 +49214,7 @@ runningonesmouth;60
 runningonto;40
 runningpoint;60
 runningpointfor;50
+runningragged;60
 runningrampant;50
 runningringsaround;60
 runningscared;60
@@ -49215,6 +49236,7 @@ runonesmouth;60
 runonto;40
 runpoint;60
 runpointfor;50
+runragged;60
 runrampant;50
 runringsaround;60
 runsaclosesecond;50
@@ -49246,6 +49268,7 @@ runsonesmouth;60
 runsonto;40
 runspoint;60
 runspointfor;50
+runsragged;60
 runsrampant;50
 runsringsaround;60
 runsscared;60
@@ -53481,6 +53504,8 @@ sobeit;50
 soberer;30
 sobol;30;Donald Sobol, creator of Encyclopedia Brown
 sobored;50
+sobriquet;60
+sobriquets;60
 sobstories;60
 sobstory;60
 soc;20
