@@ -4171,6 +4171,8 @@ automaticweapon;50
 automaton;50
 automatons;50
 autopia;40;Disneyland car ride
+autopilot;60
+autopilots;60
 autorenew;50
 autorenewal;50
 autorenewed;50
@@ -16160,6 +16162,8 @@ dumbdora;10
 dumbdown;60
 dumbjock;60
 dumbjocks;60
+dumbphone;60
+dumbphones;60
 dumbquestion;60
 dummybag;50
 dummybags;50
@@ -17739,6 +17743,7 @@ ephesian;30
 ephesians;40;New Testament book
 ephesus;30;Ancient Greek city
 ephrata;20
+ephrussi;30;Noble banking family
 ephus;30;Difficult baseball pitch
 epi;40
 epical;30;???
@@ -29514,6 +29519,7 @@ johnturturro;50
 johnv;20
 johnvi;30
 johnx;20
+johnxxii;30
 joie;40;Joie de vivre
 joinedforces;50
 joinforces;50
@@ -29638,6 +29644,8 @@ juggalos;60
 juggernaut;60
 juicebar;50
 juicebars;50
+juicebox;60
+juiceboxes;60
 juicepress;50
 juicepresses;50
 juillet;40;July: Fr.
@@ -29715,6 +29723,7 @@ justaheadsup;60
 justalongfortheride;60
 justapinch;60
 justas;40
+justasec;60
 justasisuspected;60
 justaskosh;60
 justbrowsing;60
@@ -29724,6 +29733,7 @@ justcoolitwouldyou;60
 justdoingmyjob;60
 justdont;60
 justforfunsies;60
+justformen;60
 justgiveittime;60
 justgoestoshow;60
 justicesystem;60
@@ -29736,6 +29746,7 @@ justknew;50
 justknow;50
 justknows;50
 justlikenew;60
+justonesec;60
 justplaying;60
 justsayinghi;60
 justsayno;60
@@ -36790,6 +36801,8 @@ mudguards;50
 mudmask;50
 mudmasks;50
 mudpack;50
+mudpuppies;60
+mudpuppy;60
 mudra;30;Hindu dance gesture
 mudras;20
 mudwrap;50
@@ -36824,6 +36837,7 @@ mulct;20;Extort
 mulcted;20
 mulcting;20
 mulcts;20
+muleheaded;60
 muleta;30;Matador's cape
 muletas;30
 muller;40;???
@@ -38979,6 +38993,7 @@ nutoil;40
 nutoils;40
 nutraceutical;50;Drug that claims physiological benefits
 nutraceuticals;50
+nutrasweet;60
 nutria;30;Rodent
 nutrias;30;Rodents
 nutriment;40
@@ -39881,6 +39896,7 @@ onatoot;20
 onatopp;30;GoldenEye's bond girl Xenia Zaragevna Onatopp
 onatrialbasis;60
 onatrip;40
+onautopilot;60
 onavisa;40
 onavisit;30
 onawire;30
@@ -40392,23 +40408,33 @@ opento;40
 opentoes;30
 openupto;40
 oper;30
-operaaria;30
-operaarias;30
+operaaria;40
+operaarias;40
 operabouffe;50
-operabox;50
-operaboxes;50
-operabuff;50
+operabox;60
+operaboxes;60
+operabuff;60
 operabuffa;50
-operabuffs;50
-operacape;50
-operacapes;50
+operabuffs;60
+operacape;60
+operacapes;60
+operacloak;60
+operacloaks;60
 operacoat;50
 operacoats;50
-operafan;50
-operafans;50
-operahouse;50
-operahouses;50
+operacritic;60
+operacritics;60
+operadiva;60
+operadivas;60
+operafan;40
+operafans;40
+operaglasses;60
+operahouse;60
+operahouses;60
 operaismo;40;Political theory aka workerism
+operalover;60
+operalovers;60
+operaman;60
 operanews;50
 operasbouffes;50
 operasoli;30
@@ -41001,6 +41027,10 @@ outsidethebox;60
 outskirt;50
 outskirts;50
 outskirtsoftown;60
+outsmart;60
+outsmarted;60
+outsmarting;60
+outsmarts;60
 outspoken;50
 outstandingwork;60
 outtalk;30
@@ -49013,6 +49043,12 @@ rubberneckers;60
 rubbersnake;60
 rubbersnakes;60
 rubbersoul;60
+rubberstamp;60
+rubberstamped;60
+rubberstamping;60
+rubberstamps;60
+rubbertree;60
+rubbertrees;60
 rubbished;40;Criticized, British
 rubbishes;40
 rubbishing;40
@@ -49112,6 +49148,9 @@ rundle;30;Ladder rung
 rundles;30;Ladder rungs
 rundown;50
 runed;50
+runescape;60
+runestone;60
+runestones;60
 runfast;20
 runfor;40
 runforit;60
@@ -49159,6 +49198,9 @@ runningupatab;50
 runningupto;40
 runningwithit;50
 runningwithscissors;60
+runnynose;60
+runnynosed;60
+runnynoses;60
 runon;50
 runonempty;50
 runonesmouth;60
@@ -56167,23 +56209,23 @@ supbro;60
 supdude;60
 supe;50;Building super
 superbad;60
-superbowl;50
+superbowl;60
 superbowlbabies;60
-superbowlchamp;50
-superbowlchampion;50
-superbowlchampions;50
-superbowlchamps;50
+superbowlchamp;60
+superbowlchampion;60
+superbowlchampions;60
+superbowlchamps;60
 superbowli;40
 superbowlix;30
-superbowlmvp;50
-superbowlmvps;50
-superbowlparties;50
-superbowlparty;50
-superbowlring;50
-superbowlrings;50
-superbowls;50
-superbowlsunday;50
-superbowlweek;50
+superbowlmvp;60
+superbowlmvps;60
+superbowlparties;60
+superbowlparty;60
+superbowlring;60
+superbowlrings;60
+superbowls;60
+superbowlsunday;60
+superbowlweek;60
 superbowlweekend;60
 superbowlxx;30
 superbowlxxx;30
@@ -56195,12 +56237,12 @@ supercentenarian;60
 supercharger;60
 supercollider;50
 supercolliders;50
-supercomputer;50
-supercomputers;50
-superconducting;50
-superconductivity;50
-superconductor;50
-superconductors;50
+supercomputer;60
+supercomputers;60
+superconducting;60
+superconductivity;60
+superconductor;60
+superconductors;60
 supercontinent;50
 supercontinents;50
 supercool;60
@@ -56208,11 +56250,16 @@ supereasybarelyaninconvenience;60
 superegos;30
 superfood;60
 superfoods;60
+supergirl;60
+superglue;60
+superglued;60
+superglues;60
+supergluing;60
 superhenge;50
 superherofatigue;60
 superintelligence;60
 superintelligent;50
-superintendentchalmers;50
+superintendentchalmers;60
 superiorcourt;50
 superioritycomplex;60
 superkrewe;50
@@ -56229,12 +56276,12 @@ supermariowonder;60
 supermarketsweep;60
 supermarketsweeps;60
 supermax;60
-supermaxprison;50
-supermaxprisons;50
+supermaxprison;60
+supermaxprisons;60
 supermom;50
 supermoms;50
-supermoon;50
-supermoons;50
+supermoon;60
+supermoons;60
 supernintendo;60
 supernintendochalmers;60
 supernintendos;60
@@ -56249,10 +56296,10 @@ supersmashbrosmelee;60
 supersoaker;60
 supersoakers;60
 superspeedvitamins;60;Acme invention
-superspies;50
-superspy;50
-superuser;50
-superusers;50
+superspies;60
+superspy;60
+superuser;60
+superusers;60
 supervolcano;60
 supervolcanoes;60
 superweapon;50;Death Star, e.g.
@@ -61314,6 +61361,7 @@ turndown;50
 turnedback;50
 turnedbackinto;40
 turnedbacktheclock;60
+turnedgreen;60
 turnedheads;60
 turnedinsideout;50
 turnedinto;40
@@ -61334,10 +61382,12 @@ turnedtraitor;50
 turnedtwo;30
 turnedupsidedown;50
 turnery;30
+turngreen;60
 turnheads;60
 turningback;50
 turningbackinto;40
 turningbacktheclock;60
+turninggreen;60
 turningheads;60
 turninginsideout;50
 turninginto;40
@@ -61372,6 +61422,7 @@ turnpro;50
 turnsback;50
 turnsbackinto;40
 turnsbacktheclock;60
+turnsgreen;60
 turnsheads;60
 turnsinsideout;50
 turnsinto;40
@@ -61384,6 +61435,8 @@ turnspale;50
 turnspro;50
 turnssour;50
 turnstail;60
+turnstile;60
+turnstiles;60
 turnsto;40
 turnstodust;60
 turnstogold;50
@@ -61392,6 +61445,8 @@ turnstotheright;50
 turnstraitor;50
 turnstwo;30
 turnsupsidedown;50
+turntable;60
+turntables;60
 turntail;60
 turnthatfrownupsidedown;60
 turnto;40
@@ -62285,6 +62340,8 @@ upsy;30
 upsydaisy;60
 uptake;50
 uptakes;40;Awkward plural
+upthecreek;60
+upthecreekwithoutapaddle;60
 uptop;60
 uptospeed;50
 upvote;50
@@ -64831,6 +64888,7 @@ withindrivingdistance;50
 withinwalkingdistance;50
 withlegs;30;Having staying power
 withoutanet;50
+withoutapaddle;60
 withoutascratch;50
 withoutasound;50
 withoutwarning;50
