@@ -46031,6 +46031,7 @@ ranpointfor;50
 ranrampant;50
 ranringsaround;60
 rans;30;Also-rans
+ranscared;60
 ranshort;50
 ranshorton;40
 ransmackdabinto;50
@@ -49195,6 +49196,7 @@ runningpoint;60
 runningpointfor;50
 runningrampant;50
 runningringsaround;60
+runningscared;60
 runningshort;50
 runningshorton;40
 runningsmackdabinto;50
@@ -49224,6 +49226,7 @@ runsatab;50
 runsawaywith;40
 runsbehind;50
 runsby;40
+runscared;60
 runscold;50
 runsfast;20
 runsfor;40
@@ -49245,6 +49248,7 @@ runspoint;60
 runspointfor;50
 runsrampant;50
 runsringsaround;60
+runsscared;60
 runsshort;50
 runsshorton;40
 runssmackdabinto;50
