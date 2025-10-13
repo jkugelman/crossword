@@ -21077,22 +21077,22 @@ fudgy;30
 fuego;40
 fuelcap;50
 fuelcaps;50
-fuelcell;50
-fuelcells;50
+fuelcell;60
+fuelcells;60
 fuelconsumption;50
-fuelefficiency;50
-fuelefficiencystandard;50
-fuelefficiencystandards;50
+fuelefficiency;60
+fuelefficiencystandard;60
+fuelefficiencystandards;60
 fueloil;40
 fueloils;40
-fuelrod;50
-fuelrods;50
-fueltank;50
-fueltanker;50
-fueltankers;50
-fueltanks;50
-fueltruck;50
-fueltrucks;50
+fuelrod;60
+fuelrods;60
+fueltank;60
+fueltanker;60
+fueltankers;60
+fueltanks;60
+fueltruck;60
+fueltrucks;60
 fug;20
 fugacity;40;Literary quality of being fleeting or evanescent
 fugu;50;Poisonous pufferfish
@@ -21102,21 +21102,23 @@ ful;20
 fula;20;African ethnic group
 fulani;20;West African muslims
 fullamnesty;50
-fullbirdcolonel;50
-fullbirdcolonels;50
+fullbirdcolonel;60
+fullbirdcolonels;60
 fullbodywax;60
 fullbodywaxes;60
 fullcirclemoment;60
 fullcirclemoments;60
 fulldetails;50
 fulldiva;60
-fulldressuniform;50
-fulldressuniforms;50
-fullforce;50
-fullgainer;50
+fulldressuniform;60
+fulldressuniforms;60
+fullforce;60
+fullgainer;60
+fullgainers;60
 fullhouse;60
-fullmarathon;50
-fullmarathons;50
+fullhouses;60
+fullmarathon;60
+fullmarathons;60
 fullofshit;10
 fullsend;60
 fullspectrum;50
@@ -21126,7 +21128,7 @@ fullstory;50
 fulltext;50
 fullversion;50
 fullyequipped;50
-fullyfunctional;50
+fullyfunctional;60
 fullyvaxxed;60
 fulness;20
 fum;40
@@ -21137,13 +21139,14 @@ fumblingaround;50
 fumitory;40;Poppy flower known as "earth smoke"
 fun;50
 fundamentalisms;40
-fundmanager;50
-fundmanagers;50
-fundraise;50
-fundraiser;50
-fundraisers;50
-fundraising;50
-fundraisingdrive;50
+fundmanager;60
+fundmanagers;60
+fundraise;60
+fundraiser;60
+fundraisers;60
+fundraising;60
+fundraisingdrive;60
+fundraisingdrives;60
 funfetti;60
 fungaria;50
 fungarium;50;Fungus collection
@@ -24162,10 +24165,10 @@ halfassing;60
 halfdollar;50
 halfempty;50
 halffull;50
-halfgainer;50
-halfgainers;50
-halfmarathon;50
-halfmarathons;50
+halfgainer;60
+halfgainers;60
+halfmarathon;60
+halfmarathons;60
 halfof;30
 halfpint;50
 halfpints;50
@@ -27843,6 +27846,7 @@ informson;40
 infra;40
 infraredspectrum;50
 infreefall;60
+infullforce;60
 ing;40
 inga;30;Swenson of "Benson"
 inge;40;Playwright William Inge
@@ -45278,6 +45282,7 @@ pursestrings;60
 push;50
 pushday;50
 pushdays;50
+pushful;40;Self-assertive, pushy
 pushmower;50
 pushmowers;50
 pushnotification;60
