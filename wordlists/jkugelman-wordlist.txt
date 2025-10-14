@@ -3264,7 +3264,8 @@ armsdepot;50
 armsdepots;50
 armsleeve;60
 armsleeves;60
-armsrace;50
+armsrace;60
+armsraces;60
 armssale;40
 armssales;40
 armyant;50
@@ -3878,6 +3879,7 @@ ateless;40
 atelier;40;Art workshop
 ateliers;40
 atelikeananimal;60
+atelocal;60
 atelunch;30
 ateof;40
 ateoneshat;60
@@ -16497,6 +16499,7 @@ eatinginto;40
 eatingitup;50
 eatingkosher;50
 eatinglikeananimal;60
+eatinglocal;60
 eatinglunch;30
 eatingoneshat;60
 eatingoneswords;60
@@ -16509,6 +16512,7 @@ eatitup;50
 eatkosher;50
 eatless;40
 eatlikeananimal;60
+eatlocal;60
 eatlunch;30
 eatof;40
 eatoneshat;60
@@ -16531,6 +16535,7 @@ eatsitup;50
 eatskosher;50
 eatslate;30
 eatslikeananimal;60
+eatslocal;60
 eatslunch;30
 eatsof;40
 eatsoneshat;60
@@ -54394,6 +54399,7 @@ splenitis;40
 spline;40
 splined;40
 splines;40
+splitacab;60
 splitdecision;50
 splitdecisions;50
 splitinfinitive;50
@@ -54402,12 +54408,14 @@ splitpersonalities;60
 splitpersonality;60
 splitrun;40
 splitruns;40
+splitsacab;60
 splitsecond;50
 splitseconds;50
 splitsthecheck;50
 splitter;50
 splitters;50
 splitthecheck;50
+splittingacab;60
 splittingthecheck;50
 splodge;40;Blob: British
 splodged;40
@@ -54423,6 +54431,7 @@ spoilertags;60
 spokeillof;50
 spokeof;40
 spokeon;40
+spokescow;60
 spoketo;40
 spoliation;30;Spoilment, destruction
 spoliator;30
