@@ -2128,6 +2128,8 @@ amilne;0
 amimakingthatup;60
 amin;10
 amines;20;Chemicals
+aminoacid;60
+aminoacids;60
 aminor;40
 aminos;40
 aminus;40
@@ -3557,6 +3559,7 @@ asiamap;20
 asiana;40;South Korean airline
 asianf;60
 asianfs;60
+asifoncue;60
 asimmer;30
 asimov;50
 asimovian;50
@@ -26804,10 +26807,12 @@ ididwhatihadtodo;60
 idie;20;Romeo's last words
 idina;40;Idina Menzel
 iding;50
-idiolect;50
-idiolects;50
-idiotlight;50
-idiotlights;50
+idioglossia;60;Private language unintelligible to outsiders, often with twins
+idiolect;60;Individual's unique use of language
+idiolectal;50
+idiolects;60
+idiotlight;60;Dashboard warning light
+idiotlights;60
 iditarod;60
 iditarods;60
 iditarodtrail;60
@@ -40545,6 +40550,7 @@ oralism;30
 oraltest;50
 oraltests;50
 orang;40;"Rue Morgue" murderer
+orangechicken;60
 orangecounty;60
 orangecuracao;60
 orangeglaze;50
@@ -62634,6 +62640,8 @@ ustour;40;What musicians embark on
 ustours;40
 ustreasury;40
 usufruct;30;Legal term
+usufructs;30
+usufructuary;30
 usvet;40;Green paint? Veteran's Day honoree
 usvets;40;Green paint? Veteran's Day honorees
 usvisa;40
