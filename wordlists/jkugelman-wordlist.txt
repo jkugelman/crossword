@@ -54216,8 +54216,8 @@ sparest;50
 sparestherod;60
 sparetherod;60
 sparetime;50
-sparetire;50
-sparetires;50
+sparetire;60
+sparetires;60
 sparetyres;20
 spareus;60
 sparge;30;Moisten grains in beer brewing
@@ -54489,6 +54489,10 @@ spitballs;60
 spititout;60
 spititoutalready;60
 spitsat;40
+spitshine;60
+spitshined;60
+spitshines;60
+spitshining;60
 spittingat;40
 spittoon;60
 spittoons;60
