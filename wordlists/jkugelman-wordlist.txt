@@ -12244,6 +12244,8 @@ cpl;40
 cplus;40
 cpo;20
 cpr;40
+cprclass;60
+cprclasses;60
 cprtrainer;50
 cprtrainers;50
 cpu;40
@@ -30421,6 +30423,7 @@ kissingupto;50
 kissme;50
 kissmedeadly;60
 kissmygrits;60
+kissofthespiderwoman;60
 kissupto;50
 kissy;50
 kit;50
@@ -40416,6 +40419,8 @@ opdocs;30
 ope;40;Oops!
 opec;40
 opedpage;50
+opedpiece;60
+opedpieces;60
 opel;30;European auto brand [common]
 opels;30
 openai;60
@@ -40555,6 +40560,8 @@ opinionate;40
 opium;50
 opiumden;50
 opiumdens;50
+opiumpipe;60
+opiumpipes;60
 opiums;40;Doubtful plural
 oporto;30;Portuguese wine city [occasional]
 opp;20
@@ -54223,6 +54230,7 @@ sparkier;40
 sparkiest;40
 sparkingjoy;60
 sparkjoy;60
+sparknotes;60
 sparkplug;50
 sparkplugs;50
 sparksfly;60
@@ -54294,6 +54302,12 @@ speechtotext;60
 speedbag;50
 speedbags;50
 speedby;40
+speedcube;60
+speedcubed;60
+speedcuber;60
+speedcubers;60
+speedcubes;60
+speedcubing;60
 speeddate;60
 speeddated;60
 speeddates;60
@@ -54373,9 +54387,9 @@ spiculate;30
 spicule;30;Needle, biologically
 spicules;30
 spicymayo;60
-spicysausage;50
-spicytunaroll;50
-spicytunarolls;50
+spicysausage;60
+spicytunaroll;60
+spicytunarolls;60
 spiderbite;60
 spiderbites;60
 spidercrab;50
@@ -54384,12 +54398,14 @@ spidergwen;60
 spiderling;50
 spiderlings;50
 spiderman;60
-spidersilk;50
+spidersilk;60
 spiderwasp;50
 spiderwasps;50
-spiderweb;50
-spiderwebs;50
+spiderweb;60
+spiderwebs;60
+spiderwoman;60
 spidey;50
+spideysense;60
 spiedon;40
 spies;50
 spieson;40
@@ -65510,6 +65526,8 @@ xouts;30
 xox;20
 xoxo;40
 xp;40
+xparticle;40;???
+xparticles;40;???
 xprize;60
 xrated;60
 xratedfilm;60
