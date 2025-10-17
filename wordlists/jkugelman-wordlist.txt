@@ -19434,6 +19434,7 @@ fencepost;50
 fenceposts;50
 fendibag;60;High end purse
 fendibags;60
+fendrix;40;"Poor Things" movie composer Jerskin Fendrix
 fenestra;30;Biological opening
 fenetre;20;Maison window (???)
 feng;40;Feng shui
@@ -27361,7 +27362,7 @@ imhonored;60
 imhuntingwabbit;60
 imightjustdothat;60
 iminbigtrouble;60
-imind;50
+imind;60
 iming;40
 iminnocent;50
 iminnomood;60
@@ -29439,6 +29440,8 @@ jerrybrown;50
 jerrywest;50
 jerseyboys;50
 jerseycity;50
+jerskin;40;"Poor Things" movie composer Jerskin Fendrix
+jerskinfendrix;50;"Poor Things" movie composer Jerskin Fendrix
 jessejames;50
 jessel;30;Actor George
 jesseowens;50
@@ -31740,11 +31743,13 @@ leftistelement;60
 leftistelements;60
 leftjustified;50
 leftjustify;50
-leftlanes;30
+leftlane;60
+leftlanes;60
 lefton;40
 leftonread;60
 leftover;50
 leftovers;50
+leftright;50
 leftto;40
 leftturnatalbuquerque;60
 leftwinggroup;50
@@ -55735,7 +55740,7 @@ stpeter;50
 stpiusi;20
 stpiusv;20
 stpy;20
-str;20
+str;30
 strabismus;40;Crossed eyes
 strabo;30;Greek philosopher
 strad;40
@@ -55959,6 +55964,7 @@ stroopwafel;50
 stroopwafels;50
 strophe;40
 strophes;40
+strs;30
 strugglebus;60
 struma;20;Disease, river, ship
 strumae;20
