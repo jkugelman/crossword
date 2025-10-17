@@ -46120,7 +46120,7 @@ randr;30
 rands;20;Plural name, not currency
 ranfast;30
 ranfor;40
-ranforit;40
+ranforit;60
 rangabell;60
 rangameon;60
 rangaround;40;Called around
@@ -49322,7 +49322,7 @@ runningbehind;50
 runningcold;50
 runningfast;30
 runningfor;40
-runningforit;50
+runningforit;60
 runninggameon;60
 runninginto;40
 runningitby;40
@@ -49373,7 +49373,7 @@ runscared;60
 runscold;50
 runsfast;20
 runsfor;40
-runsforit;50
+runsforit;60
 runsgameon;60
 runshort;50
 runshorton;40
