@@ -4,7 +4,7 @@ from collections import defaultdict
 import os
 import re
 
-def load_words(min_score=0, bonuses=False):
+def load_words(min_score=1, bonuses=False):
     """
     Loads STWL + XWI + Broda +  `jkugelman-wordlist.txt`. If `bonuses` is `True`, also gives
     extra points to entries from `jkugelman-clues.txt`.
