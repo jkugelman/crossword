@@ -3916,6 +3916,7 @@ athread;20;Twitter convention for indicating a thread
 athwart;40;Contrary to, or across
 ati;20
 atidein;0;???
+atier;50
 atilt;40
 atimetodie;40;Forgettable 1982 Rex Harrison movie
 atimetoremember;50
@@ -7758,6 +7759,7 @@ bstars;20
 bteam;50
 bteams;40
 btes;20
+btier;50
 btry;20
 bts;40
 btsarmy;60
@@ -12787,6 +12789,7 @@ cta;20
 cteam;50
 cteams;40
 cthulhu;60
+ctier;50
 ctn;20
 cto;40
 ctr;30;Center, contractor
@@ -16089,6 +16092,7 @@ dso;20
 dsouza;30;Dinesh D'Souza, right-wing conspiracy theorist
 dst;40
 dsw;30;Used in USAT/LAT, but not NYT
+dtier;50
 dtrain;40
 dts;20
 dua;50
@@ -18244,6 +18248,7 @@ ethoses;30
 ethylene;40
 etic;20
 etienne;30
+etier;50
 etihad;30;UAE airline
 etile;20;Scrabble 1-pointer
 etiles;20
@@ -21086,6 +21091,7 @@ ftc;40
 ftd;20
 ftdodge;30;Unremarkable Iowa town
 fthat;40
+ftier;50
 ftknox;50
 ftord;20
 ftp;20
@@ -24512,6 +24518,8 @@ harrierjets;50
 harrierjumpjet;50
 harrierjumpjets;50
 harriman;30;Old politician W. Averell Harriman
+harrisburgpa;40
+harrisonford;60
 harrymack;60;Freestyle rapper
 harryo;30;Harry O, ABC detective series 1974-76
 harrypotterandthesorcerersstone;10
@@ -55501,6 +55509,7 @@ stickysubjects;50
 stides;40;St. Ides malt liquor
 stied;40
 stieg;40;Stieg Larsson, author of "The Girl with the Dragon Tattoo"
+stier;60;Excellent
 stiers;40;David Ogden Stiers of M*A*S*H
 stiffarm;50
 stiffarmed;50
@@ -59748,7 +59757,7 @@ tiercel;20;Male hawk
 tiercels;20;Male hawks
 tierces;20;Fencing positions
 tieri;30
-tierlist;60;Ranking
+tierlist;60
 tierlists;60
 tierney;30;Gene Tierney of "Laura" (1944), or Scottish footballer Kieran Tierney
 tiertwo;30
