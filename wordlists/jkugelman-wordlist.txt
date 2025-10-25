@@ -37683,16 +37683,22 @@ nbd;40;Texter's "It's fine"
 nbs;20
 nbw;20
 ncaa;50
-ncaabracket;50
-ncaabrackets;50
-ncaafinal;50
-ncaafinals;50
-ncaafootball;50
-ncaatitle;50
-ncaatitlegame;50
-ncaatitlegames;50
-ncaatitles;50
-ncaatournaments;50
+ncaabasketball;60
+ncaabracket;60
+ncaabrackets;60
+ncaafinal;60
+ncaafinals;60
+ncaafootball;60
+ncaagame;60
+ncaagames;60
+ncaateam;60
+ncaateams;60
+ncaatitle;60
+ncaatitlegame;60
+ncaatitlegames;60
+ncaatitles;60
+ncaatournament;60
+ncaatournaments;60
 ncc;20
 ncis;40
 ncisla;40
@@ -38763,6 +38769,7 @@ noremorse;60
 norespect;50
 norest;40
 norfolkva;30
+norgay;40;Edmund Hillary's sherpa, first to summit Everest
 norhymeorreason;60
 norightonred;60
 norightturnonred;60
@@ -51798,6 +51805,7 @@ shammy;30
 shamram;0
 shamrock;60
 shamu;40
+shanahan;40;49ers coach Kyle Shanahan
 shangrila;60
 shanksmare;40;One's own legs, slangily
 shankspony;40;One's own legs, slangily
@@ -52603,6 +52611,7 @@ simplefraction;50
 simplefractions;50
 simplefracture;50
 simplefractures;50
+simples;30;Commoners, simpletons, medicinal plant
 simplyput;60
 simps;10
 simu;30;Actor Liu of "Shang-Chi and the Legend of the Ten Rings"
@@ -58303,6 +58312,8 @@ tentwo;20
 tenurable;30
 tenuta;30
 tenyards;30
+tenzing;40
+tenzingnorgay;60;Edmund Hillary's sherpa, first to summit Everest
 teo;20
 tep;20
 tequilaslammer;60
@@ -58544,6 +58555,7 @@ thatissonotokay;60
 thatistosay;60
 thatjusthappened;60
 thatjustmightwork;60
+thatlldo;60
 thatllneverwork;60
 thatone;40
 thatsabigif;60
@@ -65840,7 +65852,7 @@ yadayadayada;60
 yadontsay;60
 yadvashem;40;Israeli Holocaust memorial
 yagotme;60
-yah;50
+yah;40
 yahoo;50
 yahoogames;50
 yahoos;50
