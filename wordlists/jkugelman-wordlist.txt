@@ -3852,8 +3852,10 @@ ata;20
 atabout;30
 atacama;40;Chilean desert
 atacost;40
+atacrossroads;60
 atad;50
 ataddry;20;Green paint
+atadeadend;60
 atadeadrun;50
 atadesk;20
 atadoff;20
@@ -9012,6 +9014,7 @@ carmenelectra;50
 carnap;30
 carnauba;40;???
 carnaubawax;50
+carnes;40;???
 carnie;50
 carnies;50
 carniewilson;50
@@ -12275,6 +12278,7 @@ cpi;20
 cpl;40
 cplus;40
 cpo;20
+cposharkey;40;Don Rickles sitcom 1976-78
 cpr;40
 cprclass;60
 cprclasses;60
@@ -13550,12 +13554,25 @@ deadarm;40;???
 deadarms;40;???
 deadasadoornail;60
 deadass;60
+deadball;60
+deadballera;60
+deadballs;60
+deadbatteries;60
+deadbattery;60
+deadbeat;60
+deadbeats;60
 deadbodies;50
 deadbody;50
 deadcalm;50
 deadcenter;50
-deadend;50
-deadends;50
+deadend;60
+deadended;60
+deadending;60
+deadendjob;60
+deadendjobs;60
+deadends;60
+deadendstreet;60
+deadendstreets;60
 deader;50
 deadest;50
 deadeye;50
@@ -30011,6 +30028,7 @@ karlie;30;Model Kloss, host of "Project Runway"
 karlstad;40;Swedish city, don't know if notable didn't check
 karlthefog;60
 karmapolice;60
+karmas;30;Weird plural
 karo;30;Corn syrup brand + other meanings
 karol;40
 karolyi;30;Nadia Comaneci's coach
@@ -34580,6 +34598,7 @@ margate;40;???
 margechampion;30
 margent;30;Architectural ornament
 margents;30
+marges;30;Plural name
 margined;40
 margo;40;Various, no one super notable
 mariachi;60
@@ -39212,6 +39231,8 @@ nyer;30
 nyet;40
 nyets;40
 nyg;40;Scoreboard
+nygiant;60
+nygiants;60
 nyk;20
 nylund;30;Never-used last name
 nym;20
@@ -50153,9 +50174,9 @@ satidle;50
 satidlyby;60
 satinet;30
 satinfor;40
-satinjudgement;50
-satinjudgment;50
-satinon;50
+satinjudgement;60
+satinjudgment;60
+satinon;40
 satins;40;Bad plural
 satintraffic;50
 satire;50
@@ -52674,9 +52695,9 @@ sitidle;50
 sitidlyby;60
 sitin;40
 sitinfor;40
-sitinjudgement;50
-sitinjudgment;50
-sitinon;50
+sitinjudgement;60
+sitinjudgment;60
+sitinon;40
 sitintraffic;50
 sitit;20
 sitka;40
@@ -52691,9 +52712,9 @@ sitsidle;50
 sitsidlyby;60
 sitsin;40
 sitsinfor;40
-sitsinjudgement;50
-sitsinjudgment;50
-sitsinon;50
+sitsinjudgement;60
+sitsinjudgment;60
+sitsinon;40
 sitsintraffic;50
 sitski;50
 sitskied;50
@@ -52712,9 +52733,9 @@ sittingidle;50
 sittingidlyby;60
 sittingin;40
 sittinginfor;40
-sittinginjudgement;50
-sittinginjudgment;50
-sittinginon;50
+sittinginjudgement;60
+sittinginjudgment;60
+sittinginon;40
 sittingintraffic;50
 sittingnear;40
 sittingon;40
@@ -57606,6 +57627,7 @@ tarses;20;ABC president Jamie ___
 tarsi;30;Ankle bones
 tarsier;20;Primate
 tarsiers;20
+tarsus;40
 tartannoir;60;Scottish noir
 tarter;50
 tartest;50
@@ -62563,6 +62585,7 @@ upa;20
 upagainstit;60
 upandcoming;60
 upandtotheright;60;Business mantra
+upandunder;50
 upanishad;30
 upanishads;30;Hindu texts
 upart;30;Type of wig
