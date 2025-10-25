@@ -2305,6 +2305,7 @@ anattemptwasmade;60
 anatural;40
 anbesol;30;Pain relief brand
 anc;30;Mandela's org.
+ancestorworship;60
 anchochile;50
 anchochiles;50
 anchopepper;50
@@ -5087,18 +5088,19 @@ baryonnumbers;50
 baryshnikov;50
 bas;40
 basalbody;30
-baseballcap;50
-baseballcaps;50
-baseballhat;50
-baseballhats;50
-baseballplayers;50
-baseballpurist;50
-baseballpurists;50
+baseballcap;60
+baseballcaps;60
+baseballhat;60
+baseballhats;60
+baseballplayer;60
+baseballplayers;60
+baseballpurist;60
+baseballpurists;60
 baseballteam;60
 baseballteams;60
 baseballtonight;50
-baseballuniform;50
-baseballuniforms;50
+baseballuniform;60
+baseballuniforms;60
 basecoach;60
 basecoaches;60
 basedon;40
@@ -7863,6 +7865,8 @@ buggedoff;50
 buggedout;60
 bugging;50
 buggingout;60
+buggyride;60
+buggyrides;60
 buggywhip;50
 buggywhips;50
 buginarug;60
@@ -7921,6 +7925,8 @@ bulletbra;60
 bulletbras;60
 bullgun;50
 bullguns;50
+bullheaded;60
+bullheadedness;60
 bullhockey;60
 bulling;40
 bullnose;50
@@ -12892,8 +12898,8 @@ cukor;40;George Cukor, director of "My Fair Lady", "The Philadelphia Story", "A 
 cul;40
 culets;20
 culp;30;Robert Culp of "I Spy"
-culthero;50
-cultheroes;50
+culthero;60
+cultheroes;60
 culthit;50
 culthits;50
 culturalicon;50
@@ -14798,9 +14804,12 @@ dismasting;40
 dismasts;40
 disneyadult;60
 disneyadults;60
+disneyland;60
+disneylandparis;60
 disneyonice;50
 disneypark;60
 disneyparks;60
+disneyworld;60
 dispensedwith;40
 dispenseswith;40
 dispensewith;40
@@ -18370,6 +18379,7 @@ eureka;60
 eurekaca;30
 euripides;50
 euroarea;50
+eurodisney;60;Original name of Disneyland Paris
 eurodollar;40;???
 eurodollars;40
 eurogame;60;Board game with indirect player interaction and a focus on abstract strategy, such as Carcassone or Ticket to Ride
@@ -19096,6 +19106,7 @@ farers;40
 farfaraway;50
 farfetchedstory;30
 farfromit;50
+fargond;40;Fargo, N.D.
 farha;30;Sammy Farha???
 farina;40
 farinas;20
@@ -23212,6 +23223,8 @@ goren;40;Bridge writer Charles Goren
 gorgedon;40
 gorgeon;40
 gorgeson;40
+gorget;20
+gorgets;20
 gorgingon;40
 gorillaz;60
 goriot;30;Balzac novel Le Père Goriot
@@ -25299,6 +25312,8 @@ hernancortes;50
 hernancortez;50
 herocop;50
 herocops;50
+herocult;60
+herocults;60
 herodi;40
 heroicage;50
 heroical;30
@@ -31266,6 +31281,10 @@ lase;50
 lased;50
 laserbeam;60
 laserbeams;60
+lasercannon;60
+lasercannons;60
+lasercannonturret;60;Death Star weapon
+lasercannonturrets;60
 lasercut;60
 lasercuts;60
 lasercutter;60
@@ -33615,20 +33634,39 @@ lumpur;40;Kuala Lumpur
 lun;20
 luna;40
 lunacies;50
-lunarday;50
-lunardays;50
-lunardust;50
-lunareclipse;50
-lunareclipses;50
-lunarmonth;50
-lunarmonths;50
-lunarorbit;50
-lunarrock;50
-lunarrocks;50
-lunarrover;50
-lunarrovers;50
-lunaryear;50
-lunaryears;50
+lunarcalendar;60
+lunarcalendars;60
+lunarcrater;60
+lunarcraters;60
+lunarcycle;60
+lunarcycles;60
+lunarday;60
+lunardays;60
+lunardust;60
+lunareclipse;60
+lunareclipses;60
+lunargateway;60
+lunarlander;60
+lunarlanders;60
+lunarlanding;60
+lunarmap;60
+lunarmodule;60
+lunarmodules;60
+lunarmonth;60
+lunarmonths;60
+lunarnewyear;60
+lunarorbit;60
+lunarorbits;60
+lunarphase;60
+lunarphases;60
+lunarprobe;60
+lunarprobes;60
+lunarrock;60
+lunarrocks;60
+lunarrover;60
+lunarrovers;60
+lunaryear;60
+lunaryears;60
 lunate;40;Crescent-shaped, or a wrist bone
 lunchbox;60
 lunchboxes;60
@@ -46275,6 +46313,7 @@ ranters;40
 ranting;50
 rantingat;40
 ranto;40
+rantoseed;60
 rants;50
 rantsat;40
 ranupatab;50
@@ -49321,12 +49360,14 @@ ruer;20
 ruers;20
 ruffianly;30
 rug;50
-rugbymatch;50
-rugbymatches;50
-rugbyplayer;50
-rugbyplayers;50
-rugbyshirt;50
-rugbyshirts;50
+rugbygame;60
+rugbygames;60
+rugbymatch;60
+rugbymatches;60
+rugbyplayer;60
+rugbyplayers;60
+rugbyshirt;60
+rugbyshirts;60
 rugbyteam;60
 rugbyteams;60
 ruggeder;30
@@ -49444,6 +49485,7 @@ runningshorton;40
 runningsmackdabinto;50
 runningsmackinto;50
 runningto;40
+runningtoseed;60
 runningupatab;50
 runningupto;40
 runningwithit;50
@@ -49498,12 +49540,14 @@ runsshorton;40
 runssmackdabinto;50
 runssmackinto;50
 runsto;40
+runstoseed;60
 runsupatab;50
 runsupto;40
 runswithit;50
 runtimeerror;30
 runtimeerrors;30
 runto;40
+runtoseed;60
 runtoyou;50;Whitney Houston or Bryan Adams song
 runupatab;50
 runupto;40
@@ -61678,6 +61722,8 @@ turaco;30;African bird
 turacos;30;African birds
 turbit;30;Breed of pigeon
 turbits;30
+turbolaser;60;Death Star turret
+turbolasers;60
 turbot;30;Fish
 turbotax;60
 turbots;30
