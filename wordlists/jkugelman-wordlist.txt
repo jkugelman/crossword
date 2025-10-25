@@ -2875,7 +2875,20 @@ applause;50
 applausemeter;60
 applausemeters;60
 applebetty;50
+applebrownbetty;60
+applebutter;60
 applecida;20
+applecider;60
+appleciderdonut;60
+appleciderdonuts;60
+appleciders;60
+applecidervinegar;60
+applecidervinegars;60
+applecinnamon;60
+applecobbler;60
+applecobblers;60
+applecomputer;60
+applecomputers;60
 applecrate;60
 applecrates;60
 appleinc;50
@@ -3236,6 +3249,10 @@ armanisuits;60
 armbar;50
 armchairathlete;60
 armchairathletes;60
+armcurl;60
+armcurls;60
+armday;60
+armdays;60
 arme;20
 armer;30
 armers;30
@@ -11754,6 +11771,7 @@ cooers;40
 coogler;40;Director Ryan Coogler
 cookedupascheme;60
 cookedupastorm;60
+cookiebutter;60
 cookingupascheme;60
 cookingupastorm;60
 cookingwine;50
@@ -22896,6 +22914,7 @@ gol;40
 golan;40;Golan Heights in Israel
 golconda;40
 golcondas;40
+golda;40
 golddigger;60
 golddiggers;60
 golddoubloon;60
@@ -23897,6 +23916,7 @@ guitarriffs;60
 gujarat;30;Indian state
 gulab;30;Indian dessert
 gulabjamun;30
+gulager;30;Actor Clu Gulager
 gulfofamerica;60
 gulfstate;50
 gulfstates;50
@@ -24301,6 +24321,10 @@ hammock;30;Rounded hill
 hammocks;30;Rounded hills
 hamradio;50
 hamsterpup;50
+hamstringcurl;60
+hamstringcurls;60
+hamstringinjuries;50
+hamstringinjury;50
 han;50
 hana;30;Hana Mandlíková, 1980s tennis champion
 hanauma;40;Hanauma Bay, Hawaii
@@ -40534,6 +40558,8 @@ openletter;60
 openletters;60
 openlygay;60
 openlytrans;60
+openmarket;60
+openmarkets;50
 openmarriage;60
 openmarriages;60
 openmic;60
@@ -49905,7 +49931,8 @@ sammich;60
 sammiches;60
 sammuramat;30;Neo-Assyrian queen
 samoset;40;First Indian to visit the Pilgrims
-sampan;30;Asian boat
+sampan;40;Asian boat
+sampans;40
 sampleplatter;50
 sampleplatters;50
 samplingbias;60
@@ -54268,10 +54295,10 @@ spalady;40;???
 spalko;30;"Indiana Jones and the Crystal Skull" villain
 spamemail;50
 spamemails;50
-spamfilter;50
-spamfilters;50
-spamfolder;50
-spamfolders;50
+spamfilter;60
+spamfilters;60
+spamfolder;60
+spamfolders;60
 spamtrap;60
 spamtraps;60
 spanair;40;Former Spanish airline
@@ -54576,6 +54603,8 @@ spitshining;60
 spittingat;40
 spittoon;60
 spittoons;60
+spitvalve;60
+spitvalves;60
 splayedout;50
 splayingout;50
 splayout;50
@@ -54681,6 +54710,12 @@ spottedowls;60
 spottedray;50
 spottedrays;50
 spotter;50
+spotweld;60
+spotwelded;60
+spotwelder;60
+spotwelders;60
+spotwelding;60
+spotwelds;60
 spr;20
 sprangaleak;50
 sprangfor;40
@@ -61559,6 +61594,8 @@ tulipfield;50
 tulipfields;50
 tulipgarden;50
 tulipgardens;50
+tulippoplar;50;Tree with tulip-like flowers
+tulippoplars;50
 tull;40
 tulle;30;Veil material
 tully;40
@@ -65876,6 +65913,8 @@ yelloworgold;0
 yellowpaint;0
 yellowpalm;50
 yellowpalms;50
+yellowpoplar;50;Tree with tulip-like flowers
+yellowpoplars;50
 yellowribbon;50
 yellowribbons;50
 yellowsea;50
