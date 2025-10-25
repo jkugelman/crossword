@@ -3246,6 +3246,7 @@ arlen;40;Arlen, Texas, or senator Arlen Specter
 arlenes;30
 arles;40;French city
 arm;50
+armagnac;40;Type of brandy
 armandassante;50
 armanisuit;60
 armanisuits;60
@@ -55558,6 +55559,8 @@ stepgoal;60
 stepgoals;60
 stephenfry;50
 stepin;40
+stepinfor;40
+stepins;40;Laceless shoes
 stepinshit;10
 stepinto;40
 stepon;40
@@ -55565,6 +55568,7 @@ steponit;60
 steponto;40
 stepoutof;40
 steppedin;40
+steppedinfor;40
 steppedinshit;10
 steppedinto;40
 steppeditup;60
@@ -55573,12 +55577,14 @@ steppedonit;60
 steppedonto;40
 steppedoutof;40
 steppingin;40
+steppinginfor;40
 steppinginshit;10
 steppinginto;40
 steppingon;40
 steppingonto;40
 steppingoutof;40
 stepsin;40
+stepsinfor;40
 stepsinshit;10
 stepsinto;40
 stepson;40
