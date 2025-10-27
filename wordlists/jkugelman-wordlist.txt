@@ -7184,6 +7184,7 @@ borogoves;60;From "Jabberwocky"
 boronic;40
 borrowedtime;60
 borscht;50
+borschts;40;Plural?
 borstal;30;Youth detention centre in the UK, historical
 borstein;40;Alex Borstein, voice of Lois Griffin on "Family Guy"
 borzoi;40;Russian dog breed
@@ -11878,7 +11879,7 @@ copeswith;40
 copewith;40
 copings;30;Top courses of brick or stone walls
 copingwith;40
-copout;60
+copout;50
 copouton;40
 coppedaplea;60
 coppedouton;40
@@ -19144,7 +19145,7 @@ faro;40;Card game
 faroese;30;Language of the Faroe Islands
 faron;30;Old country singer Faron Young
 farouche;30;???
-farout;60
+farout;50
 farr;40
 farrar;30;Publisher, or original NYT crossword editor
 farside;60
@@ -21100,6 +21101,7 @@ froses;40
 frostedflake;30
 frother;30
 frothers;30
+froward;30;Difficult (of a person)
 frownat;40
 frownedat;40
 frownedon;40
@@ -21967,6 +21969,8 @@ georgev;30
 georgevi;30
 georgew;20
 georgiabulldogs;50
+georgic;30;Poem about rural life
+georgics;30
 georgohm;50
 geos;40
 ger;40
@@ -24198,6 +24202,7 @@ hadon;40
 hadones;20
 hadonesdruthers;60
 hadonetoomany;60
+hadout;40
 hadrosaur;40
 hadrosaurs;40
 hadseconds;60
@@ -29394,6 +29399,8 @@ jananovotna;50
 jandj;30
 janeeyre;60
 janelle;40;Janelle Monae
+janes;40;Jane's Addiction
+janesaddiction;60
 janets;30;Plural name
 jangly;50
 jango;40;"Star Wars" bounty hunter Jango Fett
@@ -31615,6 +31622,8 @@ layto;20;Dock
 laytorest;50
 laz;20
 lazar;20;Leper
+lazaret;30;Quarantine station
+lazarets;30
 lazars;20
 lazuli;40
 lazybones;60
@@ -34395,6 +34404,7 @@ malafide;50
 malagasy;40;People/language of Madagascar
 malaika;40;???
 malala;40;Malala Yousafzai, 2014 Nobel Peace Prize laureate (at 17 years old!)
+malamud;40;"The Natural" author Bernard Malamud
 malaprop;60
 malapropism;60
 malaprops;60
@@ -36337,8 +36347,8 @@ moblaw;50
 mobley;40;Evan Mobley of the NBA
 mobracket;60
 mobrackets;60
-mobscene;50
-mobscenes;50
+mobscene;60
+mobscenes;60
 mobtie;50
 mobties;50
 mobutu;40;President of Zaire 1971-97
@@ -65580,6 +65590,7 @@ worntires;50
 worstcasescenario;60
 worstcasescenarios;60
 worsted;30;Wool yarn
+worsteds;30
 wort;50
 worthashot;60
 worthit;60
@@ -65901,7 +65912,9 @@ yacking;20;Yakking: Var.
 yacks;20;Yaks: Var.
 yad;20
 yada;40
+yadayada;60
 yadayadayada;60
+yaddayadda;60
 yadontsay;60
 yadvashem;40;Israeli Holocaust memorial
 yagotme;60
@@ -66103,6 +66116,7 @@ yer;40
 yerba;40;Yerba mate tea
 yerevan;40;Capital of Armenia
 yerkes;30;Wisconsin observatory
+yerout;50
 yers;30
 yertletheturtle;60
 yertletheturtleandotherstories;50;Dr. Seuss book
