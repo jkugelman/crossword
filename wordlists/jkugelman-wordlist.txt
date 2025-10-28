@@ -7181,6 +7181,7 @@ boreout;50
 borer;40
 borers;40
 boresinon;30
+borge;40;Comedy pianist Victor Borge
 boric;40;Boric acid
 boring;50
 boriskarloff;60
@@ -10887,6 +10888,7 @@ clowndoctor;60;Entertainer who cheers up patients at hospitals
 clowndoctors;60
 clownfish;50
 clownhalloffame;60
+clownprinceofdenmark;60;Nickname for pianist Victor Borge
 clownshoes;60
 clownsuit;50
 clownsuits;50
@@ -21035,6 +21037,8 @@ frequentlyoverlooked;50
 frere;40
 freres;40
 freshbreeze;50;10 on the Beaufort wind force scale
+freshet;40;Flood from heavy rain or melted snow
+freshets;40
 freshfood;50
 freshfoods;50
 freshlyground;60
@@ -23033,7 +23037,7 @@ goldrecord;60
 goldrecords;60
 goldreserve;50
 goldreserves;50
-goldseal;50
+goldseal;60
 goldsmith;60
 goldsmiths;60
 goldstandard;60
@@ -23155,6 +23159,8 @@ goodguess;60
 goodguy;60
 goodguys;60
 goodheavens;60
+goodhousekeeping;60
+goodhousekeepingsealofapproval;60
 goodimpression;50
 goodimpressions;50
 goodluckbabe;60;Chappell Roan song
@@ -23641,6 +23647,8 @@ greatape;60
 greatapes;60
 greatballsoffire;60
 greatbambino;60
+greatdane;60
+greatdanes;60
 greatdanger;50
 greatdayforup;60;Dr. Seuss book
 greateagle;60;Massive bird from "The Lord of the Rings"
@@ -25500,7 +25508,7 @@ hideftv;40
 hideftvs;40
 hidehi;30;Cab Calloway phrase
 hidein;40
-hideki;40;???
+hideki;40;WWII emperor Hideki Tojo
 hideme;20
 hideo;40;Hideo Kojima of Metal Gear Solid, baseball's Hideo Nomo
 hideokojima;50;Video game designer
@@ -27301,6 +27309,7 @@ illbethere;60
 illbewatchingyou;60
 illbite;60
 illchanceit;60
+illdrive;60
 illegalactivity;60
 illegalforwardkick;60;Football penalty
 illegalforwardkickpenalties;60
@@ -39887,6 +39896,8 @@ oilrigs;50
 oilrigworker;50
 oilrigworkers;50
 oilsands;60
+oilspill;60
+oilspills;60
 oiltanker;50
 oiltankers;50
 oiltube;40
@@ -43165,6 +43176,7 @@ pianoduets;50
 pianoforte;60
 pianolesson;50
 pianolessons;50
+pianoman;60
 pianomover;60
 pianomovers;60
 pianoplayer;50
@@ -46262,6 +46274,7 @@ ram;50
 rama;40;Hindu god
 ramadans;40
 ramalamadingdong;60
+ramblas;30
 ramdass;30;Yoga guru
 rameau;40;Baroque composer Jean-Philippe Rameau
 ramekin;40;Souffle dish
@@ -57857,9 +57870,9 @@ tastytreat;60
 tat;50
 tatamimat;50
 tatamimats;50
-tatar;40
-tatars;40
-tatary;40;???
+tatar;50
+tatars;50
+tatary;40;Tatar region, once (much of Asia)
 tatas;40
 tategallery;60
 tatemodern;60
@@ -58914,6 +58927,7 @@ theclocksticking;60;"Hurry up!"
 theclonewars;60
 thecloud;40
 thecloverfieldparadox;60
+theclownprinceofdenmark;60;Nickname for pianist Victor Borge
 thecoast;40
 thecoastisclear;60
 thecolonel;30;???
@@ -59050,6 +59064,7 @@ thegop;20
 thegospels;40
 thegrammys;40
 thegreatbrain;30;Children's book series
+thegreatdane;60;Nickname for pianist Victor Borge
 thegreatest;60
 thegreatestgeneration;60
 thegreatlakes;60
@@ -59555,6 +59570,7 @@ theuk;40
 theun;20
 theundead;50
 theunderworld;40
+theunmelancholydane;60;Nickname for pianist Victor Borge
 theupanishads;20
 theupshot;50
 theus;40
@@ -62630,6 +62646,7 @@ unmanlily;30;Weird adverb
 unmanned;50
 unmanning;30
 unmans;30
+unmelancholydane;60;Nickname for pianist Victor Borge
 unmingled;40
 unmitigatedgall;60
 unmoral;40
@@ -66143,6 +66160,7 @@ yellsto;40
 yellto;40
 yelprating;60
 yelpratings;60
+yeltsins;40;Plural last name
 yemenite;30
 yemenites;30
 yen;50
