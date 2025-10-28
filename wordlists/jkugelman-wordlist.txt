@@ -687,9 +687,10 @@ addsupto;40
 addto;40
 addtocart;60
 addtomycart;60
-adduce;20
-adduced;20
-adduces;20
+adduce;40;Offer as proof
+adduced;40
+adduces;40
+adducing;40
 adducts;30
 addupto;40
 addy;40;Address, slangily [never used]
@@ -731,6 +732,7 @@ adillyofapickle;60
 adina;20;Donizetti heroine, not used since 1991
 adinitium;50
 adipic;20;Acid
+adiposis;40;Disease
 adj;40
 adjani;20;Actress Isabelle
 adjoint;40
@@ -2582,6 +2584,7 @@ ans;40
 ansel;40
 anselm;40;Benedictine monk Anselm of Canterbury
 anselmo;40;Various, including Phil Anselmo of Pantera
+anserine;30
 ansonia;30;Luxurious, or Connecticut city
 anspach;40;Actress Susan Anspach of "Five Easy Pieces"
 ansu;20
@@ -3127,6 +3130,7 @@ arenti;50
 areola;50;Nipple ring
 areolae;50;Equally popular as areolas
 areolas;50
+areolate;40;Divided into compartments, like a honeycomb
 areoles;30
 arepa;40;Colombian corncake
 arepas;40
@@ -6094,6 +6098,7 @@ biffhenderson;50
 biffloman;50
 big;50
 biga;20
+bigapple;60
 bigbad;60;Trope
 bigbads;60
 bigband;60
@@ -8795,6 +8800,7 @@ canwenot;60
 canyoubeatthat;60
 canyoubelieveit;60
 canyoudigit;50
+canyoudothat;60
 canyoufillmein;60
 canyounot;60
 canyoupleasenot;60
@@ -13232,6 +13238,8 @@ daisyad;30
 dak;20
 dakar;40;Capital of Senegal
 dakarrally;50;???
+dakoit;20
+dakoits;20
 daktari;30;60s TV show
 dal;40;Indian lentils
 dalailama;60
@@ -18844,6 +18852,8 @@ facebookpage;60
 facebookpages;60
 facecam;60
 facecams;60
+facecard;60
+facecards;60
 facedit;30
 facedout;40
 facedtherap;20
@@ -24220,8 +24230,8 @@ hadgame;40
 hadheart;50
 hadin;40
 hadit;40
-haditbad;50
-haditgood;50
+haditbad;60
+haditgood;60
 haditinfor;50
 haditmade;60
 hadlegs;50
@@ -24707,8 +24717,8 @@ hashbrowns;50
 hasheart;50
 hasin;40
 hasit;40
-hasitbad;50
-hasitgood;50
+hasitbad;60
+hasitgood;60
 hasitinfor;50
 hasitmade;60
 haslegs;50
@@ -24830,9 +24840,9 @@ haveeyesfor;50
 havefun;60
 havefunwiththat;60
 haveheart;50
-haveitbad;50
+haveitbad;60
 haveitbothways;50
-haveitgood;50
+haveitgood;60
 haveitinfor;50
 haveitmade;60
 havelegs;50
@@ -24874,6 +24884,8 @@ havingayenfor;40
 havingeyesfor;50
 havingfun;50
 havingheart;40
+havingitbad;60
+havingitgood;60
 havingitinfor;50
 havingitmade;60
 havingneedfor;40
@@ -25909,6 +25921,8 @@ holdup;60
 holdvigil;50
 hole;50
 holea;20
+holecard;60
+holecards;60
 holeinone;50
 holes;50
 holesaw;50
@@ -30142,6 +30156,8 @@ kasha;30;Buckwheat cereal
 kashas;20
 kat;40
 katamara;20;???
+katamaridamacy;60
+katemara;60
 katepierson;50;B-52s singer
 katespade;50
 katharsis;30
@@ -31307,6 +31323,7 @@ laporte;40;???
 lappedat;40
 lappingat;40
 lappish;40
+laprensa;30
 lapsat;40
 lapsedinto;40
 lapseinto;40
@@ -35693,6 +35710,7 @@ messala;30;Ben-Hur antagonist
 messengerrna;50
 messenia;30;Greek region
 messi;50
+messinas;20
 messrs;30
 messuage;30;Dwelling
 messuages;30
@@ -49827,6 +49845,7 @@ saddlers;40
 saddleseat;50
 saddleseats;50
 saddos;20
+sadducee;20
 sade;40
 sadending;60
 sadendings;60
@@ -58865,6 +58884,7 @@ thebesharps;60;Homer's barbershop quartet
 thebestofbothworlds;60
 thebestpartofwakingup;60
 thebible;30
+thebigapple;60
 thebigbang;40
 thebigdig;50
 thebigdipper;40
@@ -60166,6 +60186,7 @@ tim;50
 timbal;40;Hand drum
 timbale;40
 timbales;40
+timbals;40
 timbernerslee;50
 timcapsules;0
 timdaly;50
@@ -64280,6 +64301,7 @@ wavywall;60
 wawa;30
 wawapedal;30
 wawapedals;30
+wawrinka;40;Tennis player Stan Wawrinka (b. 1985)
 wax;50
 waxedeloquent;60
 waxedlyrical;60
@@ -64354,6 +64376,7 @@ wearsupon;40
 wearthetrousers;60
 wearupon;40
 weasand;20;Throat, archaic
+weasands;20
 weaseledoutof;40
 weaselingoutof;40
 weaseloutof;40
@@ -66321,8 +66344,11 @@ youawake;60
 youbet;60
 youcalled;60
 youcandoit;60
+youcandothat;60
 youcanonlyblameyourself;60
 youcantbeserious;60
+youcantdenyit;60
+youcantdothat;60
 youcantfixstupid;60
 youcanthaveitbothways;60
 youcantlose;60
@@ -66335,6 +66361,8 @@ youcomehereoften;60
 youcouldsaythat;60
 youdareme;60
 youdbetternot;60;"Be warned— that's a bad idea!"
+youdidgood;60
+youdidgoodkid;60
 youdidit;50
 youdidnthearthat;60
 youdidntsaythemagicword;60
