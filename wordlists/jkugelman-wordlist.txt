@@ -2496,6 +2496,8 @@ animi;20;Resins
 animism;40
 animist;40
 animists;40
+animoji;60
+animojis;60
 anion;50
 anionic;50
 anions;50
@@ -10277,10 +10279,12 @@ chipclip;60
 chipclips;60
 chipleader;60
 chipleaders;60
+chipndale;60
 chippier;50
 chippiest;50
 chippy;50
 chipsahoy;60
+chipsanddip;60
 chiron;40;Wisest of the centaurs
 chiropod;30
 chiropody;30
@@ -11472,6 +11476,8 @@ comeunderattack;50
 comeupto;40
 comewhatmay;60
 comewith;40
+comfrey;40;Flower
+comfreys;40
 comicalanderson;0
 comicbookart;60
 comicbookstore;50
@@ -20934,6 +20940,7 @@ freecycle;50
 freecycled;50
 freecycles;50
 freecycling;50
+freedent;40;Wrigly's chewing gum brand that doesn't stick to dentures
 freedman;20
 freedmen;20
 freedove;50;???
@@ -20998,6 +21005,7 @@ freetoys;50
 freetrial;50
 freetrials;50
 freetv;30;Green paint
+freeware;60
 freewaytoll;50
 freewaytolls;50
 freewheeler;60
@@ -34698,6 +34706,7 @@ maputo;40;Capital of Mozambique
 maquis;20
 mar;50
 mara;40
+maralago;60
 maranta;30;Plant genus
 mararooney;0
 marat;40;Jean-Paul Marat, French revolutionary killed in his bathtub (used a lot)
@@ -35564,6 +35573,8 @@ memery;50
 memes;50
 memeworthy;60
 meming;50
+memoji;60
+memojis;60
 memorybank;50
 memorybanks;50
 memorychip;50
@@ -36742,6 +36753,7 @@ morey;20;Comic Amsterdam
 morgue;50
 morgues;50
 moria;40;LOTR location
+moriarty;60
 morisot;40;French impressionist Berthe Morisot, semi-notable
 morita;40;Pat Morita from "The Karate Kid"
 moritat;20
@@ -51979,6 +51991,7 @@ sharesacab;50
 sharesin;40
 shareswith;40
 sharett;40;Israel's second prime minister Moshe Sharett
+shareware;60
 sharewith;40
 shari;40;Lamb Chop puppeteer Shari Lewis
 sharifs;20
@@ -52376,6 +52389,7 @@ shoutto;40
 shoveledsnow;50
 shovelingsnow;50
 shovelsnow;50
+shovelware;60
 showa;20;20th century Japanese era
 showbill;50
 showbills;50
