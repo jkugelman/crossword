@@ -7003,6 +7003,10 @@ bonmots;50
 bonn;40;German city, once the capital of West Germany
 bonnard;40;French artist Pierre Bonnard
 bonnenuit;50
+bonnevillesaltflats;60
+bonnevillesaltflatsracetrack;60
+bonnevillespeedway;60
+bonnevillestatepark;60
 bonsaitree;60
 bonsaitrees;60
 bonsmots;50
@@ -11216,6 +11220,10 @@ coldblood;50
 coldblooded;50
 coldbloodedly;50
 coldbloodedness;50
+coldcall;60
+coldcalled;60
+coldcalling;60
+coldcalls;60
 coldcase;50
 coldcases;50
 coldcock;60
@@ -23642,6 +23650,8 @@ greatlie;20
 greatoldone;60;Cthulhu, e.g.
 greatoldones;60
 greatpains;50
+greatsaltlake;60
+greatsaltlakedesert;60
 greatshot;50
 greatstuff;60
 grebdlogipoohw;0
@@ -25135,6 +25145,8 @@ hejira;20;Joni Mitchell album
 hekate;40
 hel;30;Norse god
 heldback;50
+helddear;60
+heldfirm;60
 heldonto;40
 heldresponsible;50
 heldscoreless;50
@@ -25842,7 +25854,11 @@ hola;40
 holbein;20;Renaissance painter
 holbrook;40
 holdback;50
+holddear;60
+holdfirm;60
 holdingback;50
+holdingdear;60
+holdingfirm;60
 holdingonto;40
 holdingto;40
 holdingvigil;50
@@ -25859,6 +25875,8 @@ holdonto;40
 holdontoyourbutts;60
 holdsback;50
 holdscoreless;50
+holdsdear;60
+holdsfirm;60
 holdson;50
 holdsonto;40
 holdsscoreless;50
@@ -33179,6 +33197,7 @@ lookerson;40
 lookfishy;60
 lookforward;50
 lookforwardto;50
+lookhere;60
 lookieloo;60
 lookieloos;60
 lookingafool;50
@@ -49957,6 +49976,7 @@ salesforces;50
 salesian;30;???
 salesquota;50
 salesquotas;50
+salestax;60
 salford;30
 saliclaw;30
 salified;30
@@ -50000,7 +50020,7 @@ saltern;40;Saltworks, building where salt is made by boiling or evaporation
 salterns;40
 salters;40
 saltfatacidheat;50
-saltflat;50
+saltflat;60
 saltflats;60
 salti;40;Treaty
 saltii;40;Treaty
@@ -51846,6 +51866,7 @@ shalamar;40;Old R&B group
 shalane;40;Olympic runner Shalane Flanagan
 shalomaleichem;60;Hebrew greeting
 sham;50
+shambolic;60
 shameon;20
 shameonme;60
 shameplant;60;Plant also known as the touch-me-not
@@ -61489,6 +61510,8 @@ trollfactory;60
 trolling;60
 trolls;50
 trombone;50
+trommel;30;Ore-sorting screen
+trommels;30
 trompe;40
 trompedin;40
 trompes;40
