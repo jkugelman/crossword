@@ -971,7 +971,7 @@ afire;40
 afl;20
 aflac;40
 aflacduck;50
-aflat;40
+aflat;50
 aflatscale;40
 aflyintheointment;60
 afoolandhismoney;60
@@ -1784,6 +1784,7 @@ allthatglistersisnotgold;60
 allthatglittersisnotgold;60
 allthebellsandwhistles;60
 alltherage;60
+allthere;60
 allthetrimmings;60
 allthingstoallpeople;60
 alltogethernow;50
@@ -2300,6 +2301,7 @@ anarch;30
 anarchs;30
 anat;40
 anatase;20;Mineral
+anathema;60;Cool word
 anatole;40
 anatolia;40;Turkish peninsula aka Asia Minor
 anatolian;40
@@ -2308,7 +2310,7 @@ anatomybooks;50
 anatomyexam;50
 anatomyexams;50
 anattemptwasmade;60
-anatural;40
+anatural;50
 anbesol;30;Pain relief brand
 anc;30;Mandela's org.
 ancestorworship;60
@@ -3559,7 +3561,7 @@ ashantis;40
 ashape;30
 ashaped;30
 ashapes;30
-asharp;40
+asharp;50
 asharpmajor;40
 asharpminor;40
 ashbin;40
@@ -6019,7 +6021,7 @@ bf;40
 bfa;40
 bff;40
 bffs;40
-bflat;40
+bflat;50
 bflatscale;40
 bfs;40;Best friends
 bgirl;40
@@ -6802,7 +6804,7 @@ bmx;50
 bmxbike;60
 bmxbikes;60
 bnai;30
-bnatural;40
+bnatural;50
 bneg;20
 bo;40
 boa;50
@@ -7795,8 +7797,8 @@ bsed;40
 bsee;20
 bseries;40
 bses;40
-bsharp;40
-bsharps;40
+bsharp;50
+bsharps;50
 bsing;40
 bsingles;40;Secondary tennis competitions
 bsmeter;60
@@ -9713,7 +9715,7 @@ ceylon;20;Sri Lanka, formerly
 cfc;40
 cfcs;40
 cfl;20
-cflat;40
+cflat;50
 cfo;40
 cfos;40
 cfs;20
@@ -10961,7 +10963,7 @@ cmv;20
 cmvi;20
 cmx;20
 cmxxx;20
-cnatural;40
+cnatural;50
 cnn;50
 cnnnews;50
 cnntonight;50
@@ -12846,9 +12848,9 @@ csgetdegrees;60;"C's get degrees"
 cshape;30
 cshaped;30
 cshapes;30
-csharp;40
-csharps;40
-csharpscale;40
+csharp;50
+csharps;50
+csharpscale;50
 csi;50
 csimiami;60
 csis;40
@@ -14386,7 +14388,7 @@ dextrorotatory;40
 dey;40;Susan of "L.A. Law"
 dezimotsuc;0
 dfc;20
-dflat;40
+dflat;50
 dfw;40;Dallas-Fort Worth
 dha;20
 dhabi;30
@@ -15047,7 +15049,7 @@ dnastrands;50
 dnatest;50
 dnatesting;50
 dnatests;50
-dnatural;40
+dnatural;50
 dnc;40
 dnd;20
 dnepr;20;Russian river
@@ -16189,7 +16191,7 @@ drytexting;60
 drzaius;50
 dsc;20
 dscale;40
-dsharp;40
+dsharp;50
 dsl;40
 dslmodem;40
 dslmodems;40
@@ -16918,6 +16920,8 @@ eelpies;30
 eelpot;30
 eelpots;30
 eels;50
+eelskin;40
+eelskins;40
 eeltank;30
 eeltanks;30
 eeltrap;30
@@ -16966,7 +16970,7 @@ efgh;20
 efghi;20
 efiler;50
 efilers;50
-eflat;40
+eflat;50
 eflatscale;40
 efrem;40;Efrem Zimbalist Sr. (violinist) or Jr. (TV actor)
 efs;20
@@ -17506,7 +17510,7 @@ enarbored;30
 enarboring;30
 enarbors;30
 enarriere;20
-enatural;40
+enatural;50
 enbanc;40
 enbloc;40
 enbrel;20
@@ -18166,7 +18170,7 @@ esculents;20;Edibles
 esd;20
 esdras;20
 ese;40
-esharp;40
+esharp;50
 eshkol;30;???
 eshop;30;Where to buy Nintendo Switch games
 esi;20
@@ -18995,6 +18999,7 @@ fairytale;60
 fairytaleromance;60
 fairytaleromances;60
 fairytales;60
+faisal;40;King of Saudi Arabia 1964-75
 faisals;20
 fait;40;Fait accompli
 faithhealer;60
@@ -19630,8 +19635,8 @@ fey;50
 fez;50
 fezzes;60
 ff;40
-fff;20
-fflat;40
+fff;30
+fflat;50
 fg;40
 fgh;20
 fghi;20
@@ -20460,7 +20465,7 @@ fmri;40
 fms;20
 fmstation;50
 fmstations;50
-fnatural;40
+fnatural;50
 fnumber;40;Same as f-stop
 fnumbers;40
 foaled;40
@@ -21207,7 +21212,7 @@ fsh;20
 fshape;30
 fshaped;30
 fshapes;30
-fsharp;40
+fsharp;50
 fsharpscale;40
 fstar;20
 fstars;20
@@ -22343,7 +22348,7 @@ gewgaw;40;Showy trinket
 gewgaws;40
 geysir;30;Iceland geyser
 gf;40
-gflat;40
+gflat;50
 gflatscale;40
 gforce;50
 gforces;50
@@ -22713,7 +22718,7 @@ gms;40
 gmt;40
 gnar;30
 gnaremoob;0
-gnatural;40
+gnatural;50
 gnawat;40
 gnawedat;40
 gnawedon;40
@@ -23925,7 +23930,7 @@ gseven;30;Ugly numeral
 gshape;30
 gshaped;30
 gshapes;30
-gsharp;40
+gsharp;50
 gsharpscale;40
 gsix;30;Ugly numeral
 gsn;40
@@ -25042,6 +25047,8 @@ heapedon;40
 heapingon;40
 heapon;40
 heapson;40
+hearable;40;Audible, or portmanteau for wearable hearing device
+hearables;40;Smart headphones / earbuds
 heardof;40
 hearer;40
 hearers;40
@@ -27386,6 +27393,7 @@ illseeyouincourt;60
 illseeyouinhell;60
 illshowmyselfout;60
 illshutupnow;60
+illstart;60
 illsue;60
 illsuethepantsoffher;60
 illsuethepantsoffhim;60
@@ -35286,7 +35294,7 @@ mdxi;20
 mdxl;20
 me;50
 mea;40
-meade;50;Gettysburg general
+meade;40;Gettysburg general
 mealie;20
 mealprep;50
 mealticket;60
@@ -39004,6 +39012,7 @@ notahappycamper;60
 notakers;60
 notalie;30
 notallheroeswearcapes;60
+notallthere;60
 notamused;60
 notanotherteenmovie;60
 notany;30
@@ -44799,7 +44808,7 @@ ppe;40
 ppg;40;NBA stat [rare]
 ppk;20
 ppm;20
-ppp;20
+ppp;30
 pppppp;20
 pps;40
 pqr;20
