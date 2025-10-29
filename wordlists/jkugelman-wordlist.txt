@@ -29301,7 +29301,7 @@ iwantmymoneyback;60
 iwantout;60
 iwanttosee;60;"Move out of the way!"
 iwantuback;20;???
-iwas;40
+iwas;50
 iwasbornready;60
 iwascountingonit;60
 iwasframed;60
@@ -64642,6 +64642,7 @@ wellimstumped;60
 wellimwaiting;60
 wellinto;50
 wellitsnotmuchtolookat;60
+welliwas;60;"Are you sleeping?" reply
 wellletitslide;60
 wellletitslidethistime;60
 wellletmeseenow;60
