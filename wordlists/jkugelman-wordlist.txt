@@ -1618,8 +1618,9 @@ alioth;20;Big Dipper star
 alipasha;30;Ottoman ruler
 aliquant;30;Math term
 alist;50
-alister;50
-alisters;50
+alister;60
+alisters;60
+alists;40;Plural?
 alit;50
 alita;30
 alitalia;40;Defunct Italian airline
@@ -17986,6 +17987,8 @@ erato;40
 erb;20
 erbe;40;Actress Kathryn of L&O:CI
 erbium;40;Element 68
+erda;20
+erdas;20
 erdoc;40
 erdocs;40
 erdoctor;40
@@ -42700,8 +42703,12 @@ peewit;30;Bird
 peewits;30
 peg;50
 pegg;40
+peggedout;30
+peggingout;30
 pegleg;60
 peglegs;60
+pegout;30;Win, in cribbage
+pegsout;30
 pegtop;40;Spinning toy
 pegtops;40
 pei;40
@@ -50423,7 +50430,7 @@ satrapies;20;Ancient Persian provinces
 satraps;20
 satrapy;20;Ancient Persian province
 satriani;50
-sats;40
+sats;50
 satscore;60
 satscores;60
 satshiva;60
@@ -58710,6 +58717,7 @@ tgif;40
 tgv;20
 tha;40
 thabo;40;Mandela's successor Thabo Mbeki
+thad;40
 thaibasil;60
 thaibasilleaf;60
 thaibasilleaves;60
@@ -60579,12 +60587,14 @@ togae;30
 togaed;40
 togatoga;20
 togged;40
+toggedout;40
 toggedup;40
 toggery;40
 togging;40
 toggingup;40
+togout;40
 togs;40
-togsout;30
+togsout;40
 togsup;40
 togup;40
 toheart;40
