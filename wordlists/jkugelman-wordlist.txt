@@ -767,6 +767,7 @@ admitters;40
 admittingto;40
 admitto;40
 adnan;30;Syed of "Serial"
+adnauseam;60
 adnoun;20
 ado;50
 adoannie;40;Oklahoma! character
@@ -802,6 +803,7 @@ adrenaline;60
 adriana;40;Model Adriana Lima
 adriani;40
 adrianii;30;Pope
+adrianiii;30
 adrianiv;30
 adriano;40
 adrians;30;Plural name
@@ -6796,6 +6798,7 @@ blvd;30
 bly;40;Journalist Nellie Bly
 blymphocyte;40;B lymphocyte
 blymphocytes;40
+blynken;40;"Wynken, Blynken, and Nod"
 bmajor;40
 bmi;40
 bmilckcor;0
@@ -13481,18 +13484,18 @@ dataanalysis;50
 dataanalyst;50
 dataanalysts;50
 datable;30
-databreach;50
-databreaches;50
+databreach;60
+databreaches;60
 datadump;60
 datadumps;60
 datakey;50
 datakeys;50
-datamine;50
-datamined;50
-dataminer;50
-dataminers;50
-datamines;50
-datamining;50
+datamine;60
+datamined;60
+dataminer;60
+dataminers;60
+datamines;60
+datamining;60
 datapacket;50
 datapackets;50
 datapoint;50
@@ -13500,12 +13503,13 @@ datapoints;50
 dataries;20;Church offices
 datarot;60
 datary;20;Church office
-datascientist;50
+datascientist;60
+datascientists;60
 datascraper;50
 datascrapers;50
 datascraping;50
 datdere;60
-datebread;50
+datebread;60
 datedesignation;0
 datedup;50
 dater;30
@@ -14236,6 +14240,7 @@ derbyday;50;???
 derbydays;50
 derbyhat;50
 derbyhats;50
+deremable;30;"Dere Mable", humorous collection of WWI letters
 derien;40
 derision;50
 derisions;40;Weird plural
@@ -14274,6 +14279,7 @@ describers;30
 desenex;40
 deseret;20;Mormon state proposed in 1849
 desertbloom;50;Blossoming of flowers when rainfall is unusually high
+desertfox;60
 desertisland;60
 desertislands;60
 desertisle;60
@@ -15414,6 +15420,7 @@ dona;30
 donair;40;Canadian version of doner kebab
 donairs;40
 donaldson;50
+donameche;40;"Cocoon" actor Don Ameche (1908-93)
 donatedto;40
 donatesto;40
 donateto;40
@@ -15424,6 +15431,7 @@ donealready;60
 doneanddone;60
 doneanddusted;60
 donedeal;60
+donedeals;60
 donee;40
 donees;40
 donefor;50
@@ -16832,7 +16840,8 @@ ecrus;30;Bad plural
 ecsegar;30;Popeye's creator
 ect;20
 ecto;40
-ectoderm;30;Zoology term
+ectoderm;40
+ectoderms;40
 ecu;20
 ecuelle;30;???
 ed;40
@@ -17168,6 +17177,7 @@ elbert;40;Mount Elbert, highest peak in the Rockies
 elberta;20
 elbrus;30;Mount Elbrus, highest mountain Russia/Europe
 elcamino;60
+elcaminos;60
 elcapitan;50
 elcentro;40;???
 elchapo;40;Mexican drug lord
@@ -18156,6 +18166,8 @@ escale;40
 escallop;30
 escalloped;30
 escallops;30
+escalope;40;Thinned piece of meat, scallop
+escalopes;40
 escamillo;40;Toreador character in "Carmen"
 escapeact;60
 escapeacts;60
@@ -18229,7 +18241,8 @@ esoterica;60
 esoteries;50
 esotery;50;Esoterics
 esp;40
-espalier;30;Gardening technique
+espalier;30;Trellis
+espaliers;30
 espanol;50
 esparto;20;Textile fiber
 esparza;40;Actor? UFC fighter?
@@ -18606,6 +18619,7 @@ ewers;40
 ewings;40;"Dallas" family
 ewr;20;Airport
 ews;40
+ewscripps;40
 eww;50
 ex;50
 exactdouble;50
@@ -26271,6 +26285,8 @@ hopedforarematch;60
 hopedto;40
 hopefor;40
 hopeforarematch;60
+hoper;30
+hopers;30
 hopesagainsthope;60
 hopesfor;40
 hopesforarematch;60
@@ -27189,6 +27205,7 @@ idotter;50
 idotters;50
 idoubtit;60
 idowhatican;60
+idriselba;60
 ids;50
 idsayso;60
 idtag;40
@@ -27974,8 +27991,17 @@ inclosure;20
 incogmeato;60;Meat substitute
 incognito;60
 incoins;40
+incomegap;60
+incomegaps;60
 incomestatement;50
-incometaxrefund;50
+incometax;60
+incometaxes;60
+incometaxform;60
+incometaxforms;60
+incometaxrefund;60
+incometaxrelief;60
+incometaxreturn;60
+incometaxreturns;60
 incontinence;40
 incontinency;40
 incontinent;40
@@ -28324,6 +28350,8 @@ inserter;40
 inserters;40
 inshambles;60
 insideinfo;50
+insideman;60
+insidemen;60
 insidescoop;60
 insidestories;50
 insidestory;50
@@ -29161,6 +29189,7 @@ itsanonstarter;60
 itsanybodysguess;60
 itsanyonesguess;60
 itsarealstretch;60
+itsasetup;60
 itsashame;60
 itsasign;60
 itsastart;60
@@ -39510,6 +39539,7 @@ nwt;20
 ny;40
 nyad;30;Swimmer Diana
 nyah;50;"So there!"
+nyakim;40;Model Nyakim Gatwech (b. 1993)
 nyala;30;African antelope
 nyalas;30;African antelope
 nyarlathotep;60;Lovecraftian god
@@ -41259,12 +41289,12 @@ osama;10
 oscale;30;Model railway scale 1:48
 oscar;50
 oscararias;40;President of Costa Rica, Nobel Peace Prize laureate
-oscarhost;50
-oscarhosts;50
+oscarhost;60
+oscarhosts;60
 oscari;30
 oscarii;30
-oscarnod;50
-oscarnods;50
+oscarnod;60
+oscarnods;60
 oscars;50
 osceola;30;FSU mascot
 oscine;20;Songbird
@@ -51835,6 +51865,7 @@ setae;20
 setat;40
 setatop;40
 setboundaries;50
+setdesign;60
 setenta;40
 seteyeson;50
 setfireto;40
@@ -55606,12 +55637,12 @@ statereps;50
 staterock;50
 staterocks;50
 staters;40
-stateseal;50
-stateseals;50
-statesenate;50
-statesenates;50
-statesenator;50
-statesenators;50
+stateseal;60
+stateseals;60
+statesenate;60
+statesenates;60
+statesenator;60
+statesenators;60
 statetelevision;60
 staticip;50
 staticips;50
@@ -58394,6 +58425,8 @@ teeingoff;50
 teeingoffon;50
 teeitup;20
 teeline;30
+teemarker;60
+teemarkers;60
 teemer;30
 teemers;30
 teemu;20
@@ -66029,6 +66062,7 @@ wyeth;30
 wyle;40;Actor Noah Wyle
 wyler;40;Director William Wyler
 wyn;20
+wynken;40;"Wynken, Blynken, and Nod"
 wynn;40;Vegas casino
 wyo;40;Wyoming
 x;40
@@ -66786,6 +66820,7 @@ yowza;60
 yoyoing;50
 yoyoma;50
 ypres;30;WWI battle site in Belgium
+ypsilanti;60;Cool name
 yreka;20;California town with a palindromic bakery
 yrs;40
 yshape;30
