@@ -20317,7 +20317,7 @@ flippedthebird;60
 flippest;50
 flippingacoin;50
 flippingahouse;40
-flippingaround;50
+flippingaround;40
 flippingoff;60
 flippingon;40
 flippingouton;40
@@ -20325,7 +20325,7 @@ flippingoutover;50
 flippingthebird;60
 flipsacoin;50
 flipsahouse;40
-flipsaround;50
+flipsaround;40
 flipsoff;60
 flipson;40
 flipsouton;40
@@ -57320,8 +57320,12 @@ swissstages;60
 swisswatch;60
 swisswatches;60
 swit;30;Loretta Swit of "M.A.S.H."
+switcharound;50
+switchedaround;50
 switchedto;40
+switchesaround;40
 switchesto;40
+switchingaround;40
 switchingto;40
 switchplate;50
 switchplates;50
