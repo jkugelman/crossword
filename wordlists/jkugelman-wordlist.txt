@@ -20305,12 +20305,14 @@ flipofaswitch;50
 flipoff;60
 flipon;40
 flipouton;40
+flipoutover;50
 flippedacoin;50
 flippedahouse;40
 flippedaround;50
 flippedoff;60
 flippedon;40
 flippedouton;40
+flippedoutover;50
 flippedthebird;60
 flippest;50
 flippingacoin;50
@@ -20319,6 +20321,7 @@ flippingaround;50
 flippingoff;60
 flippingon;40
 flippingouton;40
+flippingoutover;50
 flippingthebird;60
 flipsacoin;50
 flipsahouse;40
@@ -20326,6 +20329,7 @@ flipsaround;50
 flipsoff;60
 flipson;40
 flipsouton;40
+flipsoutover;50
 flipsthebird;60
 flipthebird;60
 fliptop;50
