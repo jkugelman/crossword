@@ -1754,6 +1754,7 @@ allowin;40
 allowingin;40
 allowsin;40
 allproteam;50
+allpurpose;60
 allquietonthewesternfront;60
 allrighty;60
 allrightyouvehadyourfun;60
@@ -2128,6 +2129,7 @@ amfmtuners;50
 amgen;30
 amharic;40;Official language of Ethiopia
 ami;40
+amianidiot;60
 amiblue;40;1929 song covered by many artists
 amiclear;60
 amicooked;60
@@ -10379,8 +10381,11 @@ choo;40
 choochoo;60
 choochootrain;60
 chooseme;40
+choosesides;60
+choosessides;60
 choosesup;30
 chooseup;30
+choosingsides;60
 choosingup;30
 chopblock;60;Football penalty
 chopblockpenalties;60
@@ -10414,6 +10419,7 @@ chortles;60
 chortling;60
 chorusline;50
 choruslines;50
+chosesides;60
 choseup;30
 chou;30;Chou En-lai
 chouenlai;40
@@ -17863,6 +17869,7 @@ entia;20
 entiire;20
 entireness;30
 entires;20
+entitledto;40
 ento;40
 entodermic;40;???
 entoil;30;Ensnare
@@ -27130,6 +27137,8 @@ idiolectal;50
 idiolects;60
 idiotlight;60;Dashboard warning light
 idiotlights;60
+idiottax;60
+idiottaxes;60
 iditarod;60
 iditarods;60
 iditarodtrail;60
@@ -27364,6 +27373,7 @@ iiii;20;Four, of a kind
 iiiii;20
 iimagineso;60
 iin;20
+iinsist;60
 iipeter;20
 iirc;30;"To the best of my recollection", in a text
 iis;20
@@ -28059,6 +28069,8 @@ indieband;60
 indiebands;60
 indiefilm;60
 indiefilms;60
+indiemovie;60
+indiemovies;60
 indigodye;50
 indigodyes;50
 indigos;30
@@ -30832,6 +30844,7 @@ kneadingin;40
 kneadsin;40
 kneebrace;50
 kneebraces;50
+kneecapped;60
 kneeinjuries;50
 kneeinjury;50
 kneejerk;60
@@ -33341,6 +33354,7 @@ longo;40
 longos;20
 longoverdue;50
 longsfor;40
+longstoryshort;60
 longtake;60
 longtakes;60
 longtimelistener;60
@@ -37350,6 +37364,7 @@ mullets;60
 mulligan;50
 mulligans;50
 multinomial;40
+multiplatinum;60
 multipletimes;50
 multiplybythree;0
 multiprocessors;30;???
@@ -43967,6 +43982,11 @@ platetectonics;50
 platformpump;50
 platformpumps;50
 platies;30;???
+platinumblond;60
+platinumblonde;60
+platinumblondes;60
+platinumcard;60
+platinumcards;60
 platinumrecord;50
 platinumrecords;50
 platonicideal;60
@@ -45065,6 +45085,8 @@ prelacies;30
 prelacy;30
 prelate;30;High-ranking Christian
 prelates;30
+prelittree;60
+prelittrees;60
 prell;30;Green shampoo brand
 premeal;30
 premeds;30
@@ -48634,15 +48656,15 @@ ricans;40
 ricardos;50;"Being the Ricardos"
 ricciolini;40;Type of pasta, or a Baroque painter
 ricearoni;60
-ricecooker;50
-ricecookers;50
+ricecooker;60
+ricecookers;60
 riced;40
 ricefarmer;60
 ricefarmers;60
 ricepaddies;60
 ricepaddy;60
 rices;40
-riceuniversity;50
+riceuniversity;60
 ricflair;60
 richarddawkins;60
 richardroe;50
@@ -52694,6 +52716,8 @@ sidequests;60
 sider;40
 sidero;20
 siders;40
+sidesalad;60
+sidesalads;60
 sideshow;60
 sideshowact;60
 sideshowacts;60
@@ -53484,6 +53508,7 @@ sleeked;40
 sleeking;40
 sleekit;30;???
 sleeks;40
+sleepapnea;60
 sleeparound;50
 sleeparoundon;50
 sleepdivorce;60
@@ -53927,6 +53952,7 @@ sneakedinto;40
 sneakedon;40
 sneakerhead;60
 sneakerheads;60
+sneakernet;60
 sneakin;50
 sneakingapeek;50
 sneakingby;40
@@ -53942,6 +53968,7 @@ sneaksby;40
 sneaksin;50
 sneaksinto;40
 sneakson;40
+sneakypete;60
 sneerat;40
 sneeredat;40
 sneerer;40
@@ -56531,6 +56558,8 @@ studiedupon;50
 studieshard;50
 studiesupon;50
 studio;50
+studioexec;60
+studioexecs;60
 studios;50
 studioset;50
 studiosets;50
@@ -61427,6 +61456,8 @@ trainor;40;Singer Meghan Trainor
 trainset;50
 trainsets;50
 trainsfor;40
+trainyard;60
+trainyards;60
 trajan;40;Roman emperor
 trala;20
 tralala;40
