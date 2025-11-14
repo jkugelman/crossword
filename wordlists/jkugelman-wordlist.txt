@@ -34948,6 +34948,13 @@ marjoe;20;Preacher Gortner
 markcuban;50
 markergene;50
 markergenes;50
+marketcap;60
+marketcaps;60
+marketclose;60
+marketcrash;60
+marketcrashes;60
+marketcycle;60
+marketcycles;60
 marketeer;30
 marketeers;30
 marketjitters;50
@@ -56128,6 +56135,12 @@ stockcube;50
 stockcubes;50
 stockist;20;Retailer that stocks goods: Br.
 stockists;20;Retailers that stock goods: Br.
+stockmarket;60
+stockmarketcrash;60
+stockmarketcrashes;60
+stockmarketdip;60
+stockmarketdips;60
+stockmarkets;60
 stockpart;50
 stockparts;50
 stockphoto;60
