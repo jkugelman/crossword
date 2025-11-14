@@ -11058,6 +11058,7 @@ cobrapose;50
 cobravenom;60
 cobweb;60
 cobwebs;60
+cocacola;60
 cocacolaclassic;50
 cocacolaformula;60
 cocapaste;50
@@ -15725,6 +15726,10 @@ downgoesfrazier;60
 downloadablecontent;60
 downonthecorner;50
 downright;50
+downshift;60
+downshifted;60
+downshifting;60
+downshifts;60
 downside;50
 downsides;50
 downstair;50
@@ -15900,6 +15905,8 @@ drea;40;Actress de Matteo
 dreadpirateroberts;60
 dreamboat;60
 dreamboats;60
+dreamdate;60
+dreamdates;60
 dreamgirl;60
 dreamgirls;60
 dreamhome;60
@@ -15944,6 +15951,8 @@ dressrack;50
 dressracks;50
 dressshirt;50
 dressshirts;50
+dressshoe;60
+dressshoes;60
 dressshop;50
 dressshops;50
 dressstyle;50
@@ -23184,6 +23193,8 @@ golfmajors;60
 golfpants;50
 golfpro;60
 golfpros;60
+golfshirt;60
+golfshirts;60
 golfshoes;60
 golfspikes;50
 golfswing;60
@@ -26123,22 +26134,22 @@ homekitchen;50
 homelab;30
 homelabs;30
 homelily;30;Weird adverb
-homemadecookie;50
-homemadecookies;50
-homemovie;50
-homemovies;50
+homemadecookie;60
+homemadecookies;60
+homemovie;60
+homemovies;60
 homeo;40
 homeomorphic;50
 homeomorphism;50
 homeomorphous;50
-homeopath;50
-homeopathic;50
-homeopathically;50
+homeopath;60
+homeopathic;60
+homeopathically;60
 homeopathies;50
-homeopathist;50
-homeopathists;50
-homeopaths;50
-homeopathy;50
+homeopathist;60
+homeopathists;60
+homeopaths;60
+homeopathy;60
 homeostasis;50
 homeostatic;50
 homeostatically;50
@@ -26154,14 +26165,14 @@ homeplateumpire;60
 homeplateumpires;60
 homeplateumps;60
 homerdome;50
-homeroom;50
-homerooms;50
-homeruntrot;50
-homeruntrots;50
-homeschool;50
-homeschooled;50
-homeschooling;50
-homeschools;50
+homeroom;60
+homerooms;60
+homeruntrot;60
+homeruntrots;60
+homeschool;60
+homeschooled;60
+homeschooling;60
+homeschools;60
 homescreen;50
 homesecretary;50
 homeshow;50
@@ -26245,6 +26256,7 @@ honorcodes;50
 honore;40;Honore de Balzac
 honorer;30
 honorers;30
+honorroll;60
 honorrolls;40
 honshu;40
 hoo;20
@@ -26575,6 +26587,7 @@ how;50
 howaboutno;60
 howbadcoulditbe;60
 howbizarre;60
+howcani;60
 howcanideletesomeoneelsescomment;60
 howcanideletesomeoneelsespost;60
 howcool;60
@@ -29290,6 +29303,7 @@ itsquiteastretch;60
 itsreallyinthere;60
 itsselfexplanatory;60
 itsserious;60
+itssimple;60
 itssimplereally;60
 itssoeasyachildcandoit;60
 itssoeasyachildcoulddoit;60
@@ -32167,6 +32181,7 @@ legoland;60
 legomania;50
 legominifigure;50
 legominifigures;50
+legomovie;60
 legoset;50
 legosets;50
 legpress;50
@@ -32219,21 +32234,26 @@ lemmeatem;60
 lemming;50
 lemmings;50
 lemnos;30;Greek island
-lemoncurd;50
+lemoncurd;60
 lemond;40;Tour de France winner Greg LeMond
-lemondrizzlecake;50
-lemondrizzlecakes;50
-lemondropcookie;50
-lemondropcookies;50
+lemondrizzle;60
+lemondrizzlecake;60
+lemondrizzlecakes;60
+lemondrop;60
+lemondropcookie;60
+lemondropcookies;60
 lemonglaze;50
 lemonl;0
-lemonmeringue;50
-lemonrind;50
-lemonrinds;50
-lemonslices;50
-lemontwist;50
-lemontwists;50
-lemonzest;50
+lemonmeringue;60
+lemonmeringuepie;60
+lemonmeringuepies;60
+lemonrind;60
+lemonrinds;60
+lemonslice;60
+lemonslices;60
+lemontwist;60
+lemontwists;60
+lemonzest;60
 lempira;30;Honduran currency
 lempiras;30
 lemuel;30;Biblical king, or Gulliver of "Gulliver's Travels"
@@ -34249,8 +34269,10 @@ madrona;20;Tree
 madronas;20;Trees
 madrone;20;Tree
 madrones;20;Trees
+mads;40;Actor Mads Mikkelsen
 madscientist;60
 madscientists;60
+madsmikkelsen;60
 madura;30;Indonesian island
 maduro;30;Nicolás Maduro, president of Venezuela
 mae;50
@@ -36101,6 +36123,7 @@ mikeehrmantraut;50;Mike Ehrmantraut from "Breaking Bad" / "Better Caul Saul"
 mikepatton;50
 mikeportnoy;50
 miking;50
+mikkelsen;40;Actor Mads Mikkelsen
 mil;40
 mila;40
 milady;50
@@ -37589,6 +37612,7 @@ myriapod;30
 myriapods;30;Millipedes, centipedes, etc.
 myrna;30;Myrna Loy, Nora Charles in "The Thin Man"
 myron;30;Ancient sculptor
+myrrhs;40;Plural?
 myrtletheturtle;60
 myship;40;Kurt Weill / Ira Gershwin song from "Lady in the Dark" (song has its own Wikipedia article)
 mysides;60
@@ -42980,6 +43004,7 @@ peppershakers;50
 pepperx;60;Hottest pepper in the world as of 2023
 peppill;50
 peppills;50
+pepsicola;60
 peptalk;60
 peptalks;60
 pepto;40
@@ -44491,6 +44516,8 @@ polofields;50
 poloneck;50
 polonecks;50
 polonia;30
+poloshirt;60
+poloshirts;60
 polpot;30;Dictator
 pols;40
 poly;40;Prefix
@@ -45127,12 +45154,12 @@ prerock;40;Before rock music
 pres;40
 presa;30;Musical mark
 preseen;30
+presence;50
 presences;50
 presentcompanyexcluded;60
 presentee;40
 presentees;40
 presentism;60
-presernce;50
 presidentialbid;50
 presidentialbids;50
 presidentialdetail;50
@@ -53085,6 +53112,7 @@ siryessir;50
 sis;50
 sisal;20
 sisals;20
+sisepuede;60
 sisi;40
 sisisi;40
 siskin;20;Type of finch
@@ -59448,6 +59476,7 @@ thelatest;60
 thelaw;40
 thelead;20
 theleft;30
+thelegomovie;60
 theleonids;40
 thelessiknowthebetter;60
 thelesssaidthebetter;60
@@ -61460,6 +61489,8 @@ trailingoff;50
 trailmix;50
 trailmixes;50
 trailoff;50
+trailrace;60
+trailraces;60
 trailsoff;50
 trainconductor;50
 trainconductors;50
@@ -61684,6 +61715,7 @@ trental;30;Blood circulation medicine
 trentas;30;Extra large Starbucks drinks
 trente;30
 trento;30;Italian city
+trentonnj;40
 trentreznor;60
 trepan;30;Skull saw
 trepang;30;Sea cucumber
