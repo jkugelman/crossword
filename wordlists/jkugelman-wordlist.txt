@@ -4965,6 +4965,7 @@ barbecuewings;60
 barbel;20;Fish
 barbels;20;Fish
 barbequechicken;50
+barbera;40;Hanna-Barbera
 barberpole;60
 barberpoles;60
 barbi;30;Model Benton married to Hugh Hefner
@@ -13884,6 +13885,7 @@ deepbreaths;60
 deepcut;60
 deepcuts;60
 deepdarksecrets;60
+deepdish;60
 deepdishpizza;60
 deepdishpizzas;60
 deepdive;60
@@ -15094,6 +15096,7 @@ dnd;20
 dnepr;20;Russian river
 dnh;20
 dnieper;30;Ukrainian river
+dniester;30;River
 dnipro;30;Ukrainian river
 dny;20
 do;50
@@ -15358,6 +15361,7 @@ doingtoatee;40
 doingup;40
 doingyourfairshare;50
 doink;30
+doismell;60
 doitatonce;40;Green paint?
 doitforthegram;60
 doitnow;60
@@ -18749,12 +18753,12 @@ exoiler;20
 exoplanet;50
 exoplanets;50
 exorcise;50
-exorcism;50
-exorcisms;50
-exorcist;50
-exorcists;50
-exoskeleton;50
-exoskeletons;50
+exorcism;60
+exorcisms;60
+exorcist;60
+exorcists;60
+exoskeleton;60
+exoskeletons;60
 exoteric;30;Intended for the general public
 exotic;50
 exotica;60
@@ -18862,6 +18866,7 @@ eyebrowpiercing;60
 eyebrowpiercings;60
 eyechart;50
 eyecharts;50
+eyedness;40
 eyedoc;40
 eyedocs;40
 eyefold;50
@@ -24660,6 +24665,7 @@ hankofhair;40
 hankypanky;60
 hanlon;50;Hanlon's razor
 hanlonsrazor;60
+hanna;40;Hanna-Barbera
 hansard;30;Transcripts of parliamentary debates in Britain
 hansarp;40;Artist AKA Jean Arp
 hanseaticleague;30;???
@@ -27837,6 +27843,7 @@ imserious;60
 imshockeditellyou;60
 imshook;60
 imsobored;60
+imsodead;60
 imsohereforit;60
 imsold;60
 imsoold;60
@@ -29238,6 +29245,7 @@ itscrazy;60
 itservice;40
 itservices;40
 itsfasterifwesplitup;60
+itsfate;60
 itsfinallyhappened;60
 itsfinallyhappening;60
 itsfine;50
@@ -29286,6 +29294,7 @@ itsokaybyme;50
 itsokbyme;50
 itsokwithme;50
 itsonlyamatteroftime;60
+itsonme;60
 itsoundsfishy;50
 itsoundslikeaskillissue;60
 itsoundslikeayouproblem;60
@@ -40592,14 +40601,14 @@ oneil;40;Buck O'Neil, first black coach in the MLB
 oneill;40
 oneilove;30;Needs "the"
 oneinch;40
-oneinten;40
-oneintwo;40
+oneinten;50
+oneintwo;50
 oneiric;30;???
 oneiro;20;Dream prefix
 oneiron;50
 oneirons;50
 oneistheloneliestnumber;60
-onekilo;30
+onekilo;40
 onel;40
 onelap;30
 onelb;40
@@ -40610,7 +40619,7 @@ onelinefix;50
 oneliner;60
 oneliners;60
 onelira;30
-oneliter;30
+oneliter;40
 onelitre;20
 onellama;40
 onelot;20
@@ -42568,6 +42577,7 @@ pavan;20
 pavane;40;16th century dance
 pavanes;40
 pavans;40
+pavel;40;Name, various
 paw;50
 pawat;40
 pawedat;40
@@ -55715,6 +55725,8 @@ statesenates;60
 statesenator;60
 statesenators;60
 statetelevision;60
+statice;30;Flower
+staticelectricity;60
 staticip;50
 staticips;50
 statin;50;Cholesterol-lowering drug
@@ -56088,6 +56100,7 @@ stillanyonesgame;60
 stillatit;50
 stille;30;German carol "Stille Nacht"
 stillgotit;60
+stillme;60
 stillmooing;60
 stillof;0
 stillstanding;50
@@ -66368,6 +66381,7 @@ yaketysax;60
 yaketyyak;60
 yakima;30;Washington tribe
 yakimas;30;Washington tribe
+yakisoba;60
 yakov;40;Yakov Smirnoff
 yakutsk;40;Russian city
 yalealum;40
