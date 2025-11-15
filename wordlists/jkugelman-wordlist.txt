@@ -8535,6 +8535,7 @@ callto;40
 calltoarms;50
 callup;40
 calmbeforethestorm;60
+calmsea;40;Green paint?
 calmseas;50
 calomel;30;Old medicine
 calorniaraisins;0
@@ -31905,6 +31906,7 @@ ldopa;40
 ldr;20
 lds;40
 lea;40
+leacock;40;Early 1900s humorist Stephen Leacock
 leadapron;50
 leadaprons;50
 leadbyexample;60
@@ -32182,32 +32184,33 @@ legitimated;40
 legitimates;40
 legitimating;40
 legitimation;40
-legitimism;30
-legitimist;30
+legitimism;40
+legitimist;40
 legless;50
-leglock;50
-leglocked;50
-leglocks;50
+leglock;60
+leglocked;60
+leglocks;60
 legmusclevitamins;60;Acme invention
-legoart;50
-legoblock;50
-legoblocks;50
-legobrick;50
-legobricks;50
+legoart;60
+legoblock;60
+legoblocks;60
+legobrick;60
+legobricks;60
+legofmutton;60
 legoland;60
 legomania;50
-legominifigure;50
-legominifigures;50
+legominifigure;60
+legominifigures;60
 legomovie;60
-legoset;50
-legosets;50
-legpress;50
-legpresses;50
+legoset;60
+legosets;60
+legpress;60
+legpresses;60
 legree;30;Simon Legree of "Uncle Tom's Cabin"
 legroom;60
 legsleeve;60
 legsleeves;60
-legsofmutton;50
+legsofmutton;60
 legtat;60
 legtats;60
 legtattoo;60
@@ -34707,6 +34710,7 @@ malleolus;40;Ankle bump
 mallets;50
 mallrat;50
 mallrats;50
+malmsey;40;Style of Madeira wine
 malmsteen;50
 malo;40;Bad: Sp.
 malocchio;40;Italian superstition, "evil eye"
@@ -38393,6 +38397,7 @@ newhires;50
 newintown;50
 newjersey;50
 newleaf;50
+newlook;60
 newlydiscovered;50
 newmansown;50
 newme;60
@@ -38452,6 +38457,8 @@ newulm;30;???
 newwave;50
 newyearnewme;60
 newyearsevegala;50
+newyork;60
+newyorkcity;60
 newyorkercartoon;60
 newyorkercartoons;60
 newyorkislander;50
@@ -41968,6 +41975,7 @@ pajamabottoms;50
 pajamarich;60;So rich you don't care how you dress in public
 pajitnov;40;Alexey Pajitnov, creator of Tetris
 pak;40
+pakseri;40;LPGA Hall of Famer Pak Se-ri
 pal;50
 pala;20
 palacegate;60
@@ -45775,9 +45783,11 @@ puli;20;Dreadlocked dog
 puling;40;Whining
 pulis;20;Dreadlocked dogs
 pulisic;30;American soccer player
+pullat;40
 pullauey;50
 pullday;50
 pulldays;50
+pulledat;40
 pulledauey;50
 pulledon;40
 pulledoutallthestops;60
@@ -45786,6 +45796,7 @@ pulledrank;50
 pulledrankon;50
 pulledthegoalie;50
 pulledupbytheroots;50
+pullingat;40
 pullingauey;50
 pullingon;40
 pullingoutallthestops;60
@@ -45800,6 +45811,7 @@ pulloutallthestops;60
 pulloutbytheroots;50
 pullrank;50
 pullrankon;50
+pullsat;40
 pullsauey;50
 pullson;40
 pullsoutallthestops;60
@@ -49294,6 +49306,7 @@ rolle;30
 rolledacigar;50
 rolledby;40
 rolledinto;40
+rolledon;40
 rolledoveranira;20
 rolledr;50
 rolledrs;50
@@ -49315,6 +49328,7 @@ rollie;30;___ Fingers baseballer
 rollingacigar;50
 rollingby;40
 rollinginto;40
+rollingon;40
 rollingpin;50
 rollingpins;50
 rollings;30;Weird plural
@@ -49324,6 +49338,7 @@ rollingupto;40
 rollinto;40
 rollo;40;"Nancy" character
 rolloftape;50
+rollon;50;Roll-on deodorant
 rolloveracd;30;Green paint
 rolloverandplaydead;60
 rolloveranira;30;Green paint
@@ -49331,6 +49346,7 @@ rollsacigar;50
 rollsby;40
 rollsinto;40
 rollsoftape;50
+rollson;40
 rollsroyce;50
 rollsroyces;50
 rollsupintoaball;30
@@ -51273,6 +51289,7 @@ seascented;50
 seaserpent;50
 seaserpents;50
 seasia;30;???
+seasick;60
 seasider;50
 seasnail;50
 seasnails;50
@@ -51863,7 +51880,7 @@ serines;30
 serins;20
 seriouslydude;60;"Bro, really?"
 seriousmood;40;???
-seripak;50;Three-time LPGA champ (Se-ri Pak)
+seripak;40;LPGA Hall of Famer Se-ri Pak
 serj;40;Serj Tankian of System of a Down
 serjtankian;50;System of a Down singer
 sermon;50
@@ -60926,6 +60943,7 @@ toller;30;Real word???
 tollers;30
 tollman;40
 tollmen;40
+tollson;20
 tolstoyan;30
 toltec;40
 toltecs;40
