@@ -10951,6 +10951,7 @@ clubpro;50
 clubpros;50
 clubscene;50
 clubscenes;50
+clubsoda;60
 cluebat;60
 cluebot;20;???
 cluebyfour;60
@@ -12352,8 +12353,8 @@ cozening;30
 cozens;30
 cpa;40
 cpap;40
-cpapmachine;50
-cpapmachines;50
+cpapmachine;60
+cpapmachines;60
 cpas;40
 cpi;20
 cpl;40
@@ -12363,21 +12364,26 @@ cposharkey;40;Don Rickles sitcom 1976-78
 cpr;40
 cprclass;60
 cprclasses;60
-cprtrainer;50
-cprtrainers;50
+cprtrainer;60
+cprtrainers;60
 cpu;40
 cpus;40
-crabball;50
-crabballs;50
+crabball;60
+crabballs;60
 crabbe;30
-crabdip;50
-crabdips;50
+crabdip;60
+crabdips;60
 crableg;60
 crablegs;60
 crabmeat;50
-crabpuff;50
-crabpuffs;50
+crabpot;60
+crabpots;60
+crabpuff;60
+crabpuffs;60
+crabrangoon;60
 crabroe;40
+crabroll;60
+crabrolls;60
 crabsoup;50
 crabspider;50
 crabspiders;50
@@ -18486,6 +18492,7 @@ eugenicist;10
 eugenicists;10
 eugenics;10
 euglena;30;Algae genus
+eukanuba;40;Pet food brand
 eula;40
 eulas;40
 eulogia;30
@@ -28384,6 +28391,7 @@ inshambles;60
 insideinfo;50
 insideman;60
 insidemen;60
+insideof;40
 insidescoop;60
 insidestories;50
 insidestory;50
@@ -66661,6 +66669,8 @@ yoink;60
 yoinked;60
 yoinking;60
 yoinks;60
+yokemate;40
+yokemates;40
 yokozuna;60
 yokuts;30;California tribe
 yom;40
