@@ -554,7 +554,7 @@ actinic;30
 actinolite;30;Mineral
 actio;20
 action;50
-actioncomicsnumberone;50
+actioncomicsnumberone;60
 actiondoll;50
 actiondolls;50
 actionfigure;60
@@ -565,8 +565,8 @@ actionflick;60
 actionflicks;60
 actionhero;60
 actionheroes;60
-actionitem;50
-actionitems;50
+actionitem;60
+actionitems;60
 actionmovie;60
 actionmovies;60
 actionpacked;60
@@ -13052,6 +13052,8 @@ currerbell;60;Charlotte Brontë
 currish;20
 curseofexpertise;60
 curseofknowledge;60
+curser;40
+cursers;40
 curtainbangs;60
 curtest;30
 curtesy;30;Law term, see dower
@@ -19195,6 +19197,7 @@ familyunits;50
 familyvacation;60
 familyvalues;60
 famke;40;Famke Janssen
+famousforbeingfamous;60
 fams;20
 fan;50
 fanart;60
@@ -27070,6 +27073,10 @@ icksout;40
 iclaudius;50
 icleanforgot;60
 iconical;30
+iconoclasm;50
+iconoclast;60
+iconoclastic;60
+iconoclasts;60
 iconquered;40
 icosagon;40
 icosagons;40
@@ -29059,6 +29066,7 @@ istheskyblue;60
 isthisabadtime;60
 isthisajoketoyou;60
 isthisbetter;60;"Seem like an improvement?"
+isthisgood;60
 isthisit;60
 isthisyourcard;60
 isthmi;30
@@ -29336,6 +29344,7 @@ itstime;50
 itstimetomoveon;60
 itstoobad;60
 itstooearlytotell;60
+itstoolate;60
 itstoolatenow;60
 itsupport;30
 itsus;50
@@ -31506,6 +31515,8 @@ laprensa;30
 lapsat;40
 lapsedinto;40
 lapseinto;40
+lapser;30
+lapsers;30
 lapsesinto;40
 lapsinginto;40
 lapuente;40;L.A. suburb
@@ -60111,6 +60122,7 @@ thirdout;50
 thirdpunicwar;50
 thirdrail;60
 thirdrails;60
+thirdst;40
 thirdwave;50
 thirdwheeling;60;The act of being an awkward/unnecessary tag-along to a couple
 thirlby;40;Minor actress Olivia Thirlby (b. 1986)
@@ -66891,6 +66903,7 @@ youresocute;60
 yourestillhere;60
 youretellingmethisnow;60
 yourethebest;60
+youretoolate;60
 youreup;60
 yourgrace;50
 yourhonor;50
