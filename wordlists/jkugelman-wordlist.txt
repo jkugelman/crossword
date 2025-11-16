@@ -210,6 +210,8 @@ aboutface;50
 aboutfaced;50
 aboutfaces;50
 aboutlastnight;60
+aboutpage;60
+aboutpages;60
 aboutschmidt;50
 aboutto;40
 aboutturn;50
@@ -3364,6 +3366,7 @@ aroint;20;Shakespearean "Begone!"
 arointed;20
 arointing;20
 aroints;20;Drives away, archaic
+aromarama;60;AromaRama, competitor of Smell-O-Vision
 aromatize;40
 aron;40;Elvis Aron Presley
 aroo;30;Suffix with buck/switch [common]
@@ -7806,6 +7809,7 @@ bruited;30;Spread, as a rumor
 bruiting;30;Spreading, as a rumor
 bruits;30;Spreads, as a rumor
 brumaire;20
+brummell;40;Famous 1800s dandy Beau Brummell
 bruni;30;Carla ___
 bruschetta;50
 brusselsbelgium;30;???
@@ -10346,35 +10350,38 @@ choccy;40;British for "chocolate"
 chocice;40;Ice cream bar (British)
 chocices;40
 choco;30
+chocoholic;60
+chocoholics;60
 chocolatebrown;50
-chocolatecoated;50
+chocolatecoated;60
 chocolatecoin;60
 chocolatecoins;60
-chocolatedonut;50
-chocolatedonuts;50
+chocolatedonut;60
+chocolatedonuts;60
 chocolateeasteregg;60
 chocolateeastereggs;60
-chocolateeclair;50
-chocolateeclairs;50
-chocolateheart;50
-chocolatehearts;50
+chocolateeclair;60
+chocolateeclairs;60
+chocolateheart;60
+chocolatehearts;60
 chocolatemalted;20
-chocolaterabbit;50
+chocolaterabbit;60
+chocolaterabbits;60
 chocotaco;60
 chocotacos;60
 chocula;60
 choi;40
 choiceofweapons;50
-choirmaster;50
-choirmasters;50
-choirrobe;50
-choirrobes;50
+choirmaster;60
+choirmasters;60
+choirrobe;60
+choirrobes;60
 choirsinger;50
 choirsingers;50
 chokedon;40
 chokeon;40
-chokepoint;50
-chokepoints;50
+chokepoint;60
+chokepoints;60
 chokerhole;50
 chokerholes;50
 chokeson;40
@@ -26411,7 +26418,11 @@ hornswoggled;60
 hornswoggles;60
 hornswoggling;60
 horologe;20
+horoscope;60
 horoscoper;30
+horoscopes;60
+horoscopesign;60
+horoscopesigns;60
 horrorshow;60
 horrowshow;60
 horrowshows;60
@@ -36903,8 +36914,8 @@ moolatte;60
 moolattes;60
 moonbase;60
 moonbases;60
-moonbeam;50
-moonbeams;50
+moonbeam;60
+moonbeams;60
 moonboot;60
 moonboots;60
 moonbounce;60
@@ -36913,13 +36924,13 @@ mooncake;60;Chinese pastry eaten during Mid-Autumn Festival
 mooncakes;60
 moondog;50;Composer
 mooneyed;60;Wide-eyed
-moonglow;50
-moonlight;50
-moonlighted;50
-moonlighter;50
-moonlighters;50
-moonlighting;50
-moonlights;50
+moonglow;60
+moonlight;60
+moonlighted;60
+moonlighter;60
+moonlighters;60
+moonlighting;60
+moonlights;60
 moonman;60
 moonmen;60
 moonpie;60
@@ -36929,14 +36940,14 @@ moonquakes;60
 moonrise;60
 moonrises;50
 moonriver;60
-moonrover;50
-moonrovers;50
-moonscape;50
-moonscapes;50
-moonshine;50
-moonshiner;50
-moonshiners;50
-moonshinewhiskey;50
+moonrover;60
+moonrovers;60
+moonscape;60
+moonscapes;60
+moonshine;60
+moonshiner;60
+moonshiners;60
+moonshinewhiskey;60
 moonshining;50
 moonsuit;60
 moonsuits;60
@@ -41249,6 +41260,8 @@ oreocookies;50
 oreoos;30;Discontinued
 oreopie;40
 oreopies;40
+oreoshake;60
+oreoshakes;60
 oreosundae;40
 oreosundaes;40
 oreothin;50
@@ -41355,6 +41368,7 @@ oronyms;30;Phrases that sounds like another (ice cream / I scream)
 orosco;30;Jesse Orosco, major league record for career pitching appearances
 orotund;40;Deep, sonorous
 orotundity;40
+oroyplata;60;Montana's motto "Oro y Plata"
 orozco;40;Muralist José Clemente Orozco
 orpah;20;Biblical name
 orphanbot;60;"Futurama"'s Tinny Tim
@@ -43403,6 +43417,8 @@ pho;50
 phobos;60;Martian moon
 phobosanddeimos;20
 phoenixaz;40
+phonecase;60
+phonecases;60
 phoneditin;50
 phoneinterview;50
 phoneinterviews;50
@@ -52270,6 +52286,7 @@ shamrock;60
 shams;50
 shamu;40
 shanahan;40;49ers coach Kyle Shanahan
+shanatova;40;"Shana tova", Rosh Hashanah greeting
 shangrila;60
 shanksmare;40;One's own legs, slangily
 shankspony;40;One's own legs, slangily
@@ -57860,6 +57877,7 @@ takescreditfor;40
 takesdecisiveaction;60
 takesfive;60
 takesflak;50
+takeshape;60
 takeshowers;50
 takesign;50
 takesin;40
@@ -57870,6 +57888,7 @@ takeson;40
 takesorders;50
 takesout;40
 takespains;50
+takesshape;60
 takesthebait;60
 takesthecake;60
 takesthefall;60
@@ -57934,6 +57953,7 @@ takingon;40
 takingorders;50
 takingout;40
 takingpains;50
+takingshape;60
 takingthebait;60
 takingthefall;60
 takingthefield;60
@@ -60275,6 +60295,8 @@ threepm;40
 threeps;30
 threer;30
 threers;50
+threesome;60
+threesomes;60
 threetime;30
 threeway;50
 threeways;50
@@ -61138,6 +61160,7 @@ tookon;40
 tookorders;50
 tookout;40
 tookpains;50
+tookshape;60
 tookthebait;60
 tookthefall;60
 tookthefield;60
