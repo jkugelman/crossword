@@ -4619,6 +4619,7 @@ baddog;50
 badegg;60
 badegree;40
 badegrees;40
+badenbaden;40;German resort town Baden-Baden
 bader;30
 badeye;30
 badfat;60
@@ -4844,6 +4845,8 @@ bana;40;Actor Eric Bana
 bananaboat;60
 bananaboatsong;60
 bananabread;60
+bananachip;60
+bananachips;60
 bananacream;60
 bananacreampie;60
 bananacreampies;60
@@ -6763,6 +6766,10 @@ bluenun;30
 blueorigin;60
 bluepaint;20
 bluepaper;30
+bluepill;60
+blueplate;60
+blueplatespecial;60
+blueplatespecials;60
 bluesea;20
 blueshell;60;Mario Kart powerup
 blueshells;60
@@ -6787,6 +6794,9 @@ bluetoothheadset;50
 bluetoothheadsets;50
 bluetoothreceiver;50
 bluetoothreceivers;50
+bluewall;60
+bluewallstate;60
+bluewallstates;60
 bluey;50
 bluffthelistener;60;NPR show where three panelists tell stories and one's a lie
 blunger;40;Pottery machine
@@ -10405,6 +10415,7 @@ chopra;40;Deepak Chopra, new age author
 chopsdown;50
 chopshop;60
 chopshops;60
+chopsuey;60
 chordata;20;Animal phylum
 chordate;40;Phylum of animal
 chordates;40
@@ -11094,6 +11105,7 @@ cockofthewalk;60
 cockshy;10
 cockspur;20;Tree
 cockspurs;20;Trees
+cocksure;60
 cocktailbitters;50
 cocktaildress;50
 cocktaildresses;50
@@ -13195,6 +13207,7 @@ cyd;40
 cyfeuer;40;Theater producer Cy Feuer
 cyl;20
 cyndilauper;60
+cynosure;40;Center of attention
 cypher;20
 cyphers;20
 cyprian;30;St. Cyprian of Carthage (3rd century)
@@ -13293,7 +13306,7 @@ dakoits;20
 daktari;30;60s TV show
 dal;40;Indian lentils
 dalailama;60
-dalailamas;50
+dalailamas;60
 dalasi;30;Gambian currency
 dalecarnegie;50
 dalene;20;Couer d'Alene, Idaho
@@ -13552,6 +13565,7 @@ davebarry;50
 davebautista;60
 daverage;40
 daverages;40
+davethomas;60
 davidgeffen;50
 davidgilmour;60
 davidhedison;30;???
@@ -20917,8 +20931,10 @@ foughtfor;40
 foughtwith;40
 foulard;30;Lightweight fabric, or kerchief made from it
 foulards;30;Kerchief made from foulard fabric
-foulball;50
-foulballs;50
+foulball;60
+foulballs;60
+foulcall;60
+foulcalls;60
 foundation;50
 foundgod;60
 foundobject;50
@@ -35621,6 +35637,10 @@ medicks;30;Alfalfa-like plants
 medievaltimes;60
 mediocrereview;30;Green paint
 mediocrereviews;30
+meditatedon;40
+meditateon;40
+meditateson;40
+meditatingon;40
 mediumheat;50
 mediumhigh;50
 mediumlow;50
@@ -39105,6 +39125,7 @@ noquestionsasked;60
 nor;50
 nora;40
 norad;30
+noraephron;60
 noranda;20;Rouyn-Noranda, Quebec
 norbert;40;Unknown cluing angle, only used once in NYT
 norbit;40;Eddit Murphy movie
@@ -39367,6 +39388,7 @@ nou;20
 nougats;40
 noumea;20;South Pacific city
 noumena;30;Parts of Kantian philosophy
+noumenal;40
 noumenon;30;Part of Kantian philosophy
 nounal;30
 nouri;20;Actor Michael
@@ -41237,13 +41259,13 @@ oresteia;30;Trilogy by Aeschylus
 orestes;30;Figure of Greek myth
 orff;40;"Carmina Burana" composer Carl Orff
 org;40
-organdonor;50
-organdonorcard;50
-organdonorcards;50
-organdonors;50
-organgrinder;50
-organgrinders;50
-organicbeef;30;Green paint
+organdonor;60
+organdonorcard;60
+organdonorcards;60
+organdonors;60
+organgrinder;60
+organgrinders;60
+organicbeef;40;Green paint
 organicfood;60
 organiconions;20;Green paint
 organismic;30
@@ -44914,6 +44936,8 @@ potatobatteries;50
 potatobattery;50
 potatobud;50
 potatobuds;50
+potatochip;60
+potatochips;60
 potatoe;20;Dan Quayle's misspelling
 potatohead;60
 potboy;40;Boy who serves drinks in a tavern
@@ -47527,10 +47551,9 @@ redoses;20
 redosier;30;Type of dogwood tree
 redosing;20
 redox;40;Oxidation-reduction reaction
-redpanda;50
-redpandacub;50
+redpanda;60
 redpandacubs;50
-redpandas;50
+redpandas;60
 redpen;50
 redpencil;50
 redpenciled;50
@@ -50456,6 +50479,7 @@ san;40
 sanaa;30;Capital of Yemen
 sanaayemen;50
 sanantone;50;Texas city, casually
+sanantonio;60
 sanantoniospurs;50
 sanantoniotx;30
 sancta;40
@@ -53292,6 +53316,8 @@ sizetwo;30
 ska;50
 skag;30;Surfboard fin
 skags;30
+skald;30;Old Norse poet
+skalds;30
 skanky;40
 skarsgard;50;Acting family
 skarsgards;50;Acting family
@@ -53379,6 +53405,7 @@ skilesson;50
 skilessons;50
 skilledlabor;50
 skillissue;60
+skilly;30
 skillz;20
 skilodge;50
 skilodges;50
@@ -54747,6 +54774,8 @@ soupspoon;50
 soupspoons;50
 souptonuts;60
 sourapple;60
+sourball;60
+sourballs;60
 sourish;30
 sournote;60
 sournotes;60
@@ -63316,6 +63345,11 @@ urb;20
 urbanart;50
 urbaner;40;Listed first in dictionary, but more urbane is better in ngram
 urbanest;40
+urbanhike;60
+urbanhiker;60
+urbanhikers;60
+urbanhikes;60
+urbanhiking;60
 urbani;20;Pope
 urbanii;20
 urbaniv;20
@@ -63731,10 +63765,10 @@ vcrtape;40
 vcrtapes;40
 vcs;40;Venture capitalists
 vday;40
-vealcutlet;50
-vealcutlets;50
+vealcutlet;60
+vealcutlets;60
 veallawfourchin;0
-vealparm;50
+vealparm;60
 ved;20
 vedanta;40;School of Hindu philosophy
 vedantic;40
@@ -63742,22 +63776,23 @@ vee;30
 vees;30
 veet;30;Hair removal cream
 veg;50
-veganbacon;50
-vegancheese;50
-vegandiet;50
-vegandiets;50
-veganmayo;50
-vegasstrip;50
+veganbacon;60
+vegancheese;60
+vegandiet;60
+vegandiets;60
+veganmayo;60
+vegasstrip;60
 vegasvic;50
 vegetable;50
-vegetableskewer;50
-vegetableskewers;50
-vegetarianbacon;50
-vegetarianmenus;50
-veggieburger;50
-veggieburgers;50
-veggietray;50
-veggietrays;50
+vegetableskewer;60
+vegetableskewers;60
+vegetarianbacon;60
+vegetarianmenu;60
+vegetarianmenus;60
+veggieburger;60
+veggieburgers;60
+veggietray;60
+veggietrays;60
 veh;20
 veinte;40
 vel;20
@@ -66715,6 +66750,7 @@ yokemate;40
 yokemates;40
 yokozuna;60
 yokuts;30;California tribe
+yolatengo;60
 yom;40
 yomama;60
 yomamma;60
@@ -66851,6 +66887,8 @@ youoweme;60
 youpick;50;"I can't decide..."
 yourargumentisinvalid;60
 yourball;60
+yourcall;60
+yourdeal;60
 youreadmymind;60
 youreadthatright;60
 youreagenius;60
