@@ -11208,6 +11208,7 @@ cofactors;50
 coffeebadging;60
 coffeecart;50
 coffeecarts;50
+coffeeisforclosers;60
 coffeemilk;50
 coffeemilks;50
 coffeemug;50
@@ -32795,6 +32796,8 @@ likeandsubscribe;60
 likeasnot;60
 likeatickingtimebomb;60
 likebumpsonalog;60
+likebutton;60
+likebuttons;60
 likeclockwork;60
 likecommentandsubscribe;60
 likedrinkingfromafirehose;60
@@ -37652,6 +37655,7 @@ myeye;50;"Like hell"
 myeyesareuphere;60
 myfamily;50
 mygod;60
+mygooseiscooked;60
 myheart;0
 myidea;20;Green paint
 mykingdomforahorse;60
@@ -56857,8 +56861,8 @@ subjectedto;40
 subjectingto;40
 subjection;40
 subjectmatter;50
-subjectmatterexpert;50
-subjectmatterexperts;50
+subjectmatterexpert;60
+subjectmatterexperts;60
 subjectsto;40
 subjectto;40
 subjoin;40
@@ -56872,8 +56876,8 @@ suborbital;50
 suborbitals;50
 subpoenas;50
 subrosa;50
-subscribebutton;50
-subscribebuttons;50
+subscribebutton;60
+subscribebuttons;60
 subscribetoday;50
 subsfor;40
 subspace;50
@@ -62596,12 +62600,28 @@ twirp;20;Variant of twerp
 twirps;20
 twistandturn;60
 twistedandturned;60
+twistedankle;60
+twistedankles;60
+twistedhumor;60
+twistedonesarm;60
+twistedoneswords;60
+twistedsister;60
+twistedtheknife;60
 twistending;60
 twistendings;60
 twistingandturning;60
+twistingonesarm;60
+twistingoneswords;60
+twistingtheknife;60
 twistoffate;60
+twistonesarm;60
+twistoneswords;60
 twistsandturns;60
 twistsoffate;60
+twistsonesarm;60
+twistsoneswords;60
+twiststheknife;60
+twisttheknife;60
 twitterfeed;50
 twitterfeeds;50
 twitterfollower;50
