@@ -27585,7 +27585,12 @@ illuses;40
 illusional;30;Illusory
 illusioncake;50
 illusioncakes;50
-illusionofchoice;60
+illusionofchoice;60;Cognitive bias
+illusionofcompetence;60;Cognitive bias
+illusionofcontrol;60;Cognitive bias
+illusionofexplanatorydepth;60;Cognitive bias
+illusionofself;60;Cognitive bias
+illusionoftransparency;60;Cognitive bias
 illyria;30;"Twelfth Night" setting
 illyrian;30
 illyrians;30
@@ -42265,6 +42270,7 @@ paradingregally;0
 paradox;60
 paradoxes;60
 paradoxical;60
+paradoxofchoice;60
 paragonite;30;Mineral
 parallax;60
 parallelpark;50
@@ -59762,6 +59768,7 @@ theozonelayer;40
 thepacers;40
 thepack;30
 thepackers;40
+theparadoxofchoice;60
 theparismetro;30
 theparthenon;40
 thepartyline;40;???
