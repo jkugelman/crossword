@@ -11336,7 +11336,7 @@ coldviruses;50
 coldwarpolicies;30
 coldwave;50
 coldwaves;50
-coleco;50
+coleco;40
 coles;40;Nat and Natalie
 coleslaws;30
 colgate;50
@@ -12314,25 +12314,37 @@ coverband;50
 coverbands;50
 coveredabeat;50
 coveredfor;40
+coveredonestracks;60
+coveredthespread;60
 coverfor;40
 coveringabeat;50
 coveringfor;40
+coveringonestracks;60
+coveringthespread;60
 coverme;60
 covername;50
 covernames;50
-coverphoto;50
-coverphotos;50
+coveronestracks;60
+coverphoto;60
+coverphotos;60
 coversabeat;50
 coversfor;40
 coverslip;50
 coverslips;50
+coversonestracks;60
 coversong;60
 coversongs;60
+coversthespread;60
 coverstories;60
 coverstory;60
+coverthespread;60
 covertmission;60
 covertmissions;60
 coverts;20
+coverup;60
+coverups;60
+coverversion;60
+coverversions;60
 coving;30;Relative of crown molding
 covings;30
 cow;50
@@ -12682,8 +12694,8 @@ crinoid;30;Marine animal
 crinoids;30;Marine animals
 crip;40
 crips;40
-crisishotline;50
-crisishotlines;50
+crisishotline;60
+crisishotlines;60
 crispr;50
 crisscross;60
 crisscrossapplesauce;60
@@ -12692,11 +12704,11 @@ crisscrosses;60
 crisscrossing;60
 crist;40;Movie critic Judith Crist (1922-2012)
 crit;30
-criterionchannel;50
+criterionchannel;60
 criterioncloset;60
 criterioncollection;60
 critic;50
-criticalness;30
+criticalness;40
 critics;50
 criticslist;60
 criticslists;60
@@ -12717,15 +12729,15 @@ crooklyn;60
 croot;20;???
 cropcircle;60
 cropcircles;60
-cropdust;50
-cropdusted;50
-cropduster;50
-cropdusters;50
-cropdusting;50
-cropdusts;50
+cropdust;60
+cropdusted;60
+cropduster;60
+cropdusters;60
+cropdusting;60
+cropdusts;60
 cropped;50
-croptop;50
-croptops;50
+croptop;60
+croptops;60
 croquembouche;50;French dessert
 croquembouches;50
 croquenbouche;50;French dessert
@@ -12734,20 +12746,20 @@ crosier;40;Bishop's staff
 crosiers;40
 crossat;40
 crossatthegreen;0
-crossbearer;50
-crossbearers;50
+crossbearer;60
+crossbearers;60
 crossborder;50
-crosscountryflight;50
-crosscountryflights;50
+crosscountryflight;60
+crosscountryflights;60
 crosscountrymeet;50
 crosscountrymeets;50
-crosscountryski;50
-crosscountryskier;50
-crosscountryskiers;50
-crosscountryskiing;50
-crosscountryskis;50
-crosscountryteam;50
-crosscountryteams;50
+crosscountryski;60
+crosscountryskier;60
+crosscountryskiers;60
+crosscountryskiing;60
+crosscountryskis;60
+crosscountryteam;60
+crosscountryteams;60
 crosse;30;La crosse stick
 crossedoffthelist;60
 crossedpartylines;60
@@ -58776,6 +58788,7 @@ tellafib;40
 tellies;50
 tellingon;40
 tellingtalesofschool;60
+tellingto;40
 tellittothejudge;60
 tellmemore;60
 tellmethetruth;60
@@ -58787,8 +58800,10 @@ tellsafib;40
 tellsof;40
 tellson;40
 tellstalesofschool;60
+tellsto;40
 telltalesofschool;60
 tellthemisaidhi;60
+tellto;40
 tellyounolies;60
 telnet;30
 telomere;30;Genetic word
@@ -61063,6 +61078,7 @@ toldno;50
 toldof;40
 toldon;40
 toldtalesofschool;60
+toldto;40
 toldya;60
 toldyou;60
 toldyouso;60
