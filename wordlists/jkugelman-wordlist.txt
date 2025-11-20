@@ -922,7 +922,13 @@ aerology;30
 aerometer;40
 aerometers;40
 aeroperu;30;Defunct Peruvian airline
-aerosmith;50
+aeroplane;50
+aeroplanes;50
+aerosmith;60
+aerospace;60
+aerospaceengineer;60
+aerospaceengineering;60
+aerospaceengineers;60
 aerostar;40;Ford car or Piper plane
 aerostars;40
 aerostat;40;???
@@ -3854,6 +3860,7 @@ astringently;40
 astringes;40
 astringing;40
 astrings;40
+astrodome;60
 astroid;30;Type of mathematical curve
 astroids;30
 astronaut;50
@@ -18886,17 +18893,18 @@ exserts;30
 exspy;40
 exstar;20
 ext;40
-extendanolivebranch;50
-extendedanolivebranch;50
-extendinganolivebranch;50
-extendsanolivebranch;50
+extendanolivebranch;60
+extendedanolivebranch;60
+extendinganolivebranch;60
+extendsanolivebranch;60
 extensionladder;50
+extensionladders;50
 extenuatingcircumstances;60
 extoller;30
 extollers;30
 extrahot;50
-extramile;50
-extramustard;30
+extramile;60
+extramustard;60
 extraolive;20
 extrarare;50
 extraspicy;50
@@ -25530,6 +25538,8 @@ heraldry;50
 herbcaen;40
 herbfarm;50
 herbfarms;50
+herbtea;40;Herbal tea is more common
+herbteas;40
 herc;20;"The Wire" character is the best result...
 hercules;50
 herd;50
@@ -36998,6 +37008,8 @@ moonshiner;60
 moonshiners;60
 moonshinewhiskey;60
 moonshining;50
+moonstone;60
+moonstones;60
 moonsuit;60
 moonsuits;60
 moorage;40
@@ -52647,6 +52659,8 @@ shoehornsin;50
 shoeleather;60
 shoepac;30;Waterproof boot
 shoepacs;30
+shoephone;60;"Get Smart" gadget
+shoephones;60
 shoeprint;50
 shoeprints;50
 shoeshinegirl;50
@@ -54362,8 +54376,10 @@ soaper;30;Soap opera, informally
 soapers;30
 soapnut;40
 soapnuts;40
-soapopera;50
-soapoperas;50
+soapopera;60
+soapoperas;60
+soapoperastar;60
+soapoperastars;60
 soapstar;60
 soapstars;60
 soaredto;40
