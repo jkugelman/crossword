@@ -19291,6 +19291,7 @@ faqirs;40
 faqs;40
 far;50
 farad;40
+faradays;40;Units of charge, replaced by coulombs
 farads;40
 farandaway;50
 farandole;30;French dance
@@ -20641,6 +20642,11 @@ focusses;20
 foe;50
 foer;30;Author Jonathan Safran Foer
 fog;50
+fogalarm;20;???
+fogalarms;20
+fogarty;40;???
+fogcannon;60
+fogcannons;60
 fogel;40;Economist Robert Fogel
 foggedin;40
 foggingin;40
@@ -31981,7 +31987,7 @@ ldl;40
 ldopa;40
 ldr;20
 lds;40
-lea;40
+lea;50
 leacock;40;Early 1900s humorist Stephen Leacock
 leadapron;50
 leadaprons;50
@@ -51524,6 +51530,7 @@ securityflaw;50
 securityflaws;50
 securityleak;50
 securityleaks;50
+securitysmoke;60
 securitytheater;60
 sed;20
 sedalia;20;Missouri town
