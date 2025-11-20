@@ -10895,8 +10895,8 @@ clootie;30;Scottish dumpling
 clorets;40;Gum/mint brand
 closecall;60
 closecalls;60
-closeddebate;50
-closeddebates;50
+closeddebate;60
+closeddebates;60
 closeddoor;50
 closeddown;50
 closedinon;40
@@ -10920,10 +10920,10 @@ closetalkers;60
 closetheloop;50
 closeto;40
 closetorganizer;50
-closeup;50
-closeups;50
-closeupshot;50
-closeupshots;50
+closeup;60
+closeups;60
+closeupshot;60
+closeupshots;60
 closingceremonies;50
 closingceremony;50
 closingdown;50
@@ -30072,6 +30072,8 @@ jokingwith;40
 jolietjake;50
 jollily;30;Weird adverb
 jolteon;50;Pokeyman
+jolter;30
+jolters;30
 jon;50
 jonanderson;60
 jonathanbanks;50;Mike Ehrmantraut actor
@@ -49389,6 +49391,7 @@ roi;40
 roid;40
 roids;50
 roister;40
+roistered;40
 roisterer;30
 roisterers;30
 roistering;40
@@ -60136,6 +60139,7 @@ thewholeshootingmatch;60
 thewickedwitchoftheeast;60
 thewickedwitchofthewest;60
 thewickerman;50
+thewindycity;60
 thewinterstale;60
 thewisemen;30
 thewool;40
@@ -65845,6 +65849,7 @@ windturbine;50
 windturbines;50
 winduptoy;50
 winduptoys;50
+windycity;60
 wineaficionado;50
 wineaficionados;50
 wineandcheeseparties;60
