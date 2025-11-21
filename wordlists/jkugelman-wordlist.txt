@@ -5986,6 +5986,7 @@ bestowson;50
 bestseller;50
 bestsellers;50
 bestupset;60;ESPY award
+besuretosmackthatbell;60
 besweeton;50
 bet;50
 betamale;40
@@ -15549,6 +15550,7 @@ dontdespair;60
 dontdillydally;60
 dontdothat;60
 donterase;60
+dontforgettosmackthatbell;60
 dontfreakout;60
 dontfret;60
 dontfretnow;60
@@ -16143,6 +16145,8 @@ droolon;40
 droolson;40
 dropabeat;50
 dropacid;50
+dropacomment;60
+dropacommentdownbelow;60
 dropahint;50
 dropbars;60;Rap well
 dropbehind;50
@@ -16160,6 +16164,7 @@ droplikeflies;60
 droponesaitches;30
 droppedabeat;50
 droppedacid;50
+droppedacomment;60
 droppedahint;50
 droppedbars;60
 droppedlikeflies;60
@@ -16170,6 +16175,7 @@ droppedthebanhammeron;60
 droppedtrou;60
 droppingabeat;50
 droppingacid;50
+droppingacomment;60
 droppingahint;50
 droppingbars;60
 droppinglikeflies;60
@@ -16182,6 +16188,7 @@ droppoint;60
 droppoints;60
 dropsabeat;50
 dropsacid;50
+dropsacomment;60
 dropsahint;50
 dropsbars;60
 dropsbombs;50
@@ -32129,6 +32136,8 @@ leatherpump;50
 leatherpumps;50
 leatherseat;50
 leatherseats;50
+leaveacomment;60
+leaveacommentdownbelow;60
 leavego;20
 leavein;40
 leaveme;50
@@ -32142,6 +32151,7 @@ leaveon;40
 leaveonread;60
 leaver;30
 leavers;30
+leavesacomment;60
 leavesin;40
 leaveson;40
 leavesonread;60
@@ -32151,6 +32161,7 @@ leaveto;40
 leavetonguetied;50
 leavewhileyoustillcan;60
 leaveyouregoatthedoor;60
+leavingacomment;60
 leavingin;40
 leavingon;40
 leavingonread;60
@@ -32217,6 +32228,7 @@ leersat;40
 leet;40;Leetspeak [rare]
 leetch;30;Who???
 leetspeak;50
+leftacomment;60
 leftfor;40
 leftfordead;60
 leftin;40
@@ -53954,6 +53966,7 @@ smacktalk;60
 smacktalked;60
 smacktalking;60
 smacktalks;60
+smackthatbell;60
 smalla;30
 smallas;30
 smallautomobile;20
