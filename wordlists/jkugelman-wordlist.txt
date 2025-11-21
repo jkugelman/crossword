@@ -10424,8 +10424,8 @@ chopblockpenalties;60
 chopblockpenalty;60
 chopchop;60
 chopdown;50
-chophouse;50
-chophouses;50
+chophouse;60
+chophouses;60
 chopine;30
 choppeddown;50
 choppedpecans;50
@@ -22074,6 +22074,8 @@ gelid;40
 gelidity;40
 gelinsert;50
 gelinserts;50
+gellar;40
+geller;40
 gelt;40;Hannukah money
 gem;50
 geminate;40
