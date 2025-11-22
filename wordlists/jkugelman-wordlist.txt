@@ -42249,8 +42249,9 @@ panflute;50
 panflutes;50
 panforgold;50
 panfry;50
-panicle;20;Flower cluster
-panicles;20;Flower clusters
+panicle;30;Flower cluster
+panicled;30
+panicles;30
 panicroom;60
 panicrooms;60
 panin;30;Zoom in, not pan in
