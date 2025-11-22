@@ -5831,7 +5831,8 @@ beldam;30;Hag
 beldame;30;Hag
 beldar;40;Beldar Conehead
 belesprit;40;Person with a gifted mind
-belieber;50
+belieber;60
+beliebers;60
 believedin;40
 believein;40
 believeit;60
@@ -14307,6 +14308,8 @@ deponed;30
 deponent;20;Deposition target
 deponents;20;Deposition targets
 depones;30
+depositaries;40
+depositary;40
 depositions;50
 depredate;30
 depredated;30
