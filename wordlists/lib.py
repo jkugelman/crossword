@@ -198,6 +198,39 @@ def _normalize(word, synonyms):
 
     return synonyms
 
+def parts_of_speech(word):
+    """
+    Return a set of all coarse parts of speech for a given word.
+
+    To use:
+
+    ```
+    $ docker run -it --rm -v $PWD:/home -w /home python bash
+    # pip install nltk lxml
+    # python
+    >>> import nltk
+    >>> nltk.download('wordnet')
+    >>> nltk.download('omw-1.4')  # for more word coverage
+    """
+    from nltk.corpus import wordnet as wn
+
+    pos_tags = set()
+    pos_map = {
+        'n': 'noun',
+        'v': 'verb',
+        'a': 'adjective',
+        's': 'adjective',  # WordNet uses 's' for satellite adjectives
+        'r': 'adverb'
+    }
+
+    for synset in wn.synsets(word):
+        pos = synset.pos()
+        if pos in pos_map:
+            pos_tags.add(pos_map[pos])
+
+    return pos_tags
+
+
 def spell_meta(meta, themers, min_count=None, max_count=None):
     """
     Yields sets of themers that spell the meta answer.
