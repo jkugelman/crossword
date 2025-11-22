@@ -7232,6 +7232,11 @@ boreon;40
 boreout;50
 borer;40
 borers;40
+boresight;50
+boresighter;50
+boresighters;50
+boresighting;50
+boresights;50
 boresinon;30
 borge;40;Comedy pianist Victor Borge
 boric;40;Boric acid
@@ -13242,6 +13247,7 @@ cyfeuer;40;Theater producer Cy Feuer
 cyl;20
 cyndilauper;60
 cynosure;40;Center of attention
+cynthiaerivo;60
 cypher;20
 cyphers;20
 cyprian;30;St. Cyprian of Carthage (3rd century)
@@ -31666,6 +31672,9 @@ lase;50
 lased;50
 laserbeam;60
 laserbeams;60
+laserboresighter;60
+laserboresighters;60
+laserboresighting;60
 lasercannon;60
 lasercannons;60
 lasercannonturret;60;Death Star weapon
