@@ -14,12 +14,21 @@ def main():
     names = {line.split(',')[0] for line in open('first-names.csv')}
 
     csv_writer = csv.writer(stdout)
-    csv_writer.writerow(['word', 'word_score', 'verb', 'verb_score', 'suffix', 'names', 'names_score'])
+    csv_writer.writerow(['Entry', 'Circled letter', 'Verb', 'Suffix', 'Names', 'Entry score', 'Verb score', 'Names score'])
     for word, verb, suffix, names in name_drops(words, names):
         word_score = words[word]
         verb_score = words.get(verb, 0)
         names_score = max(words.get(name, 0) for name in names)
-        csv_writer.writerow([word, word_score, verb, verb_score, suffix, ', '.join(names), names_score])
+        csv_writer.writerow([
+            word.upper(),
+            '',
+            verb,
+            suffix,
+            ', '.join(names),
+            word_score,
+            verb_score,
+            names_score,
+        ])
 
 def name_drops(words, names):
     names_trie = Trie()
