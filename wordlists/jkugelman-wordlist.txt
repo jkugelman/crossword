@@ -2902,6 +2902,7 @@ appearsin;40
 appearson;40
 appearsto;40
 appearto;40
+appendant;40
 appenines;40;???
 appii;20
 applauder;40
@@ -47107,11 +47108,15 @@ rattedon;40
 ratter;40;Rat-catching dog/cat
 ratters;40
 rattingon;40
+rattledon;40
+rattleon;40
 rattlesnakebite;60
 rattlesnakemeat;60
+rattleson;40
 rattlesonescage;60
 rattletrap;60
 rattletraps;60
+rattlingon;40
 rature;20
 rau;20
 raveler;20
@@ -48741,6 +48746,7 @@ revisal;30
 reviser;40
 revisers;40
 revisor;30
+revson;30
 rew;40
 rewarder;40
 rewarders;40
@@ -49163,17 +49169,20 @@ ripieno;30;Body of instruments accompanying the concertino in baroque concerto m
 ripinto;40
 ripintoshreds;30;Into?
 ripintwo;50
+ripon;40
 ripone;20
 ripost;20;Var. spelling
 rippedat;40
 rippedinto;40
 rippedintwo;50
+rippedon;40
 rippedone;20
 rippedtopieces;60
 rippedtoshreds;60
 rippingat;40
 rippinginto;40
 rippingintwo;50
+rippingon;40
 rippingone;20
 rippingtoshreds;60
 riproarin;50
@@ -49187,6 +49196,7 @@ ripsintwo;50
 ripsnorter;60
 ripsnorters;60
 ripsnorting;60
+ripson;40
 ripsone;20
 ripstoshreds;60
 riptide;60
@@ -54943,10 +54953,14 @@ souptonuts;60
 sourapple;60
 sourball;60
 sourballs;60
+souredon;50
+souringon;40
 sourish;30
 sournote;60
 sournotes;60
+souron;40
 sourpickle;50
+sourson;40
 soursop;40
 soursops;30;Is plural legit???
 souschef;50
@@ -55465,8 +55479,12 @@ spotwelds;60
 spr;20
 sprangaleak;50
 sprangfor;40
+sprayedon;40
+sprayingon;40
+sprayon;50
 sprayontan;50
 sprayontans;50
+sprayson;40
 spraytan;60
 spraytanned;60
 spraytanning;60
@@ -55599,9 +55617,13 @@ squashingbeefs;60
 squashingthebeef;60
 squashthebeef;60
 squealedlikeapig;60
+squealedon;40
 squealinglikeapig;60
+squealingon;40
 squeallikeapig;60
+squealon;40
 squealslikeapig;60
+squealson;40
 squee;60
 squeezy;30;Cramped
 squib;50
@@ -58158,6 +58180,7 @@ talkedat;40
 talkedback;50
 talkedbackto;40
 talkedinto;40
+talkedon;30
 talkedshop;60
 talkedto;40
 talkedupastorm;60
@@ -58165,6 +58188,7 @@ talkingat;40
 talkingback;50
 talkingbackto;40
 talkinginto;40
+talkingon;30
 talkingpig;50
 talkingpigs;50
 talkingshop;60
@@ -58175,11 +58199,13 @@ talkinto;40
 talklikeabook;60;Speak in flowery language
 talklikeapirate;60
 talklikeapirateday;60
+talkon;30
 talksat;40
 talksback;50
 talksbackto;40
 talkshop;60
 talksinto;40
+talkson;30
 talksoon;60
 talksshop;60
 talksto;40
@@ -64062,8 +64088,12 @@ verbphrase;50
 verbphrases;50
 vercingetorix;40;Gallic king
 vereen;40;Actor Ben Vereen
+vergedon;40
+vergeon;40
 verger;20
 vergers;20
+vergeson;40
+vergingon;40
 veriest;30
 verismo;40;Operatic genre meaning "true"
 verklempt;60
@@ -64197,13 +64227,17 @@ viesfor;40
 viet;40
 vietnamvet;60
 vietnamvets;60
+viewas;40
 viewbot;60
 viewbots;60
 viewbotter;60
 viewbotters;60
 viewbotting;60
 viewdata;20
+viewedas;40
 viewerslikeyou;60
+viewingas;40
+viewsas;40
 vig;50
 vigny;20;Alfred de ___
 vii;30
