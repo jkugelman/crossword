@@ -36,7 +36,7 @@ def name_drops(words, names):
         names_trie[name] = True
 
     for word in sorted(words):
-        for i in range(2, len(word) - 2):
+        for i in range(3, len(word) - 1):
             verb, suffix = word[:i], word[i:]
             if 'verb' not in parts_of_speech(verb):
                 continue
