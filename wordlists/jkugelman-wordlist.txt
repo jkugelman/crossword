@@ -4077,6 +4077,7 @@ atropos;40
 ats;30
 atsea;50
 atsight;20
+atsixesandsevens;60
 atspeed;30;???
 atstores;30
 atsymbol;50
@@ -6007,7 +6008,9 @@ bestirring;50
 bestirs;50
 bestman;60
 bestofbothworlds;60
-bestofseven;50
+bestoffive;60
+bestofseven;60
+bestofthree;60
 bestone;30;Green paint
 bestowedon;50
 bestowingon;50
@@ -17339,14 +17342,14 @@ eidolon;30;Idealized person, or a specter
 eidolons;30
 eieio;40
 eightad;20
-eightam;40
+eightam;50
 eightcrazynights;50;Adam Sandler movie
 eighteenhundredandfrozetodeath;60;1816, when a volcanic eruption created a volcanic winter
 eighteens;30
 eightieth;50
 eightiron;50
 eightirons;50
-eightpm;40
+eightpm;50
 eightsome;20
 eik;20;Eat in kitchen, in ads
 ein;40
@@ -17469,10 +17472,10 @@ eless;20
 elev;40
 elevatedhorror;60
 eleve;20;Student: Fr.
-elevenam;40
+elevenam;50
 elevenfiftynine;0
 elevenplus;40;Exam in the UK
-elevenpm;40
+elevenpm;50
 elevenses;40;???
 elevensides;30;Green paint
 eleventy;30
@@ -19988,6 +19991,7 @@ fiftieth;40
 fiftyfirstdates;50
 fiftyninth;40;???
 fiftypointbonus;30
+fiftyseven;40
 fig;50
 fightagainst;40
 fightalosingbattle;60
@@ -20362,7 +20366,7 @@ fittoat;40
 fittoatee;40
 fittowakethedead;60
 fittv;50
-fiveam;40
+fiveam;50
 fiveanddime;60
 fivedice;20
 fivehead;60
@@ -20372,7 +20376,7 @@ fivek;20
 fiveks;20
 fiveoclockshadow;60
 fivepillarsofislam;60
-fivepm;40
+fivepm;50
 fivetimechamp;20
 fivews;50
 fix;50
@@ -21115,6 +21119,7 @@ fortworthtx;30
 fortylove;30
 fortyniner;50
 fortyniners;50
+fortyseven;40
 fortytwo;60
 forwantofabetterword;60
 forwarder;40
@@ -21152,7 +21157,7 @@ fountaindrinks;50
 founts;50
 fouralarmfire;50
 fouralarmfires;50
-fouram;40
+fouram;50
 fourbars;50;Good signal
 fourbells;50
 fourdayworkweek;60
@@ -21163,7 +21168,7 @@ fourhundred;40
 fouriron;50
 fourirons;50
 fouronthefloor;60
-fourpm;40
+fourpm;50
 fourthandinches;60
 fourthandlong;60
 fourthrees;20
@@ -39019,7 +39024,7 @@ nimoy;40
 nin;40
 nincom;20
 nincompoop;60
-nineam;40
+nineam;50
 ninebc;20
 nineeleven;10
 nineinchnails;60
@@ -39028,7 +39033,7 @@ nineirons;50
 ninemile;30;Nine Mile Canyon in Utah
 nineof;20
 ninepence;30
-ninepm;40
+ninepm;50
 niner;40
 niners;40
 nines;40
@@ -40916,7 +40921,7 @@ oneactoperas;20
 oneall;50
 onealltie;40
 oneals;30
-oneam;40
+oneam;50
 oneandall;50
 oneando;40
 oneandoh;40
@@ -41045,7 +41050,7 @@ oneper;30
 onepiecer;30
 onepin;40
 oneplusone;0
-onepm;40
+onepm;50
 onepotato;50
 onepound;30
 onepunch;20
@@ -52465,7 +52470,7 @@ seuss;50
 seussian;60
 seussical;60
 sev;20
-sevenam;40
+sevenam;50
 sevencent;20
 sevencs;0
 seveniron;50
@@ -52473,7 +52478,7 @@ sevenirons;50
 sevenletterword;20
 sevenofdiamonds;20
 sevenout;60
-sevenpm;40
+sevenpm;50
 sevenseas;60
 seventeens;20;???
 seventeenths;40
@@ -53695,9 +53700,10 @@ siwashed;30
 siwashes;30
 siwashing;30
 six;50
-sixam;40
+sixam;50
 sixdaywar;50
 sixdegrees;50
+sixesandsevens;60
 sixgun;30
 sixiron;50
 sixirons;50
@@ -53705,7 +53711,7 @@ sixofone;50;...Half a dozen of another
 sixpack;60
 sixpackabs;60
 sixpast;30
-sixpm;40
+sixpm;50
 sixteen;50
 sixteens;40
 sixteenthnote;50
@@ -59212,7 +59218,7 @@ tenaciousd;60
 tenacities;30
 tenacre;40;Like a large plot
 tenafly;30;Small New Jersey borough
-tenam;40
+tenam;50
 tenancies;30
 tenanted;40
 tenantry;40
@@ -59278,7 +59284,7 @@ tenorsaxsolo;50
 tenorsaxsolos;50
 tenoutoften;60
 tenpast;20
-tenpm;40
+tenpm;50
 tenpounder;30;???
 tenrec;30;Madagascar animal
 tenrecs;30;Madagascar animals
@@ -60715,7 +60721,7 @@ thracians;30;Ancient people of southeast Europe
 threadier;30
 threadiest;30
 thready;30
-threeam;40
+threeam;50
 threebars;50;Decent signal
 threebears;50
 threebodyproblem;60
@@ -60742,7 +60748,7 @@ threepin;40
 threeping;30
 threepio;40
 threeply;50;Three ply
-threepm;40
+threepm;50
 threeps;30
 threer;30
 threers;50
@@ -63014,12 +63020,12 @@ tweets;50
 tweetsat;40
 tweetstorm;50
 tweetstorms;50
-twelveam;40
+twelveam;50
 twelvemo;40;Size of a piece of paper cut 12 from a sheet
 twelvemonkeys;60
 twelvemos;40
 twelveplusone;0
-twelvepm;40
+twelvepm;50
 twerent;50
 twi;20
 twigtea;50
@@ -63079,7 +63085,7 @@ twlevesided;0
 two;50
 twoacre;20
 twoacts;0
-twoam;40
+twoam;50
 twobagger;50
 twobaggers;50
 twobars;50;OK signal
@@ -63101,7 +63107,7 @@ twopartysystems;50
 twopast;30
 twopence;30
 twopenny;40;In the dictionary
-twopm;40
+twopm;50
 twopointo;30
 tworoom;40
 tworow;20;Green paint
