@@ -3275,6 +3275,7 @@ arisefrom;40
 ariseoutof;0
 arisesfrom;40
 arisingfrom;40
+arisingtideliftsallboats;60
 arista;40;Record label
 aristae;20;Insect antenna bristles
 aristas;20;Insect antenna bristles
@@ -26846,6 +26847,7 @@ housedressing;50
 househarkonnen;60
 housejudiciary;50
 housemajority;50
+houseoftherisingsun;60
 housepet;50
 housepets;50
 housered;50
@@ -39692,7 +39694,7 @@ notsohot;60
 notsosecretmenu;60
 notsosure;60
 notsurewhy;60
-notsurprisingly;50
+notsurprisingly;60
 notthebrightestcrayoninthebox;60
 nottheonion;60
 notthesharpesttoolintheshed;60
@@ -52078,6 +52080,9 @@ selfplagarism;60
 selfregulating;60
 selfreport;60;Statement that unintentionally reveals the speaker's bias or lack of character on a matter
 selfreports;60
+selfrising;60
+selfrisingflour;60
+selfrisingflours;60
 selfworth;50
 selgris;30;French sea salt
 selig;40;Bud Selig
@@ -59476,6 +59481,7 @@ tetrarch;40
 tetrarchs;40
 tetras;40
 tetris;50
+tetriseffect;60
 tetrode;30;Vacuum tube with four electrodes
 tetrodes;30
 teuton;40
@@ -59644,7 +59650,7 @@ thatsshowbizbaby;60
 thatssonotokay;60
 thatsstrange;60
 thatsstretchingit;60
-thatssurprising;50
+thatssurprising;60
 thatsthat;60
 thatsthebasicidea;60
 thatsthebasicideaanyways;60
@@ -65505,18 +65511,21 @@ weighinginon;40
 weighinon;40
 weighsinon;40
 weightedblanket;50
-weightlift;50
-weightlifted;50
-weightlifter;50
-weightlifters;50
-weightlifting;50
-weightlifts;50
+weightlift;60
+weightlifted;60
+weightlifter;60
+weightlifters;60
+weightlifting;60
+weightlifts;60
 weightlimit;50
 weightlimits;50
-weightloss;50
-weightlossplan;50
-weightroom;50
-weightrooms;50
+weightloss;60
+weightlosspill;60
+weightlosspills;60
+weightlossplan;60
+weightlossplans;60
+weightroom;60
+weightrooms;60
 weights;50
 weimarera;20;Not a phrase, it's always "Weimar Republic"
 weir;40;Dam, or figure skater Johnny Weir
