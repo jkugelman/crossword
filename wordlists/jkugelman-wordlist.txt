@@ -4605,17 +4605,18 @@ backtires;50
 backtolife;50
 backtothefuture;60
 backup;50
-backupgenerator;50
-backupgenerators;50
+backupgenerator;60
+backupgenerators;60
 backuplight;50
 backupplan;50
 backupplanning;50
 backupplans;50
 backupqb;50
 backupqbs;50
-backupsinger;50
-backupsingers;50
+backupsinger;60
+backupsingers;60
 backupthetruck;50
+backwardsday;60
 baco;30
 baconator;60
 baconators;60
@@ -7762,6 +7763,7 @@ brodate;50
 brodates;50
 brodeur;40;Martin Brodeur in the NHL Hall of Fame
 brodown;30
+brokebackmountain;60
 brokebread;60
 brokebreadwith;50
 brokecharacter;60
@@ -9516,6 +9518,7 @@ cattreat;50
 cattreats;50
 cattree;50
 cattrees;50
+cattycorner;60
 catvideo;60
 catvideos;60
 catwoman;60
@@ -12158,6 +12161,8 @@ corneille;30;Singer, or 17th century playwright
 cornel;30;Dogwood
 cornellu;40
 cornels;30;Dogwoods
+cornerpocket;60
+cornerpockets;60
 cornetist;40
 cornetists;40
 cornfieldmaze;60
@@ -31140,6 +31145,7 @@ kittiwakes;40;Seabirds
 kittpeak;50;Arizona observatory
 kittycat;60
 kittycats;60
+kittycorner;60
 kiva;20
 kivaloan;50
 kivaloans;50
