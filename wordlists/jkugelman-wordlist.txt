@@ -52199,11 +52199,13 @@ sendak;40;Maurice Sendak of "Where the Wild Things Are"
 sendby;40
 sendee;40
 sendflowers;50
+sendfor;40
 sendin;40
 sendingacard;50
 sendingafax;50
 sendingby;40
 sendingflowers;50
+sendingfor;40
 sendingin;40
 sendingmoney;30;???
 sendingoff;40
@@ -52218,6 +52220,7 @@ sendsacard;50
 sendsafax;50
 sendsby;40
 sendsflowers;50
+sendsfor;40
 sendsin;40
 sendsmoney;30;???
 sendsoff;40
@@ -52283,6 +52286,7 @@ sentacard;50
 sentafax;50
 sentby;40
 sentflowers;50
+sentfor;40
 sentimentalizer;50
 sentimentallady;50
 sentin;40
