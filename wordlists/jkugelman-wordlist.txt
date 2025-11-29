@@ -30581,9 +30581,11 @@ kangatarianism;60;Australian eco-friendly diet (vegetarian + kangaroos)
 kannada;30;South Indian language
 kansan;50
 kansans;50
-kansascitychief;50
-kansascitychiefs;50
+kansascitychief;60
+kansascitychiefs;60
 kansascitymo;40
+kansascityroyal;60
+kansascityroyals;60
 kansasdog;20;???
 kansasdogs;20;???
 kansasst;20
@@ -33545,20 +33547,24 @@ lobos;40
 lobscouse;40;Scandinavian stew
 lobsterbib;60
 lobsterbibs;60
-lobsterbisque;50
-lobsterbisques;50
+lobsterbisque;60
+lobsterbisques;60
 lobsterclaw;60
 lobsterclaws;60
+lobsterman;60
+lobstermen;60
 lobsternewberg;50
-lobsterpoboy;50
-lobsterpoboys;50
-lobsterpot;50
-lobsterpots;50
-lobsterravioli;50
-lobsterroll;50
-lobsterrolls;50
-lobstertrap;50
-lobstertraps;50
+lobsterpoboy;60
+lobsterpoboys;60
+lobsterpot;60
+lobsterpots;60
+lobsterravioli;60
+lobsterroll;60
+lobsterrolls;60
+lobstertail;60
+lobstertails;60
+lobstertrap;60
+lobstertraps;60
 lobular;40
 lobule;40;Small lobe
 lobules;40
@@ -37534,6 +37540,8 @@ movieagent;60
 movieagents;60
 moviedeal;60
 moviedeals;60
+moviefan;40
+moviefans;40
 moviefranchise;60
 moviefranchises;60
 movieindustry;60
@@ -38112,6 +38120,7 @@ naivest;40;It's most naive
 nakedape;50;Book
 nakedcall;60
 nakedcalls;60
+nakedcity;60
 nakeder;30
 nakedest;30
 nakedflame;50
@@ -46795,6 +46804,8 @@ radioantenna;50
 radioantennas;50
 radiobutton;50
 radiobuttons;50
+radiocity;60
+radiocitymusichall;60
 radioedin;40
 radiogaga;50
 radiohead;60
@@ -52553,6 +52564,7 @@ sews;50
 sewsin;40
 sewson;40
 sex;50
+sexandthecity;60
 sexappeal;60
 sexcapade;60
 sexcapades;60
@@ -63222,6 +63234,7 @@ typein;40
 typer;40
 typers;40
 typesin;40
+typesofstudents;0
 typhoon;50
 typhoons;50
 typingin;40
