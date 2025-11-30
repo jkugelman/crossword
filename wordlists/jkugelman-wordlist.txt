@@ -10991,6 +10991,7 @@ closedshop;50
 closedsystem;60
 closedsystems;60
 closedtheloop;50
+closedupshop;60
 closeinon;40
 closelook;50
 closelooks;50
@@ -11000,6 +11001,7 @@ closesdown;50
 closesinon;40
 closeson;30
 closestheloop;50
+closesupshop;60
 closetalker;60
 closetalkers;60
 closetheloop;50
@@ -11007,6 +11009,7 @@ closeto;40
 closetorganizer;50
 closeup;60
 closeups;60
+closeupshop;60
 closeupshot;60
 closeupshots;60
 closingceremonies;50
@@ -11017,6 +11020,7 @@ closingnumber;50
 closingnumbers;50
 closingon;30
 closingtheloop;50
+closingupshop;60
 clothesdesigner;30
 clothings;30
 clotho;30;One of the Three Fates in Greek myth
@@ -59647,6 +59651,7 @@ thatsawholeotherstory;60
 thatsbizarre;60
 thatsclassified;60
 thatscool;60
+thatseasy;60
 thatseasyforyoutosay;60
 thatsenough;50
 thatsfair;60
