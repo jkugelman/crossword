@@ -274,6 +274,8 @@ absolutelynot;60
 absolutelyright;60
 absolutemonarchs;50
 absolutetruth;60
+absoluteunit;60
+absoluteunits;60
 absolvedof;30
 absolveof;30
 absolvesof;30
@@ -1214,6 +1216,7 @@ ahmadrashad;50
 ahme;30
 ahn;20
 ahnold;60
+ahora;40
 ahs;40
 ahso;10
 ahtawaih;0
@@ -4565,6 +4568,7 @@ backday;60
 backdays;60
 backedacandidate;50
 backedinacorner;50
+backedintoacorner;60
 backfill;50
 backfilled;50
 backfilling;50
@@ -4578,7 +4582,9 @@ backhandspring;50
 backhandsprings;50
 backinabit;60
 backingacandidate;50
+backingintoacorner;60
 backinmyday;60
+backintoacorner;60
 backissues;50
 backitup;60
 backoftheenvelope;60
@@ -4592,6 +4598,7 @@ backsacandidate;50
 backsaw;40
 backsaws;40
 backseating;60;Giving unwanted advice in a livestream chat
+backsintoacorner;60
 backslang;60
 backspins;40
 backtat;60
@@ -8817,6 +8824,7 @@ canihaveaquickword;60
 canihaveawordwithyou;60
 canihaveyourattention;60
 canihaveyourattentionplease;60
+canihelpyou;60
 canineteeth;50
 caninetooth;50
 canis;40
@@ -12123,6 +12131,8 @@ copyshop;60
 copyshops;60
 copythat;60
 copythatchief;60
+copyvio;30;Copyright violation?
+copyvios;30
 copywriter;60
 copywriters;60
 copywriting;60
@@ -15204,6 +15214,7 @@ dizzyspell;50
 dizzyspells;50
 dj;50
 djamileh;30;Unpopular Bizet opera
+djangounchained;60
 djent;60
 djia;30;Dow Jones Industrial Average, seems legit but never used except in Newsday?
 djin;30
@@ -16622,6 +16633,7 @@ duodena;30
 duologue;40;Play part for two actors
 duomo;30;Cathedral, in Italian
 duotype;40;Two-color printing process
+duplicatebridge;60
 duplo;40;Brand of Lego
 dupre;40;Cellist Jacqueline du Pré
 dur;20
@@ -22294,19 +22306,22 @@ genderwagegap;60
 geneediting;60
 geneeditor;60;Tool that modifies cellular information (CRISPR is the most well-known one)
 geneeditors;60
-genemap;50
-genemapping;50
-genemaps;50
+genehackman;60
+genekelly;60
+genemap;60
+genemapping;60
+genemaps;60
 genentech;50
 genera;40;Genuses
 generalassembly;50
 generalelection;50
-generalelectric;50
-generalknowledge;50
-generalmanagers;50
+generalelectric;60
+generalknowledge;60
+generalmanager;60
+generalmanagers;60
 generalpartner;50
-generalpershing;50
-generalpublic;50
+generalpershing;60
+generalpublic;60
 generalrule;60
 generalsherman;50
 generaltso;60
@@ -24713,6 +24728,7 @@ hairtransplant;60
 hairtransplants;60
 hairyballtheorem;60
 hairychest;60
+hairyedge;60
 hairyleg;50
 hairylegs;50
 haj;40;Variant of hajj
@@ -24873,6 +24889,8 @@ handmirrors;50
 handmodel;50
 handmodels;50
 handpass;50
+handpuppet;60
+handpuppets;60
 handsdown;50
 handsoap;50
 handsomer;30
@@ -30432,17 +30450,28 @@ jumpbail;50
 jumpedat;40
 jumpedbail;50
 jumpedinto;40
+jumpedon;40
 jumpedthroughhoops;60
 jumpercable;50
 jumpercables;50
 jumpingat;40
 jumpingbail;50
 jumpinginto;40
+jumpingjack;60
+jumpingjacks;60
+jumpingjehosaphat;60
+jumpingjehoshaphat;60
+jumpingoffplace;60
+jumpingoffplaces;60
+jumpingoffpoint;60
+jumpingoffpoints;60
+jumpingon;40
 jumpingthroughhoops;60
 jumpinto;40
 jumpintothefire;60
 jumpjet;50
 jumpjets;50
+jumpon;40
 jumpsat;40
 jumpsbail;50
 jumpscare;60
@@ -30450,6 +30479,7 @@ jumpscares;60
 jumpshooter;50
 jumpshooters;50
 jumpsinto;40
+jumpson;40
 jumpstart;60
 jumpstarted;60
 jumpstarter;60
@@ -31762,6 +31792,8 @@ landgrab;50
 landgrabs;50
 landho;60
 landingon;40
+landingpad;60
+landingpads;60
 landingup;40
 landline;50
 landlines;50
@@ -32088,6 +32120,8 @@ laughswith;40
 laughtrack;60
 laughtracks;60
 laughwith;40
+launchcode;60
+launchcodes;60
 launchedinto;40
 launchesinto;40
 launchinginto;40
@@ -32648,6 +32682,7 @@ lensman;40;Photographer
 lensmen;40
 lenten;40;Relating to Lent
 lenticular;40
+lentigo;20;Freckle
 lento;40
 lentos;30;Slow passages
 lentto;40
@@ -33539,6 +33574,9 @@ loanedto;40
 loanercar;50
 loanercars;50
 loaningto;40
+loanshark;60
+loansharking;60
+loansharks;60
 loansto;40
 loanto;40
 loantranslation;40
@@ -41230,6 +41268,8 @@ onthebigscreen;60
 onthebottle;30
 onthecompanydime;60
 onthedancefloor;50
+onthehairyedge;60
+onthehairyedgeof;60
 onthehook;50
 onthehookfor;50
 onthehouse;60
@@ -41726,6 +41766,8 @@ ornamentaltrees;60
 ornette;30;Last name
 ornith;20;Bird subj.
 ornitho;20
+ornithopter;60
+ornithopters;60
 ornot;60
 ornotto;20
 ornurse;40
@@ -47165,7 +47207,7 @@ ranonto;40
 ranpoint;60
 ranpointfor;50
 ranragged;60
-ranrampant;50
+ranrampant;60
 ranringsaround;60
 rans;30;Also-rans
 ranscared;60
@@ -49324,6 +49366,7 @@ rightjustify;50
 rightlyso;50
 rightoh;30;???
 righton;60
+rightonthemoney;60
 rightoutofcentralcasting;60
 rightpickle;60
 rightplaceattherighttime;60
@@ -50369,7 +50412,7 @@ runningonto;40
 runningpoint;60
 runningpointfor;50
 runningragged;60
-runningrampant;50
+runningrampant;60
 runningringsaround;60
 runningscared;60
 runningshort;50
@@ -50392,7 +50435,7 @@ runonto;40
 runpoint;60
 runpointfor;50
 runragged;60
-runrampant;50
+runrampant;60
 runringsaround;60
 runsaclosesecond;50
 runsalight;50
@@ -50424,7 +50467,7 @@ runsonto;40
 runspoint;60
 runspointfor;50
 runsragged;60
-runsrampant;50
+runsrampant;60
 runsringsaround;60
 runsscared;60
 runsshort;50
@@ -60511,10 +60554,10 @@ thetourdefrance;20
 thetowel;50
 thetower;60;Tarot card
 thetowerbridge;20
-thetowerofbabel;20
-thetowerofhanoi;20
-thetoweroflondon;20
-thetowerofterror;20
+thetowerofbabel;60
+thetowerofhanoi;60
+thetoweroflondon;60
+thetowerofterror;60
 thetremeloes;40;1960s beat group (?)
 thetrib;20
 thetribe;50;???
@@ -61987,6 +62030,7 @@ tow;50
 towedin;40
 towercrane;50
 towercranes;50
+towerofhanoi;60
 towery;40;Tall, or having towers: archaic
 towhee;30;Sparrow-like bird
 towhees;30
@@ -66445,6 +66489,8 @@ winterolympics;50
 winterpear;50
 winterpears;50
 wintersolstice;50
+wintersport;60
+wintersports;60
 winterstale;60
 winterxgames;50
 wintery;20;Less common spelling
