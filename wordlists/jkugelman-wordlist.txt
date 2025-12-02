@@ -10002,6 +10002,7 @@ chariness;30
 charioteer;30
 chariotsoffire;60
 charism;30;Charisma
+charismas;40;Plural?
 charismata;40
 charityline;60;Free throw line
 charitystripe;60;Free throw line
@@ -23600,7 +23601,7 @@ goodshot;50
 goodshow;60
 goodsport;50
 goodsports;50
-goodsportsmanship;50
+goodsportsmanship;60
 goodstart;60
 goodtalk;60
 goodtaste;50
@@ -41147,6 +41148,7 @@ onerate;20
 onereel;40;Like short old movies
 onereeler;50
 onereelers;50
+onerepmax;60
 oneroom;30;Always clued as "like an old schoolhouse"
 oneround;30
 oners;40
@@ -42206,6 +42208,7 @@ overpar;50
 overperforming;50
 overpromise;60
 overpromiseandunderdeliver;60
+overpromiseunderdeliver;60
 overs;50;Certain sports bets
 oversaw;50
 overseastravel;50
@@ -55814,8 +55817,13 @@ sportsdesk;50
 sportsdesks;50
 sportsdrink;60
 sportsdrinks;60
-sportsman;50
-sportsmen;50
+sportsman;60
+sportsmanlike;60
+sportsmanship;60
+sportsmedicine;60
+sportsmen;60
+sportsmovie;60
+sportsmovies;60
 sportstacking;60;Cup stacking
 sportvu;30;Basketball camera tracking system
 sportyspice;60
@@ -58126,6 +58134,11 @@ swoopup;40
 sworddance;60
 swordfish;50
 swordfishes;50
+swordsman;60
+swordsmanship;60
+swordsmen;60
+swordsmith;60
+swordsmiths;60
 sworeat;40
 sworeto;40
 swornstatement;50
@@ -63594,7 +63607,12 @@ underglass;50
 underoath;50
 underpar;50
 underpenaltyofdeath;50
+underpromise;60
 underpromiseandoverdeliver;60
+underpromised;60
+underpromiseoverdeliver;60
+underpromises;60
+underpromising;60
 unders;50;Certain sports bets
 understatementofthecentury;60
 understatementofthedecade;60
@@ -64116,6 +64134,9 @@ userexperiencedesign;50
 userexperiencedesigner;50
 userexperiencedesigners;50
 userfriendly;60
+username;60
+usernameandpassword;60
+usernames;60
 usesasbait;50
 usescaution;50
 usesdrugs;40
