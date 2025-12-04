@@ -21207,6 +21207,7 @@ fourhleaders;20
 fourhundred;40
 fouriron;50
 fourirons;50
+fourlawsofthermodynamics;60
 fouronthefloor;60
 fourpm;50
 fourthandinches;60
@@ -25525,6 +25526,8 @@ heatwave;50
 heatwaves;50
 heavedto;30
 heaveho;50
+heavenhelpus;60
+heavenhelpusall;60
 heaver;30;Dockyard worker
 heavers;30
 heavesto;30
@@ -32183,9 +32186,10 @@ lavoris;30;Mouthwash brand
 lavs;40
 law;50
 lawanda;40;LaWanda Page of "Sandford and Son"
-lawclerk;50
-lawclerks;50
-lawfirm;50
+lawclerk;60
+lawclerks;60
+lawfirm;60
+lawfirms;60
 lawfulevil;60;D&D alignment
 lawfulgood;60;D&D alignment
 lawfulneutral;60;D&D alignment
@@ -32198,10 +32202,11 @@ lawofmoses;60
 lawprofessor;60
 lawprofessors;60
 lawrencewelk;50
-lawschool;50
-lawschools;50
+lawschool;60
+lawschools;60
 lawsofmotion;50
 lawsofphysics;50
+lawsofthermodynamics;60
 lawton;30;Never used, Oklahamoa town???
 lawyers;50
 lax;50
@@ -60478,6 +60483,7 @@ thermo;40
 thermodynamicequilibrium;60
 thermodynamicprocess;60
 thermodynamicprocesses;60
+thermodynamics;60
 thermodynamicsystem;60
 thermodynamicsystems;60
 thermoset;30
