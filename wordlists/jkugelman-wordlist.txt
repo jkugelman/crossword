@@ -295,6 +295,7 @@ abswitches;50
 abt;20
 abu;50
 abubble;30
+abudhabi;60
 abuela;40
 abuelas;40
 abuelo;40
@@ -441,6 +442,7 @@ aci;20
 acidbath;50
 acidhouse;60
 acidness;30
+acidrain;60
 acidreflux;40
 acidtrance;50
 acidulate;30
@@ -1458,7 +1460,7 @@ alamodes;20;Fabrics
 alamosa;20;Colorado city
 alana;40;Cook (USWNT team), Beard (WNBA great), Springsteen (singer), plus the classics: Stewart, Davis, Haim, De La Garza
 alanadale;40;Alan-a-Dale, member of Robin Hood's outlaw band
-alandale;50
+alandale;40;???
 alandershowitz;50
 alandtippergore;0
 alanine;30;Amino acid
@@ -3651,6 +3653,7 @@ asimmer;30
 asimov;50
 asimovian;50
 asirecall;60
+asisaid;60
 asisay;50
 asiseeit;60
 asisuspected;60
@@ -7586,6 +7589,8 @@ brasale;40;Green paint, but usable
 brasales;40
 brasco;40;"Donnie Brasco"
 brasi;30;Luca of "The Godfather"
+brassard;40;Decorative armband
+brassards;40
 brassica;40;Genus for cabbage, broccoli, cauliflower, bok choy, turnips, et al.
 brassie;30;2-wood
 brassnameplate;50
@@ -7826,6 +7831,7 @@ bronte;50
 brontes;50
 brontesisters;50
 bronxzoo;60
+bronzeage;60
 brooder;30
 broodmare;50
 broodmares;50
@@ -13860,6 +13866,9 @@ deadheads;60
 deadkennedys;60
 deadlanguages;50
 deadlast;60
+deadlettermail;60
+deadletteroffice;60
+deadletteroffices;60
 deadlift;60
 deadlifted;60
 deadlifting;60
@@ -13870,6 +13879,7 @@ deadlock;60
 deadlynightshade;60
 deadlysin;60
 deadlysins;60
+deadmail;60
 deadmeat;60
 deadname;60
 deadnamed;60
@@ -13894,7 +13904,7 @@ deadsilent;60
 deadspot;60
 deadtired;60
 deadtree;60
-deafears;50
+deafears;60
 deafeningsilence;60
 deafto;40
 dealbreaker;50
@@ -16050,12 +16060,12 @@ dragonhead;50
 dragonite;50;Pokeyman
 dragonquest;60
 dragontattoo;60
-dragrace;50
-dragraced;50
-dragracer;50
-dragracers;50
-dragraces;50
-dragracing;50
+dragrace;60
+dragraced;60
+dragracer;60
+dragracers;60
+dragraces;60
+dragracing;60
 dragshow;60
 dragshows;60
 dragsin;40
@@ -16135,7 +16145,7 @@ drayhorses;30
 drayman;30
 draymond;40
 drays;30
-drayyard;50
+drayyard;40;???
 drblight;50;Captain Planet baddie
 drdemento;60
 drdoofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
@@ -29216,6 +29226,7 @@ irocs;40
 irocz;40
 iroczs;40
 iron;50
+ironage;60
 ironbirdseed;60;Acme invention
 ironcarrot;60;Acme invention
 ironclad;60
@@ -56311,7 +56322,7 @@ starchild;60
 starcrossd;60
 starcrossed;60
 starcrossedlovers;60
-stardate;50
+stardate;60
 stardestroyer;60
 stardestroyers;60
 stardust;60
@@ -56516,6 +56527,7 @@ stayon;40
 stayontrack;60
 stayovernight;50
 staypuft;60
+staysafe;60
 staysat;40
 staysinbed;50
 staysincharacter;60
@@ -56975,7 +56987,7 @@ stompingground;60
 stompinggrounds;60
 stompingin;40
 stompsin;40
-stoneage;50
+stoneage;60
 stonechat;30;Small bird
 stonechats;30;Small birds
 stonecold;60
@@ -63884,6 +63896,7 @@ unrealisticoptimism;60;Cognitive bias
 unreason;40
 unrebuked;40
 unrep;30;U.N. rep.
+unrepaid;40
 unreps;30
 unrests;30
 unrip;40;Rip open
@@ -66176,6 +66189,7 @@ whilom;20;Former, archaic
 whipin;40
 whippedin;40
 whippingin;40
+whipsawn;40
 whipsin;40
 whirlwindromance;60
 whirlwindromances;60
