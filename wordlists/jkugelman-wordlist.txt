@@ -49483,6 +49483,7 @@ rightplaceatthewrongtime;60
 rightplacerighttime;60
 rightplacewrongtime;60
 rightquick;60
+righttobarearms;60
 righttobeararms;60
 rightwinggroup;50
 rightwinggroups;50
@@ -64716,6 +64717,8 @@ vhut;30;Primitive dwelling with a letter-shaped roof
 vhuts;30;Primitive dwellings with letter-shaped roofs
 vi;40
 via;50
+viaferrata;60;Scary climbing route
+viaferratas;60
 viand;20;Food, archaic
 viands;20;Food, archaic
 vibecheck;60
