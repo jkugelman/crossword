@@ -4928,10 +4928,15 @@ bandcamps;50
 bandersnatch;60
 bandito;60
 banditos;60
+bandname;60
+bandnames;60
+bandofbrothers;60
 bandolero;50
 bandoleros;50
 bandora;20;Stringed instrument
 bandore;20;Stringed instrument
+bandtshirt;60
+bandtshirts;60
 bandwagonfallacy;60
 banff;40
 bangawayat;50
@@ -55227,8 +55232,9 @@ sonneteers;40
 sonnies;30
 sonnys;30;Plural name
 sonof;40
-sonofa;50
-sonofabitch;50
+sonofa;60
+sonofabiscuit;60
+sonofabitch;60
 sonofadam;50
 sonofagun;60
 sonofbaconator;60
@@ -66382,6 +66388,7 @@ whyistheoceanneartheshore;60
 whyme;60
 whyso;50
 whysthat;60
+whyyoulittle;60
 wichitaks;30
 wickedcool;60
 wickedgood;60
