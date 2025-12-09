@@ -1551,7 +1551,7 @@ alecto;40;One of the three Furies [occasional]
 alee;40
 alegup;40
 aleichem;40;Hebrew greeting "shalom aleichem"
-aleister;50
+aleister;40
 aleistercrowley;60
 alek;40
 alekeg;30
@@ -18631,6 +18631,7 @@ estar;40
 estas;40
 estatecar;50
 estatecars;50
+estated;40
 estd;40
 este;40
 estee;40
@@ -25889,6 +25890,7 @@ hereminence;50
 herenow;40
 hereof;30
 heresanidea;60
+heresathought;60
 heresatip;60
 hereshowitworks;60
 herestomanymore;60
@@ -27777,6 +27779,7 @@ iguessso;60
 igy;20
 iha;20
 ihadablast;60
+ihadathought;60
 ihadnoidea;60
 ihateeverythingaboutthis;60
 ihateithere;60
@@ -27786,6 +27789,7 @@ ihatewar;50;FDR speech
 ihateyou;60
 ihavealove;50;???
 ihaveaquestion;60
+ihaveathought;60
 ihaveeyes;60
 ihavejustthething;60
 ihavemixedfeelings;60
@@ -27797,6 +27801,7 @@ ihaventgotallday;60
 ihaventthefoggiest;60
 ihaveonlymyselftoblame;60
 ihaveplacestobe;60
+ihavesomethingtosay;60
 ihavestandards;60;"Please, that's beneath me"
 ihavetime;50
 ihaveto;50
@@ -28133,6 +28138,8 @@ imjustsaying;60
 imjustsayingwhateveryonesthinking;60
 imjustsayingwhatwereallthinking;60
 imjustsayingwhatweveallbeenthinking;60
+imjustspitballing;60
+imjustspitballinghere;60
 imkindofabigdeal;60
 imlost;60
 imma;40
@@ -29865,6 +29872,7 @@ ivegotitmade;60
 ivegotmixedfeelings;60
 ivegotnewsforyou;60
 ivegotnochoice;60
+ivegotsomethingtosay;60
 ivegottahandittoyou;60
 ivegottajet;60
 ivegottapee;10
@@ -30681,6 +30689,8 @@ justscratchesthesurface;60
 justscratchingthesurface;60
 justscratchthesurface;60
 justsoyouknow;60;"FYI..."
+justspitballing;60
+justspitballinghere;60
 justspititout;60
 justthething;60
 justthetipoftheiceberg;60
