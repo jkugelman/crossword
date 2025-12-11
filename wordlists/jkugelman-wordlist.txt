@@ -1214,6 +1214,7 @@ ahas;40
 ahatonahat;60;Comedy mistake (something unnecessary)
 ahchoo;20;Sneeze sound: Var.
 aheadof;40
+aheartbreakingworkofstaggeringgenius;60
 ahellofalot;60
 ahellofalotof;60
 ahems;40
@@ -9131,6 +9132,7 @@ carebears;60
 caredalot;40
 caredto;40
 caredtoomuch;60
+careerbest;60
 careercriminal;60
 careercriminals;60
 careerfair;50
@@ -13766,6 +13768,7 @@ daughtersinlaw;50
 dav;30;Dav Pilkey, creator of "Captain Underpants"
 davebarry;50
 davebautista;60
+daveeggers;60;Author of "A Heartbreaking Work of Staggering Genius"
 daverage;40
 daverages;40
 davethomas;60
@@ -16520,11 +16523,16 @@ drycell;50
 drycells;50
 drycough;50
 dryden;40;English poet John Dryden (1631-1700)
-drydock;50
-drydocked;50
-drydocks;50
-dryersheet;50
-dryersheets;50
+drydock;60
+drydocked;60
+drydocking;60
+drydocks;60
+dryeraseboard;60
+dryeraseboards;60
+dryerasemarker;60
+dryerasemarkers;60
+dryersheet;60
+dryersheets;60
 drygas;50;Automobile fuel additive
 drygoodsstore;50
 drygoodsstores;50
@@ -19800,6 +19808,7 @@ federalagent;60
 federalagents;60
 federaldistrict;50
 federalelection;50
+federalese;60
 federalfunding;50
 federalholidays;50
 federallaw;50
@@ -24238,6 +24247,8 @@ greenman;40;???
 greenpepper;50
 greenpeppers;50
 greensboronc;30
+greensfee;60
+greensfees;60
 greenshell;60;Mario Kart powerup
 greenshells;60
 greenspace;50
@@ -25575,6 +25586,7 @@ hearsts;30
 heartache;60
 heartbreakhotel;60
 heartbreaking;60
+heartbreakingworkofstaggeringgenius;60
 heartbroken;60
 heartburn;50
 heartemoji;60
@@ -47989,6 +48001,8 @@ recense;30
 recension;30
 recenthistory;50
 recentpast;50
+recessbell;60
+recessbells;60
 recherche;50
 rechew;20
 rechewed;20
@@ -50876,10 +50890,12 @@ safeseat;60
 safeseats;60
 safespace;60
 safespaces;60
-safetydepositbox;50
-safetydepositboxes;50
-safetyglasses;50
-safetygoggles;50
+safetydepositbox;60
+safetydepositboxes;60
+safetyglasses;60
+safetygoggles;60
+safetyharness;60
+safetyharnesses;60
 safetyhazard;50
 safetyhazards;50
 safetypatrol;50
@@ -50887,6 +50903,8 @@ safetyrack;50
 safetystandards;50
 safetyvalve;50
 safetyvalves;50
+safetyvest;60
+safetyvests;60
 safeword;60
 safewords;60
 safezone;60
@@ -56751,14 +56769,21 @@ steepsin;40
 steer;50
 steerable;30
 steerages;40;Bad plural???
-steerclear;50
+steerclear;60
+steerclearof;60
+steeredclear;60
+steeredclearof;60
 steeredto;40
 steerer;40
 steerers;40
-steeringcommittee;50
-steeringcommittees;50
+steeringclear;60
+steeringclearof;60
+steeringcommittee;60
+steeringcommittees;60
 steeringto;40
 steers;50
+steersclear;60
+steersclearof;60
 steersman;40
 steersmen;40
 steersto;40
