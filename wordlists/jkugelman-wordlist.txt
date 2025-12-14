@@ -4350,6 +4350,7 @@ averagerainfall;50
 averageshotlength;50
 averageshotlengths;50
 averill;40
+averment;40
 avernal;30;Hellish
 avernus;20
 averseto;40
@@ -8938,6 +8939,9 @@ cannular;30
 cannulas;30;Medicine tubes
 canoed;50
 canoer;40;Canoeist is preferred
+canoerace;60
+canoeraces;60
+canoeracing;60
 canoers;40
 canofbeer;50
 canofcorn;50
@@ -15579,8 +15583,11 @@ doggos;60
 doggroomer;60
 doggroomers;60
 doggrooming;50
+doggybag;60
+doggybags;60
 doggydoor;60
 doggydoors;60
+doggystyle;10
 doghandler;50
 doghandlers;50
 doghouse;50
@@ -17270,6 +17277,7 @@ ediblearrangements;60
 edictal;30
 edie;40
 edinboro;30;Unnotable Pennsylvania university
+edisonnj;40
 editdown;50
 editeddown;50
 editedin;40
@@ -27473,6 +27481,11 @@ icebreakergame;60
 icebreakergames;60
 icebreaking;50
 icebucketchallenge;60
+icecanoe;60
+icecanoeing;60
+icecanoerace;60
+icecanoeraces;60
+icecanoeracing;60
 icecapped;50
 icecastle;60
 icecold;50
@@ -32012,6 +32025,7 @@ landagents;50
 landahoy;60
 landau;40;Actor Martin Landau
 landaus;20;Four-wheeled carriages
+landedin;40
 landedon;40
 landedup;40
 landform;50
@@ -32019,6 +32033,8 @@ landforms;50
 landgrab;50
 landgrabs;50
 landho;60
+landin;40
+landingin;40
 landingon;40
 landingpad;60
 landingpads;60
@@ -32030,6 +32046,7 @@ landmanagement;50
 landon;50
 landru;20
 landsharks;50
+landsin;40
 landslidevictories;60
 landslidevictory;60
 landson;40
@@ -43971,6 +43988,8 @@ petcushion;50
 petcushions;50
 petdish;60
 petdishes;60
+petdoor;60
+petdoors;60
 peteacher;50
 peteachers;50
 peterarno;40;New Yorker cartoonist 1925-68
@@ -51355,6 +51374,8 @@ sankas;40
 sankinto;40
 sankonesteethinto;50
 sanmateoca;30
+sannyasa;30
+sannyasi;30;Hindu ascetic
 sanrio;40;Harō Kiti company
 sansa;40;Sansa Stark from "Game of Thrones"
 sansei;20;Grandchild of a Japanese immigrant
@@ -51380,6 +51401,8 @@ santini;40
 santo;40;Santo Domingo and others
 santolina;30;Chamomile genus
 santos;40;Disgraced Congressman George Santos
+sanyasa;30
+sanyasi;30;Hindu ascetic
 sanyo;40
 sanyos;40;Some TVs
 sanz;50
@@ -67597,7 +67620,7 @@ yardies;40
 yardsale;60
 yardsales;60
 yaren;30;Capital of Nauru
-yarr;50
+yarr;40
 yas;40
 yashmak;30;Muslim veil
 yashmaks;30;Muslim veils
