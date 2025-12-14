@@ -2326,6 +2326,8 @@ analogize;50
 analogized;50
 analogizes;50
 analogizing;50
+analprobe;10
+analprobes;10
 analysand;30;Person undergoing psychoanalysis
 analysands;30
 analyse;20
@@ -3626,6 +3628,10 @@ asharpmajor;40
 asharpminor;40
 ashbin;40
 ashbins;40
+ashblond;60
+ashblonde;60
+ashblondes;60
+ashblonds;60
 ashcake;40;Bedouin bread
 ashcakes;40;Bedouin bread
 ashcan;40
@@ -4070,6 +4076,10 @@ atokadhtron;0
 atole;20;Mexican drink
 atombombproject;50
 atomical;30
+atomicblond;60;Without the "e"?
+atomicblonde;60
+atomicblondes;60
+atomicblonds;60;Without the "e"?
 atomicmasmoonit;0
 atomicpile;50
 atomicpiles;50
@@ -6772,6 +6782,9 @@ blonddye;50
 blonddyes;50
 blondedye;50
 blondedyes;50
+blondejoke;60
+blondejokes;60
+blondeonblonde;60
 bloodalcoholcontent;50
 bloodborne;60
 bloodcount;50
@@ -15120,6 +15133,10 @@ dirtpoor;60
 dirtpudding;60;Chocolate pudding + gummy worms
 dirtstain;50
 dirtstains;50
+dirtyblond;60
+dirtyblonde;60
+dirtyblondes;60
+dirtyblonds;60
 dirtycop;50
 dirtycops;50
 dirtydog;50
@@ -43852,6 +43869,10 @@ peroration;40
 perorations;40
 perot;40;Ross Perot
 perots;20
+peroxideblond;60;Without the "e"?
+peroxideblonde;60
+peroxideblondes;60
+peroxideblonds;60;Without the "e"?
 perri;40;Christina Perri, "A Thousand Years" singer
 perries;40;Fermented pear drinks
 perro;40
@@ -44784,6 +44805,7 @@ platies;30;???
 platinumblond;60
 platinumblonde;60
 platinumblondes;60
+platinumblonds;60
 platinumcard;60
 platinumcards;60
 platinumrecord;50
