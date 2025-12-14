@@ -9125,6 +9125,8 @@ carden;40;???
 carder;30
 carders;30
 cardesign;50
+cardgame;60
+cardgames;60
 cardigansweater;50
 cardin;40
 cardinal;50
@@ -10614,6 +10616,7 @@ christianname;60
 christianpop;50
 christianrock;50
 christinaperri;50;Singer of "A Thousand Years"
+christmas;60
 christmascard;60
 christmascards;60
 christmascarol;60
@@ -13677,7 +13680,7 @@ darksides;50
 darksome;40;Gloomy
 darksouls;60
 darkstar;50
-darktimes;50
+darktimes;60
 darktower;60
 darkweb;60
 darlings;50
@@ -19597,8 +19600,8 @@ farceurs;40
 farer;40
 farers;40
 farfaraway;50
-farfetchedstory;30
-farfromit;50
+farfetchedstory;40;Green paint
+farfromit;60
 fargond;40;Fargo, N.D.
 farha;30;Sammy Farha???
 farina;40
@@ -36510,6 +36513,7 @@ mermaids;50
 merman;50
 mermen;50
 merrychristmas;60
+merryxmas;60
 mersey;30;Liverpool river
 merton;20;American monk Thomas
 mervgriffin;60
@@ -52675,6 +52679,7 @@ serges;20;Fabrics
 sergesuit;30
 sergesuits;30
 sergios;30;Plural name
+serialmom;60
 serialno;40
 seriate;40
 seriatim;30;Legal word for "consecutively"
@@ -57337,6 +57342,7 @@ straplessbra;50
 straplessbras;50
 strappedforcash;60
 strasse;30;German street
+strassman;40;???
 stratagem;50
 stratagems;50
 stratas;20
