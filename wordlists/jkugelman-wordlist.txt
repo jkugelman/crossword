@@ -5454,9 +5454,9 @@ bayh;30;Indiana governor/senator
 bayingat;40
 bayofpigs;60
 baysat;40
-baystate;50
-baystater;50
-baystaters;50
+baystate;60
+baystater;60
+baystaters;60
 baz;40
 bazooms;30
 bb;40
@@ -6204,6 +6204,8 @@ bidfor;40
 bidon;40
 bidsadieu;50
 bidsfor;40
+bidsniper;60
+bidsnipers;60
 bidson;40
 bieb;20;Justin Bieber is "The Biebs"
 bien;40
@@ -6614,6 +6616,7 @@ blackoperations;50
 blackrhino;50
 blackrhinoceros;50
 blackrhinos;50
+blacksabbath;60
 blackswanevent;60;Occurrence that is hard to predict but seems inevitable in hindsight
 blackswanevents;60
 bladderfiddle;50;Musical instrument
@@ -10083,6 +10086,8 @@ chartae;20
 chartres;40;French town
 chary;30;Suspicious (of)
 chas;40
+chasescene;60
+chasescenes;60
 chasmal;30
 chasse;30;Dance step
 chassed;30;Performed a chassé
@@ -10281,6 +10286,8 @@ chessgrandmasters;50
 chessmatch;50
 chessmatches;50
 chessmove;50
+chesspiece;60
+chesspieces;60
 chesstournament;50
 chesstournaments;50
 chestbeater;50
@@ -12652,6 +12659,8 @@ crapsgame;50
 crapsgames;50
 crapstable;50
 crapstables;50
+crashdiet;60
+crashdiets;60
 crashedinto;40
 crashedon;40
 crashesinto;40
@@ -13813,12 +13822,14 @@ daylightsavings;50
 daylightsavingstime;50
 daylightsavingtime;50
 dayne;30;'80s singer Taylor Dayne
+dayofrest;60
 dayofthedead;60
 dayofthelord;60;Apocalyptic event considered by the prophets in the Hebrew Bible
 dayoldbread;60;French toast ingredient
 dayone;50
 dayones;40
 daysend;50
+daysofrest;60
 daystocome;50
 daytrade;50
 daytraded;50
@@ -23391,6 +23402,7 @@ goesstag;50
 goest;30
 goesto;40
 goestogreatlengths;60
+goestohell;60
 goestoseed;60
 goesupto;40
 goeswest;40;Green paint???
@@ -23496,6 +23508,7 @@ goingstag;50
 goingthroughsomestuff;60
 goingto;40
 goingtogreatlengths;60
+goingtohell;60
 goingtoseed;60
 goingupto;40
 goingwith;40
@@ -23778,6 +23791,7 @@ goosechases;40
 gooseegg;60
 gooseeggs;50
 goosefat;50
+gooseflesh;60
 goosegossage;40
 goosen;30;Golfer Retief
 goosepimple;60
@@ -26845,6 +26859,8 @@ horsedom;40
 horsefeathers;60
 horseheads;40;New York town
 horsehockey;60
+horseopera;60
+horseoperas;60
 horsepill;50
 horsepills;50
 horseplay;60
@@ -27009,8 +27025,10 @@ hoult;40;Actor Nicholas Hoult
 hourlyrate;50
 hourlyrates;50
 houseatreides;60
-housebeer;50
-housebeers;50
+housebeer;60
+housebeers;60
+houseblend;60
+houseblends;60
 houseboat;50
 houseboats;50
 housedemocrats;50
@@ -27019,24 +27037,25 @@ housedresses;50
 housedressing;50
 househarkonnen;60
 housejudiciary;50
-housemajority;50
+housemajority;60
 houseoftherisingsun;60
 housepet;50
 housepets;50
-housered;50
-housereds;50
+housered;60
+housereds;60
 houserule;60
 houserules;60
 housesitter;50
 housesitters;50
 housewarmingparties;50
 housewarmingparty;50
-housewhite;50
-housewhites;50
+housewhite;60
+housewhites;60
 housingcrisis;60
-housingmarket;50
+housingmarket;60
+housingmarkets;60
 housman;40;Poet A. E. Housman (1859-1936)
-houstontx;30
+houstontx;40
 hov;40
 how;50
 howaboutno;60
@@ -29958,6 +29977,7 @@ iwasbornready;60
 iwascountingonit;60
 iwasframed;60
 iwaslike;60
+iwasnthere;60
 iwasthinking;60
 iwilleatyoualive;60
 iwilleatyouforbreakfast;60
@@ -30302,13 +30322,13 @@ jerri;40;???
 jerries;10
 jerrybrown;50
 jerrywest;50
-jerseyboys;50
+jerseyboys;60
 jerseycity;50
 jerskin;40;"Poor Things" movie composer Jerskin Fendrix
 jerskinfendrix;50;"Poor Things" movie composer Jerskin Fendrix
-jessejames;50
+jessejames;60
 jessel;30;Actor George
-jesseowens;50
+jesseowens;60
 jesses;30
 jessicachastain;60
 jessicaknappett;50
@@ -32990,6 +33010,7 @@ letsgetthisstraight;60
 letsgiveitawhirl;60
 letshaveit;60
 letshearit;60
+letshopeso;60
 letsinon;40
 letsinto;40
 letsjustmoveon;60
@@ -35622,9 +35643,9 @@ marrer;40
 marrers;40
 marriagebroker;50
 marriagebrokers;50
-marriagelicense;50
-marriagelicenses;50
-marriagepenalty;50
+marriagelicense;60
+marriagelicenses;60
+marriagepenalty;60
 marriedinto;40
 marrieds;30
 marriedwithchildren;60
@@ -35632,17 +35653,17 @@ marriesinto;40
 marron;30;Spanish chestnut
 marryinginto;40
 marryinto;40
-marshallmathers;50
+marshallmathers;60
 marshas;30
-marslander;50
-marslanders;50
+marslander;60
+marslanders;60
 marslanding;50
 marsmission;50
 marsmissions;50
 marsone;50
 marsorbiter;50
-marsrover;50
-marsrovers;50
+marsrover;60
+marsrovers;60
 marsupia;40;Plural
 marsupium;40;Marsupial's pouch
 marsvolta;50
@@ -36213,10 +36234,10 @@ medlars;30
 medoc;30;French wine region, or type of red wine
 medocs;20
 meds;50
-medschool;50
-medschools;50
-medstudent;50
-medstudents;50
+medschool;60
+medschools;60
+medstudent;60
+medstudents;60
 medullary;30
 medusa;60
 medusae;30
@@ -37290,6 +37311,7 @@ modrich;30;2015 Nobel Prize in Chemistry
 modusponens;60
 moe;50
 moes;50;Moe's Tavern, or Moe's Southwest Grill
+moestavern;60
 moeszyslak;50;Springfield bartender
 moet;40;Champagne
 mofongo;30;Puerto Rican plantain dish
@@ -37698,6 +37720,7 @@ motionsto;40
 motionto;40
 motiontostrike;60
 motjuste;60;The exact, appropriate word
+motleycrue;60
 motlier;30
 motliest;30
 motmot;30;???
@@ -43951,6 +43974,9 @@ petrine;20
 petro;40;Prefix
 petrucci;50
 petsematary;50
+petsitter;60
+petsitters;60
+petsitting;60
 petsmart;50
 pettaxi;60
 pettaxis;60
@@ -45638,14 +45664,15 @@ potoooooooo;0
 potoroo;20;Rat-like marsupial
 potoroos;20;Rat-like marsupials
 potosi;30;City in Bolivia
-potsmoke;50
-potsmoker;50
-potsmokers;50
+potsmoke;60
+potsmoker;60
+potsmokers;60
+potsmoking;60
 potsoftea;50
 pottedmeat;50
 pottermore;50
-potterywheel;50
-potterywheels;50
+potterywheel;60
+potterywheels;60
 pottle;20
 potto;20
 pottos;20
@@ -45898,21 +45925,22 @@ presentcompanyexcluded;60
 presentee;40
 presentees;40
 presentism;60
-presidentialbid;50
-presidentialbids;50
-presidentialdetail;50
-presidentialdetails;50
-presidentialmonogram;50
-presidentialmonograms;50
-presidentialoath;50
-presidentialoathofoffice;50
-presidentialrace;50
-presidentialraces;50
-presidentialrun;50
-presidentialruns;50
-presidentialveto;50
-presidentialvetoes;50
-presidentselect;50
+presidentelect;60
+presidentialbid;60
+presidentialbids;60
+presidentialdetail;60
+presidentialdetails;60
+presidentialmonogram;60
+presidentialmonograms;60
+presidentialoath;60
+presidentialoathofoffice;60
+presidentialrace;60
+presidentialraces;60
+presidentialrun;60
+presidentialruns;60
+presidentialveto;60
+presidentialvetoes;60
+presidentselect;60
 presoak;30
 presoaked;30
 presoaking;30
@@ -45926,8 +45954,8 @@ pressclubs;50
 presscorps;60
 presscoverage;60
 pressedham;50
-pressevent;50
-pressevents;50
+pressevent;60
+pressevents;60
 pressjunket;60
 pressjunkets;60
 presskit;50
@@ -48284,6 +48312,8 @@ redsolocups;60
 redsonja;50
 redsquare;50
 redstate;60
+redstater;60
+redstaters;60
 redstates;60
 redtagsale;60
 redtagsales;60
@@ -52033,25 +52063,25 @@ searat;40;???
 searats;40
 searchbot;60
 searchbots;60
-searchbox;50
-searchboxes;50
-searchengine;50
-searchengines;50
+searchbox;60
+searchboxes;60
+searchengine;60
+searchengines;60
 searchin;50
-searchresult;50
-searchresults;50
-searchwarrant;50
-searchwarrants;50
+searchresult;60
+searchresults;60
+searchwarrant;60
+searchwarrants;60
 searedahituna;50
 searer;20
 searle;40;NutraSweet company, or John Searle with the "Chinese room" argument
 searpin;30;Rifle part
 searpins;30
-seascallop;50
-seascallops;50
+seascallop;60
+seascallops;60
 seascented;50
-seaserpent;50
-seaserpents;50
+seaserpent;60
+seaserpents;60
 seasia;30;???
 seasick;60
 seasider;50
@@ -55619,6 +55649,8 @@ spaceinvaders;60
 spacejam;60
 spacelab;60
 spaceoddity;60
+spaceopera;60
+spaceoperas;60
 spacepirate;60
 spacepirates;60
 spacesagas;20
@@ -66104,6 +66136,7 @@ wentsour;50
 wentstag;50
 wentto;40
 wenttogreatlengths;60
+wenttohell;60
 wenttoseed;60
 wentupto;40
 wentwith;40
