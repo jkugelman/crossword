@@ -37,9 +37,12 @@ def _load(words, path, filter=None):
         new_words = dict()
 
         for line in file:
-            word, score = line.split(';', 1)
-            word = re.sub('[^a-z]', '', word.lower())
-            score = int(score.split(';')[0])
+            try:
+                word, score = line.split(';', 1)
+                word = re.sub('[^a-z]', '', word.lower())
+                score = int(score.split(';')[0])
+            except ValueError as e:
+                raise ValueError(f"bad line: {line!r}") from e
 
             if filter:
                 score = filter(word, score)
