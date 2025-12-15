@@ -1093,6 +1093,8 @@ agelevels;50
 agelikeafinewine;60
 agelikefinewine;60
 agelikemilk;60
+ageline;60
+agelines;60
 agemate;40
 agemates;40
 agenine;50
@@ -1366,6 +1368,7 @@ airlike;30
 airlinepilots;50
 airlock;50
 airlocks;50
+airmada;30;AirJet shower drying company
 airmarshal;50
 airmarshals;50
 airmattress;50
@@ -4734,7 +4737,7 @@ badimpressions;50
 badkisser;60
 badkissers;60
 badland;50
-badlands;50
+badlands;60
 badloan;30
 badloans;30
 badminton;50
@@ -24477,7 +24480,7 @@ growson;40
 growsupon;40
 growupon;40
 grp;40
-grr;40
+grr;50
 grrm;20
 gru;40
 grucci;30;Fireworks by Grucci
@@ -36930,6 +36933,7 @@ mindonespsandqs;60
 mindpalace;60
 mindpalaces;60
 mindsonespsandqs;60
+mindyou;60
 minecraftserver;60
 minecraftservers;60
 minecraftstream;60
@@ -37562,6 +37566,7 @@ monstermanual;60
 monstermanuals;60
 monstrance;20;Catholic bread vessel
 montag;40;Guy ___, main character of Fahrenheit 451
+montagu;40;Anthropologist Ashley Montagu
 montand;30;Actor Yves Montand, "one of France's greatest 20th-century artists" per Wikipedia
 montane;30;Growing in elevated regions
 monteros;40
@@ -60329,6 +60334,7 @@ thechilites;50;1970s R&B group
 thechoiceisclear;60
 thecia;20
 thecircle;30;Movie/TV show???
+theclap;10
 theclient;50
 theclippers;40
 theclock;0
