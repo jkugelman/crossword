@@ -18430,6 +18430,7 @@ eradiating;30;Radiating
 erasable;40
 erasmian;30;Follower of Erasmus
 erasmus;40;Dutch theologian
+erastour;60
 erasures;40
 erat;40
 erato;40
@@ -19392,6 +19393,10 @@ factis;60
 facto;40
 factoryreset;60
 factoryresets;60
+factoryshowroom;60
+factoryshowrooms;60
+factorytour;60
+factorytours;60
 factsheet;50
 factsheets;50
 facultymember;50
@@ -58703,9 +58708,8 @@ taffrail;30;Ship's ornamentation
 taffrails;30;Ship's ornamentation
 tafts;30
 tag;50
-tagalog;50;Girl Scout cookie
-tagalogs;50;Girl Scout cookies
-tagalong;50
+tagalong;50;Girl Scout cookie
+tagalongs;50;Girl Scout cookies
 tagamet;40
 tagboard;30
 taggedalong;50
@@ -59204,6 +59208,7 @@ tarotdecks;60
 tarots;20;Questionable plural
 tarotspread;50
 tarotspreads;50
+tarpaper;50;Roofing material
 tarpon;30;Fish
 tarpons;30
 tarr;20
@@ -60432,6 +60437,7 @@ theempirestrikesback;60
 theendisnigh;60
 theentertainer;60
 theepa;20
+theerastour;60
 theespys;40
 theeu;20
 theeuro;20
@@ -60743,7 +60749,7 @@ thepats;30
 thepels;20;New Orleans NBA team
 thepen;40
 thepeopleschoice;60
-thepgatour;20
+thepgatour;40
 thephantommenace;60
 thepie;20
 thepinacoladasong;60
