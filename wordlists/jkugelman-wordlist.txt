@@ -16962,6 +16962,8 @@ earthlings;60
 earthman;50
 earthmen;50
 earthmother;60
+earthpyramid;60;Tall thin spire of rock
+earthpyramids;60
 earthquakepills;60;Acme invention
 earths;40
 earthsea;50
@@ -19470,6 +19472,8 @@ fairtrial;50
 fairtrials;50
 fairway;50
 fairways;50
+fairychimney;60;Tall thin spire of rock
+fairychimneys;60
 fairyfloss;60
 fairyoungmaiden;50
 fairytale;60
@@ -26786,7 +26790,7 @@ honshu;40
 hoo;20
 hoodlum;50
 hoodlums;50
-hoodoos;30
+hoodoos;40;Tall thin spire of rock, like in the Badlands
 hoof;50
 hoofbeat;50
 hoofbeats;50
@@ -59842,6 +59846,8 @@ tentpole;60
 tentpolemovie;60
 tentpolemovies;60
 tentpoles;50
+tentrock;60;Tall thin spire of rock
+tentrocks;60
 tentwo;20
 tenurable;30
 tenuta;30
