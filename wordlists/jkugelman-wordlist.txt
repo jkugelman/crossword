@@ -4784,6 +4784,8 @@ baedekers;30;Travel guides
 baer;40;1930s boxer Max Baer
 baes;30
 bafta;40
+baftaaward;60
+baftaawards;60
 baftas;40
 bag;50
 bagasse;20;Sugarcane pulp used as fuel for electricity
@@ -7810,6 +7812,11 @@ brisling;40;Type of sardine
 brislingsardine;50
 brislingsardines;50
 brithume;50;ABC journalist
+britishacademy;60
+britishacademyfilmaward;60
+britishacademyfilmawards;60
+britishadcademyoffilmandtelevisionarts;60
+britishfilmacademy;60
 britishlit;50
 britishshilling;50
 britlit;50
@@ -60330,6 +60337,7 @@ theboxerrebellion;40
 theboyandtheheron;60;Studio Ghibli movie
 thebraves;40
 thebrewers;40
+thebritishfilmacademy;60
 thebrocode;40
 thebrow;20
 thebrownbomber;50;Nickname for boxer Joe Louis
