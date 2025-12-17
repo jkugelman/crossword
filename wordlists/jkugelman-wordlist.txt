@@ -28186,6 +28186,8 @@ imataloss;60
 imaum;20;Imam, archaic
 imaums;20;Imams, archaic
 imaware;60
+imawfulatnames;60
+imawfulwithnames;60
 imaxfilm;60
 imaxfilms;60
 imaxmovie;60
@@ -28450,6 +28452,8 @@ imsuchajerk;60
 imsuchamoron;60
 imsuchanidiot;60
 imsure;50
+imterribleatnames;60
+imterriblewithnames;60
 imtired;50
 imtoast;60
 imtoo;20
@@ -55605,7 +55609,12 @@ sorrowers;30
 sorryfor;40
 sorryforthespam;60
 sorryifiupsetyou;60
+sorryimawfulatnames;60
+sorryimawfulwithnames;60
+sorryimbadwithnames;60
 sorryimlate;60
+sorryimterribleatnames;60
+sorryimterriblewithnames;60
 sorrylot;60
 sorrylots;50
 sorrynorefund;20
