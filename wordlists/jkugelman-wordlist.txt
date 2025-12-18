@@ -4789,6 +4789,8 @@ baes;30
 bafta;40
 baftaaward;60
 baftaawards;60
+baftafilmaward;60
+baftafilmawards;60
 baftas;40
 bag;50
 bagasse;20;Sugarcane pulp used as fuel for electricity
@@ -13970,6 +13972,7 @@ deadest;50
 deadeye;50
 deadhead;60
 deadheads;60
+deadinthewater;60
 deadkennedys;60
 deadlanguages;50
 deadlast;60
@@ -18087,6 +18090,8 @@ energylevel;60
 energylevels;60
 energypolicies;50
 energypolicy;50
+energysword;60;Halo weapon
+energyswords;60
 energyvampire;60
 energyvampires;60
 enero;40
@@ -35391,6 +35396,7 @@ malamutes;50
 malaprop;60
 malapropism;60
 malaprops;60
+malariafree;50;WHO designation
 malarias;0
 malathion;40;Pesticide
 malayalam;30;South Indian language
