@@ -10234,11 +10234,12 @@ cheeringsections;50
 cheeringup;40
 cheerio;50
 cheerlead;50
-cheerleader;50
-cheerleaders;50
-cheerleading;50
+cheerleader;60
+cheerleaders;60
+cheerleading;60
 cheerleadinguniform;60
 cheerleadinguniforms;60
+cheerleads;50
 cheeron;40
 cheerson;40
 cheersup;50
@@ -10871,6 +10872,8 @@ civ;20
 civet;30;African mammal
 civets;30;African mammals
 civiccenter;50
+civicleader;60
+civicleaders;60
 civilresistance;50
 civilsociety;60
 civilunion;60
@@ -39279,6 +39282,10 @@ nfcsouth;40
 nfcteam;40
 nfcwest;40
 nfl;50
+nflcheerleader;60
+nflcheerleaders;60
+nflcoach;60
+nflcoaches;60
 nflcombine;60
 nflcombines;60
 nfldraft;60
