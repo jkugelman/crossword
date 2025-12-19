@@ -4346,6 +4346,7 @@ avascular;30
 ave;40
 avec;40
 avemaria;50
+avengedsevenfold;60
 avengers;60
 avengersendgame;60
 avens;20;Plant of the rose family
@@ -7791,6 +7792,7 @@ bridgecolumn;50
 bridgecolumns;50
 bridgeofthenose;50
 bridgeovertroubledwater;60
+bridgepose;60
 bridgetable;50
 bridgetables;50
 briecheese;50
@@ -15912,6 +15914,8 @@ doodad;60
 doodads;60
 doodlebug;60
 doodlebugs;60
+doodlepad;60
+doodlepads;60
 doofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 doogiehowsermd;50
 dooku;50
@@ -18545,12 +18549,12 @@ eroteme;30;Rhetorical question
 erotic;50
 erotica;60
 erotical;30
-eroticart;50
-eroticfilm;50
-eroticfilms;50
+eroticart;60
+eroticfilm;60
+eroticfilms;60
 eroticism;50
-eroticnovel;50
-eroticnovels;50
+eroticnovel;60
+eroticnovels;60
 erotics;30
 erotization;40
 erotize;40;Eroticize
@@ -21123,10 +21127,10 @@ fondles;10
 fondling;10
 fondlings;10
 fondof;40
-fonduepot;50
-fonduepots;50
-fondueset;50
-fonduesets;50
+fonduepot;60
+fonduepots;60
+fondueset;60
+fonduesets;60
 fonsi;40;"Despacito" singer Luis Fonsi
 fonteyn;40;???
 foo;40
@@ -22379,7 +22383,7 @@ gays;10
 gaytwitter;40
 gaz;20
 gazacity;50
-gazastrip;50
+gazastrip;60
 gazeat;40
 gazedat;40
 gazedinto;40
@@ -24168,8 +24172,8 @@ granitic;40
 granpa;20
 grantamnesty;50
 grantedamnesty;50
-grantee;30
-grantees;30
+grantee;40
+grantees;40
 granter;40
 granters;40
 grantingamnesty;50
@@ -25268,7 +25272,9 @@ hardtacos;60
 hardten;50
 hardtobeat;60
 hardtocomeby;60
+hardtoport;60
 hardtosay;60
+hardtostarboard;60
 hardtotake;50
 hardway;50
 hardyboys;50
@@ -27000,6 +27006,7 @@ hostlers;20;Stablemen
 hosts;50
 hostwiththemost;60
 hot;50
+hotashades;60
 hotbed;50
 hotbeds;50
 hotblooded;50
@@ -35789,7 +35796,7 @@ marsrover;60
 marsrovers;60
 marsupia;40;Plural
 marsupium;40;Marsupial's pouch
-marsvolta;50
+marsvolta;60
 martel;20
 marten;40;Weasel-like animal
 martenfur;40
@@ -40968,6 +40975,8 @@ oildrills;50
 oilembargo;50
 oilembargoes;50
 oilfree;50
+oilhole;50;???
+oilholes;50
 oilily;30;Weird adverb
 oilindustry;50
 oilleak;50
@@ -41559,6 +41568,7 @@ oneyear;40
 onfeed;40
 onfirst;40
 ongod;50
+ongoldenpond;60
 onhard;0
 onhire;40;In service, British slang
 onhrt;40
@@ -42497,6 +42507,8 @@ outsmarting;60
 outsmarts;60
 outspoken;50
 outstandingwork;60
+outtake;60
+outtakes;60
 outtalk;30
 outtalked;30
 outtalking;30
@@ -47898,6 +47910,9 @@ raywise;50
 razeabuilding;20
 razorburn;50
 razorsedge;60
+razorthin;60
+razorthinmargin;60
+razorthinmargins;60
 razr;30
 razz;60
 razzed;60
@@ -51432,6 +51447,8 @@ sando;30;???
 sandorclegane;50;The Hound in "Game of Thrones"
 sandos;30;???
 sandp;30
+sandpiper;60
+sandpipers;60
 sandtrap;50
 sandtraps;50
 sandwedge;50
@@ -57543,6 +57560,8 @@ strawmanarguments;60
 strawmanfallacy;60
 strawmat;50
 strawmats;50
+strawvote;60
+strawvotes;60
 strawy;20
 straycat;50
 straydog;50
@@ -58663,6 +58682,8 @@ syns;30
 synthetical;40
 syntheticsnow;50
 synthwave;60;Electronic music microgenre inspired by '80s nostalgia
+synyster;40;Avenged Sevenfold guitarist Synyster Gates
+synystergates;60;Avenged Sevenfold guitarist
 syosset;30;Long Island town
 syphilitic;30
 syphon;20
@@ -60696,9 +60717,9 @@ themanofthehour;60
 themanofthepeople;40
 themap;20
 themarines;40
-themarsvolta;50
-themarveloustoy;50
-themasters;50
+themarsvolta;60
+themarveloustoy;60
+themasters;60
 themathaintmathing;60
 themathisnotmathing;60
 themathisntmathing;60
@@ -65593,11 +65614,11 @@ wakesthedead;60
 wakethedead;60
 wakeupcall;60
 wakeupcalls;60
-wakeuplittlesusie;50
+wakeuplittlesusie;60
 wakeupsheeple;60
 wakingthedead;60
 wal;20
-waldenpond;50
+waldenpond;60
 wale;40
 wales;40
 walesa;40;Polish president and Nobelist
@@ -65819,6 +65840,7 @@ wasteland;60
 wastemanagement;50
 wastenotime;60
 wasteofspace;60
+wasteoftime;60
 waster;40
 wasters;40
 wastesnotime;60
