@@ -2860,6 +2860,7 @@ aphesis;40;Linguistics term for loss of an unstressed first syllable, e.g. 'Meri
 aphetic;30
 aphistory;50
 aphotic;40;Ocean zone where there's no light
+aphrodite;60
 api;20
 apiano;0
 apis;20;Roman bull god
@@ -5565,6 +5566,8 @@ beachfrontproperties;50
 beachfrontproperty;50
 beachglass;50
 beachhouses;50
+beachhut;60
+beachhuts;60
 beachresort;50
 beachresorts;50
 beachtowel;50
@@ -8526,6 +8529,8 @@ cabriole;40;Ballet jump
 cabrioles;40
 cabriolet;30;Carriage
 cabriolets;30
+cachalot;40;Sperm whale
+cachalots;40
 cackleberries;50
 cackleberry;50
 cactuscostume;60;Acme invention
@@ -12236,6 +12241,12 @@ copycatcriminals;60
 copycats;60
 copycatted;60
 copycatting;60
+copyedit;60
+copyedited;60
+copyediting;60
+copyeditor;60
+copyeditors;60
+copyedits;60
 copypasta;60
 copypaste;50
 copyrightholder;60
@@ -12675,6 +12686,11 @@ crackerbarrel;60
 crackerbarrels;60
 crackingandpeeling;50
 cracklinoatbran;50
+crackpot;60
+crackpotidea;60
+crackpotideas;60
+crackpots;60
+crackpottery;60
 cracks;50
 cracksandpeels;50
 crackswise;60
@@ -12956,6 +12972,8 @@ cro;40;Cro Magnon
 croci;30;Crocuses
 crocket;20;Gothic decorative element
 crockets;20
+crockpot;60
+crockpots;60
 crocodiledundee;50
 crocus;50;Flower
 croissanwich;60;Burger King breakfast sandwich
@@ -44842,6 +44860,7 @@ plame;40;Valerie Plame
 planaperfectgetaway;60
 planaria;20
 planarian;20;Flatworm
+planarity;40
 planck;50
 planckconstant;60
 plancksconstant;60
@@ -45166,6 +45185,8 @@ plugsinto;40
 pluma;30;Feather
 plumae;30
 plumage;50
+plumelet;40
+plumelets;40
 plummier;30
 plummiest;30
 plummy;30;Like a plum (color)
@@ -66664,6 +66685,8 @@ whitedwarf;60
 whitedwarfs;60
 whitefang;50
 whitegold;50
+whitehat;60
+whitehats;60
 whitehouse;50
 whitehousebid;50
 whitehousebids;50
