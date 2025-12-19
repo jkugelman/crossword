@@ -1736,8 +1736,12 @@ allergan;40;Maker of Botox
 allergicsalute;50
 allergicsalutes;50
 allergicto;40
-alleven;50
-allexpensespaid;50
+alleven;40;Tied
+allexpensespaid;60
+allexpensespaidtrip;60
+allexpensespaidtrips;60
+allexpensespaidvacation;60
+allexpensespaidvacations;60
 alley;50
 alleycat;50
 alleycats;50
