@@ -23847,6 +23847,7 @@ goodtipper;60
 goodtippers;60
 goodtips;50
 goodtoseeyou;60
+goodtry;60
 goofaround;50
 goofball;60
 goofballs;60
@@ -25760,6 +25761,8 @@ heartstoppingmoment;60
 heartstoppingmoments;60
 heatandserve;50
 heatdeath;60
+heatedseat;60
+heatedseats;60
 heatindex;50
 heatless;30
 heatray;50
@@ -28509,6 +28512,7 @@ imterribleatnames;60
 imterriblewithnames;60
 imtired;50
 imtoast;60
+imtoblame;60
 imtoo;20
 imtoooldforthisshit;10
 imtryingmybest;60
@@ -43132,16 +43136,18 @@ parapsychologist;60
 parapsychologists;60
 parapsychology;60
 paras;20;Not short for paralegals IRL, according to many legal professionals
-parasail;50
-parasailed;50
-parasailer;50
-parasailers;50
-parasailing;50
-parasails;50
-paraski;50
-paraskied;50
-paraskiing;50
-paraskis;50
+parasail;60
+parasailed;60
+parasailer;60
+parasailers;60
+parasailing;60
+parasails;60
+paraski;60
+paraskied;60
+paraskier;60
+paraskiers;60
+paraskiing;60
+paraskis;60
 paratha;40;Indian flatbread
 parathion;30;Pesticide
 parathyroid;40
@@ -52726,28 +52732,29 @@ sempstress;20;Seamstress: Var.
 sems;30
 sen;40
 senary;20
-senateaide;50
+senateaide;60
+senateaides;60
 senatemajority;50
-senatemajorityleader;50
-senatepage;50
-senatepages;50
-senaterace;50
-senateraces;50
-senateseat;50
-senateseats;50
+senatemajorityleader;60
+senatepage;60
+senatepages;60
+senaterace;60
+senateraces;60
+senateseat;60
+senateseats;60
 sendacard;50
 sendafax;50
 sendai;20;Japanese city
 sendak;40;Maurice Sendak of "Where the Wild Things Are"
 sendby;40
 sendee;40
-sendflowers;50
+sendflowers;60
 sendfor;40
 sendin;40
 sendingacard;50
 sendingafax;50
 sendingby;40
-sendingflowers;50
+sendingflowers;60
 sendingfor;40
 sendingin;40
 sendingmoney;30;???
@@ -52762,7 +52769,7 @@ sendout;40
 sendsacard;50
 sendsafax;50
 sendsby;40
-sendsflowers;50
+sendsflowers;60
 sendsfor;40
 sendsin;40
 sendsmoney;30;???
@@ -52818,7 +52825,17 @@ senores;40
 senors;40
 sens;40
 sensen;30;Breath freshener
+senseofduty;60
+senseoffairness;60
+senseofhumor;60
+senseofjustice;60
+senseofpurpose;60
 senseofrelativesuperiority;60;Cognitive bias
+senseofresponsibility;60
+senseofself;60
+senseofselfworth;60
+senseofsmell;60
+senseofurgency;60
 senser;40
 sensers;40
 sensitivesubject;50
@@ -52828,7 +52845,7 @@ sensorial;40
 sentacard;50
 sentafax;50
 sentby;40
-sentflowers;50
+sentflowers;60
 sentfor;40
 sentimentalizer;50
 sentimentallady;50
@@ -58882,6 +58899,7 @@ takeahardpass;50
 takeaheader;50
 takeahint;60
 takeaimat;40
+takeaknee;60
 takealeap;50
 takeall;30
 takealook;50
@@ -58942,6 +58960,7 @@ takesahardpass;50
 takesaheader;50
 takesahint;50
 takesaimat;40
+takesaknee;60
 takesaleap;50
 takesalook;50
 takesamemo;40
@@ -59011,6 +59030,7 @@ takingafter;50
 takingahardpass;50
 takingaheader;50
 takingaimat;40
+takingaknee;60
 takingaleap;50
 takingalook;50
 takingamemo;40
@@ -62259,6 +62279,7 @@ tookahardpass;50
 tookaheader;50
 tookahint;50
 tookaimat;40
+tookaknee;60
 tookaleap;50
 tookalook;50
 tookamemo;40
@@ -65960,6 +65981,7 @@ waterworks;60;Monopoly square
 waterworld;60
 watford;30
 watsline;30
+watteau;40;16th century painter Jean-Antoine Watteau
 wausau;20;Wisconsin city
 wav;20
 waveaflag;50
@@ -67435,6 +67457,7 @@ wovenfabric;50
 wow;50
 wowedem;50
 wowem;40;Green paint?
+wowsers;60
 wowwhat;60
 wowza;60
 wowzers;60
@@ -67461,16 +67484,19 @@ wrestlingmeets;60
 wristpad;50
 wristpads;50
 writein;50
+writeon;40
 writerinresidence;60
 writersinresidence;60
 writersretreat;50
 writersretreats;50
 writesin;40
+writeson;40
 writesto;40
 writeto;40
 writewhatyouknow;60
 writinggroup;50
 writingin;40
+writingon;40
 writingto;40
 writteninthestars;60
 wronganswersonly;60
@@ -67482,6 +67508,7 @@ wrongturn;50
 wrongturns;50
 wrongun;20
 wrotein;40
+wroteon;40
 wroteto;40
 wrothful;30
 wroughtiron;60
