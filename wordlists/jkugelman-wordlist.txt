@@ -27210,20 +27210,23 @@ housebeer;60
 housebeers;60
 houseblend;60
 houseblends;60
-houseboat;50
-houseboats;50
-housedemocrats;50
+houseboat;60
+houseboats;60
+housedemocrat;60
+housedemocrats;60
 housedress;50
 housedresses;50
-housedressing;50
+housedressing;60
 househarkonnen;60
 housejudiciary;50
 housemajority;60
 houseoftherisingsun;60
-housepet;50
-housepets;50
+housepet;60
+housepets;60
 housered;60
 housereds;60
+houserepublican;60
+houserepublicans;60
 houserule;60
 houserules;60
 housesitter;50
@@ -50862,6 +50865,8 @@ rubberneckers;60
 rubbersnake;60
 rubbersnakes;60
 rubbersoul;60
+rubberspatula;60
+rubberspatulas;60
 rubberstamp;60
 rubberstamped;60
 rubberstamping;60
@@ -52866,12 +52871,16 @@ sen;40
 senary;20
 senateaide;60
 senateaides;60
+senatedemocrat;60
+senatedemocrats;60
 senatemajority;50
 senatemajorityleader;60
 senatepage;60
 senatepages;60
 senaterace;60
 senateraces;60
+senaterepublican;60
+senaterepublicans;60
 senateseat;60
 senateseats;60
 sendacard;50
@@ -54917,6 +54926,8 @@ slotman;20
 slotmen;20
 slotsin;40
 slottedin;40
+slottedspatula;60
+slottedspatulas;60
 slottingin;40
 sloucher;30
 slouchers;30
@@ -56128,6 +56139,7 @@ spathes;20
 spathic;20
 spatialdynamics;50
 spatlese;30;German wine
+spatulate;30;Shaped like a spatula (botany)
 spavin;20
 spavined;20
 spawner;30
