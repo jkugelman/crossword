@@ -48383,10 +48383,10 @@ recoat;20
 recoated;20
 recoating;20
 recoats;20
-recode;30
-recoded;30
-recodes;30
-recoding;30
+recode;40
+recoded;40
+recodes;40
+recoding;40
 recoiledfrom;40
 recoiledindisgust;60
 recoiledinfear;60
@@ -51130,6 +51130,7 @@ rye;50
 ryebeer;50
 ryebeers;50
 ryeflour;40
+rykrisp;40;Ry-Krisp rye cracker, defunct
 ryman;20
 ryn;30;Rembrandt van Ryn
 rys;20
@@ -61251,7 +61252,7 @@ theupshot;50
 theus;40
 theusa;30
 theusopen;20
-theva;30
+theva;40
 thevatican;40
 thevegasstrip;40
 thevenetian;50
