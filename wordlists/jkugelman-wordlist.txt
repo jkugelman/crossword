@@ -15693,6 +15693,8 @@ dogponds;60
 dogrocket;60
 dogrun;50;Fenced-off area for a dog to run around
 dogruns;50
+dogsbodies;60
+dogsbody;60
 dogshit;10
 dogshow;60
 dogshows;60
@@ -18613,6 +18615,10 @@ erotizes;40
 erotizing;40
 erotomania;60
 err;50
+errandboy;60
+errandboys;60
+errandgirl;60
+errandgirls;60
 errantia;20;Worm subclass
 errants;40;Knights-errant
 erratapage;60
@@ -33177,6 +33183,7 @@ letmehelp;60
 letmein;60
 letmeseethat;60
 letnaturerunitscourse;60
+letnaturetakeitscourse;60
 letnot;20
 leto;40
 letoff;40
@@ -33209,6 +33216,7 @@ letsjustmovepastit;60
 letsjustsay;60
 letskeepintouch;60
 letsmovepastit;60
+letsnaturetakeitscourse;60
 letsnotbehasty;60;"We should avoid jumping to conclusions"
 letsnotfindout;60;"I'd rather be blissfully ignorant"
 letsnotfreakout;60
@@ -33275,6 +33283,7 @@ letthisbealessontoyouall;60
 lettingbackin;40
 lettinginon;40
 lettinginto;40
+lettingnaturetakeitscourse;60
 lettingoff;40
 lettingrip;50
 lettingthingsplayout;60
@@ -45496,6 +45505,7 @@ poliovirus;50
 polishedbrass;50
 politicalcareer;60
 politicalcareers;60
+politicaldiscourse;60
 politicalview;60
 politicalviews;60
 politico;50
@@ -46139,6 +46149,7 @@ prelates;30
 prelittree;60
 prelittrees;60
 prell;30;Green shampoo brand
+premaritalsex;60
 premeal;30
 premeds;30
 premiss;20;Premise: Var.
@@ -46945,6 +46956,7 @@ purples;40
 purrer;40
 purrers;40
 pursestrings;60
+pursuitofjustice;60
 push;50
 pushday;50
 pushdays;50
@@ -47108,6 +47120,7 @@ pyrex;40;Corning glassware brand
 pyrites;30
 pyrogen;30;Bacterial contaminant
 pyrogens;30
+pyrrhus;40
 pythia;30;High priestess of the Temple of Apollo at Delphi
 pyx;20
 q;40
@@ -62635,6 +62648,8 @@ totalitarianized;40
 totalitarianizes;40
 totalitarianizing;40
 totalitarians;50
+totalitarianstate;60
+totalitarianstates;60
 totalities;30
 totalloss;50
 totalmess;60
