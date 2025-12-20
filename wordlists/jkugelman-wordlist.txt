@@ -3555,23 +3555,24 @@ artistinresidence;60
 artistsinresidence;60
 artiststatement;60
 artiststatements;60
-artmovement;50
-artmovements;50
-artofwar;50
+artmovement;60
+artmovements;60
+artofwar;60
 artoo;40
-artoodetoo;40
-artrestoration;50
-artrestorations;50
-artrestorer;50
-artrestorers;50
-artstudio;50
-artstudios;50
+artoodetoo;60
+artrestoration;60
+artrestorations;60
+artrestorer;60
+artrestorers;60
+artstudio;60
+artstudios;60
 artsyfartsy;60
 arttest;30;Green paint
 arttests;30
+arttheft;60
 arttheory;60
-artthief;50
-artthieves;50
+artthief;60
+artthieves;60
 arturo;50
 arturos;20
 arturotoscanini;60
@@ -3950,6 +3951,7 @@ astrological;60
 astrologist;40;Astrologer is preferred
 astrologists;40
 astrology;60
+astrometry;40
 astronaut;50
 astronautfood;60
 astronauts;50
@@ -41619,7 +41621,8 @@ onelb;40
 oneleg;30
 onelegged;50
 oneline;20
-onelinefix;50
+onelinefix;60
+onelinefixes;60
 oneliner;60
 oneliners;60
 onelira;30
@@ -41701,6 +41704,8 @@ onesugar;40
 onetaste;30
 oneten;20
 onetime;50
+onetimefix;60
+onetimefixes;60
 onetogo;30
 oneton;40
 onetoten;50
@@ -41810,6 +41815,7 @@ onthehookfor;50
 onthehouse;60
 onthehunt;50
 onthelam;60
+onthelevel;60
 onthelookout;50
 ontheloose;50
 onthemend;50
@@ -46178,6 +46184,7 @@ precisian;30
 precisians;30
 precising;30
 precisions;30
+precodeera;60
 precodehollywood;60
 precolumbian;50
 predator;50
@@ -51866,6 +51873,7 @@ satphones;50
 satpoolside;50
 satprep;50
 satprepbook;50
+satpretty;40
 satrap;20;Ancient Persian ruler
 satrapies;20;Ancient Persian provinces
 satraps;20
@@ -54467,6 +54475,7 @@ sitkaak;30
 sitnear;40;Green paint
 siton;40
 sitpoolside;50
+sitpretty;50
 sitsat;40
 sitsby;40
 sitshiva;60
@@ -54486,6 +54495,7 @@ sitsnear;40
 sitson;40
 sitspin;50
 sitspoolside;50
+sitspretty;50
 sitsshiva;60
 sitstill;60
 sitsupon;40
@@ -54503,6 +54513,7 @@ sittingintraffic;50
 sittingnear;40
 sittingon;40
 sittingpoolside;50
+sittingpretty;60
 sittingshiva;60
 sittingupon;40
 situ;40
@@ -56300,6 +56311,8 @@ speedrecords;50
 speedsby;40
 speedstacking;60;Cup stacking
 speedsto;40
+speedtest;60
+speedtests;60
 speedto;40
 speedtrap;50
 speedtraps;50
