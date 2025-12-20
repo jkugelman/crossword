@@ -33159,6 +33159,7 @@ lessees;30
 lesseps;30;Ferdinand de Lesseps, Suez Canal engineer
 lesserape;60
 lesserapes;60
+lesserof;20
 lessexpensive;50
 lessinteresting;50
 lessof;40
@@ -59724,27 +59725,28 @@ tdpasses;50
 tds;40
 tea;50
 teaact;50
-teabasket;30
+teabasket;50
+teabaskets;50
 teabraid;50
 teabraids;50
 teabreak;60
 teabreaks;60
-teabrick;50
-teabricks;50
-teacaddies;50
-teacaddy;50
+teabrick;60
+teabricks;60
+teacaddies;60
+teacaddy;60
 teach;50
 teachablemoment;60
 teachablemoments;60
 teachersass;10
 teacherslounges;50
-teachest;50
-teachests;50
+teachest;60
+teachests;60
 teachin;40
 teachins;40
 teacolored;40;Green painty
-teacozies;50
-teacozy;50
+teacozies;60
+teacozy;60
 teacuppig;60
 teacuppigs;60
 teacuppoodle;60
@@ -59754,11 +59756,11 @@ teaegg;60
 teaeggs;60
 teagarden;50
 teagardens;50
-teainfuser;50
-teainfusers;50
-teakettle;50
-teakettles;50
-tealeaves;50
+teainfuser;60
+teainfusers;60
+teakettle;60
+teakettles;60
+tealeaves;60
 tealight;50
 tealights;50
 teals;30
@@ -59769,19 +59771,19 @@ teamers;30
 teamgame;50
 teamingupon;40
 teamjacob;60
-teammascot;50
-teammascots;50
+teammascot;60
+teammascots;60
 teammember;50
 teammembers;50
-teammorale;50
+teammorale;60
 teamo;40
 teamroster;50
 teamrosters;50
 teamsupon;40
 teamupon;40
 teaneck;20;Unremarkable New Jersey town
-teaparties;50
-teaparty;50
+teaparties;60
+teaparty;60
 teapearl;50
 teapearls;50
 teapoy;30;Tea stand
@@ -60025,7 +60027,8 @@ temblors;20;Earthquakes
 tembo;20
 tempagencies;50
 tempagency;50
-tempera;40;Painting technique
+tempera;40;Water-based paint
+temperas;40
 tempesttossed;60;Violently buffeted
 tempi;20;Tempos
 tempjob;50
