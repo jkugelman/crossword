@@ -2458,6 +2458,9 @@ aneedle;20
 anema;20
 anembarrassmentofriches;60
 anemias;30
+anemometer;40
+anemometers;40
+anemometry;40
 anenigma;20
 aneroid;40;Type of barometer
 anewhope;60
@@ -6008,6 +6011,7 @@ benchjockey;60
 benchjockeys;60
 benchplayer;50
 benchplayers;50
+bendoregon;60
 bene;40;N.B.
 beneathme;0
 benedicti;30;???
@@ -6114,13 +6118,13 @@ bestoffive;60
 bestofseven;60
 bestofthree;60
 bestone;30;Green paint
-bestowedon;50
-bestowingon;50
-bestowon;50
-bestowson;50
+bestowedon;40
+bestowingon;40
+bestowon;40
+bestowson;40
 bestraightwithme;60
-bestseller;50
-bestsellers;50
+bestseller;60
+bestsellers;60
 bestupset;60;ESPY award
 besuretosmackthatbell;60
 besweeton;50
@@ -9291,6 +9295,7 @@ carli;40;Carli Lloyd, top FIFA women's soccer champion
 carlitos;40
 carlota;30
 carlotto;40
+carlreiner;60
 carls;50;Carl's Jr
 carlsen;50
 carmax;50
@@ -9901,10 +9906,14 @@ centaur;50
 centauri;50
 centaurs;50
 centcom;40;United States Central Command
+centeredon;40
 centerfold;50
 centerfolds;50
 centerice;50
+centeringon;40
+centeron;40
 centerpositions;30
+centerson;40
 centesimo;30;One hundredth of an Italian lira
 centi;40
 centralartery;50;Boston freeway, or blood vessel
@@ -21736,6 +21745,7 @@ fromthehip;60
 fromwhereistand;60
 frontalcortex;50
 frontdesk;50
+frontera;40;???
 frontpagenews;50
 frontpocket;50
 frontrunner;50
@@ -23531,6 +23541,7 @@ goestogreatlengths;60
 goestohell;60
 goestoseed;60
 goesupto;40
+goesvegan;60
 goeswest;40;Green paint???
 goeswith;40
 goesyard;50
@@ -23637,6 +23648,7 @@ goingtogreatlengths;60
 goingtohell;60
 goingtoseed;60
 goingupto;40
+goingvegan;60
 goingwith;40
 goinon;50
 goinsane;50
@@ -24098,6 +24110,7 @@ gourmetdinner;30;Green paint?
 gourmetdinners;30;Green paint?
 gov;40
 govan;50;Guthrie Govan
+govegan;60
 governingboards;50
 governingbodies;50
 governmentbonds;50
@@ -24905,6 +24918,7 @@ hadlegs;50
 hadley;30;???
 hadmore;40
 hadneedfor;40
+hadneedto;40
 hadnochill;60
 hadnolife;50
 hadnooomph;60
@@ -25407,6 +25421,7 @@ haslegs;50
 hasmore;40
 hasnard;30;Transcripts of British parliamentary debates
 hasneedfor;40
+hasneedto;40
 hasnext;40;Playground dibs
 hasnochill;60
 hasnolife;50
@@ -25531,6 +25546,7 @@ haveitmade;60
 havelegs;50
 havemore;40
 haveneedfor;40
+haveneedto;40
 havener;0
 havenochill;60
 havenofear;60
@@ -25572,6 +25588,7 @@ havingitgood;60
 havingitinfor;50
 havingitmade;60
 havingneedfor;40
+havingneedto;40
 havingnolife;50
 havingnoshot;50
 havingonetoomany;60
@@ -29447,6 +29464,7 @@ irecommend;50
 ireful;40
 irelander;30
 ireless;30
+irena;40
 ireneadler;60
 irenee;20
 irenes;30
@@ -30558,6 +30576,7 @@ jimmckay;50
 jimmi;50
 jimmyjohns;60;Chain restaurant for subs
 jimmykimmel;60
+jimmyolsen;60
 jimthorpe;50
 jinglealltheway;60
 jinglebellrock;60
@@ -30837,6 +30856,7 @@ jun;40
 junebug;60
 junebugs;60
 junes;30;Plural name
+juneteenth;60
 junglier;30
 jungliest;30
 jungly;30
@@ -34507,6 +34527,7 @@ loveto;50
 lovetobits;60
 lovetopieces;60
 lovey;40;Lovey-dovey
+loveyoutoo;60
 lovingon;40
 low;50
 lowball;60
@@ -34980,6 +35001,7 @@ madeabeelinefor;60
 madeabundle;60
 madeacameo;50
 madeaconcertedeffort;50
+madeaface;60
 madeafist;50
 madeahashof;50;Bungled
 madeakilling;60
@@ -35261,6 +35283,7 @@ makeabundle;60
 makeacameo;50
 makeaconcertedeffort;50
 makeacrack;50
+makeaface;60
 makeafist;50
 makeahashof;50;Bungle
 makeakilling;60
@@ -35317,6 +35340,7 @@ makesabundle;60
 makesacameo;50
 makesaconcertedeffort;50
 makesacrack;50
+makesaface;60
 makesafist;50
 makesahashof;50;Bungles
 makesakilling;60
@@ -35386,6 +35410,7 @@ makin;40;"Makin' Whoopee"
 makingabundle;60
 makingacameo;50
 makingaconcertedeffort;50
+makingaface;60
 makingafist;50
 makingahashof;50;Bungling
 makingakilling;60
@@ -45849,6 +45874,8 @@ potatochip;60
 potatochips;60
 potatoe;20;Dan Quayle's misspelling
 potatohead;60
+potatorace;60
+potatoraces;60
 potboy;40;Boy who serves drinks in a tavern
 potboys;40
 potdispensaries;50
@@ -50174,6 +50201,7 @@ robotry;30
 robotweet;50
 robotweets;50
 robpetertopaypaul;60
+robreiner;60
 robroys;50;Scottish cocktails
 robs;50
 robsof;40
@@ -50405,6 +50433,9 @@ romanticdinners;60
 romanticdinnersfortwo;60
 romanticfantasy;60
 romas;40
+romatomato;60
+romatomatoes;60
+romatomatosauce;50
 romeitaly;50
 romeooromeo;50
 romeros;20
@@ -60771,6 +60802,7 @@ themagi;30
 themagician;60;Tarot card
 themainact;40
 themajors;30
+themalebag;20;???
 themambo;30
 theman;60
 themandelaeffect;60
@@ -66433,6 +66465,7 @@ wenttogreatlengths;60
 wenttohell;60
 wenttoseed;60
 wentupto;40
+wentvegan;60
 wentwith;40
 wentwithit;50
 wentyard;50;Hit a home run
