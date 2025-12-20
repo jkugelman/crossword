@@ -1921,6 +1921,7 @@ alpe;30;French for Alp
 alpen;30
 alpenhorn;50
 alpenhorns;50
+alphabits;60;Letter-shaped cereal 1957-2021
 alphadog;50
 alphadogs;50
 alphorn;50;Gigantic horn from the Alps!
@@ -15185,6 +15186,8 @@ diploid;40
 diploidy;30
 diplomamill;60
 diplomamills;60
+diplomate;40;Diploma holder
+diplomates;40
 diplomaticaides;50
 diplomaticcorps;50
 dippedinto;40
@@ -21502,6 +21505,7 @@ frakes;40;Jonathan Frakes from ST:TNG
 framegrab;50
 framegrabs;50
 framejob;60
+framerate;60
 franc;50
 franchiseplayer;50
 franchiseplayers;50
@@ -23535,15 +23539,15 @@ goesoffline;50
 goesoffwithoutahitch;60
 goesok;50
 goesokay;50
-goesonadate;50
-goesonadiet;50
+goesonadate;60
+goesonadiet;60
 goesonaspree;50
 goesonatear;60
 goesonleave;50
-goesonrecord;50
+goesonrecord;60
 goesonrecordas;40
 goesonsale;60
-goesontour;50
+goesontour;60
 goesout;50
 goesoutwith;50
 goespfft;30
@@ -23644,15 +23648,15 @@ goingobsolete;50
 goingoffkilter;50
 goingoffline;50
 goingoffwithoutahitch;60
-goingonadate;50
-goingonadiet;50
+goingonadate;60
+goingonadiet;60
 goingonaspree;50
 goingonatear;60
 goingonleave;50
-goingonrecord;50
+goingonrecord;60
 goingonrecordas;40
 goingonsale;60
-goingontour;50
+goingontour;60
 goingoutwith;50
 goingpfft;30
 goingpro;50
@@ -23929,20 +23933,20 @@ goomba;60
 goombah;50
 goombahs;50
 goombas;60
-goonadate;50
-goonadiet;50
+goonadate;60
+goonadiet;60
 goonaspree;50
 goonatear;60
 gooney;20
 gooneys;20
 goonleave;50
-goonrecord;50
+goonrecord;60
 goonrecordas;40
 goonsafari;50
 goonsale;60
 goonthelam;60
 goontherun;60
-goontour;50
+goontour;60
 goonwithoutme;60
 goos;30
 goosander;30;Sea duck
@@ -35881,6 +35885,7 @@ marryinginto;40
 marryinto;40
 marshallmathers;60
 marshas;30
+marshmallowalphabits;60
 marslander;60
 marslanders;60
 marslanding;50
@@ -51665,8 +51670,8 @@ santaclaus;60
 santaclause;60
 santacon;50
 santafenewmexico;50
-santahat;50
-santahats;50
+santahat;60
+santahats;60
 santamonicaca;30
 santarosaisland;30
 santasuit;50
@@ -55465,6 +55470,8 @@ socialcue;60
 socialcues;60
 socialexperiment;60
 socialexperiments;60
+socialite;60
+socialites;60
 socialmediablast;60
 socialmediablasts;60
 socialmediainfluencer;60
@@ -65090,6 +65097,8 @@ valuesat;40
 valuingat;40
 valuta;20
 valvate;40;???
+valvelet;40
+valvelets;40
 valvetrombone;50
 valvetrombones;50
 vamos;40
@@ -66542,15 +66551,15 @@ wentobsolete;50
 wentoffkilter;50
 wentoffline;50
 wentoffwithoutahitch;60
-wentonadate;50
-wentonadiet;50
+wentonadate;60
+wentonadiet;60
 wentonaspree;50
 wentonatear;60
 wentonleave;50
-wentonrecord;50
+wentonrecord;60
 wentonrecordas;40
 wentonsale;60
-wentontour;50
+wentontour;60
 wentout;50
 wentoutlikealight;60
 wentoutwith;50
