@@ -9952,6 +9952,7 @@ cerates;30;Medicated pastes
 cerealbar;50
 cerealbars;50
 cerebra;40
+cerebrum;50
 cerement;30;Waxed cloth covering a corpse
 cerements;30;Waxed cloths covering a corpse
 ceremonialdressuniform;50
@@ -23850,6 +23851,7 @@ gooddoggies;60
 gooddoggy;60
 goode;40
 goodeye;60
+goodfairy;60
 goodfat;60
 goodfats;60
 goodfornothing;60
@@ -26046,9 +26048,11 @@ henhouse;50
 henhouses;50
 henie;30;Sonja Henie, 1930s top figure skater and actress
 henle;20
+hennight;50;Bachelorette party in Britain
+hennights;50
 hennish;40;Cowardly
-henparties;40
-henparty;40
+henparties;50
+henparty;50;Bachelorette party in Britain
 henreid;40;Paul Henreid who played Victor Laszlo in "Casablanca"
 henripoincare;50
 henryhyde;40;House rep Henry Hyde (R-IL, 1975-2007)
@@ -56789,6 +56793,8 @@ stagingareas;50
 stagingastrike;50
 stagline;40;Unaccompanied men at a dance
 stagnes;40
+stagparties;50
+stagparty;50;Bachelor party in Britain
 stagy;40;Excessively theatrical
 stah;20
 stahl;40
