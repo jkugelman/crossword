@@ -24968,6 +24968,7 @@ hadnooomph;60
 hadnoplan;50
 hadnoshot;50
 hadnotime;50
+hadnotimefor;40
 hadon;40
 hadones;20
 hadonesdruthers;60
@@ -24979,6 +24980,7 @@ hadseconds;60
 hadst;40
 hadthelastlaugh;60
 hadthelimelight;30
+hadtimefor;40
 hadto;40
 hadtorun;30;???
 hae;20
@@ -25473,6 +25475,7 @@ hasnooomph;60
 hasnoplan;50
 hasnoshot;50
 hasnotime;50
+hasnotimefor;40
 hasntgottime;50
 hason;40
 hasonetoomany;60
@@ -25491,6 +25494,7 @@ hastensto;40
 hastento;40
 hastert;40;Speaker of the House Dennis Haster (1999-2007)
 hasthelastlaugh;60
+hastimefor;40
 hasto;40
 hastodo;20
 hasup;40
@@ -25598,10 +25602,12 @@ havenolife;50
 havenoplan;50
 havenoshot;50
 havenotime;50
+havenotimefor;40
 haventgottime;50
 haveonetoomany;60
 haveseconds;60
 havethelastlaugh;60
+havetimefor;40
 haveto;40
 havingababy;50
 havingabite;50
@@ -25635,6 +25641,7 @@ havingneedfor;40
 havingneedto;40
 havingnolife;50
 havingnoshot;50
+havingnotimefor;40
 havingonetoomany;60
 havingseconds;60
 havingthelastlaugh;60
