@@ -1359,8 +1359,8 @@ airgaps;60
 airguitar;60
 airguitars;40
 airhead;60
-airhorn;50
-airhorns;50
+airhorn;60
+airhorns;60
 airi;20
 airingofgrievances;60
 airingonesdirtylaundry;60
@@ -18639,6 +18639,7 @@ erratapages;60
 erratics;30
 erredonthesideofcaution;60
 erringonthesideofcaution;60
+errishuman;20
 errol;40
 erronthesideofcaution;60
 errorpage;50
@@ -62016,6 +62017,8 @@ tinhat;40
 tinhats;40
 tinhelmet;50
 tinhelmets;50
+tinhorn;60;Old West slang for a phony
+tinhorns;60
 tink;50;Unknit
 tinked;50;Unknitted
 tinkerbell;60
