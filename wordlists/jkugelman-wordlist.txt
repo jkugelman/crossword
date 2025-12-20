@@ -1448,7 +1448,7 @@ akc;30;American Kennel Club
 akebono;30;???
 akeelah;40;"Akeelah and the Bee"
 akeem;30;"Coming to America" prince
-akela;30;Wolf in "The Jungle Book"
+akela;40;Wolf in "The Jungle Book"
 akers;40;Michelle Akers, FIFA Female Player of the Century
 akinesia;30;Inability to perform a clinically perceivable movement
 akinto;40
@@ -4647,6 +4647,7 @@ backday;60
 backdays;60
 backedacandidate;50
 backedinacorner;50
+backedinto;40
 backedintoacorner;60
 backfill;50
 backfilled;50
@@ -4661,11 +4662,13 @@ backhandspring;50
 backhandsprings;50
 backinabit;60
 backingacandidate;50
+backinginto;40
 backingintoacorner;60
 backinmyday;60
 backinthegame;60
 backinthesaddle;60
 backintheussr;60
+backinto;40
 backintoacorner;60
 backissues;50
 backitup;60
@@ -4680,6 +4683,7 @@ backsacandidate;50
 backsaw;40
 backsaws;40
 backseating;60;Giving unwanted advice in a livestream chat
+backsinto;40
 backsintoacorner;60
 backslang;60
 backspins;40
@@ -60642,7 +60646,7 @@ thecurseofknowledge;60
 thecustomerisalwaysright;60
 thecut;40
 thecw;40
-theda;30
+theda;40
 thedabara;40;Silent film actress Theda Bara
 thedailyshow;60
 thedamageisdone;60
