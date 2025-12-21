@@ -9236,6 +9236,7 @@ carealot;40
 carebear;60
 carebears;60
 caredalot;40
+caredfor;40
 caredto;40
 caredtoomuch;60
 careerbest;60
@@ -9250,6 +9251,7 @@ careerhighs;50
 careerpath;50
 careerpaths;50
 careerpol;40
+carefor;40
 carefulwhatyouwishfor;60
 carelessabandon;30
 careof;50;Envelope words
@@ -9257,6 +9259,7 @@ careprovider;50
 careproviders;50
 carer;30
 caresalot;40
+caresfor;40
 caresto;40
 carestoomuch;60
 careto;40
@@ -9293,6 +9296,7 @@ caries;40;Cavities
 carina;30;Constellation
 carinas;20;Doublets
 caringalot;40
+caringfor;40
 caringtoomuch;60
 carioca;30;Resident of Rio de Janeiro
 cariocas;30
@@ -15460,7 +15464,7 @@ dlvi;20
 dlx;20
 dm;40
 dmajor;40
-dmc;20
+dmc;30;Run-DMC
 dmed;40
 dming;40
 dminor;40
@@ -28385,6 +28389,7 @@ imdb;40
 imdead;60
 imdeadmeat;60
 imdone;50
+imdonefor;60
 imdying;60
 imdyinghere;60
 imdyinhere;60
@@ -34440,6 +34445,7 @@ lorre;40;Actor Peter Lorre (1904-1964)
 lorres;20
 lory;20;Parrot
 los;40
+losalamos;60
 losangeles;50
 losangeleslaker;50
 loseanhour;60
@@ -43002,6 +43008,7 @@ pahlavi;20;Iranian Shah
 pahlevi;0
 pai;40;___ Gow
 paidcontent;60
+paidfor;40
 paidforitself;60
 paidin;40
 paidinto;40
@@ -43699,9 +43706,11 @@ paycut;60
 paycuts;60
 payday;50
 paydays;50
+payfor;40
 payhike;60
 payhikes;60
 payin;40
+payingfor;40
 payingin;40
 payinginto;40
 payingonesfairshare;50
@@ -43716,6 +43725,7 @@ payonesfairshare;50
 payorplay;60
 payperview;50
 payretail;50
+paysfor;40
 paysforitself;60
 paysin;40
 paysinto;40
@@ -44775,8 +44785,8 @@ pinchofsalt;50
 pinchrunfor;40
 pinchrunsfor;40
 pineal;40;Gland
-pinedfor;50
-pinefor;50
+pinedfor;40
+pinefor;40
 pinelog;50
 pinelogs;50
 piner;40
@@ -44785,12 +44795,12 @@ pineries;40
 pinero;40;Playwright Miguel Piñero
 piners;40
 pinery;40;Where pineapples are grown
-pinesfor;50
+pinesfor;40
 pineta;20
 piney;40
 pinier;30
 piniest;30
-piningfor;50
+piningfor;40
 pinit;20;???
 pinkerton;50
 pinkertons;50
@@ -46176,6 +46186,7 @@ prairiedogpup;50
 prairiedogpups;50
 prairiedogs;50
 praisebe;60
+praisegod;60
 praiseth;40
 prandial;30
 prater;30
@@ -51970,13 +51981,16 @@ savarin;40;French cake
 savate;30;French martial art
 saveall;50
 savedface;60
+savedfor;40
 savedgas;50
 savedon;40
 savedto;40
 saveface;60
+savefor;40
 savegas;50
 saveon;40
 savesface;60
+savesfor;40
 savesgas;50
 saveson;40
 savesto;40
@@ -51984,6 +51998,7 @@ savethewhales;60
 saveto;40
 savile;40;Savile Row, London street known for tailoring
 savingface;60
+savingfor;40
 savinggas;50
 savingon;40
 savingto;40
@@ -62931,6 +62946,7 @@ touringbands;60
 touristindustry;50
 touristmap;50
 touristmaps;50
+tournedos;40;French steak dish tournedos Rossini
 tourofduty;50
 toursofduty;50
 touter;30
@@ -65875,11 +65891,15 @@ voodoos;30
 voom;30
 vortical;40
 vos;20
+votedfor;40
 votedon;40
+votefor;40
 voteon;40
+votesfor;40
 voteson;40
 votingbloc;50
 votingblocs;50
+votingfor;40
 votingon;40
 votingsystem;50
 votingsystems;50
@@ -66781,6 +66801,7 @@ werealmostthere;60
 werebad;60
 wereburningdaylight;60
 werecool;60
+weredonefor;60
 weredonehere;60
 werefreshout;60
 wereinbigtrouble;60
@@ -68598,6 +68619,7 @@ youredamnright;60
 youredarnedifyoudoanddarnedifyoudont;60
 youredarnedifyoudoandyouredarnedifyoudont;60
 youredarnright;60
+youredonefor;60
 yourefired;60
 youregettingoffeasy;60
 youregettingsleepy;60
