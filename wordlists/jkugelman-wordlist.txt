@@ -4911,6 +4911,9 @@ baldricks;40
 baldrics;40
 balds;50
 baldur;40
+baleares;40;Spanish archipelago
+balearic;40
+balearicislands;50;Mallorca's archipelago in Spain
 baleen;50;Type of whale
 baleofhay;50
 baler;50;Farm machine
@@ -20483,6 +20486,8 @@ firedat;40
 firedaway;40
 firedepartment;50
 firedepartments;50
+firedevil;60;Fire tornado
+firedevils;60
 firedon;40
 firedonallcylinders;60
 firedup;50
@@ -20517,6 +20522,8 @@ firemansred;0
 firemario;60
 firemarshal;50
 firemen;50
+firenado;60
+firenadoes;60
 fireon;40
 fireonallcylinders;60
 fireplug;50
@@ -20534,10 +20541,14 @@ firestorm;60
 firestorms;60
 firesup;50
 firesupon;40
+firetornado;60
+firetornadoes;60
 firetruck;50
 firetrucks;50
 fireup;50
 fireupon;40
+firewhirl;60
+firewhirls;60
 fireworksdisplay;50
 fireworksdisplays;50
 firingashot;50
@@ -23742,6 +23753,7 @@ goldenoreo;60
 goldenoreos;60
 goldenshower;10
 goldenshowers;10
+goldest;30
 goldfishbowl;50
 goldfishbowls;50
 goldingot;50
@@ -59692,7 +59704,7 @@ tatemuseum;60
 tatertot;60
 tatertotnachos;60
 tatertots;60
-tates;30
+tates;30;"Soap" family
 tati;40;Director Jacques Tati (he's notable!)
 tatler;30;British magazine
 tatooine;60;Luke Skywalker's home planet
@@ -67459,7 +67471,7 @@ winterstale;60
 winterxgames;50
 wintery;20;Less common spelling
 winthewar;50
-wiredto;40
+wiredto;30
 wirelesscharger;50
 wirelessearbuds;50
 wirelessnetwork;50
@@ -67468,11 +67480,11 @@ wirer;40
 wirerod;40
 wirerods;40
 wirers;40
-wiresto;40
-wireto;40
+wiresto;30
+wireto;30
 wirewalker;50
 wirewalkers;50
-wiringto;40
+wiringto;30
 wis;40;Wisconsin
 wisc;40
 wisdomofsolomon;50
