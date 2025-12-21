@@ -4027,7 +4027,7 @@ ateat;40
 ateathome;20
 ateaton;30
 ateawayat;40
-atedirt;50
+atedirt;60
 ateensybit;50
 ateeter;20
 atefortwo;60
@@ -5396,6 +5396,8 @@ batguano;60
 bathe;50
 bathed;50
 bathes;50
+bathoil;60
+bathoils;60
 batholith;40;???
 batholiths;40
 bathometer;50;Device that measures water depth
@@ -8157,12 +8159,12 @@ bugsprayers;50
 bugsprays;60
 buildaconsensus;50
 buildafire;50
-buildconsensus;50
+buildconsensus;60
 buildingaconsensus;50
 buildingafire;50
 buildingblock;50
 buildingblocks;50
-buildingconsensus;50
+buildingconsensus;60
 buildingon;40
 buildingsupport;50
 buildon;40
@@ -8170,13 +8172,13 @@ buildorbuy;60
 buildorbuydecision;60
 buildsaconsensus;50
 buildsafire;50
-buildsconsensus;50
+buildsconsensus;60
 buildson;40
 builtaconsensus;50
 builtafire;50
-builtconsensus;50
-builtinbra;50
-builtinbras;50
+builtconsensus;60
+builtinbra;60
+builtinbras;60
 builtinto;40
 builton;40
 bul;20
@@ -13898,6 +13900,7 @@ datdere;60
 datebread;60
 datedesignation;0
 datedup;50
+dateline;60
 dater;30
 daters;30
 datesup;50
@@ -17154,7 +17157,7 @@ eatandrun;50
 eatat;40
 eataton;30
 eatawayat;40
-eatdirt;50
+eatdirt;60
 eatem;0
 eatenat;40
 eateninto;40
@@ -17172,7 +17175,7 @@ eatingalone;40
 eatingat;40
 eatingaton;30
 eatingawayat;40
-eatingdirt;50
+eatingdirt;60
 eatingfortwo;60
 eatingfrom;40
 eatinghealthy;50
@@ -17207,7 +17210,7 @@ eatsandruns;50
 eatsat;40
 eatsaton;30
 eatsawayat;40
-eatsdirt;50
+eatsdirt;60
 eatsfortwo;60
 eatsfrom;40
 eatshealthy;50
@@ -48093,6 +48096,10 @@ ratiocination;40
 ratiocinative;40
 ratiocinator;40
 ratioed;60
+rationedout;40
+rationingout;40
+rationout;40
+rationsout;40
 ratite;30;Flightless bird
 ratites;30;Flightless birds
 ratlike;30
@@ -48111,6 +48118,7 @@ ratrods;50
 ratsnest;60
 ratsnests;60
 ratson;40
+ratsorizzo;60
 ratt;40
 rattail;50
 rattails;50
