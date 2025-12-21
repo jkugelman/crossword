@@ -8061,7 +8061,7 @@ bss;30
 bstar;20
 bstars;20
 bteam;50
-bteams;40
+bteams;50
 btes;20
 btier;50
 btry;20
@@ -51560,10 +51560,10 @@ sakebar;60
 sakebars;60
 sakebomb;50
 sakebombs;50
-sakecup;40
-sakecups;40
-sakeset;40
-sakesets;40
+sakecup;60
+sakecups;60
+sakeset;50
+sakesets;50
 saki;30;H. H. Munro's pen name
 sal;50
 salability;30
