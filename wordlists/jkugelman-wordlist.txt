@@ -14954,6 +14954,8 @@ diddy;40;Diddy Kong
 didgood;50
 didhonor;30
 didhonorto;40
+didiask;60
+didiaskyou;60
 dididothat;60
 didievertellyouhowluckyyouare;60;Dr. Seuss book
 didihearthatright;60
@@ -26612,7 +26614,7 @@ hm;50
 hmart;40
 hmarts;40
 hmm;50;[How do I respond?]
-hmmisee;30
+hmmisee;40
 hmmm;20
 hmmthatsweird;60
 hmo;40
@@ -36482,6 +36484,7 @@ medfly;30;Mediterranean fruit fly
 medford;30
 medgar;40;Medgar Evers
 mediaattention;50
+mediacy;40
 mediadarling;60
 mediadarlings;60
 mediadiet;60
@@ -36494,6 +36497,7 @@ mediaplayer;50
 mediaplayers;50
 medias;40;In medias res
 mediastorm;50
+mediateness;40
 medicaldegree;50
 medicaldegrees;50
 medicalhistory;50
@@ -67109,6 +67113,7 @@ whoelse;50
 whogivesaflip;60
 whogivesashit;10
 whohasnt;60;"We've all been there, right?"
+whoisit;60
 whoisthat;60
 whoisthis;60
 whoisthisfor;60;Question regarding something that nobody seems to want
