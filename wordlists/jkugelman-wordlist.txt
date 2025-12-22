@@ -37082,12 +37082,12 @@ microdose;60
 microdosed;60
 microdoses;60
 microdosing;60
-microdot;50
-microdots;50
-microfiche;50
-microfiches;50
-microfilm;50
-microfilms;50
+microdot;60;Message steganographically hidden in a tiny dot
+microdots;60
+microfiche;60
+microfiches;60
+microfilm;60
+microfilms;60
 microgenre;60;Highly specialised or niche artistic domain
 microgenres;60
 microgravity;60
@@ -57543,6 +57543,8 @@ steeving;30
 stef;40
 stefans;30;Plural name
 steg;20
+steganographic;60
+steganography;60
 stegner;40;"Angle of Repose" author Wallace Stegner (Pulitzer 1972)
 steiner;40;Hollywood composer Max Steiner
 stela;20
