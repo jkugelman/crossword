@@ -9091,6 +9091,7 @@ canwenot;60
 canyoubeatthat;60
 canyoubelieveit;60
 canyoudigit;50
+canyoudoanythingright;60
 canyoudothat;60
 canyoufillmein;60
 canyounot;60
@@ -20122,6 +20123,7 @@ feelingsmall;50
 feelingtenfeettall;60
 feelingtheburn;60
 feelingundertheweather;60
+feelinguptoit;60
 feelinonesbones;60
 feelinsatisfied;50
 feelleftout;50
@@ -20149,11 +20151,13 @@ feelssmall;50
 feelstenfeettall;60
 feelstheburn;60
 feelsundertheweather;60
+feelsuptoit;60
 feeltenfeettall;60
 feeltheburn;60
 feelthelove;60
 feelthirsty;50
 feelundertheweather;60
+feeluptoit;60
 feely;50
 feetontheground;60
 feh;40
@@ -20207,6 +20211,7 @@ felttenfeettall;60
 felttheburn;60
 felttipped;50
 feltundertheweather;60
+feltuptoit;60
 felucca;40;Woodden sailing boat
 feluccas;40
 fem;40
@@ -27722,6 +27727,10 @@ icantbelieveit;60
 icantbelieveitsactuallyhappening;60
 icantbelieveitshappening;60
 icantbelievemyeyes;60
+icantdoanything;60
+icantdoanythingright;60
+icantdoit;60
+icantdothat;60
 icantgonow;60
 icantgoon;60
 icantlook;60
@@ -28000,7 +28009,9 @@ idontbelieveit;60
 idontbite;60
 idontcare;60
 idontevencare;60
+idontfeellikeit;60
 idontfeelsogood;60
+idontfeeluptoit;60
 idontgetit;60
 idontgiveadamn;60
 idontgiveaflip;60
@@ -28010,6 +28021,11 @@ idonthaveallday;60
 idonthaveto;60
 idontknow;50
 idontknowcanyou;60
+idontknowifican;60
+idontknowificandoit;60
+idontknowificandothat;60
+idontknowifimready;60
+idontknowifimreadyforthat;60
 idontknowijustworkhere;60
 idontliketobrag;60
 idontliketobragbut;60
@@ -29001,6 +29017,7 @@ inesse;40;Actually existing
 ineurope;30
 inever;50
 inevercantell;60
+ineverdoanythingright;60
 ineversaidthat;60
 inexistent;40
 inf;20
@@ -68670,6 +68687,7 @@ youcandothat;60
 youcanonlyblameyourself;60
 youcantbeserious;60
 youcantdenyit;60
+youcantdoanythingright;60
 youcantdothat;60
 youcantfixstupid;60
 youcanthaveitbothways;60
@@ -68770,6 +68788,7 @@ younameitwevegotit;60
 youneedme;60
 youneedtogetyourheadexamined;60
 youneedtorelax;60
+youneverdoanythingright;60
 youngchildren;50
 younglion;50;???
 younglions;50;???
