@@ -10449,22 +10449,22 @@ chestxrays;50
 cheviot;20;Breed of sheep
 chevre;40;Chèvre, goat cheese
 chevron;50
-chewat;40
+chewat;30
 chewbacca;60
 chewbaccadefense;60
-chewedat;40
+chewedat;30
 chewedon;40
 chewedthescenery;60
 chewedupthescenery;60
 chewer;40
 chewers;40
 chewie;50
-chewingat;40
+chewingat;30
 chewingon;40
 chewingthescenery;60
 chewingupthescenery;60
 chewon;40
-chewsat;40
+chewsat;30
 chewson;40
 chewsthescenery;60
 chewsupthescenery;60
@@ -18716,7 +18716,7 @@ erskine;30
 erst;40
 erte;30;Artist Romain de Tirtoff
 ertegun;30;Ahmet ___, Rock and Roll Hall of Fame chairman
-ertes;20;Works by Erté
+ertes;30;Works by Erté
 eruct;10
 eructation;10
 eructed;10
@@ -22115,6 +22115,7 @@ futzedaround;50
 futzesaround;50
 futzingaround;50
 fuze;40;Iced tea brand
+fuzzball;60;What Han calls Chewie
 fwd;40
 fwiw;40
 fwmurnau;50;"Nosferatu" director F. W. Murnau
