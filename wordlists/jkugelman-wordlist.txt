@@ -4113,7 +4113,7 @@ atnight;30
 atnine;20
 atnoon;30
 ato;20
-atoast;50
+atoast;60
 atob;40
 atokadhtron;0
 atole;20;Mexican drink
@@ -11503,6 +11503,7 @@ coffeeshop;50
 coffeeshops;50
 coffeeurn;50
 coffeeurns;50
+cofund;40
 cog;50
 coginthemachine;60
 cogitoergosum;60
@@ -17160,6 +17161,7 @@ eat;50
 eatable;40;Not just edible, but also palatable
 eatables;40
 eatalone;40
+eataly;40
 eatameal;30
 eatandrun;50
 eatat;40
@@ -20272,6 +20274,8 @@ fghi;20
 fgs;40
 fha;20
 fhm;20
+fhole;40;Violin-style f-shaped hole on some guitars
+fholes;40
 fi;40
 fiance;50
 fiancee;50
@@ -31213,6 +31217,7 @@ kazoo;50
 kazoos;50
 kb;40
 kbs;20
+kbtoys;40
 kcabemoc;0
 kcal;40
 kcals;40
@@ -53934,6 +53939,7 @@ shofars;30
 shogi;40;Japanese chess
 shoji;40;Japanese translucent door/window/room divider
 shojo;40;???
+shooby;40;???
 shooedin;20
 shooin;50
 shooingin;20
@@ -67285,6 +67291,7 @@ whostheluckygirl;60
 whostheluckyguy;60
 whostheluckylady;60
 whosthis;60
+whoswe;60
 whoswho;60
 whowasit;60
 whowouldathought;60
