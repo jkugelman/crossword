@@ -19297,9 +19297,9 @@ exilefrom;40
 exilesfrom;40
 exilingfrom;40
 exitfare;50
-exitpoll;50
-exitpolling;50
-exitpolls;50
+exitpoll;60
+exitpolling;60
+exitpolls;60
 exitrow;50
 exitrows;50
 exitrowseat;50
