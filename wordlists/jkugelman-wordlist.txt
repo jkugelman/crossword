@@ -3523,16 +3523,16 @@ arsenious;30;Containing arsenic
 arsonist;50
 arsons;50;The town has suffered a rash of arsons
 art;50
-artbrut;50
+artbrut;60
 artbuyer;50
 artbuyers;50
-artcollector;50
-artcollectors;50
-artcritic;50
-artcritics;50
-artcurator;50
-artcurators;50
-artdeco;50
+artcollector;60
+artcollectors;60
+artcritic;60
+artcritics;60
+artcurator;60
+artcurators;60
+artdeco;60
 arte;40
 artemisi;40;NASA mission??
 artemisia;30;Plant genus
@@ -3540,7 +3540,8 @@ artemus;20;1800s humorist
 arteriole;30;Capillary
 arterioles;30;Capillaries
 artest;40;Ron Artest aka Metta World Peace
-artexhibits;50
+artexhibit;60
+artexhibits;60
 artforger;60
 artforgeries;60
 artforgers;60
