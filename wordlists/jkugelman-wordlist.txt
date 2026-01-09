@@ -11910,6 +11910,7 @@ commonarea;50
 commonareas;50
 commoncold;50
 commoncolds;40
+commoncourtesy;60
 commondecency;50
 commonfolk;50
 commongood;50
@@ -13104,12 +13105,16 @@ crosscountryteams;60
 crosse;30;La crosse stick
 crossedoffthelist;60
 crossedpartylines;60
+crossedpaths;60
+crossedpathswith;40
 crossedt;50
 crossedthepicketline;60
 crossedts;50
 crosser;50
 crossers;40
 crossespartylines;60
+crossespaths;60
+crossespathswith;40
 crossest;50
 crossesthepicketline;60
 crossestobear;60
@@ -13137,6 +13142,8 @@ crosshatched;50
 crosshatches;50
 crosshatching;50
 crossingpartylines;60
+crossingpaths;60
+crossingpathswith;40
 crossingthepicketline;60
 crosslet;40;Small cross in heraldry
 crosslets;40
@@ -13149,6 +13156,8 @@ crossoverepisodes;60
 crossovermovie;50
 crossovermovies;50
 crosspartylines;60
+crosspaths;60
+crosspathswith;40
 crossplatform;60
 crosspollinate;50
 crosspollinated;50
@@ -19511,12 +19520,15 @@ facecam;60
 facecams;60
 facecard;60
 facecards;60
+facedfacts;60
 facedit;30
 facedout;40
+facedthefacts;60
 facedtherap;20
 facedthewrongway;50
 facedup;40
 facedupto;40
+facefacts;60
 faceid;50
 faceit;60
 facemask;60;Football penalty
@@ -19530,12 +19542,14 @@ faceout;40
 facepaint;60
 facepainting;60
 facerecognition;60
+facesfacts;60
 faceshape;50
 faceshapes;50
 faceshield;60
 faceshields;60
 facesit;30
 facesout;40
+facesthefacts;60
 facestherap;20
 facesthewrongway;50
 facesup;40
@@ -19548,6 +19562,7 @@ facetat;60
 facetats;60
 facetattoo;60
 facetattoos;60
+facethefacts;60
 facetherap;20
 facethewrongway;50
 facetime;50
@@ -19557,9 +19572,11 @@ facetiming;50
 faceup;50
 faceupto;40
 facialrecognition;60
+facingfacts;60
 facingit;30
 facingout;40
 facings;30
+facingthefacts;60
 facingtherap;20
 facingthewrongway;50
 facingup;40
@@ -55055,7 +55072,10 @@ slantrhyme;60
 slanty;30
 slapat;40
 slapbass;60
+slapbracelet;60
+slapbracelets;60
 slapdash;50
+slaphappy;60
 slapintheface;60
 slapon;40
 slapped;60
@@ -55067,6 +55087,8 @@ slappingon;40
 slaps;50
 slapsat;40
 slapshard;60
+slapshot;60
+slapshots;60
 slapson;40
 slasher;50
 slasherfilm;60
