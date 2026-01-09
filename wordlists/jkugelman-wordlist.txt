@@ -35297,6 +35297,7 @@ madeof;40
 madeoff;30
 madeofhonor;0
 madeoneselfmiserable;50
+madeonesmark;60
 madeplans;50
 madepossiblebyviewerslikeyou;60
 madeproud;50
@@ -35384,6 +35385,8 @@ magicbeans;60
 magicbus;50
 magician;60
 magicians;60
+magicmarker;60
+magicmarkers;60
 magicrealism;60
 magicset;60
 magicsets;60
@@ -35588,6 +35591,7 @@ makenice;60
 makenoises;50
 makeoff;30
 makeoneselfmiserable;50
+makeonesmark;60
 makeovermontage;60
 makeovermontages;60
 makeplans;50
@@ -35636,6 +35640,7 @@ makesnoises;50
 makesof;20;???
 makesoff;30
 makesoneselfmiserable;50
+makesonesmark;60
 makesplans;50
 makesproud;50
 makesroom;50
@@ -35705,6 +35710,7 @@ makingnice;60
 makingnoises;50
 makingoff;40
 makingoneselfmiserable;50
+makingonesmark;60
 makingplans;50
 makingproud;50
 makingroom;50
