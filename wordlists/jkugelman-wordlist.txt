@@ -4302,6 +4302,10 @@ auntjemima;10
 auntselma;50
 aur;20
 aurae;30;Extremely uncommon vs. auras
+aurafarm;60
+aurafarmed;60
+aurafarming;60
+aurafarms;60
 auralea;30;Civil War song "Aura Lea"
 auralee;40;Civil War song "Aura Lee" or designer brand
 aureate;20;Highly ornamented
@@ -44340,6 +44344,8 @@ perfectsquare;50
 perfectsquares;50
 perforatedlines;50
 performative;60
+performativemale;60
+performativemales;60
 perfusion;30;Rate at which blood is delivered to tissue
 pergola;40;Gazebo relative
 pergolas;40
