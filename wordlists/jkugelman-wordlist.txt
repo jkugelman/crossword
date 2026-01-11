@@ -4774,6 +4774,7 @@ baddate;60
 baddates;60
 baddog;50
 badegg;60
+badeggs;60
 badegree;40
 badegrees;40
 badenbaden;40;German resort town Baden-Baden
@@ -25092,7 +25093,7 @@ haditbad;60
 haditgood;60
 haditinfor;50
 haditmade;60
-hadlegs;50
+hadlegs;60
 hadley;30;???
 hadmore;40
 hadneedfor;40
@@ -25598,7 +25599,7 @@ hasitbad;60
 hasitgood;60
 hasitinfor;50
 hasitmade;60
-haslegs;50
+haslegs;60
 hasmore;40
 hasnard;30;Transcripts of British parliamentary debates
 hasneedfor;40
@@ -25726,7 +25727,7 @@ haveitbothways;50
 haveitgood;60
 haveitinfor;50
 haveitmade;60
-havelegs;50
+havelegs;60
 havemore;40
 haveneedfor;40
 haveneedto;40
@@ -25772,6 +25773,7 @@ havingitbad;60
 havingitgood;60
 havingitinfor;50
 havingitmade;60
+havinglegs;50
 havingneedfor;40
 havingneedto;40
 havingnolife;50
@@ -32251,6 +32253,8 @@ ladle;50
 ladler;40
 ladlers;40
 ladles;50
+ladmag;60
+ladmags;60
 ladoga;30;Russian lake the size of Lake Ontario, largest in Europe
 laduke;30;Nader's running mate Winona LaDuke
 ladygodiva;50
@@ -33123,6 +33127,7 @@ leersat;40
 leet;40;Leetspeak [rare]
 leetch;30;Who???
 leetspeak;50
+leeves;40;Jane Leeves of "Frasier"
 leftacomment;60
 leftfor;40
 leftfordead;60
@@ -33814,6 +33819,7 @@ lilalee;40;Silent film actress
 liletee;20;1992 Kentucky Derby winner
 lilkinz;50
 lille;40;French city
+lillie;30;1800s socialite Lillie Langtry
 lilmissthang;60
 lilmissthing;60
 lilmo;40;Singer Lil' Mo, unclear notability
@@ -35271,6 +35277,8 @@ madcap;60
 madcaps;40
 madd;40
 maddashes;50
+maddog;60
+maddogs;60
 madea;40
 madeabeelinefor;60
 madeabundle;60
@@ -41474,6 +41482,8 @@ oldabe;40;Bald eagle Civil War mascot named after Lincoln
 oldagepensioner;50
 oldasdirt;60
 oldasthepyramids;60
+oldbag;10
+oldbags;10
 oldbailey;50
 oldcar;30
 oldcars;20
@@ -41494,6 +41504,8 @@ oldfogeys;50
 oldfogies;50
 oldfogy;30
 oldform;20
+oldgag;30;Green paint
+oldgags;30
 oldgeezer;50
 oldgeezers;50
 oldhabit;50
