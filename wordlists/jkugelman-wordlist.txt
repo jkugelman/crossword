@@ -5360,6 +5360,8 @@ bassales;50
 bassanio;50;Major "The Merchant of Venice" character
 bassbanjo;50
 bassbanjos;50
+bassbow;50
+bassbows;50
 bassdrop;60
 bassdrops;60
 bassey;40;"Goldfinger" singer Shirley Bassey
@@ -15411,6 +15413,8 @@ distichs;30
 distraint;30;Property seizure
 distrait;30;Distracted
 districtmanager;50
+distro;40
+distros;40
 disunion;30
 disunite;30
 disunited;30
@@ -16532,6 +16536,7 @@ drinktoexcess;10
 drippot;50
 drippots;50
 drippricing;60
+dristan;40;Decongestant brand
 driveat;40
 drivebelt;50
 drivebelts;50
@@ -21248,6 +21253,8 @@ foiarequest;60
 foiarequests;60
 foie;30
 foistedon;40
+foister;40;Archaic: pickpocket
+foisters;40
 foistingon;40
 foiston;40
 foistson;40
@@ -21868,6 +21875,7 @@ frisee;30;Curly endive
 frisette;30;Fringe of forehead curls, women's hairstyle
 frisia;30
 frisian;30;West Germanic languages/people
+frisson;60;Aesthetic chills
 fritopie;40
 fritopies;40
 fro;50
@@ -21901,6 +21909,8 @@ frontpagenews;50
 frontpocket;50
 frontrunner;50
 frontrunners;50
+frootie;40;Fruit-flavored Tootsie Roll
+frooties;40
 frootloop;50
 frootloops;50
 frose;40
@@ -28077,8 +28087,8 @@ idowhatican;60
 idriselba;60
 ids;50
 idsayso;60
-idtag;40
-idtags;40
+idtag;50
+idtags;50
 idub;20
 idunit;20;An autobiographical or confessional account usually of a sensational character
 idunits;20
@@ -31243,6 +31253,7 @@ karaokescreens;60
 karaokesinger;60
 karaokesingers;60
 karasea;40
+karaswisher;50;Tech journalist Kara Swisher
 karate;50
 karatedojo;50
 karatedojos;50
@@ -32600,6 +32611,7 @@ lassoer;30
 lassoers;30
 lassoo;0
 lastactionhero;60
+lastbus;30;Green paint
 lastcall;50
 lastcalls;50
 lastcentury;60
@@ -36797,6 +36809,8 @@ meiji;30;Japanese emperor
 meioses;30
 meiotic;30
 meir;40;Israeli PM Golda Meir
+meister;40;-meister suffix, expert
+meitner;40;Lise Meitner, discoverer of nuclear fission
 mel;50
 melancholily;30;Weird adverb
 melanic;30;???
@@ -37224,6 +37238,8 @@ midfade;50;Haircut
 midfades;50
 midfields;30
 midgame;50;Period between the opening and endgame in strategy games like chess
+midgee;40;Bite-size Tootsie Roll
+midgees;40
 midget;10
 midgets;10
 midi;40
@@ -46173,6 +46189,8 @@ postbags;50
 postbond;50
 postcreditscene;50
 postcreditscenes;50
+postdoc;60
+postdocs;60
 postedbond;50
 postedon;40
 postergirl;50
@@ -47935,6 +47953,7 @@ raisingthecurtain;50
 raisingtheroof;50
 raisingthesubject;50
 raisingthesubjectof;50
+raisman;40;Gymnast Aly Raisman
 raison;40
 raita;30;Indian dip
 raitts;30;Plural family name
@@ -51023,6 +51042,7 @@ rosterspot;50
 rosterspots;50
 rostov;30;Russian city Roston-on-Don
 rostra;40;Podiums
+rostral;40
 roswellnm;30
 rosyboa;30;Desert snake
 rot;50
@@ -59175,6 +59195,7 @@ swipesat;40
 swipesleft;60
 swipesright;60
 swipingat;40
+swisher;40;Tech journalist Kara Swisher
 swissbank;50
 swissbanks;50
 swisscheese;60
@@ -60476,8 +60497,8 @@ tenmile;30
 tenmiles;20
 tenmillion;40
 tenn;40;Tennessee
-tenner;40
-tenners;40
+tenner;50
+tenners;50
 tennies;30;Tennis shoes???
 tennish;20
 tennispro;50
@@ -62939,6 +62960,8 @@ tootonesownhorn;50
 tootoo;60
 tootrue;60
 tootshisownhorn;50
+tootsiefrootie;50;Fruit-flavored Tootsie Roll
+tootsiefrooties;50
 tootsiepop;50
 tootsiepops;50
 tootsieroll;50
@@ -66263,9 +66286,14 @@ waitabit;50
 waitadarnminute;60
 waite;30;Various people, not super notable
 waitedabit;50
+waitedfor;40
+waitedon;40
 waiters;50
+waitfor;40
 waithe;40;Actress/producer Lena Waithe
 waitingabit;50
+waitingfor;40
+waitingon;40
 waitjustaminute;60
 waitjustamoment;60
 waitjustasec;60
@@ -66274,11 +66302,14 @@ waitlist;50
 waitlisted;50
 waitlisting;50
 waitlists;50
+waiton;40
 waitreally;60
 waitresses;50
 waitron;60
 waitrons;60
 waitsabit;50
+waitsfor;40
+waitson;40
 waityourturn;60
 waiverwire;50
 wakaflockaflame;60
@@ -66869,6 +66900,8 @@ wehavefoodathome;60
 wei;20
 weibo;40;Chinese social media site
 weighedinon;40
+weigher;40
+weighers;40
 weighinginon;40
 weighinon;40
 weighsinon;40
