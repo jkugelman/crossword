@@ -140,7 +140,7 @@ def phrases(entry, words, ignore_short=True):
             continue
         if ignore_short and len(prefix) <= 2 and words[prefix] < 50:
             continue
-        for phrase in phrases(suffix, words):
+        for phrase in phrases(suffix, words, ignore_short):
             yield [prefix] + phrase
 
     if entry not in words:
