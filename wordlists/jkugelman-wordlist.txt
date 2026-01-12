@@ -8979,6 +8979,8 @@ candyeggs;50
 candyfloss;60
 candygram;60
 candygrams;60
+candyheart;60
+candyhearts;60
 candymachine;50
 candymachines;50
 candyshop;50
@@ -24375,6 +24377,8 @@ grandee;30
 grandees;30
 grandfamily;60;Family where children are raised by their grandparents
 grandfatherclock;50
+grandfinal;60
+grandfinals;60
 grandin;20;Animal rights activist Temple ___
 grandjete;50;Ballet movement
 grandjury;50
@@ -49318,7 +49322,7 @@ relic;50
 relict;30
 relicts;30
 reliedon;40
-relientk;50
+relientk;40;2000s christian rock band Relient K
 relieson;40
 relievo;20
 religion;50
