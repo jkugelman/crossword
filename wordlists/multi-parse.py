@@ -23,10 +23,12 @@ def multi_parse(entry, words, min_length, ignore_short=True):
     """
     Return a list of >= 2 parsings of `entry` such that no two returned parsings
     share any split points (character indices where the parsing splits `entry`).
+
+    If a candidate parsing conflicts with already-chosen ones (overlapping split
+    points), we keep the shorter parsing (fewer words / fewer split points).
     """
     parses = []  # list of (parsing, split_point_set)
 
-    # Collect all valid parsings
     for parsing in phrases(entry, words, ignore_short):
         if len(parsing) < min_length:
             continue
@@ -39,15 +41,33 @@ def multi_parse(entry, words, min_length, ignore_short=True):
 
         parses.append((parsing, split_points))
 
-    # Try to build a mutually disjoint set
-    result = []
-    used_splits = set()
+    # Prefer shorter parsings when conflicts occur.
+    # Tie-breakers are just to make behavior deterministic.
+    parses.sort(key=lambda ps: (len(ps[0]), len(ps[1]), ps[0]))
+
+    chosen = []  # list of (parsing, split_point_set)
 
     for parsing, splits in parses:
-        if splits.isdisjoint(used_splits):
-            result.append(parsing)
-            used_splits |= splits
+        # Find which chosen parses this one conflicts with
+        conflicting_idxs = [
+            i for i, (_, csplits) in enumerate(chosen)
+            if not splits.isdisjoint(csplits)
+        ]
 
+        if not conflicting_idxs:
+            chosen.append((parsing, splits))
+            continue
+
+        # Keep the shorter one: replace *all* conflicts only if this parsing
+        # is strictly shorter than each conflicting chosen parsing.
+        if all(len(parsing) < len(chosen[i][0]) for i in conflicting_idxs):
+            # Remove conflicts (delete from end to start so indices stay valid)
+            for i in sorted(conflicting_idxs, reverse=True):
+                del chosen[i]
+            chosen.append((parsing, splits))
+        # else: skip this parsing
+
+    result = [p for p, _ in chosen]
     return result if len(result) >= 2 else []
 
 if __name__ == '__main__':
