@@ -3624,6 +3624,7 @@ asagift;40
 asaguide;20
 asahara;20;Japanese cult leader/terrorist
 asahi;40;Japanese beer
+asallgetout;60
 asami;50
 asamule;20
 asana;40;Yoga position
@@ -8889,6 +8890,8 @@ cameraroll;60
 camerarolls;60
 cameratripod;50
 cameratripods;50
+camerightoutandsaidit;60
+camerightoutwithit;60
 cameroun;20
 cametobed;40
 cametoblows;50
@@ -11828,6 +11831,8 @@ comeoutandplay;60
 comeouteven;50
 comeoutofonesshell;60
 comerica;40;Bank
+comerightoutandsayit;60
+comerightoutwithit;60
 comesafter;50
 comesas;40
 comesat;40
@@ -11848,6 +11853,8 @@ comesintoplay;50
 comesonto;40
 comesoutahead;50
 comesouteven;50
+comesrightoutandsaysit;60
+comesrightoutwithit;60
 comestobed;40
 comestoblows;50
 comestomind;50
@@ -11908,6 +11915,8 @@ comingofagestory;60
 comingonto;40
 comingoutahead;50
 comingouteven;50
+comingrightoutandsayingit;60
+comingrightoutwithit;60
 comingtobed;50
 comingtoblows;50
 comingtomind;50
@@ -22976,6 +22985,12 @@ getonboard;50
 getonesgoat;60
 getoneshouseinorder;60
 getonto;40
+getoutalive;60
+getoutofajam;60
+getoutofmyhead;60
+getoutofsight;60
+getoutofthekitchen;60
+getoutthevote;60
 getreal;60
 getrest;30
 getrevenge;50
@@ -23046,6 +23061,10 @@ getsonesmittson;60
 getsonit;50
 getsonto;40
 getsore;40
+getsoutalive;60
+getsoutofajam;60
+getsoutofsight;60
+getsoutthevote;60
 getspooked;50
 getsquiet;50
 getsready;50
@@ -23135,6 +23154,10 @@ gettingonboard;50
 gettingonesgoat;60
 gettingoneshouseinorder;60
 gettingonto;40
+gettingoutalive;60
+gettingoutofajam;60
+gettingoutofsight;60
+gettingoutthevote;60
 gettingquiet;50
 gettingready;50
 gettingreal;60
@@ -24279,6 +24302,10 @@ gotoofar;60
 gotos;50
 gotoseed;60
 gotosleep;50
+gotoutalive;60
+gotoutofajam;60
+gotoutofsight;60
+gotoutthevote;60
 gotquiet;50
 gotready;50
 gotreal;60
@@ -28193,6 +28220,8 @@ ifstatements;60
 iftar;20;Ramadan meal
 ifthis;0
 ify;20
+ifyoucantstandtheheat;60
+ifyoucantstandtheheatgetoutofthekitchen;60
 ifyouknowyouknow;60
 ifyouplease;60
 ifyousnoozeyoulose;60
@@ -30134,11 +30163,13 @@ itoo;40;Langston Hughes poem
 itpaidforitself;60
 itpaysforitself;60
 itpro;30
-itprofessional;30
-itprofessionals;30
+itprofessional;50
+itprofessionals;50
 itpros;30
 itrage;20
-itried;50
+itried;60
+itriedtotellyou;60
+itriedtowarnyou;60
 itrustyou;50
 its;50
 itsabet;40
@@ -30293,7 +30324,7 @@ itstoobad;60
 itstooearlytotell;60
 itstoolate;60
 itstoolatenow;60
-itsupport;30
+itsupport;50
 itsus;50
 itsusagainsttheworld;60
 itswhatever;60
@@ -68929,6 +68960,7 @@ yougotmoxiekid;60
 yougotoffeasy;60
 yougottabejoking;60
 yougottabekiddingme;60
+yougottagetoutmore;60
 yougotthatright;60
 yougowithoutme;60
 youguysgiveuporareyouthirstyformore;60
@@ -69102,9 +69134,11 @@ youvegotnochoice;60
 youvegotsomenerve;60
 youvegottabejoking;60
 youvegottabekiddingme;60
+youvegottagetoutmore;60
 youvegotthewrongidea;60
 youvegottobejoking;60
 youvegottobekiddingme;60
+youvegottogetoutmore;60
 youvehadyourfun;60
 youvelostme;60
 youveonlyyourselftoblame;60
