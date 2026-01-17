@@ -20248,6 +20248,7 @@ felloes;20;Parts of a wheel rim
 fellon;40
 felloutoflove;50
 fellowcitizens;60
+fellowshipofthering;60
 fellshy;50
 fellshyof;40
 fellto;40
@@ -30314,6 +30315,7 @@ itssoeasyachildcoulddoit;60
 itssoeasyevenachildcandoit;60
 itssoeasyevenachildcoulddoit;60
 itssotrue;60
+itsstarting;50
 itsstretchingit;60
 itstakingforever;60
 itsthebestofbothworlds;60
@@ -44720,6 +44722,7 @@ phantomlimbs;60
 phantommenace;60
 phantomsettlement;60;Copyright trap
 phantomsettlements;60
+phantomvibrationsyndrome;60;Ringxiety
 pharisaical;40
 pharlap;30;Phar Lap, Great Depression-era champion racehorse
 pharos;40;Pharos of Alexandria, lighthouse wonder of the ancient world
@@ -50473,6 +50476,8 @@ rinaldo;30;Handel opera
 rinderpest;40;Cattle plague, second disease to be declared officially eradicated
 ring;50
 ringabell;60
+ringannouncement;50;Announcement from a Ring doorbell
+ringannouncements;50
 ringannouncer;50
 ringannouncers;50
 ringaround;30;Call around
@@ -50518,6 +50523,7 @@ ringtoss;60
 ringtrue;60
 ringwraith;60
 ringwraiths;60
+ringxiety;60;Phantom vibration syndrome
 ringy;30
 rinkrat;60
 rinkrats;60
@@ -52360,6 +52366,8 @@ sawafter;30
 sawaghost;60
 sawas;30
 sawdollarsigns;60
+saweyetoeye;60
+saweyetoeyewith;50
 sawfitto;40
 sawflies;30
 sawfly;30
@@ -53076,6 +53084,8 @@ seedmoney;50
 seedollarsigns;60
 seedsman;30;Seed merchants
 seedsmen;30;Seed merchants
+seeeyetoeye;60
+seeeyetoeyewith;50
 seefitto;40
 seegar;20
 seegers;20
@@ -53084,6 +53094,8 @@ seei;20
 seein;40
 seeingafter;30
 seeingdollarsigns;60
+seeingeyetoeye;60
+seeingeyetoeyewith;50
 seeingfitto;40
 seeingin;40
 seeinginto;40
@@ -53141,6 +53153,8 @@ seesafter;30
 seesas;40
 seesdollarsigns;60
 seesense;60
+seeseyetoeye;60
+seeseyetoeyewith;50
 seesfitto;40
 seesin;40
 seesinto;30
@@ -61306,6 +61320,7 @@ thefbi;20
 thefbibuilding;30
 thefda;20
 thefed;50
+thefellowshipofthering;60
 thefineprint;50
 thefins;20;???
 thefirstletters;0
