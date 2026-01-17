@@ -1655,7 +1655,15 @@ alienism;30;Outdated term for psychiatry
 alienlife;60
 alienor;30;Grantor, dated term
 alienors;30
+alienqueen;60
+alienrace;60
+alienraces;60
+alientechnologies;60
+alientechnology;60
 aliento;30
+alienvspredator;60
+alienworld;60
+alienworlds;60
 alig;40
 alightintheattic;60
 alignmentchart;60
@@ -9759,6 +9767,10 @@ causingariot;50
 cautery;30;Instrument used for cauterizing
 cav;40;Cleveland hoopster
 cava;40
+cavalryhorse;50
+cavalryhorses;50
+cavalrysword;50
+cavalryswords;50
 caverage;40
 caverages;40
 caviar;50
@@ -32371,6 +32383,7 @@ lamaseries;40
 lamasery;40;Monastery of lamas
 lambdabaryon;50
 lambdabaryons;50
+lambofgod;60
 lambstew;50
 lamebrain;60
 lamebrained;60
@@ -39840,9 +39853,12 @@ niggardly;10
 niggards;10
 nigh;50
 nightandday;60
+nightcrawler;60
+nightcrawlers;60
 nightfever;60;Bee Gees song
 nightgame;50
 nightgames;50
+nightlife;60
 nightmare;50
 nightmarefuel;60
 nightmarish;50
@@ -41924,6 +41940,8 @@ onemonth;40
 onename;40
 onenevercantell;60
 onenight;30
+onenightstand;60
+onenightstands;60
 onenil;30
 oneninth;30
 onenotrump;40
