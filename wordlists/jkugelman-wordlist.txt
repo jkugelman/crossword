@@ -17729,6 +17729,8 @@ eighteens;30
 eightieth;50
 eightiron;50
 eightirons;50
+eightletterword;50
+eightletterwords;50
 eightpm;50
 eightsome;20
 eik;20;Eat in kitchen, in ads
@@ -17856,6 +17858,8 @@ elevatedhorror;60
 eleve;20;Student: Fr.
 elevenam;50
 elevenfiftynine;0
+elevenletterword;50
+elevenletterwords;50
 elevenplus;40;Exam in the UK
 elevenpm;50
 elevenses;40;???
@@ -20830,6 +20834,8 @@ fiveiron;50
 fiveirons;50
 fivek;20
 fiveks;20
+fiveletterword;50
+fiveletterwords;50
 fiveoclockshadow;60
 fivepillarsofislam;60
 fivepm;50
@@ -21564,6 +21570,7 @@ forsalead;50
 forsaleads;50
 forsalesign;50
 forsalesigns;50
+forthebirds;60
 forthefirsttime;50
 fortieth;40
 fortinbras;40;Minor "Hamlet" character with the final lines
@@ -21631,6 +21638,8 @@ fourhundred;40
 fouriron;50
 fourirons;50
 fourlawsofthermodynamics;60
+fourletterword;50
+fourletterwords;50
 fouronthefloor;60
 fourpm;50
 fourthandinches;60
@@ -25314,6 +25323,10 @@ hallooed;40
 hallooing;40
 halloos;40
 hallowedground;60
+halloween;60
+halloweennight;60
+halloweenspecial;60
+halloweenspecials;60
 hallwaytesting;60
 halon;50;Fire suppressant
 halons;20
@@ -25479,6 +25492,7 @@ hankypanky;60
 hanlon;50;Hanlon's razor
 hanlonsrazor;60
 hanna;40;Hanna-Barbera
+hanniballecter;60
 hansard;30;Transcripts of parliamentary debates in Britain
 hansarp;40;Artist AKA Jean Arp
 hanseaticleague;30;???
@@ -25502,6 +25516,7 @@ happensupon;50
 happenupon;50
 happilyeverafter;60
 happybabypose;60;Yoga asana that involves lying on the back and grasping your feet, so-called for its resemblance to a baby finding their feet
+happyhalloween;60
 happyjuice;60
 happylittletrees;60
 haps;30
@@ -39942,6 +39957,8 @@ nineeleven;10
 nineinchnails;60
 nineiron;50
 nineirons;50
+nineletterword;50
+nineletterwords;50
 ninemile;30;Nine Mile Canyon in Utah
 nineof;20
 ninepence;30
@@ -41736,9 +41753,9 @@ ome;20
 omeara;40;Golfer Mark O'Meara
 omegas;40
 omened;30;Only useful as a partial like ill-omened??? Not used post-Shortz
-omenii;20
-omeniii;20
-omeniv;20
+omenii;30
+omeniii;30
+omeniv;30
 omerta;40;Mafia code of silence
 omg;40
 omh;20
@@ -53722,7 +53739,9 @@ sevencent;20
 sevencs;0
 seveniron;50
 sevenirons;50
-sevenletterword;20
+sevenletterword;50
+sevenletterwords;50
+sevennationarmy;60
 sevenofdiamonds;20
 sevenout;60
 sevenpm;50
@@ -54970,6 +54989,8 @@ sixesandsevens;60
 sixgun;30
 sixiron;50
 sixirons;50
+sixletterword;50
+sixletterwords;50
 sixofone;50;...Half a dozen of another
 sixpack;60
 sixpackabs;60
@@ -60633,6 +60654,8 @@ tenhours;20
 teninone;30
 tenkrun;30;???
 tenlegs;20;???
+tenletterword;50
+tenletterwords;50
 tenley;30;1950s figure skater Tenley Albright
 tenmile;30
 tenmiles;20
@@ -62153,7 +62176,8 @@ threedmovies;30
 threeiron;50
 threeirons;50
 threelegged;50
-threeletterword;20
+threeletterword;50
+threeletterwords;50
 threeon;40
 threeonamatch;30
 threep;30;Obstinate decision: Br.
@@ -64509,6 +64533,8 @@ tweetsat;40
 tweetstorm;50
 tweetstorms;50
 twelveam;50
+twelveletterword;50
+twelveletterwords;50
 twelvemo;40;Size of a piece of paper cut 12 from a sheet
 twelvemonkeys;60
 twelvemos;40
