@@ -4980,11 +4980,23 @@ balljoints;50
 ballondor;60
 balloonanimal;60
 balloonanimals;60
-balloonart;50
-balloonartist;50
-balloonartists;50
+balloonart;60
+balloonartist;60
+balloonartists;60
+balloondog;60
+balloondogs;60
+balloonflower;60
+balloonflowers;60
+balloongiraffe;60
+balloongiraffes;60
+balloonhat;60
+balloonhats;60
 balloonist;60
 balloonists;60
+balloonpayment;60
+balloonpayments;60
+balloonpoodle;60
+balloonpoodles;60
 ballou;50
 ballparkfrank;60
 ballparkfranks;60
@@ -15735,6 +15747,8 @@ doesup;50
 doeth;40
 dofor;40
 dog;50
+dogballoon;60
+dogballoons;60
 dogbed;50
 dogbeds;50
 dogbiscuit;50
@@ -21140,6 +21154,8 @@ floursackdresses;60
 flowage;40
 flowages;40
 flower;50
+flowerballoon;60
+flowerballoons;60
 floweret;30
 flowergarden;50
 flowergardens;50
@@ -46057,6 +46073,8 @@ ponzischemers;60
 ponzischemes;60
 ponzu;40;Japanese sauce
 poo;20
+poodleballoon;60
+poodleballoons;60
 poodleskirt;60
 poodleskirts;60
 poohbear;60
@@ -59417,6 +59435,8 @@ swoopsup;40
 swoopup;40
 swordandshield;60
 swordandsorcery;60
+swordballoon;60
+swordballoons;60
 sworddance;60
 swordfish;50
 swordfishes;50
