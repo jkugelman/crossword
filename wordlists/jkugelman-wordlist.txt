@@ -26691,10 +26691,14 @@ hingeingon;40
 hingeon;40
 hingeson;40
 hinny;30;Horse/mule hybrid
+hintat;40
+hintedat;40
 hinter;30
 hinterland;50
 hinterlands;60
 hinters;30
+hintingat;40
+hintsat;40
 hip;50
 hipaa;40
 hipbath;30
@@ -29853,7 +29857,7 @@ irk;50
 irker;30
 irkers;30
 irl;40
-irobot;50
+irobot;60
 iroc;40;Chevy Camaro IROC-Z
 irocs;40
 irocz;40
@@ -45863,8 +45867,11 @@ pocoapoco;40
 pocomania;50;Jamaican folk religion
 pocus;40;Hocus pocus
 pod;50
-podcast;50
-podcasts;50
+podcast;60
+podcaster;60
+podcasters;60
+podcasting;60
+podcasts;60
 podesta;40
 podia;40
 podpeople;60
@@ -55553,6 +55560,7 @@ sloughy;40
 slowandsteady;60
 slowandsteadywinstherace;60
 slowasmolasses;60
+slowat;40
 slowboattochina;60
 slowburn;60
 slowburns;60
@@ -55772,6 +55780,14 @@ smolts;20;Young salmon
 smombie;20;Pedestrian with a cellphone
 smombies;20
 smooretats;0
+smoosh;50
+smooshed;50
+smooshedtogether;50
+smooshes;50
+smooshestogether;50
+smooshing;50
+smooshingtogether;50
+smooshtogether;50
 smoothen;40
 smoothened;40
 smoothens;40
@@ -63187,6 +63203,8 @@ toonies;40
 tooonthenose;60;Overly lacking in subtlety
 tooreal;50
 toosoon;60
+tootat;30
+tootedat;30
 tootedonesownhorn;50
 tootedyourownhorn;40
 tooter;30
@@ -63195,6 +63213,7 @@ toothfish;50;AKA Chilean sea bass
 toothforatooth;60
 toothisownhorn;50
 tootie;30;"The Facts of Life" character
+tootingat;30
 tootingonesownhorn;50
 tootingyourownhorn;60
 tootler;30
@@ -63203,6 +63222,7 @@ tootles;50
 tootonesownhorn;50
 tootoo;60
 tootrue;60
+tootsat;30
 tootshisownhorn;50
 tootsiefrootie;50;Fruit-flavored Tootsie Roll
 tootsiefrooties;50
@@ -69318,6 +69338,7 @@ yumaaz;30
 yuman;30
 yumans;30;Quechua people
 yuna;40;One-named R&B singer
+yunfat;40;Martial arts actor Chow Yun Fat
 yup;50
 yuppie;50
 yuppieflu;10;Derogatory term for chronic fatigue syndrome
