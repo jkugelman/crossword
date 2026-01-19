@@ -22971,11 +22971,11 @@ getamatch;50
 getana;50
 getanedge;50
 getanf;50
-getapass;50
+getapass;60
 getarawdeal;60
 getareadon;60
 getaroundto;40
-getarun;30;Eat a sandwich
+getarun;30;Green paint
 getasay;50
 getat;40
 getatip;50
@@ -23065,7 +23065,7 @@ getsamatch;50
 getsana;50
 getsanedge;50
 getsanf;50
-getsapass;50
+getsapass;60
 getsarawdeal;60
 getsareadon;60
 getsaroundto;40
@@ -23164,7 +23164,7 @@ gettingalockon;50
 gettingamatch;50
 gettingana;50
 gettinganf;50
-gettingapass;50
+gettingapass;60
 gettingarawdeal;60
 gettingareadon;60
 gettingaroundto;40
@@ -24287,7 +24287,7 @@ gotaminute;60
 gotana;50
 gotanedge;50
 gotanf;50
-gotapass;50
+gotapass;60
 gotarawdeal;60
 gotareadon;60
 gotaroundto;40
