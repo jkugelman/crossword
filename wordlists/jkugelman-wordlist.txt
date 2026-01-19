@@ -23802,6 +23802,7 @@ goesonatear;60
 goesonleave;50
 goesonrecord;60
 goesonrecordas;40
+goesonsafari;60
 goesonsale;60
 goesontour;60
 goesout;50
@@ -23911,6 +23912,7 @@ goingonatear;60
 goingonleave;50
 goingonrecord;60
 goingonrecordas;40
+goingonsafari;60
 goingonsale;60
 goingontour;60
 goingoutwith;50
@@ -24202,7 +24204,7 @@ gooneys;20
 goonleave;50
 goonrecord;60
 goonrecordas;40
-goonsafari;50
+goonsafari;60
 goonsale;60
 goonsquad;60
 goonsquads;60
@@ -33492,6 +33494,7 @@ leoni;40;Téa Leoni
 leonia;30;Unnotable NJ town
 leonov;40;Cosmonaut Alexei Leonov, first person to conduct a spacewalk
 leons;20
+leonspinks;60;Only man to win a belt from Muhammad Ali
 leontyne;40;Soprano Leontyne Price at the Met
 leopardcub;50
 leopardcubs;50
@@ -47866,6 +47869,8 @@ qum;20
 quo;50
 quod;40
 quoi;40
+quonsethut;60
+quonsethuts;60
 quoter;40
 quoters;40
 qvc;50
@@ -67374,6 +67379,7 @@ wentonatear;60
 wentonleave;50
 wentonrecord;60
 wentonrecordas;40
+wentonsafari;60
 wentonsale;60
 wentontour;60
 wentout;50
