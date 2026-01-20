@@ -9971,7 +9971,18 @@ cellocase;50
 cellocases;50
 cellosolo;50
 cellosolos;50
-cellreception;50
+cellphone;60
+cellphonelot;60
+cellphonelots;60
+cellphonenumber;60
+cellphonenumbers;60
+cellphones;60
+cellphonetower;60
+cellphonetowers;60
+cellreception;60
+cellservice;60
+celltower;60
+celltowers;60
 cellule;30
 cellulosic;40
 cels;50
@@ -57552,7 +57563,8 @@ standingovation;60
 standingover;40
 standingsplits;60;Gymnastic split done while standing on one leg
 standingto;40
-standingtrial;50
+standingtrial;60
+standingtrialfor;50
 standingupto;40
 standins;50
 standish;30;Pilgrim Miles Standish
@@ -57566,10 +57578,12 @@ standsnextto;40
 standson;40
 standsover;40
 standsto;40
-standstrial;50
+standstrial;60
+standstrialfor;50
 standsupto;40
 standto;40
-standtrial;50
+standtrial;60
+standtrialfor;50
 standupguy;60
 standupguys;60
 standupto;40
@@ -58320,7 +58334,8 @@ stoodnextto;40
 stoodon;20
 stoodover;20
 stoodto;40
-stoodtrial;50
+stoodtrial;60
+stoodtrialfor;50
 stoodupto;40
 stool;50
 stoolie;50
