@@ -59503,9 +59503,15 @@ swimfins;50
 swimlaps;50
 swimmersear;60
 swimminglaps;50
+swimmingring;50;Inner tube
+swimmingrings;50
+swimring;60;Inner tube
+swimrings;60
 swimslaps;50
 swimsuit;50
 swimsuits;50
+swimtube;50;Inner tube
+swimtubes;50
 swimupbar;60
 swimupbars;60
 swingat;40
@@ -66964,6 +66970,8 @@ watercoaster;60
 watercoasters;60
 watercontent;50
 watercoolertalk;60
+waterdonut;60;Inner tube
+waterdonuts;60
 waterer;40
 waterers;40
 waterfiltration;50
