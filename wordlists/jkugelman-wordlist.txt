@@ -11121,6 +11121,7 @@ cleanforgot;60
 cleanhouse;60
 cleaninghouse;60
 cleanlily;30;Weird adverb
+cleanlinessisnexttogodliness;60
 cleanliving;50
 cleanroom;60
 cleanrooms;60
@@ -25318,6 +25319,7 @@ hairlesscat;60
 hairlesscats;60
 hairlessdog;60
 hairlessdogs;60
+hairofthedog;60
 hairplug;60
 hairplugs;60
 hairsalon;60
@@ -31087,6 +31089,8 @@ jointer;40;???
 jointers;40
 jointowner;50
 jointowners;50
+jointpain;50
+jointpains;50
 jointproject;50
 jointprojects;50
 jointreturn;50
