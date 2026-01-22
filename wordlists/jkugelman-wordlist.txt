@@ -40519,6 +40519,11 @@ nootka;20
 nop;20
 nopal;20;Cactus
 nopales;20;Cacti
+noparstock;50
+noparstocks;50
+noparvalue;50
+noparvaluestock;50
+noparvaluestocks;50
 nopedout;60
 nopeout;60
 noperope;60;Snake
@@ -43879,6 +43884,8 @@ parsi;30;Zoroastrian
 parsiism;40;Indian religion
 parsis;30;Zoroastrians
 parsleys;40;Plural?
+parstock;50
+parstocks;50
 parta;40
 partb;20;Medicare option
 partc;20;Medicare option
@@ -43946,6 +43953,9 @@ partyofficial;60
 partyofficials;60
 partyon;60
 parure;30;Set of matching jewelry
+parvalue;50
+parvaluestock;50
+parvaluestocks;50
 pas;40
 paseo;40
 paseos;30
