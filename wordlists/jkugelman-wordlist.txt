@@ -11716,6 +11716,8 @@ collabed;50
 collabing;50
 collabs;50
 collarstain;0
+collarstud;50
+collarstuds;50
 collectionbox;60
 collectionboxes;60
 collectivegasp;60
@@ -20168,8 +20170,8 @@ fecundating;30
 fecundation;30
 fed;50
 fedchair;50
-fedchairman;50
-fedchairmen;50
+fedchairman;60
+fedchairmen;60
 fedchairs;50
 fedchief;50
 fedchiefs;50
@@ -20556,6 +20558,8 @@ filmcritic;50
 filmcritics;50
 filmgoer;50
 filmgoers;50
+filmnomination;50
+filmnominations;50
 filmprop;50
 filmprops;50
 filmschool;60
@@ -37897,7 +37901,8 @@ mliii;20
 mliv;20
 mlix;20
 mlk;40
-mlkjr;50
+mlkjr;60
+mlkjrblvd;60
 mlle;40
 mlles;40
 mls;20
@@ -43267,6 +43272,8 @@ overseer;50
 overseers;50
 oversees;50
 oversight;50
+overstuffedchair;60
+overstuffedchairs;60
 overthe;0
 overtimeloss;50
 overtimelosses;50
@@ -47862,6 +47869,7 @@ queericon;60
 queericons;60
 queerprom;60
 queers;10
+queerstudies;60
 quentintarantino;60
 queso;40
 quesodip;50
@@ -57718,6 +57726,8 @@ starspangledbanner;60
 starstudded;60
 starstuddedcast;60
 starstuddedcasts;60
+starstudent;60
+starstudents;60
 starsystem;60
 starsystems;60
 startallover;50
@@ -65499,6 +65509,7 @@ upjohn;30;Defunct pharmaceutical company
 upn;20
 upness;30
 uponesgame;60
+uponmysoul;60
 uppedonesgame;60
 upperberth;50
 uppercasea;20
