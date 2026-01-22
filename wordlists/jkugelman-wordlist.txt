@@ -2434,6 +2434,7 @@ andantes;30
 andbows;0
 andco;40
 andcounting;60
+andformynexttrick;60
 andforthatreasonimout;60
 andgo;20
 andherestoyoumrsrobinson;60
@@ -21605,9 +21606,11 @@ forkout;50
 forksout;50
 formalagreement;50
 formalagreements;50
+formalattire;60
 formalin;30;Formeldahyde solution
 formaloffer;50
 formaloffers;50
+formalwear;60
 forman;40;"One Flew Over the Cuckoo's Nest" director Miloš Forman
 formerlife;50
 formerlives;50
@@ -21615,10 +21618,12 @@ formerpresident;50
 formers;30
 formfactor;60
 formfactors;60
+formfitting;60
 formic;40
 formicaria;50
 formicarium;50;Ant farm
 formicariums;50
+formynexttrick;60
 fornaught;50
 fornicate;50
 fornicated;50
@@ -66873,6 +66878,8 @@ wardance;50
 wardances;50
 warder;40
 warders;40
+wardrobemalfunction;60
+wardrobemalfunctions;60
 wardrum;60
 wardrums;60
 warehouseoutlet;50
@@ -67730,6 +67737,7 @@ whatsthisthen;60
 whatswhat;60
 whatswiththat;60
 whatsyourexcuse;60
+whatsyourmalfunction;60
 whatsyourproblem;60
 whatthe;60
 whatthehey;60
