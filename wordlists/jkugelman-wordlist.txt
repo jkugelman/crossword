@@ -166,6 +166,7 @@ abit;50
 abitmuch;50
 abitofacharacter;60
 abitsteep;50
+abjectdefeat;60
 abjuratory;30
 abjure;30;Renounce
 abjured;30
@@ -2682,6 +2683,7 @@ anorexics;10
 anorthic;30
 anos;40
 anosmia;20;Lose of sense of smell
+anothersaturdaynight;60
 anotherthing;60
 anouk;30;French actress Anouk Aimée of "La Dolce Vita" and "8 1/2"
 anoukaimee;50;French actress
@@ -5198,6 +5200,10 @@ bareessence;50
 bareessentials;50
 barefoot;50
 bareitall;60
+bareknucklefight;60
+bareknucklefighters;60
+bareknucklefighting;60
+bareknucklefights;60
 barelyaninconvenience;60
 barelygetby;50
 barelygetsby;50
@@ -5723,6 +5729,7 @@ beardedvulture;60
 beardedvultures;60
 beardoil;60
 beardoils;60
+beardstubble;60
 beardwax;60
 bearerbond;50
 bearerbonds;50
@@ -8685,6 +8692,9 @@ cagediver;60
 cagedivers;60
 cagedives;60
 cagediving;60
+cagefighter;60
+cagefighters;60
+cagefighting;60
 cagein;40
 cager;40
 cagers;40
@@ -10867,6 +10877,7 @@ christmastreefarm;60
 christmastreefarms;60
 christmastrees;60
 christophercross;50
+christucker;50
 chromed;40
 chromedome;60
 chromedomes;50
@@ -11574,6 +11585,8 @@ codebreaker;60
 codebreakers;60
 codecracker;60
 codecrackers;60
+codeflag;50;???
+codeflags;50;???
 codename;60
 codenames;60
 codeofconduct;60
@@ -11638,6 +11651,8 @@ coherers;40
 cohiba;40;Cigar brand
 cohn;40;Various: SportsCenter anchor Linda Cohn, Joseph McCarthy's chief counsel Roy Cohn, singer Marc Cohn
 coho;40;Salmon
+cohortstudies;60
+cohortstudy;60
 cohos;40;Salmon
 coibot;20;???
 coiner;50
@@ -11826,6 +11841,7 @@ coltrevolvers;50
 columbiacollege;50
 columbiasc;40
 columbusoh;40
+columnoffigures;60
 com;40
 comae;20
 comaker;30;Rex hates it, rightly
@@ -16023,6 +16039,7 @@ dominie;20;Clergyman
 dominies;20;Clergyman
 dominoeffect;60
 dominoeffects;50;Weird plural
+dominoprinciple;60
 dominospizza;50
 domo;40
 doms;40
@@ -20822,6 +20839,9 @@ firstdate;50
 firstdates;50
 firstdayofschool;60
 firstfreeascent;60
+firstguess;50
+firsthusband;50
+firsthusbands;50
 firstinfirstout;60
 firstkiss;60
 firstkisses;60
@@ -20832,12 +20852,19 @@ firstlawofthermodynamics;60
 firstlittlepig;60
 firstoffense;50
 firstorderlogic;50
+firstout;40
+firstoutofthegate;60
 firstpunicwar;50
+firstquarter;50
+firstquarters;50
 firstrate;50
+firstrunmovie;60
+firstrunmovies;60
 firstsnow;50
 firstsnows;50
 firststate;50
 firsttimecaller;60
+firsttuesday;50;???
 firstviolin;50
 firstviolinist;50
 firstviolinists;50
@@ -21598,6 +21625,8 @@ forestbath;50
 forestbathing;50
 forestbaths;50
 forestfire;60
+forestfirefighter;60
+forestfirefighters;60
 forestfires;60
 foretop;40;Ship platform
 foretops;40
@@ -25617,6 +25646,7 @@ hankypanky;60
 hanlon;50;Hanlon's razor
 hanlonsrazor;60
 hanna;40;Hanna-Barbera
+hannabarberastudios;60
 hanniballecter;60
 hansard;30;Transcripts of parliamentary debates in Britain
 hansarp;40;Artist AKA Jean Arp
@@ -34326,6 +34356,8 @@ literarycircle;60
 literarycircles;60
 literarypirate;60;Plagiarist
 literarypirates;60
+literarystudies;60
+literarystudy;60
 literates;40;Weird plural
 literati;60
 literatim;40
@@ -38272,6 +38304,13 @@ mononymic;60
 mononymous;60
 mononyms;60
 monopoly;60
+monopolyhotel;60
+monopolyhotels;60
+monopolyplayer;60
+monopolyplayers;60
+monopolyproperties;60
+monopolyproperty;60
+monopolys;60
 monorail;60
 monorails;60
 monotones;40
@@ -38519,6 +38558,8 @@ motiles;20
 motional;30
 motionedto;40
 motioningto;40
+motionpicturestudio;60
+motionpicturestudios;60
 motionsto;40
 motionto;40
 motiontostrike;60
@@ -46717,6 +46758,8 @@ powerpuff;60
 powerpuffgirls;60
 powersofattorney;50
 powersthatbe;60
+powerstructure;60
+powerstructures;60
 powersurge;50
 powersurges;50
 powertool;50
@@ -46851,6 +46894,8 @@ prelacies;30
 prelacy;30
 prelate;30;High-ranking Christian
 prelates;30
+preliminarystudies;60
+preliminarystudy;60
 prelittree;60
 prelittrees;60
 prell;30;Green shampoo brand
@@ -47195,6 +47240,7 @@ probonowork;50
 probowl;50
 probowler;50
 probowlers;50
+probowlerstour;60
 probowls;50
 proboxing;50
 procaine;30
@@ -48979,6 +49025,8 @@ rearadmiral;50
 rearadmirals;50
 reararea;30
 rearbumper;50
+reardefogger;50
+reardefoggers;50
 rearer;30
 rearers;30
 rearexit;50
@@ -52199,6 +52247,7 @@ sallet;20;Helmet
 sallie;40;Sallie Mae
 sallys;30
 salmis;30
+salmonoil;50
 salmonroll;60
 salmonrolls;60
 salmons;40
@@ -54140,7 +54189,9 @@ sha;30;Sha'Carri Richardson
 shabti;20;Egyptian figurine
 shabtis;20;Egyptian figurines
 shabu;40
+shadeofgreen;50
 shadesof;20
+shadesofgreen;50
 shadowban;60
 shadowbanned;60
 shadowbanning;60
@@ -54443,6 +54494,8 @@ shirrings;30
 shirrs;30
 shirsey;30;Shirt jersey
 shirseys;30;Shirt jersey
+shirtstud;50
+shirtstuds;50
 shishabar;30
 shishabars;30
 shiso;30;Sushi garnish
@@ -56498,6 +56551,8 @@ solemner;40
 solemnest;40
 solemnoath;50
 solemnoaths;50
+solemnoccasion;60
+solemnoccasions;60
 solenoidal;40
 solent;20
 soleoutlet;50
@@ -57026,6 +57081,8 @@ spedby;40
 spedto;40
 speechbubble;60
 speechbubbles;60
+speechdefect;50
+speechdefects;50
 speechtotext;60
 speedbag;50
 speedbags;50
@@ -58487,6 +58544,7 @@ stoppling;30
 stopsat;20
 stopsit;0
 stopthat;60
+stopthefight;60
 stopyapping;60
 stopyouryapping;60
 storagemedia;50
@@ -61107,6 +61165,7 @@ terrorist;10
 terroristattack;10
 terroristattacks;10
 terrorists;10
+terrorstruck;60
 terrygross;50
 terrys;30;Plural name
 tertial;30;Feather adjective
@@ -61396,6 +61455,7 @@ theaceofhearts;40
 theaceofspades;40
 theaclu;20
 theact;40
+theactorsstudio;60
 theadbiz;30
 theaeneid;20
 theafilist;20
@@ -61602,6 +61662,7 @@ thedisrespect;60
 thedj;20
 thedocks;20
 thedogstar;40
+thedominoprinciple;60
 thedon;20
 thedoors;60
 thedot;20
@@ -61905,6 +61966,7 @@ thenudemaja;60;Goya painting
 theoatmeal;50
 theodicy;30
 theodora;40;???
+theodoresturgeon;50
 theojays;50;R&B group
 theok;20;???
 theoldheaveho;60
@@ -62380,6 +62442,7 @@ thirdwheeling;60;The act of being an awkward/unnecessary tag-along to a couple
 thirlby;40;Minor actress Olivia Thirlby (b. 1986)
 thirstforknowledge;60
 thirstingforknowledge;50
+thirstquenching;60
 thirsttrap;60
 thirsttraps;60
 thirtieth;40
@@ -63095,6 +63158,8 @@ toapoint;50
 toarms;40;Battle cry
 toast;50
 toasted;50
+toasterstrudel;60
+toasterstrudels;60
 toasting;50
 toastmistress;50
 toastmistresses;50
@@ -65309,6 +65374,7 @@ unders;50;Certain sports bets
 understatementofthecentury;60
 understatementofthedecade;60
 understatementoftheyear;60
+understructure;50
 understudy;50
 underthewire;60
 underwaterbase;60
@@ -66639,6 +66705,8 @@ volteface;50;Abrupt turnaround
 voltefaces;50
 voltorb;50;Pokeyman
 volume;50
+volunteerfirefighter;60
+volunteerfirefighters;60
 volution;30
 vomited;10
 vomiter;10
@@ -68546,6 +68614,8 @@ worksforpeanuts;60
 workslate;50
 workslikeacharm;60
 workslikeawelloiledmachine;60
+workstudyprogram;60
+workstudyprograms;60
 worksupthecourage;60
 worktorule;60;The act of working only according to the strictest interpretation of written requirements and regulations
 workupthecourage;60
