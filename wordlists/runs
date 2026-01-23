@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# Finds phrases with letter runs like (stu)dio(ghi)bli.
+
+main() {
+    runs "$@"
+}
+
+runs() {
+    n="$1"
+    count="${2:-1}"
+
+    runs=$(
+        awk -v n="$n" '
+            BEGIN {
+                alpha="abcdefghijklmnopqrstuvwxyz"
+                rev="zyxwvutsrqponmlkjihgfedcba"
+                out=""
+
+                for (i=1; i<=26-n+1; i++) out=out substr(alpha,i,n) "|"
+                for (i=1; i<=26-n+1; i++) out=out substr(rev,i,n) "|"
+
+                sub(/\|$/, "", out)
+                print out
+            }'
+    )
+
+    awk -v re="$runs" -v count="$count" '
+        {
+            s = $0
+            c = 0
+            while (match(s, re)) {
+                c++
+                s = substr(s, RSTART + RLENGTH)   # non-overlapping: move past match
+                if (c >= count) { print $0; next }
+            }
+        }
+    ' | rg -e "$runs" --color=always
+}
+
+main "$@"
