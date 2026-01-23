@@ -6704,19 +6704,23 @@ bizschools;50
 bizstone;50;Co-founder of Twitter Biz Stone
 bk;40
 bks;20
-bkstacker;50
-bkstackers;50
+bkstacker;60
+bkstackers;60
 blac;30;Rapper Blac Chyna
-blackactivist;50
-blackactivists;50
-blackadder;50
-blackadders;50
+blackactivist;60
+blackactivists;60
+blackadder;60
+blackadders;60
 blackart;60
 blackarts;60
 blackbagoperation;50
 blackbagoperations;50
-blackbart;50
-blackbeauty;50
+blackball;60
+blackballed;60
+blackballing;60
+blackballs;60
+blackbart;60
+blackbeauty;60
 blackbelt;60
 blackbelts;60
 blackberry;60
@@ -6731,8 +6735,10 @@ blackdiamondrun;60
 blackdiamondruns;60
 blackdiamonds;60
 blackeyedp;0
+blackhearted;60
 blackhole;60
 blackholes;60
+blackholesun;60
 blackhumor;60
 blackisbeautiful;60
 blackjackdealer;60
@@ -6749,9 +6755,20 @@ blacklisting;60
 blacklists;60
 blacklivesmatter;60
 blacklung;60
+blackmail;60
+blackmailed;60
+blackmailer;60
+blackmailers;60
+blackmailing;60
+blackmails;60
+blackmamba;60
+blackmambas;60
+blackmarket;60
+blackmarkets;60
 blackmirror;60
 blackmoney;60
 blackoperations;50
+blackparade;60
 blackrhino;50
 blackrhinoceros;50
 blackrhinos;50
@@ -15144,6 +15161,7 @@ diecasts;50
 diedadeath;50
 diedon;30;Awkward to clue
 diegan;40;San Diegan
+diehard;60
 dieharder;50
 diein;20
 dielorelei;50
@@ -27880,6 +27898,7 @@ iam;50
 iambi;40
 iambicpentameter;60
 iamkenough;60
+iamledtobelieve;60
 iammalala;40;Book "I Am Malala: The Story of the Girl Who Stood Up for Education and was Shot by the Taliban"
 iamnot;40;Playground retort
 iamnotgoingtogetuptoday;60;Dr. Seuss book
@@ -34313,7 +34332,10 @@ litre;40
 litres;40
 litter;50
 littheway;50
+littleblackbook;60
+littleblackbooks;60
 littleblackdress;60
+littleblackdresses;60
 littlebrownjug;60;College football trophy
 littledorrit;50;Dickens novel
 littlefinger;60
@@ -36125,6 +36147,7 @@ manholecovers;60
 manias;40;Bad plural
 manicpixiedreamgirl;60;Trope
 manillas;40;???
+maninblack;60
 manineededthat;60
 manintheironmask;60
 manioc;20;Cassava
@@ -37166,6 +37189,7 @@ menhir;30;Prehistoric upright stone
 menhirs;30
 menialtask;50
 menialtasks;50
+meninblack;60
 meninges;30
 meno;30;Prefix for pause
 menolikey;10
@@ -38359,6 +38383,7 @@ moreofthisplease;60
 moreorless;50
 morepay;30
 morethanalittle;60
+morethanever;50
 morethanlikely;60
 morey;20;Comic Amsterdam
 morgue;50
@@ -39837,6 +39862,7 @@ newhire;50
 newhires;50
 newintown;50
 newjersey;50
+newkidsontheblock;60
 newleaf;50
 newlook;60
 newlydiscovered;50
@@ -40182,6 +40208,7 @@ nintendogame;60
 nintendogameboy;60
 nintendogameboys;60
 nintendogames;60
+nintendohard;60
 nintendoswitch;60
 nintendoswitches;60
 nintendowii;60
@@ -47001,6 +47028,8 @@ pricklypear;60
 pricklypears;60
 prideflag;60
 prideflags;60
+pridegoesbeforeafall;60
+pridegoethbeforeafall;60
 pridoli;20;Late Silurian epoch
 priebus;30;Reince Priebus, RNC chair and White House chief of staff under Trump, briefly
 priedinto;40
@@ -62802,6 +62831,7 @@ timesink;60
 timesinks;60
 timeskip;60
 timeskips;60
+timessquare;60
 timessymbol;50
 timesup;60
 timetable;50
@@ -67378,6 +67408,7 @@ welcomer;30
 welcomers;30
 welcometomarwen;50;Steve Carell movie
 welcometomyworld;60
+welcometotheblackparade;60
 welcometotheclub;60
 welcometotherealworld;60
 weldingglove;50
