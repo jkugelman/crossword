@@ -38,7 +38,7 @@ run-interference() {
             }'
     )
 
-    rg -e "$runs" --color=always
+    rg -e "$runs"
 }
 
 main "$@"
