@@ -1,0 +1,44 @@
+#!/bin/bash
+
+# Finds phrases with letter runs like ti(ef)i(gh)iter that are interrupted
+# by one arbitrary letter.
+
+main() {
+    run-interference "$@"
+}
+
+run-interference() {
+    n="$1"
+
+    runs=$(
+        awk -v n="$n" '
+            BEGIN {
+                alpha="abcdefghijklmnopqrstuvwxyz"
+                rev="zyxwvutsrqponmlkjihgfedcba"
+                out=""
+
+                # Forward runs
+                for (i=1; i<=26-n+1; i++) {
+                    s = substr(alpha, i, n)
+                    for (k=1; k<=n-1; k++) {
+                        out = out substr(s, 1, k) "[a-z]" substr(s, k+1) "|"
+                    }
+                }
+
+                # Backward runs
+                for (i=1; i<=26-n+1; i++) {
+                    s = substr(rev, i, n)
+                    for (k=1; k<=n-1; k++) {
+                        out = out substr(s, 1, k) "[a-z]" substr(s, k+1) "|"
+                    }
+                }
+
+                sub(/\|$/, "", out)
+                print out
+            }'
+    )
+
+    rg -e "$runs" --color=always
+}
+
+main "$@"
