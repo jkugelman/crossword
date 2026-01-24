@@ -6783,6 +6783,9 @@ blackmamba;60
 blackmambas;60
 blackmarket;60
 blackmarkets;60
+blackmarsh;50;Type of turtle
+blackmarshturtle;50
+blackmarshturtles;50
 blackmirror;60
 blackmoney;60
 blackoperations;50
@@ -9351,6 +9354,8 @@ cardoons;30
 cards;50
 cardskimmer;60
 cardskimmers;60
+cardstunt;60;Synchronized actions by a stadium audience
+cardstunts;60
 carealot;40
 carebear;60
 carebears;60
@@ -10895,6 +10900,7 @@ christmastreefarms;60
 christmastrees;60
 christophercross;50
 christucker;50
+christurner;50;Comedian/freestyle rapper
 chromed;40
 chromedome;60
 chromedomes;50
@@ -12540,6 +12546,8 @@ cornfritters;50
 cornhuskerstate;50
 cornpit;40
 cornpits;40
+cornstunt;50;Corn disease
+cornstuntdisease;50
 cornsweat;60
 coronaaustralis;50
 coronach;30;Scottish funeral song
@@ -20892,6 +20900,8 @@ firstquarter;50
 firstquarters;50
 firstquartile;50
 firstrate;50
+firstrunfeature;60
+firstrunfeatures;60
 firstrunmovie;60
 firstrunmovies;60
 firstsnow;50
@@ -22662,6 +22672,8 @@ garterbelt;50
 garterbelts;50
 garyin;40
 garys;30
+garystu;60;Male "Mary Sue"
+garystus;60
 garza;30
 gas;50
 gasbag;60
@@ -25770,6 +25782,7 @@ hardsells;60
 hardsf;40;Hard sci-fi
 hardsix;50
 hardsold;50
+hardstuff;60
 hardtaco;60
 hardtacos;60
 hardten;50
@@ -31882,6 +31895,7 @@ keytars;60
 keywestfl;40
 keywitness;50
 keywitnesses;50
+keywordstuffing;60
 kfc;40
 kfed;20;Kevin Federline, Britney Spears's ex-husband
 kg;40
@@ -36546,7 +36560,9 @@ marylynnrajskub;50
 marymagdalene;60
 marys;30
 marysteenburgen;50
+marystuartmasterson;50;Actress
 marysue;60
+marysues;60
 marytravers;40;Of Peter, Paul and Mary
 marzen;30;German beer
 marzens;30
@@ -37557,6 +37573,7 @@ microfilms;60
 microgenre;60;Highly specialised or niche artistic domain
 microgenres;60
 microgravity;60
+microlearning;50
 micromanage;60
 micromanaged;60
 micromanagement;60
@@ -50489,6 +50506,8 @@ reverenced;40
 reverer;40
 reverers;40
 revers;20;Lapels
+reverseturingtest;60
+reverseturingtests;50
 reversible;50
 revertedto;40
 reverter;40
@@ -52009,13 +52028,17 @@ russki;10
 russobrothers;60;Directing duo notable for their work on the Avengers franchise
 russolo;20;Italian painter/composer
 russula;20;Mushroom
+rustedup;40
 rustheap;60
 rustheaps;60
 rustic;50
 rusticbread;50
 rustics;40;Plural?
+rustingup;40
 rustinpeace;60;Megadeth album
 rustred;20
+rustsup;40
+rustup;40
 rut;50
 rutalee;30
 rutger;40;Rutger Hauer
@@ -54730,6 +54753,7 @@ shortos;40
 shortround;50
 shortstop;50
 shortstops;50
+shortstuff;60
 shortsubject;50
 shortsubjects;50
 shortu;40
@@ -54882,6 +54906,9 @@ siamese;50
 siamesecat;50
 siamesecats;50
 siameses;40
+siamesetemple;50;Type of turtle
+siamesetempleturtle;50
+siamesetempleturtles;50
 sib;50
 siberianunicorn;50;Large extinct rhinoceros
 siberianunicorns;50
@@ -56065,6 +56092,8 @@ smileyoureoncandidcamera;60
 smilin;20
 smilingat;40
 smilingon;40
+smilingterrapin;50
+smilingterrapins;50
 smilla;20;Smilla's Sense of Snow (1997 book/movie)
 smirch;30
 smirkat;40
@@ -64567,6 +64596,7 @@ trustsin;40
 truststo;40
 trusttheprocess;60
 trustto;40
+trustus;50
 truthorconsequences;60
 truthorconsequencesnewmexico;60
 truthorconsequencesnm;60
@@ -64794,6 +64824,8 @@ ture;20
 turfed;30;Laid turf, or kicked out (British)
 turgenev;40;Russian novelist Ivan Turgenev
 turgor;30;State of turgidity, in botany
+turingtest;60
+turingtests;50
 turinsriver;0
 turkeybaster;50
 turkeybasters;50
