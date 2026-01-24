@@ -3135,6 +3135,8 @@ aquavitae;40
 aquavits;40
 aquiline;40;Of a nose, hooked like an eagle's beak
 ara;30;Southern constellation
+arabicdigit;50
+arabicdigits;50
 arabist;30;Mideast expert
 arables;30;Weird plural
 araby;40;???
@@ -11594,6 +11596,9 @@ codecracker;60
 codecrackers;60
 codeflag;50;???
 codeflags;50;???
+codefor;40
+codefreeze;60
+codefreezes;60
 codename;60
 codenames;60
 codeofconduct;60
@@ -13461,6 +13466,8 @@ cubbyhole;50
 cubbyholes;50
 cubiccentimeter;50
 cubiccentimeters;50
+cubicdecimeter;40
+cubicdecimeters;40
 cubicfeet;50
 cubicfoot;50
 cubicinch;50
@@ -28897,6 +28904,7 @@ imnotgoingtoreadallthat;60
 imnotgonnareadallthat;60
 imnothavingit;60
 imnotmadeofmoney;60
+imnotparticular;60
 imnotplayingaround;60
 imnotscared;60
 imnotscaredofyou;60
@@ -46648,6 +46656,7 @@ postitnotes;60
 postmalone;60
 postmastergeneral;50
 postmastersgeneral;50
+postmenopause;50
 postmodernism;60
 postmodernist;60
 postmodernists;60
@@ -46944,6 +46953,7 @@ prell;30;Green shampoo brand
 premaritalsex;60
 premeal;30
 premeds;30
+premenopause;50
 premiss;20;Premise: Var.
 premiumcontent;60
 premiummember;50
@@ -49192,6 +49202,10 @@ recarves;30
 recarving;30
 recce;20;Recon mission
 recces;20;Recon missions
+recededfrom;40
+recedefrom;40
+recedesfrom;40
+recedingfrom;40
 receivinglines;50
 recencybias;60
 recense;30
@@ -53355,8 +53369,12 @@ sec;50
 secada;40;Singer Jon Secada
 seccos;40
 secdef;30
+secededfrom;40
+secedefrom;40
 seceder;30
 seceders;30
+secedesfrom;40
+secedingfrom;40
 seckel;20;Small pear
 seckels;20
 seconal;20;Sleep drug [used once in 1970]
@@ -56177,7 +56195,9 @@ snarlsup;40
 snarlup;50
 snarlups;50
 snarly;30
+snatchdefeatfromthejawsofvictory;60
 snatching;50
+snatchvictoryfromthejawsofdefeat;60
 snax;40
 snead;40
 sneads;30
