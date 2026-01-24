@@ -8104,6 +8104,7 @@ brownshirt;20
 brownshirts;20
 brownvboard;60
 brownvboardofeducation;60
+browserhijacking;60
 browsertab;60
 browsertabs;60
 browserwindow;60
@@ -9332,6 +9333,9 @@ cardin;40
 cardinal;50
 cardinaloconnor;30
 cardinals;50
+cardiopulmonologist;50
+cardiopulmonologists;50
+cardiopulmonology;50
 cardoon;30;Type of thistle
 cardoons;30
 cards;50
@@ -11831,6 +11835,7 @@ coloreds;10
 colorpencil;50
 colorpencils;50
 colorpurple;50
+colorsaturation;50
 colorwheel;60
 colorwheels;60
 colossusofrhodes;60
@@ -20335,6 +20340,7 @@ feelthirsty;50
 feelundertheweather;60
 feeluptoit;60
 feely;50
+feetdontfailmenow;60
 feetontheground;60
 feh;40
 feig;40;Director Paul Feig, frequent Melissa McCarthy collaborator
@@ -20862,6 +20868,7 @@ firstoutofthegate;60
 firstpunicwar;50
 firstquarter;50
 firstquarters;50
+firstquartile;50
 firstrate;50
 firstrunmovie;60
 firstrunmovies;60
@@ -24199,6 +24206,7 @@ goodcause;50
 goodchoice;60
 goodcook;50
 goodcooks;50
+gooddaysir;60
 gooddeed;50
 gooddeeds;50
 gooddog;60
@@ -25769,6 +25777,9 @@ harlemite;30
 harlemites;30
 harlow;50
 harman;40
+harmonicminor;60
+harmonicminorscale;60
+harmonicminorscales;60
 haroldii;30;Killed at the Battle of Hastings in 1066, succeeded by William the Conqueror
 harolds;30
 harpedon;40
@@ -27321,6 +27332,8 @@ honorer;30
 honorers;30
 honorroll;60
 honorrolls;40
+honorsstudent;60
+honorsstudents;60
 honshu;40
 hoo;20
 hoodlum;50
@@ -32198,6 +32211,7 @@ knowstoomuch;60
 knowtoomuch;60
 knowwhatimean;60
 knt;20
+knucklemnemonic;60;Mnemonic device for remember the number of days in each month
 knuckletat;60
 knuckletats;60
 knuckletattoo;60
@@ -32930,6 +32944,7 @@ lastmove;50
 lastnightinsoho;60
 lastofthemohicans;60
 lastonein;50
+lastquartile;50
 lastresort;60
 lastresorts;50
 lastsamurai;60
@@ -37168,6 +37183,9 @@ melmac;30;Alf's planet, or brand of dinnerware
 melmoth;40;Gothic novel Melmoth the Wanderer, or modern novel Melmoth by Sarah Perry
 melodeon;40;Type of accordion
 melodeons;40
+melodicminor;60
+melodicminorscale;60
+melodicminorscales;60
 melodrama;50
 melodramas;50
 melodramatic;50
@@ -37644,6 +37662,8 @@ mille;40
 millenniumprize;50
 millenniumprizeproblem;50
 millenniumprizeproblems;60
+millersthumb;50;Fish
+millersthumbs;50
 milli;40
 millionthsplace;30
 millrun;40
@@ -39428,6 +39448,9 @@ naturalblond;60
 naturalblonde;60
 naturalblondes;60
 naturalblonds;60
+naturalminor;60
+naturalminorscale;60
+naturalminorscales;60
 naturalworld;60
 naturehike;50
 naturewalk;50
@@ -43387,6 +43410,11 @@ overpromise;60
 overpromiseandunderdeliver;60
 overpromiseunderdeliver;60
 overs;50;Certain sports bets
+oversaturate;50
+oversaturated;50
+oversaturates;50
+oversaturating;50
+oversaturation;50
 oversaw;50
 overseastravel;50
 overseastravelinsurance;50
@@ -43593,6 +43621,7 @@ paeons;20
 paese;40
 pagebreak;50
 pagebreaks;50
+pagehijacking;60
 pageofcoins;60;Tarot card
 pageofcups;60;Tarot card
 pageofswords;60;Tarot card
@@ -43769,6 +43798,7 @@ panicled;30
 panicles;30
 panicroom;60
 panicrooms;60
+panicsaturday;60;Last Saturday before Christmas, big retail day
 panin;30;Zoom in, not pan in
 paninon;30
 panipuri;40;Indian street food
@@ -43883,6 +43913,8 @@ paradoxical;60
 paradoxofchoice;60
 paragonite;30;Mineral
 parallax;60
+parallelmajor;60
+parallelminor;60
 parallelpark;50
 parallelparked;50
 parallelparking;50
@@ -49007,6 +49039,7 @@ reallyinto;50
 realman;40
 realmature;60
 realmen;40
+realmenofgenius;60
 realness;40
 reals;50;Brazilian currency
 realsex;60
@@ -50748,6 +50781,8 @@ rightinthefeels;60
 rightjustified;50
 rightjustify;50
 rightlyso;50
+rightoffirstpublication;60
+rightoffirstrefusal;60
 rightoh;30;???
 righton;60
 rightonthemoney;60
@@ -53886,6 +53921,9 @@ sergesuit;30
 sergesuits;30
 sergios;30;Plural name
 serialmom;60
+serialmonogamist;60
+serialmonogamists;60
+serialmonogamy;60
 serialno;40
 seriate;40
 seriatim;30;Legal word for "consecutively"
@@ -59385,6 +59423,7 @@ superpac;60
 superpacs;60
 superresponder;60
 superresponders;60
+supersaturday;60;Last Saturday before Christmas, big retail day
 supersize;60
 supersized;60
 supersizeme;60
@@ -65393,6 +65432,8 @@ underpromiseoverdeliver;60
 underpromises;60
 underpromising;60
 unders;50;Certain sports bets
+undersaturated;50
+undersaturation;50
 understatementofthecentury;60
 understatementofthedecade;60
 understatementoftheyear;60
@@ -67368,6 +67409,7 @@ weblink;30
 weblog;50
 weblogs;50
 weboflies;60
+webpagehijacking;60
 webring;30
 webscraper;50
 webscrapers;50
@@ -69418,6 +69460,7 @@ youdoyou;60
 yougame;60
 yougetit;60
 yougetme;60
+yougetnothing;60
 yougetthatalot;60
 yougivemenochoice;60
 yougoingtoeatthat;60
