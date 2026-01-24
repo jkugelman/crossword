@@ -20574,6 +20574,8 @@ fightwith;40
 figural;30
 figureeight;50
 figureeights;50
+figurestudies;60
+figurestudy;60
 fil;20
 fila;40;Athleisure brand
 filas;40
@@ -41457,6 +41459,7 @@ oddish;40;Somewhat odd
 oddisntit;60
 oddjob;60
 oddjobs;60
+oddmen;30;Partial
 oddmenout;50
 oddment;40
 oddsare;50
@@ -42842,6 +42845,7 @@ oreotruffle;40
 oreotruffles;40
 oresteia;30;Trilogy by Aeschylus
 orestes;30;Figure of Greek myth
+orfeo;40
 orff;40;"Carmina Burana" composer Carl Orff
 org;40
 organdonor;60
@@ -58880,6 +58884,8 @@ studentids;50
 studentshortfilm;60
 studentshortfilms;60
 studentsids;0
+studentteacherrelationship;60
+studentteacherrelationships;60
 studfarm;50
 studfarms;50
 studfee;50
@@ -60687,6 +60693,9 @@ teachablemoment;60
 teachablemoments;60
 teachersass;10
 teacherslounges;50
+teacherstudent;50
+teacherstudentrelationship;60
+teacherstudentrelationships;60
 teachest;60
 teachests;60
 teachin;40
@@ -67689,6 +67698,7 @@ wereopen;60
 wererich;60
 weresoback;60
 weresoold;60
+werestuck;50
 werestumped;60
 weresupposedtobeateam;60
 weretoast;60
