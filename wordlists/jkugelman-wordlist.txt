@@ -5204,10 +5204,16 @@ bareessence;50
 bareessentials;50
 barefoot;50
 bareitall;60
+bareknuckle;60
+bareknuckleboxer;60
+bareknuckleboxers;60
+bareknuckleboxing;60
+bareknuckled;60
 bareknucklefight;60
 bareknucklefighters;60
 bareknucklefighting;60
 bareknucklefights;60
+bareknuckles;60
 barelyaninconvenience;60
 barelygetby;50
 barelygetsby;50
@@ -8698,9 +8704,11 @@ cagediver;60
 cagedivers;60
 cagedives;60
 cagediving;60
+cagefight;60
 cagefighter;60
 cagefighters;60
 cagefighting;60
+cagefights;60
 cagein;40
 cager;40
 cagers;40
@@ -11597,6 +11605,9 @@ codecrackers;60
 codeflag;50;???
 codeflags;50;???
 codefor;40
+codeformatter;60
+codeformatters;60
+codeformatting;60
 codefreeze;60
 codefreezes;60
 codename;60
@@ -14397,9 +14408,13 @@ decennia;30
 decennium;30;Decade
 deci;40
 deciare;20;10 square meters
+decidedforoneself;60
 decidedon;40
+decideforoneself;60
 decideon;40
+decidesforoneself;60
 decideson;40
+decidingforoneself;60
 decidingon;40
 decidua;30;Uterus lining
 deciliter;40
@@ -27666,6 +27681,7 @@ housedressing;60
 househarkonnen;60
 housejudiciary;50
 housemajority;60
+houseofghosts;60;1907 stop-motion film, one of the earliest depictions of a haunted house
 houseoftherisingsun;60
 housepet;60
 housepets;60
@@ -57007,6 +57023,8 @@ spacecase;50
 spacecases;50
 spacecity;60
 spacedebris;60
+spacedefense;50
+spacedefenses;50
 spaceexploration;60
 spaceinvaders;60
 spacejam;60
@@ -61861,6 +61879,7 @@ thehopi;20
 thehotcorner;50;???
 thehots;60
 thehound;60
+thehouseofghosts;60;1907 stop-motion film, one of the earliest depictions of a haunted house
 thehub;20
 thehungergames;60
 thehustler;50
@@ -65305,6 +65324,7 @@ ult;20
 ulta;40;Beauty brand
 ultimacy;40
 ultimateextreme;60
+ultimatefightingchampionship;60
 ultimategoal;60
 ultimatum;50
 ultimo;40
