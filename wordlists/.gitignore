@@ -1,3 +1,5 @@
+/*.csv
+/*.json
+/*.tsv
 /*.txt
-/imdb-title*.tsv
 __pycache__/
