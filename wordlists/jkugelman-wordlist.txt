@@ -2816,6 +2816,8 @@ anydayoftheweek;50
 anyguess;50
 anyhoo;60
 anyideas;60
+anylastrequests;60
+anylastwords;60
 anyluck;60
 anymomentnow;60
 anyobjections;60;"Is everyone okay with this?"
@@ -14701,6 +14703,9 @@ delpotro;20;Retired unremarkable tennis player
 dels;30
 delsarto;40;Renaissance painter Andrea del Sarto
 delt;40
+deltablues;60
+deltabluessinger;60
+deltabluessingers;60
 deltaic;40;???
 deltapi;20
 deltawave;50
@@ -27735,8 +27740,10 @@ houstontx;40
 hov;40
 how;50
 howaboutno;60
+howaboutwestartover;60
 howbadcoulditbe;60
 howbizarre;60
+howboutwestartover;60
 howcani;60
 howcanideletesomeoneelsescomment;60
 howcanideletesomeoneelsespost;60
@@ -32705,6 +32712,8 @@ lamaseries;40
 lamasery;40;Monastery of lamas
 lambdabaryon;50
 lambdabaryons;50
+lambencies;40
+lambency;40
 lambofgod;60
 lambstew;50
 lamebrain;60
@@ -33018,7 +33027,7 @@ lastunicorn;50
 lastwill;50
 lastwillandtestament;60
 lastwish;50
-lastwishes;50
+lastwishes;60
 lasvegas;60
 lasvegasnv;40
 lasvegasstrip;60
@@ -33770,6 +33779,7 @@ letemhaveit;60
 letemin;40;1976 Wings song
 leterrip;60
 letgoofme;60
+lethargies;40;Plural?
 lethe;30;River in Hades whose waters cause drinkers to forget their past
 lethem;40;Novelist Jonathan Lethem, "Motherless Brooklyn", MacArthur Fellowship
 lethercook;60
@@ -33800,11 +33810,13 @@ letsadmitit;60
 letsagreetodisagree;60
 letsat;40
 letsbackin;40
+letsbackup;60
 letsbe;50
 letsbehonest;60
 letscallitanight;60
 letscallitatie;60
 letscallitawrap;60
+letsdothis;60
 letsee;20
 letsfree;0
 letsgetcracking;60
@@ -33845,6 +33857,7 @@ letsseenow;60
 letsseewhathappens;60
 letssplitupitllbefaster;60
 letssplitupitsfaster;60
+letsstartover;60
 letsthingsplayout;60
 letsupon;40
 letswrapthisup;60
@@ -68276,6 +68289,7 @@ whyamiseeingthis;60
 whybackinmyday;60
 whydoesitmatter;60
 whydoesthisalwayshappentome;60
+whydontwestartover;60
 whydontyoumakelikeatreeandgetoutofhere;60
 whyelse;50
 whyidbedelighted;60
