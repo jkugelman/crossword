@@ -36489,6 +36489,7 @@ mariokart;60
 mariolanza;50;Hollywood tenor
 marioncotillard;50
 marioncrane;60;"Psycho" protagonist
+marionravenwood;60
 marioparty;60
 marios;30
 marisatomei;60
@@ -43725,6 +43726,7 @@ pai;40;___ Gow
 paidcontent;60
 paidfor;40
 paidforitself;60
+paidforonessins;60
 paidin;40
 paidinto;40
 paidonesfairshare;50
@@ -44435,10 +44437,12 @@ paycuts;60
 payday;50
 paydays;50
 payfor;40
+payforonessins;60
 payhike;60
 payhikes;60
 payin;40
 payingfor;40
+payingforonessins;60
 payingin;40
 payinginto;40
 payingonesfairshare;50
@@ -44455,6 +44459,7 @@ payperview;50
 payretail;50
 paysfor;40
 paysforitself;60
+paysforonessins;60
 paysin;40
 paysinto;40
 payson;20;???
