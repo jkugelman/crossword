@@ -8121,11 +8121,10 @@ brownshirt;20
 brownshirts;20
 brownvboard;60
 brownvboardofeducation;60
-browserhijack;60
+browserhijack;60;Type of attack
 browserhijacker;60
 browserhijackers;60
 browserhijacking;60
-browserhijacks;60
 browsertab;60
 browsertabs;60
 browserwindow;60
@@ -27869,6 +27868,8 @@ hufflepuffs;60
 hug;50
 hugefan;60
 hughhefner;60
+hughie;40;Hughie Jennings (1869-1928), Baseball Hall of Famer, holds major league record for most hits by pitches
+hughiejennings;50;Hughie Jennings (1869-1928), Baseball Hall of Famer, holds major league record for most hits by pitches
 huh;50
 huladance;50
 hulahoop;50
@@ -43716,11 +43717,10 @@ paeons;20
 paese;40
 pagebreak;50
 pagebreaks;50
-pagehijack;60
+pagehijack;60;Type of attack
 pagehijacker;60
 pagehijackers;60
 pagehijacking;60
-pagehijacks;60
 pageofcoins;60;Tarot card
 pageofcups;60;Tarot card
 pageofswords;60;Tarot card
