@@ -48652,6 +48652,8 @@ rangtrue;60
 rangy;30
 ranin;40
 ranine;20;Frog-related, or region under the tongue
+raninterference;60
+raninterferencefor;50
 raninto;40
 ranit;20
 ranitby;40
@@ -51928,6 +51930,8 @@ runfor;40
 runforit;60
 rungameon;60
 rungaround;30;Called around
+runinterference;60
+runinterferencefor;50
 runinto;40
 runitby;40
 runlet;40;Small stream
@@ -51949,6 +51953,8 @@ runningfast;30
 runningfor;40
 runningforit;60
 runninggameon;60
+runninginterference;60
+runninginterferencefor;50
 runninginto;40
 runningitby;40
 runningloose;50
@@ -52004,6 +52010,8 @@ runsgameon;60
 runshort;50
 runshorton;40
 runsin;40
+runsinterference;60
+runsinterferencefor;50
 runsinto;40
 runsitby;40
 runsloose;50
