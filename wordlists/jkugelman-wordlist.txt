@@ -16432,6 +16432,7 @@ downsides;50
 downstair;50
 downto;40
 downtobrasstacks;60
+downtoclown;60
 downvote;50
 downvotes;50
 dowonders;60
@@ -23582,6 +23583,8 @@ girasol;20;Fire opal
 girasols;20;Fire opals
 girlboss;60
 girlbosses;60
+girlgroup;60
+girlgroups;60
 girlscout;50
 girlscouts;50
 girlsdorm;50
@@ -28874,6 +28877,7 @@ imdead;60
 imdeadmeat;60
 imdone;50
 imdonefor;60
+imdowntoclown;60
 imdying;60
 imdyinghere;60
 imdyinhere;60
@@ -69672,6 +69676,7 @@ youdontknowjack;60
 youdontmeanthat;60
 youdontsay;60
 youdothetalking;60
+youdowntoclown;60;Question
 youdoyou;60
 yougame;60
 yougetit;60
