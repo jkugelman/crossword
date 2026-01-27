@@ -11570,10 +11570,10 @@ cocktailmixer;50
 cocktailmixers;50
 cocktailnapkin;50
 cocktailnapkins;50
-cocktailparties;50
-cocktailparty;50
-cocktailpeanut;50
-cocktailpeanuts;50
+cocktailparties;60
+cocktailparty;60
+cocktailpeanut;60
+cocktailpeanuts;60
 cocktails;50
 cocktailsauce;50
 cocktailstick;50
@@ -14065,6 +14065,7 @@ dashesinto;40
 dashesoneshopes;60
 dashesto;40
 dashi;30;Japanese soup stock
+dashiellhammett;60
 dashinginto;40
 dashingoneshopes;60
 dashingto;40
@@ -15291,6 +15292,7 @@ digitalizes;30
 digitalizing;30
 digitallibraries;60
 digitallibrary;60
+digitalliteracy;60
 digitalslr;50
 digitalslrs;50
 digsahole;50
@@ -21327,6 +21329,7 @@ flowages;40
 flower;50
 flowerballoon;60
 flowerballoons;60
+flowercup;20;???
 floweret;30
 flowergarden;50
 flowergardens;50
@@ -25125,6 +25128,8 @@ guerilla;20;Variant spelling
 guerillas;20
 guerillawarfare;20
 guerrilla;50
+guerrillaartist;60
+guerrillaartists;60
 guerrillas;50
 guerrillausability;60
 guerrillawarfare;60
@@ -26314,14 +26319,18 @@ heatset;50
 heatwave;50
 heatwaves;50
 heavedto;30
+heavedup;40
 heaveho;50
 heavenhelpus;60
 heavenhelpusall;60
 heaver;30;Dockyard worker
 heavers;30
 heavesto;30
+heavesup;40
 heaveto;30
+heaveup;40
 heavingto;30
+heavingup;40
 heavybag;50
 heavybags;50
 heavymetal;60
@@ -26728,6 +26737,7 @@ hexwrenchset;40
 hey;50
 heybro;50
 heyday;60
+heydontlookatme;60
 heydude;60
 heygoogle;60
 heyijustworkhere;60
@@ -28833,6 +28843,7 @@ imani;40;Imani Perry, race scholar, MacArthur Fellow
 imanidiot;60
 imanopenbook;60
 imapc;50
+imapeopleperson;60
 imarealboy;60
 imaret;20;Turkish inn
 imarets;20;Turkish inns
@@ -32393,6 +32404,8 @@ koreanspa;50
 koreanspas;50
 koreanwarvet;60
 koreanwarvets;60
+koreatown;60
+koreatowns;50
 korma;40;Creamy Indian curry
 korner;30;???
 korra;40;Aang's successor on Avatar, lead character of The Legend of Korra
@@ -32485,6 +32498,7 @@ ksu;40
 ktevent;40;Extinction event that killed the dinosaurs
 ktextinction;40;It killed the dinosaurs
 ktextinctionevent;40
+ktown;40;Koreatown
 kts;20
 kubrickstare;60
 kudo;20
@@ -34517,6 +34531,7 @@ littlemsthang;60
 littlemsthing;60
 littlenemo;50
 littlepigs;60
+littleprince;60
 littleredridinghood;60
 littlerockar;30
 littletoe;50
@@ -35296,6 +35311,8 @@ lox;50
 loy;40;Actress Myrna Loy
 loyalfan;50
 loyalfans;50
+loyalfollowing;60
+loyalfollowings;60
 loyalsubject;50
 loyalsubjects;50
 loyalto;40
@@ -38539,6 +38556,10 @@ moper;40
 mopers;40
 mophandle;50
 mophandles;50
+moppedthefloorwith;60
+moppingthefloorwith;60
+mopsthefloorwith;60
+mopthefloorwith;60
 moptop;60
 mor;20
 moralcode;60
@@ -48176,6 +48197,7 @@ queenofwands;60;Tarot card
 queenset;40;Bedroom set
 queenslandheeler;50;Dog breed
 queenslandheelers;50
+queerasathreedollarbill;60
 queericon;60
 queericons;60
 queerprom;60
@@ -57380,8 +57402,12 @@ spendinglimits;60
 spendy;30;Extravagant
 spenser;40;One-named fictional detective
 spermaceti;40;Waxy substance from a sperm whale
+spewedup;10
 spewer;30
 spewers;30
+spewingup;10
+spewsup;10
+spewup;10;Vomit
 spex;30;Glasses, informally
 spf;40
 spflevel;50
@@ -62109,6 +62135,7 @@ thelions;40
 thelip;20
 thelists;20
 thelittledipper;40
+thelittleprince;60
 thelittlerascals;50
 thelittleredbook;30
 thelobster;60;Oscar-nominated Yorgos Lanthimos film
@@ -62462,6 +62489,7 @@ thestuffoflegend;60
 thesubstance;60;Demi Moore movie
 thesuezcanal;40
 thesun;50;Tarot card
+thesunalsorises;60
 thesuzukimethod;40
 thetab;20
 thetable;20
@@ -62797,6 +62825,7 @@ threecentpieces;50
 threed;30
 threedmovie;30
 threedmovies;30
+threedollarbill;60;Reclaimed by the LGBTQ+ community
 threefingersalute;60;Ctrl-Alt-Delete
 threeiron;50
 threeirons;50
