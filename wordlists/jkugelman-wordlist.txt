@@ -59881,10 +59881,10 @@ swedishmeatballs;60
 sweeneytodd;50
 sweepingout;40
 sweepout;40
-sweeppick;50
-sweeppicked;50
-sweeppicking;50
-sweeppicks;50
+sweeppick;60
+sweeppicked;60
+sweeppicking;60
+sweeppicks;60
 sweepsout;40
 sweeptheleg;60
 sweetandsourmix;50
@@ -60184,8 +60184,10 @@ tacopies;30
 tacostand;60
 tacostands;60
 tacotown;50;???
-tacotruck;50
-tacotrucks;50
+tacotruck;60
+tacotrucks;60
+tacotuesday;60
+tacotuesdays;60
 tacticalweapon;50
 tacticalweapons;50
 taction;30;Act of touching, obsolete
