@@ -5,48 +5,52 @@
 
 import orjson
 from pprint import pprint
+import re
+import sys
 
 from lib import grouped_by, is_symmetrical, spell_meta
 
 def main():
-    metas = {
-        'abet',
-        'aid',
-        'aide',
-        'ally',
-        'assist',
-        'bait',
-        'bar',
-        'blip',
-        'block',
-        'bump',
-        'cold',
-        'cramp',
-        'deny',
-        'deter',
-        'fail',
-        'flub',
-        'foil',
-        'foul',
-        'goon',
-        'hack',
-        'halt',
-        'help',
-        'hold',
-        'jam',
-        'lackey',
-        'loss',
-        'mule',
-        'pal',
-        'patsy',
-        'rain',
-        'run',
-        'slip',
-        'snag',
-        'stall',
-        'stop',
-        'trip',
-    }
+    # metas = {
+    #     'abet',
+    #     'aid',
+    #     'aide',
+    #     'ally',
+    #     'assist',
+    #     'bait',
+    #     'bar',
+    #     'blip',
+    #     'block',
+    #     'bump',
+    #     'cold',
+    #     'cramp',
+    #     'deny',
+    #     'deter',
+    #     'fail',
+    #     'flub',
+    #     'foil',
+    #     'foul',
+    #     'goon',
+    #     'hack',
+    #     'halt',
+    #     'help',
+    #     'hold',
+    #     'jam',
+    #     'lackey',
+    #     'loss',
+    #     'mule',
+    #     'pal',
+    #     'patsy',
+    #     'rain',
+    #     'run',
+    #     'slip',
+    #     'snag',
+    #     'stall',
+    #     'stop',
+    #     'trip',
+    # }
+
+    meta = sys.argv[1]
 
     themers = {
         themer: letter
@@ -57,17 +61,26 @@ def main():
         if len(themer) <= 15
     }
 
-    results = {meta: run_interference(themers, meta) for meta in metas}
+    # results = {meta: run_interference(themers, meta) for meta in metas}
+    results = run_interference(themers, meta)
 
     def default(obj):
         if isinstance(obj, set):
             return list(obj)
         raise TypeError
-    print(orjson.dumps(
+    results = orjson.dumps(
         results,
         option=orjson.OPT_NON_STR_KEYS | orjson.OPT_INDENT_2 | orjson.OPT_SORT_KEYS,
         default=default
-    ).decode())
+    ).decode()
+
+    results = re.sub(r'",\n\s{8}"', '", "', results)
+    results = re.sub(r'\[\n\s*"', '["', results)
+    results = re.sub(r'"\n\s*\]', '"]', results)
+    results = results.replace('"0"', '"end revealer"')
+    results = results.replace('"1"', '"middle revealer"')
+
+    print(results)
 
 def run_interference(themers, meta):
     metas = (
