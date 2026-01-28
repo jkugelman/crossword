@@ -30400,6 +30400,7 @@ isupposeso;60
 isurecant;60
 isuspect;30
 iswaterwet;60
+iswearbyit;60
 iswearit;60
 it;50
 ita;30
@@ -30635,9 +30636,10 @@ itsnouse;60
 itsodd;50
 itsok;50
 itsokay;50
-itsokaybyme;50
-itsokbyme;50
-itsokwithme;50
+itsokaybyme;60
+itsokaywithme;60
+itsokbyme;60
+itsokwithme;60
 itsonlyamatteroftime;60
 itsonme;60
 itsoundsfishy;50
@@ -32297,6 +32299,7 @@ kneesocks;50
 kneltat;40
 knelton;40
 knesset;40;Israel's legislature
+knewitbyheart;60
 knewof;40
 knewtoomuch;60
 knex;40
@@ -32340,11 +32343,14 @@ knowall;20
 knowball;60;To be knowledable about basketball or a related sport; generally, to understand what's going on
 knower;40
 knowers;40
+knowingitbyheart;60
 knowingof;40
 knowingtoomuch;60
+knowitbyheart;60
 knowledgeispower;60
 knownothing;60
 knowof;40
+knowsitbyheart;60
 knowsof;40
 knowstoomuch;60
 knowtoomuch;60
@@ -34550,6 +34556,7 @@ littleblackbooks;60
 littleblackdress;60
 littleblackdresses;60
 littlebrownjug;60;College football trophy
+littlebylittle;60
 littledorrit;50;Dickens novel
 littlefinger;60
 littlefingers;50
@@ -35771,6 +35778,7 @@ madeauie;40
 madeaware;50
 madebail;50
 madebiscuits;60
+madebyhand;60
 madedowith;40
 madefaces;50
 madefor;40
@@ -36064,6 +36072,7 @@ makeba;30
 makebail;50
 makebelieve;60
 makebiscuits;60;Knead, like a cat
+makebyhand;60
 makedowith;40
 makefaces;50
 makegood;50
@@ -36117,6 +36126,7 @@ makesauie;40
 makesaware;50
 makesbail;50
 makesbiscuits;60
+makesbyhand;60
 makesdowith;40
 makesense;50
 makesenseof;50
@@ -36191,6 +36201,7 @@ makingauie;40
 makingaware;50
 makingbail;50
 makingbiscuits;60
+makingbyhand;60
 makingdowith;40
 makingfaces;50
 makinggood;50
@@ -39160,6 +39171,7 @@ murder;50
 murderball;60;Wheelchair rugby
 murderbot;60;Apple TV+ series
 murderbotdiaries;60;Book series that spawned an Apple TV+ show
+murderbydeath;60
 murderersthumb;60;Genetic trait with one short, wide thumb
 murderinc;50
 murderone;50
@@ -39623,6 +39635,7 @@ naturalminorscales;60
 naturalworld;60
 naturehike;50
 naturewalk;50
+naughtybynature;60
 naughtylist;60
 nauru;40;World's smallest republic
 nauruan;30
@@ -63610,6 +63623,7 @@ tojo;40;WWII leader Hideki Tojo
 tok;30;Ke$ha song "Tik Tok"
 tokaj;20;Hungarian wine region
 tokay;30;Hungarian wine
+tokaygecko;50
 tokays;30;Hungarian wines
 tokened;30
 tokilla;20
@@ -65953,8 +65967,8 @@ unshipped;50;Like a package, or other obscure meanings
 unshipping;30
 unships;30
 unshy;50
-unskippablead;50
-unskippableads;50
+unskippablead;60
+unskippableads;60
 unsolder;40
 unsoldered;50
 unsolders;40
