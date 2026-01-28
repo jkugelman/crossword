@@ -5798,6 +5798,7 @@ beatsadeadhorse;60
 beatsahastyretreat;60
 beatsat;40
 beatsback;50
+beatsbydre;60
 beatsme;60
 beatson;40
 beatstheheckoutofme;60
@@ -6710,6 +6711,8 @@ bitte;40;Thanks: Ger.
 bitted;30
 bittern;40;Marsh bird
 bitterns;40
+bittersweet;60
+bittersweetsymphony;60
 bittertaste;50
 bitthedust;60
 bitting;30
@@ -6986,6 +6989,9 @@ blossomsinto;40
 blouson;30;Tight-wasted men's of jacket
 bloviation;50
 blowakiss;50
+blowbyblow;60
+blowbyblowaccount;60
+blowbyblowaccounts;60
 blowgun;60
 blowguns;60
 blowhard;60
@@ -7389,7 +7395,8 @@ boohooed;50
 boohoos;50
 booingat;40
 booingoffstage;60
-bookburning;50
+bookburning;60
+bookburnings;60
 bookclub;50
 bookclubs;50
 bookdeal;50
@@ -7926,11 +7933,15 @@ bribees;50
 briberies;40
 bric;40
 bricabrac;60
+brickbybrick;60
 brickcity;50;Newark, NJ
+brickell;40;Upscale Miami district
+brickle;40;Butter brickle candy
 brickoven;50
 brickovenpizza;50
 brickovenpizzas;50
 brickovens;50
+brickowski;40
 brickroad;50
 brickwall;60
 brickwalls;60
@@ -12265,6 +12276,8 @@ congressionalstaffers;50
 conics;30
 conjob;60
 conjobs;60
+conjoinedtwin;60
+conjoinedtwins;60
 conjoint;30
 conjointly;30
 conn;40
@@ -13780,6 +13793,7 @@ cyst;40
 cystitis;40
 cysts;40
 cyt;20
+cytwombly;50;Painter Cy Twombly
 d;40
 da;40
 daae;40;Christine of Phantom
@@ -14172,6 +14186,7 @@ daylightsavings;50
 daylightsavingstime;50
 daylightsavingtime;50
 dayne;30;'80s singer Taylor Dayne
+dayo;40
 dayofrest;60
 dayofthedead;60
 dayofthelord;60;Apocalyptic event considered by the prophets in the Hebrew Bible
@@ -15195,6 +15210,7 @@ didihearyouright;60
 didiloseyou;60
 didion;40;Journalist Joan Didion
 didistutter;60
+diditbythebook;60
 diditforthegram;60
 didja;50
 didlaps;50
@@ -15228,6 +15244,7 @@ didyouseemytext;60
 didyouseethat;60
 die;50
 dieadeath;50
+dieanotherday;60
 dieaslowdeath;60
 diebartdie;60;Sideshow Bob tattoo
 diecast;50
@@ -15850,6 +15867,7 @@ doesfor;30
 doesgood;50
 doeshonor;30
 doeshonorto;40
+doesitbythebook;60
 doesiteverend;60
 doesitforthegram;60
 doesitlooklikeicare;60
@@ -16021,6 +16039,7 @@ doingdyingtying;0
 doinggood;50
 doinghonor;30
 doinghonorto;40
+doingitbythebook;60
 doingitforthegram;60
 doinglaps;50
 doinglunch;50
@@ -16039,6 +16058,7 @@ doingyourfairshare;50
 doink;30
 doismell;60
 doitatonce;40;Green paint?
+doitbythebook;60
 doitforthegram;60
 doitnow;60
 doityourselftornadokit;60;Acme invention
@@ -16420,6 +16440,8 @@ doweling;30
 dower;30;Law term, see curtesy
 dowhatnow;60
 downanddirty;60
+downbycontact;60
+downbylaw;50;1986 movie
 downgoesfrazier;60
 downloadablecontent;60
 downon;40
@@ -21385,6 +21407,9 @@ fluxus;30;Neo-Dada art movement
 fly;50
 flyakite;50
 flyat;40
+flybynight;60
+flybynightoperation;60
+flybynightoperations;60
 flyfirstclass;50
 flyfish;50
 flyfisherman;50
@@ -23894,6 +23919,7 @@ goblueintheface;60
 gobonkers;60
 gobust;60
 goby;40
+gobythebook;60
 gocold;50
 gocondo;40;Convert apartments to owned condos
 gocoop;30;???
@@ -23941,6 +23967,7 @@ goesbig;50
 goesblank;50
 goesblueintheface;60
 goesby;40
+goesbythebook;60
 goescondo;50
 goesdeaf;50
 goesdowntheline;50
@@ -24055,6 +24082,7 @@ goingbig;50
 goingblank;50
 goingblueintheface;60
 goingby;40
+goingbythebook;60
 goingcondo;50
 goingdeaf;50
 goingdowntheline;50
@@ -37605,8 +37633,12 @@ mew;40;Pokeyman
 mews;40
 mewtwo;50;Pokeyman
 mex;40
+mexicanamerican;60
+mexicancoke;60
+mexicancokes;60
 mexicanmeal;20
 mexicano;50
+mexicotrilogy;60
 mezcal;50
 mezcals;50
 mfa;40
@@ -40327,6 +40359,7 @@ nightmarkets;50
 nightshade;60
 nightshift;50
 nightshifts;50
+nightsinwhitesatin;60
 nightstick;50
 nightwear;50
 nih;40
@@ -42595,6 +42628,7 @@ ontheouts;60
 onthephone;50
 onthepill;50
 ontheplusside;60
+ontherebound;60
 onthered;0
 ontheropes;60
 ontherun;50
@@ -44298,6 +44332,7 @@ passingto;40
 passinterference;60;Football penalty
 passinterferencepenalties;60
 passinterferencepenalty;60
+passiveincome;60
 passline;50
 passlinebet;50
 passmuster;50
@@ -45133,8 +45168,9 @@ petrarch;50
 petrarchan;40
 petrel;40;Seabird
 petrels;40;Seabirds
-petridish;50
-petridishes;50
+petrichor;60;Smell of rain
+petridish;60
+petridishes;60
 petrine;20
 petro;40;Prefix
 petrous;30
@@ -45732,6 +45768,8 @@ pitchedwoo;50
 pitcher;50
 pitcherofbeer;50
 pitchers;50
+pitchersmound;60
+pitchersmounds;60
 pitchersofbeer;50
 pitches;50
 pitchesafit;50
@@ -62447,6 +62485,7 @@ thescales;20
 thescenicroute;20
 thescottishplay;50
 thesea;20
+thesearetryingtimes;60
 theseats;0
 thesecret;20;Woo-woo self-help book
 theseine;30
@@ -62828,7 +62867,7 @@ thracian;30
 thracians;30;Ancient people of southeast Europe
 threadier;30
 threadiest;30
-thready;30
+thready;50
 threeam;50
 threebars;50;Decent signal
 threebears;50
@@ -65293,6 +65332,7 @@ twoirons;50
 twolf;20;Minnesota basketball player?
 twolllama;40
 twolves;20;Minnesota basketball player?
+twombly;40;Painter Cy Twombly
 twoness;20
 twoon;30
 twoone;40
@@ -65302,7 +65342,7 @@ twopast;30
 twopence;30
 twopenny;40;In the dictionary
 twopm;50
-twopointo;30
+twopointo;20;2.0
 tworoom;40
 tworow;20;Green paint
 twoscoops;50
@@ -67906,6 +67946,7 @@ wentbig;50
 wentblank;50
 wentblueintheface;60
 wentby;40
+wentbythebook;60
 wentcondo;50
 wentdeaf;50
 wentdowntheline;50
@@ -68708,6 +68749,7 @@ winterxgames;50
 wintery;20;Less common spelling
 winthewar;50
 wiredto;30
+wirefu;60
 wirelesscharger;50
 wirelessearbuds;50
 wirelessnetwork;50
