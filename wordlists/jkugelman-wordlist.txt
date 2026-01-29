@@ -8888,6 +8888,9 @@ callitintheair;60
 calllog;50
 calllogs;50
 callme;50
+callofdutyblackops;60
+callofdutyghostrecon;60
+callofdutymodernwarfare;60
 callon;40
 callsbackto;40
 callsbullshit;10
@@ -11777,7 +11780,7 @@ coldmeals;50
 coldmud;20;???
 coldopen;60
 coldopens;60
-coldplay;50
+coldplay;60
 coldshower;50
 coldshowers;50
 coldsnap;50
@@ -38334,7 +38337,8 @@ modernest;20;Most modern
 modernman;50
 moderns;30
 modernslang;50
-moderntimes;50
+moderntimes;60
+modernwarfare;60
 modernworld;60
 modesties;30
 modigliani;40;Italian artist Amedeo Modigliani (1884-1920)
@@ -46033,6 +46037,7 @@ playboybunnies;60
 playboybunny;60
 playboyclubs;60
 playboys;50
+playbyear;60
 playchicken;60
 playdate;50
 playdates;50
@@ -46040,6 +46045,7 @@ playdcupid;0
 playedagig;40
 playedarole;60
 playedat;40
+playedbyear;60
 playedchicken;60
 playedfair;50
 playedfor;40
@@ -46065,6 +46071,7 @@ playgroups;50
 playingagig;40
 playingarole;60
 playingat;40
+playingbyear;60
 playingchicken;60
 playingfair;50
 playingfor;40
@@ -46084,6 +46091,7 @@ playon;40
 playsagig;40
 playsarole;60
 playsat;40
+playsbyear;60
 playschicken;60
 playsecondfiddle;60
 playsfair;50
@@ -56446,6 +56454,8 @@ snarly;30
 snatchdefeatfromthejawsofvictory;60
 snatching;50
 snatchvictoryfromthejawsofdefeat;60
+snausage;60
+snausages;60;Dog treats
 snax;40
 snead;40
 sneads;30
