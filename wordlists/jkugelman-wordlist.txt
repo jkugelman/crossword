@@ -58548,6 +58548,7 @@ stentor;30;Loud speaker
 stentors;30;Loud speakers
 stepaunt;50
 stepaunts;40
+stepbystep;60
 stepdance;50
 stepdanced;50
 stepdancer;50
@@ -64103,6 +64104,7 @@ totsy;40;Hotsy-totsy
 totted;30
 totting;30
 totup;30
+touchedbyanangel;60
 touchesupon;50
 touchgrass;60
 touchmenot;60;A.k.a. shameplant
@@ -64414,8 +64416,11 @@ traumata;30;Traumas
 travanti;30
 travelbook;50
 travelbooks;50
+travelbytrain;30;Green paint
 travelchannel;50
+traveledbytrain;30;Green paint
 traveledoverseas;50
+travelingbytrain;30;Green paint
 travelingoverseas;50
 traveller;40
 travellers;40
@@ -64426,6 +64431,7 @@ travelmugs;50
 travelogue;50
 travelogues;50
 traveloverseas;50
+travelsbytrain;30;Green paint
 travelsoverseas;50
 travers;40;Mary Travers of Peter, Paul and Mary
 travertine;30;Type of limestone at hot springs
