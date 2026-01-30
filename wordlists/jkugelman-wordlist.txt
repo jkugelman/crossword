@@ -33127,12 +33127,14 @@ lasermaze;50
 lasermazes;50
 laserpeel;60
 laserpeels;60
-laserpointer;50
-laserpointers;50
-laserprinter;50
-laserprinters;50
-laserrifle;50
-laserrifles;50
+laserpointer;60
+laserpointers;60
+laserprinter;60
+laserprinters;60
+laserprojector;60
+laserprojectors;60
+laserrifle;60
+laserrifles;60
 lasershow;60
 lasershows;60
 lasertag;60
@@ -69601,6 +69603,7 @@ yalemen;30
 yalie;40
 yalies;40
 yallreadyforthis;60
+yaltaconference;60;Major WWII meeting
 yam;50
 yama;30;Hindu god of death
 yamahawaverunner;60
