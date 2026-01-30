@@ -12823,6 +12823,7 @@ countytax;50
 countytaxes;50
 coupdetat;50
 coupdetats;50
+couplescruise;60
 couplesretreat;50
 couplesretreats;50
 coupsdetat;50
@@ -17553,6 +17554,7 @@ eatto;20
 eatup;50
 eatyourheartout;60
 eau;40
+eaudetoilette;60
 eaudevie;40;Eau de vie fruit brandy
 eaurn;20
 eaux;30
@@ -65879,8 +65881,8 @@ undamaged;50
 underbite;50
 underbites;50
 underboob;60
-undercard;50
-undercards;50
+undercard;60
+undercards;60
 undercoverfbiagent;60
 undercoverfbiagents;60
 underdeliver;60
