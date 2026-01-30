@@ -27466,6 +27466,7 @@ honeinon;40
 honesin;40
 honesinon;40
 honestas;30
+honesties;40;Plural?
 honestjohn;50
 honeybadger;60
 honeybadgers;60
@@ -29513,9 +29514,13 @@ ineedalift;60
 ineedanap;60
 ineedaride;60
 ineedavolunteer;60
+ineedawin;60
 ineededthat;60
 ineedit;50
 ineedsomespace;60
+ineedthis;60
+ineedthisok;60
+ineedthisokay;60
 ineedtogo;60
 ineedtowarnyou;60
 ineedyou;60
@@ -33648,7 +33653,7 @@ leers;40
 leersat;40
 leet;40;Leetspeak [rare]
 leetch;30;Who???
-leetspeak;50
+leetspeak;60
 leeves;40;Jane Leeves of "Frasier"
 leftacomment;60
 leftfor;40
@@ -33947,6 +33952,7 @@ letmeaskyouthis;60
 letmefinish;60
 letmego;60
 letmehaveit;60
+letmehavethis;60
 letmehelp;60
 letmein;60
 letmeseethat;60
@@ -64595,9 +64601,9 @@ treehugging;60
 treelet;40;Sapling
 treelets;40
 treeofheaven;50;Plant
-treepose;50
-treering;50
-treerings;50
+treepose;60
+treering;60
+treerings;60
 treeroot;50
 treeroots;50
 trees;50
