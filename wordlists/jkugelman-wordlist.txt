@@ -7153,6 +7153,8 @@ bnatural;50
 bneg;20
 bo;40
 boa;50
+boaconstrictor;60
+boaconstrictors;60
 boardbook;50
 boardbooks;50
 boardgamenight;60
@@ -34261,8 +34263,8 @@ ligation;30
 ligations;30
 ligative;30
 ligeia;20
-liger;40
-ligers;40
+liger;50;Lion/tiger
+ligers;50
 ligeti;40;20th century composer György Ligeti
 lightair;50;1 on the Beaufort wind force scale
 lightbreeze;50;2 on the Beaufort wind force scale
