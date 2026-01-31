@@ -216,6 +216,7 @@ aboutlastnight;60
 aboutpage;60
 aboutpages;60
 aboutschmidt;50
+aboutthat;60
 aboutto;40
 abouttogolive;60
 aboutturn;50
@@ -25166,11 +25167,16 @@ grotesquerie;60
 groton;40
 groundandpound;60;MMA fighting style
 groundbreaking;60
+groundhog;60
+groundhogday;60
+groundhogs;60
 groundscore;60;Something that fell out of someone's pocket, say at a carnival
 groundscores;60
 groundsel;30;Flower
-groupchat;50
-groupchats;50
+groupchat;60
+groupchats;60
+groupshot;60
+groupshots;60
 grouptext;50
 grovers;40;Grover's Corner, "Our Town" setting
 growdim;30;Green paint
@@ -32458,6 +32464,12 @@ knockin;40
 knockingforaloop;60
 knockingitoutofthepark;60
 knockitoutofthepark;60
+knockout;60
+knockoutpunch;60
+knockoutpunches;60
+knockoutround;60
+knockoutrounds;60
+knockouts;60
 knocksforaloop;60
 knocksin;40
 knocksitoutofthepark;60
@@ -32555,16 +32567,16 @@ koopatroopa;60;Mario baddie
 koopatroopas;60
 koostark;40
 kooten;20
-kop;20
+kop;30
 kopek;40
 kopeks;40
 kopje;20;Small hill: South African
 kopjes;20
 koppie;20;Small hill: South African
 koppies;20
-kops;20
-kopunch;50
-kopunches;50
+kops;40
+kopunch;60
+kopunches;60
 kor;20
 koranic;40
 korbut;40;Gymnast Olga Korbut
@@ -46936,6 +46948,16 @@ popupad;60
 popupads;60
 popupbook;60
 popupbooks;60
+popupexhibit;60
+popupexhibition;60
+popupexhibitions;60
+popupexhibits;60
+popupmenu;60
+popupmenus;60
+popupshop;60
+popupshops;60
+popupstore;60
+popupstores;60
 popwheelies;60
 por;40
 porcelaingod;60
@@ -54486,7 +54508,7 @@ setacoursefor;50
 setae;20
 setat;40
 setatop;40
-setboundaries;50
+setboundaries;60
 setdesign;60
 setenta;40
 seteyeson;50
@@ -54510,7 +54532,7 @@ setsacourse;50
 setsacoursefor;50
 setsapr;0
 setsat;40
-setsboundaries;50
+setsboundaries;60
 setseyeson;50
 setsfireto;40
 setshot;50
@@ -54518,24 +54540,26 @@ setshots;50
 setson;40
 setsoneshouseinorder;60
 setsoutfor;40
+setstheclockback;60
 setsthetone;50
 setsto;40
 setsupon;40
-setsupshop;50
+setsupshop;60
 settee;40;Sofa
 settees;40
-settheclockback;50
+settheclockback;60
 setthetone;50
 settingacourse;50
 settingacoursefor;50
-settingboundaries;50
+settingboundaries;60
 settingeyeson;50
 settingfireto;40
 settingoneshouseinorder;60
 settingoutfor;40
+settingtheclockback;60
 settingthetone;50
 settingupon;40
-settingupshop;50
+settingupshop;60
 settledinto;40
 settleinto;40
 settlesinto;40
@@ -54544,7 +54568,7 @@ setto;40
 settop;50
 settos;40
 setupon;40
-setupshop;50
+setupshop;60
 setyourhouseinorder;60
 seurat;50;Pointillist Georges Seurat
 seuss;50
