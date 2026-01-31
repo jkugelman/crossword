@@ -17697,6 +17697,8 @@ ecolodges;30
 econ;40
 econmajor;50
 econmajors;50
+econobox;60;Small, boxy economy car
+econoboxes;60
 economiccrises;60
 economiccrisis;60
 economicpolicies;60
@@ -45200,7 +45202,7 @@ performativemales;60
 perfusion;30;Rate at which blood is delivered to tissue
 pergola;40;Gazebo relative
 pergolas;40
-peri;30
+peri;40;Peri Gilpin of "Frasier", or a prefix
 perianth;30;Flower part
 pericarp;40;Seed layer
 perigeal;40;Related to the perigee
