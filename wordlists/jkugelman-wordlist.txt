@@ -593,6 +593,8 @@ actionitems;60
 actionmovie;60
 actionmovies;60
 actionpacked;60
+actionsetpiece;60
+actionsetpieces;60
 actionstar;50
 actionstars;50
 actium;20;Greek battle site
@@ -11391,6 +11393,8 @@ clorets;40;Gum/mint brand
 cloris;40;Actress Cloris Leachman
 closecall;60
 closecalls;60
+closedbeta;60
+closedbetas;60
 closeddebate;60
 closeddebates;60
 closeddoor;50
@@ -17521,7 +17525,7 @@ eaters;40
 eateth;40
 eatfat;20
 eatfortwo;60
-eatfresh;50
+eatfresh;60;Subway slogan
 eatfrom;40
 eathealthy;50
 eathighoffthehog;60
@@ -18032,6 +18036,8 @@ ekistics;30;Science of human settlements
 eku;20
 el;40
 ela;20
+elaboratesetpiece;60
+elaboratesetpieces;60
 elainebenes;50
 elaines;30
 elal;50
@@ -36194,6 +36200,8 @@ majorprophet;50
 majorprophets;50
 majorsecond;50
 majorseconds;50
+majorsetpiece;60
+majorsetpieces;60
 majorseven;50
 majorseventh;50
 majorsin;40
@@ -42681,8 +42689,8 @@ ones;50
 onescoop;50
 onese;20
 onesecond;50
-oneseed;50
-oneseeds;50
+oneseed;60
+oneseeds;60
 oneset;30
 onesgoldenyears;0
 oneshare;30
@@ -42948,6 +42956,8 @@ openandshutcase;60
 openandshutcases;60
 openbar;50
 openbars;50
+openbeta;60
+openbetas;60
 openbook;50
 openbooks;50
 opendata;40;???
@@ -54532,6 +54542,8 @@ setoneshouseinorder;60
 setons;30;Family name
 setose;20;Bristly
 setoutfor;40
+setpiece;60
+setpieces;60
 setpoint;50
 setpoints;50
 setsacourse;50
@@ -66101,6 +66113,7 @@ unimodal;40
 unimodality;40
 unimoon;40;Solo honeymoon
 unimoons;40
+uninominal;40;One-member
 unionohio;30
 unionorganizers;50
 unionspies;50
