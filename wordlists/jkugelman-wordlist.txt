@@ -2252,6 +2252,7 @@ amis;40
 amisupposedtocare;60
 amities;30
 amitoolate;60
+amityville;60
 amiup;60
 amiwrong;60
 amman;40;Capital of Jordan
@@ -4296,8 +4297,8 @@ audra;40;Audra McDonald of Broadway
 audre;40;Feminist author Audre Lorde
 audubonsociety;50
 aue;20
-auel;30;"The Clan of the Cave Bear" author Jean
-auer;30;Violinist Leopold Auer
+auel;40;"The Clan of the Cave Bear" author Jean
+auer;40;Violinist Leopold Auer
 auerbach;40;Dan Auerbach of The Black Keys, or German scholar Erich Auerbach
 auf;20
 aufait;40;Well-informed
@@ -5470,6 +5471,7 @@ bataneyelid;60
 batcave;60
 batcaves;50
 batchit;0
+batcleanup;60
 batday;50
 bate;30;Awkward to not be "bated"
 bateau;40;Boat
@@ -5532,6 +5534,7 @@ batrack;50
 batracks;50
 batsaneyelash;60
 batsathousand;60
+batscleanup;60
 batsin;40
 batsnext;50
 batsoneseyes;60
@@ -5540,6 +5543,7 @@ batsuit;60
 batsuits;60
 battedaneyelash;60
 battedathousand;60
+battedcleanup;60
 battedin;40
 battedoneseyes;60
 batter;50
@@ -5552,6 +5556,7 @@ batterseapowerstation;60
 battery;50
 batterycharge;50
 batterylife;50
+battingcleanup;60
 battingin;40
 battingoneseyes;50
 battleax;60
@@ -13085,6 +13090,8 @@ crawledin;40
 crawlin;40
 crawlingin;40
 crawlsin;40
+crawlspace;60
+crawlspaces;60
 craycray;60
 crays;30
 crazyharry;50;Muppet
@@ -14245,6 +14252,8 @@ dayofthelord;60;Apocalyptic event considered by the prophets in the Hebrew Bible
 dayoldbread;60;French toast ingredient
 dayone;50
 dayones;40
+dayplanner;60
+dayplanners;60
 daysend;50
 daysofrest;60
 daystocome;50
@@ -18702,7 +18711,7 @@ enslaves;40
 ensler;40;Eve Ensler who wrote "The Vagina Monologues"
 ensnarer;40
 ensnarers;40
-ensor;30;James Ensor, Belgian artist in late 1800s
+ensor;40;James Ensor, Belgian artist in late 1800s
 ensoul;30
 ensouled;30
 ensouling;30
@@ -33334,6 +33343,7 @@ laundresses;40
 laurales;30;Flower order
 lauras;30;Plural name
 laurasia;30;Part of Pangaea
+laurelandhardy;60
 lausanne;40;Swiss city
 lav;40
 lavabo;20;Ritual wall basin
@@ -42307,6 +42317,7 @@ olines;40
 olingo;20
 olive;50
 olivedrab;50
+oliverhardy;60
 olivers;30
 olivetree;50
 olivetrees;50
@@ -49368,6 +49379,7 @@ readthatbacktome;60
 readto;40
 readwriteerrors;30
 readyasilleverbe;60
+readyornot;60
 readyroom;50
 readyrooms;50
 readysetgo;60
@@ -53294,6 +53306,7 @@ scarpers;50
 scarpia;30;Villain of the Puccini opera "Tosca"
 scarps;30
 scarygood;60
+scarymovie;60
 scaryspice;60
 scatsinger;50
 scatsingers;50
@@ -54728,6 +54741,7 @@ shakshuka;50;African poached egg dish
 shakti;20
 shalamar;40;Old R&B group
 shalane;40;Olympic runner Shalane Flanagan
+shallwesay;60
 shalomaleichem;60;Hebrew greeting
 sham;50
 shambolic;60
@@ -57645,7 +57659,12 @@ speer;20;Nazi Albert Speer
 speleologist;40
 speleologists;40
 speleology;40;Study of caves
+spellbind;60
+spellbinded;60
+spellbinder;60
+spellbinders;60
 spellbinding;60
+spellbinds;60
 spellbound;60
 spellcaster;60
 spellcasters;60
@@ -58305,6 +58324,7 @@ stangs;40
 stanine;40;"Standard nine" test scoring system
 stankat;40
 stanky;20;Baseball player Eddie Stanky
+stanlaurel;60
 stanlee;60
 stanleys;30
 stanmusial;50
