@@ -26048,10 +26048,10 @@ harperlee;50
 harpingon;40
 harpon;40
 harpson;40
-harrierjet;50
-harrierjets;50
-harrierjumpjet;50
-harrierjumpjets;50
+harrierjet;60
+harrierjets;60
+harrierjumpjet;60
+harrierjumpjets;60
 harriman;30;Old politician W. Averell Harriman
 harrisburgpa;40
 harrisonford;60
@@ -50530,23 +50530,26 @@ republicans;50
 req;40
 reqd;40
 reqs;40
-rerake;20
+rerake;30
+reraked;30
+rerakes;30
+reraking;30
 rerate;30
 rerated;30
 rerates;30
 rerating;30
 reredos;20;Screen at the back of an altar
 reredoses;20;Screens at the back of an altar
-rerinse;20
-rerinsed;20
-rerinses;20
-rerinsing;20
+rerinse;40
+rerinsed;40
+rerinses;40
+rerinsing;40
 rerise;20
 rerode;20
-reroof;20
-reroofed;20
-reroofing;20
-reroofs;20
+reroof;40
+reroofed;40
+reroofing;40
+reroofs;40
 reroot;20
 rerose;20
 res;40;Hi-res, or Latin word e.g. in media res
