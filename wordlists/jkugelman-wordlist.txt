@@ -16920,7 +16920,7 @@ droolingon;40
 droolon;40
 droolson;40
 dropabeat;50
-dropacid;50
+dropacid;60
 dropacomment;60
 dropacommentdownbelow;60
 dropahint;50
@@ -16939,7 +16939,7 @@ dropleaftables;50
 droplikeflies;60
 droponesaitches;30
 droppedabeat;50
-droppedacid;50
+droppedacid;60
 droppedacomment;60
 droppedahint;50
 droppedbars;60
@@ -16950,7 +16950,7 @@ droppedthebanhammer;60
 droppedthebanhammeron;60
 droppedtrou;60
 droppingabeat;50
-droppingacid;50
+droppingacid;60
 droppingacomment;60
 droppingahint;50
 droppingbars;60
@@ -16963,7 +16963,7 @@ droppingtrou;60
 droppoint;60
 droppoints;60
 dropsabeat;50
-dropsacid;50
+dropsacid;60
 dropsacomment;60
 dropsahint;50
 dropsbars;60
@@ -56080,9 +56080,9 @@ skilessons;50
 skilledlabor;50
 skillissue;60
 skilly;30
-skillz;20
-skilodge;50
-skilodges;50
+skillz;40
+skilodge;60
+skilodges;60
 skimask;50
 skimasks;50
 skinemax;60
