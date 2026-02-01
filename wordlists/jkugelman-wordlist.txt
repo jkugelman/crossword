@@ -9861,6 +9861,8 @@ catpeople;50
 catperson;50
 catpose;50
 catrenee;20
+catrescue;60
+catrescues;60
 catscanner;50
 catscanners;50
 catsgames;0
@@ -14356,8 +14358,8 @@ deadbatteries;60
 deadbattery;60
 deadbeat;60
 deadbeats;60
-deadbodies;50
-deadbody;50
+deadbodies;40
+deadbody;40
 deadcalm;50
 deadcenter;50
 deadend;60
@@ -53996,6 +53998,8 @@ seedman;30;Seed merchant
 seedmen;30;Seed merchant
 seedmoney;50
 seedollarsigns;60
+seedpacket;60
+seedpackets;60
 seedsman;30;Seed merchants
 seedsmen;30;Seed merchants
 seeeyetoeye;60
@@ -54176,14 +54180,14 @@ selfabnegation;50
 selfabsorbed;50
 selfabsorption;50
 selfabuse;40
-selfaware;50
-selfawareness;50
-selfdeprecating;50
-selfdoubt;50
+selfaware;60
+selfawareness;60
+selfdeprecating;60
+selfdoubt;60
 selfdriving;60
-selfesteem;50
-selfevident;50
-selfguided;50
+selfesteem;60
+selfevident;60
+selfguided;60
 selfhate;40
 selfhatred;40
 selfhelp;60
@@ -54194,7 +54198,7 @@ selfie;60
 selfies;60
 selfiestick;60
 selfiesticks;60
-selfimposed;50
+selfimposed;60
 selfmademan;60
 selfmademen;60
 selfown;60
@@ -54209,7 +54213,7 @@ selfreports;60
 selfrising;60
 selfrisingflour;60
 selfrisingflours;60
-selfworth;50
+selfworth;60
 selgris;30;French sea salt
 selig;40;Bud Selig
 selim;20;Ottoman sultan
