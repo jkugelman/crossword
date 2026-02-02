@@ -54602,6 +54602,12 @@ sessatimed;0
 sesse;20
 sessile;30;Immobile, as a plant
 sessional;40
+sessionale;60
+sessionales;60
+sessionbeer;60
+sessionbeers;60
+sessionipa;60
+sessionipas;60
 sessionmusician;60
 sesterce;20;Roman coin
 sestertius;20;Roman coin
@@ -55750,6 +55756,7 @@ simonlegree;50
 simons;30;Plural name
 simony;30
 simoom;30;???
+simoon;20
 simp;10
 simpatico;60
 simped;10
