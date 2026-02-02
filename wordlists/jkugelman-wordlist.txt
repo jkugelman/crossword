@@ -8276,6 +8276,7 @@ buckledown;60
 bucklesdown;60
 buckleupitsthelaw;60
 bucklingdown;60
+buckrogers;60
 bucksaw;50
 bucksaws;50
 bucksforapromotion;50
@@ -9430,6 +9431,8 @@ cardcounters;60
 cardcounting;60
 carddealer;50
 carddealers;50
+cardealer;60
+cardealers;60
 carden;40;???
 carder;30
 carders;30
@@ -17181,9 +17184,9 @@ duebill;30
 duebills;30
 duenna;20;Spanish escort
 duennas;20
-dueprocess;50
-dueprocessclause;50
-dueprocessoflaw;50
+dueprocess;60
+dueprocessclause;60
+dueprocessoflaw;60
 duetime;30
 dueto;40
 duffbeer;60
@@ -33086,6 +33089,8 @@ landlines;50
 landlockedwater;0
 landmanagement;50
 landon;40
+landrover;60
+landrovers;60
 landru;20
 landsat;40
 landsharks;50
@@ -37369,6 +37374,8 @@ meathook;50
 meathooks;60
 meatlocker;60
 meatlockers;60
+meatlover;60
+meatlovers;60
 meatrub;50
 meatrubs;50
 meatskewer;50
@@ -47185,8 +47192,14 @@ potatoe;20;Dan Quayle's misspelling
 potatohead;60
 potatorace;60
 potatoraces;60
+potatosackrace;60
+potatosackraces;60
+potboiler;60
+potboilers;60
 potboy;40;Boy who serves drinks in a tavern
 potboys;40
+potdealer;60
+potdealers;60
 potdispensaries;50
 potdispensary;50
 potedible;50
@@ -52621,6 +52634,11 @@ sackdress;60
 sackdresses;60
 sacker;50
 sackers;50
+sackrace;60
+sackracer;60
+sackracers;60
+sackraces;60
+sackracing;60
 saclike;30
 sacra;30;Lower back bones
 sacramentoca;30
@@ -67501,6 +67519,10 @@ voicecommands;50
 voicemailbox;50
 voicemailboxes;50
 voiceofamerica;50
+voiceover;60
+voiceoverartist;60
+voiceoverartists;60
+voiceovers;60
 voicer;40
 voicers;40
 voidance;40
@@ -70358,6 +70380,7 @@ youreallsettogo;60
 yourealwayswelcome;60
 yourealwayswelcomehere;60
 youreameanonemrgrinch;60
+youreamess;60
 youreaskingforit;60
 youreastar;60
 yourebad;60
