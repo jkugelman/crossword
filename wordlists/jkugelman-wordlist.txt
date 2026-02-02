@@ -26011,6 +26011,8 @@ hardmode;60
 hardpass;60
 hardpilltoswallow;60
 hardr;50;Movie rating, or phonetic (eep)
+hardreboot;60;Like in a movie series
+hardreboots;60
 hardrefresh;60;Reloading a tab while also clearing its cache/cookies
 hardreset;60
 hardroe;40
@@ -57143,6 +57145,8 @@ softmoney;50
 softon;40
 softpretzel;50
 softpretzels;50
+softreboot;60;Like in a movie series
+softreboots;60
 softreset;60
 softresets;60
 softrock;60
