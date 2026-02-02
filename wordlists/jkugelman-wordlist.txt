@@ -43878,7 +43878,7 @@ overtimewin;50
 overtimewins;50
 overtoyou;60
 overyonder;50
-ovi;20
+ovi;30;Egg: Prefix, or Alex Ovechkin nickname
 oviedo;30;Spanish city
 ovine;30;Sheep-related
 ovines;40;???
@@ -59189,10 +59189,10 @@ stolenvalor;60
 stoleon;20
 stoleupon;40
 stolga;40
-stoli;50;Vodka
+stoli;40;Vodka
 stolider;20
 stolidest;20
-stolis;30;Weird plural
+stolis;40
 stolle;30;Fred Stolle, 1966 U.S. Open tennis champion
 stollen;40;Fruit bread
 stollens;40
@@ -69230,6 +69230,8 @@ wisdomteeth;50
 wisdomtooth;50
 wisdomtree;50
 wisdomtrees;50
+wiseacre;60
+wiseacres;60
 wiseass;60
 wiseasses;60
 wiseassolomon;60
@@ -69601,6 +69603,7 @@ wuxia;40;Genre of Chinese fiction concerning the adventures of martial artists i
 wva;40
 wvu;40
 wwe;40
+wweraw;60
 wwf;40
 wwi;50
 wwiera;40
