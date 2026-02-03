@@ -17115,7 +17115,7 @@ dsw;30;Used in USAT/LAT, but not NYT
 dtier;50
 dtrain;40
 dts;20
-dua;50
+dua;40
 duad;30
 duads;30
 dualcitizen;50
@@ -53643,6 +53643,7 @@ scotfree;60
 scotti;30;Baritone Antonio Scotti
 scottishaccent;60
 scottishaccents;60
+scotto;30;Soprano Renata Scotto
 scottrudin;50;EGOT-winning producer Scott Rudin
 scourer;30
 scourers;30
@@ -64774,10 +64775,12 @@ trainingmontage;60
 trainingmontages;60
 trainman;40;Member of a train crew
 trainmen;40
+trainofthought;60
 trainor;40;Singer Meghan Trainor
 trainset;50
 trainsets;50
 trainsfor;40
+trainsofthought;60
 trainyard;60
 trainyards;60
 trajan;40;Roman emperor
