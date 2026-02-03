@@ -16879,6 +16879,10 @@ drivesat;40
 driveshaft;50
 driveshafts;50
 drivesin;40
+drivesstick;60
+drivesstickshift;60
+drivestick;60
+drivestickshift;60
 drivetrain;50
 drivetrains;50
 drivingat;40
@@ -16886,6 +16890,8 @@ drivingdistance;50
 drivingin;40
 drivinginstructor;50
 drivinginstructors;50
+drivingstick;60
+drivingstickshift;60
 drivingwhileblack;60
 drizzlecake;50
 drizzlecakes;50
@@ -17000,6 +17006,8 @@ drosera;30;Sundew genus
 drosophila;30;Fruit fly genus
 droveat;40
 drovein;40
+drovestick;60
+drovestickshift;60
 drowner;40
 drowners;40
 droz;50
@@ -59095,7 +59103,10 @@ stickle;40
 stickofgum;50
 stickon;40
 stickonesnosein;60
-stickshift;50
+sticksandstones;60
+sticksandstonesmaybreakmybones;60
+stickshift;60
+stickshifts;60
 sticksitto;40
 sticksittotheman;60
 sticksofgum;50
