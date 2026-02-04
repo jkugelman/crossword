@@ -7190,8 +7190,13 @@ boaconstrictor;60
 boaconstrictors;60
 boardbook;50
 boardbooks;50
+boardgame;60
+boardgamecafe;60
+boardgamecafes;60
+boardgamegeek;60
 boardgamenight;60
 boardgamenights;60
+boardgames;60
 boardingparties;50
 boardingpass;50
 boardingschool;60
@@ -7830,6 +7835,7 @@ bract;20;Botany word
 bracted;20;Botany word
 bracts;20;Botany word
 bradbird;50
+bradybunch;60
 brae;20;Scottish hillside
 braes;20;Scottish hillsides
 braff;50
@@ -34517,6 +34523,7 @@ likegreasedlightning;60
 likehotcakes;60
 likeisaid;60
 likeitmatters;60
+likeitornot;60
 likemagic;60
 likenedto;40
 likeningto;40
@@ -34526,8 +34533,9 @@ likeoras;0
 likeshareandsubscribe;60
 likesto;40
 liketakingcandyfromababy;60
+likethedickens;60
 liketo;40
-likewaterforchocolate;50
+likewaterforchocolate;60
 likeyouwouldntbelieve;60
 likud;30;Israeli right-wing political party
 lil;50
@@ -43519,6 +43527,7 @@ oscarii;30
 oscarnod;60
 oscarnods;60
 oscars;50
+oscarthegrouch;60
 osceola;30;FSU mascot
 oscine;20;Songbird
 oscines;20;Songbirds
@@ -54668,6 +54677,7 @@ sesameseedbagel;60
 sesameseedbagels;60
 sesameseeds;60
 sesamest;40;Sesame St.
+sesamestreet;60
 sesenta;40
 sesh;40
 sessatimed;0
@@ -62414,6 +62424,7 @@ thebottomline;50
 theboxerrebellion;40
 theboyandtheheron;60;Studio Ghibli movie
 theboysarebackintown;60
+thebradybunch;60
 thebraves;40
 thebrewers;40
 thebritishfilmacademy;60
@@ -63120,6 +63131,7 @@ thetowerofbabel;60
 thetowerofhanoi;60
 thetoweroflondon;60
 thetowerofterror;60
+thetravelingwilburys;60
 thetremeloes;40;1960s beat group (?)
 thetrib;20
 thetribe;50;???
@@ -64924,8 +64936,11 @@ travelbytrain;30;Green paint
 travelchannel;50
 traveledbytrain;30;Green paint
 traveledoverseas;50
+travelguide;60
+travelguides;60
 travelingbytrain;30;Green paint
 travelingoverseas;50
+travelingwilburys;60
 traveller;40
 travellers;40
 travellerscheck;20
