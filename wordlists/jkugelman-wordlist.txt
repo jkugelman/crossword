@@ -2643,6 +2643,7 @@ ann;50
 annalist;40;Historian who writes annals
 annalists;40
 annan;40
+annanicolesmith;60
 annao;20
 annasten;40;1930s actress Anna Sten
 annatorv;50
@@ -2660,6 +2661,7 @@ anni;30
 anniehall;60
 annies;40;Health food brand
 annika;40
+annikasorenstam;60
 annlee;40
 anno;40
 annoyer;30
@@ -4254,6 +4256,7 @@ atteststo;40
 attestto;40
 attheasscrackofdawn;60
 atthebat;30;Awkward
+atthedropofahat;60
 attheendof;40
 attheendoftheday;60
 atthehalf;50
@@ -4528,6 +4531,8 @@ awholenother;60
 awinisawin;60
 awinsawin;60
 awiseguyeh;60
+awisemanoncesaid;60
+awisepersononcesaid;60
 awk;20
 awl;50
 awman;60
@@ -5004,17 +5009,18 @@ balky;40
 ballantrae;20;Scottish town
 ballclub;50
 ballclubs;50
-balletcompanies;50
+balletcompanies;60
+balletcompany;60
 balletdancer;60
 balletdancers;60
-balletflat;50
-balletflats;50
+balletflat;60
+balletflats;60
 balletmovement;50
 balletmovements;50
-ballgown;50
-ballgowns;50
-ballisticstest;50
-ballisticstests;50
+ballgown;60
+ballgowns;60
+ballisticstest;60
+ballisticstests;60
 balljoint;50
 balljoints;50
 ballondor;60
@@ -5578,18 +5584,18 @@ battingin;40
 battingoneseyes;50
 battleax;60
 battlecreekmi;40
-battlecreekmich;20
-battleformation;50
-battleformations;50
-battleofbritain;50
-battleofbullrun;50
-battleofbunkerhill;50
+battlecreekmich;40
+battleformation;60
+battleformations;60
+battleofbritain;60
+battleofbullrun;60
+battleofbunkerhill;60
 battleofhastings;50
-battleofhelmsdeep;50
-battleofmidway;50
+battleofhelmsdeep;60
+battleofmidway;60
 battleofnormandy;50
 battleofthebands;60
-battleofthebulge;50
+battleofthebulge;60
 battleofthenile;50
 battleofthesexes;60
 battleofthesinai;50
@@ -6055,6 +6061,7 @@ befooled;20
 befooling;20
 befools;30
 befor;20
+beforecommonera;60
 beforeigo;60
 beforeyouanswer;60
 beforeyourushtojudgment;60
@@ -6316,6 +6323,7 @@ betterangel;60
 betterangels;60
 betterat;40
 betterbelieveit;60
+bettermousetrap;60
 betternot;60
 betteryet;60
 bettingon;40
@@ -7496,6 +7504,11 @@ bookworms;60
 boola;20;Part of a Yale cheer
 boolaboola;30;Yale cheer
 boole;40
+booleanexpression;60
+booleanexpressions;60
+booleanlogic;60
+booleanoperator;60
+booleanoperators;60
 boomandbust;60
 boomandbustcycle;60
 boombust;60
@@ -8354,6 +8367,7 @@ bugspray;60
 bugsprayer;50
 bugsprayers;50
 bugsprays;60
+buildabettermousetrap;60
 buildaconsensus;50
 buildafire;50
 buildconsensus;60
@@ -10735,6 +10749,7 @@ chickenkyiv;60
 chickennugget;60
 chickennuggets;60
 chickenofthesea;60
+chickenortheegg;60
 chickenout;60
 chickenskewer;50
 chickenskewers;50
@@ -10779,6 +10794,16 @@ childbirths;60
 childhoodmemories;60
 childhoodmemory;60
 childlikewonder;60
+childproof;60
+childproofcap;60
+childproofcaps;60
+childproofed;60
+childproofing;60
+childprooflid;60
+childprooflids;60
+childprooflock;60
+childprooflocks;60
+childproofs;60
 childrensmuseum;50
 childstar;50
 childstars;50
@@ -11120,6 +11145,14 @@ cineast;50;Movie buff
 cineaste;50;Movie buff
 cineastes;50
 cineasts;50
+cinematograph;50
+cinematographer;60
+cinematographers;60
+cinematographic;60
+cinematographies;60
+cinematography;60
+cinemaverite;60
+cinemax;60
 cineol;20
 cineraria;30
 cinerarium;30
@@ -11433,6 +11466,8 @@ closecall;60
 closecalls;60
 closedbeta;60
 closedbetas;60
+closedbookexam;60
+closedbookexams;60
 closeddebate;60
 closeddebates;60
 closeddoor;50
@@ -13792,12 +13827,15 @@ cutdown;50
 cutdowntosize;60
 cutey;30
 cuteys;30
+cuthersomeslack;60
+cuthimsomeslack;60
 cutiepie;60
 cutiepies;60
 cutinon;40
 cutinto;40
 cutman;50;Fighter's corner person
 cutmen;50
+cutmesomeslack;60
 cutnoice;30
 cutonesteethon;60
 cutopen;50
@@ -15114,6 +15152,10 @@ detectivepikachu;60
 detectives;50
 detecto;30;Scale manufacturer
 detent;20
+detentioncenter;50
+detentioncenters;50
+detentioncentre;20
+detentioncentres;20
 detents;20
 deterge;40
 deterged;40
@@ -16297,6 +16339,7 @@ dontbe;60
 dontbeafool;60
 dontbeahog;60
 dontberude;60
+dontbesoliteral;60
 dontbethatguy;60
 dontblockthebox;60
 dontbother;60
@@ -20402,6 +20445,7 @@ fattenup;50
 fatties;10
 fattytuna;60
 fatwallet;60
+faultinourstars;60
 faultline;50
 faultlines;50
 faunae;30
@@ -21814,6 +21858,8 @@ foolin;40
 foolingaround;50
 foolmeonce;60
 foolproof;60
+foolproofmethod;60
+foolproofmethods;60
 foolsaround;50
 foolscap;50
 foolserrand;60
@@ -22626,6 +22672,7 @@ fusionjazz;50
 fussbudget;60
 fussbudgets;60
 fut;20
+futurenostalgia;60;Dua Lipa's second album, Grammy winner
 futurescontract;50
 futzaround;50
 futzedaround;50
@@ -29150,6 +29197,7 @@ ime;20
 imeancmon;60
 imeanit;60
 imeanto;50
+imeanttotellyou;60
 imeantwhatisaid;60
 imeanwhatisaid;60
 imeanyou;60
@@ -36851,7 +36899,7 @@ mariobatali;10;Sexual assault
 mariobros;60
 mariokart;60
 mariolanza;50;Hollywood tenor
-marioncotillard;50
+marioncotillard;60
 marioncrane;60;"Psycho" protagonist
 marionravenwood;60
 marioparty;60
@@ -39775,6 +39823,7 @@ namechecks;60
 namedto;40
 nameone;60
 namer;40
+namerecognition;60
 namers;40
 namesto;40
 nameto;40
@@ -43095,6 +43144,8 @@ openbars;50
 openbeta;60
 openbetas;60
 openbook;50
+openbookexam;60
+openbookexams;60
 openbooks;50
 opendata;40;???
 opendebate;50
@@ -44167,6 +44218,7 @@ paidonesfairshare;50
 paidretail;50
 paidthetab;50
 paidto;40
+paidtopdollar;60
 paigebuckets;50;Nickname for Page Bueckers of the WNBA
 paigebueckers;50;Page Bueckers of the WNBA
 paine;40
@@ -44890,6 +44942,7 @@ payingonesfairshare;50
 payingretail;50
 payingthetab;50
 payingto;40
+payingtopdollar;60
 payinto;40
 paynes;30;Plural last name
 paynim;20;Heathen, archaic
@@ -44908,10 +44961,12 @@ paysonesfairshare;50
 paysretail;50
 paysthetab;50
 paysto;40
+paystopdollar;60
 paythetab;50
 payto;40
 paytoilet;60
 paytoilets;60
+paytopdollar;60
 paz;40
 pba;30;Professional Bowlers Association
 pbj;50;Peanut butter and jelly
@@ -45096,6 +45151,7 @@ pee;40;Pee-wee Herman
 peed;10
 peedee;30;Carolina river
 peeing;10
+peekabooiseeyou;60
 peekat;40
 peekedat;40
 peekedin;40
@@ -46490,6 +46546,7 @@ pleasedont;60
 pleasedtomeetyou;60
 pleaseenjoy;60
 pleasefeelfree;60
+pleaseforgiveme;60
 pleaseimeating;60;"Gross!"
 pleaseimeatinghere;60;"Gross!"
 pleaseimtryingtoeat;60;"Gross"
@@ -50429,6 +50486,7 @@ remainingintheloop;50
 remainintheloop;50
 remainsat;40
 remainsintheloop;50
+remainsoftheday;60
 reman;30
 remanned;30
 remanning;30
@@ -52390,6 +52448,7 @@ ruledon;40
 rulemaker;50
 rulemakers;50
 ruleoflaw;50
+ruleofthirds;60
 ruleon;40
 rulership;40
 ruleson;40
@@ -54452,6 +54511,8 @@ sendingoff;40
 sendingon;40
 sendingout;40
 sendingto;40
+sendmenoflowers;60
+sendmenowine;60
 sendmoney;30;???
 sendoff;50
 sendon;40
@@ -57406,6 +57467,7 @@ somebodyfinallysaidit;60
 somebodyoncetoldme;60
 somenerveyouhave;60
 somenerveyouvegot;60
+someoneoncesaid;60
 somers;40
 somethingdoesntaddup;60
 somethingofacharacter;60
@@ -62218,6 +62280,7 @@ thatsabovemypaygrade;60
 thatsadickmove;60
 thatsafinehowdoyoudo;60
 thatsagiven;60
+thatsagoodpoint;60
 thatsaid;60
 thatsakeeper;60
 thatsalie;60
@@ -62244,6 +62307,7 @@ thatsenough;50
 thatsfair;60
 thatsfinal;60
 thatsgenius;60
+thatsgoodtoknow;60
 thatsgreat;60
 thatshim;40;Green paint?
 thatshiphassailed;60
@@ -62472,6 +62536,7 @@ thechariot;60;Tarot card
 thecharitystripe;20
 thecharlesriver;20
 thechase;40;1966 Brando-Redform film
+thechickenortheegg;60
 thechilites;50;1970s R&B group
 thechoiceisclear;60
 thecia;20
@@ -62586,6 +62651,7 @@ thefat;40
 thefateofthefurious;60
 thefates;60
 thefatoftheland;60
+thefaultinourstars;60
 thefbi;20
 thefbibuilding;30
 thefda;20
@@ -62954,6 +63020,7 @@ thereisaidit;60
 thereisnochoice;60
 thereisnosilverbullet;60
 thereitis;60
+theremainsoftheday;60
 theremustbeamistake;60
 theremustbesomemistake;60
 therent;20
@@ -63022,6 +63089,7 @@ theroux;50;Actor Justin Theroux
 theroyalfamily;20
 theroyalmint;20
 theroyalnavy;20
+theruleofthirds;60
 therumdiary;60;Hunter S. Thompson book
 therussianmob;40
 therussobrothers;60;Directing duo notable for their work on the Avengers franchise
@@ -67652,7 +67720,7 @@ vomitory;40;Stadium entrance
 vomits;10
 von;40
 vonda;30
-vonmaur;50
+vonmaur;20;Department store (36 locations)
 vonrichthofen;40;Manfred von Richthofen, the Red Baron
 vonrothbart;40;Swan Lake sorcerer
 voo;20
