@@ -16353,6 +16353,7 @@ dontdelayactnow;60
 dontdespair;60
 dontdillydally;60
 dontdothat;60
+dontdrinkanddrive;60
 donterase;60
 dontforgettosmackthatbell;60
 dontfreakout;60
@@ -16917,7 +16918,7 @@ drinksthekoolaid;60
 drinksto;40
 drinkthekoolaid;60
 drinkto;40
-drinktoexcess;10
+drinktoexcess;50
 drippot;50
 drippots;50
 drippricing;60
@@ -24713,6 +24714,8 @@ goroundincircles;60
 gorp;40;Trail mix
 gos;20
 gosee;30
+goshawk;30;Bird
+goshawks;30
 goshdang;60
 goshdarn;60
 goshdarnit;60
@@ -33925,6 +33928,7 @@ leftwingpolitics;50
 leg;50
 legalbattle;60
 legalbattles;60
+legaldrinkingage;60
 legalese;50
 legalguardian;50
 legalguardians;50
@@ -34505,6 +34509,7 @@ lifestages;50
 lifestory;50
 lifestylecenter;60;Open-air shopping center
 lifestylecenters;60
+lifestylecreep;60
 lifetheuniverseandeverything;60
 liftticket;60
 lifttickets;60
@@ -38507,8 +38512,8 @@ miwok;40;Yosemite tribe
 mix;50
 mixedcompany;50
 mixeddoubles;50
-mixeddrink;50
-mixeddrinks;50
+mixeddrink;60
+mixeddrinks;60
 mixedemotions;50
 mixedfeelings;60
 mixedfruit;50
@@ -38680,6 +38685,8 @@ models;50;They might say "Take your best shot!"
 modelun;60
 modena;30;Italian city
 moderatebreeze;50;4 on the Beaufort wind force scale
+moderatedrinker;50
+moderatedrinkers;50
 modernart;50
 moderner;20
 modernest;20;Most modern
@@ -49041,25 +49048,31 @@ rainydayfund;60
 rainydayfunds;60
 raisa;20;Mrs. Gorbachev
 raiseaglass;60
+raisearedflag;60
 raiseawareness;50
 raiseawarenessof;50
 raisedaglass;60
+raisedaredflag;60
 raisedawareness;50
 raisedawarenessof;50
 raisedeyebrow;50
 raisedhell;60
+raisedredflags;60
 raisedthecurtain;50
 raisedtheroof;50
 raisedthesubject;50
 raisedthesubjectof;50
 raisehell;60
 raiser;40
+raiseredflags;60
 raisers;40
 raisesaglass;60
+raisesaredflag;60
 raisesawareness;50
 raisesawarenessof;50
 raisesheep;50
 raiseshell;60
+raisesredflags;60
 raisesthecurtain;50
 raisestheroof;50
 raisesthesubject;50
@@ -49073,9 +49086,11 @@ raisinbagels;60
 raisinbran;60
 raisinbread;60
 raisingaglass;60
+raisingaredflag;60
 raisingawareness;50
 raisingawarenessof;50
 raisinghell;60
+raisingredflags;60
 raisingthecurtain;50
 raisingtheroof;50
 raisingthesubject;50
@@ -52271,6 +52286,8 @@ roundfaceshape;60
 roundfaceshapes;60
 roundkick;40
 roundkicks;40
+roundofdrinks;60
+roundsofdrinks;60
 roundtheseparts;60
 rouser;40;Rabble ___
 rousers;40
@@ -65350,10 +65367,15 @@ trophyhunter;60
 trophyhunters;60
 trophyhunting;60
 trophyhunts;60
-tropicalbeach;50
-tropicalbeaches;50
-tropicaldrink;50
-tropicaldrinks;50
+tropicalbeach;60
+tropicalbeaches;60
+tropicalcountries;60
+tropicalcountry;60
+tropicaldrink;60
+tropicaldrinks;60
+tropicalfish;60
+tropicalfruit;60
+tropicalfruits;60
 tropine;20;Chemical
 tropism;30;Turning of a plant towards sunlight
 troppo;40
@@ -65975,6 +65997,8 @@ twocar;50
 twocents;50
 twodashes;30
 twodots;20
+twodrinkminimum;60
+twodrinkminimums;60
 twoem;20
 twoiron;50
 twoirons;50
@@ -68547,6 +68571,8 @@ wellbequiet;60
 wellbred;50
 welldang;60
 welldocumented;50
+welldrink;60
+welldrinks;60
 welleatyouforbreakfast;60
 wellexcusemeprincess;60
 wellexcuuuuseme;60
