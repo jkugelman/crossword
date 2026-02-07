@@ -15423,7 +15423,10 @@ diedadeath;50
 diedon;30;Awkward to clue
 diegan;40;San Diegan
 diehard;60
-dieharder;50
+dieharder;60
+diehardfan;60
+diehardfans;60
+diehards;60
 diein;20
 dielorelei;50
 diem;40
@@ -20181,6 +20184,7 @@ fallin;50
 fallingalloveroneself;50
 fallingalloveroneselfapologizing;50
 fallingin;40
+fallinginline;60
 fallinginto;40
 fallingon;40
 fallingoutoflove;50
@@ -20188,6 +20192,7 @@ fallingshy;50
 fallingshyof;40
 fallingto;40
 fallingupon;40
+fallinline;60
 fallinto;40
 falloffthebone;60
 fallofthehouseofusher;60
@@ -20201,6 +20206,7 @@ fallsales;50
 fallshy;50
 fallshyof;40
 fallsin;40
+fallsinline;60
 fallsinto;40
 fallsoffthebone;60
 fallson;40
@@ -20673,6 +20679,7 @@ fellatios;10
 fellie;20;Part of a wheel rim
 fellies;20;Parts of a wheel rim
 fellin;40
+fellinline;60
 fellinto;40
 felloe;20;Part of a wheel rim
 felloes;20;Parts of a wheel rim
@@ -25191,6 +25198,7 @@ gregorclegane;50;The Mountain in "Game of Thrones"
 gregorianchant;50
 gregorianchants;50
 gregormendel;50
+gregoryi;30
 greisen;30;???
 gremlin;60
 gremlins;60
@@ -27746,6 +27754,8 @@ hookedup;50
 hooker;10
 hookers;10
 hookingup;50
+hookshot;60
+hookshots;60
 hooksup;60
 hookup;50
 hookups;50
@@ -28524,6 +28534,7 @@ iceit;40
 iceless;30
 icemachine;50
 icemachines;50
+icemario;20
 icemen;40;Old job, or the Jacksonville Icemen, minor league hockey team
 icenine;60;Fictional doomsday substance in Vonnegut's "Cat's Cradle"
 iceonfire;60;DiCaprio environmental documentary
@@ -32096,10 +32107,12 @@ keepat;40
 keepatit;50
 keepcloseto;40
 keepdigging;60
+keepfrom;40
 keepin;40
 keepingalive;50
 keepingat;40
 keepingcloseto;40
+keepingfrom;40
 keepingin;40
 keepinginline;50
 keepingitpg;60
@@ -32131,6 +32144,7 @@ keepsakes;50
 keepsalive;50
 keepsat;40
 keepscloseto;40
+keepsfrom;40
 keepsin;40
 keepsinline;50
 keepsitpg;60
@@ -32207,6 +32221,7 @@ kepis;20;French military caps
 keptalive;50
 keptat;40
 keptcloseto;40
+keptfrom;40
 keptin;40
 keptinline;50
 keptitpg;60
@@ -55960,6 +55975,8 @@ simplefracture;50
 simplefractures;50
 simples;30;Commoners, simpletons, medicinal plant
 simplyput;60
+simplythebest;60
+simplytheworst;60
 simps;10
 simu;30;Actor Liu of "Shang-Chi and the Legend of the Ten Rings"
 sin;50
@@ -58019,6 +58036,11 @@ speedreading;60
 speedreads;60
 speedrecord;50
 speedrecords;50
+speedrun;60
+speedrunner;60
+speedrunners;60
+speedrunning;60
+speedruns;60
 speedsby;40
 speedstacking;60;Cup stacking
 speedsto;40
@@ -68131,6 +68153,7 @@ warweary;50
 warworn;30
 waryof;40
 was;50
+wasabi;60
 wasabimayo;60
 wasabioli;60;Heinz wasabi/aioli blend
 wasabipea;50
