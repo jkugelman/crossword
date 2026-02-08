@@ -30960,6 +30960,7 @@ itsokaybyme;60
 itsokaywithme;60
 itsokbyme;60
 itsokwithme;60
+itsonethingafteranother;60
 itsonlyamatteroftime;60
 itsonme;60
 itsoundsfishy;50
@@ -41514,6 +41515,7 @@ notsurprisingly;60
 notthebrightestcrayoninthebox;60
 nottheonion;60
 notthesharpesttoolintheshed;60
+notthisagain;60
 nottodaysatan;60
 nottoexaggerate;50
 nottomention;60
@@ -42783,6 +42785,7 @@ oneball;30
 onebar;50;Bad signal, or lieutenant's insignia
 onebase;0
 onebasehit;20
+onebattleafteranother;60
 onebc;40
 onebell;30
 onebetter;0
@@ -42948,6 +42951,7 @@ onestripers;40
 onesugar;40
 onetaste;30
 oneten;20
+onethingafteranother;60
 onetime;50
 onetimefix;60
 onetimefixes;60
@@ -53975,25 +53979,26 @@ seabag;40
 seabags;40
 seabeds;50
 seabiscuit;60
-seaboat;30
+seaboat;40
+seaboats;40
 seacaptain;50
 seacaptains;50
-seacave;50
-seacaves;50
+seacave;60
+seacaves;60
 seachange;60
 seachanges;60
-seacliff;30
-seacliffs;30
-seacoal;30
-seacrab;40
-seacrabs;40
+seacliff;40
+seacliffs;40
+seacoal;40
+seacrab;50
+seacrabs;50
 seacraft;50
 seadoo;40;Watercraft brand
 seadragon;50
 seadragons;50
 seadust;30
-seaear;40;Alternate name for abalone
-seaears;40
+seaear;50;Alternate name for abalone
+seaears;50
 seaeel;40
 seaeels;40
 seaegg;40;Type of sea urchin
@@ -62321,6 +62326,10 @@ thalers;20;Old German coins
 thalia;20;Muse of comedy
 thalli;30;Plural of thallus
 thallus;30;Vegetative tissue
+thandie;30;Actress Thandiwe Newton (formerly Thandie)
+thandienewton;30;Actress Thandiwe Newton (formerly Thandie)
+thandiwe;50;Actress Thandiwe Newton (formerly Thandie)
+thandiwenewton;60;Actress Thandiwe Newton (formerly Thandie)
 thane;40
 thankgod;60
 thanksabunch;60
@@ -63434,6 +63443,7 @@ thighslapping;60
 thimphu;40;Capital of Bhutan
 thincrustpizzas;50
 thinge;40;T-hinge
+thinges;40
 thingis;60
 thingofthepast;60
 thingone;60
