@@ -2085,6 +2085,7 @@ amaretto;50;Liqueur
 amarettos;40
 amarillotexas;50
 amarillotx;30
+amaro;40;Liqueur
 amas;40
 amassable;40
 amasser;40
@@ -3906,6 +3907,7 @@ asseverated;30;Solemnly declared
 asseverates;30;Solemnly declares
 asseverating;30;Solemnly declaring
 assez;20;Enough: Fr.
+assfirst;10
 asshat;60
 asshats;60
 assibilate;40
@@ -11553,8 +11555,8 @@ clownfish;50
 clownhalloffame;60
 clownprinceofdenmark;60;Nickname for pianist Victor Borge
 clownshoes;60
-clownsuit;50
-clownsuits;50
+clownsuit;60
+clownsuits;60
 cloy;50
 cloyed;50
 cloying;50
@@ -27795,7 +27797,7 @@ hootsat;40
 hop;50
 hopacab;50
 hopeagainsthope;60
-hopecore;20;Too trendy for my taste (2025)
+hopecore;50;Too trendy?
 hopedagainsthope;60
 hopedfor;40
 hopedforarematch;60
@@ -27812,6 +27814,7 @@ hopethathelps;60
 hopethishelps;60
 hopeto;40
 hopetogod;60
+hopey;40;???
 hopeyouenjoy;60
 hopeyourehappy;60
 hopin;50
@@ -37060,6 +37063,7 @@ marv;30
 marvelat;40
 marveledat;40
 marvelingat;40
+marvelousmrsmaisel;60
 marveloustoy;50
 marvelsat;40
 marvinkmooneywillyoupleasegonow;60;Dr. Seuss book
@@ -39388,6 +39392,7 @@ mrsdash;40;They dropped the "Mrs."
 mrsdoubtfire;60
 mrsking;50
 mrslate;60
+mrsmaisel;60
 mrsmartypants;60
 mrsminiver;50
 mrsmith;50
@@ -62954,6 +62959,7 @@ themanofthepeople;40
 themap;20
 themarines;40
 themarsvolta;60
+themarvelousmrsmaisel;60
 themarveloustoy;60
 themasters;60
 themathaintmathing;60
@@ -63974,6 +63980,8 @@ timebomb;60
 timebombs;60
 timecapsule;60
 timecapsules;60
+timecrunch;60
+timecrunches;60
 timed;50
 timedelay;60
 timedelays;60
@@ -64001,6 +64009,7 @@ timesink;60
 timesinks;60
 timeskip;60
 timeskips;60
+timesnewroman;60
 timessquare;60
 timessymbol;50
 timesup;60
