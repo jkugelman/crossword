@@ -13310,6 +13310,8 @@ cri;20
 cria;20;Baby alpaca
 crib;50
 cribs;50
+cribsheet;60
+cribsheets;60
 cricketflour;60
 cricketmatch;60
 cricketmatches;60
@@ -33106,7 +33108,7 @@ laicizes;30
 laicizing;30
 laics;30
 laidanchor;50
-laidanegg;50
+laidanegg;60
 laidawake;50
 laidclaimto;40
 laidflat;50
@@ -33649,7 +33651,7 @@ laxest;50
 laxness;50;Legit, though laxity is more common
 lay;50
 layanchor;50
-layanegg;50
+layanegg;60
 layawake;50
 layclaimto;40
 laydormant;50
@@ -33657,7 +33659,7 @@ layeredbangs;60
 layflat;50
 layin;30;Stock up on
 layinganchor;50
-layinganegg;50
+layinganegg;60
 layingclaimto;40
 layingflat;50
 layingin;30
@@ -33679,7 +33681,7 @@ layoff;50
 layoffs;50
 layon;40
 laysanchor;50
-laysanegg;50
+laysanegg;60
 laysawake;50
 laysclaimto;40
 laysflat;50
@@ -41336,6 +41338,8 @@ nosamyrrep;0
 noscore;40
 noseabout;50
 noseats;20
+nosebleed;60
+nosebleeds;60
 nosebleedseat;60
 nosebleedseats;60
 nosebleedsection;60
@@ -63040,6 +63044,7 @@ thenhl;20
 thenile;20
 thenod;30
 thenorth;40
+thenosebleeds;60
 thenow;30
 thenra;20
 thensa;20
@@ -64872,6 +64877,7 @@ towercrane;50
 towercranes;50
 towerofhanoi;60
 towery;40;Tall, or having towers: archaic
+towhatend;60
 towhee;30;Sparrow-like bird
 towhees;30
 towin;40
