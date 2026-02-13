@@ -8869,7 +8869,7 @@ cairns;40
 caisson;30;Watertight retaining structure, or artillery wagon
 caissons;30
 cait;30
-caitlin;30;???
+caitlin;50;Caitlin Clark
 cajoler;40
 cajolers;40
 cakecutting;60;Traditional wedding activity done by the couple
@@ -26987,6 +26987,7 @@ herexcellency;50
 hereyougo;60
 heritor;30
 heritors;30
+herloss;60
 hermana;40
 hermanas;40
 hermano;40
@@ -27342,9 +27343,9 @@ hiroshima;50
 hirt;20;Trumpeter Al
 his;50
 hisailor;20;Green paint
-hiseminence;50
-hisexcellency;50
-hisloss;50
+hiseminence;60
+hisexcellency;60
+hisloss;60
 hisnobs;50
 hispeedtonic;60;Acme invention
 hissat;40
@@ -43842,6 +43843,7 @@ our;50
 ouraeus;30;Sacred serpent on Egyptian headdresses
 ouray;30;"Little Switzerland of Colorado"
 ourlittlesecret;60
+ourloss;60
 ouroboros;60
 ours;50
 ourtime;20;Partial
@@ -62909,6 +62911,7 @@ theides;30
 theillusionofchoice;60
 their;50
 theira;20
+theirloss;60
 theironage;40
 theironcross;40
 theironhorse;40
@@ -70788,6 +70791,7 @@ youretellingmethisnow;60
 yourethebest;60
 youretoolate;60
 youreup;60
+youreupearly;60
 yourgrace;50
 yourhonor;50
 yourloss;60
