@@ -520,6 +520,8 @@ acmesuctioncups;60;Acme invention
 acmesuperspeedvitamins;60;Acme invention
 acmetornadoseeds;60;Acme invention
 acmetrickbone;60;Acme invention
+acnescar;40
+acnescars;40
 acompleteunknown;60;Bob Dylan biopic
 acoolmil;60
 acouple;30
@@ -25788,7 +25790,7 @@ hadnochill;60
 hadnolife;50
 hadnooomph;60
 hadnoplan;50
-hadnoshot;50
+hadnoshot;60
 hadnotime;50
 hadnotimefor;40
 hadon;40
@@ -26320,7 +26322,7 @@ hasnochill;60
 hasnolife;50
 hasnooomph;60
 hasnoplan;50
-hasnoshot;50
+hasnoshot;60
 hasnotime;50
 hasnotimefor;40
 hasntgottime;50
@@ -26449,7 +26451,7 @@ havenochill;60
 havenofear;60
 havenolife;50
 havenoplan;50
-havenoshot;50
+havenoshot;60
 havenotime;50
 havenotimefor;40
 haventgottime;50
@@ -26491,7 +26493,7 @@ havinglegs;50
 havingneedfor;40
 havingneedto;40
 havingnolife;50
-havingnoshot;50
+havingnoshot;60
 havingnotimefor;40
 havingonetoomany;60
 havingseconds;60
