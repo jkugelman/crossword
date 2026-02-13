@@ -12087,6 +12087,7 @@ comeas;40
 comeat;40;Attack, threaten
 comeatabadtime;50
 comeatacost;60
+comeatme;60
 comeatmebro;60
 comebackemptyhanded;50
 comebet;50
@@ -21029,10 +21030,22 @@ findgod;60
 findinggod;60
 findsgod;60
 findtime;50
-fineart;50
-fineartist;50
+fineart;60
+fineartdealer;60
+fineartdealers;60
+fineartdegree;60
+fineartdegrees;60
+fineartist;60
+fineartists;60
+finearts;60
+fineartsdegree;60
+fineartsdegrees;60
+fineasfroghair;60
 finebelikethat;60
+finebemad;60
+finebethatway;60
 finebyme;60
+finechina;60
 finedining;50
 finelychopped;50
 finemesh;50
@@ -53588,6 +53601,7 @@ sawafter;30
 sawaghost;60
 sawas;30
 sawdollarsigns;60
+saweetie;40
 saweyetoeye;60
 saweyetoeyewith;50
 sawfitto;40
