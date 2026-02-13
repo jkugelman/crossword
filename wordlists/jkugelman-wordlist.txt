@@ -7101,6 +7101,7 @@ blowson;40
 blowsonesownhorn;50
 blowssmoke;50
 blowsuponesspot;60
+blowthispopsiclestand;60
 blowtorch;50
 blowtorches;50
 blowupdoll;60
@@ -7421,6 +7422,8 @@ bonesup;50
 bonet;40
 boneup;50
 bonewhite;50
+bonghit;60
+bonghits;60
 bongodrum;50
 bongoes;20;Rare spelling
 bongoplayer;50
@@ -25729,7 +25732,7 @@ hadenough;60
 hadenoughorareyouthirstyformore;60
 hadeyesfor;50
 hadfun;50
-hadgame;40
+hadgame;50
 hadheart;50
 hadin;40
 hadit;40
@@ -26040,7 +26043,7 @@ hangingoutwith;40
 hangingtough;50
 hangingwith;40
 hangintheair;60
-hangman;50
+hangman;60
 hangon;50
 hangonaminute;60
 hangonbeforeyouanswer;60
@@ -26258,6 +26261,7 @@ hasdibson;50
 hasdone;30
 haseyesfor;50
 hasfun;40
+hasgame;60
 hashbrown;50
 hashbrowns;50
 hasheart;50
@@ -26390,6 +26394,7 @@ havedibson;50
 haveeyesfor;50
 havefun;60
 havefunwiththat;60
+havegame;60
 haveheart;50
 haveitbad;60
 haveitbothways;50
@@ -26437,6 +26442,7 @@ havingasip;50
 havingayenfor;40
 havingeyesfor;50
 havingfun;50
+havinggame;50
 havingheart;40
 havingitbad;60
 havingitgood;60
@@ -27208,6 +27214,7 @@ highschoolsweetheart;60
 highschoolsweethearts;60
 highschoolteacher;50
 highschoolteachers;50
+highseas;60
 highsign;50;Surreptitious signal that everything's good
 highstep;50
 highstepped;50
@@ -43651,6 +43658,7 @@ ort;20
 ortho;40
 orthoclase;30;Type of rock
 orthoepist;30;???
+orthoepy;40;Study of pronunciation
 orthoptics;40
 ortolan;20;Bird
 ortolans;20
@@ -66258,6 +66266,8 @@ uberpools;60
 uberrating;60
 uberratings;60
 uberrich;60
+uberride;60
+uberrides;60
 ubi;20
 ubid;20;Forgotten auction site
 ubiety;30;Everywhereness, presence
@@ -69526,6 +69536,8 @@ wingeddeath;60;Lovecraft story about a scientist who discovers a deadly species 
 wingedhorse;50
 wingedhorses;50
 wingedt;30;???
+wingman;60
+wingmen;60
 wingspan;50
 wingspans;50
 wingwoman;50
