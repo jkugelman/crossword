@@ -16730,7 +16730,7 @@ dp;40
 dpi;40
 dpl;20
 dplus;50
-dps;20
+dps;30;Double plays
 dpt;20
 dqed;40
 dqs;40
@@ -66203,6 +66203,8 @@ twinings;40;British tea company
 twinkie;50
 twinkiedefense;60
 twinkies;50
+twinkilling;60;Double play
+twinkillings;60
 twinpeaks;60
 twinsister;50
 twinsisters;50
