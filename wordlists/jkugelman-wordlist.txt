@@ -9884,6 +9884,8 @@ catchonfire;50
 catchow;50
 catchstrays;60
 catchup;50
+catchupmechanic;60
+catchupmechanics;60
 catchwaves;50
 catcow;60
 catcowpose;60
@@ -52582,10 +52584,10 @@ ruasogets;0
 rub;50
 rubadubdub;60
 rubberbabybuggybumper;60
-rubberband;50
-rubberbanded;50
-rubberbanding;50
-rubberbands;50
+rubberband;60
+rubberbanded;60
+rubberbanding;60;Like in Mario Kart
+rubberbands;60
 rubberbullet;50
 rubberbullets;50
 rubberduck;60
