@@ -14449,6 +14449,7 @@ dclv;20
 dclx;20
 dclxi;20
 dcon;40
+dcstatehood;60
 dcup;50
 dcupbra;50
 dcupbras;50
@@ -20548,6 +20549,7 @@ fawn;50
 fawns;50
 fax;50
 fay;40;Elfin, or Fay Wray
+fbaccount;20
 fbi;50
 fbiagent;60
 fbiagents;60
@@ -21260,6 +21262,8 @@ firstdates;50
 firstdayofschool;60
 firstfreeascent;60
 firstguess;50
+firsthandaccount;60
+firsthandaccounts;60
 firsthusband;50
 firsthusbands;50
 firstinfirstout;60
