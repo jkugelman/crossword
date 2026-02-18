@@ -47612,7 +47612,13 @@ pov;40
 povertyyear;60;1816, when a volcanic eruption created a volcanic winter
 povich;40;Maury Povich
 pow;50
+powderedonesnose;60
+powderingonesnose;60
+powderonesnose;60
 powderpuffgirls;60
+powderroom;60
+powderrooms;60
+powdersonesnose;60
 powells;30;Plural name
 powerade;50
 powerbank;50;Portable charger
@@ -61204,6 +61210,7 @@ takeanip;30
 takeanl;60
 takeaphoto;50
 takeapic;50
+takeapowder;60
 takeashineto;60
 takeashotat;40
 takeashower;50
@@ -61267,6 +61274,7 @@ takesamemo;40
 takesanip;30
 takesaphoto;50
 takesapic;50
+takesapowder;60
 takesashineto;60
 takesashotat;40
 takesashower;50
@@ -61343,6 +61351,7 @@ takingamemo;40
 takinganip;30
 takingaphoto;50
 takingapic;50
+takingapowder;60
 takingashineto;50
 takingashotat;40
 takingasiesta;50
@@ -64698,6 +64707,7 @@ tookamemo;40
 tookanip;30
 tookaphoto;50
 tookapic;50
+tookapowder;60
 tookashineto;60
 tookashotat;40
 tookashower;50
