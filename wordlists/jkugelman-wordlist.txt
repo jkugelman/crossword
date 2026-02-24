@@ -2124,6 +2124,7 @@ amazondelta;50
 amazondotcom;50
 amazonian;50
 amazonians;50
+amazonmusic;60
 amazonrainforest;50
 amazonriver;50
 amb;20
@@ -11559,16 +11560,18 @@ closeups;60
 closeupshop;60
 closeupshot;60
 closeupshots;60
-closingceremonies;50
-closingceremony;50
+closingceremonies;60
+closingceremony;60
+closingcredits;60
 closingdown;50
 closinginon;40
-closingnumber;50
-closingnumbers;50
+closingnumber;60
+closingnumbers;60
 closingon;30
 closingtheloop;50
 closingupshop;60
-clothesdesigner;30
+clothesdesigner;50
+clothesdesigners;50
 clothings;30
 clotho;30;One of the Three Fates in Greek myth
 cloture;50
@@ -23168,6 +23171,12 @@ gat;40
 gateau;40;Rich cake
 gateaux;40
 gatech;40
+gatechange;60
+gatechanges;60
+gatecheck;60
+gatechecked;60
+gatechecking;60
+gatechecks;60
 gatecrash;60
 gatecrashed;60
 gatecrasher;60
@@ -25611,6 +25620,7 @@ gulab;30;Indian dessert
 gulabjamun;30
 gulager;30;Actor Clu Gulager
 gulfofamerica;60
+gulfofmexico;60
 gulfstate;50
 gulfstates;50
 gulliver;50
@@ -31752,6 +31762,8 @@ joeychestnut;60
 joeyoung;20;Unnotable NBA player
 jofrost;50
 jog;50
+johanneshoesflotklaebo;60;Cross country skier Johannes Høsflot Klæbo with 6 golds in the 2026 Olympics
+johannesklaebo;60;Cross country skier Johannes Høsflot Klæbo with 6 golds in the 2026 Olympics
 john;50
 johnb;30
 johnbonham;60;Led Zeppelin drummer
@@ -32710,6 +32722,7 @@ kix;50
 kkk;10
 kkkkaty;30;WWI parody song
 klaatu;40;"The Day the Earth Stood Still" alien, or his phrase "klaatu barada nikto"
+klaebo;40;Cross country skier Johannes Høsflot Klæbo with 6 golds in the 2026 Olympics
 klamath;20
 klan;10
 klay;40;4x N.B.A. champion Klay Thompson
@@ -42785,11 +42798,13 @@ oly;20
 olympiawa;30
 olympicflame;60
 olympicgold;60
-olympiclogo;50
-olympicpodia;50
-olympicpodium;50
-olympicpool;50
-olympicpools;50
+olympicgolds;60
+olympiclogo;60
+olympiclogos;60
+olympicpodia;60
+olympicpodium;60
+olympicpool;60
+olympicpools;60
 olympicstorchrelay;60
 olympicstorchrelays;60
 olympictorchrelay;60
@@ -53462,6 +53477,8 @@ sandos;40
 sandp;30
 sandpiper;60
 sandpipers;60
+sandsave;60;Hitting a bunker but still making par
+sandsaves;60
 sandtrap;50
 sandtraps;50
 sandwedge;50
@@ -66335,8 +66352,12 @@ twitterrant;40
 twitterrants;40
 twittersphere;50
 twitterverse;50
-twizzler;50
+twizzle;50;Figure skating move
+twizzled;50
+twizzler;60
 twizzlers;60
+twizzles;50
+twizzling;50
 twlevesided;0
 two;50
 twoacre;20
