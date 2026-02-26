@@ -7759,6 +7759,8 @@ boughtinto;40
 boughtoncredit;50
 boughtonimpulse;50
 boughtonmargin;50
+boughttime;60
+boughttimefor;40
 bouilloncube;50
 bouilloncubes;50
 boulangerie;50
@@ -8756,6 +8758,8 @@ buyinginto;40
 buyingoncredit;50
 buyingonimpulse;50
 buyingonmargin;50
+buyingtime;60
+buyingtimefor;40
 buyinto;40
 buyoncredit;50
 buyonimpulse;50
@@ -8765,6 +8769,10 @@ buysinto;40
 buysoncredit;50
 buysonimpulse;50
 buysonmargin;50
+buystime;60
+buystimefor;40
+buytime;60
+buytimefor;40
 buz;20
 buzzfeed;60
 buzzlightyear;60
@@ -22862,11 +22870,13 @@ gainedanhour;60
 gainedmomentum;60
 gainedon;40
 gainedsteam;60
+gainedtime;30;???
 gainingaday;60
 gaininganhour;60
 gainingmomentum;60
 gainingon;40
 gainingsteam;60
+gainingtime;30;???
 gainmomentum;60
 gainon;40
 gainsaday;60
@@ -22876,6 +22886,8 @@ gainson;40
 gainssteam;60
 gainst;30
 gainsteam;60
+gainstime;30;???
+gaintime;30;???
 gaiter;50;Neck or boot cover
 gaiters;50
 gal;50
@@ -28688,7 +28700,7 @@ iceless;30
 icemachine;50
 icemachines;50
 icemario;20
-icemen;40;Old job, or the Jacksonville Icemen, minor league hockey team
+icemen;30;Old job, or the Jacksonville Icemen, minor league hockey team
 icenine;60;Fictional doomsday substance in Vonnegut's "Cat's Cradle"
 iceonfire;60;DiCaprio environmental documentary
 iceout;40
