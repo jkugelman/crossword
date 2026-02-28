@@ -8992,10 +8992,12 @@ calisober;60
 calla;30;Type of lily
 callaloo;40;Caribbean stew
 callaloos;40
+callatruce;60
 callbackto;40
 callbullshit;10
 callbullshiton;10
 calle;30
+calledatruce;60
 calledbackto;40
 calledbullshit;10
 calledbullshiton;10
@@ -9015,6 +9017,7 @@ callfoulon;50
 callie;30;???
 calligram;50
 callin;40
+callingatruce;60
 callingbackto;40
 callingbullshit;10
 callingbullshiton;10
@@ -9044,6 +9047,7 @@ callofdutyblackops;60
 callofdutyghostrecon;60
 callofdutymodernwarfare;60
 callon;40
+callsatruce;60
 callsbackto;40
 callsbullshit;10
 callsbullshiton;10
@@ -44543,6 +44547,11 @@ paleo;50
 paleodiet;50
 palestra;30;Greek gymnasium
 palikir;40;Capital of Micronesia
+palindrome;60
+palindromes;60
+palindromic;60
+palindromicword;60
+palindromicwords;60
 palings;40;Weird plural
 palinode;20;Type of poem
 palinodes;20;Types of poem
@@ -48576,25 +48585,25 @@ pulledauey;50
 pulledon;40
 pulledoutallthestops;60
 pulledoutbytheroots;50
-pulledrank;50
-pulledrankon;50
-pulledthegoalie;50
+pulledrank;60
+pulledrankon;60
+pulledthegoalie;60
 pulledupbytheroots;50
 pullingat;40
 pullingauey;50
 pullingon;40
 pullingoutallthestops;60
 pullingoutbytheroots;50
-pullingrank;50
-pullingrankon;50
-pullingthegoalie;50
+pullingrank;60
+pullingrankon;60
+pullingthegoalie;60
 pullingupbytheroots;50
 pullmans;20;???
 pullon;40
 pulloutallthestops;60
 pulloutbytheroots;50
-pullrank;50
-pullrankon;50
+pullrank;60
+pullrankon;60
 pullrequest;60
 pullrequests;60
 pullsat;40
@@ -48602,11 +48611,11 @@ pullsauey;50
 pullson;40
 pullsoutallthestops;60
 pullsoutbytheroots;50
-pullsrank;50
-pullsrankon;50
-pullsthegoalie;50
+pullsrank;60
+pullsrankon;60
+pullsthegoalie;60
 pullsupbytheroots;50
-pullthegoalie;50
+pullthegoalie;60
 pullupbytheroots;50
 pullyourselftogether;60
 pulpfiction;60
@@ -52278,10 +52287,10 @@ rollerbearing;30
 rollercoaster;60
 rollercoasterdo;0
 rollercoasters;60
-rollerderbies;50
-rollerderby;50
-rollerrink;50
-rollerrinks;50
+rollerderbies;60
+rollerderby;60
+rollerrink;60
+rollerrinks;60
 rollick;30;Frolic
 rollicked;30
 rollicking;30
@@ -53304,9 +53313,10 @@ salemslot;60
 salemwitchtrial;60
 salemwitchtrials;60
 salerno;40;Italian city
-salesassistants;50
-salesdrive;50
-salesdrives;50
+salesassistant;60
+salesassistants;60
+salesdrive;60
+salesdrives;60
 salesforce;50
 salesforces;50
 salesian;30;???
@@ -53381,6 +53391,8 @@ saltmining;50
 saltpit;50
 saltpits;50
 saltsaway;30
+saltscrub;60
+saltscrubs;60
 saltshaker;50
 saltshakers;50
 saltspray;50
@@ -67689,6 +67701,8 @@ velleity;40;Slight wish or tendency
 velmas;30
 velociraptor;60
 velociraptors;60
+velvetrope;60
+velvetropes;60
 ven;20
 vena;40
 venaecavae;30
@@ -68388,6 +68402,7 @@ walrusmoustache;60
 walrusmoustaches;60
 walston;40;Ray Walston from "South Pacific", "Damn Yankees", etc.
 waltdisney;60
+walterreed;60
 walton;40
 waltongoggins;50
 waltons;40
@@ -69003,6 +69018,7 @@ wellimsold;60
 wellimstumped;60
 wellimwaiting;60
 wellinto;50
+wellitried;60
 wellitsnotmuchtolookat;60
 welliwas;60;"Are you sleeping?" reply
 wellletitslide;60
