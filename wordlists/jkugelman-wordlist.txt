@@ -6321,13 +6321,14 @@ betamale;40
 betamales;40
 betaray;50
 betarays;50
-betatest;50
-betatested;50
-betatester;50
-betatesters;50
-betatesting;50
-betatests;50
-betatestversion;50
+betatest;60
+betatested;60
+betatester;60
+betatesters;60
+betatesting;60
+betatests;60
+betatestversion;60
+betatestversions;60
 betatron;50;Particle accelerator
 betatrons;50;Particle accelerators
 bete;40;Bête noire, bugbear
@@ -34546,7 +34547,7 @@ leucotomy;30;Lobotomy
 leukemia;30
 leukemias;30
 leukoma;30;Eye condition
-lev;20
+lev;30;Fantasy novelist Lev Grossman, other common but unappealing angles (e.g. Leviticus)
 levanter;40
 levar;40;Levar Burton
 levator;30;Muscle that raises a body part
@@ -46988,7 +46989,7 @@ poboxnos;40
 poboxnumber;40
 poboxnumbers;40
 poc;40
-pocahontas;50
+pocahontas;60
 pocatello;30;Idaho city of 58,231
 pocatelloid;20;Idaho town
 pochard;20;Diving duck
@@ -62746,6 +62747,7 @@ thatspersonal;60
 thatsprivate;60
 thatsquiteapickle;60
 thatsquiteastretch;60
+thatsrad;60
 thatsrough;60;"You're in a sucky situation"
 thatssad;60
 thatsshowbizbaby;60
