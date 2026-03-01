@@ -63981,6 +63981,7 @@ threwacurveball;60
 threwascareinto;50
 threwat;40
 threwatantrum;50
+threwaway;50
 threwdarts;50
 threwforaloop;60
 threwgames;20;???
@@ -64006,6 +64007,7 @@ throwapot;50
 throwascareinto;50
 throwat;40
 throwatantrum;50
+throwaway;50
 throwdarts;50
 thrower;40
 throwers;40
@@ -64016,6 +64018,7 @@ throwingapot;50
 throwingascareinto;50
 throwingat;40
 throwingatantrum;50
+throwingaway;50
 throwingdarts;50
 throwingforaloop;60
 throwinggames;20;???
@@ -64037,6 +64040,7 @@ throwsapot;50
 throwsascareinto;50
 throwsat;40
 throwsatantrum;50
+throwsaway;50
 throwsdarts;50
 throwsdownadunk;50
 throwsforaloop;60
@@ -65989,7 +65993,8 @@ tsouris;20;Variant spelling of tsuris, Yiddish trouble
 tsp;40
 tsps;40
 tsr;20
-tstops;30
+tstop;40;Skater's braking method
+tstops;40
 tstorm;40
 tstorms;40
 tstrap;40
