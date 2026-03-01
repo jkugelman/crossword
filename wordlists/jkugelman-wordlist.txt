@@ -24735,6 +24735,7 @@ goodfats;60
 goodfornothing;60
 goodfornothings;60
 goodforyouiguess;60
+goodgood;60
 goodgracious;60
 goodgrief;60
 goodguess;60
@@ -35988,6 +35989,8 @@ luckinginto;50
 luckinto;50
 lucknow;30;Capital of Uttar Pradesh, India
 lucksinto;50
+luckyloser;60;Tennis player who gains entry into the main draw after another player withdraws due to injury or illness
+luckylosers;60
 luckypennies;60
 luckypenny;60
 luckyrabbitsfeet;60
@@ -70713,7 +70716,7 @@ yeastier;40
 yeastiest;40
 yeavote;40
 yeavotes;40
-yech;50
+yech;40
 yee;30;"Yee-haw!"
 yeesh;50
 yeeted;60
