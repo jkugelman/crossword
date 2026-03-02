@@ -7922,6 +7922,7 @@ braincell;50
 braincells;50
 brainfart;60
 brainfarts;60
+braingray;60;Shade of gray people see in pitch black
 brainiac;60
 brainiacs;60
 brainish;20;Hotheaded
@@ -14282,6 +14283,7 @@ darkknightrises;60
 darkle;30
 darkled;30
 darkles;30
+darklight;60;Shade of gray people see in pitch black
 darkmeat;60
 darkmoney;60
 darkpattern;60
@@ -18228,6 +18230,8 @@ eidmubarak;50;Muslim festival greeting
 eidolon;30;Idealized person, or a specter
 eidolons;30
 eieio;40
+eigengrau;60;Shade of gray people see in pitch black
+eigenlicht;60;Shade of gray people see in pitch black
 eightad;20
 eightam;50
 eightcrazynights;50;Adam Sandler movie
