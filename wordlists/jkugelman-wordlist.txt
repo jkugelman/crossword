@@ -1756,7 +1756,7 @@ allbetsareoff;60
 allbetter;60
 allbunnynewyork;0
 allcasuallike;60
-allconsuming;50
+allconsuming;60
 alldressedchip;50
 alldressedchips;50
 alldressedupandnoplacetogo;60
@@ -1828,6 +1828,7 @@ allocator;50
 allocators;50
 allocution;50
 allocutions;50
+allofasudden;60
 allogenic;30
 allone;30;???
 allonred;30;Green paint
@@ -8488,6 +8489,8 @@ bullpens;50
 bullrun;50
 bullruns;50
 bulls;50
+bullsession;60
+bullsessions;60
 bullshit;10
 bullshitter;10
 bullshitters;10
@@ -16362,6 +16365,8 @@ dollardollarbillsyall;60
 dollarsign;50
 dollarsigns;50
 dollarstodonuts;60
+dollarstore;60
+dollarstores;60
 dolledup;50
 dollface;50
 dollingup;50
@@ -24603,6 +24608,7 @@ goldenset;60;Tennis set one without losing a single point
 goldensets;60
 goldenshower;10
 goldenshowers;10
+goldensnitch;10;Harry Potter
 goldest;30
 goldfishbowl;50
 goldfishbowls;50
@@ -30099,6 +30105,9 @@ inlate;40
 inleaf;40;Blooming with foliage
 inleft;30;As in baseball
 inlinefor;40
+inlineskate;60
+inlineskates;60
+inlineskating;60
 inlow;20
 inlust;60
 inma;0
@@ -46275,6 +46284,8 @@ pikachu;60
 pilaster;40;???
 pilastered;40
 pilasters;40
+pilatesclass;60
+pilatesclasses;60
 pilatesteacher;50
 pilatesteachers;50
 pilchard;40;Type of herring
@@ -48623,6 +48634,7 @@ pulledrank;60
 pulledrankon;60
 pulledthegoalie;60
 pulledupbytheroots;50
+pulledupstakes;60
 pullingat;40
 pullingauey;50
 pullingon;40
@@ -48632,6 +48644,7 @@ pullingrank;60
 pullingrankon;60
 pullingthegoalie;60
 pullingupbytheroots;50
+pullingupstakes;60
 pullmans;20;???
 pullon;40
 pulloutallthestops;60
@@ -48649,8 +48662,10 @@ pullsrank;60
 pullsrankon;60
 pullsthegoalie;60
 pullsupbytheroots;50
+pullsupstakes;60
 pullthegoalie;60
 pullupbytheroots;50
+pullupstakes;60
 pullyourselftogether;60
 pulpfiction;60
 pulserate;50
