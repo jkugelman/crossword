@@ -6178,6 +6178,8 @@ beltitout;50
 beltofbourbon;60
 beltofscotch;60
 beltofwhiskey;60
+beltwayinsider;60
+beltwayinsiders;60
 bemadat;20
 bemire;40
 bemired;40;Covered or stuck in mud
@@ -6397,6 +6399,7 @@ bffs;40
 bflat;50
 bflatscale;40
 bfs;40;Best friends
+bfskinner;60
 bgirl;40
 bgirls;40
 bgrade;50
@@ -7992,6 +7995,8 @@ breadandcircuses;60;A strategy Roman rulers used to keep the populace pacified a
 breadcrumb;60
 breadcrumbs;60
 breadpan;50
+breadwinner;60
+breadwinners;60
 breakbread;60
 breakbreadwith;50
 breakcharacter;60
@@ -9234,6 +9239,8 @@ candiedyams;60
 candle;50
 candleholder;50
 candleholders;50
+candlelitdinner;60
+candlelitdinners;60
 candlewax;50
 candream;20;???
 candyapple;60
@@ -14549,6 +14556,7 @@ deadest;50
 deadeye;50
 deadhead;60
 deadheads;60
+deadinside;60
 deadinthewater;60
 deadkennedys;60
 deadlanguages;50
@@ -24036,6 +24044,7 @@ girlboss;60
 girlbosses;60
 girlgroup;60
 girlgroups;60
+girlnextdoor;60
 girlscout;50
 girlscouts;50
 girlsdorm;50
@@ -30126,9 +30135,12 @@ inn;50
 innameonly;50
 innateness;40
 innercircle;50
-innerears;30
+innerear;50
+innerears;50
 innergeek;60
 innerlight;50
+innermonologue;60
+innermonologues;60
 innerplanet;60
 innerplanets;60
 inners;30;Inside parts
@@ -30209,6 +30221,8 @@ insertcoin;60
 inserter;40
 inserters;40
 inshambles;60
+insidefastball;60
+insidefastballs;60
 insideinfo;50
 insideman;60
 insidemen;60
@@ -37006,6 +37020,7 @@ manolete;40;Spanish bullfighter in the early 1900s
 manometer;40;Pressure gauge
 manometers;40
 manon;30;Massenet opera
+manontheinside;60
 manontherun;50
 manonthestreet;60;Interview format
 manonthestreetinterview;60
@@ -38053,6 +38068,7 @@ meninges;30
 meno;30;Prefix for pause
 menolikey;10
 menon;40;Men on, as in baseball
+menontheinside;60
 menorrhea;20;Menstrual flow
 menotti;40;Opera composer Gian Carlo Menotti (1911-2007)
 mensal;40;???
@@ -43900,8 +43916,14 @@ oscari;30
 oscarii;30
 oscarnod;60
 oscarnods;60
+oscarnomination;60
+oscarnominations;60
+oscarnominee;60
+oscarnominees;60
 oscars;50
 oscarthegrouch;60
+oscarwinner;60
+oscarwinners;60
 osceola;30;FSU mascot
 oscine;20;Songbird
 oscines;20;Songbirds
@@ -53492,6 +53514,7 @@ sameagle;50;Muppet
 sameas;40
 samedis;20;French Saturdays
 samename;30;Reality show that lasted 4 episodes
+sametimenextyear;60
 sametoyoupal;60
 sameyness;60
 samgoody;50
@@ -63179,6 +63202,7 @@ thegazebo;30;1959 film
 thegebuilding;30
 thegemcity;40
 thegiftofthemagi;60
+thegirlnextdoor;60
 thegiver;50;???
 thegoat;60
 thegoldenarches;20
@@ -63404,6 +63428,7 @@ thenewtestament;40
 thenewyorkercartoon;60
 thenewyorkercartoons;60
 thenextroundisonme;60
+thenextroundsonme;60
 thenfl;20
 thenhl;20
 thenile;20
@@ -69939,6 +69964,7 @@ winkyfaces;60
 winnebago;50
 winnebagos;50
 winnerscircle;60
+winnerwinner;60
 winniethepooh;60
 winninganoscar;50
 winningaprize;50
