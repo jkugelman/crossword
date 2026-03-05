@@ -2291,6 +2291,7 @@ ammeters;40
 ammobelt;50
 ammobelts;50
 ammoniac;40;Gum resin (gum ammoniac)
+ammoniate;40
 ammonic;30
 ammonoid;30
 amneris;30;"Aida" character
@@ -19193,6 +19194,8 @@ epping;40;Epping Forest
 epps;40
 eprint;30
 eps;40
+epsomsalt;60
+epsomsalts;60
 epsons;40
 ept;20
 eq;40
@@ -19229,8 +19232,8 @@ erda;20
 erdas;20
 erdoc;40
 erdocs;40
-erdoctor;40
-erdoctors;40
+erdoctor;50
+erdoctors;50
 erdos;40
 erdrich;40;Author Louise Erdrich, 2021 Pultizer winner
 ere;50
