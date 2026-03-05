@@ -68633,6 +68633,7 @@ walkandtalk;60
 walkedandtalked;60
 walkedonthinice;60
 walkedouton;40
+walkedto;40
 walkedwithpurpose;60
 walkinbath;60
 walkinbaths;60
@@ -68641,6 +68642,7 @@ walkingaroundmoney;60
 walkingdistance;50
 walkingonthinice;60
 walkingouton;40
+walkingto;40
 walkingtrail;50
 walkingtrails;50
 walkingwithpurpose;60
@@ -68651,7 +68653,9 @@ walkouton;40
 walksandtalks;50
 walksonthinice;60
 walksouton;40
+walksto;40
 walkswithpurpose;60
+walkto;40
 walkwithpurpose;60
 walla;40
 wallah;30;Person who is associated with a particular work or who performs a specific duty or service
