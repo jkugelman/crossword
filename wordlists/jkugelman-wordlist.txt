@@ -18889,6 +18889,8 @@ engirdles;30
 engirdling;30
 engirds;40
 englewoodco;30
+englishclass;60
+englishclasses;60
 englishhornreed;50
 englishhornreeds;50
 englishspeaking;50
@@ -25832,17 +25834,19 @@ gwu;20
 gwynethrees;50;Children's author Gwyneth Rees
 gyasi;20;???
 gym;50
-gymbag;50
-gymclass;50
-gymclasses;50
-gymfee;50
-gymfees;50
+gymbag;60
+gymbags;60
+gymclass;60
+gymclasses;60
+gymfee;60
+gymfees;60
 gymmat;50
 gymmats;50
 gymmembership;50
 gymmemberships;50
 gymrat;60
 gymrats;60
+gyms;50
 gymshoe;40;Singular?
 gymshoes;50
 gymshorts;50
@@ -37551,6 +37555,8 @@ maternityward;50
 maters;30;Alma maters
 mathbook;50
 mathbooks;50
+mathclass;60
+mathclasses;60
 mathew;20;Dunno if anyone notable
 mathphd;20;Green paint
 mathpuzzle;50
@@ -45611,8 +45617,8 @@ peckat;40
 peckedat;40
 peckingat;40
 pecksat;40
-peclass;50
-peclasses;50
+peclass;60
+peclasses;60
 pecorino;50;Italian sheep's milk cheese
 pecorinos;40
 pecos;40;Pecos River, cartoon cowboy Pecos Bill
