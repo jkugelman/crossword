@@ -18799,6 +18799,7 @@ endingwith;40
 endo;40
 endocarp;40;Seed layer
 endodontic;40
+endofdays;60
 endogamous;40
 endogamy;40
 endogenous;40
@@ -36950,6 +36951,8 @@ makinguse;40
 makingwar;40
 makingwaron;40
 makingwaves;60
+makoshark;60
+makosharks;60
 mal;40
 malabar;30;???
 malabo;40;Capital of Equitoreal Guinea
@@ -37127,6 +37130,7 @@ manolete;40;Spanish bullfighter in the early 1900s
 manometer;40;Pressure gauge
 manometers;40
 manon;30;Massenet opera
+manonfire;60
 manontheinside;60
 manontherun;50
 manonthestreet;60;Interview format
@@ -37693,6 +37697,7 @@ mayoress;40
 mayoresses;40
 mayormaynot;50
 mayormccheese;60
+mayorpete;60
 mayos;40
 maypo;30;Old cereal brand
 maypop;30;Flower
@@ -43416,6 +43421,9 @@ onhrt;40
 oni;40;Japanese demon, or Navy ONI
 onionbagel;60
 onionbagels;60
+oniondome;60
+oniondomed;60
+oniondomes;60
 onionring;50
 onionrings;50
 onitsend;20
@@ -44344,6 +44352,7 @@ outofconcern;50
 outofconcernfor;40
 outofcontention;50
 outofgas;50
+outofhand;60
 outofideas;50
 outofjuice;50
 outoflove;50
@@ -60803,20 +60812,20 @@ summedto;40
 summerbreeze;50
 summerbreezes;50
 summerdo;50
-summerintern;50
-summerinterns;50
+summerintern;60
+summerinterns;60
 summermonths;50
-summerolympics;50
-summersolstice;50
-summerxgames;50
+summerolympics;60
+summersolstice;60
+summerxgames;60
 summingto;40
 summitt;30;Women's basketball coach, winningest in history
 sumner;40;Gordon Sumner (Sting), Fort Sumner, abolitionist senator Charles Sumner
-sumomatch;50
-sumomatches;50
-sumoring;50
-sumorings;50
-sumos;20;Bad plural
+sumomatch;60
+sumomatches;60
+sumoring;60
+sumorings;60
+sumos;40;Bad plural?
 sumsto;40
 sumsup;50
 sumto;40
@@ -60828,8 +60837,8 @@ sunbathe;60
 sunbathed;60
 sunbathes;60
 sunbathing;60
-sundance;50
-sundancefilmfestival;50
+sundance;60
+sundancefilmfestival;60
 sundayfinest;60
 sunderance;40
 sundog;60;Optical phenomenon
@@ -65983,6 +65992,7 @@ tridelt;40;Women's fraternity ΔΔΔ, colloquially
 triduum;30;Christian "Three Days" before Easter
 triedfor;40
 triedon;40
+triedoutfor;40
 triedouton;40
 triedto;40
 triennial;40
@@ -65992,6 +66002,7 @@ trier;30;Judge, e.g.
 triers;30
 triesfor;40
 trieson;40
+triesoutfor;40
 triesouton;40
 triesto;40
 triet;40;"Anatomy of a Fall" director Justine Triet
@@ -66248,12 +66259,14 @@ tryharding;60
 tryhards;60
 tryingfor;40
 tryingon;40
+tryingoutfor;40
 tryingouton;40
 tryingto;40
 tryme;60
 trymelater;60
 tryna;40
 tryon;40
+tryoutfor;40
 tryouton;40
 trypanophobe;50
 trypanophobia;50
@@ -67938,6 +67951,7 @@ vampirefinches;50
 van;50
 vanadate;30;Vanadium compound
 vanark;20
+vanburen;50
 vanderpumprules;60
 vandy;40;Vanderbilt University, familiarly
 vanern;40;Swedish lake, largest in the E.U.
@@ -68560,8 +68574,12 @@ votingfor;40
 votingon;40
 votingsystem;50
 votingsystems;50
+vouchedfor;50
 vouchee;30
 vouchees;30
+vouchesfor;50
+vouchfor;50
+vouchingfor;50
 vous;30
 vow;50
 vower;40
