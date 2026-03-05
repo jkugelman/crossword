@@ -7299,7 +7299,7 @@ bobblehead;60
 bobbleheaddoll;60
 bobbleheaddolls;60
 bobbleheads;60
-bobbyvan;50
+bobbyvan;40;Actor/dancer in the 1950s-70s
 bobdylan;60
 bobevans;50
 bobgreene;40;Journalist Bob Greene (?)
@@ -33282,6 +33282,7 @@ laban;20;Jacob's father-in-law
 labatt;30;Canadian beer
 labattblue;40;Beer
 labatts;30;Canadian beer
+labdanum;30;Herbal resin
 labelclaim;50
 labelclaims;50
 labelles;20
@@ -33359,6 +33360,7 @@ lacunas;40;Lacunae is more common
 lacustrine;30;Lake-related
 lad;50
 ladadog;30;Albert Payson Terhune novel
+ladanum;30;Herbal resin
 ladd;40
 ladiesman;60
 ladiesmen;60
@@ -36659,6 +36661,7 @@ magwheels;50
 magyar;30;Native Hungarian
 magyars;30
 mah;20
+mahabharata;40;Hindu text
 mahal;40
 mahalia;40;Mononymous R&B singer
 maharanee;20;Maharaja's wife or widow
@@ -49710,6 +49713,7 @@ rama;40;Hindu god
 ramadans;40
 ramalamadingdong;60
 ramapo;30;New York/New Jersey mountains/river
+ramayana;40;Hindu text
 ramblas;30
 ramdass;30;Yoga guru
 rameau;40;Baroque composer Jean-Philippe Rameau
