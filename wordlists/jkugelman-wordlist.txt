@@ -1024,7 +1024,7 @@ afl;40
 aflac;40
 aflacduck;50
 aflat;50
-aflatscale;40
+aflatscale;30
 aflyintheointment;60
 afoolandhismoney;60
 afore;30
@@ -2449,6 +2449,7 @@ anatomyexam;50
 anatomyexams;50
 anattemptwasmade;60
 anatural;50
+anaturalscale;30
 anbesol;30;Pain relief brand
 anc;30;Mandela's org.
 ancestorworship;60
@@ -3709,7 +3710,7 @@ asatest;50
 asawa;30;Sculptor Ruth Asawa
 asb;20
 asc;20
-ascale;40
+ascale;30
 ascaris;20
 ascender;40
 ascenders;40
@@ -3750,6 +3751,7 @@ ashapes;30
 asharp;50
 asharpmajor;40
 asharpminor;40
+asharpscale;30
 ashbin;40
 ashbins;40
 ashblond;60
@@ -6415,7 +6417,7 @@ bfa;40
 bff;40
 bffs;40
 bflat;50
-bflatscale;40
+bflatscale;30
 bfs;40;Best friends
 bfskinner;60
 bgirl;40
@@ -7261,6 +7263,7 @@ bmxbike;60
 bmxbikes;60
 bnai;30
 bnatural;50
+bnaturalscale;30
 bneg;20
 bo;40
 boa;50
@@ -8344,7 +8347,7 @@ bryans;30;Plural name
 bs;40
 bsa;40
 bsc;20
-bscale;40
+bscale;30
 bschool;50;Business school, for short
 bschools;50
 bsdegree;40
@@ -8356,6 +8359,7 @@ bseries;40
 bses;40
 bsharp;50
 bsharps;50
+bsharpscale;30
 bsing;40
 bsingles;40;Secondary tennis competitions
 bsmeter;60
@@ -10394,6 +10398,7 @@ cfc;40
 cfcs;40
 cfl;20
 cflat;50
+cflatscale;30
 cfo;40
 cfos;40
 cfs;20
@@ -11741,6 +11746,7 @@ cmvi;20
 cmx;20
 cmxxx;20
 cnatural;50
+cnaturalscale;30
 cnn;50
 cnnnews;50
 cnntonight;50
@@ -13768,7 +13774,7 @@ crystalset;50
 crystalsets;50
 cs;40
 csa;30;Community-supported agriculture
-cscale;40
+cscale;30
 cscales;30
 csection;50
 csforester;50
@@ -13778,7 +13784,7 @@ cshaped;30
 cshapes;30
 csharp;50
 csharps;50
-csharpscale;50
+csharpscale;30
 csi;50
 csimiami;60
 csis;40
@@ -15416,6 +15422,7 @@ dey;40;Susan of "L.A. Law"
 dezimotsuc;0
 dfc;20
 dflat;50
+dflatscale;30
 dfw;40;Dallas-Fort Worth
 dha;20
 dhabi;30
@@ -16118,6 +16125,7 @@ dnatest;50
 dnatesting;50
 dnatests;50
 dnatural;50
+dnaturalscale;30
 dnc;40
 dnd;20
 dnepr;20;Russian river
@@ -17358,8 +17366,9 @@ drysuits;60
 drytexting;60
 drzaius;50
 dsc;20
-dscale;40
+dscale;30
 dsharp;50
+dsharpscale;30
 dsl;40
 dslmodem;40
 dslmodems;40
@@ -18190,7 +18199,7 @@ efghi;20
 efiler;50
 efilers;50
 eflat;50
-eflatscale;40
+eflatscale;30
 efrem;40;Efrem Zimbalist Sr. (violinist) or Jr. (TV actor)
 efs;20
 eft;30;Young newt
@@ -18759,6 +18768,7 @@ enarboring;30
 enarbors;30
 enarriere;20
 enatural;50
+enaturalscale;30
 enbanc;40
 enbloc;40
 enbrel;20
@@ -19409,7 +19419,7 @@ esau;40;Son of Isaac, Jacob's older twin
 esc;50
 escaladed;30
 escalading;30
-escale;40
+escale;30
 escallop;30
 escalloped;30
 escallops;30
@@ -19468,6 +19478,7 @@ esd;20
 esdras;20
 ese;40
 esharp;50
+esharpscale;30
 eshkol;30;???
 eshop;30;Where to buy Nintendo Switch games
 esi;20
@@ -21025,6 +21036,7 @@ fezzes;60
 ff;40
 fff;30
 fflat;50
+fflatscale;30
 fg;40
 fgh;20
 fghi;20
@@ -21938,6 +21950,7 @@ fms;20
 fmstation;50
 fmstations;50
 fnatural;50
+fnaturalscale;30
 fnumber;40;Same as f-stop
 fnumbers;40
 foaled;40
@@ -22735,13 +22748,13 @@ fry;50
 frye;40;Comedian David Frye, or boot brand
 fryingup;40
 fryup;40
-fscale;40
+fscale;30
 fsh;20
 fshape;30
 fshaped;30
 fshapes;30
 fsharp;50
-fsharpscale;40
+fsharpscale;30
 fstar;20
 fstars;20
 fsu;40
@@ -23966,7 +23979,7 @@ gewgaws;40
 geysir;30;Iceland geyser
 gf;40
 gflat;50
-gflatscale;40
+gflatscale;30
 gforce;60
 gforces;60
 gfs;20
@@ -24351,6 +24364,7 @@ gmt;40
 gnar;30
 gnaremoob;0
 gnatural;50
+gnaturalscale;30
 gnawat;40
 gnawedat;40
 gnawedon;40
@@ -25657,13 +25671,13 @@ gruntle;20
 gryffindor;60
 gryffindors;60
 gsa;20
-gscale;40
+gscale;30
 gseven;30;Ugly numeral
 gshape;30
 gshaped;30
 gshapes;30
 gsharp;50
-gsharpscale;40
+gsharpscale;30
 gsix;30;Ugly numeral
 gsn;40
 gso;20
