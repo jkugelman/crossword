@@ -6176,6 +6176,9 @@ believesin;40
 believingin;40
 bellagio;60
 bellaswan;50
+belleoftheball;60
+bellhop;60
+bellhops;60
 belli;20;Celebrity lawyer Melvin
 belljar;60;Sylvia Plath's only novel, with "The"
 bello;40;Actress Maria Bello
@@ -10335,6 +10338,7 @@ centesimo;30;One hundredth of an Italian lira
 centi;40
 centime;40
 centimes;40
+centimo;40
 centralartery;50;Boston freeway, or blood vessel
 centralcommand;50
 centralheater;50
@@ -12626,7 +12630,12 @@ contactlesspayment;60
 contactlesspayments;60
 contactsport;60
 contactsports;60
+containerization;60
 containeroftuna;0
+containership;60
+containerships;60
+containssmallparts;60
+containyourself;60
 contd;40;Never used in NYT???
 contemn;20;Treat with contempt
 contemned;20;Treated with contempt
@@ -35137,6 +35146,7 @@ linethree;40
 linetwo;40
 ling;40
 lingam;30;Phallic object as a symbol of Shiva
+lingams;30
 lingeredon;40
 lingeringon;40
 lingeron;40
@@ -56036,8 +56046,8 @@ shipit;60
 shipoftheseus;60
 shipp;30;Actress Alexandra Shipp of X-Men???
 shippedto;40
-shippingcontainer;50
-shippingcontainers;50
+shippingcontainer;60
+shippingcontainers;60
 shippingto;40
 shipsprow;50
 shipsto;40
@@ -63643,7 +63653,7 @@ theletter;0
 thelettere;20
 thelettern;20
 thelibationbearers;50;Book by Aeschylus
-thelibertybell;20
+thelibertybell;50
 thelinc;50
 thelincolnmemorial;20
 thelions;40
