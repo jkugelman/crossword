@@ -35846,7 +35846,9 @@ losangeles;50
 losangeleslaker;50
 loseanhour;60
 loseastep;50
+loseat;40
 loseface;50
+loseit;60
 loselose;60
 losemomentum;60
 losemynumber;60
@@ -35856,7 +35858,9 @@ loseoutto;40
 losersweepers;60
 losesanhour;60
 losesastep;50
+losesat;40
 losesface;50
+losesit;60
 losesmomentum;60
 losesonesmarbles;60
 losesouton;40
@@ -35872,9 +35876,11 @@ loseto;40
 losetouchwith;40
 losinganhour;60
 losingastep;50
+losingat;40
 losingbattle;60
 losingbattles;60
 losingface;50
+losingit;60
 losingmomentum;60
 losingonesmarbles;60
 losingouton;40
@@ -35893,11 +35899,13 @@ lostanhour;60
 lostart;60
 lostarts;60
 lostastep;50
+lostat;40
 lostcat;40
 lostcats;40
 lostface;50
 lostgeneration;60
 lostinyonkers;50
+lostit;60
 lostlamb;50
 lostmomentum;60
 lostonesfooting;50
@@ -70546,6 +70554,7 @@ woodrowwilson;50
 woodscrew;50
 woodscrews;50
 woodwindsection;50
+woodys;30;Plural name
 wooer;40
 wooers;40
 wookiee;60
