@@ -12987,8 +12987,8 @@ cosmists;40
 cosmogirl;50
 cosmogirls;50
 cosmologicalprinciple;60
-cosmonaut;50
-cosmonauts;50
+cosmonaut;60
+cosmonauts;60
 cosplay;60
 cosplaycontest;60
 cosplaycontests;60
@@ -15502,6 +15502,7 @@ diamonddrill;50
 diamonddust;50
 diamondearring;50
 diamondearrings;50
+diamonded;40;Shaped like a diamond, or adorned with diamonds
 diamondfaceshape;60
 diamondfaceshapes;60
 diamondhead;60;Hawaiian volcano, or heavy metal band
@@ -23240,6 +23241,7 @@ garfieldandfriends;50
 garfish;40
 garfishes;40
 gargamel;50
+gargantua;60;Black hole in Interstellar
 gargoyle;50
 gargoyles;50
 gari;30;Sushi ginger
@@ -58143,6 +58145,7 @@ sohla;20
 sohn;20;Son: Ger.
 soho;40
 soi;20
+soigather;60
 soigne;20;Well-groomed
 soignee;20;Well-groomed
 soihear;50
