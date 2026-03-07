@@ -42,7 +42,7 @@ aari;30;Aari McDonald of the WNBA
 aaronite;40
 aaronites;40
 aarons;30;Plural name
-aaronsrod;40;Biblical stick carried by Moses's brother, D. H. Lawrence novel
+aaronsrod;50;Biblical stick carried by Moses's brother, D. H. Lawrence novel
 aarontaylorjohnson;60
 aarp;40
 aarpcard;40
@@ -825,8 +825,8 @@ adolf;10
 adolfo;30
 adolph;30
 adonai;40;God, in Hebrew
-adonais;30;"Adonais: An Elegy on the Death of John Keats", one of Shelley's best and best-known works
-adonisdna;50
+adonais;40;"Adonais: An Elegy on the Death of John Keats", one of Shelley's best and best-known works
+adonisdna;60
 adoptee;40
 adoptees;40
 adopter;50;Early adopter, e.g.
@@ -1394,8 +1394,8 @@ airingonesdirtylaundry;60
 airingoutonesdirtylaundry;60
 airjordan;60
 airjordans;60
-airkiss;50
-airkisses;50
+airkiss;60
+airkisses;60
 airlessly;50
 airlike;30
 airlinepilots;50
@@ -1455,8 +1455,8 @@ airwave;50
 airwolf;50
 ais;40;AIs
 aisled;30;Awkward
-aisleseat;50
-aisleseats;50
+aisleseat;60
+aisleseats;60
 aislop;60
 aislopvideo;60
 aislopvideos;60
@@ -1851,9 +1851,13 @@ allottees;40
 alloutresponse;50
 alloutresponses;50
 alloutwar;30
+allowedfor;40
 allowedin;40
+allowfor;40
 allowin;40
+allowingfor;40
 allowingin;40
+allowsfor;40
 allowsin;40
 allproteam;50
 allpurpose;60
@@ -4239,11 +4243,15 @@ atomies;40;???
 atomist;40
 atomists;40
 aton;40
+atonedfor;40
+atonefor;40
 atoner;40
 atoners;40
 atonesbest;50
 atonesdoor;20
+atonesfor;40
 atonies;20
+atoningfor;40
 atonof;40
 atony;20
 atoothforatooth;60
@@ -38597,8 +38605,8 @@ middleearth;60
 middlefinger;60
 middlerhyme;60
 middlerhymes;60
-middleseat;50
-middleseats;50
+middleseat;60
+middleseats;60
 middletoe;50
 middletoes;50
 midear;30
@@ -70258,6 +70266,8 @@ windowmannequin;40
 windowmannequins;40
 windowplanter;50
 windowplanters;50
+windowseat;60
+windowseats;60
 windowsmobile;50
 windpower;50
 winds;50
