@@ -3552,6 +3552,14 @@ aron;40;Elvis Aron Presley
 aroo;30;Suffix with buck/switch [common]
 arosefrom;40
 aroundnoon;30;Green paint
+aroundthebend;60
+aroundtheblock;60
+aroundtheclock;60
+aroundthecorner;60
+aroundtheglobe;60
+aroundthehorn;60
+aroundtheseparts;60
+aroundtheworld;60
 arousals;30
 arouser;40
 arousers;40
@@ -10183,6 +10191,8 @@ ccing;40
 cciv;20
 ccix;20
 ccl;20
+cclamp;40
+cclamps;40
 cclef;40
 cclefs;30
 ccli;20
@@ -10474,7 +10484,8 @@ chalktalk;50
 chalktalks;50
 challis;30;Soft fabric
 chamberlain;60
-chamorro;30;Indigenous people of the Mariana Islands
+chamorro;40;Indigenous people of the Mariana Islands
+chamorros;40
 champagnebottle;60
 champagnebottles;60
 champagnetoast;60
@@ -23693,6 +23704,8 @@ gerfalcons;30
 geri;40
 geritol;40;Multivitamin
 germanbeer;50
+germander;40;Flower
+germanders;40
 germanlit;50
 germaphobe;50
 germaphobes;50
@@ -41578,18 +41591,22 @@ nod;50
 nodat;40
 nodayatthebeach;60
 noddedat;40
+noddedout;40
 noddedto;40
 nodder;40
 nodders;40
 noddingat;40
+noddingout;40
 noddingto;40
 nodear;50
 nodice;60
 nodillydallying;60
 nodisc;20;???
 nodoubtaboutit;60
+nodout;40;After drug use
 nodrama;50;Obama descriptor
 nodsat;40
+nodsout;40
 nodsto;40
 nodto;40
 noduh;60
@@ -46143,6 +46160,7 @@ peroxideblonds;60;Without the "e"?
 perpetuummobile;60
 perri;40;Christina Perri, "A Thousand Years" singer
 perries;40;Fermented pear drinks
+perrine;40;???
 perro;40
 perros;40
 perrot;30
@@ -58756,6 +58774,7 @@ spathes;20
 spathic;20
 spatialdynamics;50
 spatlese;30;German wine
+spaton;40
 spatulate;30;Shaped like a spatula (botany)
 spatup;40
 spavin;20
@@ -59039,6 +59058,7 @@ spitballing;60
 spitballs;60
 spititout;60
 spititoutalready;60
+spiton;40
 spitroast;60
 spitroasted;60
 spitroasting;60
@@ -59048,8 +59068,10 @@ spitshine;60
 spitshined;60
 spitshines;60
 spitshining;60
+spitson;40
 spitsup;40
 spittingat;40
+spittingon;40
 spittingup;40
 spittoon;60
 spittoons;60
@@ -63794,6 +63816,7 @@ themarines;40
 themarsvolta;60
 themarvelousmrsmaisel;60
 themarveloustoy;60
+themasses;60
 themasters;60
 themathaintmathing;60
 themathisnotmathing;60
@@ -69505,6 +69528,8 @@ wedeln;20;Type of ski
 wedels;20
 wedgeissue;60
 wedgeissues;60
+wedgie;60
+wedgies;60
 wedidit;50
 wedo;50
 wee;50
@@ -70831,9 +70856,11 @@ wovenfabric;50
 wow;50
 wowedem;50
 wowem;40;Green paint?
+wowser;60
 wowsers;60
 wowwhat;60
 wowza;60
+wowzer;60
 wowzers;60
 woz;50
 wpa;20
