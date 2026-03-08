@@ -27462,6 +27462,7 @@ hiddencost;60
 hiddencosts;60
 hiddenjewel;60
 hiddenjewels;60
+hiddenmeaning;60
 hiddenmic;50
 hiddenmics;50
 hiddentreasure;60
@@ -61302,11 +61303,13 @@ surplices;30;Liturgical vestments
 surprisepackage;50
 surprisepackages;50
 surprisewitness;60
+surprisewitnesses;60
 surrejoinder;30;???
 surrejoinders;30;???
 surrey;40
 surroundingarea;50
-surroundsound;50
+surroundingareas;50
+surroundsound;60
 surtitle;30
 surtitles;30
 survivorshipbias;60
@@ -69857,6 +69860,7 @@ wetwipes;60
 weveallbeenthere;60
 wevebeenoverthis;60
 wevegotitmade;60
+wevegotyousurrounded;60
 wewilleatyouforbreakfast;60
 wewillrockyou;60
 wfh;40
@@ -70724,6 +70728,12 @@ wordofadvi;0
 wordplay;60
 wordprocessor;50
 wordprocessors;50
+wordsalad;60
+wordsalads;60
+wordsearch;60
+wordsearches;60
+wordsearchpuzzle;60
+wordsearchpuzzles;60
 wordstoliveby;60
 woreawire;60
 worein;40;More commonly "broke in"
