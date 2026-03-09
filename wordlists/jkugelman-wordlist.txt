@@ -31185,8 +31185,8 @@ ithastobe;50
 itheewed;50
 ithejury;50
 ithelp;30
-ithelpdesk;30
-ithelpdesks;30
+ithelpdesk;60
+ithelpdesks;60
 ithinkican;60
 ithinkidremember;60
 ithinkillmanage;60
@@ -37024,10 +37024,16 @@ maketimefor;50
 makeup;50
 makeupbag;60
 makeupbags;60
-makeupbrush;50
-makeupbrushes;50
+makeupbrush;60
+makeupbrushes;60
 makeupcase;60
 makeupcases;60
+makeupkit;60
+makeupkits;60
+makeuplesson;60
+makeuplessons;60
+makeuptutorial;60
+makeuptutorials;60
 makeuse;40
 makewar;40
 makewaron;40
@@ -46183,6 +46189,10 @@ perrot;30
 perrys;30;Plural name
 perrytheplatypus;60
 perseid;40
+perseveredwith;40
+persevereswith;40
+perseverewith;40
+perseveringwith;40
 persiancat;50
 persiancats;50
 persiflage;30;Banter
@@ -66234,8 +66244,13 @@ trichina;30;Parasitic worm
 tricing;30
 trickbone;60;Acme invention
 trickedoutof;40
-tricker;30
+tricker;40
+trickers;40
 trickingoutof;40
+trickledown;60
+trickledowneconomics;60
+trickledowneffect;60
+trickledowntheory;60
 trickoutof;40
 tricksoutof;40
 triclinic;30
