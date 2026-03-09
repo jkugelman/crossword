@@ -2982,7 +2982,7 @@ aplit;40
 aplus;50
 apmacro;40
 apmusic;50
-apmusictheory;50
+apmusictheory;60
 apneal;40
 apneas;30
 apneic;40
@@ -6535,6 +6535,7 @@ bigbad;60;Trope
 bigbads;60
 bigband;60
 bigbang;60
+bigbangtheory;60
 bigbank;50;???
 bigbanks;50
 bigbash;50
@@ -14437,17 +14438,17 @@ darnright;60
 darpa;40
 darter;40
 darters;40
-dartgun;50
-dartguns;50
+dartgun;60
+dartguns;60
 darwin;50
 darwinaward;60
 darwinawards;60
-darwinian;50
-darwinians;50
-darwiniantheory;50
-darwinism;50
-darwinist;50
-darwinists;50
+darwinian;60
+darwinians;60
+darwiniantheory;60
+darwinism;60
+darwinist;60
+darwinists;60
 das;40
 dashboardgauges;30
 dashcam;50
@@ -16534,6 +16535,7 @@ dominoeffect;60
 dominoeffects;50;Weird plural
 dominoprinciple;60
 dominospizza;50
+dominotheory;60
 domo;40
 doms;40
 don;50
@@ -25334,6 +25336,7 @@ grandtier;50
 grandtiers;50
 grandtour;50
 grandtours;50
+grandunifiedtheory;60
 grange;40
 granges;40
 granita;40;Relative of Italian ice
@@ -25368,6 +25371,7 @@ graphicscard;60
 graphicscards;60
 graphictee;60
 graphictees;60
+graphtheory;60
 grapnel;30;Grappling hook
 grapnels;30
 grappledwith;40
@@ -40190,7 +40194,7 @@ musicplayers;50
 musicroll;50
 musicrolls;50
 musicrow;50
-musictheory;50
+musictheory;60
 musictoonesears;60
 musicwith;0
 musingon;40
@@ -49477,6 +49481,7 @@ queericons;60
 queerprom;60
 queers;10
 queerstudies;60
+queertheory;60
 quentintarantino;60
 queso;40
 quesodip;50
@@ -49597,6 +49602,7 @@ racesby;40
 racesin;40
 racesinto;40
 racesto;40
+racetheory;60
 raceto;40
 racetothebottom;60
 racewar;50
@@ -63467,6 +63473,7 @@ thebestpartofwakingup;60
 thebible;30
 thebigapple;60
 thebigbang;40
+thebigbangtheory;60
 thebigdig;50
 thebigdipper;40
 thebigdog;40;2023 movie
@@ -70808,8 +70815,8 @@ workinghours;50
 workinglate;50
 workinglikeacharm;60
 workinglikeawelloiledmachine;60
-workingtheories;50
-workingtheory;50
+workingtheories;60
+workingtheory;60
 workingupthecourage;60
 workinprocess;50
 workit;60
@@ -70831,9 +70838,9 @@ workwife;60
 workwives;60
 worldaffairs;50
 worldatlas;50
-worldbank;50
-worldcapital;50
-worldcapitals;50
+worldbank;60
+worldcapital;60
+worldcapitals;60
 worldchampion;60
 worldchampions;60
 worldeconomy;50
@@ -70842,9 +70849,9 @@ worldleaders;50
 worldlily;30;Weird adverb
 worldnews;60
 worldpeace;60
-worldpower;50
-worldpowers;50
-worldsgreatest;50
+worldpower;60
+worldpowers;60
+worldsgreatest;60
 worldsgreatestdad;60
 worldsgreatestmom;60
 worldtraveler;60
