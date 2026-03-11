@@ -736,6 +736,7 @@ adducts;30
 addupto;40
 addy;40;Address, slangily [never used]
 ade;40
+adebayo;60;Bam Adebayo, who scored 83 points in an NBA game (2nd highest all time)
 adeedoo;20
 adela;40;Journalist Adela Rogers St. Johns
 adeleh;20;Truffaut's "The Story of Adele H."
@@ -5134,6 +5135,7 @@ balt;30;Latvian, e.g.
 baltimorerave;0
 bam;50
 bama;40
+bamadebayo;60;Bam Adebayo, who scored 83 points in an NBA game (2nd highest all time)
 bamako;40;Capital of Mali
 bambam;50
 bamboopole;50
@@ -36837,12 +36839,20 @@ maincharacterenergy;60
 maincharactersyndrome;60
 maincourse;50
 maincourses;50
+mainelobster;60
+mainelobsters;60
 mainer;50
 mainers;50
 maines;30;Natalie Maine of The (Dixie) Chicks
+mainevent;60
+mainevents;60
 maingate;50
+mainingredient;60
+mainingredients;60
 mainlandchina;50
 mainlot;0
+mainmenu;60
+mainmenus;60
 mainpoint;50
 mainpoints;50
 mainsequence;60;Astrononomy classification
@@ -63838,6 +63848,7 @@ themacarena;40
 themagi;30
 themagician;60;Tarot card
 themainact;40
+themaincourse;40
 themajors;30
 themalebag;20;???
 themambo;30
