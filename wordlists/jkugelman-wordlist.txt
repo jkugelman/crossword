@@ -37766,6 +37766,9 @@ mateinone;50
 matelot;20
 mateo;40
 mater;40
+materialgirl;60
+materialwitness;60
+materialwitnesses;60
 materiel;40;Military supplies
 maternityward;50
 maters;30;Alma maters
@@ -46112,6 +46115,8 @@ penuche;20;Fudge-like candy
 penzias;30;Physicist Arno Penzias who discovered the cosmic microwave background radiation
 peones;20
 peoplefood;60
+peopleofcolor;60
+peopleofsubstance;60
 peoplepleaser;60
 peoplepleasers;60
 peopleskills;60
@@ -46272,8 +46277,12 @@ personating;40
 personation;40
 personator;30
 personators;30
+personofcolor;60
 personofinterest;60
+personofsubstance;60
+personsofcolor;60
 personsofinterest;60
+personsofsubstance;60
 perspectiveshift;50
 perspectiveshifts;50
 perter;30
@@ -58696,6 +58705,8 @@ souptonuts;60
 sourapple;60
 sourball;60
 sourballs;60
+sourcematerial;60
+sourcematerials;60
 sourdoughbagel;60
 sourdoughbagels;60
 souredon;40
@@ -68503,6 +68514,7 @@ verruca;20;Wart
 verrucae;20;Warts
 versicle;30
 versicles;30
+versing;40
 verso;40;Left-hand page, opposite of recto
 versos;30
 vert;40;Vertical
