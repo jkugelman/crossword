@@ -13,6 +13,8 @@ def main():
         'inside_out': inside_out,
         'front_to_back': front_to_back,
         'back_to_front': back_to_front,
+        'switch_sides': switch_sides,
+        'flip_insides': flip_insides,
     }
 
     # Parse arguments.
@@ -92,7 +94,13 @@ def front_to_back(phrase):
 def back_to_front(phrase):
     return [p[-1] + p[:-1] for p in phrase]
 
+def switch_sides(phrase):
+    if any(p[0] == p[-1] for p in phrase): return None
+    return [p[-1] + p[1:-1] + p[0] for p in phrase]
 
+def flip_insides(phrase):
+    if any(p[1:-1] == p[1:-1][::-1] for p in phrase): return None
+    return [p[0] + p[1:-1][::-1] + p[-1] for p in phrase]
 
 if __name__ == '__main__':
     main()
