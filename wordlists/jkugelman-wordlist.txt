@@ -23947,6 +23947,7 @@ getstheax;60
 getstheaxe;60
 getsthecreativejuicesflowing;60
 getsthehint;60
+getstheick;60
 getsthenod;50
 getsthesack;50
 getsto;40
@@ -23964,6 +23965,7 @@ gettheax;60
 gettheaxe;60
 getthecreativejuicesflowing;60
 getthehint;60;Finally notice a subtle cue
+gettheick;60
 getthenod;50
 getthesack;50
 getthis;60
@@ -24038,6 +24040,7 @@ gettingtheax;60
 gettingtheaxe;60
 gettingthecreativejuicesflowing;60
 gettingthehint;60
+gettingtheick;60
 gettingthenod;50
 gettingthesack;50
 gettingto;40
@@ -25240,6 +25243,7 @@ gottheax;60
 gottheaxe;60
 gotthecreativejuicesflowing;60
 gotthehint;60
+gottheick;60
 gotthenod;50
 gotthesack;50
 gotto;40
