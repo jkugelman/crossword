@@ -7864,6 +7864,8 @@ bouzoukis;40
 bova;30;Sci-fi author Ben
 bow;50
 bowandarrow;50
+bowcase;50
+bowcases;50
 bowdlerization;60
 bowdlerizations;60
 bowdlerize;60
@@ -9858,6 +9860,7 @@ cascara;30;Coffee cherry tea
 cascaras;30
 casedout;40
 casedthejoint;60
+caseinpoint;60
 caseinsensitive;50
 caseofbeer;50
 caseofthemondays;60
@@ -13310,9 +13313,11 @@ crabwalks;50
 crack;50
 crackandpeel;50
 crackedandpeeled;50
+crackedthecase;60
 crackerbarrel;60
 crackerbarrels;60
 crackingandpeeling;50
+crackingthecase;60
 cracklinoatbran;50
 crackpot;60
 crackpotidea;60
@@ -13321,7 +13326,9 @@ crackpots;60
 crackpottery;60
 cracks;50
 cracksandpeels;50
+cracksthecase;60
 crackswise;60
+crackthecase;60
 crackwise;60
 cradle;50
 cradles;50
@@ -18123,6 +18130,8 @@ ederles;20
 edgaraward;50
 edgarawards;50
 edgardegas;50
+edgecase;60
+edgecases;60
 edgedlower;50
 edgedupto;40
 edgehog;0
@@ -40163,6 +40172,8 @@ murderboards;60
 murderbot;60;Apple TV+ series
 murderbotdiaries;60;Book series that spawned an Apple TV+ show
 murderbydeath;60
+murdercase;50
+murdercases;50
 murderersthumb;60;Genetic trait with one short, wide thumb
 murderinc;50
 murdermap;60;Conspiracy board
@@ -59309,6 +59320,8 @@ spraytan;60
 spraytanned;60
 spraytanning;60
 spraytans;60
+spraywall;60;Wall full of random holds in a climbing gym
+spraywalls;60
 spreadeagling;40
 spreadedon;30
 spreadem;50
