@@ -22,15 +22,21 @@ def load_words(min_score=1, bonuses=False):
 
     return {word: score for (word, score) in words.items() if score >= min_score}
 
-def save_words(words, path, scores=True, min_score=10):
+def save_words(words, path, scores=True, min_score=10, map_filter=None):
     """
     Saves the wordlist `words` to a text file at `path`. If `scores` is `False` the scores are
     omitted. Words below `min_score` are filtered out.
     """
     with open(rel_path(path), 'w') as file:
         for (word, score) in sorted(words.items()):
-            if score >= min_score:
-                file.write(f'{word};{score}\n' if scores else f'{word}\n')
+            if score < min_score:
+                continue
+            if map_filter:
+                mapped = map_filter(word, score)
+                if not mapped:
+                    continue
+                word, score = mapped
+            file.write(f'{word};{score}\n' if scores else f'{word}\n')
 
 def _load(words, path, filter=None):
     with open(rel_path(path)) as file:
