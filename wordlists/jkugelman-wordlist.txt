@@ -4988,6 +4988,8 @@ bagjob;60
 bagjobs;60
 baglunch;50
 bagnold;30;Playwright
+bagtag;50;Golf accessory
+bagtsgs;50
 bah;50
 bahai;40;Bahá'í faith
 bahiagrass;40
@@ -5096,6 +5098,11 @@ ballisticstest;60
 ballisticstests;60
 balljoint;50
 balljoints;50
+balllightning;60
+ballmark;60;Golf
+ballmarker;60;Golf
+ballmarkers;60
+ballmarks;60
 ballondor;60
 balloonanimal;60
 balloonanimals;60
@@ -11760,6 +11767,7 @@ clubmoss;50
 clubmosses;50
 clubowner;50
 clubowners;50
+clubpath;60;Golf
 clubpro;50
 clubpros;50
 clubscene;50
@@ -20281,6 +20289,7 @@ fabius;30
 fabricatedstory;50
 fabricsofteners;50
 fac;20
+faceangle;60;Golf
 facebookaccount;60
 facebookaccounts;60
 facebookbuttons;50
@@ -24856,6 +24865,8 @@ goldtooth;60
 goldwatch;60
 goldwatches;60
 goleft;40;???
+golfbagtag;60
+golfbagtags;60
 golfcart;60
 golfcarts;60
 golfchannel;60
@@ -34050,6 +34061,7 @@ laughswith;40
 laughtrack;60
 laughtracks;60
 laughwith;40
+launchangle;60;Golf
 launchcode;60
 launchcodes;60
 launchedinto;40
@@ -57334,9 +57346,15 @@ skullandcrossbones;60
 skullcandy;50;Headphones brand
 skullcap;60
 skullcaps;60
+skulled;50;Golf
+skulledshot;60;Golf
+skulledshots;60
 skullet;60
 skullets;60
+skulling;50;Golf
 skullisland;60
+skullshot;60;Golf
+skullshots;60
 skunkfur;50
 skunkriver;50
 skus;40
@@ -70964,6 +70982,8 @@ worldwarii;60
 worldwariiera;50
 worldwariii;60
 worley;40;???
+wormburner;60
+wormburners;60
 wormdrive;50
 wormdrives;50
 wormedoneswayinto;50
