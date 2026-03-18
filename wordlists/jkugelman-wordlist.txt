@@ -8400,6 +8400,7 @@ brushingon;40
 brushon;40
 brusselsbelgium;30;???
 bryans;30;Plural name
+brysondechambeau;60;Golfer Bryson DeChambeau
 bs;40
 bsa;40
 bsc;20
@@ -14861,6 +14862,7 @@ decease;40
 decembers;20
 decennia;30
 decennium;30;Decade
+dechambeau;50;Golfer Bryson DeChambeau
 deci;40
 deciare;20;10 square meters
 decidedforoneself;60
@@ -23849,6 +23851,7 @@ getinonadeal;50
 getinto;40
 getintoarut;50
 getintoit;50
+getintotheswingofthings;60
 getintrouble;50
 getitthroughyourhead;60
 getitthroughyourskull;60
@@ -23929,6 +23932,7 @@ getsinonadeal;50
 getsinto;40
 getsintoarut;50
 getsintoit;50
+getsintotheswingofthings;60
 getsintrouble;50
 getsloshed;50
 getslost;50
@@ -23973,6 +23977,7 @@ getstosecondbase;60
 getstothebottomof;60
 getstothirdbase;60
 getsugly;60
+getsupanddown;60
 getsusedtoit;50
 getswiththetimes;60
 gettan;40
@@ -24029,6 +24034,7 @@ gettinginonadeal;50
 gettinginto;40
 gettingintoarut;50
 gettingintoit;50
+gettingintotheswingofthings;60
 gettingintrouble;50
 gettingmade;60
 gettingnaked;50
@@ -24066,6 +24072,7 @@ gettingtosecondbase;60
 gettingtothebottomof;60
 gettingtothirdbase;60
 gettingugly;60
+gettingupanddown;60
 gettingusedtoit;50
 gettingwiththetimes;60
 getto;40
@@ -24077,6 +24084,7 @@ gettothebottomof;60
 gettothirdbase;60
 gettyimages;50
 getugly;60
+getupanddown;60;In golf, get in the hole in two strokes
 getupsteam;20;Made up
 getusedtoit;60
 getwiththetimes;60
@@ -25215,6 +25223,7 @@ gotinonadeal;50
 gotinto;40
 gotintoarut;50
 gotintoit;50
+gotintotheswingofthings;60
 gotintrouble;50
 gotitmade;50
 gotlost;50
@@ -25272,6 +25281,7 @@ gottothebottomof;60
 gottothirdbase;60
 gotturnedaround;60
 gotugly;60
+gotupanddown;60
 gotupthecourage;50
 gotupto;40
 gotusedtoit;50
@@ -49251,7 +49261,9 @@ purdah;30;Muslim/Hindu practice of segregating women
 purdahs;30
 pureasthedrivensnow;60
 purechance;60
+pured;50;Struck a golf ball perfectly
 pureluck;60
+pures;50;Strikes a golf ball perfectly
 purex;40;Detergent brand
 puri;20
 purifications;40
@@ -49259,6 +49271,7 @@ purim;50;Jewish holiday
 purims;40;Plural Jewish holiday
 purine;40
 purines;40
+puring;50;Striking a golf ball perfectly
 purl;40
 purled;40
 purlie;20;Musical
@@ -54123,7 +54136,9 @@ sande;20;1930s jockey
 sandeel;40
 sandeels;40
 sandia;40
+sandie;50;Golf side bet (score par after hitting a bunker)
 sandiegans;30
+sandies;50
 sandimas;30;California city, doesn't seem notable?
 sandl;30
 sando;40;Slang for sandwich
@@ -54602,12 +54617,14 @@ schaap;40;ESPN sportscaster Jeremy Schaap
 schadenfreude;60
 schatzi;20
 schatzis;20
+schauffele;50;Golfer Xander Schauffele
 sched;40
 schedule;50
 schedulea;50
 schedulers;30
 schedules;50
 scheelite;40;Tungsten ore
+scheffler;50;Golfer Scottie Scheffler
 schell;40;Maximillian Schell, Best Actor in 1961 for "Judgment at Nuremberg"
 schifrin;30;Pianist Lalo
 schiller;40;German playwright Friedrich Schiller
@@ -54710,6 +54727,7 @@ scoter;20;Seaduck
 scoters;20;Seaduck
 scotfree;60
 scotti;30;Baritone Antonio Scotti
+scottiescheffler;60;Golfer Scottie Scheffler
 scottishaccent;60
 scottishaccents;60
 scotto;30;Soprano Renata Scotto
@@ -61672,6 +61690,9 @@ swingera;50
 swingers;60
 swingingat;40
 swingingaway;50
+swingmechanics;60;Golf
+swingmusic;60
+swingofthings;60
 swingsat;40
 swingsaway;50
 swingshift;50
@@ -64297,6 +64318,7 @@ thesuezcanal;40
 thesun;50;Tarot card
 thesunalsorises;60
 thesuzukimethod;40
+theswingofthings;60
 thetab;20
 thetable;20
 thetaftera;30
@@ -67868,6 +67890,7 @@ up;50
 upa;20
 upagainstit;60
 upandcoming;60
+upanddown;60;In golf, ability to get in the hole in two strokes
 upandtotheright;60;Business mantra
 upandunder;50
 upanishad;30
@@ -71151,6 +71174,7 @@ x;40
 xacto;50
 xanadu;60
 xanax;50
+xanderschauffele;60;Golfer Xander Schauffele
 xando;20
 xandy;40
 xandyaxes;50
