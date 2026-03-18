@@ -5608,6 +5608,13 @@ bathsets;50
 bathtime;50
 bathtimes;50
 bathtoy;50
+bathtubmadonna;60;Lawn shrine with the Virgin Mary
+bathtubmadonnas;60
+bathtubmary;60;Lawn shrine with the Virgin Mary
+bathtubmarys;60;Lawn shrine with the Virgin Mary
+bathtubshrine;60;Lawn shrine with the Virgin Mary
+bathtubshrines;60
+bathtubvirgins;60
 bathymeter;50;Device that measures water depth
 bathymeters;50
 bathymetric;50
@@ -21886,6 +21893,8 @@ floatedonair;50
 floaties;50
 floatingaway;50
 floatingonair;50
+floatingspherefountain;60
+floatingspherefountains;60
 floatonair;50
 floatrider;50
 floatriders;50
@@ -33396,6 +33405,10 @@ kudu;40;African antelope
 kudzu;50
 kudzus;40;Weird plural
 kue;20
+kugelball;60;Floating sphere fountain
+kugelballs;60
+kugelfountain;60;Floating sphere fountain
+kugelfountains;60
 kuiper;50;Kuiper belt
 kuiperbelt;50
 kuiperbeltobject;50
@@ -34134,6 +34147,8 @@ lawnedger;50
 lawnedgers;50
 lawnflamingo;60
 lawnflamingos;60
+lawnshrine;60;Lawn shrine with the Virgin Mary
+lawnshrines;60
 lawofattraction;50
 lawofmoses;60
 lawprofessor;60
@@ -37654,6 +37669,7 @@ marylanders;50
 marylynn;50;Mary Lynn Rajskub
 marylynnrajskub;50
 marymagdalene;60
+maryonthehalfshell;60;Lawn shrine with the Virgin Mary
 marys;30
 marysteenburgen;50
 marystuartmasterson;50;Actress
