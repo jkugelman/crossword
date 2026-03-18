@@ -9,3 +9,4 @@ if __name__ == '__main__':
     words = load_words(bonuses=True)
     save_words(words, 'wordlist.txt', scores=True)
     save_words(words, 'unscored.txt', scores=False, min_score=20)
+    save_words(words, 'orca-wordlist.txt', scores=True, min_score=30)
