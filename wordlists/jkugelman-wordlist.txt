@@ -8142,9 +8142,13 @@ breck;20
 breechesrole;60
 breechesroles;60
 brees;40;Quarterback Drew Brees
+breezedin;40
 breezedrightpast;50
+breezein;40
 breezerightpast;50
+breezesin;40
 breezesrightpast;50
+breezingin;40
 breezingrightpast;50
 breitbart;10
 breitbartnews;10
@@ -10733,9 +10737,11 @@ cheatday;60
 cheatdays;60
 cheatdeath;60
 cheateddeath;60
+cheatedin;40
 cheatedon;40
 cheatin;40;Hank Williams "Your Cheatin' Heart", or 2013 movie
 cheatingdeath;60
+cheatingin;40
 cheatingon;40
 cheatmeal;60
 cheatmeals;60
@@ -10743,6 +10749,7 @@ cheatmode;60
 cheatmodes;50
 cheaton;40
 cheatsdeath;60
+cheatsin;40
 cheatson;40
 checkedinto;40
 checkedon;40
@@ -12249,13 +12256,17 @@ colorcommentary;60
 colorcommentator;60
 colorcommentators;60
 colorcoordinated;60
+coloredin;40
 coloredpencil;50
 coloredpencils;50
 coloreds;10
+colorin;40
+coloringin;40
 colorpencil;50
 colorpencils;50
 colorpurple;50
 colorsaturation;50
+colorsin;40
 colorwheel;60
 colorwheels;60
 colossusofrhodes;60
@@ -31248,6 +31259,7 @@ isu;20
 isupposeso;60
 isurecant;60
 isuspect;30
+isvotedin;30
 iswaterwet;60
 iswearbyit;60
 iswearit;60
@@ -37965,6 +37977,7 @@ maxxer;60
 maxxers;60
 maxxing;60
 may;50
+mayaderen;40;Maya Deren, experimental filmmaker in the 1940s and 50s
 mayanruins;50
 maybedont;60
 maybeso;50
@@ -52131,7 +52144,11 @@ reutters;30
 rev;50
 revealthering;0
 reveirter;0
+reveledin;40
+revelin;40
+revelingin;40
 revell;40;Model car company
+revelsin;40
 revenge;50
 revengebedtimeprocrastination;60
 revenged;40
@@ -54587,14 +54604,18 @@ scamartists;60
 scandent;20
 scandia;30;???
 scandinaviannoir;60
+scanin;40
+scannedin;40
 scannedthearea;50
 scannedthecrowd;50
 scannedtheenvironment;50
 scannedtheroom;50
+scanningin;40
 scanningthearea;50
 scanningthecrowd;50
 scanningtheenvironment;50
 scanningtheroom;50
+scansin;40
 scansthearea;50
 scansthecrowd;50
 scanstheenvironment;50
@@ -59891,6 +59912,7 @@ stargazer;60
 stargazers;60
 stargazes;60
 stargazing;60
+starin;40
 staringat;40
 staringdaggers;60
 staringdaggersat;60
@@ -59919,6 +59941,8 @@ starquarterback;60
 starquarterbacks;60
 starrating;60
 starratings;60
+starredin;40
+starringin;40
 starringjohncho;0
 starringrole;60
 starringroles;60
@@ -59932,6 +59956,7 @@ starships;60
 starshiptroopers;60
 starsign;60
 starsigns;60
+starsin;40
 starsofstageandscreen;60
 starspangledbanner;60
 starstruck;60
@@ -59950,6 +59975,7 @@ startatthetop;60
 startedallover;50
 startedat;40
 startedatab;50
+startedin;40
 startedinon;40
 startedon;40
 startedto;40
@@ -59957,9 +59983,11 @@ starterbras;50
 starterfluid;50
 starterkit;50
 starterkits;50
+startin;40
 startingallover;50
 startingat;40
 startingatab;50
+startingin;40
 startinginon;40
 startinglineup;50
 startinglineups;50
@@ -59981,6 +60009,7 @@ startours;50
 startsallover;50
 startsat;40
 startsatab;50
+startsin;40
 startsinon;40
 startson;40
 startsto;40
@@ -60575,11 +60604,15 @@ stomal;30
 stomas;30
 stomata;30;Leaf pores
 stompedin;40
+stompedon;40
 stompin;40
 stompingground;60
 stompinggrounds;60
 stompingin;40
+stompingon;40
+stompon;40
 stompsin;40
+stompson;40
 stoneage;60
 stonechat;30;Small bird
 stonechats;30;Small birds
@@ -60843,6 +60876,9 @@ stretto;40;Fugue technique
 stria;20;Narrow groove
 striae;30;Stretch marks
 striate;40
+stridein;40
+stridesin;40
+stridingin;40
 stridor;20;Breathing sound
 stridulate;30
 stridulated;30
@@ -60899,6 +60935,7 @@ strobel;30;???
 strobic;30;Spinning, like a fan
 strobili;20;Pine cone structures
 strobilus;20;Pine cone structure
+strodein;40
 stroh;20;Austrian spirit
 stroker;30
 strokers;30
