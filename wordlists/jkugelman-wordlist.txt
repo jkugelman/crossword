@@ -26383,6 +26383,8 @@ halons;20
 halotop;60;Low calorie ice cream
 hals;30
 halston;40;Mononymous fashion designer (1932-1990)
+haltertop;60
+haltertops;60
 halva;40;Persian confectionery
 halvah;30
 halvahs;30
@@ -62617,6 +62619,8 @@ tarawa;30;Capital of Kiribati (a Micronesian island country)
 tarbaby;50
 tardes;30
 tardis;60;"Doctor Who" device
+tardyslip;60
+tardyslips;60
 tared;40
 tares;40
 targaryen;60;"Game of Thrones" family
@@ -62779,6 +62783,7 @@ taws;30
 tax;50
 taxact;40;Green paint?
 taxacts;40
+taxandtip;60
 taxbill;50
 taxbite;50
 taxbracket;50
@@ -69482,10 +69487,10 @@ warmspells;50
 warmsto;40
 warmsuptoanidea;60
 warmto;40
-warmupact;50
-warmupacts;50
-warmuplap;50
-warmuplaps;50
+warmupact;60
+warmupacts;60
+warmuplap;60
+warmuplaps;60
 warmuptoanidea;60
 warnedof;40
 warningof;40
@@ -70766,8 +70771,8 @@ windtunnel;50
 windtunnels;50
 windturbine;50
 windturbines;50
-winduptoy;50
-winduptoys;50
+winduptoy;60
+winduptoys;60
 windycity;60
 wineaficionado;50
 wineaficionados;50
