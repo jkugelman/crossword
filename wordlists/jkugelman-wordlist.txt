@@ -6367,6 +6367,8 @@ besots;40
 besotted;50;Infatuated
 besotting;40
 bess;40
+bestactor;60
+bestactress;60
 bestboy;50
 bestboys;50
 bestbud;60
@@ -6397,6 +6399,8 @@ bestowson;40
 bestraightwithme;60
 bestseller;60
 bestsellers;60
+bestsupportingactor;60
+bestsupportingactress;60
 bestupset;60;ESPY award
 besuretosmackthatbell;60
 besweeton;50
@@ -6421,6 +6425,7 @@ betenoire;60;Anathema
 betesnoires;60
 bethatasitmay;60
 bethe;20;Partial
+betheball;60;Caddyshack advice
 bethebiggerman;60
 bethink;40
 bethinks;40
@@ -12727,6 +12732,7 @@ contactlesspayment;60
 contactlesspayments;60
 contactsport;60
 contactsports;60
+contactus;60
 containerization;60
 containeroftuna;0
 containership;60
@@ -14803,7 +14809,8 @@ dealtto;40
 dealwiththedevil;60
 deana;40;Country music's Deana Carter
 deane;40;Early diplomat Silas Deane
-deanery;30
+deaneries;40
+deanery;40
 deanship;40
 deanships;40
 deanslist;50
@@ -15384,6 +15391,7 @@ descant;30
 descanted;30
 descanting;30
 descants;30
+descartes;60
 descender;50;Letter part
 descenders;50
 descendingorder;50
@@ -21138,8 +21146,8 @@ ferndale;40;Detroit suburb
 ferneries;40
 fernery;40;Specialized garden for the display of ferns
 fernet;40;Liqueur
-ferragamo;50
-ferragamos;50
+ferragamo;60
+ferragamos;60
 ferraro;40;Geraldine Ferraro
 ferretedout;50
 ferreter;40
@@ -21431,7 +21439,8 @@ finlandia;30;Tone poem by Jean Sibelius
 finna;50;Slang
 fios;30
 fir;50
-firealarm;50
+firealarm;60
+firealarms;60
 fireandash;60;Avatar 3
 fireandbrimstone;60
 fireandice;60
@@ -28521,6 +28530,8 @@ hotlava;50
 hotlead;60;Bullets
 hotleads;50
 hotlinemiami;60
+hotmess;60
+hotmesses;60
 hotoffthepresses;60
 hoton;40
 hotones;60;Hot wings interview show
@@ -29533,6 +29544,7 @@ iknowyou;60
 iknowyouarebutwhatami;60
 iko;20
 ikoiko;30;Mardis Gras song
+ikr;30
 il;40
 ila;20
 ilana;30;Actress Ilana Glazer
@@ -40323,6 +40335,8 @@ murderbotdiaries;60;Book series that spawned an Apple TV+ show
 murderbydeath;60
 murdercase;50
 murdercases;50
+murderee;30
+murderees;30
 murderersthumb;60;Genetic trait with one short, wide thumb
 murderinc;50
 murdermap;60;Conspiracy board
@@ -51600,6 +51614,7 @@ renata;30;Any of several opera singers
 renato;30;"La Cage aux Folles" character
 rendell;30;???
 rendezvous;50
+renedescartes;60
 renees;30;Plural name
 renegedon;40
 renegeon;40
@@ -57179,6 +57194,7 @@ sirianholm;50
 siriboe;40;Actor Kofi Siriboe on the show "Queen Sugar"
 sirica;30;???
 siriusxm;50
+sirleaf;40;Ellen Sirleaf, president of Liberia 2006-2018, first elected female head of state in Africa
 sirmichaelcaine;60
 sirnosir;50
 sirocco;40;Hot African wind
@@ -62778,6 +62794,8 @@ tautonyms;50;Scientific names in which the same word is used for both genus and 
 tav;20
 taverna;40;Greek restaurant
 tavernas;40
+taverner;40;Tavern-keeper
+taverners;40
 tavernes;40;French commune
 tavissmiley;50
 taw;30;Marble, or Tweety Bird word
@@ -62911,8 +62929,8 @@ teacuppoodles;60
 teaearlgreyhot;60
 teaegg;60
 teaeggs;60
-teagarden;50
-teagardens;50
+teagarden;60
+teagardens;60
 teainfuser;60
 teainfusers;60
 teakettle;60
@@ -64211,6 +64229,7 @@ themurderbotdiaries;60;Book series that spawned an Apple TV+ show
 themuses;50
 themushroomkingdom;50
 then;50
+thenaenae;40
 thenakedgun;60
 thenakedmaja;60;Goya painting
 thenamesbond;50
@@ -69807,6 +69826,7 @@ webdesigners;60
 webdeveloper;60
 webdevelopers;60
 webdevelopment;60
+webdubois;60
 webern;40;20th century composer Anton Webern (1883-1945)
 webers;30;Plural name
 webfooted;60
