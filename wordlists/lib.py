@@ -104,6 +104,10 @@ def _add_bonuses(words, path):
         except KeyError:
             pass
 
+def load_lines(path):
+    with open(path) as file:
+        return {line.strip() for line in file}
+
 def grouped_by(items, key):
     """
     Returns a dictionary where the `items` are grouped by `key(item)`.
