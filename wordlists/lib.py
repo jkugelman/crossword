@@ -358,5 +358,8 @@ def nested_words(fulls, outers, inners):
 def is_palindrome(word):
     return word == word[::-1]
 
+def is_semordnilap(word, words):
+    return word[::-1] in words and word[::-1] != word
+
 def rel_path(path):
     return os.path.join(os.path.dirname(__file__), path)
