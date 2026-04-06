@@ -9506,6 +9506,7 @@ canteens;50
 canthelpyouthere;60
 cantholdacandleto;60
 canticleforleibowitz;50
+cantimaginewhy;60
 cantle;30
 cantles;30
 cantmakeanyguarantees;60
@@ -11743,6 +11744,7 @@ closedsystem;60
 closedsystems;60
 closedtheloop;50
 closedupshop;60
+closeencountersofthethirdkind;60
 closeinon;40
 closelook;50
 closelooks;50
@@ -15483,6 +15485,8 @@ desuetudes;40
 det;30
 detachedgarage;50
 detachedgarages;50
+detailedaccount;60
+detailedaccounts;60
 detat;30;Coup d'etat
 detective;50
 detectivecomics;60
@@ -29038,6 +29042,7 @@ icantdoit;60
 icantdothat;60
 icantgonow;60
 icantgoon;60
+icantimaginewhy;60
 icantlook;60
 icantmakeanyguarantees;60
 icantoo;40;Playground retort
@@ -29548,6 +29553,7 @@ ikeaeffect;60
 ikette;30
 ikillme;60
 ikings;30;1 Kings
+iknewrightaway;60
 iknewyoudlikeit;60
 iknewyoudsaythat;60
 iknewyouwhen;50;Song
@@ -50258,7 +50264,8 @@ ramtruck;30
 ramtrucks;30
 ramune;30;Japanese soda
 ran;50
-ranaclosesecond;50
+ranaclosesecond;60
+ranaclosesecondto;50
 ranafoul;50
 ranalight;50
 ranalong;50
@@ -53633,7 +53640,8 @@ rumrunner;50
 rumrunners;50
 rumspringa;50
 run;50
-runaclosesecond;50
+runaclosesecond;60
+runaclosesecondto;50
 runafoul;50
 runalight;50
 runalong;50
@@ -53668,7 +53676,8 @@ runloose;50
 runnel;30;Streamlet
 runnels;30;Streamlets
 runneth;40
-runningaclosesecond;50
+runningaclosesecond;60
+runningaclosesecondto;50
 runningalight;50
 runningascam;50
 runningat;40
@@ -53720,7 +53729,8 @@ runpointfor;50
 runragged;60
 runrampant;60
 runringsaround;60
-runsaclosesecond;50
+runsaclosesecond;60
+runsaclosesecondto;50
 runsalight;50
 runsalong;50
 runsascam;50
@@ -58850,6 +58860,7 @@ sorrynorefunds;60
 sorrysort;60
 sorrystate;60
 sorrytobotheryou;60
+sorrywereclosed;60
 sorrywrongnumber;60
 sorryyouremad;60
 sortdata;30;Green paint, not an actual spreadsheet command
@@ -65784,6 +65795,7 @@ tonystark;60
 too;50
 toobigtofail;60
 toocareful;50
+toocloseforcomfort;60
 toocool;60
 toocute;60
 tooearlytotell;60
