@@ -4798,7 +4798,7 @@ bachelorparty;50
 bachelorsdegrees;50
 bachesit;30
 bachingit;30
-bachit;20;Spend time without wife (?)
+bachit;30;Spend time without wife
 bachsonata;50
 bachsonatas;50
 bacillary;40
@@ -24754,8 +24754,8 @@ goesinon;50
 goesinsane;50
 goesinto;40
 goesintolabor;50
-goesipo;50
-goeskaput;50
+goesipo;40
+goeskaput;60
 goesmad;50
 goesmadfor;40
 goesnumb;50
@@ -24869,8 +24869,8 @@ goinginon;50
 goinginpeace;50
 goinginsane;50
 goingintolabor;50
-goingipo;50
-goingkaput;50
+goingipo;40
+goingkaput;60
 goingmad;50
 goingmadfor;40
 goingnumb;50
@@ -24910,9 +24910,9 @@ goinon;50
 goinsane;50
 gointo;40
 gointolabor;50
-goipo;50
+goipo;40
 goitrous;30;Having a goiter
-gokaput;50
+gokaput;60
 gol;40
 golan;40;Golan Heights in Israel
 golconda;40
@@ -70228,8 +70228,8 @@ wentinpeace;50
 wentinsane;50
 wentinto;40
 wentintolabor;50
-wentipo;50
-wentkaput;50
+wentipo;40
+wentkaput;60
 wentmad;50
 wentmadfor;40
 wentnowhere;60
