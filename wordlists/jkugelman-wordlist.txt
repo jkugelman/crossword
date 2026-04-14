@@ -8268,6 +8268,10 @@ briskup;30
 brisling;40;Type of sardine
 brislingsardine;50
 brislingsardines;50
+bristleat;40
+bristledat;40
+bristlesat;40
+bristlingat;40
 brithume;50;ABC journalist
 britishacademy;60
 britishacademyfilmaward;60
@@ -14118,12 +14122,16 @@ curlyneal;50;Harlem Globetrotter
 currentness;40
 currerbell;60;Charlotte Brontë
 currish;20
+curseat;40
+cursedat;40
 curseofexpertise;60
 curseofknowledge;60
 curser;40
 cursers;40
+cursesat;40
 curseword;60
 cursewords;60
+cursingat;40
 curtainbangs;60
 curtest;30
 curtesy;30;Law term, see dower
@@ -24749,6 +24757,7 @@ goesape;50
 goesapeover;50
 goesas;40
 goesastray;50
+goesat;40
 goesaway;50
 goesawry;50
 goesbackto;40
@@ -24867,6 +24876,7 @@ goingape;50
 goingapeover;50
 goingas;40
 goingastray;50
+goingat;40
 goingawry;50
 goingbackto;40
 goingbig;50
@@ -25929,6 +25939,10 @@ grrm;20
 gru;40
 grucci;30;Fireworks by Grucci
 gruels;30
+grumbleat;40
+grumbledat;40
+grumblesat;40
+grumblingat;40
 grumpycat;60
 grungemetal;60
 grunion;40;Fish species
@@ -36659,6 +36673,10 @@ lunet;30
 lunets;30
 lunette;40;Half-moon shaped architectural space
 lunettes;40
+lungeat;40
+lungedat;40
+lungesat;40
+lungingat;40
 lungpower;50
 lungwort;50
 lungworts;50
@@ -70258,6 +70276,7 @@ wentape;50
 wentapeover;50
 wentas;40
 wentastray;50
+wentat;40
 wentawry;50
 wentbackto;40
 wentbig;50
@@ -70919,6 +70938,10 @@ winanoscar;50
 winaprize;50
 winat;40
 winbronze;50
+winceat;40
+wincedat;40
+wincesat;40
+wincingat;40
 wind;50
 windchime;50
 windchimes;50
