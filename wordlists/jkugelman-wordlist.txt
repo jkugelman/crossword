@@ -29043,7 +29043,8 @@ iassumenot;60
 iat;20
 iatacode;40
 iatacodes;40
-iate;50
+iate;40
+iateit;30;Green paint
 iatric;20;Medical
 iatrogenesis;30
 iatrogenic;30;Relating to illness caused by medical examination or treatment
@@ -36266,6 +36267,7 @@ losesteam;60
 losestheplot;60
 losesto;40
 losestouchwith;40
+losetheattitude;60
 losetheplot;60
 loseto;40
 losetouchwith;40
@@ -41213,6 +41215,8 @@ neerdowells;60
 nef;20
 neg;40
 negative;50
+negativeattitude;50
+negativeattitudes;50
 negatived;40
 negativeeffects;50
 negativeimpact;50
