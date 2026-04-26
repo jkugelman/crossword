@@ -21453,7 +21453,10 @@ findersfee;60
 findersfees;60
 findgod;60
 findinggod;60
+findinglacking;50
+findlacking;50
 findsgod;60
+findslacking;50
 findtime;50
 fineart;60
 fineartdealer;60
@@ -22592,6 +22595,7 @@ foulcall;60
 foulcalls;60
 foundation;50
 foundgod;60
+foundlacking;50
 foundobject;50
 foundobjects;50
 foundone;20
