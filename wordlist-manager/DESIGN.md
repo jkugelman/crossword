@@ -132,14 +132,11 @@ Lists are merged in priority order. For each word, the highest-priority list tha
 
 ## XWordInfo Integration
 
-XWI lists are behind a subscriber login. Planned flow:
+XWI is behind a subscriber paywall and cannot be auto-downloaded. Subscribers must download the file from XWordInfo and upload it manually.
 
-1. User clicks "Connect XWordInfo" — enters email/password
-2. App authenticates with XWI and downloads the wordlist file
-3. Credentials cached in `localStorage` for future one-click "Refresh" button
-4. If credentials expire, prompts to re-enter
-
-**Status:** Awaiting permission and technical details from Jim Horne (site owner). This feature is deferred until that conversation resolves. The list will appear in the default config but in a "manual upload" fallback mode until integration is possible.
+- XWI appears in the default config as an upload slot with instructions
+- No login flow, no credential storage, no "Refresh" button
+- Same upload mechanism as any other local file
 
 ---
 
@@ -148,13 +145,12 @@ XWI lists are behind a subscriber login. Planned flow:
 ```
 AppState {
   lists: List[]          // ordered by priority (index 0 = highest priority)
-  xwiCredentials?: { email, token }  // stored in localStorage
 }
 
 List {
   id: string
   name: string
-  source: "upload" | "url" | "builtin-download" | "xwi"
+  source: "upload" | "url" | "builtin-download"
   url?: string           // for auto-download lists
   rawEntries: Entry[]    // original parsed data, never mutated
   rescoreRules: Rule[]
@@ -201,14 +197,14 @@ Derived data (computed on the fly, not stored):
 │  Wordlist Manager                          [Export Merged ▼] │
 ├──────────────────────────────────────────────────────────────┤
 │  ≡ jkugelman            87,432 entries  All      [↓ Refresh] │
-│  ≡ XWordInfo            92,100 entries  All      [↓ Refresh] │
+│  ≡ XWordInfo            92,100 entries  All      [↑ Upload]  │
 │  ≡ Spread the Wordlist  55,000 entries  50+      [↓ Refresh] │
 │  ≡ Peter Broda          12,300 entries  80+      [↓ Refresh] │
 │                                                              │
 │  [+ Add List]                                                │
 ├──────────────────────────────────────────────────────────────┤
 │  ▼ XWordInfo (XWI)                                           │
-│    Source: paid subscriber  [Connect / Refresh]              │
+│    Source: manual upload (XWI subscriber download)           │
 │    Rescore rules:                                            │
 │      60+ → 60    50–59 → 50    30–49 → 30    0–29 → 20       │
 │    Preview: CROSSWORD 75 → 60  ENNUI 28 → 20  EELER 15 → 20  │
@@ -219,12 +215,12 @@ Derived data (computed on the fly, not stored):
 
 ## Build Plan
 
-### Phase 1 — Import & Display
-- [ ] Parse `word;score` and `word;score;comment` format
-- [ ] Load from file upload; store in `localStorage`
-- [ ] Auto-download free lists (jkugelman GitHub, STWL)
-- [ ] Virtual-scroll table for large lists
-- [ ] Stats: entry count, score distribution
+### Phase 1 — Import & Display ✓
+- [x] Parse `word;score` and `word;score;comment` format
+- [x] Load from file upload; store in `localStorage`
+- [x] Auto-download free lists (jkugelman GitHub, STWL)
+- [x] Virtual-scroll table for large lists
+- [x] Stats: entry count, score distribution
 
 ### Phase 2 — Rescore
 - [ ] Rule editor UI (add/remove/reorder rules)
@@ -243,18 +239,10 @@ Derived data (computed on the fly, not stored):
 - [ ] Export as `word;score` file
 - [ ] Optional score floor on export
 
-### Phase 5 — XWordInfo Integration
-- [ ] Login flow
-- [ ] Credential storage in `localStorage`
-- [ ] One-click Refresh
-- [ ] Deferred pending permission from Jim Horne
-
 ---
 
 ## Open Questions
 
 1. ~~**CORS for auto-downloads**~~ — Resolved. Both jkugelman (GitHub raw) and STWL (Google Drive usercontent) serve `Access-Control-Allow-Origin: *`. Use the `drive.usercontent.google.com` URL directly for STWL to skip a 303 redirect hop.
-2. **XWI technical details** — what API/mechanism does XWI expose for downloading the list? (TBD, pending Jim Horne conversation)
+2. ~~**XWI technical details**~~ — Resolved. XWI subscribers upload the file manually.
 3. **Broda list URL** — where is the canonical download location?
-4. **Score ranges** — confirm exact score ranges for each list (needed to validate rescore rules make sense).
-5. **Rebus/special characters** — for now, A–Z only. Revisit if needed.
