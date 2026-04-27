@@ -11,6 +11,7 @@ def main():
     # Output fieldnames = basics fields + ratings fields
     fieldnames = [
         "tconst",
+        "title",
         "titleType", "primaryTitle", "originalTitle",
         "isAdult",
         "startYear", "endYear",
