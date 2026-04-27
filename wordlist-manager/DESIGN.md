@@ -200,18 +200,18 @@ Derived data (computed on the fly, not stored):
 ┌──────────────────────────────────────────────────────────────┐
 │  Wordlist Manager                          [Export Merged ▼] │
 ├──────────────────────────────────────────────────────────────┤
-│  ≡ jkugelman            87,432 entries  50–100   [↓ Refresh] │
-│  ≡ XWordInfo (XWI)      92,100 entries  20–60    [↓ Refresh] │
-│  ≡ Spread the Wordlist  55,000 entries  50       [↓ Refresh] │
-│  ≡ Peter Broda          12,300 entries  60       [↓ Refresh] │
+│  ≡ jkugelman            87,432 entries  All      [↓ Refresh] │
+│  ≡ XWordInfo            92,100 entries  All      [↓ Refresh] │
+│  ≡ Spread the Wordlist  55,000 entries  50+      [↓ Refresh] │
+│  ≡ Peter Broda          12,300 entries  80+      [↓ Refresh] │
 │                                                              │
 │  [+ Add List]                                                │
 ├──────────────────────────────────────────────────────────────┤
 │  ▼ XWordInfo (XWI)                                           │
 │    Source: paid subscriber  [Connect / Refresh]              │
 │    Rescore rules:                                            │
-│      60+ → 60    50–59 → 50    30–49 → 30    0–29 → 20      │
-│    Preview: CROSSWORD 75 → 60  ENNUI 28 → 20  EELER 15 → 20 │
+│      60+ → 60    50–59 → 50    30–49 → 30    0–29 → 20       │
+│    Preview: CROSSWORD 75 → 60  ENNUI 28 → 20  EELER 15 → 20  │
 └──────────────────────────────────────────────────────────────┘
 ```
 
