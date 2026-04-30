@@ -7108,6 +7108,7 @@ blewoff;50
 blewon;40
 blewonesownhorn;50
 blewsmoke;50
+blewthelead;60
 blewuponesspot;60
 blindblindstudy;0
 blindcarboncopies;50
@@ -7228,6 +7229,7 @@ blowingoff;50
 blowingon;40
 blowingonesownhorn;50
 blowingsmoke;50
+blowingthelead;60
 blowinguponesspot;60
 blowinto;40
 blownaway;60
@@ -7248,7 +7250,9 @@ blowsoff;50
 blowson;40
 blowsonesownhorn;50
 blowssmoke;50
+blowsthelead;60
 blowsuponesspot;60
+blowthelead;60
 blowthispopsiclestand;60
 blowtorch;50
 blowtorches;50
