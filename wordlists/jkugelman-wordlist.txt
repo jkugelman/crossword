@@ -164,6 +164,7 @@ abie;20
 abientot;40;French "see you soon"
 abigailfillmore;50
 abigails;30;Plural name
+abigfuckyou;10
 abillion;40
 abintra;30;From within: Lat.
 abit;50
@@ -1340,6 +1341,7 @@ aintshesweet;60
 aintso;50
 aintthatacryingshame;60
 aintthatashame;60
+aintthatsomeshit;10
 aintthatthetruth;60
 air;50
 airace;30;Legit synonym of flying ace
@@ -5931,6 +5933,7 @@ bearout;50
 bearpit;50
 bearpits;50
 bearsfruit;50
+bearshit;10
 bearson;40
 bearsout;40
 bearspray;50
@@ -8663,6 +8666,9 @@ bulls;50
 bullsession;60
 bullsessions;60
 bullshit;10
+bullshitartist;10
+bullshitartists;10
+bullshitdetector;10
 bullshitter;10
 bullshitters;10
 bullyforher;60
@@ -12605,6 +12611,7 @@ compere;20
 compered;20
 comperes;20
 completebreakfast;50
+completebullshit;10
 completedpasses;50
 completenightmare;60
 completepackage;60;All-in-one deal
@@ -13502,6 +13509,8 @@ crapsgame;50
 crapsgames;50
 crapstable;50
 crapstables;50
+crapton;60
+craptons;60
 crashdiet;60
 crashdiets;60
 crashedinto;40
@@ -13751,6 +13760,7 @@ cro;40;Cro Magnon
 croci;30;Crocuses
 crocket;20;Gothic decorative element
 crockets;20
+crockofshit;10
 crockpot;60
 crockpots;60
 crocodiledundee;50
@@ -15798,6 +15808,7 @@ didlaps;50
 didlunch;50
 didnot;40;Playground retort
 didntclick;60
+didntgiveafuck;10
 didnthave;20
 didnthaveaprayer;50
 didnthavetime;50
@@ -16473,6 +16484,7 @@ doeslaps;50
 doeslunch;50
 doesnot;40;Playground retort
 doesntgiveaflip;60
+doesntgiveafuck;10
 doesnthaveaprayer;50
 doesnthavetime;50
 doesntholdwater;60
@@ -16805,6 +16817,9 @@ dontgetmestarted;60
 dontgetthewrongidea;60
 dontgettoocomfortable;60
 dontgetup;60
+dontgiveafuck;10
+dontgiveafuckattitude;10
+dontgiveafuckattitudes;10
 dontgiveup;60
 donthate;50
 donthaveaprayer;50
@@ -23069,6 +23084,7 @@ ftype;40
 ftypes;40
 fubsy;30;Short and fat: Br.
 fubu;40;Fashion brand
+fuckable;10
 fuckall;10
 fuckboi;10
 fuckbois;10
@@ -23076,8 +23092,26 @@ fuckboy;10
 fuckboys;10
 fuckbuddies;10
 fuckbuddy;10
+fuckedover;10
+fuckedup;10
+fuckedwith;10
+fuckingover;10
+fuckingup;10
+fuckingwith;10
+fuckmarrykill;10
 fuckmeboots;10
 fuckmeshoes;10
+fuckover;10
+fucksover;10
+fucksup;10
+fuckswith;10
+fuckthat;10
+fuckthatguy;10
+fuckthis;10
+fuckton;10
+fucktons;10
+fuckup;10
+fuckwith;10
 fuddy;40;Fuddy duddy
 fuddyduddies;60
 fuddyduddy;60
@@ -23672,6 +23706,7 @@ gavetherunaround;60
 gavethesilenttreatment;60
 gaveway;50
 gavewayto;40
+gavezerofucks;10
 gavinnewsom;50;California governor Gavin Newsom
 gawainsword;60;Recurring sketch on the PBS kids' show "Between the Lions" that parodied a famous SNL sketch
 gawande;40;Surgeon-writer Atul Gawande
@@ -24058,6 +24093,7 @@ geton;40
 getonboard;50
 getonesgoat;60
 getoneshouseinorder;60
+getonesshittogether;10
 getonto;40
 getoutalive;60
 getoutofajam;60
@@ -24133,6 +24169,7 @@ getsonboard;50
 getsonesgoat;60
 getsoneshouseinorder;60
 getsonesmittson;60
+getsonesshittogether;10
 getsonit;50
 getsonto;40
 getsore;40
@@ -24232,6 +24269,7 @@ gettingon;40
 gettingonboard;50
 gettingonesgoat;60
 gettingoneshouseinorder;60
+gettingonesshittogether;10
 gettingonto;40
 gettingoutalive;60
 gettingoutofajam;60
@@ -24489,6 +24527,7 @@ givemeonereason;60
 givemesomespace;60
 giventhegreenlight;60
 givento;40
+givenzerofucks;10
 givesahand;50
 givesairto;40
 givesalift;50
@@ -24503,6 +24542,7 @@ givestherunaround;60
 givesthesilenttreatment;60
 givesway;50
 giveswayto;40
+giveszerofucks;10
 givethegreenlight;60
 givetherunaround;60
 givethesilenttreatment;60
@@ -24510,6 +24550,7 @@ giveuporareyouthirstyformore;60
 giveway;50
 givewayto;40
 giveyouoneguess;60
+givezerofucks;10
 givingahand;50
 givingairto;40
 givingalift;50
@@ -24524,6 +24565,7 @@ givingtherunaround;60
 givingthesilenttreatment;60
 givingway;50
 givingwayto;40
+givingzerofucks;10
 gizmo;60
 gizmos;60
 glace;30;Candied
@@ -25440,6 +25482,7 @@ gotojail;60;Monopoly square
 goton;40
 gotonboard;50
 gotonesgoat;60
+gotonesshittogether;10
 gotonto;40
 gotoofar;60
 gotos;50
@@ -27801,6 +27844,7 @@ hifistereo;40
 hifistereos;40
 hifisystem;40
 highasakite;60
+highasfuck;10
 highc;40
 highchurch;50
 highconcept;60
@@ -31930,6 +31974,7 @@ jackofwands;60;Tarot card
 jackolantern;60
 jackrussell;50
 jackrussells;50
+jackshit;10
 jacksonms;40
 jacksoo;50
 jackthegiantslayer;50;Movie
@@ -42487,7 +42532,9 @@ nothingissetinstone;60
 nothingmore;50
 nothingnew;50
 nothingssetinstone;60
+nothingtofuckwith;10
 nothingtoseehere;60
+nothintofuckwith;10
 noti;40
 noticeboard;60
 noticeboards;60
@@ -43311,6 +43358,7 @@ ohenryesque;50
 ohfine;60
 ohforcryingoutloud;60
 ohforheavenssake;60
+ohfuck;10
 ohfudge;60
 ohfun;60
 ohgeez;60
@@ -56756,13 +56804,25 @@ shirtstuds;50
 shishabar;30
 shishabars;30
 shiso;30;Sushi garnish
+shitbag;10
 shitcanned;10
 shitcanning;10
 shitcans;10
+shitjustgotreal;10
 shitlist;10
 shitpost;10
 shitposting;10
 shitposts;10
+shitshow;10
+shitshows;10
+shitsthebed;10
+shittalk;10
+shittalked;10
+shittalking;10
+shittalks;10
+shitthebed;10
+shittiness;10
+shittingthebed;10
 shiv;50
 shiverer;30
 shiverers;30
@@ -56857,6 +56917,7 @@ shootingranges;50
 shootingskeet;50
 shootingstar;50
 shootingstars;50
+shootingtheshit;10
 shootoff;50
 shootpool;50
 shootsat;40
@@ -56868,6 +56929,8 @@ shootskeet;50
 shootsoff;50
 shootspool;50
 shootsskeet;50
+shootstheshit;10
+shoottheshit;10
 shootyourshot;60
 shootyourshotplaya;60
 shootyourshotplayer;60
@@ -56948,6 +57011,8 @@ shotskeet;50
 shotsofespresso;50
 shotsoftequila;50
 shotsofwhiskey;50
+shottheshit;10
+shottoshit;10
 shoulderbrace;50
 shoulderbraces;50
 shoulderinjuries;50
@@ -62740,6 +62805,7 @@ talkedback;50
 talkedbackto;40
 talkedinto;40
 talkedon;30
+talkedshit;10
 talkedshop;60
 talkedto;40
 talkedupastorm;60
@@ -62752,6 +62818,7 @@ talkingpig;50
 talkingpigs;50
 talkingpoint;60
 talkingpoints;60
+talkingshit;10
 talkingshop;60
 talkingstage;60;Early dating stage
 talkingto;50
@@ -62764,10 +62831,12 @@ talkon;30
 talksat;40
 talksback;50
 talksbackto;40
+talkshit;10
 talkshop;60
 talksinto;40
 talkson;30
 talksoon;60
+talksshit;10
 talksshop;60
 talksto;40
 talksupastorm;60
@@ -64786,6 +64855,7 @@ theshapeofmeandotherstuff;50;Dr. Seuss book
 theshining;60
 theshipoftheseus;60
 theshire;30
+theshit;10
 theshootist;50
 theshowmustgoon;60
 thesiciliandefence;30;???
@@ -66356,6 +66426,7 @@ tossinthediscardpile;50
 tossitinthediscardpile;50
 tossto;40
 tot;50
+totalbullshit;10
 totaledup;40
 totaledupto;40
 totalhorrowshow;60
@@ -68163,6 +68234,7 @@ unfitted;40
 unfocussed;20
 unfriendlily;30;Weird adverb
 unfrozencavemanlawyer;60
+unfuckwithable;10
 ungava;30;Canadian district, gin
 unger;40
 ungird;40;Release or take off, like armor
@@ -68805,6 +68877,7 @@ utne;30;Eric who founded "the best of the alternative press" in 1984 [common]
 uto;20
 utricle;30;Inner ear organ
 utrillo;30;Parisian painter Maurice Utrillo
+utterbullshit;10
 utterer;50
 utterers;50
 utterfool;50
@@ -70721,6 +70794,8 @@ whatsyourexcuse;60
 whatsyourmalfunction;60
 whatsyourproblem;60
 whatthe;60
+whattheactualfuck;10
+whatthefuck;10
 whatthehey;60
 whatwasithinking;60
 whatwasthatfor;60
@@ -70898,6 +70973,10 @@ wholovesya;60
 whomakesthisstuff;60
 whoomp;40;1993 song "Whoomp! There It Is"
 whoopdedo;60
+whoopdeefuckindoo;10
+whoopdeefuckingdoo;10
+whoopdefuckindo;10
+whoopdefuckingdo;10
 whooper;30
 whoopers;30
 whoopie;50
@@ -72219,6 +72298,7 @@ yinzer;60
 yinzers;60
 yip;50
 yipes;50
+yippeekiyaymotherfucker;10
 yippy;50
 yknow;40
 ylangylang;40;Tropical tree
@@ -72403,6 +72483,7 @@ youllmanage;60
 youllnevertakemealive;60
 youllregretthis;60
 youlookgoodenoughtoeat;60
+youlooklikeshit;10
 youlookpleasedwithyourself;60
 youlose;50
 youlostme;60
