@@ -24073,7 +24073,7 @@ getcute;60
 getdark;30
 getdirton;50
 getdowntobrasstacks;60
-getem;30
+getem;50
 geterdone;50
 getfat;10
 getfired;60
@@ -24859,6 +24859,8 @@ godwit;30;Bird
 godwits;30
 godzillaxkong;60
 godzillaxkongthenewempire;50
+goer;30
+goers;30
 goesallin;50
 goesallout;50
 goesape;50
@@ -25814,8 +25816,8 @@ greatsaltlakedesert;60
 greatshot;50
 greatstuff;60
 grebdlogipoohw;0
-grebe;20
-grebes;20
+grebe;30;Diving bird
+grebes;30
 grecianurn;50
 greco;40
 grecoroman;60
@@ -25974,6 +25976,8 @@ groanat;40
 groanedat;40
 groaningat;40
 groansat;40
+groat;40
+groats;40
 grocerycart;50
 grocerycarts;50
 grocerychain;50
@@ -26186,8 +26190,8 @@ guitarlele;40;Hybrid instrument
 guitarriff;60
 guitarriffs;60
 gujarat;30;Indian state
-gulab;30;Indian dessert
-gulabjamun;30
+gulab;40;Indian dessert gulab jamun
+gulabjamun;50;Indian dessert gulab jamun
 gulager;30;Actor Clu Gulager
 gulfofamerica;60
 gulfofmexico;60
