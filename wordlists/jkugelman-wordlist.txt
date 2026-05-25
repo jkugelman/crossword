@@ -3052,7 +3052,7 @@ apothem;30;Geometry word
 apothems;30
 apotropaic;30;Protective magic
 app;50
-appa;20;Dad: Kor.
+appa;30;Dad: Kor.
 appal;20;Variant spelling
 appanage;20;Gift of land, archaic
 appealedto;40
@@ -7000,6 +7000,7 @@ blackjackdealer;60
 blackjackdealers;60
 blackjackplayer;60
 blackjackplayers;60
+blackkcalb;0
 blacklight;60
 blacklights;60
 blacklighttattoo;60
@@ -14420,9 +14421,11 @@ dailymix;60;Spotify playlist
 dailymixes;60
 dailynews;50
 dailyshow;50
+dailyyliad;0
 dairycase;50
 dairycases;50
 dairycooler;50
+dairydiary;0
 dairymaid;50
 dairymaids;50
 daiso;20;???
@@ -18036,6 +18039,7 @@ easedupto;40
 easein;40
 easeinto;40
 easeled;30
+easellease;0
 easeout;40
 easer;40
 easers;40
@@ -19108,6 +19112,7 @@ endedin;40
 endedon;40
 endedupat;40
 endedupontop;50
+endedupupended;0
 endedwith;40
 endemism;30;Biology word
 endersgame;60
@@ -22091,6 +22096,7 @@ flitsin;40
 flittedin;40
 flittingin;40
 flo;50
+floataloft;0
 floatanote;50
 floataway;50
 floatedaway;50
@@ -25807,6 +25813,7 @@ greateagles;60
 greaten;30
 greatestgeneration;60
 greatfallsmt;30
+greatgrate;0
 greatidea;60
 greatlake;60
 greatlakes;60
@@ -26047,6 +26054,7 @@ growledat;40
 growlingat;40
 growlsat;40
 grownupon;40
+grownwrong;0
 growoldtogether;60
 growon;40
 growsdim;30
@@ -35273,6 +35281,7 @@ levulose;30;Fructose
 levuloses;30
 levyashin;40;Lev Yashin, soccer great, only goalkeeper to win a Ballon d'Or
 lew;30;Various men, not very notable
+lewderwelder;0
 lewzealand;50;Muppet
 lex;50
 lexan;20;Type of plastic
@@ -43303,6 +43312,7 @@ offerors;30
 offeryoucantrefuse;60
 offgame;50
 offgames;50
+offhandhandoff;0
 officedog;60
 officedogs;60
 officer;50
@@ -44106,6 +44116,7 @@ oneunit;40
 oneupon;40
 onevolt;40
 onewatt;40
+onewayyaweno;0
 onewoman;30
 onewood;40
 oneyear;40
@@ -47622,6 +47633,7 @@ planckconstant;60
 plancksconstant;60
 planefigure;50
 planefigures;50
+planepanel;0
 planer;30
 planers;30
 planetaria;50
@@ -49720,6 +49732,7 @@ puntson;40
 punxsutawneyphil;60
 pup;50
 pupae;40
+pupilsslipup;0
 puppeteer;50
 puppeteered;50
 puppeteering;50
@@ -51585,6 +51598,7 @@ reekof;40
 reekofdesperation;60
 reeksof;40
 reeksofdesperation;60
+reekykeyer;0
 reelbigfish;60
 reeledin;40
 reeledout;40
@@ -51660,6 +51674,7 @@ reg;40
 regaler;40
 regalers;40
 regaleus;60
+regallager;0
 reganandgoneril;20
 regave;30
 regeneracy;40
@@ -58076,6 +58091,7 @@ sleek;50
 sleeked;40
 sleeking;40
 sleekit;30;???
+sleekkeels;0
 sleeks;40
 sleepapnea;60
 sleeparound;50
@@ -60860,6 +60876,7 @@ stickhorses;50
 stickingitto;40
 stickingittotheman;60
 stickingon;40
+stickingonesneckout;60
 stickingonesnosein;60
 stickingto;40
 stickingtothescript;60
@@ -60871,6 +60888,7 @@ stickittotheman;60
 stickle;40
 stickofgum;50
 stickon;40
+stickonesneckout;60
 stickonesnosein;60
 sticksandstones;60
 sticksandstonesmaybreakmybones;60
@@ -60880,6 +60898,7 @@ sticksitto;40
 sticksittotheman;60
 sticksofgum;50
 stickson;40
+sticksonesneckout;60
 sticksonesnosein;60
 sticksto;40
 stickstothescript;60
@@ -61202,6 +61221,7 @@ straincredulity;60
 strainedat;40
 strainingat;40
 strainsat;40
+straitartist;0
 straiten;30
 straitened;30
 straitening;30
@@ -61439,6 +61459,7 @@ stubthumb;50;Genetic trait with one short, wide thumb
 stuckitto;40
 stuckittotheman;60
 stuckon;50
+stuckonesneckout;60
 stuckonesnosein;60
 stuckto;40
 stucktothescript;60
@@ -61958,6 +61979,7 @@ superorganism;60
 superorganisms;60
 superpac;60
 superpacs;60
+superpurse;0
 superresponder;60
 superresponders;60
 supersaturday;60;Last Saturday before Christmas, big retail day
@@ -62668,6 +62690,7 @@ takeonme;60;A-ha song
 takeorders;50
 takeout;50
 takeoutjoint;60
+takeoutouttake;0
 takeoutplace;50
 takeouts;30;Plural?
 takeovertargets;50
@@ -63183,6 +63206,7 @@ tati;40;Director Jacques Tati (he's notable!)
 tatler;30;British magazine
 tatooine;60;Luke Skywalker's home planet
 tats;50
+tattarrattat;0
 tatterdemalion;60
 tatterdemalions;60
 tatting;40;Lace crafting technique
@@ -66888,6 +66912,7 @@ treadon;40
 treadonthinice;60
 treadson;40
 treadsonthinice;60
+treadtrade;0
 treasons;40
 treasurechest;60
 treasurechests;60
@@ -67882,6 +67907,7 @@ twoyear;40
 twoyears;40
 twoyearterm;50
 twoyearterms;50
+twozerozerotwo;0
 twp;20;Township
 twps;20;Townships
 twyla;40
@@ -69038,6 +69064,7 @@ vanity;50
 vanitycard;50
 vanitycards;50
 vanityfair;60
+vanityytinav;0
 vanlife;60
 vanmccoy;50
 vanya;40;Chekhov's "Uncle Vanya"
