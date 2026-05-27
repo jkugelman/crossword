@@ -8145,6 +8145,8 @@ breadcrumbs;60
 breadpan;50
 breadwinner;60
 breadwinners;60
+breakabad;60
+breakbad;60
 breakbread;60
 breakbreadwith;50
 breakcharacter;60
@@ -8157,6 +8159,7 @@ breakfastitem;50
 breakfastitems;50
 breakfastsandwich;60
 breakfastsandwiches;60
+breakinfbad;60
 breakingbread;60
 breakingbreadwith;50
 breakingcharacter;60
@@ -8386,6 +8389,7 @@ brokeringadeal;60
 brokersadeal;60
 brokeuptheband;60
 broking;40
+brokwbad;60
 brollies;40;Umbrellas: Brit.
 brolly;40;Umbrella: Brit.
 bromance;60
@@ -14503,6 +14507,7 @@ dancestothemusic;50
 dancesupastorm;60
 danceteam;50
 danceteams;50
+dancethe;0
 dancetothemusic;50
 danceupastorm;60
 dancewithdragons;60;A Song of Ice and Fire book #5, with "A"
@@ -17936,6 +17941,7 @@ dystopiannovels;60
 dystopias;50
 dystopic;50
 e;40
+eachcluein;0
 eachoneteachone;60;African proverb
 eagerer;40;Valid, but more eager is better
 eagerest;40;Valid, but most eager is better
@@ -18231,6 +18237,7 @@ ecafhtron;0
 ecard;40
 ecards;40
 ecarte;30;French card game
+ecartes;20;Plural French card game
 ecash;30
 ecce;40
 eccehomo;50;Pilate's "Behold the man"
@@ -29266,6 +29273,7 @@ icantwait;60
 icantwin;60
 icantwinwithyou;60
 icanwait;60
+icarizonarepubl;0
 icarly;50
 icbm;40
 icbms;40
@@ -30555,6 +30563,7 @@ indyamoore;50;Trans icon Indya Moore
 indycar;60
 indycars;60
 ine;30;Suffix or key signature [extremely common]
+ineachclue;0
 inebriety;40
 inecstasy;50
 ineedadrink;60
@@ -33909,6 +33918,7 @@ lacustrine;30;Lake-related
 lad;50
 ladadog;30;Albert Payson Terhune novel
 ladanum;30;Herbal resin
+ladarmorc;0
 ladd;40
 ladiesman;60
 ladiesmen;60
@@ -33929,6 +33939,7 @@ ladrone;30;Highwayman
 ladrones;30
 ladrons;30
 ladsuperbow;0
+ladtacosa;0
 laduke;30;Nader's running mate Winona LaDuke
 ladyboner;10
 ladyboners;10
@@ -38894,6 +38905,8 @@ mephistowaltzes;60
 mephitis;30;Skunk genus
 mer;40
 merc;40
+mercado;40
+mercados;40
 merchtent;60
 mercs;40
 mercuric;40;Containing mercury, like a thermometer
@@ -53048,6 +53061,7 @@ ringsides;50
 ringsin;40
 ringsize;60
 ringsizes;50
+ringsthe;0
 ringstrue;60
 ringtoe;50
 ringtoes;50
@@ -64832,6 +64846,7 @@ thereal;0
 therealhousewives;60
 therealreal;60;Luxury goods marketplace The RealReal
 therear;30
+thereare;0
 thereareplentyoffishinthesea;60
 thereat;40
 therecord;20
