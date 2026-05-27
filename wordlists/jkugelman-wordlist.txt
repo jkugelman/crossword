@@ -4516,6 +4516,10 @@ autogyro;40
 autoindustry;60
 autolite;40;Auto parts brand
 automata;50
+automatichandgun;50
+automatichandguns;50
+automaticpistol;50
+automaticpistols;50
 automaticweapon;50
 automaton;50
 automatons;50
@@ -11072,6 +11076,7 @@ chickenskewer;50
 chickenskewers;50
 chickensout;60
 chickentendies;60
+chickenveik;0
 chickmagnet;60
 chickmagnets;60
 chicks;50
@@ -12812,6 +12817,7 @@ consortswith;40
 consortwith;40
 conspiracyboard;60
 conspiracyboards;60
+conspiratolair;0
 conspirito;50
 constitutionstate;50
 constructivecriticism;50
@@ -21205,8 +21211,10 @@ feelsundertheweather;60
 feelsupto;50
 feelsuptoit;60
 feeltenfeettall;60
+feelthebern;60;Bernie Sanders political slogan
 feeltheburn;60
 feelthelove;60
+feelthenreb;0
 feelthirsty;50
 feelundertheweather;60
 feelupto;50
@@ -28135,6 +28143,7 @@ hitsthestreets;60
 hitsthetop;20
 hitter;50
 hitters;50
+hitthefoor;0
 hitthepavement;60
 hittheroadjack;60
 hitthescene;60
@@ -56037,6 +56046,10 @@ sememes;20
 semestersabroad;50
 semestral;40
 semestrial;40
+semiautomatichandgun;50
+semiautomatichandguns;50
+semiautomaticpistol;50
+semiautomaticpistols;50
 semibreve;50
 semibreves;50
 semiramis;30;Assyrian legend
