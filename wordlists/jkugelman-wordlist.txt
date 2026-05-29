@@ -42698,6 +42698,7 @@ notus;50
 notuse;0
 notv;30
 notwar;20
+notwasteprecioustime;60
 notwell;0
 notwith;40
 notworthahillofbeans;60
@@ -70144,6 +70145,7 @@ wastemanagement;50
 wastenotime;60
 wasteofspace;60
 wasteoftime;60
+wasteprecioustime;60
 waster;40
 wasters;40
 wastesnotime;60
