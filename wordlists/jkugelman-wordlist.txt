@@ -1009,6 +1009,8 @@ afc;20
 afceast;40
 afcnorth;40
 afcsouth;40
+afcteam;40
+afcteams;40
 afcwest;40
 afeared;30
 afeastforcrows;60;A Song of Ice and Fire book #4
@@ -41785,6 +41787,7 @@ nfceast;40
 nfcnorth;40
 nfcsouth;40
 nfcteam;40
+nfcteams;40
 nfcwest;40
 nfl;50
 nflcheerleader;60
