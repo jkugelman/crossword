@@ -37219,10 +37219,10 @@ madrilenas;40
 madrilene;40
 madrileno;40;Madrid resident
 madrilenos;40
-madrona;20;Tree
-madronas;20;Trees
-madrone;20;Tree
-madrones;20;Trees
+madrona;20;Tree, variant spelling
+madronas;20;Trees, variant spelling
+madrone;40;Tree
+madrones;40;Trees
 mads;40;Actor Mads Mikkelsen
 madscientist;60
 madscientists;60
@@ -37415,11 +37415,14 @@ majorityleaders;50
 majorkey;50
 majorlabel;50
 majorlabels;50
-majorleague;50
-majorleaguegame;30
+majorleague;60
+majorleaguebaseball;60
+majorleaguegame;60
+majorleaguegames;60
+majoroperation;50
 majoroperations;50
-majorplayer;50
-majorplayers;50
+majorplayer;60
+majorplayers;60
 majorplottwist;60
 majorplottwists;60
 majorprophet;50
@@ -37464,7 +37467,7 @@ makeauey;40
 makeauie;40
 makeaware;50
 makeawishfoundation;60
-makeba;30
+makeba;40;Miriam Makeba, South African singer a.k.a. Mama Africa
 makebail;50
 makebelieve;60
 makebiscuits;60;Knead, like a cat
@@ -37664,8 +37667,8 @@ malariafree;50;WHO designation
 malarias;0
 malathion;40;Pesticide
 malayalam;30;South Indian language
-malbec;30;Wine grape
-malbecs;30;Wine grapes
+malbec;40;Wine grape
+malbecs;40;Wine grapes
 malcolmgladwell;60
 malcolmjamalwarner;50
 maldemer;40;Mal de mer, seasickness
@@ -37712,6 +37715,7 @@ maltster;40;Malt maker for brewing
 maltsters;40
 malvolio;40;"Twelfth Night" character
 mam;20
+mamaafrica;60;Miriam Makeba, South African singer a.k.a. Mama Africa
 mamabear;60
 mamabears;60
 mamabird;50
@@ -37821,7 +37825,7 @@ manohman;60
 manolete;40;Spanish bullfighter in the early 1900s
 manometer;40;Pressure gauge
 manometers;40
-manon;30;Massenet opera
+manon;40;Soccer warning "Man on!", or 1882 Massenet opera Manon
 manonfire;60
 manontheinside;60
 manontherun;50
@@ -37885,8 +37889,8 @@ maoii;30;Don DeLillo novel
 maojacket;50
 maojackets;50
 maoris;40;Maori is preferred
-maosuit;30
-maosuits;30
+maosuit;50
+maosuits;50
 maotai;30;Chinese liquor
 maotse;40
 maotsetung;50
@@ -38340,7 +38344,7 @@ maundy;40
 maupin;30;Novelist
 maura;40;Maura Tierney of "E.R."
 maurys;30;Plural name
-maus;30
+maus;40;Graphic novel Maus
 mauser;30;German firearm
 mausolea;30
 mav;40
@@ -38777,7 +38781,7 @@ mehearties;60
 mehmetozmd;40
 mehndi;40;Henna tattoo
 mehta;30;Conductor Zubin ___
-mei;20
+mei;30
 meiji;30;Japanese emperor
 meioses;30
 meiotic;30
@@ -39268,8 +39272,9 @@ mightijustadd;60
 mightmakesright;60
 mights;40;Bad plural
 mightyfine;60
-mii;20
+mii;30;Nintendo avatar
 miii;20
+miis;30;Nintendo avatars
 mika;40
 mikados;30;Japanese emperors
 mikan;40;George Mikan of the NBA
@@ -39528,6 +39533,7 @@ miramar;40;San Diego or Miami suburb
 miranair;40;Filmmaker Mira Nair
 mireddown;40
 miredin;40
+miriammakeba;50;Miriam Makeba, South African singer a.k.a. Mama Africa
 mirier;30
 miriest;30
 mirin;40
@@ -39702,7 +39708,7 @@ mlkjr;60
 mlkjrblvd;60
 mlle;40
 mlles;40
-mls;20
+mls;40;Major League Soccer
 mlsdraft;50
 mlsteam;30
 mlsteams;30
@@ -39855,7 +39861,7 @@ moes;50;Moe's Tavern, or Moe's Southwest Grill
 moestavern;60
 moeszyslak;50;Springfield bartender
 moet;40;Champagne
-mofongo;30;Puerto Rican plantain dish
+mofongo;40;Puerto Rican plantain dish
 mog;20
 mogambo;40;Clark Gable / Ava Gardner epic (1953)
 mohairsuit;50
@@ -40256,8 +40262,8 @@ mosul;40;Second largest city in Iraq
 mot;40
 mota;20
 motecontrol;0
-motet;30;Short piece of sacred choral music
-motets;30
+motet;40;Short piece of sacred choral music
+motets;40;Short pieces of sacred choral music
 mothball;60
 mothballed;60
 mothballing;60
@@ -40312,7 +40318,7 @@ motorspeedway;50
 motorspeedways;50
 mots;40
 mott;40;Apple sauce co., or Mott the Hoople
-mottoes;20;Less common spelling
+mottoes;40;Valid alternative to mottos
 mottst;30;Chinatown's main street in NYC
 mou;20
 moucado;20;16th century fabric
@@ -40532,7 +40538,7 @@ mstar;20
 mstars;20
 msthang;60
 msthing;60
-msu;20
+msu;30
 mswati;30;King Mswati of Swwatini
 mt;40
 mta;40
