@@ -19824,9 +19824,10 @@ esign;40
 esigned;40
 esigning;40
 esigns;40
-esim;40
-esimcard;50
-esimcards;50
+esim;40;Digital SIM card
+esimcard;50;Digital SIM card
+esimcards;50;Digital SIM cards
+esims;40;Digital SIM cards
 esiotrot;0
 esk;20
 esl;40
