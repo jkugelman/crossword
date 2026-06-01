@@ -1005,7 +1005,7 @@ afarcry;50
 afatlot;50
 afatlotofgood;60
 afb;20
-afc;20
+afc;40
 afceast;40
 afcnorth;40
 afcsouth;40
@@ -41224,7 +41224,7 @@ navalfleets;50
 navalny;40
 navalship;50
 navalships;50
-navarre;20
+navarre;30;Pamplona's province
 navbar;50;Set of links at the top of a wepage to direct users, portmanteau of "navigation" and "bar"
 navbars;50
 navelring;50
@@ -41324,7 +41324,8 @@ ncc;20
 ncis;40
 ncisla;40
 nckel;0
-nco;20
+nco;40;Non-commissioned officer
+ncos;40;Non-commissioned officers
 ncr;20
 ncstate;40
 ncwyeth;30;Illustrator
@@ -41452,7 +41453,7 @@ negawatthour;60;Unit of energy *saved* due to conservation
 negawatthours;60
 negawatts;60
 negeb;20;Region of Israel: Var.
-negev;20
+negev;40;Israeli desert
 negga;30;Actress Ruth Negga
 negotiatrix;30
 negris;20;???
@@ -41808,7 +41809,7 @@ nexxus;40;Shampoo brand
 ney;20
 neyo;40;Ne-Yo, three-time Grammy winning singer [occasional]
 nez;20
-nfc;20
+nfc;40
 nfceast;40
 nfcnorth;40
 nfcsouth;40
@@ -42107,8 +42108,8 @@ niqabs;30
 niro;40;Robert de ___
 nirvana;60
 nis;20
-nisei;20
-niseis;20
+nisei;30;American-born Japanese
+niseis;30;American-born Japanese
 nissanz;40
 nissen;30;???
 nissenhuts;20
@@ -42146,7 +42147,7 @@ nitrocars;50
 nitrogendioxide;30
 nitrogenoxide;30
 nitrousacid;30
-nitrousoxide;30
+nitrousoxide;60;Laughing gas
 nitti;30
 nittygritty;60
 nivea;40;Skin care brand
@@ -42166,7 +42167,8 @@ nlwest;50;N.L. West
 nmi;20
 nne;30
 nnedi;40;Hugo/Nebula award winning writer Nnedi Okorafor
-nneka;30;Nigerian singer
+nneka;40;Nneka Ogwumike of the L.A. Sparks (WNBA MVP 2016), or a Nigerian singer
+nnekaogwumike;50;Nneka Ogwumike of the L.A. Sparks (WNBA MVP 2016)
 nnw;30
 no;50
 noa;20
@@ -42227,7 +42229,7 @@ nodear;50
 nodehportsuob;0
 nodice;60
 nodillydallying;60
-nodisc;20;???
+nodisc;30
 nodoubtaboutit;60
 nodout;40;After drug use
 nodoz;40
@@ -42244,7 +42246,7 @@ noelle;40;Clued twice as "festive-sounding girl's name"
 noem;20;South Dakota governor Kristi Noem
 noend;40
 noentrance;50
-noes;20
+noes;50;Standard plural of no
 noesis;30
 noetic;30;Relating to the intellect
 noevil;40;Clueable in reference to the monkeys, but really a partial
@@ -42354,9 +42356,9 @@ nonegos;40
 noneof;20
 noneofthisistrue;60
 nonesuches;40
-nonet;20
+nonet;40
 nonetoosoon;60
-nonets;20
+nonets;40
 nonewsisgoodnews;60
 nonfee;40
 nonjudgemental;60
@@ -42393,8 +42395,10 @@ nonuplet;40
 nonuplets;40
 nonzeroamount;60
 nonzerochance;60
-noodge;30;Pest
-noodges;30
+noodge;40;Pester: Yiddish
+noodged;40;Pestered: Yiddish
+noodges;40;Pesters: Yiddish
+noodging;40;Pestering: Yiddish
 noodlebar;60
 noodlebars;60
 noodlebowl;50
@@ -43462,6 +43466,7 @@ ogo;20
 ogress;30
 ogresses;30
 ogs;40;Rap pioneers [debuted 2024]
+ogwumike;40;Nneka Ogwumike of the L.A. Sparks (WNBA MVP 2016)
 oh;50
 ohairs;20
 ohana;40;Hawaiian for family
