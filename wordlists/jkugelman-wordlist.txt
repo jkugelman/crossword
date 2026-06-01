@@ -29533,6 +29533,8 @@ idk;40
 idknow;60
 idlabel;40
 idlabels;40
+idleanimation;60;Shown when a video game character isn't moving
+idleanimations;60;Shown when a video game character isn't moving
 idleaway;30
 idledaway;30
 idlegame;60
@@ -55062,6 +55064,7 @@ sawland;50
 sawmill;50
 sawmills;50
 sawn;30
+sawover;30
 sawreason;50
 sawsense;60
 sawset;30
@@ -55832,6 +55835,7 @@ seeingfitto;40
 seeingin;40
 seeinginto;40
 seeingland;50
+seeingover;30
 seeingred;50
 seeings;30;Weird plural
 seeingsense;60
@@ -55860,11 +55864,12 @@ seenin;40
 seeninto;30
 seenitall;50
 seenoevil;60
-seenover;40
+seenover;30
 seenred;30
 seensay;30
 seensays;30
 seento;40
+seeover;30
 seepage;30
 seepages;40
 seepedin;40
