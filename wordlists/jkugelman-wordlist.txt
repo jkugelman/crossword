@@ -9981,8 +9981,8 @@ carvingfork;50
 carvingforks;50
 carvingknife;50
 carvingknives;50
-carvingstation;50
-carvingstations;50
+carvingstation;60
+carvingstations;60
 caryatid;30;Greek female sculpture serving as a column
 caryatids;30;Greek female sculptures serving as columns
 cas;20
@@ -15110,8 +15110,12 @@ dee;50
 deeded;50
 deeding;30
 deeelite;50
+deemedok;30;Deemed OK
 deemer;30
 deemers;30
+deemingok;30;Deeming OK
+deemok;30;Deem OK
+deemsok;30;Deems OK
 deepak;50
 deepbluesea;60
 deepbreath;60
@@ -38015,6 +38019,8 @@ marioparty;60
 marios;30
 marisatomei;60
 marist;40;Private New York college
+maritalstatus;50
+maritalstatuses;50
 marjoe;20;Preacher Gortner
 markcuban;50
 markergene;50
@@ -42508,6 +42514,8 @@ northpaw;60
 norths;30
 northstar;50
 northstarstate;50
+northwestpassage;60
+nortwestpassage;0
 norun;20
 noruns;20
 norush;60
