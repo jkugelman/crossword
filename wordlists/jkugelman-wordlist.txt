@@ -26790,6 +26790,8 @@ hangintheair;60
 hangman;60
 hangon;50
 hangonaminute;60
+hangonasec;60
+hangonasecond;60
 hangonbeforeyouanswer;60
 hangonbeforeyourushtojudgment;60
 hangonbeforeyousayanything;60
@@ -28313,6 +28315,8 @@ holdsvigil;50
 holdthatthought;60
 holdto;40
 holdup;60
+holdupasec;60
+holdupasecond;60
 holdvigil;50
 hole;50
 holea;20
@@ -69921,6 +69925,8 @@ waikikibeach;50
 waimea;40;Hawaiian valley
 waitabit;50
 waitadarnminute;60
+waitasec;60
+waitasecond;60
 waite;30;Various people, not super notable
 waitedabit;50
 waitedfor;40
