@@ -13492,6 +13492,7 @@ crabwalked;50
 crabwalking;50
 crabwalks;50
 crack;50
+crackalackin;60
 crackandpeel;50
 crackedandpeeled;50
 crackedthecase;60
@@ -30517,10 +30518,12 @@ incurving;40
 incus;30;Ear bone (anvil)
 ind;40;Independent or Indiana (or "in D" ugh)
 indaclub;60
+inde;40;Actress Inde Navarrette from "Obsession" (2026)
 indebtto;40
 indeedido;60
 indeedy;60
 indeliblepencil;60
+indenavarrette;50;Actress Inde Navarrette from "Obsession" (2026)
 indenial;50
 indenter;40
 indenters;40
@@ -34115,6 +34118,7 @@ lamina;40;Thin layer
 laminae;40
 laminas;40
 laminto;30;???
+lamisil;30;Antifungal cream
 lammas;30
 lammergeier;40;Bearded vulture
 lammergeiers;40
@@ -36517,8 +36521,10 @@ lostart;60
 lostarts;60
 lostastep;50
 lostat;40
-lostcat;40
-lostcats;40
+lostcat;50
+lostcats;50
+lostdog;50
+lostdogs;50
 lostface;50
 lostgeneration;60
 lostinyonkers;50
@@ -39183,6 +39189,7 @@ micas;30
 miceandmen;0
 mich;40;Michigan
 michaelcaine;60
+michaeljohnston;50;Actor Michael Johnston from "Obsession" (2026)
 michaelpalin;50
 michigander;50
 michiganders;50
@@ -41239,6 +41246,7 @@ navalny;40
 navalship;50
 navalships;50
 navarre;30;Pamplona's province
+navarrette;50;Actress Inde Navarrette from "Obsession" (2026)
 navbar;50;Set of links at the top of a wepage to direct users, portmanteau of "navigation" and "bar"
 navbars;50
 navelring;50
@@ -51200,11 +51208,13 @@ reairs;40
 realdeal;60
 realdeals;50
 realemon;40;Lemon juice brand
+realer;40;More real is more common
 realert;30
 realerted;30
 realerting;30
 realerts;30
 reales;40
+realest;40;Most real is more common
 realestateagent;50
 realfan;60;Supporter not riding the bandwagon
 realfans;60
@@ -51771,6 +51781,8 @@ reflated;30
 reflates;30
 reflating;30
 reflation;30
+reflet;20;Pottery luster
+reflets;20;Pottery lusters
 reflew;20
 reflies;20
 refly;20
