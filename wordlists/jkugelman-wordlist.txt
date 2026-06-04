@@ -43825,7 +43825,7 @@ olein;20
 oleine;20;Vegetable oil component
 oleins;20
 olemiss;50
-oleo;40;Margarine [common]
+oleo;30;Margarine [common]
 oleole;40
 oleooil;40
 oleoresin;40
@@ -43841,6 +43841,8 @@ olinda;30;Brazilian city, UNESCO World Heritage site
 oline;40
 olines;40
 olingo;20
+olio;30;Mishmash [common]
+olios;30;Mishmashes [common]
 olive;50
 olivedrab;50
 oliverhardy;60
@@ -60294,7 +60296,7 @@ sro;40
 srs;40;Seniors [extremely common]
 srsly;40
 srta;40
-srtas;40
+srtas;30
 sry;40
 ssa;40;Social Security Administration
 sscceennee;0
