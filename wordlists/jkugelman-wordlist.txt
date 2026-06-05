@@ -27628,6 +27628,7 @@ helpline;50
 helplines;50
 helpmenu;60
 helpmenus;60
+helpmeunderstand;60
 helpon;40
 helpsin;40
 helpson;40
@@ -37512,6 +37513,7 @@ makelikeatreeandleave;60
 makemad;50
 makemattersworse;60
 makeme;60
+makemeunderstand;60
 makenice;60
 makenoises;50
 makeoff;30
