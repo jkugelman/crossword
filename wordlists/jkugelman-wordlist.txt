@@ -24173,6 +24173,7 @@ getitthroughyourthickskull;60
 getloose;50
 getlost;50
 getmade;60
+getmossed;60;Get dominated by a wide receiver's showy catch, a la Randy Moss
 getnaked;50
 getnear;40
 getoffmycase;60
@@ -24251,6 +24252,7 @@ getsintrouble;50
 getsloshed;50
 getslost;50
 getsmade;60
+getsmossed;60;Gets dominated by a wide receiver's showy catch, a la Randy Moss
 getsnaked;50
 getsnear;40
 getsoffontherightfoot;60
@@ -24352,6 +24354,7 @@ gettingintoit;50
 gettingintotheswingofthings;60
 gettingintrouble;50
 gettingmade;60
+gettingmossed;60;Getting dominated by a wide receiver's showy catch, a la Randy Moss
 gettingnaked;50
 gettingnear;40
 gettingoffontherightfoot;60
@@ -25559,6 +25562,7 @@ gotlost;50
 gotmad;40
 gotmade;60
 gotmilk;60
+gotmossed;60;Got dominated by a wide receiver's showy catch, a la Randy Moss
 gotnaked;50
 gotnear;40
 gotnoshot;50
@@ -40294,9 +40298,11 @@ moseyson;40
 moshe;30;Various Israelis
 moshita;30
 mosley;40
+mossed;50;Dominated by a wide receiver's showy catch, a la Randy Moss / covered in moss
 mosser;30
 mossers;30
 mosses;30
+mossing;50;Getting dominated by a wide receiver's showy catch, a la Randy Moss
 mosso;30;Animated or rapid, in music
 mostcommonly;50
 mostes;20
@@ -44043,6 +44049,7 @@ ond;20
 ondates;30
 onde;20;Wave: Fr.
 ondine;40;2009 Colin Farrell movie
+ondisc;40
 ondope;10
 ondra;40;Adam Ondra
 ondrugs;10
@@ -53845,6 +53852,7 @@ rosining;40
 roslyn;40;Long Island town
 rossano;40;Rossano Brazzi, star of "South Pacific" (1958)
 rosses;30;Plural name
+rosset;30;Entrepreneur Barney Rosset, tennis player Marc Rosset
 rossi;40;Martini & Rossi wine
 rostand;30;Edmond Rostand, "Cyrano de Bergerac" playwright
 rosten;30;Humorist Leo Rosten
