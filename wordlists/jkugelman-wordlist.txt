@@ -29880,6 +29880,7 @@ ilikeyou;60
 iliterallydied;60
 ilium;40;Pelvis bone
 ilk;50
+ilks;40;Weird plural
 ill;50
 illatease;50
 illbeamonkeysuncle;60
@@ -52173,7 +52174,8 @@ rentedto;40
 rentes;20
 rentfreeze;50
 rentfreezes;50
-rentier;40
+rentier;30;Person on fixed income
+rentiers;30;People on fixed income
 rentingaroom;40
 rentingto;40
 rentroll;30
