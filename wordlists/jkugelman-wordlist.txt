@@ -43999,6 +43999,7 @@ onarope;40
 onarun;40
 onaside;40;Per team
 onaslant;30
+onaslowboattochina;60;Taking forever, idiomatically
 onassis;40
 onastar;20
 onastick;40
@@ -55407,6 +55408,9 @@ scoffingat;40
 scoffsat;40
 scolari;40;Peter Scolari of "Bosom Buddies"
 scoleco;20
+scollop;20;Variant of scallop
+scolloped;20;Variant of scalloped
+scollops;20;Variant of scallops
 scooba;20;Discontinued Roomba sibling
 scoobas;20;Discontinued Roomba siblings
 scoochover;60
@@ -58416,7 +58420,8 @@ slowandsteady;60
 slowandsteadywinstherace;60
 slowasmolasses;60
 slowat;40
-slowboattochina;60
+slowboat;40;Part of the phrase "on a slow boat to China" (taking forever)
+slowboattochina;60;Something that's taking forever, idiomatically
 slowburn;60
 slowburns;60
 slowcooked;60
