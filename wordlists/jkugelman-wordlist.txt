@@ -60812,6 +60812,7 @@ stayat;40
 stayconnected;50
 staycool;50
 stayedat;40
+stayedfrosty;60
 stayedinbed;50
 stayedincharacter;60
 stayedinoneslane;60
@@ -60821,10 +60822,12 @@ stayedwarm;50
 stayedwith;40
 stayer;40
 stayers;40
+stayfrosty;60
 stayinbed;50
 stayincharacter;60
 stayingalive;60
 stayingat;40
+stayingfrosty;60
 stayinginbed;50
 stayingincharacter;60
 stayinginoneslane;60
@@ -60840,6 +60843,7 @@ stayovernight;50
 staypuft;60
 staysafe;60
 staysat;40
+staysfrosty;60
 staysinbed;50
 staysincharacter;60
 staysinoneslane;60
